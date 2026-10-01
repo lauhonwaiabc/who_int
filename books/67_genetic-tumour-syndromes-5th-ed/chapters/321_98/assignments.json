@@ -1,0 +1,133 @@
+[
+  {
+    "pkroleId": 202,
+    "bookId": "67",
+    "roleid": 209,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4646,
+        "lastname": "Akkari ",
+        "firstname": "Yassmine",
+        "initials": "",
+        "email": "",
+        "roleid": 209,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 203,
+    "bookId": "67",
+    "roleid": 210,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2173,
+        "lastname": "Cree",
+        "firstname": "Ian A.",
+        "initials": "",
+        "email": "",
+        "roleid": 210,
+        "position": 0
+      },
+      {
+        "contributorid": 2428,
+        "lastname": "Rekhi",
+        "firstname": "Bharat",
+        "initials": "B",
+        "email": "",
+        "roleid": 210,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 204,
+    "bookId": "67",
+    "roleid": 211,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3304,
+        "lastname": "Chevez-Barrios",
+        "firstname": "Patricia",
+        "initials": "",
+        "email": "",
+        "roleid": 211,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 205,
+    "bookId": "67",
+    "roleid": 212,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3307,
+        "lastname": "Bechrakis",
+        "firstname": "Nikolaos E. ",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 3685,
+        "lastname": "Jones",
+        "firstname": "David T.W.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 4089,
+        "lastname": "Ketteler",
+        "firstname": "Petra",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5220,
+        "lastname": "Gallie",
+        "firstname": "Brenda L.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5259,
+        "lastname": "Rojanaporn",
+        "firstname": "Duangnate",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5260,
+        "lastname": "Berry",
+        "firstname": "Jesse L.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5262,
+        "lastname": "Khetan",
+        "firstname": "Vikas",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      }
+    ]
+  }
+]

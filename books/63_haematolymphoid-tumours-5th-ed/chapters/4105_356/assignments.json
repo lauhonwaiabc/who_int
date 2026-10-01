@@ -1,0 +1,133 @@
+[
+  {
+    "pkroleId": 141,
+    "bookId": "63",
+    "roleid": 185,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2188,
+        "lastname": "Ferry",
+        "firstname": "Judith A.",
+        "initials": "JA",
+        "email": "",
+        "roleid": 185,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 142,
+    "bookId": "63",
+    "roleid": 186,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4472,
+        "lastname": "Naresh",
+        "firstname": "Kikkeri N.",
+        "initials": "",
+        "email": "",
+        "roleid": 186,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 143,
+    "bookId": "63",
+    "roleid": 187,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2133,
+        "lastname": "Chadburn",
+        "firstname": "Amy",
+        "initials": "",
+        "email": "",
+        "roleid": 187,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 144,
+    "bookId": "63",
+    "roleid": 188,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3505,
+        "lastname": "Cesarman",
+        "firstname": "Ethel",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 3818,
+        "lastname": "Elenitoba-Johnson",
+        "firstname": "Kojo ",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4610,
+        "lastname": "Natkunam",
+        "firstname": "Yasodha",
+        "initials": "Y",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4936,
+        "lastname": "Fajgenbaum",
+        "firstname": "David C.",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4937,
+        "lastname": "Bower",
+        "firstname": "Mark",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4938,
+        "lastname": "Iwaki",
+        "firstname": "Noriko",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 5017,
+        "lastname": "Meignin",
+        "firstname": "Veronique",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 5077,
+        "lastname": "van Rhee",
+        "firstname": "Frits",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      }
+    ]
+  }
+]

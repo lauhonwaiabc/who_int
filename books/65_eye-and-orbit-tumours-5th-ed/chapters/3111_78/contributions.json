@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 137751,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 733,
+        "headingText": "\r\n<p>Ectopia represents normal tissue in an abnormal anatomical location, as opposed to a hamartoma, which represents normal but abnormally arranged tissue at its normal anatomical location.</p>\r\n",
+        "timestamp": "2026-03-31T15:00:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 137752,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 734,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T15:00:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 137753,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 735,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T15:00:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 137754,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 736,
+        "headingText": "\r\n<p><em>Acceptable:</em> choristoma; heterotopia.</p>\r\n",
+        "timestamp": "2026-03-31T15:00:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 137755,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 737,
+        "headingText": "\r\n<p>Ectopic lacrimal tissue; ectopic thyroid tissue; other ectopic tissues are theoretically possible but have not been reported in the iris</p>\r\n",
+        "timestamp": "2026-03-31T15:00:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 137756,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 738,
+        "headingText": "\r\n<p>Ectopic tissue is typically found at fissure lines that form and exist during embryological development. Thus, they are most frequent in the lateral canthus and limbal conjunctiva, in addition to the sclera and orbit. Intraocular ectopic tissue is less common and can involve the uvea, retina, and optic nerve {16352493}. The majority reported in the uvea are located anteriorly in the iris and ciliary body, where they tend to be unilateral and nasal, temporal, or inferior {16352493}.</p>\r\n",
+        "timestamp": "2026-03-31T15:00:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 137757,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 739,
+        "headingText": "\r\n<p>Ectopias are typically well-circumscribed, non-pigmented mass lesions, occasionally cystic. Most are asymptomatic until large, when visual disturbance, secondary glaucoma, or uveitis can arise. The majority are diagnosed in infancy and childhood. Lacrimal ectopias are the most frequently reported for anterior uvea, followed by thyroid tissue ectopias {34454461;17030724}. Lacrimal ectopic tissue is well circumscribed on CT and MRI. Contrast enhancement on CT may correspond to inflammation of adjacent tissues. The solid component appears enhanced compared with the cystic component on MRI {17110692}.</p>\r\n",
+        "timestamp": "2026-03-31T15:00:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 137758,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 740,
+        "headingText": "\r\n<p>Anterior uveal ectopias are rare. Population-based epidemiological data are not available. However, &lt;&nbsp;20&nbsp;cases of ectopic lacrimal tissue {27173894} and 3&nbsp;cases of ectopic thyroid tissue have been reported in peer-reviewed literature.</p>\r\n",
+        "timestamp": "2026-03-31T15:00:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 137759,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 741,
+        "headingText": "\r\n<p>Ectopic tissue is thought to arise from implantations, inclusions, or aberrant differentiation during embryogenesis.</p>\r\n",
+        "timestamp": "2026-03-31T15:00:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 137760,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 742,
+        "headingText": "\r\n<p>An increase in size of ectopic intraocular tissue after embryogenesis may occur during normal developmental growth or secondary to hormonal factors (e.g. during puberty). Release of enzymes, hormones, or other bioactive proteins by ectopic epithelial tissue may cause local tissue damage. Anterior uveal ectopias may raise intraocular pressure if they directly involve the iridocorneal angle or are of a sufficient size to anteriorly displace the iris and obstruct the angle. Reduced visual acuity or visual field defects can be seen if the ectopia is large enough to encroach on the pupillary aperture or cause a peripheral retinal detachment.</p>\r\n",
+        "timestamp": "2026-03-31T15:00:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 137761,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 749,
+        "headingText": "\r\n<p>Iris ectopias are typically well circumscribed and may appear lobulated. Lacrimal ectopias have a smooth, pale cut surface {18170741} and may be cystic. Thyroid ectopias have a red-brown, glistening cut surface similar to that of a thyroid gland.</p>\r\n",
+        "timestamp": "2026-03-31T15:00:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 137762,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 743,
+        "headingText": "\r\n<p>Microscopically, ectopic tissue resembles its normally sited counterpart. Ectopic lacrimal tissue is composed of acini rich in eosinophilic granules, with or without lacrimal ducts. Thyroid ectopic tissue is composed of thyroid follicles, with or without colloid. Tissue is well differentiated, without cytological atypia or mitoses, and shows low proliferative activity by Ki-67 immunostaining. Histology may raise the differential diagnoses of medulloepithelioma in infants and children {27173894} and metastatic well-differentiated carcinoma in adults, so careful clinical correlation is needed.</p>\r\n",
+        "timestamp": "2026-03-31T15:00:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 137763,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 744,
+        "headingText": "\r\n<p>Cytological appearances resemble those of the normal tissue of origin. Given the inherent limitations of cytology, additional care to exclude a benign epithelial or mesenchymal neoplasm, or a metastatic malignancy, should be taken by thorough clinical correlation.</p>\r\n",
+        "timestamp": "2026-03-31T15:00:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 137764,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 745,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2026-03-31T15:00:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 137765,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 748,
+        "headingText": "\r\n<p><em>Essential:</em> well-differentiated thyroid or lacrimal tissue with formation of acini and ducts (lacrimal) or follicles (thyroid).</p>\r\n<p><em>Desirable:</em> clinical correlation of well-circumscribed mass with expected findings on imaging; low index of suspicion of metastatic carcinoma.</p>\r\n",
+        "timestamp": "2026-03-31T15:00:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 137766,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 746,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2026-03-31T15:00:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 137767,
+        "bookId": 65,
+        "chapterId": 78,
+        "headingId": 747,
+        "headingText": "\r\n<p>While small asymptomatic lesions can be managed conservatively with close clinical surveillance, excisional biopsy may be required for diagnostic confirmation. For symptomatic ectopias, local excision is typically curative.</p>",
+        "timestamp": "2026-03-31T15:00:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

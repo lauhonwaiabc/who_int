@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1119,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1158,
+    "contributions": [
+      {
+        "pkcontributionId": 156953,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1158,
+        "headingText": "\r\n<p>Osteoblastoma is a locally aggressive bone-forming tumour, morphologically similar to osteoid osteoma but with growth potential and generally &ge;&nbsp;20&nbsp;mm in dimension.</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1120,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1159,
+    "contributions": [
+      {
+        "pkcontributionId": 156954,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1159,
+        "headingText": "\r\n<p>9200/1 Osteoblastoma NOS</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1121,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1160,
+    "contributions": [
+      {
+        "pkcontributionId": 156955,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1160,
+        "headingText": "\r\n<p>2E83.Z &amp; XH4316 Benign osteogenic tumours, unspecified &amp; Osteoblastoma NOS</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1122,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1161,
+    "contributions": [
+      {
+        "pkcontributionId": 156956,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1161,
+        "headingText": "\r\n<p><em>Acceptable:</em> epithelioid osteoblastoma.</p>\r\n<p><em>Not recommended:</em> pseudomalignant osteoblastoma; aggressive osteoblastoma.</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1123,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1162,
+    "contributions": [
+      {
+        "pkcontributionId": 156957,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1162,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1124,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1163,
+    "contributions": [
+      {
+        "pkcontributionId": 156958,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1163,
+        "headingText": "\r\n<p>The spine, in particular the neural arch (posterior elements), is the most frequent site, affected in more than one&nbsp;third of cases. Although the tumours may extend into the vertebral body, they are very rarely seen in isolation in the vertebral body {8119712}. Other sites include the pelvis, the limbs (particularly the femur and tibia), the jaws, and other craniofacial bones {17052641}. However, any bone may be involved {8119712}.</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1125,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1164,
+    "contributions": [
+      {
+        "pkcontributionId": 156959,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1164,
+        "headingText": "\r\n<h5>Signs and symptoms</h5>\r\n<p>The presenting symptom is frequently pain; but unlike for osteoid osteoma, NSAIDs usually do not provide relief {8119712}. Neurological symptoms may be present with spinal lesions. Rarely, there may be systemic symptoms including fever, weight loss, and hyperdynamic circulation {11479753}. Systemic symptoms have been attributed to an exaggerated immune response to the tumour. Exceptionally, cases can be associated with oncogenic phosphaturic syndrome {12971642}.</p>\r\n<h5>Imaging</h5>\r\n<p>On radiographs and CT, osteoblastomas present as lytic lesions &gt;&nbsp;20&nbsp;mm, with surrounding reactive sclerosis. Internal mineralization can be present, which may be ossified or chondral type {27476846}. Medullary lesions are associated with surrounding sclerosis and non-aggressive periosteal reaction. In the spine, osteoblastomas typically involve the posterior elements and can have aneurysmal bone cyst&ndash;like changes. Cortical expansion with cortical destruction can be present {8119712}. Bone scintigraphy shows nonspecific increased radiotracer uptake. On MRI, osteoblastomas can demonstrate low signal intensity on T1- and T2-weighted images, corresponding to heavily mineralized lesions with variable adjacent oedema-like signal and enhancement in the marrow and surrounding soft tissues {18561158}. Fluid-fluid levels can be seen in lesions with aneurysmal bone cyst&ndash;like changes.</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1126,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1165,
+    "contributions": [
+      {
+        "pkcontributionId": 156960,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1165,
+        "headingText": "\r\n<p>Osteoblastomas are rarer than osteoid osteomas, representing &lt;&nbsp;1% of primary bone tumours {18561158; 8119712}. The peak incidence is described in case series as occurring between the second and third decades of life. Osteoblastoma is reported to be twice as frequent in male patients as in female patients {18561158; 8119712; 30785872}.</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1127,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1166,
+    "contributions": [
+      {
+        "pkcontributionId": 156961,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1166,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1128,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1167,
+    "contributions": [
+      {
+        "pkcontributionId": 156962,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1167,
+        "headingText": "\r\n<p>Rearrangement of <em>FOS</em> has been identified in both osteoblastomas and osteoid osteomas, further strengthening the link between these two lesions {29858576}. The rearrangement is observed in as many as 87% of cases {29858576}. The breakpoints in <em>FOS</em> cluster around exon&nbsp;4, which is fused to introns of other genes or to intergenic regions, resulting in truncation of the FOS protein at the C-terminus. This truncation protects the protein from degradation, producing a more stable form that leads to nuclear immunoreactivity in osteoblastic cells when anti&ndash;FOS (c-FOS) N-terminus immunohistochemistry is used {29858576; 31490237; 31768625; 26173738}. In a smaller percentage of cases, <em>FOSB</em> rearrangement has been detected {29858576}. Whole-genome DNA sequencing analysis performed in osteoblastomas shows diploid tumour cells with few other somatic alterations {29858576}. Additionally, osteoblastomas were shown to be uniformly characterized by flat copy-number profiles {35347251}. Loss of <em>NF2</em> has been identified in non&ndash;<em>FOS</em>-rearranged osteoblastoma {32542935}.</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1135,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1174,
+    "contributions": [
+      {
+        "pkcontributionId": 156963,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1174,
+        "headingText": "\r\n<p>Macroscopically, osteoblastomas are usually red to tan lesions, reflecting their intense vascularity {8119712}. Bone expansion with marked cortical thinning or surrounding areas of sclerosis may be seen. The borders are usually well defined. Blood-filled cystic spaces (aneurysmal bone cyst change) may be present.</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1129,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1168,
+    "contributions": [
+      {
+        "pkcontributionId": 156964,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1168,
+        "headingText": "\r\n<p>Osteoblastomas are microscopically similar to osteoid osteomas. Osteoblastomas are characterized by interconnecting, delicate, woven bone trabeculae, usually rimmed by a single layer of polygonal osteoblasts {8119712}. The trabeculae may show different levels of mineralization, from osteoid to densely mineralized woven bone that shows multiple cement lines (pagetoid appearance) {8119712}. The stroma is loose and usually richly vascularized, with dilated capillary type blood vessels. Osteoclast-like giant cells are scattered throughout the tumour. Lace-like osteoid deposition, although uncommon, can be present, as can cartilaginous differentiation. The borders are usually well defined, often showing peripheral bone maturation towards lamellar bone {8119712}. Aneurysmal bone cyst&ndash;like changes can be present {8119712; 2835141}. Destructive host bone permeation should not be seen, and it is possibly the most reliable histological feature in differentiating osteoblastoma from osteoblastoma-like osteosarcoma {30152881}. Atypical mitotic figures should be absent.</p>\r\n<p>The diagnosis of so-called aggressive osteoblastoma is controversial and not recommended. This entity was initially reported to have a more aggressive clinical course and morphologically characterized by the presence of large, epithelioid osteoblasts (twice the size of normal osteoblasts) that are frequently mitotically active {6600112; 8119712}. However, the presence of epithelioid osteoblasts does not seem to predict an aggressive clinical course in osteoblastoma {8119712; 8669532; 35337839}; therefore, the term &ldquo;epithelioid osteoblastoma&rdquo; is preferred. Rarely, osteoblastomas may show degenerative atypia, which should not be mistaken for malignancy.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>FOS (c-FOS) immunohistochemistry is detected in the majority of cases and may be helpful when present {31768625; 31490237}.</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1130,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1169,
+    "contributions": [
+      {
+        "pkcontributionId": 156965,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1169,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1131,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1170,
+    "contributions": [
+      {
+        "pkcontributionId": 156966,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1170,
+        "headingText": "\r\n<p><em>FOS</em> gene rearrangement or rarely <em>FOSB</em> gene rearrangement is found in the majority of osteoblastomas {29858576}.</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1134,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1173,
+    "contributions": [
+      {
+        "pkcontributionId": 156967,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1173,
+        "headingText": "\r\n<p><em>Essential:</em> a bone tumour with compatible localization and imaging; trabeculae of woven bone rimmed by plump osteoblasts in a vascularized stroma.</p>\r\n<p><em>Desirable:</em> <em>FOS</em> rearrangement or FOS (c-FOS) overexpression.</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1132,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1171,
+    "contributions": [
+      {
+        "pkcontributionId": 156968,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1171,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1133,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1172,
+    "contributions": [
+      {
+        "pkcontributionId": 156969,
+        "bookId": 87,
+        "chapterId": 150,
+        "headingId": 1172,
+        "headingText": "\r\n<p>The prognosis is good, but recurrences are described in as many as 23% of the cases {18561158}, more frequently in patients treated with curettage than in those treated with en&nbsp;bloc resection, with which a 14% recurrence rate is reported {18561158}. Although osteoid osteoma and osteoblastoma may be morphologically indistinguishable, and they may in fact be different clinical manifestations of the same disease, an attempt to differentiate these tumour types is justified by the tendency for clinical progression and recurrence seen in the latter.</p>\r\n<p>Epithelioid osteoblastoma was initially reported with a more aggressive clinical course and morphologically characterized by the presence of large, epithelioid osteoblasts that are frequently mitotically active {6600112; 8119712}. The presence of epithelioid osteoblasts does not consistently predict an aggressive clinical course in osteoblastoma {8119712; 8669532}. Conversely, some osteoblastomas &gt;&nbsp;40&nbsp;mm with locally destructive features and repeated recurrences may lack epithelioid cytomorphology. Rare cases of malignant transformation are described {4764948; 8780939}.</p>",
+        "timestamp": "2026-09-01T11:55:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

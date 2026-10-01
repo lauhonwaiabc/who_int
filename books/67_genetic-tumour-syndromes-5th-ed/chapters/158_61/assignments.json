@@ -1,0 +1,89 @@
+[
+  {
+    "pkroleId": 202,
+    "bookId": "67",
+    "roleid": 209,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2001,
+        "lastname": "Gill",
+        "firstname": "Anthony J.",
+        "initials": "AJ",
+        "email": "",
+        "roleid": 209,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 204,
+    "bookId": "67",
+    "roleid": 211,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2816,
+        "lastname": "Mete",
+        "firstname": "Ozgur",
+        "initials": "",
+        "email": "",
+        "roleid": 211,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 205,
+    "bookId": "67",
+    "roleid": 212,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2107,
+        "lastname": "Perren",
+        "firstname": "Aurel",
+        "initials": "A",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 2923,
+        "lastname": "de Krijger",
+        "firstname": "Ronald R.",
+        "initials": "RR",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 3001,
+        "lastname": "Osamura",
+        "firstname": "Robert Y.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 3658,
+        "lastname": "Asa",
+        "firstname": "Sylvia L.",
+        "initials": "SL",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 4466,
+        "lastname": "Valk",
+        "firstname": "Gerlof D",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      }
+    ]
+  }
+]

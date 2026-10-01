@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 107076,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 466,
+        "headingText": "\r\n<p>Monodermal teratomas are teratomas composed exclusively or predominantly of a single type of tissue derived from one embryonic layer and include struma ovarii, carcinoid, neuroectodermal-type tumours, and monodermal cystic teratoma. Also included in this section are somatic-type tumours derived from teratomas.</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 107077,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 467,
+        "headingText": "\r\n<p>9090/0 Struma ovarii, NOS</p>\r\n<p>9090/3 Struma ovarii, malignant</p>\r\n<p>9091/1 Strumal carcinoid</p>\r\n<p>9080/0 Monodermal cystic teratoma</p>\r\n<p>9084/3 Teratoma with malignant transformation</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 107078,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 468,
+        "headingText": "\r\n<p>2F76 &amp; XH22M4 Neoplasms of uncertain behaviour of female genital organs &amp; Struma ovarii, NOS</p>\r\n<p>2F76 &amp; XH2XW3 Neoplasms of uncertain behaviour of female genital organs &amp; Strumal carcinoid</p>\r\n<p>2F76 &amp; XH7K24 Neoplasms of uncertain behaviour of female genital organs &amp; Neuroectodermal tumour, NOS</p>\r\n<p>2F32.0 Cystic teratoma</p>\r\n<p>2C73.3 &amp; XH33E8 Malignant teratoma of ovary &amp; Teratoma with malignant transformation</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 107079,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Acceptable:</em> strumal carcinoid; struma ovarii; neuroectodermal-type tumours; monodermal cystic teratoma; somatic-type tumours derived from teratomas.</p>\r\n<p><em>Not recommended:</em> grade&nbsp;1 neuroendocrine tumour; well-differentiated neuroendocrine tumour.</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 107080,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 107081,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 471,
+        "headingText": "\r\n<p>Ovary</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 107082,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 472,
+        "headingText": "\r\n<p>Patients may present with signs and symptoms related to a pelvic mass {17706482; 19471561; 7802134; 6715397; 834404; 8393302; 9808135; 22311546; 28296680; 30085939; 30074494; 18971155; 17240432; 19038764; 13493921; 2712191}. Ascites (with or without pleural effusion) is seen in about one&nbsp;third of patients with struma ovarii, and hyperthyroidism in &lt;&nbsp;10% {19696610; 6715397; 834404}. Carcinoid syndrome (including cardiac manifestations) is seen in 30% of insular carcinoid cases {1157010; 8626144}.</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 107083,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 473,
+        "headingText": "\r\n<p>Monodermal teratomas typically occur in adults. When diagnosed in young women, they are more frequently found in the third decade of life, and tumours occurring in the first and second decades are rare {25440719}. Struma ovarii was the most common type of monodermal teratoma (~3%) in a pathological case series {8037292}. The most common type of ovarian carcinoid is the insular type (~50%) {1157010} followed by strumal carcinoid (~40%) {7427909}, whereas trabecular carcinoid {834404; 7104979} and mucinous carcinoid {11342766} are rare. The setting of somatic-type tumours arising from teratomas is more common in older women but has been described in paediatric patients {17080331; 20049928}.</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 107084,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 474,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 107085,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 475,
+        "headingText": "\r\n<p><em>Struma ovarii:</em> Mutations in <em>BRAF</em>, <em>KRAS</em>, and <em>HRAS</em>, as well as <em>RET</em>/PTC rearrangements have been found in papillary carcinomas (including the follicular form), and <em>PAX8</em>::<em>PPARG</em> rearrangement in follicular carcinoma arising in struma ovarii {18058267; 17721188; 26362194; 31538107; 19898969}.</p>\r\n<p><em>Carcinoid: </em>These tumours are thought to arise from neuroendocrine cells within intestinal-type epithelium of mature cystic teratoma.</p>\r\n<p><em>Neuroectodermal-type tumours, monodermal cystic teratoma, and somatic-type tumours derived from teratomas:</em> The pathogenesis of these tumours is unknown.</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 107086,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 482,
+        "headingText": "\r\n<p>The macroscopic features vary according to histological type. Tumours are typically unilateral, and their size is variable. The gross appearance may be solid, cystic, or solid-cystic, although struma ovarii usually is solid, whereas monodermal cystic teratomas have simple thin-walled cysts. Struma ovarii has a solid (sometimes nodular) beefy-red to brown cut surface resembling normal thyroid or goitre. Carcinoid has a homogeneous yellow to tan cut surface, which can be glistening if mucinous {11342766}. The cut surface of neuroectodermal-type tumours in the solid component is white, tan, or pink; haemorrhage and necrosis can be prominent. Extraovarian spread is common with somatic-type tumours derived from teratomas.</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 107087,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 476,
+        "headingText": "\r\n<p>In struma ovarii, thyroid tissue is the predominant or sole component. It usually resembles normal thyroid tissue, with variably sized follicles (most frequently macrofollicles) lined by cuboidal to flat cells and filled with colloid. Other patterns include solid, trabecular, pseudopapillary, pseudotubular {7802134}, and predominantly cystic {8037292}. Hyperplastic changes (proliferative struma) and adenomatous changes may be seen {8253550}. Papillary, follicular (including highly differentiated) {19696610; 19620939; 18753973; 18058267; 17721188; 22288964; 18317221; 8253550; 26374222}, or anaplastic carcinoma may rarely develop {26630220}. Tumour cells express thyroglobulin, thyroid transcription factor&nbsp;1 (TTF1), and PAX8 {17285841; 16512597}.</p>\r\n<p>Carcinoids are well-differentiated neuroendocrine tumours (NETs) resembling those arising in the gastrointestinal tract. Insular, trabecular, strumal (intimately admixed or juxtaposed with thyroid follicles {7427909}), and mucinous (goblet cell) types occur. Teratomatous elements in the ipsilateral or contralateral ovary {6715397; 834404; 7427909} and fibromatous stroma may be present. Carcinoids are variably positive for neuroendocrine markers.</p>\r\n<p>Neuroectodermal-type tumours are malignant tumours resembling those of the CNS or Ewing sarcoma. They are characterized either by a variable degree of neuronal or glial differentiation or by a small round cell proliferation. Most resemble ependymoma, astrocytoma, oligodendroglioma, neurocytoma, medulloblastoma, ependymoblastoma, medulloepithelioma, or glioblastoma {19483626; 9100074; 30074494; 6204919; 26990854; 29107097}, although one study failed to find mutations characteristic of the CNS counterparts {26990854}. A component of mature teratoma may be present. Tumours may show membranous CD99 and nuclear FLI1 expression, and they are often positive for CD56, NSE, and synaptophysin {28296680; 30074494}.</p>\r\n<p>Monodermal cystic teratoma includes neuroectodermal cysts lined by ependymal cells with choroid plexus&ndash;like epithelium along the cyst lining {8088721; 2373589; 26261871} and epidermoid cysts lined by mature, often keratinizing, stratified squamous epithelium. Keratinaceous debris fills the cyst lumen {8852449; 943942; 19188813; 7355867}.</p>\r\n<p>Somatic-type neoplasms arising from teratomas are composed of benign or malignant tumours derived from any of the elements within a teratoma. These can consist of squamous cell carcinoma, melanoma, melanocytic naevi, basal cell carcinomas, sebaceous lesions (including sebaceous hyperplasia, adenoma, sebaceoma, and carcinoma), adenocarcinoma, benign and low-grade appendiceal-type mucinous epithelial neoplasms, and sarcomas of various types {16990706; 7821857; 23026196; 15656343; 13493921; 1653182; 17527072; 18344868; 12717249; 22833084; 21623194; 19696615; 12759630; 13752348; 1774106; 8886884; 15166669; 11844060; 6893919; 4757597; 9421078}.</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 107088,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 107089,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 478,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 107090,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 481,
+        "headingText": "\r\n<h5>Struma ovarii</h5>\r\n<p><em>Essential:</em> benign thyroid tissue alone or constituting &gt;&nbsp;50% of a dermoid cyst.</p>\r\n<h5>Carcinoid</h5>\r\n<p><em>Essential:</em> insular, trabecular, strumal, or mucinous (goblet cell) architectural types; salt-and-pepper chromatin pattern of the nuclei, with or without cytoplasmic granules.</p>\r\n<p><em>Desirable:</em> immunohistochemical expression of neuroendocrine markers.</p>\r\n<h5>Neuroectodermal-type tumours</h5>\r\n<p><em>Essential:</em> a primitive tumour with a variable degree of neuroectodermal differentiation, as seen in brain tumours.</p>\r\n<h5>Monodermal cystic teratoma</h5>\r\n<p><em>Essential:</em> a cyst lined by benign keratinizing squamous epithelium or by neuroectodermal tissues.</p>\r\n<h5>Somatic-type tumours derived from teratomas</h5>\r\n<p>The essential and desirable diagnostic criteria are based on the histological type of the somatic neoplasm (see <em>Histopathology</em>, above).</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 107091,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 479,
+        "headingText": "\r\n<p>For struma ovarii, carcinoid, and monodermal cystic teratoma, staging is not clinically relevant.</p>\r\n<p>Neuroectodermal-type tumours and malignant somatic-type tumours derived from teratomas are staged according to the Union for International Cancer Control (UICC) TNM classification [[Brierley JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley-Blackwell; 2017.]] and the FIGO staging system.</p>\r\n",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 107092,
+        "bookId": 44,
+        "chapterId": 241,
+        "headingId": 480,
+        "headingText": "\r\n<p>Struma ovarii (without thyroid-type carcinoma) is clinically benign. The presence of peritoneal implants of well-differentiated thyroid tissue in a patient with a histologically benign struma ovarii, known as strumosis, is now thought to represent metastasis from a highly differentiated follicular carcinoma arising in struma ovarii {22288964; 18317221}.</p>\r\n<p>The prognosis of carcinoid is generally excellent, with rare exceptions.</p>\r\n<p>Limited clinical data for neuroectodermal-type tumours suggest that stage is the most important prognostic factor for these neoplasms {8393302; 28296680}. Differentiated tumours are associated with a better prognosis {8393302; 28296680; 30074494}.</p>\r\n<p>Monodermal cystic teratomas are benign.</p>\r\n<p>For malignant somatic-type tumours derived from teratomas, prognosis is highly dependent on stage, and most data are derived from squamous cell carcinoma in adults. Overall, patients with tumours limited to the ovary have a favourable outcome. The 5-year overall survival rate is 15&ndash;52% for all stages combined {2712191} and 76% for stage&nbsp;I tumours {18971155; 21430455; 17240432; 19038764}. The prognosis of advanced disease is worse than that of more common ovarian cancers {18971155; 17240432; 19038764; 17877681; 31092447}. Patients should not be treated with germ cell tumour chemotherapy regimens but rather by the most effective treatment for the specific type of malignancy.</p>",
+        "timestamp": "2023-03-08T14:58:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

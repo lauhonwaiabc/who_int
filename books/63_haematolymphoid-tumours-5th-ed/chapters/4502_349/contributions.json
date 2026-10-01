@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 120595,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Cold agglutinin disease (CAD) is an autoimmune haemolytic anaemia mediated by monoclonal cold agglutinins (autoantibodies that agglutinate erythrocytes at an optimum temperature of 0&ndash;4&nbsp;&deg;C) in the absence of any infection or lymphoma. The process is driven by an underlying clonal B-cell proliferation; however, it does not fulfil criteria for a B-cell lymphoma.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 120596,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9760/1 Cold agglutinin disease</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 120597,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>3A20.1 Autoimmune haemolytic anaemia, cold type</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 120598,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Acceptable:</em> primary cold agglutinin&ndash;associated lymphoproliferative disease; primary cold agglutinin disease.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 120599,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 120600,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>Clonal B&nbsp;cells are best identified in the bone marrow. There is no evidence of extramedullary lymphoma {24143001}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 120601,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Anaemia due to complement-mediated extravascular haemolysis and cold-induced symptoms due to red blood cell agglutination (e.g. acrocyanosis, Raynaud phenomenon, livedo reticularis) are the primary manifestations {16585012; 32374875}. A small serum monoclonal IgM paraprotein (mostly kappa) is detected in &gt;&nbsp;90% of cases {16585012}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 120602,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>CAD is rare: the incidence is estimated at 1&ndash;1.8&nbsp;cases per 1&nbsp;million person-years. As reported from Scandinavian populations, the prevalence is 4-fold higher in countries and areas with a colder climate as compared to more moderate or warm climates {16585012; 31648316}. CAD is slightly more frequent in women, and the median age at diagnosis is in the late sixties {16585012; 32374875}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 120603,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>Unknown</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 120604,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 710,
+        "headingText": "\r\n\r\n<p>CAD harbours clonal rearrangements of immunoglobulin heavy and light chain genes. Somatic mutation of the IG genes occurs in all cases. The usage of the IG gene repertoire is significantly skewed, with the IGHV4-34 gene being used by about 80% of cases, mostly along with IGKV3-20 or IGKV3-15. Multiple regions within the IG genes contribute to I&nbsp;antigen&ndash;binding. Mutations at the N-glycosylation sites of the IGHV CDR2 are frequent and increase specific binding of the I&nbsp;antigen, translating into more severe anaemia {27198717}. At the cytogenetic level, complete or partial gains of chromosome&nbsp;3 occur in &gt;&nbsp;90%, and these often co-occur with a gain of chromosome&nbsp;12 or&nbsp;18 (70%) {32168377}. These changes are similar to those seen in marginal zone lymphoma. Genes that are recurrently mutated in CAD include <em>KMT2D</em> (70%) and <em>CARD11</em> (30%) {29265349}. The <em>MYD88</em> p.L265P mutation is not present in CAD {24143001}.</p>\r\n<p>The IgM monoclonal autoantibodies typically bind to the I&nbsp;antigen on the red blood cell surface at an optimum temperature of 0&ndash;4&nbsp;&deg;C {16585012; 27198717}. The binding of multiple red blood cells by one pentameric IgM molecule is the basis for agglutination. The bound IgM triggers the classic complement pathway and leads to extravascular haemolysis. Activation of the terminal complement cascade with intravascular haemolysis can occur to a variable extent.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 120605,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 120606,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 711,
+        "headingText": "<p>Blood smear shows red blood cell agglutination, red cell anisocytosis, and polychromasia. Bone marrow aspirate morphology is usually unremarkable apart from an often-expanded erythropoiesis.</p>\r\n<p>Bone marrow core biopsy shows small lymphoid cells mainly as nodular aggregates and as a sparse interstitial infiltrate; these cells have round to slightly oval nuclei with a homogeneous dark chromatin pattern and scant clear cytoplasm. Mature plasma cells (&lt;&nbsp;5% of the marrow cells) surround these lymphoid aggregates and are also seen singly scattered throughout the marrow. No paratrabecular growth pattern, lymphoplasmacytic morphology, increased mast cells, or fibrosis is seen {24143001; 31839434; 32374875}.</p>\r\n\r\n<h5>Immunophenotype</h5>\r\n\r\n<p>Lymphoid cells express B-cell markers (CD19, CD20, PAX5, CD79a, CD22, and CD79b), monotypic light chain (most often kappa), and IgM; CD5 is positive in 40% of the cases. They are negative for BCL6, IRF4 (MUM1), CD23, and cyclin&nbsp;D1. The plasma cells express IgM and monotypic light chain (most often kappa).</p>\r\n\r\n<h5>Differential diagnosis</h5>\r\n\r\n<p>The differential diagnosis includes secondary cold agglutinin syndromes associated with a clinically overt lymphoid malignancy, in particular lymphoplasmacytic lymphoma (see <a style=\"cursor:pointer\" href=\"/attachment/63/349/32313\" target=\"_blank\">#32313</a>Table&nbsp;4.60) or with an infection.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-12T11:55:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 120607,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>FNAB is not sufficient to establish a diagnosis.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 120608,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>An absence of <em>MYD88</em> p.L265P mutation aids in distinguishing CAD from lymphoplasmacytic lymphoma.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 120609,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 716,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/63/349/31362\" target=\"_blank\">#31362</a>Box&nbsp;4.03 .</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T14:50:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 120610,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 120611,
+        "bookId": 63,
+        "chapterId": 349,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>Prognostic scores for CAD do not exist. Survival appears to be similar to or only slightly worse than in an age-matched healthy population {16585012; 32374875; 23757733}. CAD does not progress to another indolent lymphoma and the frequency of transformation to an aggressive lymphoma is very low (&lt;&nbsp;5%) {16585012; 32374875}.</p>",
+        "timestamp": "2024-03-12T11:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

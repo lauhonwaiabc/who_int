@@ -1,0 +1,36 @@
+[
+  {
+    "pkroleId": 141,
+    "bookId": "63",
+    "roleid": 185,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4742,
+        "lastname": "Hochhaus",
+        "firstname": "Andreas",
+        "initials": "",
+        "email": "",
+        "roleid": 185,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 143,
+    "bookId": "63",
+    "roleid": 187,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 4139,
+        "lastname": "Khoury",
+        "firstname": "Joseph D.",
+        "initials": "JD",
+        "email": "",
+        "roleid": 187,
+        "position": 0
+      }
+    ]
+  }
+]

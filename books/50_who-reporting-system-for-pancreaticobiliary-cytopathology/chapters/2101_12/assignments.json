@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 121,
+    "bookId": "50",
+    "roleid": 164,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4169,
+        "lastname": "Perez-Machado",
+        "firstname": "Miguel Angel",
+        "initials": "",
+        "email": "",
+        "roleid": 164,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 122,
+    "bookId": "50",
+    "roleid": 165,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4119,
+        "lastname": "Mehrotra",
+        "firstname": "Ravi",
+        "initials": "",
+        "email": "",
+        "roleid": 165,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 123,
+    "bookId": "50",
+    "roleid": 166,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4383,
+        "lastname": "Krishnan",
+        "firstname": "Kumar",
+        "initials": "",
+        "email": "",
+        "roleid": 166,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 124,
+    "bookId": "50",
+    "roleid": 167,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4368,
+        "lastname": "Policarpio Nicolas",
+        "firstname": "Maria Luisa",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      },
+      {
+        "contributorid": 4380,
+        "lastname": "Itoi",
+        "firstname": "Takao",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      },
+      {
+        "contributorid": 4398,
+        "lastname": "Klapman",
+        "firstname": "Jason",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      }
+    ]
+  }
+]

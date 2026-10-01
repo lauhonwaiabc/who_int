@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 127137,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 764,
+        "headingText": "\r\n<p>Inborn error of immunity (IEI)-associated T-cell lymphoproliferative disorders (T-LPDs) are CD8-positive T-cell&ndash;rich cutaneous infiltrates associated with inborn immunodeficiencies and not associated with EBV infection.</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 127138,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 765,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 127139,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 766,
+        "headingText": "\r\n<p>4A01.Z Primary immunodeficiencies due to disorders of adaptive immunity, unspecified</p>\r\n<p>2B32.Y Other specified immunodeficiency-associated lymphoproliferative disorders</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 127140,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 767,
+        "headingText": "\r\n<p><em>Acceptable:</em> granulomatous/CD8-positive T-cell lymphoproliferative disorder.</p>\r\n<p><em>Not recommended:</em> CD8-positive granulomatous cutaneous T-cell lymphoma.</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 127141,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 768,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 127142,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 769,
+        "headingText": "\r\n<p>IEI-associated T-LPD may manifest as skin infiltrates involving the dermis and occasionally subcutaneous tissue and other sites, including the gastrointestinal tract, lungs, and bone marrow {24813299}.</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 127143,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 770,
+        "headingText": "\r\n<p>Cutaneous involvement occurs as generalized papulonodular indurated lesions with variable erythema, scaliness, and a haemorrhagic ulceronecrotic appearance {24813299}. In the setting of IEI the lesions often appear in the first few decades of life, but they can appear at any age and may be associated with acquired forms of humoral immunodeficiency. IEI-associated T-LPD can result in significant respiratory and gastrointestinal complications, and complications at other sites {30776527}.</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 127144,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 771,
+        "headingText": "\r\n<p>The prevalence of IEI-associated T-LPD is unknown, and estimates are increasing as more inherited immunodeficiencies are molecularly characterized; recent estimates range from 1&nbsp;in 1000 to 1&nbsp;in 5000 {31953710}. Most IEIs arise early in childhood, and a minority arise in adulthood {31396239; 31379802; 32849507}. Cutaneous granulomatous disease can be the presenting feature {30869812}.</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 127145,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 772,
+        "headingText": "\r\n<p>Granulomatous disease occurs in about 10% of patients with common variable immunodeficiency {32117289; 17898316}. Combined immunodeficiencies and DNA-repair disorders are common, but a variety of underlying IEIs are implicated {30869812; 35003119}, including defects of cytotoxicity {34033843}. Persistent rubella virus is a potential trigger, with persistence demonstrated within lesional macrophages {24476349; 30607663; 34033843}.</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 127146,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 773,
+        "headingText": "\r\n<p>Defective T-cell&ndash;mediated immune surveillance, often associated with lymphopenias and hypogammaglobulinaemia, can result in granulomatous reactions, which in some cases may be associated with uncontrolled viral infection, in particular with rubella virus. EBV infection needs to be excluded {30607663; 31402499}.</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 127147,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 780,
+        "headingText": "\r\n<p>See <em>Clinical features</em>, above.</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 127148,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 774,
+        "headingText": "<p>Dermal granulomatous aggregates are characterized by a brisk CD8-positive T-cell&ndash;rich infiltrate. The lymphocytes are small to medium-sized, with subtle pleomorphism. Variable necrosis, ulceration, vasculitis, and haemorrhage can be observed. The epidermis may show hyperkeratosis. EBV in&nbsp;situ hybridization should be negative.</p>\r\n<p>The differential diagnosis includes other CD8-positive T-cell&ndash;rich infiltrates, such as primary cutaneous CD8-positive acral T-cell lymphoproliferative disorder, CD8-positive granulomatous mycosis fungoides, and CD8-positive papular eruption in patients infected with HIV, as well as infectious skin diseases {10534634; 7695009; 34988968} and (EBV-induced) lymphomatoid granulomatosis {25355540}. See <a style=\"cursor:pointer\" href=\"/attachment/64/365/34328\" target=\"_blank\">#34328</a>Table&nbsp;6.22 .</p>",
+        "timestamp": "2025-05-06T15:49:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 127149,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 775,
+        "headingText": "\r\n<p>Cytology is not relevant in skin lesions.</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 127150,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 776,
+        "headingText": "\r\n<p>EBV and HIV infection should be excluded by molecular testing, and detection of rubella virus should be considered. TR gene clonality is often detected, but caution is recommended because expansion of restricted subsets of T&nbsp;cells is common in IEIs {10534634; 26311730; 29296752; 7695009}.</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 127151,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 779,
+        "headingText": "\r\n<p><em>Essential:</em> a granulomatous, CD8-positive T-cell&ndash;rich dermal infiltrate with negative EBV status; hypogammaglobulinaemia from IEI or other acquired causes; exclusion of other potential infectious conditions (bacterial, mycobacterial, viral, and fungal).</p>\r\n<p><em>Desirable:</em> genetic diagnosis of the IEI and molecular assessment for rubella virus and TR gene rearrangement analysis (when available and clinically indicated).</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 127152,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 777,
+        "headingText": "\r\n<p>Evaluation for systemic involvement should be done, but there is no formal staging for these conditions.</p>\r\n",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 127153,
+        "bookId": 64,
+        "chapterId": 365,
+        "headingId": 778,
+        "headingText": "\r\n<p>The prognosis is variable, but this chronic condition typically has limited growth progression. There is no consensus on effective therapies, but allogeneic stem cell transplantation can cure both the granulomatous process and the underlying IEI {33275750}.</p>",
+        "timestamp": "2025-04-25T12:29:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 518,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 497,
+    "contributions": [
+      {
+        "pkcontributionId": 72876,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 497,
+        "headingText": "<p>Meningiomas comprise a family of neoplasms that are most likely derived from the meningothelial cells of the arachnoid mater (CNS WHO grade 1, 2, or 3).</p>",
+        "timestamp": "2021-06-28T16:52:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 519,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 498,
+    "contributions": [
+      {
+        "pkcontributionId": 72877,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 498,
+        "headingText": "<p>9530/0 Meningioma</p>",
+        "timestamp": "2021-11-09T09:21:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 520,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 499,
+    "contributions": [
+      {
+        "pkcontributionId": 72878,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 499,
+        "headingText": "\r\n<p>2A01.0Z Meningiomas, unspecified</p>\r\n",
+        "timestamp": "2021-06-15T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 521,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 500,
+    "contributions": [
+      {
+        "pkcontributionId": 72879,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 500,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2021-06-15T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 522,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 501,
+    "contributions": [
+      {
+        "pkcontributionId": 72880,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 501,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/45/91/19607\" target=\"_blank\">#19607</a>Box&nbsp;7.01 .</p>",
+        "timestamp": "2021-10-27T17:59:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 523,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 502,
+    "contributions": [
+      {
+        "pkcontributionId": 72881,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 502,
+        "headingText": "\r\n<p>Meningiomas typically arise in intracranial, intraspinal, or orbital locations. The most common sites include the cerebral convexities (with tumours often located parasagittally, in association with the falx cerebri and/or venous sinuses), olfactory grooves, sphenoid ridges, parasellar/suprasellar regions, optic nerve sheath, petrous ridges, tentorium, and posterior fossa. Intraventricular and epidural localization is uncommon. Most spinal meningiomas occur in the thoracic region. Tumour location is strongly associated with the mutation spectrum: convexity meningiomas and the majority of spinal meningiomas often carry a 22q deletion and/or <em>NF2</em> mutations, whereas skull base meningiomas harbour mutations in <em>AKT1</em>, <em>TRAF7</em>, <em>SMO</em>, and/or <em>PIK3CA</em> {23348505; 31750041; 27885953; 26826201; 24096618; 23334667}. Higher-grade meningiomas most commonly arise from the convexity and other non&ndash;skull base sites. Rare primary meningiomas arise outside the neuraxis (e.g. in the lung).</p>\r\n",
+        "timestamp": "2021-06-15T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 524,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 503,
+    "contributions": [
+      {
+        "pkcontributionId": 72882,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 503,
+        "headingText": "\r\n<p>Meningiomas are usually slow-growing, occurring with neurological deficits that vary depending on tumour location. Clinical signs and symptoms can arise from compression of adjacent structures. Headaches, weakness, and seizures are common, although not specific for meningiomas. Higher-grade tumours and those with molecular biomarkers of aggressive behaviour progress more rapidly.</p>\r\n<h5>Imaging</h5>\r\n<p>Meningiomas characteristically appear as isodense, uniformly contrast-enhancing dural masses on MRI. Calcification is common and is best visualized on CT. A frequent imaging feature is a contrast-enhancing dural tail sign at the tumour perimeter, which often corresponds to reactive fibrovascular tissue and does not necessarily predict dural involvement. Peritumoural cerebral oedema can be prominent with certain histological subtypes, such as secretory {31653806}, angiomatous/microcystic, lymphoplasmacyte-rich, and high-grade meningiomas {23104516}. Cyst formation may occur within or at the periphery of a meningioma. Neuroimaging features are not always specific for the diagnosis of meningioma or for estimating prognosis; however, quantitative and qualitative imaging features from gadolinium-enhanced MRI can suggest the histological grade of meningiomas and predict more-likely patient outcomes {29145421; 31608329}.</p>\r\n<h5>Spread</h5>\r\n<p>Meningiomas commonly invade adjacent anatomical structures (especially the dura), although the rate and extent of local spread are often greater in the more aggressive subtypes. Thus, depending on their location and grade, some meningiomas produce considerable patient morbidity and mortality. Extracranial metastases (e.g. to lung, pleura, bone, and/or liver) are rare and most often associated with CNS WHO grade&nbsp;3 meningiomas. In one series, the incidence of metastases from all meningiomas was 0.67%, with a greater incidence in CNS WHO grade&nbsp;2 (2%) and grade&nbsp;3 (9%) meningiomas {30952122}.</p>\r\n",
+        "timestamp": "2021-06-15T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 525,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 504,
+    "contributions": [
+      {
+        "pkcontributionId": 72883,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 504,
+        "headingText": "<h5>Incidence</h5>\r\n<p>Meningioma occurs in the USA at an average annual age-adjusted rate of 8.58&nbsp;cases per 100&nbsp;000&nbsp;population, accounting for 37.6% of CNS tumours {31675094}. It is the most common primary brain tumour in adults (estimated to occur in up to 1% of the population) {17978290} but the least common in children aged 0&ndash;19&nbsp;years.</p>\r\n<h5>Age, sex, and race distribution</h5>\r\n<p>The risk of meningioma increases with age; the median age at diagnosis is 66&nbsp;years {31675094}. Across all ages, the incidence of grade&nbsp;1 meningioma is 2.32&nbsp;times greater in women than in men, with the greatest risk differential (3.28) seen before menopause and decreasing thereafter. The incidence is significantly higher in Black people than in White people (9.25 vs 7.88&nbsp;cases per 100&nbsp;000&nbsp;person-years) {31675094}.</p>",
+        "timestamp": "2021-10-11T09:45:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 526,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 505,
+    "contributions": [
+      {
+        "pkcontributionId": 72884,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 505,
+        "headingText": "\r\n<p>Exposure to ionizing radiation is the primary established environmental risk factor for meningioma. The risk is higher in people who were exposed to ionizing radiation in childhood than in those exposed in adulthood, and in people exposed to high levels of ionizing radiation, such as atomic bomb survivors and patients treated with therapeutic radiation to the head. There is evidence that lower doses of ionizing radiation also increase the risk of meningioma, including exposure to CT in childhood or adolescence {23694687; 22681860}. The <em>Tinea capitis</em> cohort study provided strong evidence of genetic susceptibility to the development of meningioma after exposure to ionizing radiation {17466897}.</p>\r\n<p>Evidence of an association between hormones and meningioma risk is suggested by a number of findings, including the greater incidence of the disease in women than in men and the presence of hormone receptors in some meningiomas, as well as reports of a modestly increased risk associated with endogenous/exogenous hormone use, body mass index, and current smoking, and a decreased risk associated with breastfeeding for &ge;&nbsp;6&nbsp;months {23101448; 20821343}. One study found enrichment of <em>PIK3CA</em> mutations in meningiomas of patients treated with progestin {29346520}. A large case&ndash;control study showed that women with meningioma were more likely than those without to report hormone-related conditions: uterine fibroids (odds ratio: 1.2; 95% CI: 1.0&ndash;1.5), endometriosis (odds ratio: 1.5; 95% CI: 1.5&ndash;2.1), and breast cancer (odds ratio: 1.4; 95% CI: 0.8&ndash;2.3) {23101448}.</p>\r\n<p>Attempts to link specific chemicals, diet, occupation, head trauma, and mobile phone use with meningioma have been inconclusive. However, allergic diseases such as asthma and eczema have been fairly consistently associated with a reduced risk of meningioma {28071746}.</p>\r\n<p>Several syndromes increase the risk of meningioma development, most notably neurofibromatosis type&nbsp;2, and rare associations with naevoid basal cell carcinoma syndrome (Gorlin syndrome) have been reported. Meningiomas have also been reported in families with germline defects in <em>NF1</em>, <em>VHL</em>, <em>PTEN</em>, <em>PTCH1</em>, <em>BAP1</em>, <em>SUFU</em>, <em>SMARCE1</em>, and <em>CREBBP</em> {31485359; 28596197; 22958902; 22829011; 29660026; 28170043; 23377182; 27489861; 21406108; 11765821; 12682336; 15658110}. Many of these syndromes are associated with increased radiosensitivity. Family history studies suggest that inherited susceptibility not attributable to established syndromes plays a role, with a positive family history associated with up to a four-fold personal risk of developing meningioma {21780859; 29016976}. Genome-wide association studies have recently detected SNPs on chromosomes&nbsp;10 and 11 that are significantly associated with meningioma risk {21804547; 29762745; 24755950}. The 10p12 SNP is located in the <em>MLLT10</em> gene, a component in several gene fusions resulting in forms of leukaemia {21804547}.</p>\r\n",
+        "timestamp": "2021-06-15T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 527,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 506,
+    "contributions": [
+      {
+        "pkcontributionId": 72885,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 506,
+        "headingText": "<p>Monosomy of chromosome&nbsp;22 is the most frequently reported genetic abnormality in meningioma, with &gt;&nbsp;50% of tumours showing allelic losses in 22q12.2, the region encoding the <em>NF2 </em>gene. Higher-grade meningiomas exhibit more complex genetic changes, with losses on 1p, 6p/q, 10q, 14q, and 18p/q, and (less frequently) losses on 2p/q, 3p, 4p/q, 7p, and 8p/q, as well as heterozygous or homozygous deletions of <em>CDKN2A</em>&nbsp;and/or <em>CDKN2B</em>. Gains of chromosomal arms are less common and mostly found in angiomatous, metaplastic, and microcystic meningiomas.</p>\r\n<p>Genomic sequencing of two series of sporadic meningiomas {23334667; 23348505} identified similar meningioma subsets, notable for their distinct and mutually exclusive mutation distributions as well as for their correlation with clinical behaviours and anatomical locations. The first subset of meningiomas was defined by <em>NF2</em> mutations and loss of chromosome&nbsp;22. The second subset lacked <em>NF2</em> mutations and was characterized by recurrent oncogenic (p.E17K) mutations in <em>AKT1</em>, as well as alterations in <em>TRAF7</em> {23348505}, <em>KLF4</em> {23348505}, or <em>SMO</em> {23334667}. These findings have been confirmed and expanded, with oncogenic <em>PIK3CA</em> mutations also identified {26826201; 27548314; 27885953}. The accumulation of additional copy-number losses, general genomic instability, and emergence of <em>TERT</em> promoter mutations was largely restricted to the group with <em>NF2</em> mutation and/or loss of chromosome&nbsp;22q, whereas cases with <em>AKT1</em>, <em>KLF4</em>, <em>SMO</em>, <em>PIK3CA</em>, and/or <em>TRAF7</em> mutations had balanced copy-number profiles {20682713; 23348505; 23334667; 24261697; 29216385; 30123936; 31069492}. <em>YAP1 </em>alterations occur in a subset of predominantly paediatric meningiomas that do not have <em>NF2</em> mutations, possibly resulting in activation of the Hippo pathway {31734728}.</p>\r\n<p>Initiation and malignant progression of <em>NF2</em>-driven meningiomas has been confirmed in genetically engineered mouse models. Inactivation of <em>Nf2 </em>by injection of an adenovirus-encoding recombinant Cre into the subdural space of mice harbouring floxed <em>Nf2 </em>alleles (<em>Nf2</em><sup>flox/flox</sup>) with arachnoid-specific deletion of <em>Nf2</em> results in the induction of meningiomas, proving that inactivation of <em>NF2 </em>is an essential initial step for meningioma development {12000789}. <em>NF2 </em>alterations are found in meningiomas of all CNS WHO grades and thus represent an early event in meningioma development {20682713}. Progression of meningiomas to CNS WHO grades&nbsp;2 and 3 has been achieved in mice by combined arachnoid-specific deletion of <em>Nf2</em> along with <em>Cdkn2a</em> and <em>Cdkn2b </em>{23045274}.</p>\r\n<p>In contrast, tumour initiation of non-<em>NF2 </em>meningiomas has not been adequately modelled to date, but experimental evidence supports their role in oncogenesis. The meningioma hotspot mutation <em>AKT1</em> p.E17K, which is also found in breast and urinary bladder cancer, leads to constitutive activation of AKT1 and induces leukaemia in mice (which cannot be induced by wildtype <em>AKT1</em> alone), suggesting that the <em>AKT1</em> p.E17K mutation is an oncogenic driver {17611497; 26351323; 26859676}. The <em>SMO</em> hotspot mutations p.L412F and p.W535L are associated with increased SMO transactivating activity and development of basal cell carcinoma {12000789; 9422511}. <em>KLF4</em> has been associated with context-dependent tumour suppression or oncogenesis {16244670}, and it may act as a tumour suppressor in meningioma {28651379}. Functionally, the <em>KLF4</em> p.K409Q mutation triggers the induction of HIF1&alpha; {32245394}. TRAF7 interacts with MAP3K3 (MEKK3) and is involved in the regulation of the TNF-&alpha;/NF-&kappa;B signal transduction pathway {14743216}. Non-<em>NF2 </em>meningiomas with <em>TRAF7 </em>mutation show upregulation of the inhibitory immune checkpoint molecules PDL1, IDO, and TDO (TDO2) {31177425}, linking this mutation with suppressed immune response in meningiomas. The oncogenic potential of <em>PIK3CA </em>mutations has been demonstrated in several tumour types {32120136}, and <em>PIK3CA </em>mutations activate several proliferation-associated signalling pathways in meningiomas {25146167}. Moreover, <em>PIK3CA</em> mutations are convincingly linked to antihormone treatment. Women with meningioma who are under long-term progestin therapy carry <em>PIK3CA</em> mutations more frequently than those not under hormone therapy, and high-dose antiandrogen treatment with cyproterone leads to an enrichment of <em>PIK3CA-</em>mutated skull base meningiomas {29206892; 32642646}. <em>POLR2A </em>mutations may drive meningioma development by altering the transcriptional machinery and essential meningeal genes {27548314}.</p>",
+        "timestamp": "2021-10-11T09:45:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 534,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 513,
+    "contributions": [
+      {
+        "pkcontributionId": 72886,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 513,
+        "headingText": "\r\n<p>Meningiomas are generally solid, globular, circumscribed masses that have broad dural attachment. Some are lobulated or bilobed and others grow in a flat, carpet-like, en&nbsp;plaque pattern, such as those growing along the dura of the sphenoid bone. Meningiomas are firm, rubbery, or (sometimes) gelatinous or cystic. Some meningiomas, particularly the spinal psammomatous subtype, can have a gritty texture due to an abundance of psammoma bodies; others, such as the fibrous subtype, can have a smooth surface. Most grade&nbsp;1 meningiomas displace and compress the adjacent brain but are not adherent or invasive and can be separated readily from the brain. Higher-grade meningiomas, however, can be broadly adherent and invasive and may also feature areas of necrosis. Meningiomas can also invade the dural sinuses, for example, parasagittal meningiomas that can partly or completely obstruct the superior sagittal sinus. Occasionally, meningiomas invade the skull and induce reactive hyperostosis of areas such as the skull vault, the sphenoid bone, or the bones of the orbit. Meningiomas may also attach or encase cerebral arteries and/or cranial nerves, but they rarely infiltrate these structures. They may infiltrate through the cranium into the soft tissues of the scalp and skin, and into extracranial compartments, such as the orbit.</p>\r\n",
+        "timestamp": "2021-06-15T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 528,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 507,
+    "contributions": [
+      {
+        "pkcontributionId": 72887,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 507,
+        "headingText": "<p>The wide morphological spectrum of meningiomas is reflected by the 15&nbsp;subtypes described in <a style=\"cursor:pointer\" href=\"/attachment/45/91/19607\" target=\"_blank\">#19607</a>Box&nbsp;7.01 . The most commonly encountered subtypes are meningothelial, fibrous, and transitional meningiomas. Most subtypes have a benign clinical course and correspond to CNS WHO grade&nbsp;1. However, features of more aggressive growth can arise in any of these morphological patterns; in other words, the criteria defining atypical or anaplastic meningioma (see <a style=\"cursor:pointer\" href=\"/attachment/45/91/19608\" target=\"_blank\">#19608</a>Box&nbsp;7.02) should be applied regardless of the underlying subtype. Notably, two subtypes&nbsp;&ndash; chordoid and clear cell meningiomas&nbsp;&ndash; have been reported to have a higher likelihood of recurrence than the average CNS WHO grade&nbsp;1 meningioma and have therefore been assigned to CNS WHO grade&nbsp;2, independent of the criteria otherwise applied for CNS WHO grade&nbsp;2 atypical meningioma; nonetheless, larger and prospective studies would be helpful to validate these proposed CNS WHO grade&nbsp;2 assignments and to suggest additional prognostic biomarkers. In addition, historically, rhabdoid and papillary morphology qualified for CNS WHO grade&nbsp;3 irrespective of any other indications for malignancy. Although papillary and rhabdoid features are often seen in combination with other aggressive features, more recent studies suggest that the CNS WHO grade should be assigned by applying the criteria for CNS WHO grade&nbsp;2 atypical or CNS WHO grade&nbsp;3 anaplastic meningioma, not on the basis of rhabdoid or papillary histology alone {26705409}. Issues relating to grading meningiomas, as well as recommendations for the use of particular biomarkers, are discussed in the description of each subtype below.</p>\r\n<h5>Immunohistochemistry and proliferation</h5>\r\n<p>Immunohistochemistry can assist in establishing a meningioma diagnosis and can exclude other differential considerations. Meningiomas typically express EMA and vimentin. However, the EMA staining can be faint, focal, or even absent, particularly in fibrous and higher-grade subtypes, and vimentin positivity has low specificity. SSTR2A is expressed strongly and diffusely in almost all cases, but it can also be expressed in neuroendocrine neoplasms.</p>\r\n<p>Immunohistochemistry for Ki-67 can highlight an uneven distribution of proliferation and guide assessment of mitotic counts. Studies suggest that cases with a proliferation index &gt;&nbsp;4% have recurrence rates similar to those of CNS WHO grade&nbsp;2 (atypical) meningiomas, and that cases with an index &gt;&nbsp;20% are associated with mortality rates similar to those of CNS WHO grade&nbsp;3 (anaplastic) meningiomas. One study found that staining for the mitosis marker phosphohistone H3 can stratify meningiomas into three risk groups, defined by 0&ndash;2, 3&ndash;4, and &ge;&nbsp;5 labelled mitoses per 1000&nbsp;tumour cells {25040885}; however, interlaboratory differences that affect staining and interpretation limit the translation of these findings.</p>\r\n<h5>Meningothelial meningioma</h5>\r\n<p>In the meningothelial subtype of meningioma, epithelioid cells form syncytia-like lobules, with some nuclei appearing to have nuclear holes and pseudoinclusions.</p>\r\n<p>Meningothelial meningioma cells resemble the morphology of arachnoid cap cells. They are largely monomorphic, with abundant eosinophilic cytoplasm, and are arranged in lobules that can be demarcated by fine collagen septa. Borders between the cells are hardly appreciable with light microscopy, giving the impression of a syncytium, although ultrastructural investigations have revealed that the tumour cells have separate delicate processes, demonstrating that the pattern is a pseudosyncytium. The round to oval nuclei can have internal empty spaces (nuclear holes) and pseudoinclusions (cytoplasmic invaginations). Whorls and psammoma bodies are rare compared with their occurrence in transitional, fibrous, and psammomatous meningiomas.</p>\r\n<p>The similarity to arachnoid cap cells warrants caution when encountering small fragments that may also be compatible with meningothelial hyperplasia, which can occur in the vicinity of other neoplasms such as optic gliomas.</p>\r\n<p>Meningothelial meningiomas often harbour <em>AKT1</em> p.E17K mutations, frequently combined with <em>TRAF7</em> mutations (also common in secretory meningioma), or <em>SMO</em> and <em>PIK3CA</em> mutations {23348505; 23334667; 26826201; 24096618}. <em>AKT1</em>, <em>SMO</em>, and <em>PIK3CA</em> mutations are virtually absent in other subtypes. Conversely, <em>NF2</em> mutations are rare in meningothelial meningioma, as are deletions of chromosomal arm&nbsp;22q or other chromosomal alterations. The DNA methylation profile of meningothelial meningiomas is similar to that of secretory meningioma {28314689}. Meningiomas of this subtype are more common at the skull base than other subtypes, and the frequencies of <em>AKT1</em>, <em>TRAF7</em>, <em>SMO</em>, and/or <em>PIK3CA </em>mutations in meningothelial meningioma at this location are particularly high.</p>\r\n<h5>Fibrous meningioma</h5>\r\n<p>The fibrous subtype of meningioma has spindle cells in parallel, storiform, or interlacing bundles in a collagen-rich matrix.</p>\r\n<p>Tumour cells form fascicles with varying amounts of intercellular collagen. The collagen deposition can be extensive and suggest the differential diagnosis of solitary fibrous tumour, but only solitary fibrous tumour shows nuclear staining for STAT6. EMA expression can be weak or absent, whereas S100 staining can be surprisingly strong. In contrast to that seen in schwannoma, though, SSTR2A expression is often strong and diffuse in fibrous meningioma.</p>\r\n<p>Fibrous meningiomas typically show 22q deletion and mutation of the retained <em>NF2</em> allele, similar to transitional and psammomatous meningiomas. Their DNA methylation features overlap those of transitional and psammomatous meningiomas. They are frequently found at the convexity.</p>\r\n<h5>Transitional meningioma</h5>\r\n<p>The transitional subtype of meningioma contains meningothelial and fibrous patterns as well as transitional features.</p>\r\n<p>Lobular and fascicular areas appear side by side, with some areas not clearly attributable to one or the other of the two patterns (hence &ldquo;transitional&rdquo;). Whorl formation and psammoma bodies are frequent in this subtype. Transitional meningiomas share with fibrous and psammomatous meningiomas the features of frequent 22q deletions and <em>NF2</em> mutations, and they have similar DNA methylation characteristics. They often arise from the convexity.</p>\r\n<h5>Psammomatous meningioma</h5>\r\n<p>In the psammomatous subtype of meningioma, psammoma bodies predominate over the viable tumour cells.</p>\r\n<p>The overlap of individual psammoma bodies can result in large, confluent, calcified masses. Actual meningioma cells can be rare to virtually absent, but they can be highlighted by immunohistochemistry for EMA or SSTR2A. Non-calcified foci typically conform to the fibrous or transitional subtypes. Psammomatous meningiomas share molecular features with fibrous and transitional meningiomas, particularly 22q deletions, <em>NF2</em> mutations, and epigenetic profiles. This subtype often occurs in the thoracic spine region of middle-aged to elderly women.</p>\r\n<h5>Angiomatous meningioma</h5>\r\n<p>In the angiomatous subtype of meningioma, often-hyalinized small blood vessels predominate over the intermixed meningioma cells.</p>\r\n<p>Between the numerous vessels, the actual tumour cells may be hard to find and to identify as meningioma cells. Blood vessels can be thin- or thick-walled, and variably hyalinized. Angiomatous areas can also be intermixed with microcystic or even metaplastic areas, and, like in these subtypes, the cells can show degenerative nuclear atypia. Hypervascular examples may mimic haemangioblastoma but are typically inhibin-negative and SSTR2A-positive.</p>\r\n<p>Angiomatous, microcystic, and metaplastic meningiomas all have a high frequency of chromosome&nbsp;5 gain {25347344}.</p>\r\n<p>Like secretory and microcystic meningiomas, angiomatous meningiomas are often associated with cerebral oedema beyond that expected for the tumour size.</p>\r\n<h5>Microcystic meningioma</h5>\r\n<p>The microcystic subtype of meningioma has microcysts formed by cells with thin, elongated processes, creating a cobweb-like background on histology.</p>\r\n<p>The cysts can expand to macroscopically or radiologically detectable macrocysts. Like in angiomatous meningioma, the presence of degenerative nuclear atypia in microcystic meningioma can raise the suspicion of a higher grade. However, microcystic meningiomas are typically benign. Gain of chromosome&nbsp;5 is common, as it is in angiomatous and metaplastic meningiomas, with which microcystic areas can be combined {17225936}. Cerebral oedema is frequent, as it is in angiomatous and secretory meningiomas.</p>\r\n<h5>Secretory meningioma</h5>\r\n<p>The secretory subtype of meningioma is characterized by foci of gland-like epithelial differentiation with PAS-positive eosinophilic secretions and/or combined <em>KLF4</em> and <em>TRAF7</em> mutations.</p>\r\n<p>The eosinophilic secretions (pseudopsammoma bodies) are positive for a variety of epithelial and secretory markers, including CEA. The surrounding cells can also be positive for CEA and cytokeratins. Elevated CEA levels in the blood can occasionally be observed {1984492}, which drop with resection and rise in the rare cases of recurrence. Peritumoural oedema is common.</p>\r\n<p>Combined <em>KLF4</em> p.K409Q and <em>TRAF7</em> (distributed across the WD40 domain) mutations genetically characterize this subtype {23348505; 23404370}. In a few instances, the <em>KLF4</em> mutations may be isolated.</p>\r\n<h5>Lymphoplasmacyte-rich meningioma</h5>\r\n<p>Lymphoplasmacyte-rich meningioma is a rare subtype in which extensive chronic inflammatory infiltrates predominate over the meningothelial component.</p>\r\n<p>Despite the name, plasma cells may be scant, and macrophages often predominate {24467316}. In some cases, it may be challenging to distinguish this subtype from inflammatory disorders with patchy meningothelial hyperplasia.</p>\r\n<h5>Metaplastic meningioma</h5>\r\n<p>The metaplastic subtype of meningioma has focal or extensive mesenchymal components, including osseous, cartilaginous, lipomatous, myxoid, and xanthomatous tissue, either singly or in combinations.</p>\r\n<p>These alterations have no known clinical relevance, and most do not constitute true metaplasia (e.g. a lipomatous appearance as a result of lipid accumulation rather than true lipomatous metaplasia). The morphological features of metaplastic meningioma can overlap with those of angiomatous and microcystic meningiomas, and gain of chromosome&nbsp;5 is frequent in all three subtypes {28314689}.</p>\r\n<p>Ossification in metaplastic meningioma can be hard to distinguish from dystrophic ossification of psammoma bodies in psammomatous meningioma, or from bone invasion. Remnants of the concentric inner structure of psammoma bodies or radiographic imaging of adjacent bone, respectively, may assist in differentiation.</p>\r\n<h5>Chordoid meningioma</h5>\r\n<p>The chordoid subtype of meningioma predominantly resembles chordoma, featuring cords or trabeculae of small, epithelioid (or less often spindled), variably vacuolated cells embedded in a mucin-rich matrix.</p>\r\n<p>Chordoid areas are often interspersed with more typical meningioma; however, pure examples are also encountered. Chronic inflammatory infiltrates are often patchy when present, but they may be prominent. Chordoid meningiomas are characteristically large, supratentorial tumours, and the patients may be younger, with an average age at presentation of about 45&nbsp;years {26409888}. Chordoid meningiomas often lack any other high-grade histopathological features, but they have recurrence rates analogous to those of atypical meningiomas and have therefore been designated CNS WHO grade&nbsp;2 {10895812; 30382370}. One study reported frequent epithelial differentiation with NHERF1-immunoreactive cytoplasmic microlumina, similar to that in secretory meningiomas {29983887}. Rarely, patients have associated haematological conditions, such as anaemia or Castleman disease {3383139}. Chromosome&nbsp;2p deletions are overrepresented, but DNA methylation profiles overlap with those of other meningioma subtypes {30382370}.</p>\r\n<h5>Clear cell meningioma</h5>\r\n<p>The clear cell subtype of meningioma has a predominantly patternless or sheeting architecture containing round to polygonal cells with clear, glycogen-rich cytoplasm and prominent perivascular and interstitial collagen.</p>\r\n<p>The perivascular and interstitial collagen occasionally coalesces into large acellular zones of collagen or forms brightly eosinophilic, amianthoid-like collagen. It shows prominent PAS-positive and diastase-sensitive cytoplasmic glycogen. Whorl formation is vague and psammoma bodies are inconspicuous. Clear cell meningioma has a proclivity for the cerebellopontine angle and spine, especially the cauda equina region. It also tends to affect younger patients, including children and young adults (mean age in one series: 24&nbsp;years) {31765868}. Clear cell meningiomas are associated with more aggressive behaviour, including recurrence and occasional cerebrospinal fluid seeding, and have therefore been designated CNS WHO grade&nbsp;2, pending larger studies to confirm the higher rates of recurrence {7726360}. Both germline (familial examples) and somatic <em>SMARCE1 </em>mutations are common, with virtually all cases showing loss of nuclear SMARCE1 expression by immunohistochemistry {26803492; 28474749; 31589317}.</p>\r\n<h5>Papillary meningioma</h5>\r\n<p>The papillary subtype of meningioma is defined by the presence of a predominant perivascular pseudopapillary pattern.</p>\r\n<p>In the papillary subtype, meningioma tumour cells surround thin-walled blood vessels in a perivascular, pseudorosette-like pattern (i.e. a perivascular nucleus-free region). Some meningiomas have cells with rhabdoid cytomorphology arranged in a papillary architecture, consistent with a molecular and genetic link between the papillary and rhabdoid subtypes {21382093; 26705409; 28170043; 32405805}. Papillary meningiomas have been reported in children {1175134} and adults {26299848; 29382616}. These tumours are commonly associated with peritumoural oedema and bone hyperostosis or destruction; cyst formation can be seen {8577564; 26299848; 24993640}. A papillary growth pattern has been associated with brain invasion and aggressive clinical behaviour including dissemination and metastasis, predominantly to the lung {3719522; 1175134; 8206498; 21382093; 26299848}. Focal papillary architecture, in the absence of any other features of higher grades, does not suffice for designating tumours as CNS WHO grade&nbsp;2 or 3.</p>\r\n<p>Some meningiomas have cells with rhabdoid cytomorphology arranged in a papillary architecture {21382093; 26705409}. Consistent with this occasionally observed morphological overlap, papillary and rhabdoid meningiomas have the same genetic alterations: <em>PBRM1</em> is predominantly mutant or deleted in papillary meningioma, but it is also altered in single rhabdoid meningioma cases {32405805}. Similarly, <em>BAP1</em> mutations or deletions, typically found in rhabdoid meningiomas, have also been reported in papillary meningiomas or rhabdoid meningiomas with partly papillary features, which are then usually combined with alterations of <em>PBRM1</em> {32405805; 28170043}.</p>\r\n<h5>Rhabdoid meningioma</h5>\r\n<p>The rhabdoid subtype of meningioma is defined by the presence of rhabdoid cells, which are plump cells with eccentric nuclei, open chromatin, macronucleoli, and prominent eosinophilic paranuclear inclusions appearing either as discernible whorled fibrils or compact and waxy spheres.</p>\r\n<p>Rhabdoid features are usually present at primary resection but can become increasingly evident upon recurrence. Most rhabdoid meningiomas are highly proliferative and have other histological features of malignancy. Original cohorts of rhabdoid meningiomas comprised tumours with high rates of recurrence and death {9500225; 9850174}, supporting the designation as a CNS WHO grade&nbsp;3 malignancy. Most of the tumours in those cohorts otherwise fulfilled the criteria for classification as CNS WHO grade&nbsp;3 anaplastic/malignant meningioma, irrespective of rhabdoid cytology. A large portion of rhabdoid meningiomas, however, have since been diagnosed on the basis of rhabdoid cells alone, not fulfilling other criteria for CNS WHO grade&nbsp;3 classification; of those, 50% have CNS WHO grade&nbsp;1 features and 50% have CNS WHO grade&nbsp;2 features {26705409}. A meta-analysis showed that patient outcome is strongly correlated with CNS WHO grade, independent of the rhabdoid features; this work suggests that rhabdoid meningiomas should be graded similarly to non-rhabdoid meningiomas, but the authors cautioned that some of these tumours may still behave aggressively and that close patient follow-up is required {26705409}. Some meningiomas have cells with rhabdoid cytomorphology arranged in a papillary architecture, suggesting a relationship between these two subtypes {21382093; 26705409; 28170043; 32405805}. A subset of rhabdoid and/or papillary meningiomas arise in patients with germline mutations in the <em>BAP1 </em>gene as part of the <em>BAP1</em> tumour predisposition syndrome, in which family members may develop uveal and cutaneous melanoma, mesothelioma, and renal cell carcinoma, among other tumours. Importantly, in this context, immunohistochemical loss of BAP1 expression was associated with aggressive (consistent with CNS WHO grade&nbsp;3) clinical behaviour in these tumours {28170043}. In addition, as discussed above under <em>Papillary meningioma</em>, there may be overlap between the histological and genetic features of rhabdoid and papillary meningiomas.</p>\r\n<h5>Atypical meningioma</h5>\r\n<p>Atypical meningioma is an intermediate-grade meningioma with increased mitotic activity, brain invasion, and/or at least three of the following: high cellularity, small cells with a high N:C&nbsp;ratio, prominent nucleoli, sheeting (uninterrupted patternless or sheet-like growth), and foci of spontaneous (non-iatrogenic) necrosis.</p>\r\n<p>Increased mitotic activity was defined in one large clinicopathological series as &ge;&nbsp;2.5&nbsp;mitoses/mm<sup>2</sup> (equating to &ge;&nbsp;4&nbsp;mitoses per/10&nbsp;HPF of 0.16&nbsp;mm<sup>2</sup>, as originally described) {9414189}. Despite the name &ldquo;atypical meningioma&rdquo;, nuclear atypia is not a useful criterion, as it is often considered degenerative in nature and not associated with patient outcome. Clinical risk factors for atypical meningioma include male sex, non&ndash;skull base location, and prior surgery {21381014}. Atypical meningiomas have been associated with high recurrence rates despite gross total resection {19145156}, and bone involvement may be associated with a further increase in recurrence risk {19267533}. Brain invasion by meningioma is characterized by irregular, tongue-like protrusions of tumour cells into underlying GFAP-positive parenchyma, without intervening leptomeninges. Extension along perivascular Virchow&ndash;Robin spaces does not constitute brain invasion because the pia is not breached. Such perivascular spread and hyalinization is most commonly encountered in children and can mimic meningioangiomatosis {10435554; 15779237}. Brain invasion occurs most often in meningiomas with additional high-grade features. Nonetheless, the presence of brain invasion in clinically totally resected, otherwise benign-appearing meningiomas remains controversial, as it has been associated with recurrence rates similar to those of other CNS WHO grade&nbsp;2 meningiomas in some, but not all, studies {10223247; 27464983; 31713016}. Larger series with longer follow-up times may be needed to resolve this issue. Atypical meningiomas can be further risk stratified based on the inclusion of various additional clinicopathological and genetic factors {24536048; 26668184; 28314689; 29624151; 29627952; 29961125; 30253235; 32232472; 19267533}. However, some genetic changes (e.g. <em>TERT</em> promoter mutation or homozygous <em>CDKN2A</em> and/or <em>CDKN2B</em> deletion) are evidence for diagnosing CNS WHO grade&nbsp;3 meningioma (see below), so consideration should be given to <em>TERT</em>, <em>CDKN2A</em>, and <em>CDKN2B</em> analysis in clinically aggressive atypical meningiomas or those with borderline CNS WHO grade&nbsp;2/3 features.</p>\r\n<h5>Anaplastic (malignant) meningioma</h5>\r\n<p>Anaplastic (malignant) meningioma is a high-grade meningioma with overtly malignant cytomorphology (anaplasia) that can (1)&nbsp;resemble carcinoma, high-grade sarcoma, or melanoma; (2)&nbsp;display markedly elevated mitotic activity; (3)&nbsp;harbour a <em>TERT</em> promoter mutation; and/or (4)&nbsp;have a homozygous <em>CDKN2A</em> and/or <em>CDKN2B</em> deletion.</p>\r\n<p>A mitotic count of &ge;&nbsp;12.5&nbsp;mitoses/mm<sup>2</sup> (equating to &ge;&nbsp;20&nbsp;mitoses/10&nbsp;HPF of 0.16&nbsp;mm<sup>2</sup>, as originally described) was used to define markedly elevated mitotic activity in a study of 116&nbsp;patients {10223247}. Anaplastic meningiomas account for 1&ndash;3% of meningiomas. Most of these tumours display extensive necrosis and can invade brain. In some anaplastic cases, meningothelial origin can be confirmed using immunohistochemistry {26195322; 29660031} or genetic testing {28314689; 28713588; 31069492; 31158293}. Because malignant progression in meningiomas is a continuum of increasing anaplasia, determining the cut-off point between atypical and anaplastic meningioma can be challenging. Interobserver reproducibility is good for mitotic count but only fair for overt anaplasia {32447376}. The presence of a <em>TERT</em> promoter mutation confers a high risk of recurrence and short interval to progression, irrespective of other histological features {24261697; 26668184; 29312603}. Similarly, homozygous deletion of <em>CDKN2A</em> and/or <em>CDKN2B</em> is associated with high-grade histopathology, elevated risk of recurrence, and shorter time to progression {11485924; 11859969; 11958372; 12640680; 32642869}. Loss of H3 p.K28me3 (K27me3) is observed in about 10&ndash;20% of anaplastic meningiomas and is associated with shorter overall survival {29627952; 32447376}.</p>\r\n<h5>Other histopathological patterns</h5>\r\n<p>The large number of subtypes covered above already illustrates the wide morphological spectrum of meningiomas. However, meningiomas can have a variety of morphological characteristics that even exceed those of the established subtypes. These include meningiomas with oncocytic, mucinous, sclerosing, whorling&ndash;sclerosing, GFAP-expressing, and granulofilamentous inclusion&ndash;bearing features, or the occurrence of meningothelial rosettes {9130983; 17121136; 11849562; 11013967; 8279622; 15584214}. These patterns are rare, and the data on biological and clinical correlations are too scarce to identify any relevant implications.</p>",
+        "timestamp": "2021-11-11T10:07:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 529,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 508,
+    "contributions": [
+      {
+        "pkcontributionId": 72888,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 508,
+        "headingText": "\r\n<p>On intraoperative smear and touch preparations, characteristic cytological features of meningioma are often apparent, with oval, euchromatic nuclei (sometimes with intranuclear pseudoinclusions) and delicate cytoplasm visible. Whorls may be prominent on touch preparations. Adequate smears may be difficult in meningiomas with more copious collagen.</p>\r\n",
+        "timestamp": "2021-06-15T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 530,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 509,
+    "contributions": [
+      {
+        "pkcontributionId": 72889,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 509,
+        "headingText": "<p>Genetic changes (e.g. in <em>AKT1</em>, <em>SMO</em>, <em>PIK3CA</em>) are strongly related to the subtypes of meningioma, but do not define them<em>. </em>The status of most genetic alterations immediately relevant to subtyping and grading (including <em>TERT</em> promoter, <em>SMARCE1</em>, <em>KLF4</em> and <em>TRAF7</em>, and other alterations) can be assessed by DNA sequencing. Because <em>TERT</em> mutations can arise during progression, selection of tissue for DNA extraction should focus on the most malignant-appearing and proliferative regions. Homozygous deletion of <em>CDKN2A</em>&nbsp;and/or <em>CDKN2B </em>can be assessed by in&nbsp;situ hybridization or calculated from various high-throughput sequencing or hybridization assays; however, FISH probes are large, so small deletions can sometimes be missed by this technique. Rare events such as <em>TERT</em> activation by gene fusion or such as gene fusions involving <em>YAP1</em> may in some cases be inferred from high-resolution copy-number plots, but they can typically only be proved by RNA sequencing or in&nbsp;situ hybridization. <em>BAP1</em> and <em>PBRM1</em> can be affected by both mutation and deletion, thus requiring DNA sequencing and, if not already provided within the sequencing approach, independent copy-number assessment. Alternatively to DNA-based methods, surrogate immunohistochemical stains can be used to detect some genetic alterations, including SMARCE1 loss (clear cell meningioma), BAP1 loss (rhabdoid meningioma), or posttranslational modifications including H3 p.K28me3 (K27me3) status (trimethylation is lost in a subset of aggressive meningiomas).</p>\r\n<p>Methylome profiling can provide information about tumour type in histologically challenging cases and define the epigenetic subgroup; in addition, copy-number alterations are reported in parallel with the DNA methylation results.</p>",
+        "timestamp": "2021-09-06T10:30:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 533,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 512,
+    "contributions": [
+      {
+        "pkcontributionId": 72890,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 512,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/45/91/19901\" target=\"_blank\">#19901</a>Box&nbsp;7.03 .</p>\r\n",
+        "timestamp": "2021-06-15T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 531,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 510,
+    "contributions": [
+      {
+        "pkcontributionId": 72891,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 510,
+        "headingText": "<p>Brain invasion is a criterion for the diagnosis of CNS WHO grade&nbsp;2 meningioma, and bone invasion has been associated with worse prognosis in atypical meningioma {19267533}.</p>",
+        "timestamp": "2021-10-11T09:54:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 532,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 511,
+    "contributions": [
+      {
+        "pkcontributionId": 72892,
+        "bookId": 45,
+        "chapterId": 91,
+        "headingId": 511,
+        "headingText": "<p>The major prognostic questions regarding meningiomas involve estimates of recurrence, progression-free survival, and overall survival.</p>\r\n<h5>Clinical factors</h5>\r\n<p>A major clinical predictor of recurrence and overall survival is the extent of resection {26308667}, which is influenced by the tumour site, extent of invasion, attachment to critical intracranial structures, and availability of expert neurosurgical services. In most cases, meningiomas can be removed entirely, as assessed by operative or neuroradiological criteria; however, recurrence can occur even after complete resection. In one series, 20% of gross totally resected benign meningiomas recurred within 20&nbsp;years {3764651}. Rates of recurrence are significantly higher in CNS WHO grade&nbsp;2 and 3 meningiomas than in CNS WHO grade&nbsp;1 meningiomas {3945904}; mortality rates are also higher, and especially so in patients with CNS WHO grade&nbsp;3 tumours.</p>\r\n<h5>Histopathology and grading</h5>\r\n<p>Overall, CNS WHO grade is the most useful histopathological predictor of recurrence, and (as mentioned above) some histological subtypes of meningioma are more likely to recur. CNS WHO grade&nbsp;1 meningiomas have recurrence rates of about 7&ndash;25%, whereas CNS WHO grade&nbsp;2 meningiomas recur in 29&ndash;52% of cases and CNS WHO grade&nbsp;3 meningiomas in 50&ndash;94%. Even among CNS WHO grade&nbsp;1 meningiomas, however, the presence of some atypical features increases the risk of subsequent progression/recurrence {26274991}. Malignant histological features are associated with shorter survival times {26308667; 20932661; 10223247}. Anaplastic meningioma is often fatal, with median survival times ranging from &lt;&nbsp;2&nbsp;years to &gt;&nbsp;5&nbsp;years, depending on the extent of resection and the use of radiation therapy {10223247; 20225922; 28429237; 28731397}. In one study, which found a median overall survival of 2.6&nbsp;years and a 5-year survival rate of 10%, de&nbsp;novo anaplastic meningiomas had a better outcome than did secondary anaplastic meningiomas {29216385}. Patients with meningiomas that show high mitotic counts have significantly shorter overall survival than patients with meningiomas showing overt anaplasia without a high mitotic count, and those tumours are associated with significantly lower patient survival rates than atypical meningiomas {29216385; 32447376}.</p>\r\n<h5>Molecular features</h5>\r\n<p>A number of molecular features have prognostic significance in meningiomas. Higher-grade meningiomas are associated with more complex copy-number changes and chromosomal abnormalities {28713588; 23334667; 7876890}. DNA methylation patterns separate subgroups of meningiomas, including those with higher risk of recurrence {29627952; 31069492; 28314689}. Meningiomas that have <em>TERT</em> promoter mutations have a higher rate of malignant transformation, a shorter time to recurrence, and a lower overall survival rate than those without {24261697; 26668184; 29312603}. In a meta-analysis comprising 677&nbsp;patients, the median overall survival was 58&nbsp;months in patients with meningiomas harbouring <em>TERT</em> mutations versus 160&nbsp;months in the <em>TERT</em>-wildtype group {32041819}. Intragenic deletions in the dystrophin-encoding and muscular dystrophy&ndash;associated <em>DMD</em> gene are common in progressive/high-grade meningiomas and are associated with shorter overall survival {30123936}. A subset of meningiomas with rhabdoid features have inactivation of <em>BAP1</em> and a shorter time to recurrence than other meningiomas {28170043}. In papillary meningiomas, mutations in the chromatin modifier <em>PBRM1</em> are enriched, suggesting that such mutations may be linked with aggressive tumour behaviour {32405805}. Alterations in <em>CDKN2A</em> and/or <em>CDKN2B</em> (which are cell-cycle regulator genes) are frequently found in recurrent and progressive meningiomas and are associated with a poor prognosis {31729637; 20682713; 11958372}.</p>\r\n<p>Several potentially clinically actionable mutations have been described in meningiomas, including mutations in <em>SMO</em>, <em>AKT1</em>, and <em>PIK3CA </em>{23334667; 26826201; 23348505; 24096618}, for which targeted therapies have shown efficacy in other tumour types. Furthermore, PDL1 (which is associated with response to immune checkpoint blockade in other cancers) may be overexpressed in high-grade meningiomas {25609200}. Efficacy of immune checkpoint blockade has been described in rare meningiomas with high tumour mutation burdens due to the inactivation of components of the mismatch repair apparatus {30801050}. Ongoing precision medicine trials for meningiomas will help us understand the importance of these alterations for predicting response to therapy.</p>",
+        "timestamp": "2021-10-11T09:55:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

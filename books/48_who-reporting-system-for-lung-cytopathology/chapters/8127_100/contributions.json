@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 656,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 676,
+    "contributions": [
+      {
+        "pkcontributionId": 93873,
+        "bookId": 48,
+        "chapterId": 100,
+        "headingId": 676,
+        "headingText": "<p>Thoracic SMARCA4-deficient undifferentiated tumour (SMARCA4-UT) is a high-grade undifferentiated malignant epithelial neoplasm that occurs in adults and has significant thoracic involvement. Deficiency of SMARCA4 (BRG1) must be confirmed by ICC&nbsp;or molecular methods.</p>",
+        "timestamp": "2023-01-10T16:25:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 657,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 677,
+    "contributions": [
+      {
+        "pkcontributionId": 93874,
+        "bookId": 48,
+        "chapterId": 100,
+        "headingId": 677,
+        "headingText": "\r\n<p>SMARCA4 (BRG1) is a central component of the SWI/SNF chromatin-remodelling complex. Thoracic SMARCA4-UTs occur in adults (age range: 27&ndash;90 years) and have a male predilection. They often occur in patients with a significant smoking history {26343384; 28256572; 28643792; 31751681; 30451731}. Symptoms at presentation include dyspnoea, chest pain, weight loss, and symptoms related to metastases, such as seizures and bone pain {28643792}. SMARCA4-UTs often present at an advanced stage, and they have an aggressive course and a poor prognosis. The reported median overall survival time is 4&ndash;7&nbsp;months {26343384; 28256572; 28643792; 31751681; 30451731; 30762113}. Metastatic sites include lymph nodes, bone, adrenal glands, brain, and abdomen/pelvis {28256572; 28643792; 30762113; 31751681}. SMARCA4-UTs behave more aggressively than SMARCA4-deficient conventional non-small cell lung carcinoma (NSCLC) {26343384; 31751681}.</p>\r\n<p>Imaging features include large, poorly defined, compressive, PET-avid masses involving the mediastinum, pulmonary hilum, lung, and/or pleura. Focal lung involvement occurs in most cases {26343384; 28256572; 28643792; 31751681; 30451731; 30762113}.</p>\r\n",
+        "timestamp": "2022-11-22T09:40:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 658,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 678,
+    "contributions": [
+      {
+        "pkcontributionId": 93875,
+        "bookId": 48,
+        "chapterId": 100,
+        "headingId": 678,
+        "headingText": "<p >SMARCA4-UTs typically show undifferentiated morphology characterized by diffuse sheets of discohesive round to epithelioid cells, which are relatively monotonous, but mild to moderate cellular pleomorphism can be seen. Rhabdoid features may be present, albeit focally, in some tumours. Nuclei show perinucleolar clearing of the chromatin and prominent nucleoli. Plentiful mitoses and tumour necrosis are common. Spindle cells, clear cells, myxoid change, sclerosis, and an alveolar pattern are rare but have been reported {28256572; 30451731; 31751681}. Gland formation or keratinization is generally absent, but 5% of reported cases show undifferentiated morphology adjacent to areas of conventional NSCLC {31751681}.</p>",
+        "timestamp": "2022-11-22T09:40:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 659,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 679,
+    "contributions": [
+      {
+        "pkcontributionId": 93876,
+        "bookId": 48,
+        "chapterId": 100,
+        "headingId": 679,
+        "headingText": "<ul>\r\n<li>Hypercellular smears with dispersed single cells or loosely cohesive sheets</li>\r\n<li>Cells are round to ovoid or polygonal, intermediate in size, and often relatively monotonous, but pleomorphism does occur</li>\r\n<li>Cell borders may be prominent or poorly defined with fragile cytoplasm</li>\r\n<li>Rhabdoid morphology characterized by globular eosinophilic (Pap) perinuclear inclusions or cytoplasmic condensation may be seen but is not required for diagnosis and may not be well demonstrated in smears</li>\r\n<li>Nuclei are enlarged and round to oval but can show irregularities, with prominent nucleoli and perinucleolar clearing (Pap) in cells with eccentric cytoplasm</li>\r\n<li>Mitoses are frequent and apoptotic nuclei may be seen with rare streaking artefact</li>\r\n<li>Background is often necrotic and/or inflammatory, and multinucleation, giant cells, and bare nuclei in the background have been reported</li>\r\n</ul>\r\n<p><em>Reference(s):</em> {31448657; 31230044; 30286456; 32854100}</p>",
+        "timestamp": "2022-11-22T09:40:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 660,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 680,
+    "contributions": [
+      {
+        "pkcontributionId": 93877,
+        "bookId": 48,
+        "chapterId": 100,
+        "headingId": 680,
+        "headingText": "<p>The differential diagnosis is broad and includes any poorly differentiated or undifferentiated malignant epithelioid neoplasm, including neuroendocrine carcinomas, germ cell tumours, NUT carcinoma, lymphoma, melanoma, mesothelioma, and sarcoma (including rhabdomyosarcoma, <em>CIC</em>-rearranged sarcoma, malignant rhabdoid tumour, and epithelioid sarcoma). Appropriate ICC panels can aid in this differential diagnosis. NSCLC can usually be distinguished by the degree of glandular or squamous differentiation and ICC.</p>",
+        "timestamp": "2022-11-22T09:41:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 661,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 681,
+    "contributions": [
+      {
+        "pkcontributionId": 93878,
+        "bookId": 48,
+        "chapterId": 100,
+        "headingId": 681,
+        "headingText": "<p>The typical immunophenotype of SMARCA4-UT is loss of SMARCA4 (BRG1) and SMARCA2 (BRM); expression of CD34, SOX10, and/or SALL4; and absent or focally weak claudin-4 and keratin expression {28256572; 28643792; 30451731; 31751681}. Some cases show a severe reduction of SMARCA4 (BRG1) expression rather than a complete loss {28256572; 31751681; 30286456}. SMARCB1 (INI1) expression is retained. Synaptophysin expression is common {30762113; 31751681}, and expression of thyroid transcription factor&nbsp;1 (TTF1), p63, p40, or WT1 has been reported in rare cases {26343384; 28256572; 31751681}. As many as 5% of conventional NSCLC are deficient in SMARCA4 {23163725; 23872584; 26345631; 28038711; 31988001; 33367658} but may be distinguished by the presence of gland formation or keratinization, indicating adenocarcinoma or squamous cell carcinoma. Keratins and claudin-4 may be helpful, because expression of these markers is absent or only focally weak in SMARCA4-UT. Expression of SMARCA2 (BRM) is also typically lost in SMARCA4-UT but retained in carcinomas. Because none of these morphological or ICC features are entirely sensitive or specific, rare cases with features of both SMARCA4-UT and carcinoma remain difficult to classify.</p>\r\n<p>Sequencing can confirm the presence of <em>SMARCA4</em> mutation, but loss of SMARCA4 (BRG1) expression by ICC is sufficient for diagnosis. <em>SMARCA4</em> FISH has limited utility {31751681}.</p>",
+        "timestamp": "2022-11-30T15:29:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 89,
+    "bookId": "36",
+    "roleid": 151,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2012,
+        "lastname": "Srigley",
+        "firstname": "John R.",
+        "initials": "",
+        "email": "",
+        "roleid": 151,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 90,
+    "bookId": "36",
+    "roleid": 152,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2016,
+        "lastname": "Tsuzuki",
+        "firstname": "Toyonori",
+        "initials": "",
+        "email": "",
+        "roleid": 152,
+        "position": 0
+      },
+      {
+        "contributorid": 3766,
+        "lastname": "Amin",
+        "firstname": "Mahul B.",
+        "initials": "",
+        "email": "",
+        "roleid": 152,
+        "position": 0
+      },
+      {
+        "contributorid": 3767,
+        "lastname": "Rubin",
+        "firstname": "Mark A.",
+        "initials": "",
+        "email": "",
+        "roleid": 152,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 91,
+    "bookId": "36",
+    "roleid": 153,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2797,
+        "lastname": "McKenney",
+        "firstname": "Jesse K.",
+        "initials": "",
+        "email": "",
+        "roleid": 153,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 92,
+    "bookId": "36",
+    "roleid": 154,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4230,
+        "lastname": "Iczkowski",
+        "firstname": "Kenneth A.",
+        "initials": "",
+        "email": "",
+        "roleid": 154,
+        "position": 0
+      },
+      {
+        "contributorid": 4262,
+        "lastname": "Parwani",
+        "firstname": "Anil V.",
+        "initials": "",
+        "email": "",
+        "roleid": 154,
+        "position": 0
+      },
+      {
+        "contributorid": 4303,
+        "lastname": "van Leenders",
+        "firstname": "Geert J.L.H.",
+        "initials": "",
+        "email": "",
+        "roleid": 154,
+        "position": 0
+      }
+    ]
+  }
+]

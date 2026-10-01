@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 150819,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 951,
+        "headingText": "\r\n<p>Carcinoma of unknown primary (CUP) refers to metastatic disease where no primary tumour has been identified after extensive clinical, radiological, and pathological investigations. CUP with a GI tract profile is a distinct subgroup where the clinical, morphological, immunohistochemical, and/or molecular profile suggest origin from the GI tract.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 150820,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 952,
+        "headingText": "\r\n<p>Malignant neoplasm, metastatic (Code according to histology of the tumour.)</p>\r\n",
+        "timestamp": "2026-06-09T11:32:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 150821,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 953,
+        "headingText": "\r\n<p>2D44 Malignant neoplasm, primary site unknown, so stated</p>\r\n",
+        "timestamp": "2026-06-09T11:32:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 150822,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 954,
+        "headingText": "\r\n<p><em>Acceptable:</em> occult primary carcinoma</p>\r\n",
+        "timestamp": "2026-06-09T11:32:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 150823,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 955,
+        "headingText": "\r\n<p>Favourable CUP (CUP benefiting from site-specific therapy); unfavourable CUP (CUP where optimal treatment is undefined)</p>\r\n",
+        "timestamp": "2026-06-09T11:32:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 150824,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 956,
+        "headingText": "\r\n<p>The most common sites of presentation are lymph node, liver, lung, and bone deposits {15334635}. Multiple sites are involved in &gt;&nbsp;50% of patients. CUP with a GI tract profile is more frequently observed in certain sites (e.g. liver or lymph nodes that drain the GI tract). However, the pattern of metastasis is sufficiently indistinct that it cannot be used to determine the primary site {15334635}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 150825,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 957,
+        "headingText": "\r\n<p>CUP typically presents with a short history and rapidly progressive disease. The symptoms are nonspecific and may include fatigue, weight loss, breathlessness, pain, abdominal swelling, jaundice, or a palpable mass.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 150826,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 958,
+        "headingText": "\r\n<p>With improved technology the incidence of CUP is decreasing but still accounts for 2&ndash;4% of all malignancies {31695975;12915904;29808414;39096924;39068945}. The median age of onset is in the seventh decade of life, and there is no sex predisposition {12915904;29808414;39096924;39068945}. Approximately 80&ndash;85% of CUP are of an unfavourable subtype {39096924;39068945}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 150827,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 959,
+        "headingText": "\r\n<p>Risk factors include smoking, alcohol consumption, diabetes mellitus, obesity, autoimmune disease (particularly polymyositis/dermatomyositis, primary biliary cholangitis, and Addison disease), and a family history of either CUP or specific cancers (lung, kidney, and colorectal) {21189391;24692151;26103152;37020279}. In up to 2.8% of cases, a parent and offspring are both diagnosed with CUP {21189391}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 150828,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 960,
+        "headingText": "\r\n<p>It was previously not clear whether CUP represented a distinct clinicopathological entity driven by a specific genetic dysregulation, which drives both regression of the primary tumour and early dissemination, or a by convention grouping of tumours with unidentified primaries {17470684}. However, most authorities now favour the latter interpretation.</p>\r\n<p>Mutation signature profiling has demonstrated that some cases of unfavourable CUP are associated with tobacco, APOBEC, mismatch repair deficiency, and ultraviolet (UV) light signatures, providing clues to pathogenesis {37922692}. Some cases are associated with an immune response that may facilitate metastasis while limiting growth of the primary {38750007}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 150829,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 967,
+        "headingText": "\r\n<p>There are no gross features that distinguish metastasis from CUP, from other metastatic disease.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 150830,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 961,
+        "headingText": "\r\n<p>Sarcomas, melanomas, germ cell tumours, neuroendocrine tumours (NETs), and haematological malignancies are not included in the CUP definition and should be specifically excluded. Therefore, most cases of CUP are well to moderately differentiated adenocarcinomas (50&ndash;60%), followed by poorly differentiated or undifferentiated adenocarcinomas (30%) and squamous cell carcinomas (5&ndash;15%) {22414598;36563965}.</p>\r\n<p>Careful clinical and radiological investigation and judicious use of immunohistochemistry is mandatory in all patients with CUP. Suggested minimal immunohistochemical panels for patients with adenocarcinoma include CK7, CK20, CDX2, thyroid transcription factor&nbsp;1 (TTF1), supplemented by ER and PR, ERBB2 (HER2), GATA3, and SOX10 to exclude breast carcinoma in female patients and PSA and NKX3-1 for prostate cancer in male patients. Microsatellite instability&nbsp;/ mismatch repair&ndash;deficiency testing is recommended for all patients with CUP; however &lt;&nbsp;2% demonstrate microsatellite instability&nbsp;/ mismatch repair&ndash;deficiency {29571084;33219618;36563965}. Consideration of the clinical clues, imaging findings, morphological impression, and local resources guide the use of more extensive immunohistochemical testing.</p>\r\n<p>Using this approach, approximately 20% of CUPs can be classified into one of seven favourable subtypes (<a style=\"cursor:pointer\" href=\"/attachment/72/270/53217\" target=\"_blank\">#53217</a>Table&nbsp;15.04), where there is clear benefit in site-specific therapies similar to tumours of known origin with similar presentations {36563965}.The only favourable CUP type of presumed GI tract origin is the group that shows a similar morphological and immunohistochemical profile to colorectal carcinoma (colon-like CUP) and is defined by a CK7-negative, CK20-positive, CDX2-positive profile by immunohistochemistry. The diagnosis of favourable colon-like CUP may also be considered in patients with CK20-negative, microsatellite instability&nbsp;/ mismatch repair&ndash;deficiency CUP otherwise fitting colon-like criteria {36563965}. All remaining cases of CUP are considered unfavourable subtypes, and the majority are of likely GI tract origin or show a gastrointestinal profile.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 150831,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 962,
+        "headingText": "\r\n<p>Cytological evaluation of CUP requires sufficient material for immunohistochemistry and ancillary testing.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 150832,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 963,
+        "headingText": "\r\n<p>There are two complementary applications for molecular testing in the assessment of CUP. The first uses gene expression profiling and molecular cancer classifiers to identify the likely tissue of origin. Using this approach, the most commonly suggested sites of origin are pancreaticobiliary and gastro-oesophageal {39068945;23032625;30653423;33039710;39231374}. The second approach uses DNA/RNA analysis by next-generation sequencing gene panels designed to identify specific mutations, gene rearrangements, or other potentially actionable events (e.g. high tumour mutation burden), which may then be used to guide treatment regardless of the putative primary site of origin {14570089;19262901;33516660;34845302;36563965;38750007}. Using this approach, up to one&nbsp;third of CUPs harbour potentially targetable genomic alterations, and for some patients, a potential hereditary tumour syndrome may be suggested {39096924;39231374}. The identification of certain highly specific events by this next-generation sequencing approach may warrant reclassification of CUP to a specific diagnosis. For example, depending on the clinical circumstances, the identification of <em>FGFR2</em> rearrangements or IDH mutations in a tumour previously classified as CUP may warrant reclassification as small duct intrahepatic cholangiocarcinoma.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 150833,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 966,
+        "headingText": "\r\n<p><em>Essential:</em></p>\r\n<ul style=\"list-style-type: disc\">\r\n<li>For all types of CUP: primary site of origin not identified after comprehensive clinical, radiological, immunohistochemical assessment</li>\r\n<li>For favourable CUP: fulfilment of criteria for one of the entities listed in <a style=\"cursor:pointer\" href=\"/attachment/72/270/53217\" target=\"_blank\">#53217</a>Table&nbsp;15.04</li>\r\n<li>For unfavourable CUP: all other cases of CUP</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul style=\"list-style-type: disc\">\r\n<li>Advanced molecular testing may be beneficial in selected cases based on local resources</li>\r\n</ul>\r\n",
+        "timestamp": "2026-06-09T11:32:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 150834,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 964,
+        "headingText": "\r\n<p>There is no specific staging system for CUP.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 150835,
+        "bookId": 72,
+        "chapterId": 270,
+        "headingId": 965,
+        "headingText": "\r\n<p>CUP with a GI tract profile has a poor prognosis, with a median survival time of &lt;&nbsp;1&nbsp;year {39111110}. However, the median survival of patients with CUP with a GI tract profile of favourable, i.e. colon-like, subtype (CDX2+, CK7&ndash;, CK20+) is significantly better and similar to metastatic colon cancer when treated with site-specific therapies (20&ndash;37&nbsp;months) {18510991;22000811;22414598;30653423}. When an expanded definition of the favourable colon-like profile is used (CDX2+ regardless of CK7/CK20 status), the median survival falls from 37&nbsp;months to 21&nbsp;months {23813044}.</p>\r\n<p>Although the median progression-free survival of patients who received site-specific treatment guided by gene expression assays in some studies has been slightly better than that by historical controls or empirical treatment, the improvement is generally small (of the order of 3&nbsp;months) or insignificant {23032625;30653423;39068945}. Similarly, using comprehensive genomic testing to inform molecularly guided treatment in a group that had first reached disease control after induction chemotherapy improved median progression-free survival to 6.6&nbsp;months, compared with 4.4&nbsp;months on standard chemotherapy {39096924}.</p>",
+        "timestamp": "2026-06-09T11:32:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

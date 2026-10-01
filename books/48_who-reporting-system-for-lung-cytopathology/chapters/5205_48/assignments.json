@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 117,
+    "bookId": "48",
+    "roleid": 160,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3644,
+        "lastname": "Field",
+        "firstname": "Andrew S.",
+        "initials": "AS",
+        "email": "",
+        "roleid": 160,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 118,
+    "bookId": "48",
+    "roleid": 161,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4144,
+        "lastname": "Layfield",
+        "firstname": "Lester",
+        "initials": "",
+        "email": "",
+        "roleid": 161,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 119,
+    "bookId": "48",
+    "roleid": 162,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4338,
+        "lastname": "Maleki",
+        "firstname": "Zahra",
+        "initials": "",
+        "email": "",
+        "roleid": 162,
+        "position": 0
+      }
+    ]
+  }
+]

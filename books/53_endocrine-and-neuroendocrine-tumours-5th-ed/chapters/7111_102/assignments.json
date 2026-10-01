@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 149,
+    "bookId": "53",
+    "roleid": 173,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2923,
+        "lastname": "de Krijger",
+        "firstname": "Ronald R.",
+        "initials": "RR",
+        "email": "",
+        "roleid": 173,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 150,
+    "bookId": "53",
+    "roleid": 174,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2001,
+        "lastname": "Gill",
+        "firstname": "Anthony J.",
+        "initials": "AJ",
+        "email": "",
+        "roleid": 174,
+        "position": 0
+      },
+      {
+        "contributorid": 2933,
+        "lastname": "Erickson",
+        "firstname": "Lori A.",
+        "initials": "LA",
+        "email": "",
+        "roleid": 174,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 151,
+    "bookId": "53",
+    "roleid": 175,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3024,
+        "lastname": "Shimada",
+        "firstname": "Hiroyuki ",
+        "initials": "",
+        "email": "",
+        "roleid": 175,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 152,
+    "bookId": "53",
+    "roleid": 176,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 3646,
+        "lastname": "Jarzembowski",
+        "firstname": "Jason A.",
+        "initials": "",
+        "email": "",
+        "roleid": 176,
+        "position": 0
+      },
+      {
+        "contributorid": 4082,
+        "lastname": "Tonini",
+        "firstname": "Gian Paolo",
+        "initials": "",
+        "email": "",
+        "roleid": 176,
+        "position": 0
+      },
+      {
+        "contributorid": 4083,
+        "lastname": "Tornóczky",
+        "firstname": "Tamás",
+        "initials": "",
+        "email": "",
+        "roleid": 176,
+        "position": 0
+      },
+      {
+        "contributorid": 4088,
+        "lastname": "Fischer",
+        "firstname": "Matthias",
+        "initials": "",
+        "email": "",
+        "roleid": 176,
+        "position": 0
+      }
+    ]
+  }
+]

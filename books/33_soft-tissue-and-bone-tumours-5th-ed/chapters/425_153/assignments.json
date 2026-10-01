@@ -1,0 +1,98 @@
+[
+  {
+    "pkroleId": 70,
+    "bookId": "33",
+    "roleid": 28,
+    "roleTitle": "Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2365,
+        "lastname": "Nielsen",
+        "firstname": "G. Petur",
+        "initials": "",
+        "email": "",
+        "roleid": 28,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 71,
+    "bookId": "33",
+    "roleid": 29,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2464,
+        "lastname": "Baumhoer",
+        "firstname": "Daniel",
+        "initials": "",
+        "email": "",
+        "roleid": 29,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 72,
+    "bookId": "33",
+    "roleid": 30,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2394,
+        "lastname": "Rosenberg",
+        "firstname": "Andrew E.",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2418,
+        "lastname": "Cates",
+        "firstname": "Justin M.M.",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2426,
+        "lastname": "Hogendoorn",
+        "firstname": "Pancras C.W.",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2468,
+        "lastname": "Böhling",
+        "firstname": "Tom O.",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2469,
+        "lastname": "O'Donnell",
+        "firstname": "Paul G.",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2470,
+        "lastname": "Cleton-Jansen",
+        "firstname": "Anne-Marie",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      }
+    ]
+  }
+]

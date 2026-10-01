@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 106309,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 466,
+        "headingText": "\r\n<p>Malignant peripheral nerve sheath tumour (MPNST) is a spindle cell sarcoma arising from a peripheral nerve or from a pre-existing benign nerve sheath tumour, or in patients with neurofibromatosis type&nbsp;1 (NF1). Outside these settings, the diagnosis is based on morphological, immunophenotypic, or molecular features suggesting Schwannian differentiation.</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 106310,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 467,
+        "headingText": "<p>9540/3 Malignant peripheral nerve sheath tumour, NOS</p>\r\n<p>9542/3 Malignant peripheral nerve sheath tumour, epithelioid</p>",
+        "timestamp": "2023-05-19T11:49:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 106311,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 468,
+        "headingText": "\r\n<p>2B5E &amp; XH2XP8 Malignant nerve sheath tumour of peripheral nerves or autonomic nervous system, primary site &amp; Malignant peripheral nerve sheath tumour</p>\r\n<p>2B5E &amp; XH4V81 Malignant nerve sheath tumour of peripheral nerves or autonomic nervous system, primary site &amp; Malignant peripheral nerve sheath tumour, epithelioid</p>\r\n<p>2B5E &amp; XH2VV8 Malignant nerve sheath tumour of peripheral nerves or autonomic nervous system, primary site &amp; Malignant peripheral nerve sheath tumour with rhabdomyoblastic differentiation</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 106312,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> malignant schwannoma; neurofibrosarcoma; neurogenic sarcoma.</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 106313,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 470,
+        "headingText": "\r\n<p>Malignant peripheral nerve sheath tumour, epithelioid</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 106314,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 471,
+        "headingText": "\r\n<p>Most frequently affected are the trunk and extremities, because MPNSTs tend to arise within large spinal nerves, particularly the lumbosacral and brachial plexuses; less commonly, MPNSTs affect the head and neck region {16293873; 12632346; 31889416}.</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 106315,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 472,
+        "headingText": "\r\n<p>Like in adults, MPNSTs in children occur as enlarging soft tissue masses, often causing pain, dysaesthesia, or other neurological symptoms {1530109; 16293873; 31889416}. Most tumours are large (&gt;&nbsp;50&nbsp;mm) and often extend into adjacent structures {31241238}. MRI features that help distinguish MPNST from benign nerve sheath tumours include peripheral enhancement, peritumoural oedema, intratumoural heterogeneity or lobulation, and infiltrative margins, but their sensitivity is about 60% {27276118}. FDG&nbsp;PET is a useful high-sensitivity modality for differentiating benign peripheral nerve sheath tumour from MPNST {22645095; 29220302}, but false negative and positive results have been reported {22407214; 23242059}.</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 106316,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 473,
+        "headingText": "\r\n<p>In children, MPNSTs are very rare, representing only 8.6% of all MPNSTs (including those in adults) in the SEER Program database {31386019}. They typically affect teenagers {16293873; 21145727; 31241238}. The incidence of NF1 tends to be higher in children with MPNST than in adults with MPNST {31889416}.</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 106317,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 474,
+        "headingText": "\r\n<p>MPNSTs are associated with NF1 and irradiation. Isolated epithelioid MPNSTs have been reported in patients with NF1 {25602794}.</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 106318,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 475,
+        "headingText": "\r\n<p>Although biallelic inactivation of <em>NF1</em> is present at high frequency both in conventional MPNSTs and in their benign precursors, inactivating mutations of <em>CDKN2A</em> and/or <em>CDKN2B</em> and (at a lower frequency) of <em>TP53</em> preferentially characterize MPNST and atypical neurofibromas {25240281; 31023785; 32666581; 30722027}. Further, loss-of-function mutations of genes encoding the core components of PRC2, either <em>EED</em> or <em>SUZ12</em>, are found in the majority of conventional MPNSTs but not in their precursors; there is a higher frequency of PRC2 inactivation in sporadic and irradiation-associated MPNSTs than in NF1-associated MPNSTs {25240281; 25305755; 25119042; 30722027}. PRC2 usually establishes and maintains H3&nbsp;p.K27me2 and H3&nbsp;p.K27me3 in the genome, regulates chromatin structure, and represses the transcription of target genes; when PRC2 is inactivated, loss of its products H3&nbsp;p.K27me2 and H3&nbsp;p.K27me3 reprogrammes the chromatin landscape and allows for aberrant redistribution of H3&nbsp;p.K27ac, which in turn promotes the aberrant transcriptional activation of target genes {25240281; 26857854; 31023785; 32666581}. These genes are involved in developmental processes, and their expression may account for the not uncommon occurrence of heterologous elements in MPNST {25240281}.</p>\r\n<p>Epithelioid MPNSTs, distinct from conventional MPNSTs, are driven by <em>SMARCB1</em> gene inactivation in about 80% of cases. Identical <em>SMARCB1</em> alterations are also found in approximately 40% of epithelioid schwannomas, which are considered the putative precursors to epithelioid MPNSTs {30864974}.</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 106319,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 482,
+        "headingText": "\r\n<p>MPNSTs are large fusiform or oval masses, often showing a defined pseudocapsule; they are generally &gt;&nbsp;50&nbsp;mm in size, although tumours as small as 10&nbsp;mm have been reported in children {1530109; 12632346}. The cut surface is fleshy and whitish to grey, with frequent areas of necrosis and haemorrhage.</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 106320,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 476,
+        "headingText": "\r\n<p>The majority of MPNSTs consist of fascicles of spindle cells with pale cytoplasm and tapered, wavy, hyperchromatic nuclei. Densely cellular areas alternate with myxoid hypocellular areas, creating a distinctive marbled pattern. Perivascular cell condensation forming cuffs, sometimes with endoluminal protrusions, is characteristic. Geographical necrosis (often with a perivascular-sparing pattern) and numerous mitoses are present. A haemangiopericytoma-like vascular pattern is often seen. A herringbone or storiform growth pattern are sometimes encountered and may be reminiscent of other spindle cell sarcomas. Extensive pleomorphism is not a typical feature, but it may occur. A residual nerve trunk and the association with a neurofibroma, especially plexiform neurofibroma, are important diagnostic clues. In MPNST arising in the setting of NF1, the distinction between low-grade MPNST, atypical neurofibroma, and atypical neurofibromatous neoplasm of uncertain malignant potential may be challenging. Diagnostic criteria have been proposed to help in these differential diagnoses {28551330}. Heterologous elements from divergent mesenchymal or epithelial differentiation are rarely observed in paediatric MPNST; when they are present, it is typically in the context of NF1-associated MPNST {6432304; 6235165; 8202648; 15735851}. Rhabdomyosarcomatous MPNST, also known as malignant triton tumours, features scattered rhabdomyoblasts. At the extreme end of this spectrum are rare sarcomas showing an exclusively rhabdomyosarcomatous morphology, absence of H3&nbsp;p.K27me3 immunostaining, and MPNST molecular alterations (e.g. mutation in <em>NF1</em>, <em>CDKN2A</em>, or <em>SUZ12</em>) {31107719}. MPNSTs with epithelial differentiation display benign glands with or without mucin secretion {8078812; 8252477}.</p>\r\n<p>About 15% of epithelioid MPNSTs occur in children {1746681; 26096054}. Compared with conventional MPNST, a superficial location is more frequent. Epithelioid MPNSTs may occasionally arise in a pre-existing neurofibroma or schwannoma (conventional or epithelioid) {25602794}. Epithelioid MPNSTs are frequently multinodular, with plump epithelioid cells showing abundant eosinophilic cytoplasm and vesicular nuclei with prominent nucleoli, within a variable myxoid or hyalinized stroma.</p>\r\n<p>Immunostaining for S100 is patchy or focal in about 50% of conventional MPNSTs, with higher expression in low-grade tumours {30137667}. SOX10 is expressed in 70&ndash;84% of MPNSTs {23929265; 30137667}. Complete loss of H3&nbsp;p.K27me3 immunostaining is found in about 40% of tumours {26990975; 32666581}&nbsp;&ndash; more frequently in tumours with classic morphology (~75%), and less frequently in low-grade or rhabdomyosarcomatous MPNSTs and in paraspinal locations {26857854; 32666581}. Myogenic markers, including desmin, MSA, MYOD1, and myogenin, can be used to verify the presence of rhabdomyoblasts. Melanocytic markers, i.e. melan-A and tyrosinase, may be rarely expressed (14% and 6% respectively), representing a pitfall for misdiagnosis as spindle cell melanoma {30137667}. Epithelioid MPNST displays strong and diffuse staining for S100 and an absence of melanocytic markers; immunostaining of H3&nbsp;p.K27me3 is retained, whereas SMARCB1 is lost in as many as 70% of cases {25602794}. Loss of SMARCB1 is also observed in a subgroup of epithelioid schwannoma and cannot be used to differentiate these two entities {26752543; 28368924}.</p>\r\n<p>Like in adults, synovial sarcoma (the most frequent paediatric sarcoma other than rhabdomyosarcoma) is the main differential diagnosis for MPNST in children, and it may rarely arise within a peripheral nerve {14685256; 23929265}. For low-grade MPNST, kinase-rearranged mesenchymal tumours should be considered mainly in lesions with patchy S100 expression in the absence of SOX10 expression {30276917; 30585824}. For MPNST with heterologous elements, rhabdomyosarcoma (which may focally express S100), immature teratoma, and <em>DICER1</em> malignant teratoid tumour {31296931} enter into the differential. For epithelioid MPNSTs, rhabdoid tumours and proximal-type epithelioid sarcomas should be considered {16353216}.</p>\r\n<p>Proposed nomenclature for the spectrum of NF1-associated peripheral nerve sheath tumours is presented in <a style=\"cursor:pointer\" href=\"/attachment/44/192/18099\" target=\"_blank\">#18099</a>Table&nbsp;6.07 .</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 106321,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 106322,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 478,
+        "headingText": "\r\n<p>It is important to exclude the entities that enter into the differential and have recurrent molecular alterations (e.g. <em>SS18</em> [<em>SYT</em>] rearrangement, kinase fusions). Identification of MPNST molecular alterations (e.g. <em>NF1</em> inactivating mutations) in the appropriate clinicopathological context may improve diagnostic accuracy.</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 106323,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> a sarcoma arising from a peripheral nerve or in the context of a pre-existing neurofibroma or in a patient with NF1; a sarcoma consisting of fascicles of monomorphic spindle cells with alternating hypercellular and hypocellular areas, geographical tumour necrosis, and numerous mitoses; a spindle cell sarcoma with heterologous elements; a spindle cell sarcoma with nerve sheath differentiation demonstrated by immunohistochemistry (SOX10, S100) or loss of H3&nbsp;p.K27me3 or with MPNST molecular signature; for epithelioid MPNST: a tumour consisting of epithelioid cells with prominent nucleoli showing diffuse expression of S100, absence of melanocytic markers, and SMARCB1 loss.</p>\r\n<p><em>Desirable:</em> for epithelioid MPNST: an associated schwannoma.</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 106324,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-15T14:23:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 106325,
+        "bookId": 44,
+        "chapterId": 192,
+        "headingId": 480,
+        "headingText": "<p>Paediatric MPNSTs are aggressive sarcomas with 5-year event-free and overall survival rates of 37% and 51%, respectively {16293873}. Localized disease tends to have a better prognosis (event-free survival: 53%; overall survival: 62%) {31241238}. MPNSTs recur locally in &gt;&nbsp;50% of patients; less frequently, they metastasize to the lungs, brain, liver, bone, or soft tissue within 16&nbsp;months of diagnosis. Intergroup Rhabdomyosarcoma Study&nbsp;IRS-III stage (residual macroscopic disease) and NF1 are associated with worse event-free survival {31241238}. Large size, a non-extremity site, and NF1 are associated with a worse overall survival {16293873; 1530109; 31241238; 31889416}. The prognostic role of histological grade is controversial.</p>",
+        "timestamp": "2023-05-10T16:01:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

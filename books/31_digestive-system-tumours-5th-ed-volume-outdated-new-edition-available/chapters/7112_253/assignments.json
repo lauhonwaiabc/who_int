@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 58,
+    "bookId": "31",
+    "roleid": 9,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2002,
+        "lastname": "Goldblum",
+        "firstname": "John R.",
+        "initials": "",
+        "email": "",
+        "roleid": 9,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 60,
+    "bookId": "31",
+    "roleid": 11,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2022,
+        "lastname": "Lam",
+        "firstname": "Alfred King-yin",
+        "initials": "AK",
+        "email": "",
+        "roleid": 11,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 63,
+    "bookId": "31",
+    "roleid": 23,
+    "roleTitle": "Responsible author (Edition)",
+    "contributors": [
+      {
+        "contributorid": 2022,
+        "lastname": "Lam",
+        "firstname": "Alfred King-yin",
+        "initials": "AK",
+        "email": "",
+        "roleid": 23,
+        "position": 0
+      }
+    ]
+  }
+]

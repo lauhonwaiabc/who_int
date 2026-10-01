@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 796,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 688,
+    "contributions": [
+      {
+        "pkcontributionId": 121806,
+        "bookId": 49,
+        "chapterId": 85,
+        "headingId": 688,
+        "headingText": "\r\n<p>Burkitt lymphoma (BL) is a mature aggressive B-cell neoplasm composed of monomorphic, medium cells with basophilic cytoplasm, multiple small nucleoli, a germinal-centre B-cell phenotype, a high proliferation index, and an IG::<em>MYC</em> rearrangement.</p>\r\n",
+        "timestamp": "2024-09-24T16:39:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 797,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 689,
+    "contributions": [
+      {
+        "pkcontributionId": 121807,
+        "bookId": 49,
+        "chapterId": 85,
+        "headingId": 689,
+        "headingText": "<p>There are three subtypes of BL: endemic, sporadic, and immunodeficiency-associated. These subtypes differ in geographical distribution, biological features, and clinical presentation (<a style=\"cursor:pointer\" href=\"/attachment/49/85/29099\" target=\"_blank\">#29099</a>Table&nbsp;7.06).</p>\r\n<p>Endemic BL occurs most frequently in equatorial Africa and Papua New Guinea in regions with endemic infection by <em>Plasmodium falciparum</em> {19897039; 26276629}, and it is associated with a high frequency of Epstein&ndash;Barr virus (EBV) infection {18767045; 24434689}. These cofactors result in polyclonal B-cell activation and suggest a polymicrobial disease pathogenesis, with EBV likely extending B-cell survival and malarial infection promoting genetic instability {26276629; 15581545}. Patients with the endemic subtype present with involvement of facial bones, most often the jaw (in 50&ndash;70% of patients), and many also have visceral disease at diagnosis and can present with an abdominal mass. Presentation as acute leukaemia is uncommon.</p>\r\n<p>The sporadic subtype occurs worldwide, but it has a low incidence, accounting for &lt;&nbsp;1% of adult and 30&ndash;50% of childhood lymphomas in the USA and Europe. The frequency of EBV infection is 20&ndash;30%, and no relationship with malaria has been established. The median age at diagnosis is 30&nbsp;years, but a second, smaller incidence peak occurs in elderly patients {22488262}. Patients commonly present with an abdominal mass, often arising in the ileocaecal region of the gastrointestinal tract, and clinical manifestations are secondary to compression or infiltration of structures by tumour. A subset of adult patients may present with an acute leukaemic presentation.</p>\r\n<p>Immunodeficiency-associated BL is most often associated with HIV infection, but it can also occur in allograft recipients and patients with congenital immunodeficiency {32735838}. EBV infection is present in 25&ndash;40% of patients. HIV-positive patients have a 10&ndash;20&nbsp;times increased risk of BL, which develops when CD4+ T-cell counts are relatively intact, implying that host immunity is involved in pathogenesis. The most common sites of involvement by immunodeficiency-associated BL are the gastrointestinal tract, bone marrow, and lymph nodes {16614233; 32735838}. The diagnosis of BL in HIV-positive patients can be the first manifestation of HIV infection {16614233}. Patients characteristically present with a rapidly growing extranodal mass, as BL has a short doubling time of 24&ndash;48&nbsp;hours, and the history of symptoms or mass may be short. At diagnosis, about 30% of patients have localized disease and 70% have advanced-stage disease. However, traditional Ann Arbor staging is suboptimal in the evaluation of patients, and other staging systems have been proposed {25940716}. BL tends to spread to the CNS, and therefore prompt and aggressive chemotherapy should be instituted {24492847}. BL is highly sensitive to chemotherapy, and using current regimens, overall survival is 70&ndash;90%, with the best outcomes in children {32735838; 33171490}. Disease relapse usually occurs within the first year after treatment. Adverse prognostic factors include bone marrow or CNS involvement, unresected tumour size &gt;&nbsp;100&nbsp;mm in diameter, elevated serum LDH level, and advanced-stage disease.</p>\r\n<p>Imaging plays a critical role, from initial detection to the evaluation of treatment response and potential complications {31115699}. CT and PET offer rapid, whole-body evaluation and staging information. In patients with lymphadenopathy, ultrasound can be useful for evaluating lymph node architecture and assessment of benign versus malignant {19380555}.</p>",
+        "timestamp": "2024-09-30T14:08:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 798,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 690,
+    "contributions": [
+      {
+        "pkcontributionId": 121808,
+        "bookId": 49,
+        "chapterId": 85,
+        "headingId": 690,
+        "headingText": "\r\n<p>BL is characterized by a diffuse infiltrate of monomorphous, intermediate cells associated with dispersed tingible-body macrophages, conferring a starry-sky appearance {16006805; 17875505}. The mitotic rate is very high. Lymphoma cells appear cohesive, and their cytoplasmic borders can square off against each other in tissue sections, which is attributable to retraction artefact. Each lymphoma cell has a round nucleus with finely clumped chromatin and several small basophilic nucleoli. The cytoplasm is moderately abundant and contains tiny lipid vacuoles, best seen in smears or touch imprints. A subset of HIV-associated cases can show more nuclear pleomorphism or plasmacytoid differentiation {1868025}.</p>\r\n",
+        "timestamp": "2024-09-24T16:39:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 799,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 691,
+    "contributions": [
+      {
+        "pkcontributionId": 121809,
+        "bookId": 49,
+        "chapterId": 85,
+        "headingId": 691,
+        "headingText": "\r\n\r\nModerate to high cellularity\r\nDispersed monomorphic intermediate cells\r\nSlightly larger, more pleomorphic cells with or without plasmacytic differentiation in HIV-associated cases\r\nRound nuclei with coarse chromatin and clear parachromatin\r\nEach nucleus has two to four medium-sized basophilic (Giemsa stain) nucleoli.\r\nBasophilic (Giemsa stain) cytoplasm with tiny clear lipid vacuoles, usually perceptible only in Giemsa stains\r\nMitotic figures are numerous.\r\nThe background shows numerous scattered tingible-body macrophages, apoptotic cells, cellular debris, and sometimes areas of coagulative necrosis.\r\n\r\n<p><em>Reference(s):</em> {15986398}</p>\r\n",
+        "timestamp": "2024-09-24T16:39:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 800,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 692,
+    "contributions": [
+      {
+        "pkcontributionId": 121810,
+        "bookId": 49,
+        "chapterId": 85,
+        "headingId": 692,
+        "headingText": "<p>Currently, there is no single parameter that can be used as a gold standard for establishing the diagnosis of BL; FNAB can suggest but not definitively make the specific diagnosis, and a multiparameter approach is required.</p>\r\n<p>The differential diagnosis of BL includes a number of neoplasms (<a style=\"cursor:pointer\" href=\"/attachment/49/85/29100\" target=\"_blank\">#29100</a>Table&nbsp;7.07), particularly B-cell lymphomas that can cytomorphologically overlap with BL, including diffuse large B-cell lymphoma NOS (DLBCL-NOS), which usually has larger cells with perinucleolar chromatin clearing (&ldquo;vesicular&rdquo; nuclei in Pap), is often less proliferative, and occurs in older patients than BL. DLBCL&nbsp;/ high-grade B-cell lymphoma (HGBCL) with <em>MYC</em> and <em>BCL2</em> rearrangements rarely mimics BL, and these neoplasms more commonly resemble DLBCL-NOS or have intermediate cells with more pleomorphism than BL {23939148; 29785017}. These neoplasms usually occur in older patients, and nodal involvement is more common than in BL.</p>\r\n<p>HGBCL with 11q aberration is a rare diagnostic entity usually occurring in children and young adults {24398325}. These neoplasms more commonly involve lymph nodes than do cases of BL, may have a follicular pattern, and unlike BL tend to not involve bone marrow or the CNS. The blastoid subtype of mantle cell lymphoma can exhibit a starry-sky pattern and high proliferation rate similar to BL. Cases of mantle cell lymphoma tend to occur in older patients; they are often nodal and are positive for CD5, cyclin&nbsp;D1, and SOX11, unlike BL. Mantle cell lymphoma cases usually carry t(11;14)(q13;q32), involving <em>CCND1</em> and IGH, and <em>MYC</em> rearrangements are uncommon {32273477}.</p>",
+        "timestamp": "2024-12-06T17:45:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 801,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 693,
+    "contributions": [
+      {
+        "pkcontributionId": 121811,
+        "bookId": 49,
+        "chapterId": 85,
+        "headingId": 693,
+        "headingText": "<p>Flow cytometry analysis should be performed whenever possible, to facilitate rapid and accurate diagnosis {32497402}. BL cells are of B-cell lineage, positive for monotypic light chain, IgM, pan&ndash;B-cell antigens (CD19, CD20, CD22, and CD79a), B-cell transcription factors (OCT2, BOB1), germinal-centre B-cell markers (CD10 and BCL6), CD38 (strong), CD81, TCL1, and MYC (strong) and negative for pan&ndash;T-cell antigens, CD5, CD23, CD44, CD138, CD200, LMO2, and TdT {16006805; 25389338; 31484540}. BL has a very high proliferation rate as shown by Ki-67 (&gt;&nbsp;95%), and BCL2 is usually negative (rarely weak). FISH for EBV-encoded RNA is positive in &gt;&nbsp;95% of endemic BL cases, 20&ndash;30% of sporadic cases, and 20&ndash;40% of immunodeficiency-associated cases.</p>\r\n<p><em>MYC</em> (8q24) translocations occur in 90&ndash;95% of cases. Conventional cytogenetic analyses show t(8;14)(q24;q32) in 80% of cases, and t(2;8)(p12;q24) and t(8;22)(q24;q11) in 20% of cases, involving IGH, IGK, and IGL, respectively. Additional cytogenetic abnormalities are common and include gains of chromosome&nbsp;1q, chromosome&nbsp;7, and chromosome&nbsp;12, and losses of chromosome&nbsp;6q, 13q32-34, and chromosome&nbsp;17p {16862570; 26104998}. About 5&ndash;10% of cases of BL lack <em>MYC</em> translocations. Cryptic insertions of <em>MYC</em> into IGH have been described {31073073}. Alternative mechanisms that dysregulate <em>MYC</em> likely also occur in a small subset of cases.</p>\r\n<p>Gene expression profiling has shown that BL has a characteristic signature with only minor differences between subtypes {16760442; 21245480; 21701491; 30617194}. NGS has shown mutations of <em>ID3</em> and <em>TCF3</em> that activate B-cell receptor signalling in 70% of sporadic cases {24492847}. Mutations of <em>CCND3</em>, <em>TP53</em>, <em>RHOA</em>, <em>SMARCA4</em>, and <em>ARID1A</em> occur in 10&ndash;40% of sporadic cases {30617194; 31558468}. This profile of gene mutations has also been shown in cases of endemic and HIV-associated BL, but with a different frequency, in part attributable to EBV infection. EBV-positive tumours have fewer gene mutations than EBV-negative tumours {33505922}.</p>\r\n<p>Within the differential diagnosis of BL, in DLBCL-NOS, BCL2 is often positive, and <em>MYC</em> rearrangements occur in about 10% of cases. HGBCL-NOS is commonly strongly positive for BCL2, with a more variable proliferation rate of Ki-67 ranging from 70% up to virtually all cells being positive. Comparative genomic hybridization is needed to prove the presence of 11q23.2-23.3 gains and 11q24-ter losses to distinguish HGBCL with 11q aberration, which frequently shows CD16 and CD56 expression, which are generally not reported in BL {29327714}. LMO2 expression can be seen in up to 70% of HGBCL with 11q aberrations {31484540}, which also shows weak intensity of MYC expression and no <em>MYC</em> rearrangements.</p>",
+        "timestamp": "2024-12-06T17:46:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

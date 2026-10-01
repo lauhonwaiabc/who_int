@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 64615,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 370,
+        "headingText": "\r\n<p>Adenoid basal carcinoma is an epithelial tumour composed of morphologically bland small rounded nests of basaloid cells.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 64616,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 371,
+        "headingText": "\r\n<p>8098/3 Adenoid basal carcinoma</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 64617,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 372,
+        "headingText": "\r\n<p>2C77.1 &amp; XH70J2 Adenocarcinoma of cervix uteri &amp; Adenoid basal carcinoma</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 64618,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 373,
+        "headingText": "<p><em>Acceptable:</em> adenoid basal epithelioma; low-grade adenoid basal tumour</p>",
+        "timestamp": "2020-06-03T09:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 64619,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 64620,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 375,
+        "headingText": "\r\n<p>Cervix (usually at the transformation zone)</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 64621,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 376,
+        "headingText": "\r\n<p>Patients are generally asymptomatic. Unless associated with another tumour type, the tumour is usually discovered as an incidental finding in patients who are being managed for an abnormal Pap test result {16911774; 9706976}.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 64622,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 377,
+        "headingText": "\r\n<p>In the reported cases, patients have ranged in age from 21 to 91&nbsp;years (mean: 64.6&nbsp;years) {16911774}.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 64623,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 378,
+        "headingText": "\r\n<p>High-risk HPV has been detected in the majority of cases {15712186; 22809729; 26352551}.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 64624,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 379,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 64625,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 386,
+        "headingText": "\r\n<p>A gross abnormality is usually absent unless another type of carcinoma is also present.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 64626,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 380,
+        "headingText": "\r\n<p>Adenoid basal carcinoma is an epithelial tumour composed of small, bland, well-differentiated, rounded nests or sometimes cords of relatively monomorphic basaloid cells with scant cytoplasm {9706976}. The nests of tumour cells may display peripheral palisading, cystic change, clear cell change, and focal glandular or squamous differentiation. A stromal reaction is usually absent. Adenoid basal carcinoma is often associated with a high-grade squamous intraepithelial lesion (&gt;&nbsp;90%) or with an invasive carcinoma of another type, most commonly squamous cell carcinoma {15712186; 22809729; 26352551}. Therefore, a definitive diagnosis of pure adenoid basal carcinoma requires evaluation of the entire tumour. Adenoid basal carcinoma associated with another invasive carcinoma type should be reported as a mixed carcinoma, with a description of the constituent histotypes and their proportions. Adenoid basal carcinoma should be distinguished from adenoid basal hyperplasia, a non-neoplastic lesion of reserve cell origin that is negative for p16 and HPV {9706976; 22809729}. Immunohistochemically, the tumour cells are positive for broad-spectrum cytokeratins, p63, and p16 (block-type immunoreactivity) {16911774; 15712186; 22809729; 26352551}.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 64627,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 381,
+        "headingText": "\r\n<p>Rarely identified in Pap tests, adenoid basal carcinoma has been described as crowded sheets of small, uniform cells with hyperchromatic oval nuclei {8964176}. The most common Pap test result preceding a diagnosis of adenoid basal carcinoma is high-grade squamous intraepithelial lesion {9706976}.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 64628,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 64629,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> a non&ndash;mass-forming lesion; infiltrative small nests or cords of morphologically bland basaloid cells; absence of stromal reaction.</p>\r\n<p><em>Desirable:</em> p16 and/or HPV determination.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 64630,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 383,
+        "headingText": "\r\n<p>The staging is the same as for other cervical tumours.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 64631,
+        "bookId": 34,
+        "chapterId": 311,
+        "headingId": 384,
+        "headingText": "<p>Adenoid basal carcinoma has no known metastatic potential when occurring in pure from {16911774; 9706976}, and therefore the term &ldquo;adenoid basal tumour&rdquo; has been suggested. The outcome of mixed carcinomas with an adenoid basal tumour component depends on the prognostic features of the other component {16911774; 15712186}.</p>",
+        "timestamp": "2020-06-03T09:15:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

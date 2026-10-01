@@ -1,0 +1,47 @@
+[
+  {
+    "pkattachmentId": 38632,
+    "bookid": 36,
+    "chapterId": 85,
+    "fileId": 22037,
+    "type": "Figure",
+    "diagnosis": "Villous adenoma of the bladder",
+    "title": "",
+    "legend": "Villous adenoma is characterized by elongated villous structures lined by epithelium with focal intestinal metaplasia, nuclear pleomorphism, and hyperchromasia. Tubular areas are also present focally.",
+    "source": "Jesse K. McKenney",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/36/85/22037.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/36/85/thumb_22037.jpg"
+  },
+  {
+    "pkattachmentId": 38953,
+    "bookid": 36,
+    "chapterId": 85,
+    "fileId": 20006,
+    "type": "WSI",
+    "diagnosis": "Villous adenoma of the urinary bladder",
+    "title": "",
+    "legend": "Elongated villous architecture lined by epithelium with focal intestinal metaplasia, nuclear pleomorphism, crowding, and hyperchromasia. ",
+    "source": "Nadine T. Gaisa",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/20006.dzi",
+    "thumbnail": null
+  },
+  {
+    "pkattachmentId": 38987,
+    "bookid": 36,
+    "chapterId": 85,
+    "fileId": 22038,
+    "type": "WSI",
+    "diagnosis": "Villous adenoma ",
+    "title": "",
+    "legend": "Villous adenoma of the urinary bladder. Characterized by elongated villous architecture lined by epithelium with focal intestinal metaplasia, nuclear pleomorphism, crowding, and hyperchromasia. ",
+    "source": "Nadine T. Gaisa",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/22038.dzi",
+    "thumbnail": null
+  }
+]

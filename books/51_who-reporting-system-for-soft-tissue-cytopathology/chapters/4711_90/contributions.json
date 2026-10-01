@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 918,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 694,
+    "contributions": [
+      {
+        "pkcontributionId": 135286,
+        "bookId": 51,
+        "chapterId": 90,
+        "headingId": 694,
+        "headingText": "\r\n<p>Rhabdomyomas (RMs) are benign neoplasms showing skeletal muscle differentiation.</p>\r\n",
+        "timestamp": "2025-10-14T14:26:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 919,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 695,
+    "contributions": [
+      {
+        "pkcontributionId": 135287,
+        "bookId": 51,
+        "chapterId": 90,
+        "headingId": 695,
+        "headingText": "\r\n<p>RMs are divided into extracardiac RMs, which are uncommon benign tumours that occur most frequently in the oral cavity and head and neck of adults, with a male predominance, and cardiac RMs, which are the most common paediatric cardiac tumour, presenting before 2&nbsp;years of age and associated with tuberous sclerosis, with mutations in <em>TSC1</em> or <em>TSC2</em> {33602381; 8181495}. Genital-type RMs typically occur in women, in the vulvovaginal region. Histopathological subtypes have been described based on the differentiation of the skeletal muscle cells, such as adult-type/well-differentiated and fetal-type/immature {11014574}. Fetal-type RMs are associated with naevoid basal cell carcinoma in Gorlin syndrome {21710240; 29799139}. The diagnosis of cardiac tumours is typically by echocardiography, and extracardiac tumours are typically incidental findings on imaging or palpable lesions. Treatment is complete surgical excision, with recurrences reported if excision is incomplete.</p>\r\n",
+        "timestamp": "2025-10-14T14:26:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 920,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 696,
+    "contributions": [
+      {
+        "pkcontributionId": 135288,
+        "bookId": 51,
+        "chapterId": 90,
+        "headingId": 696,
+        "headingText": "\r\n<p>RMs are well-circumscribed proliferations of skeletal muscle cells that appear polygonal, with eosinophilic granular cytoplasm and round nuclei. The cytoplasm can show cross-striations or intracytoplasmic rod-like inclusions. Spider cells with abundant clear glycogen vacuoles separated by strands of cytoplasm can be seen, but they are less common in the adult type {12454813}. Fetal types have immature thin skeletal muscle cells with variable striations and myxoid stroma with inflammatory cells, and they can infiltrate skeletal muscle.</p>\r\n",
+        "timestamp": "2025-10-14T14:26:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 921,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 697,
+    "contributions": [
+      {
+        "pkcontributionId": 135289,
+        "bookId": 51,
+        "chapterId": 90,
+        "headingId": 697,
+        "headingText": "\r\n\r\nVariable cellularity\r\nCohesive tissue fragments of polygonal cells with round nuclei and abundant, eccentric cytoplasm\r\nCross-striations and intracytoplasmic inclusions are typically not as conspicuous on smears but can be seen on cell block\r\n\r\n<p><em>Reference(s):</em> {10740610; 21053579; 12561029; 3465146}</p>\r\n",
+        "timestamp": "2025-10-14T14:26:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 922,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 698,
+    "contributions": [
+      {
+        "pkcontributionId": 135290,
+        "bookId": 51,
+        "chapterId": 90,
+        "headingId": 698,
+        "headingText": "\r\n<p>Extracardiac RMs can be diagnosed on FNAB and small biopsies {10740610; 21053579}. The differential diagnosis includes gangliocytic lesions and proliferative myositis with ganglion-like cells {17111425}; histiocytic proliferations, including crystal storage histiocytosis with prominent rhomboidal crystals and CD68 positivity; and glycogen storage diseases in paediatric cases. Granular cell tumours also overlap in cytomorphology, but they are strongly positive for S100 and SOX10 {19217050}. Paragangliomas can show similar features but are positive for neuroendocrine markers and GATA3, in addition to showing S100 staining restricted to the sustentacular cells. Oncocytoid tumours of the salivary glands or thyroid, along with alveolar soft part sarcoma and embryonal rhabdomyosarcoma, can also enter the differential diagnosis.</p>\r\n",
+        "timestamp": "2025-10-14T14:26:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 923,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 699,
+    "contributions": [
+      {
+        "pkcontributionId": 135291,
+        "bookId": 51,
+        "chapterId": 90,
+        "headingId": 699,
+        "headingText": "\r\n<p>Diagnosis is supported by ICC positivity for desmin, MSA, myogenin, and MYOD1, with negativity for S100, neuroendocrine markers, CD68, and keratins. Positive S100 staining of variable intensity has been reported {35453940}.</p>",
+        "timestamp": "2025-10-14T14:26:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

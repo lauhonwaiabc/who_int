@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 518,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 497,
+    "contributions": [
+      {
+        "pkcontributionId": 72106,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 497,
+        "headingText": "<p>Papillary glioneuronal tumour (PGNT) is a glioneuronal tumour exhibiting a biphasic pattern with variable representation of pseudopapillary glial structures and interpapillary neuronal components, and with <em>PRKCA</em> gene fusion (mainly <em>SLC44A1</em>::<em>PRKCA</em> fusion) (CNS WHO grade&nbsp;1).</p>",
+        "timestamp": "2021-10-12T17:55:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 519,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 498,
+    "contributions": [
+      {
+        "pkcontributionId": 72107,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 498,
+        "headingText": "\r\n<p>9509/1 Papillary glioneuronal tumour</p>\r\n",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 520,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 499,
+    "contributions": [
+      {
+        "pkcontributionId": 72108,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 499,
+        "headingText": "\r\n<p>2A00.21 &amp; XH3XU4 Mixed neuronal-glial tumours &amp; Papillary glioneuronal tumour</p>\r\n",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 521,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 500,
+    "contributions": [
+      {
+        "pkcontributionId": 72109,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 500,
+        "headingText": "\r\n<p><em>Not recommended:</em> pseudopapillary ganglioneurocytoma; pseudopapillary neurocytoma with glial differentiation.</p>\r\n",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 522,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 501,
+    "contributions": [
+      {
+        "pkcontributionId": 72110,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 501,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 523,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 502,
+    "contributions": [
+      {
+        "pkcontributionId": 72111,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 502,
+        "headingText": "\r\n<p>PGNTs are supratentorial, most frequently affecting the temporal lobe (28%), and they are often in close proximity to the lateral ventricles (28%) {30759284}.</p>\r\n",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 524,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 503,
+    "contributions": [
+      {
+        "pkcontributionId": 72112,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 503,
+        "headingText": "\r\n<p>Principal manifestations include headaches and seizures. Haemorrhagic presentation has been reported {16771176; 22717600}.</p>\r\n<h5>Imaging</h5>\r\n<p>On MRI, the tumour is well demarcated, solid, and cystic, with a contrast-enhancing portion and little mass effect. The solid portion is isointense or hypointense on T1-weighted images and hyperintense on T2-weighted images or FLAIR. Most of the tumours have no or only minimal peritumoural oedema, even when large {24553727; 24879457}.</p>\r\n",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 525,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 504,
+    "contributions": [
+      {
+        "pkcontributionId": 72113,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 504,
+        "headingText": "\r\n<p>PGNT is rare and the precise incidence remains to be determined. It is a tumour of young adults, with a median patient age at diagnosis of 16&nbsp;years (range: 6&ndash;54&nbsp;years) {30759284}. No sex predilection was found in a cohort of patients with PGNT with <em>PRKCA</em> fusion {30759284}.</p>\r\n",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 526,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 505,
+    "contributions": [
+      {
+        "pkcontributionId": 72114,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 505,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 527,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 506,
+    "contributions": [
+      {
+        "pkcontributionId": 72115,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 506,
+        "headingText": "<p>The hallmark of PGNT is <em>PRKCA</em> gene fusion, mainly <em>SLC44A1</em>::<em>PRKCA</em> fusion; the only alternative <em>PRKCA</em> fusion partner that has been reported is <em>NOTCH1</em> {30759284; 26671581; 22725730}. The canonical <em>SLC44A1</em>::<em>PRKCA</em> fusion results from a reciprocal translocation t(9;17)(q31;q24), with consequent generation of a constitutively expressed oncoprotein {22725730}. <em>PRKCA</em> encodes protein kinase&nbsp;C alpha (PKCA), which is a member of the family of calcium- and phospholipid-dependent serine/threonine kinases that are involved in the MAPK signalling pathway.</p>",
+        "timestamp": "2021-10-12T17:55:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 534,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 513,
+    "contributions": [
+      {
+        "pkcontributionId": 72116,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 513,
+        "headingText": "\r\n<p>PGNTs are well-delineated, solid, and cystic lesions. Calcification and haemorrhage may be observed.</p>\r\n",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 528,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 507,
+    "contributions": [
+      {
+        "pkcontributionId": 72117,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 507,
+        "headingText": "<p>PGNT is characterized by a distinctive biphasic pattern, consisting of (1)&nbsp;a glial pseudopapillary architecture and (2)&nbsp;an interpapillary component, heterogeneously distributed, with considerable variation in size between cases. In a series of 14&nbsp;molecularly confirmed PGNTs, the pseudopapillary structures were constant except in 1&nbsp;case {30759284}. The cuboidal tumour cells cover hyalinized blood vessels in a single or pseudostratified layer. The glial cells have round nuclei and scant cytoplasm. Cellularity varies from case to case. Monomorphic neurocytes or medium-sized neurons are distributed in a neuropil background {9777979}. Ganglion cells are not frequent (seen in 3 of the 14&nbsp;cases), microcalcifications were present in 5&nbsp;of 14&nbsp;cases {30759284}, and eosinophilic granular bodies are rare {9777979}. Occasional mitoses may be seen, but microvascular proliferation and necrosis are absent {30759284}. A few reports have described anaplastic features in PGNT, but those cases were not molecularly confirmed {19119904; 19157003}.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>The immunophenotype is usually biphenotypic: glial in pseudopapillary structures and neuronal in interpapillary areas. The cuboidal glial cells draping vessels are positive for GFAP and S100. In some cases, oligodendrocyte-like cells that express OLIG2 but are GFAP-negative may be seen {15906048}. The neuronal cells and fibrillary background (neuropil) express neuronal markers such as synaptophysin and NeuN. However, neurofilament is mostly confined to ganglioid cells, and chromogranin&nbsp;A is not widely expressed {9777979}. Extravascular CD34 expression may be observed but only focally {26671581}. The Ki-67 proliferation index generally does not exceed 2%, but elevated activity (ranging from 10% to &gt;&nbsp;50%) has been reported in non&ndash;molecularly confirmed cases {24709681; 19157003}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>PGNT diagnosis is challenging. In a series of 28&nbsp;histologically diagnosed PGNTs {30759284}, 17 (60%) clustered with an alternative methylation class (mainly dysembryoplastic neuroepithelial tumour, pilocytic astrocytoma, or pleomorphic xanthoastrocytoma). This may reflect the morphological heterogeneity of PGNT: the neuronal component may be limited, making it challenging to differentiate from astroblastoma, ependymoma, pilocytic astrocytoma, or pleomorphic xanthoastrocytoma; conversely, the neuronal component can be prominent with only focal papillary architecture (mimicking extraventricular neurocytoma or ganglioglioma). Moreover, perivascular tropism is not specific to PGNT and is shared by various glial or glioneuronal tumours such as pilomyxoid astrocytoma, astroblastoma, ependymoma, dysembryoplastic neuroepithelial tumour, ganglioglioma, and angiocentric glioma.</p>",
+        "timestamp": "2021-10-20T15:42:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 529,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 508,
+    "contributions": [
+      {
+        "pkcontributionId": 72118,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 508,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 530,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 509,
+    "contributions": [
+      {
+        "pkcontributionId": 72119,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 509,
+        "headingText": "<p><em>PRKCA</em> gene fusion (mainly <em>SLC44A1</em>::<em>PRKCA</em>) is the hallmark of PGNT {30759284; 26671581; 22725730}. To date, <em>SLC44A1</em>::<em>PRKCA</em> fusion has not been observed in other brain tumour types except one neurocytoma {30759284}. Two alternative fusions, <em>PRKCA</em>::<em>FAT1</em> and <em>PRKCA</em>::<em>FAM91A1</em>, have been described in the diffuse glioma <em>MYB-</em> or <em>MYBL1</em>-altered methylation cluster {30759284}. The fusion gene can be detected by simple interphase FISH on formalin-fixed, paraffin-embedded sections {26671581}, but RNA sequencing can also be used {29539639}. No <em>PRKCA</em> recurrent mutation point has been reported in PGNT.</p>\r\n<p>PGNTs exhibit a highly characteristic and diagnostic methylation profile {30759284}. Copy-number variation analysis in the PGNT methylation group reveals flat profiles or only focal gains in a region of 17q that includes <em>PRKCA</em> (in 50% of cases) {30759284}.</p>",
+        "timestamp": "2021-10-12T17:56:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 533,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 512,
+    "contributions": [
+      {
+        "pkcontributionId": 72120,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 512,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/45/39/17547\" target=\"_blank\">#17547</a>Box&nbsp;2.23 .</p>\r\n",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 531,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 510,
+    "contributions": [
+      {
+        "pkcontributionId": 72121,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 510,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 532,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 511,
+    "contributions": [
+      {
+        "pkcontributionId": 72122,
+        "bookId": 45,
+        "chapterId": 39,
+        "headingId": 511,
+        "headingText": "\r\n<p>PGNTs correspond to CNS WHO grade&nbsp;1, and gross total resection constitutes the main prognostic factor. One molecularly confirmed case has been described as recurrent {30759284}. Morphologically diagnosed cases with a Ki-67 proliferation index &gt;&nbsp;20% or anaplastic features have been reported, with tumoural progression or dissemination {28823671; 19119904}. Such features have not been described in <em>PRKCA</em>-fused cases.</p>",
+        "timestamp": "2021-09-21T15:21:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

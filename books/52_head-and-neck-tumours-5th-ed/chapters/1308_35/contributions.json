@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 112918,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 576,
+        "headingText": "\r\n<p>Chordoma is a primary malignant bone tumour with neoplastic cells recapitulating notochordal differentiation.</p>\r\n",
+        "timestamp": "2023-09-25T13:23:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 112919,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 577,
+        "headingText": "<p >9370/3 Chordoma</p>\r\n<p >9370/3 Conventional chordoma</p>\r\n<p >9371/3 Chondroid chordoma</p>\r\n<p >9372/3 Poorly differentiated chordoma</p>\r\n<p >9372/3 Dedifferentiated chordoma</p>",
+        "timestamp": "2023-10-09T11:52:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 112920,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 578,
+        "headingText": "\r\n<p>2C20.Y &amp; XH9GH0 Malignant neoplasms of nasal cavity &amp; Chordoma, NOS</p>\r\n<p>2C20.Y &amp; XH17D8 Malignant neoplasms of nasal cavity &amp; Chondroid chordoma</p>\r\n<p>2C20.Y &amp; XH7303 Malignant neoplasms of nasal cavity &amp; Dedifferentiated chordoma</p>\r\n",
+        "timestamp": "2023-09-25T13:23:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 112921,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 579,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-25T13:23:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 112922,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 580,
+        "headingText": "<p >Conventional chordoma; chondroid chordoma; poorly differentiated chordoma; dedifferentiated chordoma</p>",
+        "timestamp": "2023-10-09T11:53:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 112923,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 581,
+        "headingText": "\r\n<p>Approximately 30% present in the skull base and upper mobile spine {11227920; 21184634}.</p>\r\n",
+        "timestamp": "2023-09-25T13:23:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 112924,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 582,
+        "headingText": "\r\n<p>Pain, a mass lesion, and neurological deficits are noted.</p>\r\n<h5>Imaging</h5>\r\n<p>Tumours expand bone as large, destructive, lytic midline masses. On MRI, there is a loss of bone-marrow fat (high T1-weighted signal), replaced with intermediate-signal material on T1-weighted images that is T2-hyperintense and demonstrates variable postcontrast enhancement {15480648; 22920610; 28184416}.</p>\r\n",
+        "timestamp": "2023-09-25T13:23:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 112925,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 583,
+        "headingText": "\r\n<p>The incidence of chordoma is 0.08&nbsp;cases per 100&nbsp;000&nbsp;person-years; it is rare in Black patients {32342333}. There is a male predominance. All ages are affected, but children&nbsp;/ young adults most often present with craniocervical tumours. Poorly differentiated tumours generally present in children and rarely arise in people aged &gt;&nbsp;30&nbsp;years {29483606}.</p>\r\n",
+        "timestamp": "2023-09-25T13:23:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 112926,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 584,
+        "headingText": "\r\n<p>Rarely, there is an autosomal dominant trait resulting from tandem duplication of <em>TBXT</em> (encoding brachyury) {24990759} or in the setting of tuberous sclerosis with germline alterations in <em>TSC1</em> or <em>TSC2</em> {15236319; 28498973}.</p>\r\n",
+        "timestamp": "2023-09-25T13:23:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 112927,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 585,
+        "headingText": "\r\n<p>Aberrant expression of <em>TBXT</em> is implicated in the pathogenesis of chordoma {16538613; 22847733; 27102572; 29026114; 29237806; 32855205}, resulting in the expression of brachyury. Alterations of <em>PBRM1</em>/<em>SETD2</em>, encoding members of the SWI/SNF complex, represent the most common events (in 16%) in skull base chordomas, along with homozygous <em>CDKN2A</em> deletion {33536423; 31916407}. In poorly differentiated chordoma, there is homozygous deletion of <em>SMARCB1</em>, with loss of protein expression {27067307}.</p>\r\n",
+        "timestamp": "2023-09-25T13:23:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 112928,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 592,
+        "headingText": "\r\n<p>Chordoma is a bone-destructive, lobular, solid, gelatinous mass expanding into soft tissues.</p>\r\n",
+        "timestamp": "2023-09-25T13:23:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 112929,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 586,
+        "headingText": "<p>Conventional chordomas exhibit lobules separated by fibrous septa, composed of large epithelioid cells with bubbly cytoplasm (physaliphorous cells) embedded in an extracellular myxoid or chondroid matrix as cords or nests of cells.</p>\r\n<h5>Subtypes</h5>\r\n<p>Chondroid chordoma represents a subtype composed predominantly of hyaline cartilage&ndash;like extracellular matrix.</p>\r\n<p>The poorly differentiated subtype is composed of solid epithelioid cells with areas of rhabdoid morphology and loss of SMARCB1 immunoreactivity.</p>\r\n<p>Dedifferentiated chordoma is a biphasic tumour in which the dedifferentiated component commonly exhibits features of high-grade sarcoma.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Neoplastic cells are strongly immunoreactive for cytokeratin, EMA, and brachyury (encoded by <em>TBXT</em>), with variable S100, CEA, and GFAP {7922977; 23588366; 24554551}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Tumours are distinguished from chondrosarcoma, carcinoma, meningioma, and myoepithelial tumours.</p>",
+        "timestamp": "2023-10-09T11:59:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 112930,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 587,
+        "headingText": "<p >Smears are usually cellular with small polygonal to elongated cells that have granular bluish cytoplasm and round bland nuclei embedded in abundant chondromyxoid magenta matrix (Giemsa). Larger cells with copious finely vacuolated cytoplasm and similar round nuclei are also present and resemble physaliphorous cells {12685190; 24554551}. Binucleated and multinucleated cells and occasional mitoses may be seen.</p>",
+        "timestamp": "2023-11-10T12:20:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 112931,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 588,
+        "headingText": "<p >Deletion in <em>SMARCB1</em> can be detected by FISH in poorly differentiated chordoma {29119645; 31135077}.</p>",
+        "timestamp": "2023-10-06T16:53:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 112932,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> a bone tumour by imaging; lobules of large epithelioid cells embedded in a myxoid/chondroid matrix.</p>\r\n<p><em>Desirable:</em> brachyury and cytokeratin expression; SMARCB1 loss in the poorly differentiated subtype; brachyury not expressed in the dedifferentiated component.</p>\r\n",
+        "timestamp": "2023-09-25T13:23:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 112933,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 589,
+        "headingText": "<p >Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system, with specific reference to bone sarcoma protocols.</p>",
+        "timestamp": "2023-10-10T08:53:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 112934,
+        "bookId": 52,
+        "chapterId": 35,
+        "headingId": 590,
+        "headingText": "\r\n<p>The median overall survival time is 7&nbsp;years for conventional chordoma, but the prognosis is less favourable for the dedifferentiated and poorly differentiated subtypes {27067307; 29361006; 29483606; 31528536}.</p>",
+        "timestamp": "2023-09-25T13:23:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 68712,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 432,
+        "headingText": "\r\n<p>Pleural metastases represent spread to the pleura from a tumour that originated at an extrapleural site.</p>\r\n",
+        "timestamp": "2020-10-05T14:40:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 68713,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 433,
+        "headingText": "\r\n<p>8000/6 Neoplasm, metastatic</p>\r\n",
+        "timestamp": "2020-10-05T14:40:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 68714,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 434,
+        "headingText": "\r\n<p>2D72 Malignant neoplasm metastasis in pleura</p>\r\n",
+        "timestamp": "2020-10-05T14:40:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 68715,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Acceptable:</em> malignant pleural effusion.</p>\r\n",
+        "timestamp": "2020-10-05T14:40:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 68716,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-10-05T14:40:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 68717,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 437,
+        "headingText": "\r\n<p>Both visceral and parietal pleurae are commonly involved {5969243}.</p>\r\n",
+        "timestamp": "2020-10-05T14:40:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 68718,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 438,
+        "headingText": "\r\n<p>Patients present with cough, chest pain, and dyspnoea on exertion but may be asymptomatic {930945; 22623565}. Imaging shows focal to diffuse nodularity, masses, or circumferential pleural or fissural thickening {22623565}. Malignant effusions are moderate to large (500&ndash;2000&nbsp;mL); in primary lung cancer, effusions localize to the ipsilateral pleural space. As many as 15% of lung cancer patients with malignant pleural effusions also have pleural nodules visible on CT; most show FDG uptake on PET {30746236}, but this is not specific for malignancy {25188411}.</p>\r\n",
+        "timestamp": "2020-10-05T14:40:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 68719,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 439,
+        "headingText": "\r\n<p>Pleural involvement is seen in 4% of male and 8% of female cancer patients with metastatic disease {30328287}. Malignant pleural effusions reportedly affect &gt;&nbsp;150&nbsp;000&nbsp;individuals per year in the USA and 40&nbsp;000&nbsp;per year in the United Kingdom {23993817; 24368856}. Common sources of pleural metastases are lung adenocarcinoma and haematolymphoid neoplasms in men and invasive breast carcinoma, M&uuml;llerian carcinomas, and lung adenocarcinoma in women {4016683; 3469856; 3568976; 31913661}. However, the majority do not have a known primary tumour site at the time of presentation {31913661}. Malignant pleural effusion is the presenting manifestation in 15% of cancer patients {25887349}. Between 7% and 26% of patients with primary lung cancers present with malignant pleural effusions, and another 14% develop malignant pleural effusions during follow-up {930945; 25706291}.</p>\r\n",
+        "timestamp": "2020-10-05T14:40:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 68720,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 440,
+        "headingText": "\r\n<p>Etiology depends on the primary origin of tumour.</p>\r\n",
+        "timestamp": "2020-10-05T14:40:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 68721,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 441,
+        "headingText": "\r\n<p>Tumour spreads to pleura via lymphatic and haematogenous routes or direct invasion. About 55&ndash;60% of patients with pleural metastases develop a malignant effusion {5969243; 9272937}. Multiple factors probably contribute to development of an effusion, including lymphatic blockage, inflammatory response, extent of angiogenesis, and vascular leakage; the burden of pleural metastasis does not appear to correlate {10589746; 11106562; 20595227; 24410406; 9272937}. Molecular alterations are specific to tumour type.</p>\r\n",
+        "timestamp": "2020-10-05T14:40:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 68722,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 448,
+        "headingText": "\r\n<p>Resected pleural metastases may appear smooth and lobulated or plaque-like and infiltrative. Carcinomas, thymic tumours, and angiosarcomas can manifest rarely with diffuse disease mimicking mesothelioma, so-called pseudomesotheliomatous growth {10665909; 12121236; 14636270; 25040312}.</p>\r\n",
+        "timestamp": "2020-10-05T14:40:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 68723,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 442,
+        "headingText": "<p>Tumour infiltrates pleural fibrous tissue and may invade chest wall soft tissue or lung tissue in parietal or visceral pleural biopsies, respectively {28686500; 29852147}.&nbsp;For primary lung carcinomas, elastic stains may be helpful to distinguish between a discrete intrapleural metastasis and visceral pleural invasion from an intrapulmonary tumour.</p>\r\n<p>General carcinoma markers such as claudin-4, BerEP4, and CEA are useful in the distinction from mesothelioma (see <a style=\"cursor:pointer\" href=\"/attachment/35/324/14580\" target=\"_blank\">#14580</a>Table&nbsp;9.03; see also <a style=\"cursor:pointer\" href=\"/chaptercontent/35/117\" target=\"_blank\">section </a><em>Diffuse pleural mesothelioma</em>). Site-specific markers can help to determine tumour origin, including for adenocarcinomas of lung (TTF1, napsin&nbsp;A), breast (ER, PR, GCDFP-15, mammaglobin, SOX10), kidney and M&uuml;llerian origin (PAX8), gastrointestinal tract (CDX2), prostate (PSA, NKX3-1), melanoma (S100, HMB45, melan-A), and haematopoietic processes (CD20, CD45) {28686500; 23503645; 24816068; 26799356; 20588175; 30628926}. SOX10 is expressed in melanomas and triple-negative breast cancers {22325460; 28843711; 30468800; 30628926}. GATA3 is commonly expressed in tumours of breast and urothelial origin; however, it is also expressed in more than half of mesotheliomas {24145643}. p40/p63 aids in distinction between squamous cell carcinoma and mesothelioma with pseudosquamous morphology; however, very&nbsp;rare mesotheliomas with true squamous differentiation have been reported {29430704; 31855703}.</p>\r\n<p>The differential diagnosis includes primary pleural neoplasms (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/108\" target=\"_blank\">section </a>Chapter&nbsp;2: <em>Tumours of the pleura and pericardium</em> and <a style=\"cursor:pointer\" href=\"/chaptercontent/35/170\" target=\"_blank\">section </a>Chapter&nbsp;4: <em>Mesenchymal tumours of the thorax</em>), which can be excluded using appropriate immunohistochemistry for mesothelial, lymphoid, and mesenchymal markers (see <a style=\"cursor:pointer\" href=\"/attachment/35/117/14463\" target=\"_blank\">#14463</a>) and reactive pleural diseases, the latter all lacking malignant cytology (see <a style=\"cursor:pointer\" href=\"/attachment/35/324/14709\" target=\"_blank\">#14709</a>Table&nbsp;9.04).</p>",
+        "timestamp": "2020-12-08T09:10:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 68724,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 443,
+        "headingText": "<p>Pleural fluid cytology is diagnostic in 60% of cases in the context of malignant pleural effusions {29214068}. In metastatic carcinoma, tumour cells are admixed with benign mesothelial cells and inflammatory cells, resulting in a second, separate population of cells distinct from benign mesothelial cells. Carcinomas may appear as single cells or clusters and can be distinguished from benign mesothelial cells by nuclear atypia; however, reactive mesothelial cells can sometimes show marked atypia {30156768}. Lobular breast carcinoma can mimic histiocytes or mesothelial cells. Individual tumour types may display distinct cytomorphological features in effusion fluids that suggest primary origin. However, immunohistochemistry is often essential to distinguish metastases from mesothelial origin and suggest site of origin {30190139; 30156768; 24421209}.</p>",
+        "timestamp": "2020-11-16T11:53:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 68725,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 444,
+        "headingText": "\r\n<p>The need for molecular analysis is informed by the suspected site of origin.</p>\r\n",
+        "timestamp": "2020-10-05T14:40:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 68726,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Pathological diagnosis of a tumour compatible with origin in an extrapleural site according to diagnostic histological, immunohistochemical, and/or molecular criteria for that tumour</li>\r\n<li>Exclusion of benign entities and mesothelioma on the basis of clinical and radiographic presentation, histopathological findings, and immunohistochemistry</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Histological and immunohistochemical comparison with prior specimens (if available)</li>\r\n<li>If histological results are unclear, comparative molecular testing may be helpful</li>\r\n<li>Multidisciplinary discussion of the case, such as at a tumour board</li>\r\n</ul>",
+        "timestamp": "2021-01-12T17:04:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 68727,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 445,
+        "headingText": "<p>Staging is based on the Union for International Cancer Control (UICC) TNM classification, according to the site of origin of the metastasis. Pleural metastases from lung cancer or thymic epithelial tumours are staged as M1a disease. Pleural spread from other sites is distant metastasis and should be staged according to criteria for tumour type.</p>",
+        "timestamp": "2020-11-16T11:54:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 68728,
+        "bookId": 35,
+        "chapterId": 324,
+        "headingId": 446,
+        "headingText": "<p>Across all tumour types, survival time from diagnosis of malignant pleural effusion is a median of 5&nbsp;months, although it can be variable. As an example, for ovarian metastases it is 21&nbsp;months {25887349}. The clinical status at time of diagnosis is significantly associated with outcomes {25887349}. Pseudomesotheliomatous spread of carcinoma is associated with a median survival time of 8&nbsp;months {14636270}.</p>",
+        "timestamp": "2020-12-08T09:10:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "pkroleId": 58,
+    "bookId": "31",
+    "roleid": 9,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2021,
+        "lastname": "Klimstra",
+        "firstname": "David S.",
+        "initials": "DS",
+        "email": "",
+        "roleid": 9,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 60,
+    "bookId": "31",
+    "roleid": 11,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2090,
+        "lastname": "Hruban",
+        "firstname": "Ralph H",
+        "initials": "RH",
+        "email": "",
+        "roleid": 11,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 61,
+    "bookId": "31",
+    "roleid": 12,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2044,
+        "lastname": "Adsay",
+        "firstname": "Nazmi",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2077,
+        "lastname": "Esposito",
+        "firstname": "Irene",
+        "initials": "I",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2084,
+        "lastname": "Klöppel",
+        "firstname": "Günter",
+        "initials": "G",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2085,
+        "lastname": "Zamboni",
+        "firstname": "Giuseppe",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2087,
+        "lastname": "Furukawa",
+        "firstname": "Toru",
+        "initials": "T",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2088,
+        "lastname": "Fukushima",
+        "firstname": "Noriyoshi",
+        "initials": "N",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2091,
+        "lastname": "Offerhaus",
+        "firstname": "G. Johan A.",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2093,
+        "lastname": "Pitman",
+        "firstname": "Martha Bishop",
+        "initials": "MB",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2094,
+        "lastname": "Notohara",
+        "firstname": "Kenji",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2095,
+        "lastname": "Ohike",
+        "firstname": "Nobuyuki",
+        "initials": "N",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2179,
+        "lastname": "Maitra",
+        "firstname": "Anirban",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 62,
+    "bookId": "31",
+    "roleid": 14,
+    "roleTitle": "Editorial office",
+    "contributors": [
+      {
+        "contributorid": 2351,
+        "lastname": "Znaor",
+        "firstname": "Ariana",
+        "initials": "",
+        "email": "",
+        "roleid": 14,
+        "position": 0
+      }
+    ]
+  }
+]

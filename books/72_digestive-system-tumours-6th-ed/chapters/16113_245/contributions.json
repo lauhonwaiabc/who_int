@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1003,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 982,
+    "contributions": [
+      {
+        "pkcontributionId": 150871,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 982,
+        "headingText": "\r\n<p>Familial adenomatous polyposis is an autosomal dominant disorder caused by germline (constitutional) pathogenic variants in <em>APC</em> and characterized by gastrointestinal polyposis and cancers.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1004,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "MIM numbering",
+    "headingPosition": 2,
+    "headingid": 983,
+    "contributions": [
+      {
+        "pkcontributionId": 150872,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 983,
+        "headingText": "\r\n<p>175100 Familial adenomatous polyposis</p>\r\n",
+        "timestamp": "2026-06-09T11:33:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1005,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 984,
+    "contributions": [
+      {
+        "pkcontributionId": 150873,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 984,
+        "headingText": "\r\n<p>2B90.Y &amp; XH1CV4 Other specified malignant neoplasms of colon &amp; Adenomatous polyposis coli</p>\r\n",
+        "timestamp": "2026-06-09T11:33:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1006,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 985,
+    "contributions": [
+      {
+        "pkcontributionId": 150874,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 985,
+        "headingText": "\r\n<p><em>Acceptable:</em> adenomatous polyposis coli.</p>\r\n<p><em>Not recommended:</em> familial adenomatous polyposis&nbsp;1; Gardner syndrome (obsolete term; almost all patients with FAP have such features); Turcot syndrome (in some cases, but most cases of Turcot syndrome are due to constitutional mismatch repair deficiency syndrome; see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/243\" target=\"_blank\">section </a><em>Lynch syndrome (MLH1, PMS2, MSH2, MSH6)</em> and <a style=\"cursor:pointer\" href=\"/chaptercontent/72/244\" target=\"_blank\">section </a><em>Constitutional mismatch repair deficiency syndrome (MLH1, PMS2, MSH2, MSH6)</em>).</p>\r\n",
+        "timestamp": "2026-06-09T11:33:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1007,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 986,
+    "contributions": [
+      {
+        "pkcontributionId": 150875,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 986,
+        "headingText": "\r\n<p>Attenuated familial adenomatous polyposis</p>\r\n",
+        "timestamp": "2026-06-09T11:33:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1008,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 987,
+    "contributions": [
+      {
+        "pkcontributionId": 150876,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 987,
+        "headingText": "\r\n<p>Classic FAP is characterized by the development during adolescence of hundreds of colorectal adenomas, a small proportion of which progress to colorectal adenocarcinoma. Most patients also develop gastric and duodenal polyps, leading to an increased risk of duodenal adenocarcinoma. Desmoid tumours occur in about 10% of patients with FAP, mostly in the small bowel mesentery and abdominal wall. Less frequent extraintestinal malignancies are hepatoblastoma and cancers of the biliary tree and pancreas.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1009,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 988,
+    "contributions": [
+      {
+        "pkcontributionId": 150877,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 988,
+        "headingText": "\r\n<p>In FAP, there are clear genotype&ndash;phenotype correlations. Classic FAP is characterized by numerous (usually &gt;&nbsp;100 and as many as several thousand) adenomatous polyps of the large bowel. The onset of colorectal adenomatous polyps usually occurs in the second decade of life. If colectomy is not performed, patients have a near 100% risk of colorectal adenocarcinoma by the age of 45&nbsp;years {18194984}.</p>\r\n<p>Attenuated FAP is distinguished from classic FAP by fewer (0&ndash;100) colorectal adenomas and a slightly reduced risk (of 80%) and later onset (at a mean age of 56&nbsp;years) of colorectal cancer {16461775;20105204}. Severe and predominant fundic gland polyposis (FGP) without duodenal and colorectal polyposis is defined as a separate syndrome of gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS), due to APC promoter variants (see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/246\" target=\"_blank\">section </a><em>GAPPS (APC promoter) and other fundic gland polyposes</em>) {27087319}.</p>\r\n<p>Almost all patients with FAP develop duodenal adenomas, mostly in the periampullary region and distal duodenum. Small bowel polyps and cancer typically present a decade later than colorectal polyps and cancer. About 4&ndash;10% of patients develop duodenal adenocarcinoma {15951555}. More than 60% of patients with FAP develop gastric polyps, which are mainly benign FGPs, but also adenomas {26721304}.</p>\r\n<p>Desmoid tumours occur in about 10% of patients with FAP, mostly in the small intestinal mesentery, abdominal wall, or extremities, but significantly less frequently in the head and neck, mostly arising in soft tissue {975005;8154779}, including in the maxillary sinus, nasopharynx, and oral cavity. The risk of desmoid fibromatosis in FAP is increased by clinical features such as prior surgery and certain types of <em>APC</em> variants {27387679}. Although desmoid tumours have no metastatic potential, they cause severe morbidity and mortality in a substantial proportion of patients with FAP {10732754;9014661}.</p>\r\n<p>The presence of benign extragastrointestinal pathologies is variable, but almost all patients with FAP have some on close inspection {18194984}. Some benign extraintestinal manifestations can be used as a clinical marker for asymptomatic carriers in families with FAP. In addition, FAP has been associated with an increased risk of cribriform morular thyroid carcinoma (~12% of patients with FAP) {35285003;34019236}. Other tumours include hepatobiliary tree tumours, childhood hepatoblastoma, adrenocortical adenomas and carcinomas, osteoma, and brain tumours, i.e. medulloblastoma (Turcot syndrome) [[Online Mendelian Inheritance in Man. OMIM (Internet). Baltimore (MD): Johns Hopkins University; 2016. MIM Number: 175100. Available from: https://omim.org/entry/175100. Bookref]] [[Frayling IM. Familial adenomatous polyposis (FAP) and adenomatous polyposis (due to MUTYH, NTHL1, POLE &amp; POLD1). In: Firth HV, Hurst JA, editors. Oxford Desk Reference: clinical genetics &amp; genomics. 2nd ed. Oxford (UK): Oxford University Press; 2017. Bookref]] [[Frayling IM, Arends M. Adenomatous polyposis coli. In: Maloy S, Hughes K, editors. Brenner&rsquo;s encyclopedia of genetics. Volume 1. 2nd ed. San Diego (CA): Academic Press; 2013. pp. 27&ndash;9. Bookref]].</p>\r\n<p>Given the phenotypic variability of FAP, several other polyposis conditions (related to variants in <em>MUTYH</em>, <em>AXIN2</em>, <em>NTHL1</em>, <em>MSH3</em>, <em>BUB1</em>, <em>FAN1</em>, or polymerase proofreading&ndash;associated polyposis) can have very similar features {27476653}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1010,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 989,
+    "contributions": [
+      {
+        "pkcontributionId": 150878,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 989,
+        "headingText": "\r\n<p>The prevalence is 1&nbsp;in 8000&ndash;10&nbsp;000. It shows an equal sex distribution and accounts for &lt;&nbsp;1% of all colorectal cancers {18194984;8199592}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1011,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 990,
+    "contributions": [
+      {
+        "pkcontributionId": 150879,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 990,
+        "headingText": "\r\n<p>FAP is a Mendelian autosomal dominant syndrome caused by germline variants in the <em>APC</em> gene (chromosome 5q22.2) that results in a truncated or absent APC protein. The severity of disease varies with the position of the variant in the <em>APC</em> gene {10470088}. Inherited <em>APC</em> variants located in or around the mutation cluster region (around codon&nbsp;/ amino acid&nbsp;1309) are associated with the highest number of adenomas (thousands&nbsp;&ndash; severe polyposis) and the greatest risk of cancer at a younger age, whereas variants outside this region are mostly associated with many hundreds of adenomas and a slightly lower cancer risk {10470088;12057910}. Attenuated FAP-associated inherited variants (associated with &lt;&nbsp;100&nbsp;adenomas) are located nearer to the N-terminus or within the alternatively spliced section of exon&nbsp;9&nbsp;(9a), and patients with these variants develop fewer polyps at a later age {20105204}. Desmoid tumours are especially associated with GPVs in <em>APC</em> between codons&nbsp;1310 and&nbsp;2011 in the mid- to C-terminal portion of the encoded protein {26179480}.</p>\r\n<p><em>APC</em> acts as a classic tumour suppressor gene, and a tumour phenotype arises when the non-mutant allele is spontaneously lost or mutated by a somatic event (second hit). When the inherited variant is in the mutation cluster region, the second somatic mutation may be either a point mutation or a complete deletion or loss of heterozygosity of the second allele. However, loss of heterozygosity has not been observed with inherited variants outside the mutation cluster region, and in attenuated FAP, second hits are only observed in the mutation cluster region. Therefore, for a colorectal adenoma/cancer to develop, at least one mutation must be within the mutation cluster region.</p>\r\n<p>Approximately 20&ndash;30% of FAP cases represent either de&nbsp;novo mutations or recessive polyposis syndromes. Despite the variations in phenotype, it is very rare for any carrier of a pathogenic <em>APC</em> variant not to develop multiple bowel polyps and cancer if preventive measures are not taken. Mosaic de&nbsp;novo APC mutation carriers also exist, and they typically have milder and/or localized polyposis {17604324}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1012,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 991,
+    "contributions": [
+      {
+        "pkcontributionId": 150880,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 991,
+        "headingText": "\r\n<p>The classic APC protein isoform is 2843&nbsp;amino acids long (several isoforms exist as a result of alternative splicing), and it is centrally involved in regulating WNT signalling. Normal APC restrains colorectal epithelial cell proliferation through its role as a scaffold protein that binds critical components that tag (by phosphorylation and ubiquitination) the WNT effector protein &beta;-catenin for proteasomal destruction. With APC protein truncation (or absence), the loss of critical APC functions (especially its binding of the AXIN and &beta;-catenin proteins) results in greatly impaired degradation of &beta;-catenin with upregulation of WNT signalling, effectively rendering the WNT pathway constitutively switched on {10733430;23589686}. Adenomas arise owing to somatically acquired second hits to the non-mutant APC gene. The adenomas subsequently progress in a very similar way to sporadic adenomas of the large bowel {8861899}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1019,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 998,
+    "contributions": [
+      {
+        "pkcontributionId": 150881,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 998,
+        "headingText": "\r\n<p>The classic appearance of the resected colon is illustrated in Fig.&nbsp;<a name=\"50850\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#50850</a> and Fig.&nbsp;<a name=\"50852\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#50852</a>. There are large numbers of polypoid or villous adenomatous polyps. Most patients with FAP also develop duodenal adenomas similar in appearance to their sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1013,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 992,
+    "contributions": [
+      {
+        "pkcontributionId": 150882,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 992,
+        "headingText": "\r\n<p>The large bowel polyps are almost always classic adenomas of varying types (tubular, tubulovillous, or villous), grades (low or high), and sizes; they are similar to sporadic adenomas in appearance. The same features are observed in duodenal adenomas. However, a characteristic of FAP is the frequent presence of monocryptal adenomas and oligocryptal adenomas (microadenomas) in otherwise normal-looking colorectal mucosa, including in the stalk mucosa of resected larger adenomatous polyps.</p>\r\n<p>Most gastric polyps (80%) are FGPs. FGPs in FAP are often multiple and may cause fundic gland polyposis. Low-grade dysplasia has been described in nearly 40% of FAP-associated FGPs, but progression to high-grade dysplasia or carcinoma is generally slow with an estimated rate of 4%, over a mean follow-up period of 6&nbsp;years {24548295}. The risk appears to be higher in patients presenting mucosal carpeting by polyps and when the polyps are &gt;&nbsp;10&nbsp;mm in size {35584332}. About 20% of gastric polyps are adenomas, mostly foveolar-type adenomas (17%), some pyloric gland adenomas (3%), and rarely intestinal-type adenomas {26721304}.</p>\r\n<p>Desmoid tumours appear as bland, indolent, invasive fibroblastic tumours of connective tissue that expand relentlessly and are difficult to excise completely (sometimes called aggressive fibromatosis). Immunohistochemistry reveals nuclear expression of &beta;-catenin.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1014,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 993,
+    "contributions": [
+      {
+        "pkcontributionId": 150883,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 993,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-06-09T11:33:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1015,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 994,
+    "contributions": [
+      {
+        "pkcontributionId": 150884,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 994,
+        "headingText": "\r\n<p>About 80&ndash;90% of sporadic colorectal cancers carry acquired variants in the <em>APC</em> gene, and this is considered to be the tumour-initiating event in most cases {8861899}. Although APC has other functions (including regulation of cell polarity, cell&ndash;cell adhesion, cytoskeletal organization, and spindle formation), its WNT pathway function of controlling intracellular levels of &beta;-catenin is key to its effects on adenomagenesis {9065401}.</p>\r\n<p>Guidance for the interpretation of GPVs of APC causative of FAP has been given by the ClinGen InSiGHT Hereditary Colorectal Cancer&nbsp;/ Polyposis Variant Curation Expert Panel {37800450}. Notably, missense variants in APC that do not affect splicing are very rarely, if ever, a cause of FAP and so can confidently be classified as benign, not variants of uncertain significance (VUS) {39357517}.</p>\r\n<p>FAP-associated desmoid tumours affecting intestinal mesentery are caused by <em>APC</em> rather than <em>CTNNB1</em> variants, the latter being more common in sporadic counterparts; nevertheless, they also show nuclear &beta;-catenin immunoreactivity secondary to WNT pathway activation {22419028}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1018,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 997,
+    "contributions": [
+      {
+        "pkcontributionId": 150885,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 997,
+        "headingText": "\r\n<p><em>Essential:</em> identification of a GPV in APC in a patient with colorectal polyposis.</p>\r\n<p><em>Desirable:</em> the presence of &gt;&nbsp;100&nbsp;colorectal adenomas is indicative of a probable diagnosis of classic FAP; the presence of 0&ndash;100 colorectal adenomas is indicative of a probable diagnosis of attenuated FAP; the presence of &gt;&nbsp;1000 colorectal adenomas is indicative of a probable diagnosis of severe FAP.</p>\r\n<p>See summary in <a style=\"cursor:pointer\" href=\"/attachment/72/245/57080\" target=\"_blank\">#57080</a>Table&nbsp;16.09.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1016,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 995,
+    "contributions": [
+      {
+        "pkcontributionId": 150886,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 995,
+        "headingText": "\r\n<p>FAP tumours are staged in the same way as equivalent sporadic tumours at each site.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1017,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 996,
+    "contributions": [
+      {
+        "pkcontributionId": 150887,
+        "bookId": 72,
+        "chapterId": 245,
+        "headingId": 996,
+        "headingText": "\r\n<p>Approaches to the management of FAP cases are guided by their clinical presentation and severity. Colorectal screening by endoscopy and chemoprevention are in use {28674119;22122775;26315524}. Colectomy is often required to prevent the development of colorectal adenocarcinoma. Upper gastrointestinal endoscopy is indicated for patients with FAP aged 25&ndash;30&nbsp;years and is guided by the Spigelman stage of duodenal polyposis {2571019;15951555}. Duodenal polyposis is treated endoscopically for as long as possible, but surgery is often required. In addition, screening for extraintestinal manifestations is recommended by some, including for desmoid tumours {28674119;25645574}.</p>\r\n<p>People with FAP have a 3.35-fold elevated risk of dying compared with the general population {8223060}. The main causes of death are upper gastrointestinal malignancy, perioperative complications, desmoid tumours, and suicide {8223060;10499482}.</p>",
+        "timestamp": "2026-06-09T11:33:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

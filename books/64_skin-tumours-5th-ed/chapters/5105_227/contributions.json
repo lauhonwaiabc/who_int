@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 127223,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 764,
+        "headingText": "\r\n<p>Atypical lipomatous tumour (ALT) is an adipocytic tumour of borderline malignancy showing at least focal nuclear atypia in both adipocytes and stromal cells, and almost always associated with amplification of <em>MDM2</em> and/or <em>CDK4</em>.</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 127224,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 765,
+        "headingText": "\r\n<p>8850/1 Atypical lipomatous tumour</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 127225,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 766,
+        "headingText": "\r\n<p>2F7C &amp; XH0RW4 Neoplasms of uncertain behaviour of connective or other soft tissue &amp; Atypical lipomatous tumour</p>\r\n<p>2B5H &amp; XH7Y61 Well-differentiated lipomatous tumour, primary site &amp; Liposarcoma, well-differentiated</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 127226,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 767,
+        "headingText": "\r\n<p><em>Acceptable:</em> in the accessible soft tissues, &ldquo;atypical lipomatous tumour&rdquo; and &ldquo;well-differentiated liposarcoma&rdquo; are considered synonyms describing morphologically and genetically identical neoplasms; however, the term &ldquo;well-differentiated liposarcoma&rdquo; should not be used in superficial locations.</p>\r\n<p><em>Not recommended:</em> atypical lipoma.</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 127227,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 768,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 127228,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 769,
+        "headingText": "\r\n<p>Cutaneous ALTs do not have a known site of predilection. In deep soft tissue, common sites include the thigh, buttock, back, and shoulder {12004355; 18043041; 11598853; 9700369}.</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 127229,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 770,
+        "headingText": "\r\n<p>ALT manifests as a nonspecific nodule or mass in the dermis or subcutis. Occasional exophytic tumours can mimic an acrochordon {21358383}.</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 127230,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 771,
+        "headingText": "\r\n<p>Primary cutaneous or dermal ALT is exceedingly rare {9700369; 22472959; 16871039; 21358383}; dermal involvement much more commonly constitutes extension from a more deeply situated tumour.</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 127231,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 772,
+        "headingText": "\r\n<p>Nearly all are sporadic, but rare cases are associated with Li&ndash;Fraumeni syndrome.</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 127232,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 773,
+        "headingText": "\r\n<p>ALT contains giant ring chromosomes containing amplified sequences from the 12q13-q15 region {8579124; 7515663}. These sequences contain the genes <em>MDM2</em>, <em>CDK4</em>, <em>TSPAN31</em> (<em>SAS</em>), <em>HMGA2</em> (<em>HMGIC</em>), and <em>CPM</em>, among others {19820690; 17213023; 9591630; 9892106; 8500103}.</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 127233,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 780,
+        "headingText": "\r\n<p>ALTs usually resemble mature fat, albeit with increased fibrous tissue and less well formed lobules.</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 127234,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 774,
+        "headingText": "\r\n<p>ALT is composed of a variable proportion of mature adipose tissue and irregular fibrous septa containing hyperchromatic stromal cells; rare lipoblasts may be seen. The number of pleomorphic cells and the degree of pleomorphism is variable. A rare finding in ALT is the presence of mature heterologous osseous or myogenic differentiation, which does not in itself imply dedifferentiation {20697254; 17197914; 8352375}.</p>\r\n<p>Immunohistochemistry for MDM2 nuclear expression and FISH for <em>MDM2</em> amplification are useful confirmatory tests, but FISH is more specific {16160477; 19737942; 17895748; 34523152}.</p>\r\n<p>A major pitfall is represented by nuclear MDM2 positivity in histiocytes in fat necrosis. ALTs associated with Li&ndash;Fraumeni syndrome are MDM2-negative; however, they express p53.</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 127235,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 775,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 127236,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 776,
+        "headingText": "\r\n<p>Detection of <em>MDM2</em> (and/or <em>CDK4</em>) amplification distinguishes ALT from benign adipose tumours {17895748; 25862836; 21117066; 34523152}.</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 127237,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 779,
+        "headingText": "\r\n<p><em>Essential:</em> mature adipose tissue transected by irregular fibrous septa containing enlarged, hyperchromatic stromal cells.</p>\r\n<p><em>Desirable:</em> MDM2 and/or CDK4 nuclear expression or evidence of <em>MDM2</em> and/or <em>CDK4</em> gene amplification (in selected or challenging cases).</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 127238,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 777,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 127239,
+        "bookId": 64,
+        "chapterId": 227,
+        "headingId": 778,
+        "headingText": "\r\n<p>Local recurrence is rare in dermal or subcutaneous ALT. Dedifferentiation is exceptional {9643489; 8944047}.</p>",
+        "timestamp": "2025-04-25T09:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

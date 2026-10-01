@@ -1,0 +1,62 @@
+[
+  {
+    "pkroleId": 129,
+    "bookId": "44",
+    "roleid": 131,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3647,
+        "lastname": "López-Terrada",
+        "firstname": "Dolores H.",
+        "initials": "DH",
+        "email": "",
+        "roleid": 131,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 130,
+    "bookId": "44",
+    "roleid": 132,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2148,
+        "lastname": "Hornick",
+        "firstname": "Jason L.",
+        "initials": "JL",
+        "email": "",
+        "roleid": 132,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 131,
+    "bookId": "44",
+    "roleid": 133,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4005,
+        "lastname": "Makhlouf",
+        "firstname": "Hala R.",
+        "initials": "HR",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 4032,
+        "lastname": "Ranganathan",
+        "firstname": "Sarangarajan",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      }
+    ]
+  }
+]

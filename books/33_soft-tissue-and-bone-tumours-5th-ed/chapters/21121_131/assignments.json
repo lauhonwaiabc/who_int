@@ -1,0 +1,62 @@
+[
+  {
+    "pkroleId": 70,
+    "bookId": "33",
+    "roleid": 28,
+    "roleTitle": "Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2304,
+        "lastname": "Fletcher",
+        "firstname": "Christopher D.M.",
+        "initials": "",
+        "email": "",
+        "roleid": 28,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 71,
+    "bookId": "33",
+    "roleid": 29,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2444,
+        "lastname": "Bode-Lesniewska",
+        "firstname": "Beata",
+        "initials": "",
+        "email": "",
+        "roleid": 29,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 72,
+    "bookId": "33",
+    "roleid": 30,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2445,
+        "lastname": "Debiec-Rychter",
+        "firstname": "Maria",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2446,
+        "lastname": "Tavora",
+        "firstname": "Fabio",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      }
+    ]
+  }
+]

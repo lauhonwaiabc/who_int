@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 112799,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 576,
+        "headingText": "\r\n<p>Teratocarcinosarcoma (TCS) is a malignant sinonasal tract neoplasm with mixed epithelial, mesenchymal, and primitive neuroepithelial elements.</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 112800,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 577,
+        "headingText": "\r\n<p>9081/3 Teratocarcinosarcoma</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 112801,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 578,
+        "headingText": "\r\n<p>2C20.Y &amp; XH2RK1 Other specified malignant neoplasm of nasal cavity &amp; Carcinosarcoma, embryonal</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 112802,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> malignant teratoma; teratocarcinoma; teratoid carcinosarcoma; blastoma; mixed olfactory neuroblastoma&ndash;craniopharyngioma.</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 112803,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 112804,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 581,
+        "headingText": "\r\n<p>Most cases of TCS are centred in the superior aspect of the nasal cavity, with frequent extension into the ethmoid, maxillary, or sphenoid sinuses {18559724; 6322958}.</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 112805,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 582,
+        "headingText": "\r\n<p>Presenting symptoms result from mass effect and include nasal obstruction, epistaxis, and headache, and they are usually of short duration {18559724}. Cervical lymph node metastases are rarely seen {6322958}, but distant metastases may occur {20015764; 23462185}.</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 112806,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 583,
+        "headingText": "\r\n<p>TCS tends to affect adults (median age: 50&nbsp;years); approximately 80% of patients are male {18559724; 32954838}.</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 112807,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 584,
+        "headingText": "\r\n<p>No risk factors or tumour predisposition syndrome associations are known.</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 112808,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 585,
+        "headingText": "\r\n<p>Recurrent molecular driver alterations have been documented, particularly biallelic inactivation of <em>SMARCA4</em> and activating <em>CTNNB1</em> mutation {28725522; 32520761}.</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 112809,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 592,
+        "headingText": "\r\n<p>Tumours generally have a variable grey-tan fleshy to reddish-brown haemorrhagic appearance, with areas of necrosis.</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 112810,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 586,
+        "headingText": "\r\n<p>TCS is composed of mixed epithelial, mesenchymal, and neuroepithelial elements. The epithelial components can include both squamous epithelium, which may be keratinizing or non-keratinizing, and glandular structures, which can be simple or stratified and can include mucinous or ciliated cells. Frequently, the squamous and glandular elements have a clear cell appearance, reminiscent of fetal tissues. The mesenchymal components are most often composed of nondescript hypercellular fascicles of spindle cells, but areas of overt smooth muscle or of rhabdomyoblastic, adipocytic, cartilaginous, or osteoblastic differentiation can be seen. Both the epithelial and mesenchymal components can show variable cytological atypia, ranging from relatively bland to overtly malignant appearances. The neuroepithelial component consists of primitive epithelioid cells with large, hyperchromatic nuclei arranged in nests and sheets with a patchy neurofibrillary background and rosette formation {18559724; 23462185; 32520761}. In some instances, the primitive neuroepithelial component may undergo neuronal maturation after chemotherapy {20596986}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>The immunoprofile of TCS corresponds to its constituent elements, with consistent strong positivity for cytokeratin in epithelial elements and weak positivity in neuroepithelial elements; reactivity for desmin in rhabdomyosarcomatous elements (which may only be identified immunohistochemically); staining for CK5/6, p63, and p40 in squamous components; and expression of the neuroendocrine markers synaptophysin, chromogranin&nbsp;A, and INSM1 in the neuroepithelial elements {23462185; 29438167}. Markers of germ cell derivation, including PLAP, SALL4, AFP, and hCG, are negative {6322958; 9670829}. Approximately 80% of cases show some degree of SMARCA4 (BRG1) loss, with complete loss in as many as 70% of cases {32520761}. A subset of cases display aberrant nuclear &beta;-catenin localization {28725522}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The admixture of various tissue elements in TCS is unique for the diagnosis, but it can show overlap with a wide range of other sinonasal tumours, including olfactory neuroblastoma, squamous cell carcinoma, adenocarcinoma, neuroendocrine carcinomas (NECs), and various sarcomas when not all components are sampled. Immunohistochemistry for SMARCA4 or &beta;-catenin can support the diagnosis in such cases. SMARCA4-deficient sinonasal carcinoma may overlap with TCS in limited samples but frequently shows a large cell epithelioid or rhabdoid cell pattern that is absent in TCS {31934917}.</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 112811,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 587,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 112812,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 588,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 112813,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> sinonasal tract location; an admixture of epithelial, mesenchymal, and primitive neuroepithelial elements.</p>\r\n<p><em>Desirable:</em> fetal-like clear cell appearance in epithelial components; SMARCA4 loss and/or nuclear &beta;-catenin expression (in selected cases).</p>\r\n",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 112814,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 589,
+        "headingText": "<p>Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2023-10-09T11:42:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 112815,
+        "bookId": 52,
+        "chapterId": 27,
+        "headingId": 590,
+        "headingText": "\r\n<p>TCS is an aggressive tumour that shows frequent local recurrences within the first 2&nbsp;years {20156370}. However, more recent 5-year survival rates are &gt;&nbsp;50% {32954838}.</p>",
+        "timestamp": "2023-09-25T11:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

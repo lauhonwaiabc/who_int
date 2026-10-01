@@ -1,0 +1,131 @@
+[
+  {
+    "pkroleId": 58,
+    "bookId": "31",
+    "roleid": 9,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2024,
+        "lastname": "Odze",
+        "firstname": "Robert D. ",
+        "initials": "RD",
+        "email": "",
+        "roleid": 9,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 59,
+    "bookId": "31",
+    "roleid": 10,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2007,
+        "lastname": "Ochiai",
+        "firstname": "Atsushi",
+        "initials": "A",
+        "email": "",
+        "roleid": 10,
+        "position": 0
+      },
+      {
+        "contributorid": 2022,
+        "lastname": "Lam",
+        "firstname": "Alfred King-yin",
+        "initials": "AK",
+        "email": "",
+        "roleid": 10,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 60,
+    "bookId": "31",
+    "roleid": 11,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2022,
+        "lastname": "Lam",
+        "firstname": "Alfred King-yin",
+        "initials": "AK",
+        "email": "",
+        "roleid": 11,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 61,
+    "bookId": "31",
+    "roleid": 12,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2007,
+        "lastname": "Ochiai",
+        "firstname": "Atsushi",
+        "initials": "A",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2024,
+        "lastname": "Odze",
+        "firstname": "Robert D. ",
+        "initials": "RD",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 62,
+    "bookId": "31",
+    "roleid": 14,
+    "roleTitle": "Editorial office",
+    "contributors": [
+      {
+        "contributorid": 2173,
+        "lastname": "Cree",
+        "firstname": "Ian A.",
+        "initials": "",
+        "email": "",
+        "roleid": 14,
+        "position": 0
+      },
+      {
+        "contributorid": 2351,
+        "lastname": "Znaor",
+        "firstname": "Ariana",
+        "initials": "",
+        "email": "",
+        "roleid": 14,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 63,
+    "bookId": "31",
+    "roleid": 23,
+    "roleTitle": "Responsible author (Edition)",
+    "contributors": [
+      {
+        "contributorid": 2022,
+        "lastname": "Lam",
+        "firstname": "Alfred King-yin",
+        "initials": "AK",
+        "email": "",
+        "roleid": 23,
+        "position": 0
+      }
+    ]
+  }
+]

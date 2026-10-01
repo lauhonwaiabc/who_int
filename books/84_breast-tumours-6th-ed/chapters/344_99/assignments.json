@@ -1,0 +1,105 @@
+[
+  {
+    "pkroleId": 170,
+    "bookId": "84",
+    "roleid": 264,
+    "roleTitle": "Resp. editor",
+    "contributors": [
+      {
+        "contributorid": 2202,
+        "lastname": "Sapino",
+        "firstname": "Anna ",
+        "initials": "",
+        "email": "",
+        "roleid": 264,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 171,
+    "bookId": "84",
+    "roleid": 282,
+    "roleTitle": "1st Co-editor",
+    "contributors": [
+      {
+        "contributorid": 2013,
+        "lastname": "Tan",
+        "firstname": "Puay Hoon",
+        "initials": "",
+        "email": "",
+        "roleid": 282,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 172,
+    "bookId": "84",
+    "roleid": 283,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2251,
+        "lastname": "Tse",
+        "firstname": "Gary ",
+        "initials": "G",
+        "email": "",
+        "roleid": 283,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 173,
+    "bookId": "84",
+    "roleid": 284,
+    "roleTitle": "Resp. author",
+    "contributors": [
+      {
+        "contributorid": 2342,
+        "lastname": "Varga",
+        "firstname": "Zsuzsanna",
+        "initials": "",
+        "email": "",
+        "roleid": 284,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 174,
+    "bookId": "84",
+    "roleid": 285,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2098,
+        "lastname": "Rindi",
+        "firstname": "Guido",
+        "initials": "G",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 2252,
+        "lastname": "Rakha",
+        "firstname": "Emad A.",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 2284,
+        "lastname": "Wu",
+        "firstname": "Yun",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      }
+    ]
+  }
+]

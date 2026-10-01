@@ -1,0 +1,115 @@
+[
+  {
+    "pkroleId": 81,
+    "bookId": "34",
+    "roleid": 37,
+    "roleTitle": "Responsible Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 1999,
+        "lastname": "Cheung",
+        "firstname": "Annie Nga-Yin",
+        "initials": "",
+        "email": "",
+        "roleid": 37,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 82,
+    "bookId": "34",
+    "roleid": 38,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2392,
+        "lastname": "Longacre",
+        "firstname": "Teri A.",
+        "initials": "TA",
+        "email": "",
+        "roleid": 38,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 83,
+    "bookId": "34",
+    "roleid": 39,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2832,
+        "lastname": "Yemelyanova",
+        "firstname": "Anna",
+        "initials": "",
+        "email": "",
+        "roleid": 39,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 84,
+    "bookId": "34",
+    "roleid": 40,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2391,
+        "lastname": "Nucci",
+        "firstname": "Marisa R.",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2414,
+        "lastname": "Howitt",
+        "firstname": "Brooke E.",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2763,
+        "lastname": "Kiyokawa",
+        "firstname": "Takako",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2795,
+        "lastname": "Cao",
+        "firstname": "Dengfeng",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2811,
+        "lastname": "Khunamornpong",
+        "firstname": "Surapan",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2829,
+        "lastname": "Staebler",
+        "firstname": "Annette E.",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      }
+    ]
+  }
+]

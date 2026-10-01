@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 70033,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 539,
+        "headingText": "\r\n<p>Primary squamous cell carcinoma of the seminal vesicle is a rare epithelial malignancy showing squamous differentiation in the absence of gland formation and mucin secretion.</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 70034,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 540,
+        "headingText": "\r\n<p>8070/3 Squamous cell carcinoma</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 70035,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 541,
+        "headingText": "\r\n<p>2C8Z &amp; XH0945 Malignant neoplasms of male genital organs, unspecified &amp; Squamous cell carcinoma, NOS</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 70036,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 542,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 70037,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 70038,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 544,
+        "headingText": "\r\n<p>Seminal vesicles, with left and right involved equally</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 70039,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 545,
+        "headingText": "\r\n<p>The most frequent presenting symptom is gross haematuria {30896622; 25812665; 26998295; 11972870; 23292510; 11880096}. Other common symptoms include haematospermia, dysuria, and bladder outlet obstruction, while serum PSA is normal {11972870; 23292510}. One tumour arose in an acquired cyst in a patient with a history of gonorrhoea {11972870}, and another patient had Zinner syndrome {25812665}.</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 70040,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 546,
+        "headingText": "\r\n<p>Six cases have been reported {30896622; 25812665; 26998295; 11972870; 23292510; 11880096}, all of them from eastern Asia (China, Japan, and the Republic of Korea). The mean age at diagnosis is 52&nbsp;years (range: 26&ndash;69&nbsp;years).</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 70041,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 547,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 70042,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 548,
+        "headingText": "<p>Squamous cell carcinoma of the seminal vesicle often has a heavily inflamed background. In one case, sporadic p53 protein accumulation without evident gene mutations was apparent in both squamous metaplastic epithelium and carcinoma, suggesting a possible relationship to inflammatory change {11972870}.</p>",
+        "timestamp": "2022-04-14T15:54:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 70043,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 555,
+        "headingText": "\r\n<p>The reported cases were unilateral cystic and solid masses with tan to white cut surfaces. They measured 40&ndash;110&nbsp;mm in largest diameter.</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 70044,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 549,
+        "headingText": "<p>Keratinizing squamous cell carcinoma has cystic spaces of variable size. The tumour is often associated with marked chronic inflammation, and foci of squamous metaplasia are seen. The tumour cells are positive for p63 and CK5/6, and negative for CK7, CK20, PSA, and CEA.</p>",
+        "timestamp": "2022-04-14T15:55:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 70045,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 70046,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 551,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 70047,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> seminal vesicle epicentre; squamous morphology with keratinization; exclusion of local spread or metastasis from other sites {6471181; 13381470}.</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 70048,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 552,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 70049,
+        "bookId": 36,
+        "chapterId": 324,
+        "headingId": 553,
+        "headingText": "\r\n<p>The prognosis is generally poor {30896622; 25812665; 26998295; 11972870; 23292510; 11880096}. In one patient, rectal metastasis occurred 7&nbsp;months after resection despite chemotherapy, leading to death {23292510}. Another patient developed pelvic metastasis 28&nbsp;months after surgery and died 6&nbsp;months later {26998295}.</p>",
+        "timestamp": "2022-02-11T10:15:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

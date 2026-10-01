@@ -1,0 +1,115 @@
+[
+  {
+    "pkroleId": 137,
+    "bookId": "52",
+    "roleid": 156,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 3150,
+        "lastname": "Skalova",
+        "firstname": "Alena",
+        "initials": "",
+        "email": "",
+        "roleid": 156,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 138,
+    "bookId": "52",
+    "roleid": 157,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2888,
+        "lastname": "Hyrcza",
+        "firstname": "Martin D.",
+        "initials": "",
+        "email": "",
+        "roleid": 157,
+        "position": 0
+      },
+      {
+        "contributorid": 4119,
+        "lastname": "Mehrotra",
+        "firstname": "Ravi",
+        "initials": "",
+        "email": "",
+        "roleid": 157,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 139,
+    "bookId": "52",
+    "roleid": 158,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3148,
+        "lastname": "Seethala",
+        "firstname": "Raja",
+        "initials": "",
+        "email": "",
+        "roleid": 158,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 140,
+    "bookId": "52",
+    "roleid": 159,
+    "roleTitle": "Co-Author(s)",
+    "contributors": [
+      {
+        "contributorid": 2309,
+        "lastname": "Jo",
+        "firstname": "Vickie Y.",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 2523,
+        "lastname": "Yamamoto",
+        "firstname": "Hidetaka",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 3086,
+        "lastname": "Fonseca",
+        "firstname": "Isabel",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 3128,
+        "lastname": "Nagao",
+        "firstname": "Toshitaka",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 4137,
+        "lastname": "Rossi",
+        "firstname": "Esther D.",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      }
+    ]
+  }
+]

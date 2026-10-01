@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 70937,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 539,
+        "headingText": "\r\n<p>HPV-associated squamous cell carcinoma (SCC) is an invasive keratinizing carcinoma arising from penile mucosal or cutaneous compartments that is associated with HPV infection.</p>\r\n",
+        "timestamp": "2022-02-22T15:52:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 70938,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 540,
+        "headingText": "\r\n<p>8085/3 Squamous cell carcinoma, HPV-associated</p>\r\n<p>8083/3 Basaloid squamous cell carcinoma</p>\r\n<p>8054/3 Warty carcinoma</p>\r\n<p>8084/3 Clear cell squamous cell carcinoma</p>\r\n<p>8082/3 Lymphoepithelial carcinoma</p>\r\n",
+        "timestamp": "2022-02-22T15:52:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 70939,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 541,
+        "headingText": "\r\n<p>2C81.0 &amp; XN8JY Squamous cell carcinoma of penis &amp; Human papillomavirus</p>\r\n",
+        "timestamp": "2022-02-22T15:52:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 70940,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Acceptable:</em> basaloid squamous cell carcinoma; basaloid carcinoma; warty carcinoma.</p>\r\n<p><em>Not recommended:</em> condylomatous carcinoma.</p>\r\n",
+        "timestamp": "2022-02-22T15:52:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 70941,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 543,
+        "headingText": "\r\n<p>Basaloid squamous cell carcinoma; warty carcinoma; clear cell squamous cell carcinoma; lymphoepithelioma-like carcinoma</p>\r\n",
+        "timestamp": "2022-02-22T15:52:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 70942,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 544,
+        "headingText": "<p>Basaloid SCC is typically localized in the glans and foreskin, variably involving the coronal sulcus (it rarely occurs exclusively at this last site) {9630184; 22367299}. Warty carcinoma may involve single or multiple anatomical sites such as the glans, coronal sulcus, and foreskin {10757397; 20305615}. Clear cell SCC occurs as a large tumour mass and affects the foreskin, coronal sulcus, or glans {15489656}. Lymphoepithelioma-like carcinoma is mainly located in the glans, although all compartments are involved.</p>",
+        "timestamp": "2022-05-05T15:35:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 70943,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 545,
+        "headingText": "<h5>Basaloid SCC</h5>\r\n<p>The average patient age at presentation is about 53&nbsp;years (range: 33&ndash;84&nbsp;years). More than half of the patients show enlarged inguinal nodes as a result of metastasis at the time of diagnosis {26984220}.</p>\r\n<p>Basaloid SCC with papillary features accounts for 1&ndash;2% of all SCCs of the penis. Patient age ranges from 35&nbsp;to 90&nbsp;years (median: 79&nbsp;years). Inguinal lymph nodes are clinically palpable in most cases {22367299}.</p>\r\n<h5>Warty carcinoma</h5>\r\n<p>Warty carcinomas represent 7&ndash;10% of penile carcinomas. The median patient age is about 48&ndash;55&nbsp;years (~10&nbsp;years younger than that for the usual subtype of SCC). HPV DNA has been detected in 22&ndash;100% of these tumours. The typical appearance is a cauliflower-like exophytic tumour {25677263}.</p>\r\n<h5>Clear cell SCC</h5>\r\n<p>The tumours are large, exophytic, and partly ulcerated. Most of the patients have extensive partly cystic inguinal lymph node metastasis at diagnosis or within several months of diagnosis {15489656}.</p>\r\n<h5>Lymphoepithelioma-like carcinoma</h5>\r\n<p>Patients are uncircumcised and their age is variable (50&ndash;70&nbsp;years). They present with large tumours in the glans, with extension to the foreskin {24117963}.</p>",
+        "timestamp": "2022-03-31T15:04:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 70944,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 546,
+        "headingText": "\r\n<p>Penile cancer is an exceedingly rare malignancy in high-income countries. For example, it accounts for &lt;&nbsp;1% of all malignancies in men in the USA, with about 2100&nbsp;new cases and about 400&nbsp;deaths annually {30620402}. The incidence of penile cancer in Europe varies geographically, ranging from 0.5&nbsp;to 1.6&nbsp;cases per 100&nbsp;000&nbsp;person-years {25140224}. However, the incidence of this malignancy is much higher in the low- and middle-income countries of Africa, Asia, and South America {26762611}. Brazil has a high incidence, and the state of Maranh&atilde;o, located in the north-eastern region of the country, has the highest incidence of penile cancer in the world (age-standardized incidence rate: 6.1&nbsp;cases per 100&nbsp;000&nbsp;inhabitants per year) {32076037}.</p>\r\n",
+        "timestamp": "2022-02-22T15:52:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 70945,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 547,
+        "headingText": "\r\n<p>High-risk HPVs are associated with about 33% of all penile cancer cases, with HPV16 being the most prevalent subtype. HPVs 16, 18, 31, 33, 45, 51, 52, 53, and 58 are the most commonly associated high-risk types found in HPV-associated SCC {31698006}.</p>\r\n",
+        "timestamp": "2022-02-22T15:52:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 70946,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 548,
+        "headingText": "\r\n<p>HPV-induced penile cancers develop through the non-invasive precursor lesion penile intraepithelial neoplasia (PeIN) after the inactivation of host cell-cycle regulatory proteins by the binding of E7 oncoproteins of high-risk HPV genotypes to hypophosphorylated retinoblastoma protein and the binding of E6 oncoproteins of high-risk HPV genotypes to p53. The ensuing autonomous cell proliferation (without G1 cell-cycle stops) allows nuclear accumulation of the cyclin-dependent kinase inhibitor p16 (p16INK4a) {30573285}.</p>\r\n",
+        "timestamp": "2022-02-22T15:52:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 70947,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 555,
+        "headingText": "<h5>Basaloid SCC</h5>\r\n<p>Patients usually present with a large, ulcerated, non-exophytic tumoural mass. The cut surface is variable, ranging from an exclusively villiform superficial lesion in non-invasive tumours to a solid tan, firm lesion in invasive carcinomas involving the glans, corpus spongiosum, or preputial dartos {9630184}. Basaloid tumours may be extensively papillary.</p>\r\n<h5>Warty carcinoma</h5>\r\n<p>Grossly, these are cauliflower-like, exophytic, white to grey tumours. The cut surface shows a papillomatous growth, usually penetrating into the corpora cavernosa or corpus spongiosum {19578046; 24235788}. These carcinomas are large, ranging from 15&nbsp;to 80&nbsp;mm (average: 48&nbsp;mm) in largest diameter. There is an exophytic papillomatous surface in some cases, and other tumours are irregular {22641954}.</p>\r\n<h5>Clear cell SCC</h5>\r\n<p>Clear cell SCCs are large white-grey tumours measuring 25&ndash;55&nbsp;mm and sometimes replacing the distal penis {26848799}.</p>\r\n<h5>Lymphoepithelioma-like carcinoma</h5>\r\n<p>These are exophytic, well- to poorly circumscribed white-grey tumour masses.</p>",
+        "timestamp": "2022-05-05T15:37:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 70948,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 549,
+        "headingText": "<h5>Basaloid SCC</h5>\r\n<p>Basaloid SCC is characterized by solid nests of small, uniform basaloid cells, usually with central necrosis (comedonecrosis) or central abrupt keratinization. Perinuclear haloes are rare. Nucleoli are inconspicuous and numerous mitotic figures may be seen. Vascular and perineural invasion are frequent findings {9630184}. Strong block positivity for p16 (a surrogate marker for HPV) is commonly seen in these tumours. The differential diagnosis includes urothelial carcinoma of the distal urethra, small (neuroendocrine) carcinoma, and metastatic carcinoma {26984219}. The tumour may have a papillary architecture in which the papillae are straight, foliaceous, or rounded, and composed of a central fibrovascular core; the papillae resemble those in condylomatous or urothelial tumours. The entire thickness of the papillae is composed of small, uniform, poorly differentiated basophilic cells. Associated changes can include basaloid PeIN {22367299}.</p>\r\n<h5>Warty carcinoma</h5>\r\n<p>Warty carcinoma is a morphologically distinct HPV-associated verruciform neoplasm that shares histological features with a giant condyloma but has definitive cytological atypia and a malignant infiltrative architecture. Tumours have a combined exophytic/endophytic growth pattern and a parakeratotic papillomatous surface with conspicuous frankly atypical koilocytosis throughout the tumour (not only at the surface). Microscopically, mixed features of warty and basaloid carcinomas are noted. Frequently, a papillomatous tumour is observed at the surface, with an underlying basaloid SCC invading the corpus spongiosum or cavernosum {20305615}. Differential diagnosis from verrucous carcinoma and giant condyloma is straightforward, owing to the malignant cytology and infiltrative architecture of warty carcinoma.</p>\r\n<h5>Clear cell SCC</h5>\r\n<p>Tumours are composed of large clear cells with intracytoplasmic PAS-positive, diastase-resistant material and extensive lymphatic and vascular invasion. They exhibit a typically nested growth pattern with confluent nests in some areas and prominent geographical as well as comedo-type necrosis. The differential diagnosis includes warty carcinoma, cutaneous adnexal sweat gland tumours, and metastatic neoplasm with a clear cell morphology {15489656}.</p>\r\n<h5>Lymphoepithelioma-like carcinoma</h5>\r\n<p>Lymphoepithelioma-like carcinoma is a rare HPV-associated and poorly differentiated subtype of SCC with a rich accompanying inflammatory infiltrate, and which derives its name from lymphoepithelioma or undifferentiated nasopharyngeal carcinoma. EBV testing is negative {24117963}. The tumour has a syncytial growth pattern, with irregular geographical sheets, nests, trabeculae, or cords of tumoural cells intermixed with a dense lymphoplasmacytic and eosinophilic infiltrate, which obscures carcinoma boundaries and occasional isolated tumour cells. The differential diagnosis is with lymphomas and poorly differentiated usual SCCs. Positivity for p63 and p16 would favour the diagnosis of a lymphoepithelioma-like carcinoma {24117963; 25677263}.</p>",
+        "timestamp": "2022-05-05T15:46:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 70949,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-22T15:52:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 70950,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 551,
+        "headingText": "<p>In&nbsp;situ hybridization is positive for high-risk HPV and negative for low-risk HPV {31045928}. PCR analyses show HPV16 in most cases, although other subtypes (HPVs 18, 30, 33, 39, 56, 66, 73, 11, 84, 87) may be positive. Warty carcinoma&nbsp;is usually associated with multiple HPV genotypes {30573285}.</p>",
+        "timestamp": "2022-05-05T15:46:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 70951,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> p16 block positivity or evidence of HPV on molecular testing; for basaloid SCC: invasive carcinoma with sheets and nests, solid tumour with scant cytoplasm, comedonecrosis, and brisk mitoses; for warty carcinoma: tumour with surface papillary architecture and a deeper infiltrative component composed of frankly atypical cells with koilocytic atypia; for clear cell SCC: invasive carcinoma with prominent cytoplasmic clear cell features; for lymphoepithelioma-like carcinoma: poorly differentiated to undifferentiated SCC with tumour cells arranged in syncytia and with prominent inflammatory (lymphoplasmacytic) infiltrate surrounding or obscuring neoplastic cells.</p>\r\n<p><em>Desirable:</em> surface HPV-associated PeIN lesions; mixed patterns of HPV-associated carcinomas may be present.</p>\r\n",
+        "timestamp": "2022-02-22T15:52:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 70952,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 552,
+        "headingText": "\r\n<p>Staging is performed according to the eighth edition of the Union for International Cancer Control (UICC) TNM classification.</p>\r\n",
+        "timestamp": "2022-02-22T15:52:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 70953,
+        "bookId": 36,
+        "chapterId": 203,
+        "headingId": 553,
+        "headingText": "<h5>Basaloid SCC</h5>\r\n<p>Basaloid carcinoma is an aggressive neoplasm. Deeply invasive tumours are associated with regional lymph node metastasis, indicating a potential for tumour-related death {9630184; 26984220}. The mortality rate associated with basaloid SCC with papillary features is high, but it is lower than that associated with classic basaloid SCC {22367299}.</p>\r\n<h5>Warty carcinoma</h5>\r\n<p>Warty carcinomas have an intermediate prognosis between that of other types of low-grade verruciform tumours (verrucous and papillary) and that of SCC of the usual type. They may be associated with inguinal lymph node metastasis {19578046; 24235788; 20305615; 22595011}.</p>\r\n<h5>Clear cell SCC</h5>\r\n<p>These are highly aggressive tumours with the potential for inguinal lymph node metastasis {15489656; 26848799}.</p>\r\n<h5>Lymphoepithelioma-like carcinoma</h5>\r\n<p>The most important factors in determining the prognosis are the anatomical level of infiltration (pathological stage); vascular, lymphatic, and perineural invasion; and inguinal lymph node metastasis {16844455; 19384188}.</p>",
+        "timestamp": "2022-05-05T15:46:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

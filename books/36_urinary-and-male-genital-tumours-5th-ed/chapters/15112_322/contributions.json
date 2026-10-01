@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 70016,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 539,
+        "headingText": "\r\n<p>Adenocarcinomas of the seminal vesicle are malignant gland-forming tumours originating from seminal vesicle epithelium. Diagnosis requires clinicopathological exclusion of secondary carcinomas.</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 70017,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 540,
+        "headingText": "\r\n<p>8140/3 Adenocarcinoma</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 70018,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 541,
+        "headingText": "\r\n<p>2C84 &amp; XH74S1 Malignant neoplasms of other specified male genital organs &amp; Adenocarcinoma, NOS</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 70019,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 542,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 70020,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 70021,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 544,
+        "headingText": "\r\n<p>Seminal vesicles, but may invade adjacent structures</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 70022,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 545,
+        "headingText": "\r\n<p>Approximately 60&nbsp;cases of primary adenocarcinoma of the seminal vesicles have been reported {3191369; 6471181; 12394673; 31961000; 31852695; 17445673; 28506732}. Patients often present with urinary obstruction and haematuria, and rarely with haematospermia {12394673; 23283099}. Ultrasonography, PET-CT, and MRI may be helpful to define the extent of the lesion and exclude local spread from tumours in adjacent organs {22040796}.</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 70023,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 546,
+        "headingText": "\r\n<p>These are rare tumours that mainly occur in men aged 40&ndash;70&nbsp;years {3191369; 6471181; 12394673; 31961000; 31852695; 17445673; 28506732}. The mean age at diagnosis is 62&nbsp;years (range: 19&ndash;90&nbsp;years).</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 70024,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 547,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 70025,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 548,
+        "headingText": "\r\n<p>The tumour originates from the epithelium of the seminal vesicle, which is a Wolffian duct derivative. Seminal vesicle intraepithelial neoplasia has been proposed as a putative precursor {24631410}.</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 70026,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 555,
+        "headingText": "\r\n<p>Seminal vesicle adenocarcinoma often occurs as a large cystic or solid mass (30&ndash;50&nbsp;mm in diameter), and it may be bilateral {22723505}.</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 70027,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 549,
+        "headingText": "\r\n<p>The tumours have a glandular differentiation, often with trabecular and papillary growth patterns. There may be a papillary clear cell pattern with occasional hobnail tumour cells. Goblet cells and mucin secretion may be seen. The seminal vesicle epithelium stains positively for PAX2, PAX8, 34&beta;E12, and p63, and negatively for AMACR, PSA, PAP, NKX3-1, and P501S {17445673; 21934480; 33126153}. The tumour cells are positive for PAX8, CK7, CEA, and CA125, and negative for PSA, PAP, AR, p63, GATA3, WT1, calretinin, and CDX2 {23283099; 17445672; 10658909}. CK20 is either positive or negative {17445672}. AMACR stains are focally positive {28506732} or negative {31961000}. Identification of mucin production is helpful as well {6471181}.</p>\r\n<p>The diagnosis of this entity is complicated by the frequent invasion of adenocarcinomas from surrounding organs, most often the prostate and less often the bladder or rectum {17445673; 23283099}. Such invasion must be excluded {13381470}.</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 70028,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 70029,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 551,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 70030,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> seminal vesicle location (or for large tumours, seminal vesicle epicentre); adenocarcinoma, often with papillary-glandular and trabecular growth patterns; exclusion of metastasis and local spread clinically and pathologically; supportive immunohistochemistry (see above).</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 70031,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 552,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 70032,
+        "bookId": 36,
+        "chapterId": 322,
+        "headingId": 553,
+        "headingText": "\r\n<p>The prognosis is poor, with survival usually &lt;&nbsp;3&nbsp;years from diagnosis {29550197}. Complete surgical resection together with chemotherapy can occasionally offer a cure {31852695; 22723505; 29021144; 24113594; 30313047}. Penile and lung metastases have been reported {17445672}. Some tumours may be responsive to adjuvant hormone treatments {6471181; 12394673; 24113594; 3188318}. Serum CA125 level may be a useful biomarker for disease recurrence.</p>",
+        "timestamp": "2022-02-11T10:13:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

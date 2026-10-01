@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 395,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 228,
+    "contributions": [
+      {
+        "pkcontributionId": 59663,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 228,
+        "headingText": "<p>Synovial sarcoma (SS) is a monomorphic blue spindle cell sarcoma showing variable epithelial differentiation. SS is characterized by a specific <em>SS18</em>-<em>SSX1/2/4</em> fusion gene.</p>",
+        "timestamp": "2020-01-24T12:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 396,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 229,
+    "contributions": [
+      {
+        "pkcontributionId": 59664,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 229,
+        "headingText": "<p>9040/3 Synovial sarcoma NOS</p>",
+        "timestamp": "2020-01-31T18:56:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 397,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 230,
+    "contributions": [
+      {
+        "pkcontributionId": 59665,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 230,
+        "headingText": "\r\n<p>2B5A.Y &amp; XH9B22 Synovial sarcoma, other specified primary site &amp; Synovial sarcoma NOS</p>\r\n",
+        "timestamp": "2019-12-17T14:45:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 398,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 231,
+    "contributions": [
+      {
+        "pkcontributionId": 59666,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 231,
+        "headingText": "<p><em>Not recommended:</em> synoviosarcoma.</p>",
+        "timestamp": "2020-01-24T12:23:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 399,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 232,
+    "contributions": [
+      {
+        "pkcontributionId": 59667,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 232,
+        "headingText": "<p>Synovial sarcoma, spindle cell; synovial sarcoma, biphasic; synovial sarcoma, poorly differentiated</p>",
+        "timestamp": "2020-01-31T09:42:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 400,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 233,
+    "contributions": [
+      {
+        "pkcontributionId": 59668,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 233,
+        "headingText": "\r\n<p>The majority (70%) of SSs arise in the deep soft tissue of the lower and upper extremities, often in juxta-articular locations. About 15% arise in the trunk and 7% in the head and neck region {19514087}. Unusual sites of involvement include male and female external and internal reproductive organs, kidney, adrenal gland, retroperitoneum, stomach, small bowel, lung, heart, mediastinum, bone, CNS, and peripheral nerve {15330802; 15725802; 21295819}.</p>\r\n",
+        "timestamp": "2019-12-17T14:45:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 401,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 234,
+    "contributions": [
+      {
+        "pkcontributionId": 59669,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 234,
+        "headingText": "\r\n<p>SS usually presents as a swelling (sometimes longstanding), which may be painful. The initial growth of SS is often slow, and a small circumscribed tumour may give the wrong impression of a benign lesion by clinical examination and imaging {20858835}. SS may have radiologically detectable stippled or spiculated forms of calcification {23169746}. SS with aggressive growth may erode or invade adjacent bone.</p>\r\n",
+        "timestamp": "2019-12-17T14:45:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 402,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 235,
+    "contributions": [
+      {
+        "pkcontributionId": 59670,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 235,
+        "headingText": "\r\n<p>SS may occur at any age and is equally distributed between the sexes {19514087}. More than half of the patients are adolescents or young adults, and 77% of cases occur before the age of 50&nbsp;years. The relative frequency of SS compared with other soft tissue sarcomas is age-dependent, ranging from 15% in patients aged 10&ndash;18&nbsp;years to 1.6% in patients aged &gt;&nbsp;50&nbsp;years {19514087}.</p>\r\n",
+        "timestamp": "2019-12-17T14:45:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 403,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 236,
+    "contributions": [
+      {
+        "pkcontributionId": 59671,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 236,
+        "headingText": "<p>There are no known predisposing factors. Exceptionally, SS is associated with a history of previous radiotherapy {29336183}. SS bears a unique chromosomal translocation that results in the formation of an oncogenic <em>SS18</em>-<em>SSX1/2/4</em> fusion gene. Otherwise, SSs have a very low mutation burden relative to other sarcomas {29100075}.</p>",
+        "timestamp": "2020-01-24T12:23:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 404,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 237,
+    "contributions": [
+      {
+        "pkcontributionId": 59672,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 237,
+        "headingText": "\r\n<p>SS cells are dependent on SS18-SSX expression to maintain their transformed phenotype {21472259}. Conditional expression of SS18-SSX induces SSs in genetically engineered mouse models, supporting its function as an oncogene when expressed in permissive mesenchymal progenitor cells {26947017; 29202462}. Additionally, SS18-SSX1 has been shown to transform primary cell lines {11274403}. Recent evidence suggests that the SS18-SSX fusion protein disrupts epigenetic control and blocks mesenchymal differentiation by complementary mechanisms including competitive binding with, and displacement of, native SS18 in the SWI/SNF chromatin-remodelling complex {23540691}, inducing dependency on BRD9-containing alternative SWI/SNF complexes (ncBAF complexes) {30397315; 30431433} and colocalizing with factors such as the ATF2 transcription factor, TLE1 to repress ATF2 target genes {25614489}, and the KDM2B lysine demethylase at unmethylated CpG islands to reactivate repressed genes {29502955; 29861296}.</p>\r\n",
+        "timestamp": "2019-12-17T14:45:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 411,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 244,
+    "contributions": [
+      {
+        "pkcontributionId": 59673,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 244,
+        "headingText": "\r\n<p>Most SSs are 3&ndash;10&nbsp;cm in diameter at diagnosis. Minute lesions &lt;&nbsp;1&nbsp;cm occur especially in hands and feet {16723849}. On cut surface, tumour colour and consistency are proportionate to cellularity, collagenization, and myxoid change or haemorrhage. Areas may be tan or grey, yellowish or pink, and soft or firm {6256705}. SS is frequently multinodular and can be multicystic. Calcification, metaplastic ossification, and necrosis may be present.</p>\r\n",
+        "timestamp": "2019-12-17T14:45:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 405,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 238,
+    "contributions": [
+      {
+        "pkcontributionId": 59674,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 238,
+        "headingText": "<p>Histologically, SSs are classified as biphasic (in approximately one&nbsp;quarter to one&nbsp;third of cases) or monophasic (in the majority). Biphasic SS has epithelial and spindle cell components, in varying proportions. The epithelial cells are arranged in solid nests or cords, or in glands with a tubular or sometimes alveolar or papillary architecture. In glandular areas, epithelial cells are cuboidal or columnar and have ovoid vesicular nuclei, and they typically have more-abundant palely eosinophilic cytoplasm than in the dark-blue spindle cell component. Glandular lumina contain epithelial mucin. Focally, the glandular component can predominate, and it may be confused with adenocarcinoma; however, a scant spindle cell component is virtually always found. Rarely, epithelial cells show (keratinizing) squamous metaplasia or granular cell change.</p>\r\n<p>The spindle cells in biphasic SS resemble the spindle cells found in monophasic SS. These delicate spindle cells are fairly uniform and relatively small, with sparse cytoplasm and ovoid, hyperchromatic nuclei with regular granular chromatin and inconspicuous nucleoli. The N:C&nbsp;ratio is so high that the nuclei can appear to overlap. Typically, in both monophasic and biphasic SSs, the spindle cells are arranged in dense cellular sheets or vague fascicles, with occasional tigroid nuclear palisading or a herringbone architectural pattern. The amount of collagen is variable and usually scant, but SS may contain strands of ropy or wiry collagen, bands of hyalinized collagen, or (especially after irradiation) foci of dense fibrosis. Myxoid change is usually only focally present and rarely predominates, with alternating hypocellular and more-cellular areas, as well as retiform cords or microcysts {10349982}. Many SSs focally display a staghorn-shaped vascular pattern, reminiscent of solitary fibrous tumour&nbsp;/ haemangiopericytoma. Mast cells are variably present. In as many as one&nbsp;third of SSs, areas with calcification and/or ossification are found, which are sometimes abundant. In areas with ossification, the osteoid has a lace-like pattern mimicking osteosarcoma, and bone tissue can mature to the point of being lamellar and trabecular {7684201}. Metaplastic cartilage is rarely seen.</p>\r\n<p>In otherwise typical biphasic or monophasic SS, poorly differentiated areas with increased cellularity, greater nuclear atypia, and high mitotic activity (&gt;&nbsp;6&nbsp;mitoses/mm<sup>2</sup> or &gt;&nbsp;10&nbsp;mitoses per 10&nbsp;high-power fields of 0.17&nbsp;mm<sup>2</sup>) may be found {15364967}. Poorly differentiated areas may be composed of fascicular spindle cells (reminiscent of malignant peripheral nerve sheath tumour), small round hyperchromatic tumour cells (reminiscent of Ewing sarcoma), or epithelioid cells {10375108}. Compared with typical biphasic or monophasic SS, poorly differentiated areas more often contain areas of necrosis, a branching vascular pattern, and thin fibrovascular septa separating groups of tumour cells {12940774}. Poorly differentiated lesions are disproportionately more common in elderly patients {12823715}.</p>\r\n<h5><em>Immunohistochemistry</em></h5>\r\n<p>By immunohistochemistry, EMA is expressed more often and more widely in SS than cytokeratins, especially in the monophasic and poorly differentiated subtypes {12409719}. Epithelial cells in biphasic SSs consistently express EMA and cytokeratins and may contain almost any cytokeratin subtype {11037348}. Poorly differentiated areas of SS nearly always contain focal EMA, whereas cytokeratin expression is seen in only about 50% of these tumours {11037348; 12409719}. Focal S100 expression may be detectable in as many as 40% of SSs {12409719}. &alpha;-SMA is present in less than half of tumours, whereas focal desmin staining is exceptional and h-caldesmon is always negative {12409719}. CD34 immunostaining is rare in monophasic SS {12409719}. The large majority of SSs are positive for BCL2 and CD99 (which may show membranous staining like in Ewing sarcoma {16528378}), but these markers are not specific. Moderate or strong nuclear staining for the transcriptional corepressor TLE1 is found in the large majority of biphasic, monophasic, and poorly differentiated SSs {21571956}. However, TLE1 staining is not specific for SS, because it may also occur in histological mimics of SS, in particular malignant peripheral nerve sheath tumour and solitary fibrous tumour {12409719; 21571956}.</p>",
+        "timestamp": "2020-01-24T12:24:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 406,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 239,
+    "contributions": [
+      {
+        "pkcontributionId": 59675,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 239,
+        "headingText": "\r\n<p>For FNA material, preparation of a cell block is advocated, because a conclusive diagnosis of SS heavily relies on diagnostic molecular studies (e.g. FISH) {23444168}.</p>\r\n",
+        "timestamp": "2019-12-17T14:45:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 407,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 240,
+    "contributions": [
+      {
+        "pkcontributionId": 59676,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 240,
+        "headingText": "<p>SS harbours a unique t(X;18)(p11;q11) translocation {11782370}, by which <em>SS18</em> on chromosome&nbsp;18 is fused to one of the SSX genes (<em>SSX1</em>, <em>SSX2</em>, or <em>SSX4</em>) on the X&nbsp;chromosome {11107170}. Although there is some variability, the most common fusion transcript links exon&nbsp;10 of <em>SS18</em> with exon&nbsp;6 of the partner SSX gene {17334349}. Approximately two&nbsp;thirds of SS cases carry an <em>SS18</em>-<em>SSX1</em> fusion, one&nbsp;third carry <em>SS18</em>-<em>SSX2</em>, and only rare cases carry <em>SS18</em>-<em>SSX4</em> {11107170; 17334349} or <em>SS18L1</em>-<em>SSX1</em>&nbsp;&ndash; the latter arising from a t(X:20) {12696068}. <em>SS18</em>-<em>SSX1</em> SSs show an approximately even sex ratio, whereas <em>SS18</em>-<em>SSX2</em> SSs are significantly more common in women {26947017; 11782370}. Moreover, almost all <em>SS18</em>-<em>SSX2</em> cases show monophasic histology, whereas <em>SS18</em>-<em>SSX1</em> cases show an approximate 2:1&nbsp;ratio of monophasic to biphasic histology {26947017; 10718206}. For optimal diagnostic accuracy, molecular confirmation (where available) of an <em>SS18</em>-<em>SSX1/2/4</em> fusion should ideally be performed {26970672}.</p>",
+        "timestamp": "2020-01-24T12:25:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 410,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 243,
+    "contributions": [
+      {
+        "pkcontributionId": 59677,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 243,
+        "headingText": "<p><em>Essential:</em> monomorphic blue spindle cell sarcoma showing variable epithelial differentiation; diffuse and strong nuclear immunostaining for TLE1.</p>\r\n<p><em>Desirable (in selected cases):</em> demonstration of <em>SS18</em>-<em>SSX1/2/4</em> gene fusion.</p>",
+        "timestamp": "2020-01-24T12:25:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 408,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 241,
+    "contributions": [
+      {
+        "pkcontributionId": 59678,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 241,
+        "headingText": "\r\n<p>The American Joint Committee on Cancer (AJCC) or Union for International Cancer Control (UICC) TNM system may be used.</p>\r\n",
+        "timestamp": "2019-12-17T14:45:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 409,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 242,
+    "contributions": [
+      {
+        "pkcontributionId": 59679,
+        "bookId": 33,
+        "chapterId": 121,
+        "headingId": 242,
+        "headingText": "<p>SS has a variable prognosis. Metastatic disease commonly occurs in lungs and bone, but also in regional lymph nodes. Most distant tumour recurrences develop within a few years after initial diagnosis, but late recurrences do occur, even after 10&nbsp;years {20716627}. Major prognostic determinants are tumour stage at presentation, tumour size, and French F&eacute;d&eacute;ration Nationale des Centres de Lutte Contre le Cancer (FNCLCC) tumour grade {15364967; 18997619; 20716627}. Tumours with &gt;&nbsp;20% poorly differentiated areas show more aggressive behaviour {9888710; 10078916; 10375108}. The best outcomes are seen with tumours that are &lt;&nbsp;5&nbsp;cm in diameter or that have &lt;&nbsp;6&nbsp;mitoses/mm<sup>2</sup> (10&nbsp;mitoses in 1.7&nbsp;mm<sup>2</sup>), with no necrosis {10375108; 15364967}. Minute SSs (&lt;&nbsp;1&nbsp;cm) have an excellent prognosis {16723849}. Children fare better than adults {19514087}, and extremity-based SSs have a better prognosis than SSs involving the trunk or the head and neck area {19514087; 19088035}. A prognostic nomogram based on data available preoperatively in patients with SS has been developed {19088035}. Studies of the prognostic significance of <em>SS18</em>-<em>SSX1/2/4</em> fusion type have yielded inconsistent results, either positive for modest effects or negative {26217552; 19088035}; therefore, fusion type is not regarded as being prognostically useful. United States population-based SEER Program data indicate that the 5-year and 10-year disease-specific survival rates, respectively, are 83% and 75% in children and adolescents (age &lt;&nbsp;19&nbsp;years) and 62% and 52% in adults {19514087}.</p>",
+        "timestamp": "2020-01-24T12:26:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

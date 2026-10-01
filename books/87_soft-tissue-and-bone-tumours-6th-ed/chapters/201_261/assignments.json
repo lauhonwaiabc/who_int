@@ -1,0 +1,90 @@
+[
+  {
+    "pkroleId": 196,
+    "bookId": "87",
+    "roleid": 297,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2359,
+        "lastname": "Bovée",
+        "firstname": "Judith V.M.G.",
+        "initials": "",
+        "email": "",
+        "roleid": 297,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 197,
+    "bookId": "87",
+    "roleid": 298,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2357,
+        "lastname": "Blay",
+        "firstname": "Jean-Yves",
+        "initials": "",
+        "email": "",
+        "roleid": 298,
+        "position": 0
+      },
+      {
+        "contributorid": 2365,
+        "lastname": "Nielsen",
+        "firstname": "G. Petur",
+        "initials": "",
+        "email": "",
+        "roleid": 298,
+        "position": 0
+      },
+      {
+        "contributorid": 2369,
+        "lastname": "Yoshida",
+        "firstname": "Akihiko",
+        "initials": "",
+        "email": "",
+        "roleid": 298,
+        "position": 0
+      },
+      {
+        "contributorid": 2454,
+        "lastname": "Bloem",
+        "firstname": "Johan L.",
+        "initials": "",
+        "email": "",
+        "roleid": 298,
+        "position": 0
+      },
+      {
+        "contributorid": 2464,
+        "lastname": "Baumhoer",
+        "firstname": "Daniel",
+        "initials": "",
+        "email": "",
+        "roleid": 298,
+        "position": 0
+      },
+      {
+        "contributorid": 2477,
+        "lastname": "Hameed",
+        "firstname": "Meera",
+        "initials": "",
+        "email": "",
+        "roleid": 298,
+        "position": 0
+      },
+      {
+        "contributorid": 5719,
+        "lastname": "van de Sande",
+        "firstname": "Michiel A.J.",
+        "initials": "",
+        "email": "",
+        "roleid": 298,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 62547,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 370,
+        "headingText": "\r\n<p>Follicle cyst is a physiological cyst lined by granulosa cells, measuring &gt;&nbsp;3&nbsp;cm.</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 62548,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 371,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 62549,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 372,
+        "headingText": "\r\n<p>GA18.0 Follicular cyst of ovary</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 62550,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 373,
+        "headingText": "\r\n<p><em>Acceptable:</em> follicular cyst</p>\r\n<p><em>Not recommended:</em> functional cyst</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 62551,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 62552,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 375,
+        "headingText": "\r\n<p>Ovary</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 62553,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 376,
+        "headingText": "\r\n<p>Follicle cyst is most often asymptomatic but may present with pelvic pain due to rupture or torsion. Rarely, isosexual precocity may occur {10373136}.</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 62554,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 377,
+        "headingText": "\r\n<p>Follicle cyst is most common in women of reproductive age, although it may occur at any age, including in neonates and children. It may be associated with McCune&ndash;Albright syndrome {3043551; 26850292; 15846563}.</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 62555,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 378,
+        "headingText": "\r\n<p>Follicle cyst is caused by failure in ovulation, probably due to disturbances in pituitary hormone production.</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 62556,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 379,
+        "headingText": "\r\n<p>The fluid of the incompletely developed follicle is not reabsorbed.</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 62557,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 386,
+        "headingText": "\r\n<p>Follicle cyst is usually solitary, ranging from 3&nbsp;to 8&nbsp;cm. The cyst wall is thin, with a smooth inner lining, and it contains clear or haemorrhagic fluid. Cysts associated with McCune&ndash;Albright syndrome may be multiple and bilateral.</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 62558,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 380,
+        "headingText": "\r\n<p>The lining consists of a variable number of layers of granulosa cells, which may be luteinized. An outer layer of luteinized theca cells is commonly present. The differential diagnosis includes cystic adult and juvenile granulosa cell tumours.</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 62559,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 381,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 62560,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 62561,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> a cyst, lined by granulosa cells, measuring &gt;&nbsp;3&nbsp;cm; exclusion of cystic adult and juvenile granulosa cell tumours.</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 62562,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 383,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 62563,
+        "bookId": 34,
+        "chapterId": 116,
+        "headingId": 384,
+        "headingText": "\r\n<p>Follicle cysts usually resolve spontaneously {12384202; 11098028}. Cysts associated with McCune&ndash;Albright syndrome may recur.</p>",
+        "timestamp": "2020-05-14T11:35:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

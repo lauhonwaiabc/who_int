@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 68490,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 432,
+        "headingText": "\r\n<p>Mixed germ cell tumours of the mediastinum are neoplasms composed of two or more types of germ cell tumours.</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 68491,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 433,
+        "headingText": "\r\n<p>9085/3 Mixed germ cell tumour</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 68492,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 434,
+        "headingText": "\r\n<p>2C28.0 &amp; XH2PS1 Malignant germ cell neoplasms of heart, mediastinum or non-mesothelioma of pleura &amp; Mixed germ cell tumour</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 68493,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Not recommended:</em> malignant teratoma.</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 68494,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 68495,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 437,
+        "headingText": "<p>Mixed germ cell tumours of the mediastinum occur in the anterior (prevascular) mediastinum.</p>",
+        "timestamp": "2021-01-04T12:54:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 68496,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 438,
+        "headingText": "\r\n<p>Most patients present with symptoms similar to those of other mediastinal germ cell tumours, as well as elevated serum tumour markers {11154723}. Imaging studies typically show a large, heterogeneous mass with necrosis, haemorrhage, and often infiltration of adjacent structures. The presence of cystic spaces or adipose tissue suggests the presence of a teratomatous component {12471868}. Common sites of metastasis include the lung, pleura, lymph node, liver, bone, and brain {10901872; 11921289; 31977510; 12518361}.</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 68497,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 439,
+        "headingText": "\r\n<p>In adult patients, virtually all of whom are men {10901872; 9264351}, the two most common tumour components are teratoma and embryonal carcinoma. In children, yolk sac tumour and teratoma (mature or immature) are more common {7689921; 10901872; 12518361; 15738984}.</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 68498,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 440,
+        "headingText": "\r\n<p>The etiology is similar to that of other germ cell tumours.</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 68499,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 441,
+        "headingText": "\r\n<p>Mixed germ cell tumours of the mediastinum in children (teratoma and yolk sac tumour) {15738984} lack the 12p overrepresentation characteristic of the malignant tumours in older males, but they often show chromosomal gains involving 1q, 3, and 20q and chromosomal losses involving 1p, 4q, and 6q {11921289}. Because the teratoma elements in these tumours have a normal karyotype, the anomalies are thought to be due to the yolk sac tumour component {15738984; 11921289}. In adults, frequent 12p gain is found {11921289; 2177638}. Patients with Klinefelter syndrome, who are at greatly increased risk, show extra copies of the X&nbsp;chromosome {30291793}.</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 68500,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 448,
+        "headingText": "\r\n<p>Mixed germ cell tumours are resected after chemotherapy. The tumours show a heterogeneous cut surface, with solid fleshy tumour interspersed with areas of haemorrhage and necrosis. The presence of cystic spaces usually indicates the presence of a teratomatous component.</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 68501,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 442,
+        "headingText": "\r\n<p>Various types of germ cell tumours can occur in any combination, and their morphologies are identical to those of pure germ cell tumours. Most histological diagnoses are made on small biopsy specimens.</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 68502,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 443,
+        "headingText": "\r\n<p>The cytomorphological features of the germ cell tumour components are similar to those described for pure germ cell tumours.</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 68503,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 444,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 68504,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Presence of more than one type of germ cell tumour</li>\r\n</ul>",
+        "timestamp": "2020-12-02T09:30:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 68505,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 445,
+        "headingText": "\r\n<p>There is no agreed-upon staging system.</p>\r\n",
+        "timestamp": "2020-10-05T09:26:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 68506,
+        "bookId": 35,
+        "chapterId": 269,
+        "headingId": 446,
+        "headingText": "<p>Mixed germ cell tumours have an unfavourable prognosis {9053482}. The overall 5-year survival rate is 45% {11919246}. The most favourable outcomes are in patients aged &lt;&nbsp;30&nbsp;years with localized disease to the mediastinum and normal hCG levels {11919246; 12176779; 31076171; 20933444}. Children have a better prognosis {28306215; 26766550}.</p>",
+        "timestamp": "2020-10-12T10:20:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

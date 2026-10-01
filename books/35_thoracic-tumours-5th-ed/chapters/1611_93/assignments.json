@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 85,
+    "bookId": "35",
+    "roleid": 117,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2873,
+        "lastname": "Nicholson",
+        "firstname": "Andrew Gordon",
+        "initials": "",
+        "email": "",
+        "roleid": 117,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 86,
+    "bookId": "35",
+    "roleid": 118,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2872,
+        "lastname": "Travis",
+        "firstname": "William D.",
+        "initials": "",
+        "email": "",
+        "roleid": 118,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 87,
+    "bookId": "35",
+    "roleid": 119,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3389,
+        "lastname": "Hill",
+        "firstname": "D. Ashley",
+        "initials": "",
+        "email": "",
+        "roleid": 119,
+        "position": 0
+      }
+    ]
+  }
+]

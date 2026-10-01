@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 58,
+    "bookId": "31",
+    "roleid": 9,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 1998,
+        "lastname": "Chan",
+        "firstname": "John K.C.",
+        "initials": "JKC",
+        "email": "",
+        "roleid": 9,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 60,
+    "bookId": "31",
+    "roleid": 11,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2127,
+        "lastname": "Ott",
+        "firstname": "German",
+        "initials": "G",
+        "email": "",
+        "roleid": 11,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 61,
+    "bookId": "31",
+    "roleid": 12,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2114,
+        "lastname": "Yoshino",
+        "firstname": "Tadashi",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      }
+    ]
+  }
+]

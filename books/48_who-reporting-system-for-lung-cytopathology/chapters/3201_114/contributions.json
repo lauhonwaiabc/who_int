@@ -1,0 +1,142 @@
+[
+  {
+    "pkheadingid": 649,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Introduction",
+    "headingPosition": 1,
+    "headingid": 651,
+    "contributions": [
+      {
+        "pkcontributionId": 93696,
+        "bookId": 48,
+        "chapterId": 114,
+        "headingId": 651,
+        "headingText": "\r\n<p>Immunocytochemistry (ICC) is an excellent ancillary technique for confirming and subtyping primary lung carcinoma and for differentiating it from pulmonary metastases {30572031} [[Yatabe Y, Borczuk AC, Cooper WA, et al., editors. IASLC atlas of diagnostic immunohistochemistry. Denver (CO): International Association for the Study of Lung Cancer; 2020.]]. The ability to perform highly accurate ICC in cytopathological specimens is crucial, given that as many as 40% of all lung cancer diagnoses are made by cytopathology alone. The major differences and challenges in cytopathology compared with immunohistochemistry of surgical specimens relate to the greater variability of preanalytical conditions and the lack of tissue architecture that provides context, which together may necessitate different protocols and scoring strategies.</p>\r\n",
+        "timestamp": "2022-11-23T08:37:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 650,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Technical requirements",
+    "headingPosition": 2,
+    "headingid": 652,
+    "contributions": [
+      {
+        "pkcontributionId": 93697,
+        "bookId": 48,
+        "chapterId": 114,
+        "headingId": 652,
+        "headingText": "<p>ICC plays a significant role in the workup of lung cytopathology (see <a style=\"cursor:pointer\" href=\"/attachment/48/114/23711\" target=\"_blank\">#23711</a>Box&nbsp;2.03) and can be successfully performed on various types of cytopathological preparations (see <a style=\"cursor:pointer\" href=\"/attachment/48/114/23712\" target=\"_blank\">#23712</a>Box&nbsp;2.04). Regardless of the preparation used, a uniform, well-spread sample with minimal obscuring material is a prerequisite for reliable ICC staining {23244485; 8872443}. The protocol used should be validated for each marker to confirm that the results are reproducible when compared with a known gold standard. The College of American Pathologists (CAP) guidelines mandate a concordance level of 90%. An adequate number of positive and negative controls should be used as determined by the cytopathology laboratory protocols. Suggested gold standards include data from published literature; a corresponding assay validated on formalin-fixed, paraffin-embedded biopsies; protocols from other laboratories; or results of previously validated non-ICC assays (e.g. FISH). The staining protocols used for formalin-fixed, paraffin-embedded tissue sections should be optimized for the cytopathology preparation to avoid false negative or positive results {21771093; 18318580}.</p>",
+        "timestamp": "2023-01-04T17:55:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 651,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Management of types of cytopathological specimens",
+    "headingPosition": 3,
+    "headingid": 653,
+    "contributions": [
+      {
+        "pkcontributionId": 93698,
+        "bookId": 48,
+        "chapterId": 114,
+        "headingId": 653,
+        "headingText": "<p>In addition to the cell block, other cytopathology preparations that can be used for ICC include direct smears, cytospins, and liquid-based cytopathology (LBC) (see <a style=\"cursor:pointer\" href=\"/attachment/48/114/22886\" target=\"_blank\">#22886</a>Table&nbsp;2.04). The choice of method is based on the laboratory preferences as long as the selected method undergoes the required validation {31050216; 18318580}. Although the majority of antigens have been validated on LBC, some antibodies, particularly nuclear ones, were reported to have either reduced expression or false negative results {26882197; 19551847; 22555532; 20949469; 12508174; 23447357; 25265430}. Cell blocks are the most commonly used preparation. ICC on cell blocks can be easily optimized using similar protocols and controls to those used for histopathology. Diligent validation of markers is needed, as with LBC {26882197}.</p>",
+        "timestamp": "2023-01-09T11:42:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 652,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Fixation",
+    "headingPosition": 4,
+    "headingid": 654,
+    "contributions": [
+      {
+        "pkcontributionId": 93699,
+        "bookId": 48,
+        "chapterId": 114,
+        "headingId": 654,
+        "headingText": "\r\n<p>Cell blocks fixed in formalin and embedded in paraffin are considered the optimal specimen preparation and fixation for ICC because of the ease of standardization and optimization of staining protocols with those used in histopathology. For non&ndash;cell block cytopathology, most fixatives can be used after diligent validation. The following results have been reported {8872443}:</p>\r\n<ul>\r\n<li>Both immediate fixation in alcohol and postfixation in alcohol after material has been placed in formal saline provide good antigen preservation but may produce high background staining</li>\r\n<li>Air-dried smears fixed in 0.1% formal saline and postfixed in 100% ethanol produce the best and most consistent results</li>\r\n<li>Acetone gives inconsistent results</li>\r\n<li>Saline-rehydrated air-dried smears fixed in 95% alcohol plus 5% acetic acid are unsatisfactory {11782091; 8685232; 14506675}</li>\r\n<li>Air-dried smears fixed in 4&ndash;10% formalin are well suited for nuclear antigens</li>\r\n<li>Certain antigens are leached in alcohol fixative, for example S100, ER, BAP1, and MTAP</li>\r\n</ul>\r\n",
+        "timestamp": "2022-11-23T08:37:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 653,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Controls",
+    "headingPosition": 5,
+    "headingid": 655,
+    "contributions": [
+      {
+        "pkcontributionId": 93700,
+        "bookId": 48,
+        "chapterId": 114,
+        "headingId": 655,
+        "headingText": "\r\n<p>A positive and negative control should be used for each case. The controls can be collected from smears, cytospins, or direct imprints obtained from surgical bench macroscopic specimens, whereas discarded surplus material from effusions can be used, or well-characterized in&nbsp;vitro cell lines can be utilized {21771093}. The control slides can be coverslipped and/or refrigerated or stored at &minus;20&nbsp;&deg;C or &minus;70&nbsp;&deg;C to preserve the antigens {25529354}. LBC is best stored in its original suspension {9915137}.</p>\r\n",
+        "timestamp": "2022-11-23T08:37:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 654,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Procedures",
+    "headingPosition": 6,
+    "headingid": 656,
+    "contributions": [
+      {
+        "pkcontributionId": 93701,
+        "bookId": 48,
+        "chapterId": 114,
+        "headingId": 656,
+        "headingText": "\r\n<p>Immunostaining can be performed either manually or using automated immunostainers. Manual staining is less standardized and operator-dependent. Therefore, the number of technologists involved in the manual staining should be limited to allow adequate experience and reproducibility {31050216; 21771092}.</p>\r\n<p>Both Pap-stained and Giemsa-stained slides (coverslipped) can be used within 1&ndash;2&nbsp;years without the need to destain the slide. Soaking in xylene to remove the mounting medium does not have a negative effect. Slides should always be fixed before ICC and can lose antigenicity rapidly if stored as air-dried slides without postfixation {31050216; 29451745}.</p>\r\n<p>The majority of cytoplasmic and membranous antigens do not require antigen retrieval in alcohol-fixed preparations {22434540; 12508174; 22095380}. A short period of heat-induced antigen retrieval is recommended for uncovering epitope reactivity for most nuclear and some membranous antigens in alcohol-fixed preparations and all formalin-fixed preparations, and for selected antigens in LBC {22434540; 24004858}. Protease antigen retrieval should be avoided {20482720; 22434540; 18318580}.</p>\r\n",
+        "timestamp": "2022-11-23T08:37:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 655,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Diagnostic applications",
+    "headingPosition": 7,
+    "headingid": 657,
+    "contributions": [
+      {
+        "pkcontributionId": 93702,
+        "bookId": 48,
+        "chapterId": 114,
+        "headingId": 657,
+        "headingText": "<p>Non-small cell lung carcinoma should be confirmed by ICC if the cytomorphological features are equivocal. Non-small cell carcinoma not classified by cytomorphology alone should be subtyped as favouring adenocarcinoma, favouring squamous, or NOS by using ICC. When non-small cell lung carcinoma is confirmed, the specimen should be further evaluated for predictive markers (see flow chart in <a name=\"38410\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#38410</a>Fig.&nbsp;2.XXX) {31050216; 30878997}.</p>\r\n<p>For subtyping non-small cell lung carcinoma, thyroid transcription factor&nbsp;1 (TTF1) and p40 are the gold standards. TTF1 is positive in the majority (~75&ndash;80%) of adenocarcinoma cases {22882703; 21623384}. The TTF1 clone 8G7G3/1 is the most specific for lung adenocarcinoma but is less sensitive than SPT24 {30572031}. Focal TTF1 staining can be considered positive. Napsin&nbsp;A can serve as a second marker for adenocarcinoma. As a squamous marker, p40 is preferred over p63, and &gt;&nbsp;50% of cells should stain for a positive interpretation. When evaluating tumours, a positive immunoreaction for TTF1 in pneumocytes contaminating the sample must be carefully excluded. Several tumours other than lung adenocarcinomas can also express TTF1, for example neuroendocrine tumours (NETs) and thyroid tumours {25125621; 30572031}, and napsin&nbsp;A can stain renal cell carcinomas {22156835}. CK7 is not specific for pulmonary adenocarcinomas {30572031}. In bronchial cytopathology, bronchial basal cells positive for p40 must not be mistaken for squamous cell carcinoma {30572031}. Neuroendocrine markers should only be used if NET differentiation is suspected.</p>\r\n<p>Predictive ICC markers on cytopathology material have good reproducibly for both cell block and non&ndash;cell block techniques and can be used primarily for screening cases before molecular testing for ALK, ROS1, and NTRK {31050216; 33489824}. ICC is not recommended for EGFR or RET {30572031; 33455880}.</p>\r\n<p>ICC on cytopathology specimens can be performed for PDL1 with good reproducibly but may be more challenging to interpret {31050216; 30878997}. PDL1 ICC in cytopathology is most commonly performed on cell blocks using the assays and protocols developed for histopathological specimens. There is a high concordance between cell block and matched histopathology {32007657}. Emerging evidence suggests that PDL1 ICC can also be applied to ethanol-fixed non&ndash;cell block specimens such as direct smears, cytospins, or liquid-based preparations {31050216; 29499101; 31245924}. However, this is currently not yet recommended for broad use, because of the limited number of studies and lack of standardization. As in histopathology, a minimum number of 100&nbsp;viable tumour cells is considered a requisite for PDL1 ICC. In histopathological specimens and cell blocks, PDL1 staining is defined by complete circumferential or partial linear membrane staining of tumour cells, irrespective of the intensity. In non&ndash;cell block specimens, membranous staining is less distinct, because the cell membranes are intact and not cut through by microtome sectioning {31050216}. Therefore, PDL1 staining of the horizontal cell membrane mostly appears as diffuse surface staining, mimicking cytoplasmic staining. Admixed macrophages showing membranous and cytoplasmic staining can be particularly challenging in samples with predominantly single dispersed tumour cells, because they may lead to an overestimation of PDL1 positivity. Immunostaining a corresponding section for TTF1 and/or a panleukocyte marker (e.g. CD45) will aid in identifying tumour cells for PDL1 scoring {29499101}.</p>",
+        "timestamp": "2023-01-17T09:54:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

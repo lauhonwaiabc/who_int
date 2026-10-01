@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 85,
+    "bookId": "35",
+    "roleid": 117,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2873,
+        "lastname": "Nicholson",
+        "firstname": "Andrew Gordon",
+        "initials": "",
+        "email": "",
+        "roleid": 117,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 86,
+    "bookId": "35",
+    "roleid": 118,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2878,
+        "lastname": "Kerr",
+        "firstname": "Keith M.",
+        "initials": "",
+        "email": "",
+        "roleid": 118,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 87,
+    "bookId": "35",
+    "roleid": 119,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2872,
+        "lastname": "Travis",
+        "firstname": "William D.",
+        "initials": "",
+        "email": "",
+        "roleid": 119,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 88,
+    "bookId": "35",
+    "roleid": 120,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2887,
+        "lastname": "Scagliotti",
+        "firstname": "Giorgio V.",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3330,
+        "lastname": "Al-Dayel",
+        "firstname": "Fouad Hassan",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3347,
+        "lastname": "Bubendorf",
+        "firstname": "Lukas",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3359,
+        "lastname": "Chung",
+        "firstname": "Jin-Haeng ",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3447,
+        "lastname": "Rekhtman",
+        "firstname": "Natasha",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      }
+    ]
+  }
+]

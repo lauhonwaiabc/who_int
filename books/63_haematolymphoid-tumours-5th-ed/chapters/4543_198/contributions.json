@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 120767,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Plasma cell myeloma is a bone marrow-based, multifocal neoplastic proliferation of plasma cells. Multiple myeloma is defined by the combination of plasma cell myeloma, usually associated with a serum and/or urine monoclonal immunoglobulin (Ig), and either evidence of organ damage related to the disease, or in the absence of organ damage, laboratory or imaging findings that suggest a high risk of developing end-organ damage within 2&nbsp;years.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:06:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 120768,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9732/3 Plasma cell myeloma</p>\r\n<p>9732/3 Smouldering (asymptomatic) myeloma</p>\r\n<p>9732/3 Non-secretory myeloma</p>\r\n<p>9733/3 Plasma cell leukaemia</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:06:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 120769,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A83.1 Plasma cell myeloma</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:06:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 120770,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Acceptable:</em> myeloma; multiple myeloma (plasma cell myeloma) NOS.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:06:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 120771,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>Smouldering (asymptomatic) myeloma; non-secretory myeloma; plasma cell leukaemia</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:06:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 120772,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>Generalized or multifocal bone marrow involvement is typically present at diagnosis. Lytic bone lesions and focal tumoural masses of plasma cells also occur, most commonly in sites of active haematopoiesis. Extramedullary involvement in the form of soft tissue masses, diffuse organ infiltration, or circulating plasma cells is usually a manifestation of advanced disease, with a higher prevalence among patients with relapsed plasma cell myeloma&nbsp;/ multiple myeloma (PCM/MM).</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:06:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 120773,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>The clinical behaviour of PCM/MM is highly heterogeneous. All cases of PCM/MM evolve from an asymptomatic premalignant stage termed monoclonal gammopathy of undetermined significance (MGUS) {19179464; 19234139} and are often preceded by smouldering myeloma {17582068; 34261295}. Generally, most patients with PCM/MM have evidence of multiple myeloma&ndash;related damage to one or more end-organs, such as hypercalcaemia, renal insufficiency, anaemia, and bone lesions (CRAB). The International Myeloma Working Group (IMWG) updated the definition of multiple myeloma to include multiple myeloma&ndash;defining biomarkers: bone marrow plasma cells &ge;&nbsp;60%, ratio of involved to uninvolved serum free light chain (FLC) &ge;&nbsp;100, and more than one focal bone lesion &ge;&nbsp;5&nbsp;mm in size on whole-body MRI (SLiM), all indicators of imminent development of CRAB features {25439696}.</p>\r\n<p>Lytic bone lesion is the most frequent multiple myeloma&ndash;associated end-organ damage. Bone pain and hypercalcaemia can result from multiple myeloma&ndash;induced lytic lesions, osteoporosis, and pathological fractures. Nearly half of patients present with bone pain, mainly affecting the back {34615682}. Renal impairment typically occurs due to tubular damage from multiple myeloma cast nephropathy, and anaemia from marrow replacement as well as renal damage. Other etiologies of renal dysfunction may include renal amyloidosis, light chain deposition disease, cryoglobulinaemia, or drug-induced kidney injury. In some patients, concurrent light chain amyloidosis can cause nephrotic syndrome (&lt;&nbsp;5%). Acquired Fanconi syndrome with glycosuria, phosphaturia, and aminoaciduria can also occur with multiple myeloma. Other presenting findings may include recurrent infections due to impaired lymphocyte function, suppression of normal plasma cell function, hypogammaglobulinaemia, and neurological manifestations due to spinal cord compression or peripheral neuropathy. Hyperviscosity syndrome due to high levels of M&nbsp;protein is uncommon. Soft tissue masses or organomegaly due to extramedullary plasmacytomas or amyloidosis is found in approximately 10% of patients. Physical findings are often absent or nonspecific. The presenting features can be altered by other concomitant plasma cell disorders such as Ig light chain amyloidosis or monoclonal Ig deposition disease.</p>\r\n<p>An M&nbsp;protein is found in the serum or urine in about 97% of patients: IgG in 50%; IgA in 20%; light chain (Bence Jones protein) in 20%. IgD, IgE, IgM, or a biclonal M&nbsp;protein is found in &lt;&nbsp;10%. About 3% of patients have non-secretory disease. In 90% of patients, there is a decrease in polyclonal Ig to &lt;&nbsp;50% of normal (immunoparesis). Other laboratory findings include hypercalcaemia in as many as 10% of patients, elevated creatinine in 20&ndash;30%, and hypoalbuminaemia in as many as 15%. Protein electrophoresis with immunofixation in the serum and 24-hour urine collection will allow for the detection, characterization, and quantitation of the monoclonal protein and is essential for diagnosis as well as assessment of treatment response. In as many as 20% of patients, an intact monoclonal Ig is not present, and the PCM/MM cells secrete only kappa or lambda FLC, which can be measured using a specific assay for the FLC. More recently, mass spectrometry&ndash;based assays for the detection and quantitation of monoclonal protein have been shown to be more sensitive than the conventional protein electrophoresis {31659091}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:06:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 120774,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>PCM/MM was the 14th most common cancer diagnosed in the USA in 2021, representing about 1.8% of all new cancer cases {33433946}. Globally, PCM/MM has increased in incidence since 1990 {29800065; 34034700}, with an age-standardized incidence rate of 1.92&nbsp;cases per 100&nbsp;000&nbsp;persons in 2019 {34034700}. PCM/MM is most common in high-income/high-sociodemographic-index regions, including Australasia, North America, and western Europe, although the largest increases in incidence since 1990 have been seen in low- and middle-income countries {29800065; 34034700}. In the USA in 2021, there were an estimated 34&nbsp;920&nbsp;new diagnoses of PCM/MM, and an estimated 12&nbsp;410 deaths due to PCM/MM {33433946}. Among Black Americans, PCM/MM is diagnosed twice as frequently as in White Americans [[Surveillance, Epidemiology, and End Results (SEER) Program [Internet]. Bethesda (MD): National Cancer Institute; 2020. Cancer Stat Facts: myeloma. Available from: https://seer.cancer.gov/statfacts/html/mulmy.html.]]. The risk of developing PCM/MM is approximately 2-&nbsp;to&nbsp;4-fold higher in individuals with a first-degree relative with PCM/MM. Although PCM/MM is uncommon in adults aged &lt;&nbsp;30&nbsp;years, its incidence increases progressively with age. With a median age of diagnosis of 69&nbsp;years in the USA, PCM/MM is predominantly a disease of the older population.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:06:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 120775,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>The cause of PCM/MM is unknown but is believed to represent a combined effect of genetic susceptibility and environmental exposures. First-degree relatives of patients with MGUS and PCM/MM have a higher risk of plasma cell dyscrasia {31913320}, possibly linked to non-coding genetic variants which predispose to the disease. Twenty-three such variants account for 15% of PCM/MM heritability and are predicted to influence the expression of genes involved in B-cell and plasma cell differentiation and function, regulation of the cell cycle and genomic instability, chromatin remodelling, and autophagy {30213928}. Although the reasons behind the higher incidence of MGUS and PCM/MM in people of African ancestry remain unknown, it may have a genetic basis. Conversely, persistent antigenic stimulation is thought to favour expansion of antigen-specific B-cell and plasma cell clones, providing the ground for random primary genetic events to initiate the malignant transformation of plasma cells. This is best exemplified in the case of Gaucher disease type&nbsp;I, a monogenic sphingolipid lysosomal storage disease characterized by accumulation of the sphingolipids lyso-glucosylsphingosine and beta-glucosylceramide. Presentation of these sphingolipids by CD1d activates type&nbsp;II natural killer T&nbsp;cells which provide help to sphingolipid-specific B&nbsp;cells, leading to their persistent activation and differentiation to oligoclonal plasma cells {26863356}. As a result, paraproteins are found in as many as 35% of young and middle-aged patients with Gaucher disease {19179466}, and the lifetime relative risk of patients with Gaucher disease developing PCM/MM is 5% {15718419}. Obesity in mid-life has also been reported to increase the risk of progression of MGUS to plasma cell (multiple) myeloma, but it is not associated with a higher risk of MGUS {28040690; 29296866}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:06:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 120776,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 710,
+        "headingText": "<p>The pathogenesis of PCM/MM is characterized by increasing numbers of plasma cells in bone marrow {25439696}, which progressively displace normal cells {21252988}. Bone marrow stromal cells and non-haematopoietic multipotent cells contribute to the development and progression of PCM/MM by regulating cell migration, homing {34268498}, and angiogenesis {16357836; 21933109}. Accordingly, the development of PCM/MM is also characterized by progressively higher numbers of circulating plasma cells in the peripheral blood {30455467}, which likely contribute to intramedullary and extramedullary disease dissemination {31595039} and greater clonal heterogeneity {28814763}. There is growing evidence that immune evasion {33409501; 33465053} and a progressively permissive tumour microenvironment {34017122} are involved in the pathogenesis of PCM/MM.</p>\r\n\r\n<h5>Genetic factors</h5>\r\n\r\n<p>There are two main initiating genetic events that occur early in the course of the disease: multiple trisomies of the odd-numbered chromosomes (i.e. hyperdiploid) and recurrent chromosomal translocations involving the IGH locus at 14q32.33 that result in overexpression of key oncogenes, including <em>CCND1</em>, <em>CCND2</em>, <em>CCND3</em>, <em>NSD2</em> (<em>MMSET</em>, <em>WHSC1</em>), <em>MAF</em>, <em>MAFA</em>, and <em>MAFB</em> {15755896; 29686421}. These are considered primary genetic events, present in nearly all tumour cells, and are detected at the MGUS stage {21325290; 22565645}. IGH translocations and hyperdiploidy appear to be early events in the pathogenesis of PCM/MM, unified by an associated upregulation of one of the cyclin&nbsp;D genes (<em>CCND1</em>, <em>CCND2</em>, or <em>CCND3</em>) {15755896; 23023717}. Clonal heterogeneity occurs early and is present in MGUS and smouldering myeloma {23817176}. Progression from precursor states to PCM/MM involves branching evolutionary patterns, novel mutations, biallelic hits in tumour suppressor genes, and segmental copy-number changes {30135448; 32442065; 33436579}. Although the first gain at 1q21 is often an early event, jumping translocations and additional amplifications of 1q21 emerge later in the course of PCM/MM {30914633; 31444325}. Recurrent mutations in driver genes impacting cellular signalling pathways, such as the RAS/MAPK and NF-&kappa;B pathways, are characteristic of PCM/MM {27531699}. They include alterations of the MAPK pathway (<em>KRAS</em>, <em>NRAS</em>, <em>FGFR3</em>, and <em>BRAF</em> SNVs), a variety of mutations (SNVs, homozygous deletions, translocations) that activate the NF-&kappa;B pathway (<em>TRAF3</em>, <em>TRAF2</em>,&nbsp;<em>BIRC2</em>, <em>BIRC3</em>, <em>CYLD</em>, <em>MAP3K14</em>), the DNA repair pathway (deletion&nbsp;17p, <em>TP53</em>, and <em>ATM</em> SNVs), and <em>MYC</em>&nbsp;(translocations or copy-number variations), which are most likely secondary or late events as they are infrequently observed in MGUS {28550183} and smouldering myeloma {30135448; 32442065; 33436579}. Complex structural variant events (e.g. chromothripsis), and specific mutation signatures implicating enhanced activities of activation-induced cytidine deaminase (AID) and APOBEC deaminases {34625538}, indicate higher genomic instability in PCM/MM {29884741}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T13:00:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 120777,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>The bone defects on gross examination are filled with a soft, gelatinous, fish-flesh and/or haemorrhagic tissue.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:06:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 120778,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 711,
+        "headingText": "<p>The morphology varies from mature-appearing plasma cells to immature, plasmablastic and pleomorphic variants (including multinucleated and multilobated forms). Mature plasma cells are oval-shaped, with an eccentric nucleus and spoke-wheel or clock-face chromatin and without a nucleolus. There is abundant basophilic cytoplasm, with a perinuclear hof. Immature forms have more-dispersed nuclear chromatin, a higher N:C&nbsp;ratio, and a prominent nucleolus {9516151; 3825999}. As nuclear immaturity and pleomorphism rarely occur in reactive plasma cells, these are reliable indicators of malignancy. The cytoplasm of PCM/MM cells has abundant endoplasmic reticulum, which may contain condensed or crystallized cytoplasmic Ig producing a variety of morphologically distinctive findings, including multiple pale bluish-white, grape-like accumulations (Mott cells, morula cells), cherry-red refractile round bodies (refractile bodies), vermilion-staining glycogen-rich IgA (flame cells), overstuffed fibrils (Gaucher-like cells, thesaurocytes), and crystalline rods. However, these changes are not pathognomonic of PCM/MM.</p>\r\n<p>The number of plasma cells varies from barely increased to &gt;&nbsp;90%. Rare PCM/MM cases may show &lt;&nbsp;10% plasma cells in the aspirate smears, likely caused by a suboptimal bone marrow aspirate or focal distribution of PCM/MM in the marrow. In such instances, trephine biopsy sections may show more plasma cells with or without focal clusters&nbsp;/ nodular aggregates or sheets of plasma cells. It is advisable to stain and examine all aspirate smears as well as touch imprints for a more reliable evaluation of plasma cell numbers. Rarely, they may be seen as bare nuclei (degenerating cells).</p>\r\n<p>Normal plasma cells are found in trephine biopsy as small clusters around arterioles. PCM/MM plasma cells may occur as interstitial clusters, focal nodules, broad bands&nbsp;/ diffuse sheets, and even packed marrow {3825999}. A nodule&nbsp;/ tumoural mass of plasma cells within the trephine strongly favours a diagnosis of PCM/MM. It may vary from classic plasma cell morphology to lymphoid, immunoblastic, spindle/oval, or signet-ring cell. Normal haematopoiesis is generally preserved; however, in diffuse involvement it may be suppressed. Scattered osteoclasts may be seen. Fibrosis may be seen in a few cases {4036981}. A trephine biopsy is useful in assessing suspected light chain&ndash;associated amyloidosis and may show vascular or interstitial amyloid deposition.</p>\r\n\r\n<h5>Peripheral blood</h5>\r\n\r\n<p>Rouleaux formation is the most striking feature on peripheral blood smears and is related to the quantity and type of M&nbsp;protein. A leukoerythroblastic picture may be seen in some cases. Circulating plasma cells can be found in a significant proportion of patients by sensitive flow cytometry approaches, usually in small numbers. Marked plasmacytosis accompanies plasma cell leukaemia (consensus threshold: &gt;&nbsp;5% {25439696}).</p>\r\n\r\n<h5>Kidney</h5>\r\n\r\n<p>Bence Jones protein accumulates as aggregates of eosinophilic material in the lumina of the renal tubules. Renal tubular reabsorption of Bence Jones proteins is largely responsible for renal damage in multiple myeloma.</p>\r\n\r\n<h5>Immunohistochemistry</h5>\r\n\r\n<p>Immunohistochemistry is useful in highlighting and quantifying plasma cells (using CD138 and IRF4 [MUM1]), confirming monoclonal proliferation (by light chain restriction using kappa and lambda light chains), and distinguishing PCM/MM from other neoplasms. Sometimes, immunohistochemical staining may result in high background staining due to the presence of normal physiological interstitial immunoglobulins, resulting in interpretational challenges. It can be avoided using colorimetric in&nbsp;situ hybridization for kappa and lambda mRNA-based staining methods {25047073}.</p>\r\n\r\n<h5>Flow cytometric immunophenotyping</h5>\r\n\r\n<p>Plasma cells express CD138, strong CD38, and strong SLAM-family proteins such as CD229 and CD319 {26130131; 26287276; 29316178; 31566910}. PCM/MM cells are characterized by negative expression of CD19 (&gt;&nbsp;95% of cases), weak or negative expression of CD45 (70&ndash;75% of cases), and moderate to strong expression of CD56 (60&ndash;80% of cases), with cytoplasmic kappa or lambda light chain restriction. Some cases also show loss of CD27 and/or CD81 expression. Abnormal expression of CD20, CD28, CD33, and KIT (CD117) can also be noted in approximately one&nbsp;third of cases; rarely, CD10 expression can be seen {16956823; 20155853; 24462038; 26100534; 28824230; 29351272}. Plasma cells with aberrant antigen expression showing light chain restriction should be considered neoplastic. The level of clonal plasma cells is prognostic in smouldering and active PCM/MM (e.g. MGUS-like profile), and specific immunophenotypes (e.g. CD19 and CD81 coexpression) are associated with a longer time to progression and favourable survival {19755674; 23743858; 30886139; 32299093}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-12T12:07:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 120779,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>The typical morphology of PCM/MM cells described above is seen in aspirates from pleural effusion and cerebrospinal fluid when involved by extramedullary disease.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:06:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 120780,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 713,
+        "headingText": "\r\n<h5>Cytogenetic abnormalities in PCM/MM</h5>\r\n\r\n<p>Cytogenetic abnormalities can be detected by conventional chromosome studies in about one&nbsp;third of PCM/MM cases {14989251; 21356186; 32442300}, whereas interphase FISH has greater sensitivity and abnormalities can be detected in &gt;&nbsp;90% of PCM/MM cases {14989251; 19798094; 32442300}. CD138-positive selection should be used to optimize the yield of FISH studies {30393007}. Cytogenetic abnormalities are both numerical and structural and include trisomies, whole or partial chromosomal deletions and gains, and chromosomal translocations {29686421}. About half of PCM/MM tumours are hyperdiploid, with 48&ndash;75&nbsp;chromosomes, and have gains of three or more of the odd-numbered chromosomes&nbsp;3, 5, 7, 9, 11, 15, 19, and&nbsp;21 {27002115; 27291302; 29686421}. The other half of PCM/MM tumours mostly have &lt;&nbsp;48&nbsp;or &gt;&nbsp;75&nbsp;chromosomes and usually have an IGH translocation at chromosome 14q32 {12805059; 27002115; 27291302; 29686421}. Seven oncogenes are involved in recurrent IG gene translocations: <em>CCND1</em> on 11q13 (involved in 16% of cases); <em>NSD2</em>, often with <em>FGFR3</em>, on 4p16 (in 15%); <em>MAF</em> on 16q23 (in 5%); <em>CCND3</em> on 6p21 (in 3%); <em>MAFB</em> on 20q11 (in 3%); <em>MAFA</em> on 8q24 (in &lt;&nbsp;1%); and <em>CCND2</em> on 12p13 (in &lt;&nbsp;1%) (see <a style=\"cursor:pointer\" href=\"/attachment/63/198/39602\" target=\"_blank\">#39602</a>Table&nbsp;4.64) {27002115; 27291302; 29686421}. Just over 90% of these translocations involve IGH on 14q32; the remaining ones involve primarily the Ig light chain loci, more commonly lambda at 22q11.2 and rarely kappa at 2p11.2, or other loci such as <em>TENT5C</em> (<em>FAM46C</em>) or <em>CXCR4</em>. Hyperdiploid PCM/MM tumours infrequently have one of the seven recurrent IGH translocations listed above {27002115; 27291302; 29686421}.</p>\r\n<p>Common secondary cytogenetic abnormalities in PCM/MM include deletion of chromosome&nbsp;13q (or monosomy&nbsp;13), found in about 50% of cases {11227093; 11417487; 28862698}; deletion of chromosome&nbsp;17p including <em>TP53</em> (or monosomy&nbsp;17), found in about 10% {28550191; 29967379}; deletion of&nbsp;1p, found in about 20% {23892719}; and duplication or amplification of&nbsp;1q, found in about 40% {16705089; 17024118; 31767829; 32750129; 33927196}. In addition, <em>MYC</em> locus translocations are also present in about 40% of PCM/MM cases. These reposition <em>MYC</em> near a promiscuous array of plasma cell&ndash;specific super-enhancers (including IGH, IGK, IGL, and non-Ig enhancers) {31015454; 34233962; 33392515}. <em>MYC</em> translocations can contribute to the progression from MGUS to plasma cell (multiple) myeloma {21468039; 31439946}.</p>\r\n<p>The consensus recommendations on testing by FISH on bone marrow are listed in <a style=\"cursor:pointer\" href=\"/attachment/63/198/33566\" target=\"_blank\">#33566</a>Table&nbsp;4.65 {33285522}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T14:56:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 120781,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 716,
+        "headingText": "\r\n<h5>Plasma cell myeloma</h5>\r\n\r\n<p><em>Essential:</em> demonstration of clonal plasma cells in the bone marrow using flow cytometry or immunohistochemistry (&ge;&nbsp;10%).</p>\r\n\r\n<h5>Multiple myeloma</h5>\r\n\r\n<p><em>Essential:</em> diagnosis requires a combination of laboratory and clinical features (see <a style=\"cursor:pointer\" href=\"/attachment/63/198/33567\" target=\"_blank\">#33567</a>Box&nbsp;4.07); demonstration of plasma cell myeloma or biopsy-proven bony or extramedullary plasmacytoma; demonstration of one or more myeloma-defining criteria (SLiM-CRAB): MRI showing more than one focal lesion, and/or serum FLC ratio &gt;&nbsp;100, and/or bone marrow plasma cell percentage &gt;&nbsp;60%, and/or anaemia, and/or hypercalcaemia, and/or lytic lesions, and/or osteoporosis with compression fracture demonstrated by low dose CT or skeletal X-ray, and/or renal impairment.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T14:56:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 120782,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 714,
+        "headingText": "<p>The Revised International Staging System (R-ISS) for multiple myeloma, based on pretreatment serum B2M, albumin, and LDH levels, as well as on interphase FISH&ndash;based chromosomal abnormalities, provides a strong predictor of survival (see <a style=\"cursor:pointer\" href=\"/attachment/63/198/33568\" target=\"_blank\">#33568</a>Table&nbsp;4.66). For R-ISS stage&nbsp;I, II, and&nbsp;III disease, overall survival rates of 82%, 62%, and 40%, respectively, and 5-year progression-free survival rates of 55%, 36%, and 24%, respectively, are reported {26240224}. The R-ISS combines elements of tumour burden and disease biology (presence of high-risk cytogenetic abnormalities or elevated LDH level) to create a unified prognostic index that helps in clinical care as well as in comparisons of clinical trial data.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T14:56:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 120783,
+        "bookId": 63,
+        "chapterId": 198,
+        "headingId": 715,
+        "headingText": "<p>Multiple myeloma is considered incurable for most patients, with an average 5-year survival rate of 55.6%, but new therapies have significantly extended progression-free and overall survival. Patients aged &gt;&nbsp;70&nbsp;years and those with comorbidities have a less favourable prognosis. The prognosis of multiple myeloma is determined by a combination of clinical, biochemical, and molecular features, assessed at diagnosis and after treatment.</p>\r\n<p>Prognosis at diagnosis has been established through the International Staging System (ISS) {15809451} and further refined by the addition of high-risk genomic abnormalities into the R-ISS {26240224} and the IMWG risk-stratification methods {23974982}. The genomic abnormalities considered by the IMWG as high-risk are t(4;14)(p16;q32), t(14;16)(q32;q23), del(17p13), and gain/amplification of&nbsp;1q21 (see <a style=\"cursor:pointer\" href=\"/attachment/63/198/33566\" target=\"_blank\">#33566</a>Table&nbsp;4.65, and <a style=\"cursor:pointer\" href=\"/attachment/63/198/33568\" target=\"_blank\">#33568</a>Table&nbsp;4.66); therefore, at the minimum, these abnormalities should be analysed to identify high-risk cases. For del(17p), the proportion of CD138+ cells with the deletion has an impact on outcome: cases with &ge;&nbsp;55&ndash;60% of cells with del(17p) are associated with a worse outcome {28550191; 30692124}. Del(1p32) is an emerging poor-prognostic marker that identifies a subgroup of patients with a dismal outcome {20616218; 29967379}. Patients with t(4;14)(p16;q32) were historically a high-risk group, but the introduction of proteasome inhibitors has improved outcomes for this group {22802322; 23897961; 35984902}. Similarly, the use of BCL2 inhibitors has increased overall response rates in patients with t(11;14)(q13;q32) from 6% with standard therapy to 40% using BCL2 inhibitors {29018077}.</p>\r\n<p>There are ongoing efforts to transition interphase FISH into next-generation sequencing that could additionally assess patients&rsquo; mutation status, although its impact on prognosis requires further cross-validation. One exception is the genetic status of <em>TP53</em>, where biallelic alterations drive the poor outcome of these patients {29967379; 30692124}. Gene expression profiles are prognostic in newly diagnosed multiple myeloma, but they are not routinely assessed {17478923; 22722715}. Similarly, the presence of extramedullary disease identified with PET-CT {21900189; 23305732} and circulating plasma cells {30455467; 31867775} is prognostic, but it is not incorporated in current risk models.</p>\r\n<p>Minimal/measurable residual disease assessment, using next-generation flow cytometry or next-generation sequencing of Ig rearrangements as well as PET-CT {33151787}, is used to assess response after treatment {30249784; 31770060; 34289038}. Undetectable measurable residual disease is associated with improved progression-free and overall survival {27632282; 28498784}. The combination of diagnostic and measurable residual disease biomarkers improves risk-stratification {31770060; 32693406}.</p>",
+        "timestamp": "2024-03-21T14:57:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

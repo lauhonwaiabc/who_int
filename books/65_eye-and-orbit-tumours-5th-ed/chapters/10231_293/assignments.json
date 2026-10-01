@@ -1,0 +1,97 @@
+[
+  {
+    "pkroleId": 176,
+    "bookId": "65",
+    "roleid": 205,
+    "roleTitle": "Resp editor",
+    "contributors": [
+      {
+        "contributorid": 5046,
+        "lastname": "Rodríguez-Reyes ",
+        "firstname": "Abelardo",
+        "initials": "",
+        "email": "",
+        "roleid": 205,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 177,
+    "bookId": "65",
+    "roleid": 206,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 178,
+    "bookId": "65",
+    "roleid": 207,
+    "roleTitle": "Resp author",
+    "contributors": [
+      {
+        "contributorid": 5213,
+        "lastname": "Rodríguez-Martínez",
+        "firstname": "Héctor A",
+        "initials": "",
+        "email": "",
+        "roleid": 207,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 179,
+    "bookId": "65",
+    "roleid": 208,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2418,
+        "lastname": "Cates",
+        "firstname": "Justin M.M.",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 3268,
+        "lastname": "Salomao",
+        "firstname": "Diva Regina",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 3271,
+        "lastname": "Roberts",
+        "firstname": "Fiona",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 5215,
+        "lastname": "Bertin",
+        "firstname": "Helios",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      }
+    ]
+  }
+]

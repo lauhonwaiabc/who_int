@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 115527,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 576,
+        "headingText": "\r\n<p>Haemangioma is a benign vascular neoplasm.</p>\r\n",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 115528,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 577,
+        "headingText": "\r\n<p>9120/0 Haemangioma, NOS</p>\r\n<p>9131/0 Capillary haemangioma</p>\r\n<p>9121/0 Cavernous haemangioma</p>\r\n<p>9131/0 Lobular capillary haemangioma</p>\r\n",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 115529,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 578,
+        "headingText": "\r\n<p>2E81.0Y &amp; XH5AW4 Other specified neoplastic haemangioma &amp; Haemangioma, NOS</p>\r\n",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 115530,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Acceptable:</em> lobular capillary haemangioma; capillary haemangioma; cavernous haemangioma.</p>\r\n<p><em>Not recommended:</em> pyogenic granuloma; pregnancy epulis; histiocytoid haemangioma, epithelioid haemangioma.</p>\r\n",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 115531,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 580,
+        "headingText": "\r\n<p>Capillary haemangioma; cavernous haemangioma; lobular capillary haemangioma</p>\r\n",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 115532,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 581,
+        "headingText": "<p>The oral cavity (gingiva and lips) and sinonasal tract (anterior septum) mucosae are the most commonly affected head and neck sites {1595597; 1642875; 6307911; 7435775; 11685962; 16955784; 17478135; 19203815; 20417014; 23184353; 30673134}, with rare reports in other organ sites {29106877; 11115277; 25439553; 22503446; 21766313}.</p>",
+        "timestamp": "2023-11-24T11:24:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 115533,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 582,
+        "headingText": "<p>Oral lesions present as a solitary, red haemorrhagic papule, whereas unilateral epistaxis and/or an obstructive painless mass is seen in the sinonasal tract {7435775; 10827405; 16539297; 16859060; 17478135; 19203815; 20417014; 23184353; 25207171; 28153757; 28389160; 29019747; 29977856}. A compressible mass is noted in major salivary gland tumours {25439553; 22503446; 21766313; 11115277}.</p>\r\n<h5>Imaging</h5>\r\n<p >Imaging studies show an intensely enhancing tumour surrounded by a hypoattenuating peripheral rim, often with bone remodelling in sinonasal locations {1642875; 20007721; 23703148}.</p>",
+        "timestamp": "2023-11-17T13:42:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 115534,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 583,
+        "headingText": "<p>Mucosal haemangiomas account for about 10% of head and neck haemangiomas and about 25% of non-epithelial sinonasal tract neoplasms {4362952; 7435775; 16955784; 23184353}. Haemangiomas occur in patients of all ages, with a median of 40&nbsp;years. Incidence peaks in boys and adolescent males, and in pregnant women. Haemangiomas of the head and neck account for about 7% of all benign tumours in children. The sex distribution is equal in patients aged &gt;&nbsp;40&nbsp;years {9425482; 4362952; 6307911; 1642875; 7435775; 23184353}. Salivary gland haemangiomas develop almost exclusively in neonates and children, with girls affected more frequently than boys (M:F&nbsp;ratio: ~1:2) {8419878; 11115277; 29106877; 25439553; 22503446; 21766313}.</p>",
+        "timestamp": "2023-12-06T10:53:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 115535,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 584,
+        "headingText": "\r\n<p>Lobular capillary haemangioma is associated with mucosal injury, hormonal factors (pregnancy and oral contraceptive use) {21745433; 22713445; 16955784; 30628110}, and selective BRAF inhibitors {25251629; 27116335}.</p>\r\n",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 115536,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 585,
+        "headingText": "\r\n<p>The pathogenesis is unknown for head and neck tumours. Nevertheless, the hypothesis that infantile (congenital) haemangiomas are proposed to originate from ectopic placenta cells has recently been supported by their abundant expression of the C19MC cluster of microRNA genes {22374805; 27660822}.</p>\r\n",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 115537,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 592,
+        "headingText": "\r\n<p>The mean size is &lt;&nbsp;15&nbsp;mm, but examples as large as 80&nbsp;mm have been reported {16955784; 23184353}. Gross appearances range from a diffuse flat mass to a bulging, polypoid nodule. The lesions are soft, often with secondary surface changes {9425482; 4362952; 6307911; 1642875; 7435775}.</p>\r\n",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 115538,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 586,
+        "headingText": "<p>Haemangiomas of the sinonasal tract are primarily divided into capillary and cavernous types. Other subtypes&nbsp;are reported rarely {1642875; 7435775; 16955784; 1497117; 23184353}.</p>\r\n<p>Lobular capillary haemangioma is a circumscribed proliferation of capillaries with plump endothelial cells surrounded by pericytes in a fibromyxoid stroma, arranged in one or more lobules which may show high cellularity. Each lobule has a large central vein surrounded by small capillaries, with an overlying collarette of epithelium (often ulcerated or atrophic). Mitoses are often identified and lack atypia.</p>\r\n<p>Cavernous haemangiomas are composed of multiple large, cystic, thin-walled, blood-filled spaces lined by endothelial cells and separated by scant connective tissue stroma, and they may be considered vascular malformations.</p>\r\n<p>The neoplastic cells show CD34, CD31, ERG, FLI1, and von Willebrand factor (factor&nbsp;VIII&ndash;related antigen) immunopositivity, with variable expression of ER and PR {16955784; 1497117; 23184353}. KSHV/HHV8 is negative.</p>\r\n<p>Tumours should be distinguished from granulation tissue, reactive or malformative vascular polyps, papillary endothelial hyperplasia, glomus tumour, angiofibroma, glomangiopericytoma, lymphoma, and angiosarcoma.</p>",
+        "timestamp": "2023-11-17T13:42:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 115539,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 587,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 115540,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 588,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 115541,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 591,
+        "headingText": "\r\n<h5>Lobular capillary haemangioma</h5>\r\n<p><em>Essential:</em> a polypoid, lobular, circumscribed anastomosing network of capillaries with plump endothelial cells and often a proliferation of pericytes in a fibromyxoid stroma arranged in one or more lobules.</p>\r\n<p><em>Desirable:</em> vascular immunohistochemistry markers (in selected cases).</p>\r\n",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 115542,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 115543,
+        "bookId": 52,
+        "chapterId": 205,
+        "headingId": 590,
+        "headingText": "\r\n<p>Multiple recurrences (up to 45%) are more common in children and may develop if the lesional bed is not completely eradicated {17478135; 23184353}. Spontaneous regression is documented in paediatric and postpartum patients {22852124; 23075363; 23184353; 25181659; 27144115; 27271813; 29019747; 29215342; 30319828; 30673134}.</p>",
+        "timestamp": "2023-09-29T15:44:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

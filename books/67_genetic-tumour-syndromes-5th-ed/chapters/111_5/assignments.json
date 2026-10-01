@@ -1,0 +1,115 @@
+[
+  {
+    "pkroleId": 202,
+    "bookId": "67",
+    "roleid": 209,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4243,
+        "lastname": "Leite",
+        "firstname": "Katia R.M.",
+        "initials": "KRM",
+        "email": "",
+        "roleid": 209,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 203,
+    "bookId": "67",
+    "roleid": 210,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2013,
+        "lastname": "Tan",
+        "firstname": "Puay Hoon",
+        "initials": "",
+        "email": "",
+        "roleid": 210,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 204,
+    "bookId": "67",
+    "roleid": 211,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2006,
+        "lastname": "Moch",
+        "firstname": "Holger",
+        "initials": "H",
+        "email": "",
+        "roleid": 211,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 205,
+    "bookId": "67",
+    "roleid": 212,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2360,
+        "lastname": "Cunha",
+        "firstname": "Isabela Werneck",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 4225,
+        "lastname": "He",
+        "firstname": "Huiying",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 4248,
+        "lastname": "Margulis",
+        "firstname": "Vitaly",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 4280,
+        "lastname": "Trpkov",
+        "firstname": "Kiril",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5330,
+        "lastname": "Linehan",
+        "firstname": "W. Marston",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5331,
+        "lastname": "Schmidt",
+        "firstname": "Laura S.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      }
+    ]
+  }
+]

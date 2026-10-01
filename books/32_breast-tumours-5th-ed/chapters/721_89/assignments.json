@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 65,
+    "bookId": "32",
+    "roleid": 15,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 1998,
+        "lastname": "Chan",
+        "firstname": "John K.C.",
+        "initials": "JKC",
+        "email": "",
+        "roleid": 15,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 67,
+    "bookId": "32",
+    "roleid": 17,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2188,
+        "lastname": "Ferry",
+        "firstname": "Judith A.",
+        "initials": "JA",
+        "email": "",
+        "roleid": 17,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 68,
+    "bookId": "32",
+    "roleid": 18,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2317,
+        "lastname": "Cheng",
+        "firstname": "Chee Leong",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      }
+    ]
+  }
+]

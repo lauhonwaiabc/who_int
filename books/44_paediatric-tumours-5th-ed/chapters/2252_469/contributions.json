@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 103697,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 466,
+        "headingText": "<p>Acute myeloid leukaemias (AMLs) defined by differentiation are acute leukaemias with evidence of myeloid differentiation, with or without evidence of specific maturation, that lack defining genetic abnormalities.</p>",
+        "timestamp": "2023-05-09T14:28:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 103698,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 467,
+        "headingText": "<p>9861/3 Acute myeloid leukaemia (AML), NOS</p>\r\n<p>9872/3 AML with minimal differentiation</p>\r\n<p>9873/3 AML without maturation</p>\r\n<p>9874/3 AML with maturation</p>\r\n<p>9867/3 Acute myelomonocytic leukaemia</p>\r\n<p>9891/3 Acute monoblastic and monocytic leukaemia</p>\r\n<p>9840/3 Acute erythroid leukaemia</p>\r\n<p>9910/3 Acute megakaryoblastic leukaemia</p>",
+        "timestamp": "2023-05-09T14:28:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 103699,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A60.3Z Acute myeloid leukaemia, unspecified</p>\r\n",
+        "timestamp": "2022-07-08T15:03:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 103700,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 469,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-07-08T15:03:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 103701,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 470,
+        "headingText": "<p>AML with minimal differentiation; AML without maturation; AML with maturation; acute myelomonocytic leukaemia; acute monoblastic and monocytic leukaemia; acute erythroid leukaemia; acute megakaryoblastic leukaemia</p>",
+        "timestamp": "2023-05-09T14:29:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 103702,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 471,
+        "headingText": "\r\n<p>The bone marrow and blood are the primary sites of involvement. Extramedullary myeloid tumours, such as those observed in the skin, CNS, lymph nodes, and gastrointestinal tract, have also been reported at diagnosis and relapse {29338495}.</p>\r\n",
+        "timestamp": "2022-07-08T15:03:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 103703,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 472,
+        "headingText": "\r\n<p>Signs and symptoms of AML include fever, bone pain, fatigue, petechial rash, bruising, and bleeding {20113895; 29338495}. Presentation with hyperleukocytosis may occur and is associated with the risk of stroke or pulmonary haemorrhage.</p>\r\n",
+        "timestamp": "2022-07-08T15:03:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 103704,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 473,
+        "headingText": "\r\n<p>Globally there are about 17&nbsp;000&nbsp;new cases of paediatric AML annually, with a slightly higher incidence in south-eastern Asia, South America, and Central America {30824204}. In Europe and North America the incidence of AML in patients aged &lt;&nbsp;20&nbsp;years is 9&nbsp;cases per 1&nbsp;million person-years. The incidence is highest in infants (16&nbsp;cases per 1&nbsp;million person-years) and lowest in children aged 5&ndash;9&nbsp;years (4&nbsp;cases per 1&nbsp;million person-years), then it rises again through adolescence and the teenage years {30824204}. AML accounts for nearly 45% of cases of paediatric AML using previous WHO criteria, with the most common types being AML without maturation, AML with maturation, acute myelomonocytic leukaemia, and acute monoblastic and monocytic leukaemia {25819835}. The reported frequency of paediatric acute megakaryoblastic leukaemia (AMKL) varies between studies, approaching 15% of AML cases in one study {11389009}.</p>\r\n",
+        "timestamp": "2022-07-08T15:03:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 103705,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 474,
+        "headingText": "<p>AML is defined by a wide variety of somatic structural variants (resulting most notably in fusion oncoproteins) and mutations in the RAS/MAPK pathway, <em>FLT3</em>, and <em>WT1</em> {23634996; 30926971}. In addition to the fusions described within the category of AML with defining genetic abnormalities, other rearrangements include <em>PICALM</em>::<em>MLLT10</em>,&nbsp;fusions involving ETS family members, and alterations that lead to aberrant expression of <em>MECOM</em> {31648321; 29227476}. Unlike in adults, in children there is a relative scarcity of mutations in <em>DNMT3A</em>, splicing factors, and <em>TET2</em> {23634996}. In addition to the genetic factors associated with an increased risk of paediatric myeloid disorders described elsewhere, other rare predispositions include genes implicated in Fanconi anaemia {25455269} and telomere biology {31470354}.</p>",
+        "timestamp": "2022-08-26T10:32:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 103706,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 475,
+        "headingText": "\r\n<p>Paediatric AML results from a wide variety of genetic alterations that block myeloid differentiation and/or induce cell proliferation. Many of these mutations alter epigenetic states and are not specific to morphological subtype.</p>\r\n",
+        "timestamp": "2022-07-08T15:03:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 103707,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 482,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-08T15:03:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 103708,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 476,
+        "headingText": "<p>By definition, blasts or blast equivalents account for &ge;&nbsp;20% of the nucleated cells in the bone marrow and/or peripheral blood (see <a style=\"cursor:pointer\" href=\"/attachment/44/469/17906\" target=\"_blank\">#17906</a>Table&nbsp;2.03). There is wide variation in the morphological features due to the diversity of morphological subtypes in AML. Invariably the bone marrow is hypercellular with abundant blasts. Dysplasia can be present. The other major differential diagnoses include other acute leukaemias or AML subtypes with recurrent genetic alterations. Leukaemias developing in patients with previous exposure to radiation therapy or cytotoxic chemotherapy should be classified as therapy-related myeloid neoplasms. Patterns of protein expression, as measured by immunohistochemistry or flow cytometry, can be used to establish the diagnosis of AML and to subclassify it into different morphological subtypes. Importantly, the megakaryocytic markers CD41, CD42b, and CD61 are also expressed by platelets; nonspecific staining during flow cytometric evaluation is a notable consideration {1349244} and intracellular staining may improve the detection of these markers {10550559}. Considering the fibrosis that occurs in patients with AMKL, a bone marrow core biopsy with immunohistochemistry is often more representative than an aspirate smear. Immunohistochemistry for CD42b has been shown to have high sensitivity for AMKL {30052718}. In addition, tumour masses of myeloid blasts that efface the normal tissue architecture can also occur in extramedullary sites (e.g. skin, testes, lymph nodes, and gastrointestinal tract). These myeloid sarcomas require extensive workup by immunohistochemistry to distinguish them from soft tissue sarcomas, other acute leukaemia subtypes, and mature B-cell lymphomas {21883967; 31682773}.</p>",
+        "timestamp": "2022-08-26T15:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 103709,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 477,
+        "headingText": "\r\n<p>Blasts have variable chromatin patterns, nucleoli, and cytoplasm qualities, depending on the morphological subtype. Auer rods may or may not be present.</p>\r\n",
+        "timestamp": "2022-07-08T15:03:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 103710,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 478,
+        "headingText": "\r\n<p>Morphological assessment of bone marrow aspirate and biopsy provides the definitive diagnosis and is complemented by genetic testing and protein expression, ideally by flow cytometry. When available, peripheral blood immunophenotyping can reliably detect leukaemic cells {28333411}.</p>\r\n",
+        "timestamp": "2022-07-08T15:03:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 103711,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 481,
+        "headingText": "<p><em>Essential: </em>identification of &ge;&nbsp;20% blasts (or blast equivalents) in the bone marrow or blood, or the presence of a myeloid sarcoma; evidence of myeloid derivation and an absence of definitive T-cell differentiation (cytoplasmic CD3) or B-cell differentiation (CD19, bright) by immunophenotyping, immunohistochemistry, and/or enzyme cytochemistry; absence of features that allow for classification into other categories, namely AML with defining genetic abnormalities, acute leukaemia of ambiguous lineage, myeloid neoplasms associated with germline predisposition, or therapy-related myeloid neoplasms.</p>",
+        "timestamp": "2022-08-26T15:32:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 103712,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-08T15:03:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 103713,
+        "bookId": 44,
+        "chapterId": 469,
+        "headingId": 480,
+        "headingText": "\r\n<p>Current approaches to therapy include intensive multiagent chemotherapy given over four to five courses {29338495; 22566607}. The determination of relapse risk is based on prognostic genetic mutations and response to the first two courses of multiagent chemotherapy; this is commonly assessed using minimal residual disease testing, most often via multidimensional flow cytometry for a leukaemia-associated immunophenotype {20451454; 21149663}. Genomic approaches to detect residual somatic alterations have been shown to have clinical benefit in adults with AML and are under investigation in paediatric patients {26305651}. Allogeneic stem cell transplantation remains a part of therapy for patients at high risk of relapse as determined by genetic features, or with poorly responsive leukaemia as measured by minimal residual disease {12139721; 12058234}. Overall survival is 60&ndash;70% with current risk-stratified therapy (across cooperative groups internationally), but event-free survival is 55&ndash;60% because relapse remains a significant clinical challenge {20113895; 26304895; 31246522; 29550834; 23673857}. Paediatric AMKLs without <em>CBFA2T3</em>::<em>GLIS2</em>, <em>KMT2A</em>, or <em>NUP98</em>::<em>KDM5A</em> fusions have a low rate of relapse and a 5-year overall survival rate of about 80% {28112737}. Evaluation of the role of epigenetic therapy and immunotherapy is ongoing.</p>",
+        "timestamp": "2022-07-08T15:03:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

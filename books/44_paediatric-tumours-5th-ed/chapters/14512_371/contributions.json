@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 108648,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 466,
+        "headingText": "\r\n<p>Naevi are benign melanocytic proliferations that microscopically can be located in the epidermis (junctional naevi), dermis (dermal naevi), or both (compound naevi).</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 108649,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 467,
+        "headingText": "\r\n<p>8740/0 Junctional naevus</p>\r\n<p>8760/0 Compound naevus</p>\r\n<p>8750/0 Dermal naevus</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 108650,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 468,
+        "headingText": "\r\n<p>2F20.0Y &amp; XH1M79 Other specified common acquired melanocytic naevus &amp; Junctional naevus, NOS</p>\r\n<p>2F20.0Y &amp; XH27A6 Other specified common acquired melanocytic naevus &amp; Compound naevus</p>\r\n<p>2F20.0Y &amp; XH2MQ5 Other specified common acquired melanocytic naevus &amp; Dermal naevus</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 108651,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Acceptable:</em> common acquired naevi.</p>\r\n<p><em>Not recommended:</em> banal naevi.</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 108652,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 108653,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 471,
+        "headingText": "\r\n<p>Naevi can arise in all sites, but they predominate on the trunk.</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 108654,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 472,
+        "headingText": "\r\n<p>Acquired naevi are mostly small (&lt;&nbsp;5&nbsp;mm), symmetrical, uniformly pigmented lesions. Junctional naevi are often flat/macular, whereas compound or dermal naevi are more often elevated. They grow slowly during childhood/adolescence and remain stable in size for some time afterwards.</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 108655,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 473,
+        "headingText": "\r\n<p>Acquired naevi arise during early childhood, with a peak at adolescence, after which they slowly decline in number and size throughout adulthood {30208471}.</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 108656,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 474,
+        "headingText": "\r\n<p>The number and size of acquired naevi in an individual is influenced by ultraviolet (UV) radiation exposure, tanning ability, and heritable genetic factors {12507670; 20647408}.</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 108657,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 475,
+        "headingText": "\r\n<p>Naevi are clonal proliferations of melanocytes that are partially transformed by proliferation-inducing somatic mutations in MAPK pathway genes (mainly <em>BRAF</em>) {6528932}.</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 108658,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 482,
+        "headingText": "\r\n<p>Naevi are well-circumscribed, homogeneously pigmented papules or macules. Junctional and compound naevi are typically brown, whereas dermal naevi can be pink or skin-coloured.</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 108659,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 476,
+        "headingText": "\r\n<p>Lesions appear as circumscribed and symmetrical proliferations of cytologically bland melanocytes with oval to round nuclei and a mildly pigmented cytoplasm. If a junctional component is present it can assume a lentiginous or nested pattern. The lentiginous architecture is defined by melanocytes distributed as individual units along elongated hyperpigmented rete ridges. In the nested pattern, naevus cells are arranged in small clusters of relatively uniform size along the dermoepidermal junction, with larger nests in the centre of the lesion. No pagetoid spreading is visible, except in examples of irritated naevi where it is present in a limited fashion below zones of parakeratosis.</p>\r\n<p>A dermal component can vary in extent and tends to be situated in the central part of the lesion. When the dermal component is more abundant, it may elevate the epidermis and expand the superficial dermis to form a papule. When the melanocytic proliferation extends deeper into the reticular dermis, lesions assume a so-called congenital pattern, which is not indicative of a true congenital origin. The dermal nests and their constituting melanocytes become smaller and less pigmented, with descent into the dermis, dispersing as single cells at the base. The cytology of the superficial cells in the dermis is usually similar to that observed in any overlying junctional component (type&nbsp;A or epithelioid cells), with maturation or senescent change resulting in small type&nbsp;B (lymphocyte-like) cells and often spindled type&nbsp;C cells at the base. Mitoses are usually absent.</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 108660,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 108661,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 478,
+        "headingText": "\r\n<p>Acquired naevi frequently have <em>BRAF</em> mutations and sometimes have <em>NRAS</em> mutations. They do not have chromosomal copy-number changes. They have a low Ki-67 proliferation index and strongly express p16 and other senescence markers {12447372}.</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 108662,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> a bland morphological appearance; absence of pleomorphism or mitotic activity, particularly in deeper areas.</p>\r\n<p><em>Desirable:</em> symmetrical architecture.</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 108663,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 479,
+        "headingText": "\r\n<p>By definition, naevi are benign and do not require staging.</p>\r\n",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 108664,
+        "bookId": 44,
+        "chapterId": 371,
+        "headingId": 480,
+        "headingText": "\r\n<p>Naevi are stable proliferations with a very low risk of progression to melanoma; the estimated lifetime risk is 0.03% (1&nbsp;in&nbsp;3164) for men and 0.009% (1&nbsp;in&nbsp;10&nbsp;800) for women. Progression to melanoma occurs via secondary and tertiary genetic alterations such as <em>CDKN2A</em> loss and <em>TERT</em> promoter mutations {26559571}.</p>",
+        "timestamp": "2023-03-13T11:15:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

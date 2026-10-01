@@ -1,0 +1,62 @@
+[
+  {
+    "pkroleId": 70,
+    "bookId": "33",
+    "roleid": 28,
+    "roleTitle": "Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2362,
+        "lastname": "Flanagan",
+        "firstname": "Adrienne Margaret",
+        "initials": "AM",
+        "email": "",
+        "roleid": 28,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 71,
+    "bookId": "33",
+    "roleid": 29,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2188,
+        "lastname": "Ferry",
+        "firstname": "Judith A.",
+        "initials": "JA",
+        "email": "",
+        "roleid": 29,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 72,
+    "bookId": "33",
+    "roleid": 30,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2485,
+        "lastname": "Deshpande",
+        "firstname": "Vikram",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2551,
+        "lastname": "Lorsbach",
+        "firstname": "Robert Brian",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      }
+    ]
+  }
+]

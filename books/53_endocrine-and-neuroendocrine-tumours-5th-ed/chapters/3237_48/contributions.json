@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 122575,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 607,
+        "headingText": "\r\n<p>Anaplastic thyroid carcinoma (ATC) is a highly aggressive thyroid malignancy composed of undifferentiated cells that may have focal features of thyroid follicular differentiation and/or a previous differentiated thyroid carcinoma.</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 122576,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 608,
+        "headingText": "\r\n<p>8020/3 Anaplastic thyroid carcinoma</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 122577,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 609,
+        "headingText": "\r\n<p>2D10.3 Undifferentiated carcinoma of thyroid gland</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 122578,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> undifferentiated thyroid carcinoma.</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 122579,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 611,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 122580,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 612,
+        "headingText": "\r\n<p>ATC arises in the thyroid but often shows extensive local invasion and regional lymph node and distant metastasis.</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 122581,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 613,
+        "headingText": "\r\n<p>ATC often presents as a rapidly enlarging, fixed, and widely infiltrative neck mass that may be associated with compressive symptoms, pain, hoarseness, and dyspnoea. Paraneoplastic hypercalcaemia, leukocytosis, neutrophilia, or a maculopapular eruption may occur {33170501}. ATC usually affects older adults (mean age: 65&ndash;75&nbsp;years) {9028369; 29719407; 30075157; 32460234}. The M:F&nbsp;ratio is 1:1.4 {21186939; 31632557}. More than 50% of individuals present with lymph node metastases, and 30&ndash;40% present with distant metastasis, often to the lung, bone, and brain {29414634}.</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 122582,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 614,
+        "headingText": "\r\n<p>ATC accounts for 1% of thyroid carcinomas in the USA {32098591}. The incidence remains stable in the USA, but a study from the Netherlands suggests a slightly rising incidence over the past three decades {31632557; 32098591; 32460234}. In other series, the incidence is decreasing with earlier detection of precursor well-differentiated carcinomas {33170501}. Overall, ATC represents 1&ndash;4% of thyroid cancers worldwide {33170501}.</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 122583,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 615,
+        "headingText": "\r\n<p>The causative factors for the development of ATC remain unknown. ATCs may arise de&nbsp;novo or from&nbsp;/ in combination with well-differentiated thyroid carcinomas. ATCs are considered the end-point of follicular cell&ndash;derived carcinoma progression. Preceding or coexisting well-differentiated thyroid carcinomas were found in 0&ndash;75% of ATCs {10714625; 28068873; 32284020}. In a study of 360&nbsp;ATCs, 208&nbsp;(58%) occurred with a differentiated thyroid carcinoma, the most common being papillary thyroid carcinoma (<em>n</em>&nbsp;=&nbsp;150) {32284020}. A poorly differentiated thyroid carcinoma component was noted in 13% of cases in a study of 38&nbsp;ATCs {10714625}. The progression to ATC has been considered a multistep process with dedifferentiation of a pre-existing papillary or follicular thyroid cancer, as evidenced by frequent mutations in the RAS and <em>BRAF</em> genes associated with coexisting mutations in <em>TP53</em> {16557281}. Whereas <em>BRAF</em> p.V600E and RAS mutations remain the main drivers in differentiated thyroid carcinoma, ATC gains additional mutations such as <em>TERT</em> promoter mutation and <em>TP53</em> mutation {27372303}. Radiation exposure and iodine deficiency have also been associated with ATC, in 10% of cases each.</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 122584,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 616,
+        "headingText": "\r\n<p>A multistep process in ATC development suggests early drivers and late events. Early driver events are mostly RAS and <em>BRAF</em> p.V600E mutations, whereas the late events include, above all, <em>TP53</em> and <em>TERT</em> promoter mutations, because <em>TP53</em> and <em>TERT</em> promoter mutations are frequently identified in ATC {33543394}. Most ATCs with a component of papillary thyroid carcinoma harbour <em>BRAF</em> p.V600E mutations {31230400; 32428249}. Somatic mutations in known thyroid cancer genes detected in ATC {27372303} include those in <em>BRAF</em>, RAS genes, <em>PIK3CA</em>, <em>PTEN</em>, <em>EIF1AX</em>, <em>TP53</em>, <em>ATM</em>, <em>TERT</em> promoter, <em>ATM</em>, <em>CDKN1B</em>, <em>CDKN2C</em>, and <em>CTNNB1</em> {25576899; 25862857; 26878173}. Other mutated genes in ATC pathogenesis include <em>SWI</em>/<em>SNF</em>, <em>ALK</em>, and <em>CDKN2A</em>, and there are changes in the expression of different microRNAs {33582932}. ATCs may also have mutations in genes generally not mutated in thyroid cancer, including <em>NF1</em>, <em>NF2</em>, mismatch repair genes (<em>MLH1</em>, <em>MLH3</em>, <em>MSH5</em>, <em>MSH6</em>), and <em>USH2A</em> {25576899}.</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 122585,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 623,
+        "headingText": "\r\n<p>ATCs are large (up to 150&nbsp;mm), bulky tumours that can involve both lobes {10714625; 32284020}. The tumours frequently show haemorrhage, necrosis, and extrathyroidal growth.</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 122586,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 617,
+        "headingText": "<p>ATCs are highly infiltrative malignancies with frequent extrathyroidal growth, necrosis, prominent mitotic activity, atypical mitoses, significant nuclear pleomorphism, and angiolymphatic invasion. ATCs are high-grade tumours that may be epithelioid, spindle, giant cell, pleomorphic, paucicellular, rhabdoid, angiomatoid, or squamous; may show metaplastic chondroid or osteoid; and often have a neutrophilic infiltrate {8604680; 15517365; 30075157; 32284020; 32693811}.</p>\r\n<h6><em>ATC, squamous cell carcinoma pattern</em></h6>\r\n<p>ATC can have focal squamous features or be completely squamous. Primary thyroid squamous cell carcinoma has a similarly poor overall survival to that of conventional ATC and is now considered a pattern of ATC {32252028; 32284020}. ATC with a squamous cell carcinoma phenotype has a previous or concurrent differentiated thyroid carcinoma more frequently than does conventional ATC (76% vs 55%, <em>P</em>&nbsp;=&nbsp;0.004), and it has frequent <em>BRAF</em> p.V600E mutations {32284020}.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>ATC usually shows some cytokeratin expression (75% of cases) {32284020}. A minor subset of cases focally express thyroid transcription factor&nbsp;1 (TTF1). Thyroglobulin is almost always negative, with very rare cases focally expressing thyroglobulin in epithelioid cells {30075157; 32284020}. PAX8 (MRQ-50) is positive in half of ATCs, with expression correlating with epithelial morphology and a coexisting differentiated carcinoma component {31732814}. p53 is expressed in &gt;&nbsp;50% of ATCs, and the Ki-67 proliferation index is usually high {30075157}. ATC with a squamous cell carcinoma phenotype has a squamous immunophenotype and is positive for high-molecular-weight keratins, 34&beta;E12, CK5/6, p63, p40, and occasionally TTF1 {32284020}. ATC composed of pure squamous cell carcinoma shows a higher frequency of PAX8 and p53 immunopositivity than other forms of ATC {32252028}.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>This includes primary thyroid sarcoma (synovial sarcoma, malignant peripheral nerve sheath tumour, angiosarcoma, leiomyosarcoma, and rhabdomyosarcoma), melanoma, medullary thyroid carcinoma, mucoepidermoid carcinoma, sclerosing mucoepidermoid carcinoma with eosinophilia, Riedel thyroiditis, NUT carcinoma, intrathyroid epithelial thymoma, and spindle epithelial tumour with thymus-like elements. ATC is distinguished from high-grade follicular-derived carcinomas by its marked pleomorphism, lack of any organoid growth pattern, and absence of thyroglobulin immunoreactivity in almost all instances.</p>",
+        "timestamp": "2024-12-17T13:02:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 122587,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 618,
+        "headingText": "\r\n<p>Smears show variable (sparse to marked) cellularity, with frequent necrosis and neutrophils in the background. Individual polygonal, plasmacytoid, spindle, or rhabdoid tumour cells predominate, with a variable number of small tissue fragments. Nuclei are markedly pleomorphic and often enlarged, with coarse chromatin, prominent pleomorphic nucleoli, perinucleolar clearing, pseudoinclusions, multinucleation, and frequent mitoses. There may be an element of papillary or other carcinoma.</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 122588,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 619,
+        "headingText": "\r\n<p>ATC has more complex molecular changes than poorly differentiated carcinoma or well-differentiated (papillary and follicular) thyroid carcinomas. A wide variety of genetic alterations are found in ATCs. RAS (10&ndash;50%) and <em>BRAF</em> (10&ndash;50%) mutations are early molecular events. <em>TP53</em> (40&ndash;80%) and <em>TERT</em> (30&ndash;75%) promoter mutations and dysregulation of the PIK3CA/PTEN/AKT/mTOR pathway, as late events, are the most common genetic changes. Mutations in <em>PIK3CA</em> are present in 5&ndash;25% of cases, in <em>PTEN</em> in 10&ndash;25%, and in <em>EIF1AX</em> in 5&ndash;15% {33543394}. Epigenetic modifications including non-coding RNAs are also involved in the pathogenesis.</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 122589,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> a thyroid malignancy composed of undifferentiated cells with focal features of thyroid follicular differentiation and/or a previous differentiated thyroid carcinoma.</p>\r\n<p><em>Desirable:</em> exclusion of other undifferentiated malignancies in the differential diagnosis.</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 122590,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 620,
+        "headingText": "\r\n<p>ATC is staged according to the Union for International Cancer Control (UICC) and American Joint Committee on Cancer (AJCC) staging systems.</p>\r\n",
+        "timestamp": "2024-10-09T11:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 122591,
+        "bookId": 53,
+        "chapterId": 48,
+        "headingId": 621,
+        "headingText": "<p>ATCs are highly aggressive tumours, almost always lethal. Negative prognostic features are older age (&gt;&nbsp;60 or &gt;&nbsp;70&nbsp;years), male sex, rapid tumour growth, leukocytosis, dyspnoea, extrathyroidal extension, large size (&gt;&nbsp;50&nbsp;mm, &gt;&nbsp;60&nbsp;mm, or &gt;&nbsp;70&nbsp;mm), lymphocytic and neutrophilic infiltrate, incomplete resection, distant metastasis, RAS mutation, <em>PIK3CA</em> mutation, and concurrent mutations of RAS or <em>BRAF</em> with <em>TERT</em> {18581185; 19328572; 22311136; 27534388; 29414634; 31230400; 32284020; 32624319; 32698386; 33224795}. In a study of 360&nbsp;cases, residual gross disease was the only independent predictor of lower survival in patients who underwent resection {32284020}. In a SEER study of 719&nbsp;ATCs (1998&ndash;2011), non-White patients had worse overall survival, and individuals in high-poverty areas had worse overall and disease-specific survival {29409119}. Tumours with a minor anaplastic component and no extrathyroidal extension have a more favourable prognosis.</p>\r\n<p>Historically, the mortality rate for ATC at 3&ndash;6&nbsp;months was 90%. With treatment advances including multimodal therapy, extensive surgical resection, high-dose external beam radiation, and possibly chemotherapy, survival time may be increased, but it remains in most cases &lt;&nbsp;2&nbsp;years {18838882; 19328572; 22311136; 27014798; 29719407; 32460234; 32927794; 33224795; 33788749}. Rare survival times of &gt;&nbsp;5&nbsp;years have been reported {17098674; 18581185; 19328572; 30664432; 30918155}. BRAF p.V600E immunostaining and/or genotyping is now mandatory, because BRAF and MEK inhibitors were shown to be clinically active in <em>BRAF</em> p.V600E&ndash;mutated ATC and approved by the United States Food and Drug Administration (FDA) {33292371}. Other therapies targeting cell membrane kinases and downstream proteins, including EGFR, FGFR, VEGFR, KIT (c-KIT), PDGFR, RET, VEGF, and mTOR, are in clinical trials {33582932}. PDL1 immunostaining positivity (defined as a tumour proportion score of &ge;&nbsp;1%) has been reported in 39&ndash;60% of ATCs {28383817; 34093774}. One study showed a better response to immunotherapy (directed against PD1) in PDL1-positive ATC compared with PDL1-negative tumours {32364844}.</p>",
+        "timestamp": "2024-10-09T17:14:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

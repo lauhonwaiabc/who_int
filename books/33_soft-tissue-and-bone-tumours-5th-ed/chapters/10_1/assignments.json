@@ -1,0 +1,107 @@
+[
+  {
+    "pkroleId": 70,
+    "bookId": "33",
+    "roleid": 28,
+    "roleTitle": "Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2150,
+        "lastname": "Miettinen",
+        "firstname": "Markku",
+        "initials": "M",
+        "email": "",
+        "roleid": 28,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 71,
+    "bookId": "33",
+    "roleid": 29,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2304,
+        "lastname": "Fletcher",
+        "firstname": "Christopher D.M.",
+        "initials": "",
+        "email": "",
+        "roleid": 29,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 72,
+    "bookId": "33",
+    "roleid": 30,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2300,
+        "lastname": "Singer",
+        "firstname": "Samuel",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2357,
+        "lastname": "Blay",
+        "firstname": "Jean-Yves",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2563,
+        "lastname": "Gronchi",
+        "firstname": "Alessandro",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2564,
+        "lastname": "Pollock",
+        "firstname": "Raphael E.",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2565,
+        "lastname": "Messiou",
+        "firstname": "Christina",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2741,
+        "lastname": "Baldini",
+        "firstname": "Elizabeth H.",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      }
+    ]
+  }
+]

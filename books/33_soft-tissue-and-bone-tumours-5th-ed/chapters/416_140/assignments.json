@@ -1,0 +1,62 @@
+[
+  {
+    "pkroleId": 70,
+    "bookId": "33",
+    "roleid": 28,
+    "roleTitle": "Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2359,
+        "lastname": "Bovée",
+        "firstname": "Judith V.M.G.",
+        "initials": "",
+        "email": "",
+        "roleid": 28,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 71,
+    "bookId": "33",
+    "roleid": 29,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2369,
+        "lastname": "Yoshida",
+        "firstname": "Akihiko",
+        "initials": "",
+        "email": "",
+        "roleid": 29,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 72,
+    "bookId": "33",
+    "roleid": 30,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2364,
+        "lastname": "Mertens",
+        "firstname": "Fredrik",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      },
+      {
+        "contributorid": 2454,
+        "lastname": "Bloem",
+        "firstname": "Johan L.",
+        "initials": "",
+        "email": "",
+        "roleid": 30,
+        "position": 0
+      }
+    ]
+  }
+]

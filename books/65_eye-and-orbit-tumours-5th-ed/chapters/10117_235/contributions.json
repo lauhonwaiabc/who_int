@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 139186,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 733,
+        "headingText": "\r\n<p>Dermatofibrosarcoma protuberans (DFSP) is a locally aggressive fibroblastic neoplasm with a cellular storiform appearance and carries a <em>COL1A1</em>::<em>PDGFB</em> or related fusion.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 139187,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 734,
+        "headingText": "\r\n<p>8832/1 Dermatofibrosarcoma protuberans</p>\r\n<p>8833/1 Pigmented dermatofibrosarcoma protuberans</p>\r\n<p>8832/3 Fibrosarcomatous dermatofibrosarcoma protuberans</p>\r\n<p>8832/1 Myxoid dermatofibrosarcoma protuberans</p>\r\n<p>8832/1 Dermatofibrosarcoma protuberans with myoid differentiation</p>\r\n<p>8832/1 Plaque-like dermatofibrosarcoma protuberans</p>\r\n",
+        "timestamp": "2026-03-31T15:07:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 139188,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 735,
+        "headingText": "\r\n<p>2B53.Y &amp; XH4QZ8 Other specified fibroblastic or myofibroblastic tumour, primary site &amp; Dermatofibrosarcoma, NOS</p>\r\n<p>2B53.Y &amp; XH5CT4 Other specified fibroblastic or myofibroblastic tumour, primary site &amp; Pigmented dermatofibrosarcoma protuberans</p>\r\n<p>2B53.Y &amp; XH9V92 Other specified fibroblastic or myofibroblastic tumour, primary site &amp; Dermatofibrosarcoma protuberans, fibrosarcomatous</p>\r\n",
+        "timestamp": "2026-03-31T15:07:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 139189,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 736,
+        "headingText": "\r\n<p><em>Not recommended:</em> Bednar tumour.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 139190,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 737,
+        "headingText": "\r\n<p>Pigmented DFSP; fibrosarcomatous DFSP; myxoid DFSP; DFSP with myoid differentiation; plaque-like DFSP</p>\r\n",
+        "timestamp": "2026-03-31T15:07:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 139191,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 738,
+        "headingText": "\r\n<p>Periocular DFSP most commonly arises in the superficial periocular skin and secondarily involves deeper orbital soft tissues and the nasolacrimal system {29217050;21804433;15266155;24988500;15234144}. Primary orbital DFSP is extremely rare {30981544;23448305;23514021}. Advanced tumours can involve bone, paranasal sinuses, and the cranial cavity {25924890;28905843}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 139192,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 739,
+        "headingText": "\r\n<p>Signs and symptoms include a nodular or multinodular painless mass, often with a history of indolent but persistent growth, sometimes with rapid enlargement, proptosis, ptosis, epiphora, and decreased visual acuity {30981544}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 139193,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 740,
+        "headingText": "\r\n<p>DFSP is very rare in the orbit/adnexa with &lt;&nbsp;20&nbsp;reported cases with a wide age range (26&ndash;72&nbsp;years) {30981544}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 139194,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 741,
+        "headingText": "\r\n<p>Most of these tumours occur sporadically.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 139195,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 742,
+        "headingText": "\r\n<p>DFSP is commonly characterized by a reciprocal linear translocation or supernumerary rings involving chromosomes&nbsp;17 and&nbsp;22, leading to fusion transcripts that place the <em>PDGFB</em> gene under the control of the <em>COL1A1</em> promoter {12661001;12550751;8988177}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 139196,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 749,
+        "headingText": "\r\n<p>DFSP lesions may appear as plaque-like or nodular/multinodular masses with a firm grey-white cut surface.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 139197,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 743,
+        "headingText": "\r\n<p>Classic DFSP is characterized by a storiform, cartwheel, whorled, or fascicular arrangement of monomorphic, cytologically uniform slender spindle cells containing plump or elongated wavy nuclei. Mitotic activity is low. Inflammatory cells may be scant to absent. Rare cases may show prominent vessels, granular cell change, prominent nuclear palisading, and Verocay body formation {22257899;26725533}. Rarely DFSP can show myoid components, prominent myxoid change {6614310;17721193}, giant cells, pigmented cells {3901787}, and fibrosarcomatous areas {9591728;10935653;16625088}. Exceptionally, transformation to pleomorphic sarcomatous areas has been reported {9591728;21478726}.</p>\r\n<h6>Immunohistochemistry</h6>\r\n<p>Tumour cells stain positively for CD34 and may express EMA {12426982;15252314}. Fibrosarcomatous areas in a DFSP can show loss of CD34 expression {9591728}. Tumour cells in myoid nodules and bundles stain strongly for SMA {8720984}.</p>\r\n<h6>Differential diagnosis</h6>\r\n<p>This includes dermatofibroma, which is more polymorphous and lacks the infiltrative pattern and diffuse CD34 positivity of DFSP. Spindle cell melanoma, spindle cell carcinoma, and leiomyosarcoma may be excluded by appropriate immunohistochemical stains (see also <a style=\"cursor:pointer\" href=\"/chaptercontent/65/73\" target=\"_blank\">section </a><em>Invasive cutaneous melanoma</em>, <a style=\"cursor:pointer\" href=\"/chaptercontent/65/256\" target=\"_blank\">section </a><em>Leiomyosarcoma</em>, and <a style=\"cursor:pointer\" href=\"/chaptercontent/65/54\" target=\"_blank\">section </a><em>Squamous cell carcinoma of the eyelid</em>).</p>\r\n",
+        "timestamp": "2026-03-31T15:07:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 139198,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 744,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-03-31T15:07:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 139199,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 745,
+        "headingText": "\r\n<p>Detection of the <em>COL1A1</em>::<em>PDGFB</em> fusion can help in diagnosis of challenging cases; however, cases with cryptic fusions {25081750;26970672} and alternative fusions involving <em>PDGFD</em> are also reported {29955147;30014607}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 139200,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 748,
+        "headingText": "\r\n<p><em>Essential:</em> a storiform architecture and uniform spindle-cell morphology; diffusely infiltrative growth; expression of CD34.</p>\r\n<p><em>Desirable:</em> <em>COL1A1</em>::<em>PDGFB</em> gene fusion or rarely alternative <em>PDGFD</em> rearrangements (in select cases).</p>\r\n",
+        "timestamp": "2026-03-31T15:07:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 139201,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 746,
+        "headingText": "\r\n<p>The American Joint Committee on Cancer (AJCC) or Union for International Cancer Control (UICC) TNM system can be applied for fibrosarcomatous DFSP.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 139202,
+        "bookId": 65,
+        "chapterId": 235,
+        "headingId": 747,
+        "headingText": "\r\n<p>DFSP is characterized by locally aggressive growth and frequent, often repeated local recurrences unless widely excised {21804433;30981544;15266155}. Distant metastases from periocular DFSP have not been documented {30981544}. DFSP arising in non-ocular sites can rarely metastasize to the lungs. Tyrosine kinase inhibitors have been used as adjuvant and palliative agents in locally advanced periocular DFSP {27051721;28905843}.</p>",
+        "timestamp": "2026-03-31T15:07:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

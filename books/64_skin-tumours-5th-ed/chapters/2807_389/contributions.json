@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 125366,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 764,
+        "headingText": "\r\n<p>Circumscribed meningeal melanocytic neoplasms arise from leptomeningeal melanocytes and range histologically from well-differentiated tumours (meningeal melanocytoma) to frankly malignant neoplasms (meningeal melanoma).</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 125367,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 765,
+        "headingText": "\r\n<p>8728/1 Meningeal melanocytoma</p>\r\n<p>8720/3 Meningeal melanoma</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 125368,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 766,
+        "headingText": "\r\n<p>2A01.0Y &amp; XH2RY7 Other specified meningeal tumours &amp; Meningeal melanocytoma</p>\r\n<p>2A01.0Y &amp; XH3DN1 Other specified meningeal tumours &amp; Melanoma, meningeal</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 125369,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 767,
+        "headingText": "\r\n<p><em>Not recommended:</em> melanocytoma (without site); melanoma (without site).</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 125370,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 768,
+        "headingText": "\r\n<p>Meningeal melanocytoma; meningeal melanoma</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 125371,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 769,
+        "headingText": "\r\n<p>Meningeal melanocytomas occur mostly in the cervical and thoracic spine and can be dural-based or associated with nerve roots or spinal foramina {10403296; 9197936}. Less frequently, they arise from the leptomeninges in the posterior fossa or supratentorial compartments. The trigeminal cave and cranial base are sites of primary meningeal melanocytic neoplasms associated with ipsilateral naevus of Ota {30904806; 26834043}. Rare cases of intraventricular or intramedullary localization have been reported {22796275; 29226425}. Meningeal melanomas may occur throughout the neuraxis, but, like melanocytomas, they show a predilection for the spinal canal and posterior fossa {21444862; 10403296}. A purely intraparenchymal location of a melanoma in the CNS is indicative of a metastasis from elsewhere.</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 125372,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 770,
+        "headingText": "<p>Patients with meningeal melanocytomas or melanomas typically present with focal neurological signs related to compression of the CNS, which depend on location {10403296; 26940907; 20558070}. Distant metastases from meningeal melanocytic tumours, mostly melanomas, are rare and affect liver, bone, and lungs {25534128; 27974237}.</p>\r\n<h5>Imaging</h5>\r\n<p>Meningeal melanocytomas and melanomas are isoattenuating to hyperattenuating, contrast-enhancing on CT {19755608}. On MRI, they often show T1 hyperintensity due to the paramagnetic properties of melanin pigment; they are typically isointense to hypointense on T2-weighted images {24617680} and hyperintense on FLAIR images, and they enhance after gadolinium {20558070}. CNS structures adjacent to a meningeal melanoma are often T2-hyperintense because of oedema, which may be accompanied by invasion into the CNS parenchyma {24274719}.</p>",
+        "timestamp": "2025-04-24T17:25:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 125373,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 771,
+        "headingText": "\r\n<p>Meningeal melanocytomas and melanomas account for 0.06&ndash;0.1% of meningeal tumours. Melanocytomas have an estimated incidence of 1&nbsp;case per 10&nbsp;million person-years {31675094; 20558070}. They can occur in patients of any age, but they are most frequent in the fourth and fifth decades of life. In two series, the mean patient ages at diagnosis of meningeal melanocytoma and melanoma were, respectively, 45.6&nbsp;years (range: 23&ndash;69&nbsp;years) and 53.7&nbsp;years (range: 15&ndash;86&nbsp;years) {26769193; 29891723}. In other studies, the mean age at the time of diagnosis of meningeal melanoma was 48.5&nbsp;years for adults and 5.4&nbsp;years (median: 3.0&nbsp;years) for children {31203063; 25487565}. For meningeal melanomas, an annual incidence of 0.005&nbsp;cases per 100&nbsp;000&nbsp;population has been reported {20558070}.</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 125374,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 772,
+        "headingText": "\r\n<p>Meningeal melanocytic tumours may arise in the setting of a neurocutaneous melanosis {23392294}.</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 125375,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 773,
+        "headingText": "\r\n<p>Mutually exclusive activating hotspot mutations in <em>GNAQ</em>, <em>GNA11</em>, <em>PLCB4</em>, and <em>CYSLTR2</em> are considered the first step in the oncogenesis of meningeal melanocytic tumours not associated with neurocutaneous melanosis {24460190; 25534128}. <em>GNAQ</em> and <em>GNA11</em> mutations are most frequent, observed in about 60&ndash;70% of cases {19936769; 22307269; 29891723; 26744134; 28499758}. Usually, meningeal melanocytomas and melanomas do not harbour <em>HRAS</em>, <em>KRAS</em>, <em>BRAF</em>, or <em>KIT</em> mutations {19936769; 25399693; 23683178; 22758774}. <em>TERT</em> promoter mutations are also usually absent {24645797}. Childhood meningeal melanomas in patients with neurocutaneous melanosis typically harbour <em>NRAS</em> mutations {23303902; 23392294}.</p>\r\n<p>Like in uveal melanomas, mutation in <em>EIF1AX</em>, <em>SF3B1</em>, or <em>BAP1</em> represents the next step in the malignant progression {29738114; 24460190}. Meningeal melanocytomas of intermediate grade and meningeal melanomas may carry additional mutations involving these genes, with a higher incidence reported in melanomas {26769193; 29891723; 26744134}.</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 125376,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 780,
+        "headingText": "\r\n<p>Meningeal melanocytomas and melanomas are circumscribed tumours that may be black, reddish-brown, blue, or macroscopically non-pigmented, depending on the melanin content.</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 125377,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 774,
+        "headingText": "<p>Tumours show a spectrum of histopathological features, ranging from bland-appearing, low-grade, well-differentiated melanocytomas to overtly malignant melanomas. Melanocytomas may show a variable density of densely packed, slightly spindled or oval tumour cells with varying degrees of pigmentation, sometimes forming tight nests resembling the whorls of meningioma or displaying storiform, vasocentric, or sheet-like arrangements. The nuclei are oval or bean-shaped, occasionally showing grooves, with small eosinophilic nucleoli. Cytological atypia, necrosis, and mitoses are typically absent or &lt;&nbsp;0.5&nbsp;mitoses/mm<sup>2</sup>. Heavily pigmented tumour cells and melanophages are especially seen at the periphery of nests. Amelanotic melanocytomas are rare {34338195}. Meningeal melanocytomas typically do not show invasion of CNS parenchyma {10403296; 25534128; 23683178}. Melanocytomas with CNS invasion or 0.5&ndash;1.5&nbsp;mitoses/mm<sup>2</sup> have been defined as intermediate-grade melanocytic neoplasms {10403296}.</p>\r\n<p>Meningeal melanomas are typically more cellular, consisting of pleomorphic spindled or epithelioid cells with large nucleoli and varying pigmentation, arranged in loose nests, fascicles, or sheets {10403296; 21444862}. They show increased mitoses, including atypical forms. They often demonstrate invasion of the CNS parenchyma or coagulative necrosis. Meningeal melanomatosis may arise from diffuse spreading of a primary meningeal melanoma through the subarachnoid space.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Meningeal melanocytic tumours strongly express S100, melan-A, HMB45, and MITF {26940907}. Absence of nuclear BAP1 staining indicates <em>BAP1</em> inactivation {26769193}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The differential diagnosis includes melanoma metastasis and malignant melanotic nerve sheath tumour (see <em>Diagnostic molecular pathology</em>, below).</p>",
+        "timestamp": "2025-04-24T17:25:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 125378,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 775,
+        "headingText": "\r\n<p>Tumour cells are atypical or frankly malignant, often showing epithelioid cytology and containing melanin pigment {11235962; 8492846}.</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 125379,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 776,
+        "headingText": "\r\n<p>Mutations in <em>GNAQ</em>, <em>GNA11</em>, <em>PLCB4</em>, or <em>CYSLTR2</em> are useful for discriminating primary meningeal tumours from other pigmented CNS tumours such as malignant melanotic nerve sheath tumours {25399693; 24274719; 20865267} and metastases from melanomas originating elsewhere. Primary meningeal melanomas in adults are rare, and when encountered, they raise suspicion of metastatic disease. Combining mutation, copy-number, and DNA methylation profiles can further distinguish cutaneous melanoma metastases from other melanocytic tumours {25399693; 29891723; 21444862}.</p>\r\n<p>In most well-differentiated meningeal melanocytomas, copy-number variations are either absent or limited in number; when present, they usually affect a single whole chromosome or large parts of a single chromosome or a limited number of chromosomes {26744134; 25315378}. The chromosomal alterations identified in melanocytoma may include gains of chromosome arms&nbsp;8q and&nbsp;6p, loss of chromosome arms&nbsp;1p and&nbsp;6q, and monosomy of chromosome&nbsp;3 (which includes the <em>BAP1</em> gene)&nbsp;&ndash; this last alteration is found in tumours with intermediate-grade histology {29891723; 25315378}. Such alterations, including monosomy of chromosome&nbsp;3, can be found in meningeal melanomas as well, but meningeal melanomas usually have a more complex copy-number variation profile, with multiple large chromosomal gains and/or losses {25315378; 29891723}.</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 125380,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 779,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/64/389/35996\" target=\"_blank\">#35996</a>Box&nbsp;3.05 .</p>",
+        "timestamp": "2025-05-06T10:16:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 125381,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 777,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 125382,
+        "bookId": 64,
+        "chapterId": 389,
+        "headingId": 778,
+        "headingText": "\r\n<p>Although melanocytomas lack anaplastic features, local recurrence or leptomeningeal seeding can occur, more frequently in intermediate-grade melanocytic tumours. Malignant transformation of a melanocytoma and metastatic spread outside the CNS have been reported {15352613; 27974237; 12408241}. Meningeal melanoma is usually a highly aggressive and radioresistant tumour with a poor prognosis, and it can rarely metastasize to distant organs {25534128}. The prognosis tends to be better if complete resection of the primary tumour can be achieved {15306980; 21444862}. The prognosis for <em>NRAS</em>-mutant meningeal melanoma in children is very poor {25487565; 28253523}.</p>",
+        "timestamp": "2025-04-24T17:25:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

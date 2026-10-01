@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 93,
+    "bookId": "45",
+    "roleid": 130,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2513,
+        "lastname": "Perry",
+        "firstname": "Arie",
+        "initials": "",
+        "email": "",
+        "roleid": 130,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 94,
+    "bookId": "45",
+    "roleid": 138,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2004,
+        "lastname": "Lax",
+        "firstname": "Sigurd F.",
+        "initials": "",
+        "email": "",
+        "roleid": 138,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 95,
+    "bookId": "45",
+    "roleid": 139,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3565,
+        "lastname": "Judkins",
+        "firstname": "Alexander R.",
+        "initials": "",
+        "email": "",
+        "roleid": 139,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 96,
+    "bookId": "45",
+    "roleid": 140,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2442,
+        "lastname": "Biegel",
+        "firstname": "Jaclyn A.",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 2559,
+        "lastname": "Wesseling",
+        "firstname": "Pieter",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3546,
+        "lastname": "Eberhart",
+        "firstname": "Charles G.",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3561,
+        "lastname": "Huang",
+        "firstname": "Annie",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3691,
+        "lastname": "Kool",
+        "firstname": "Marcel",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      }
+    ]
+  }
+]

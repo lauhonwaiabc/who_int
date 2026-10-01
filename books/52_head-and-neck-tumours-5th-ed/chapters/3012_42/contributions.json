@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 113090,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 576,
+        "headingText": "\r\n<p>Laryngeal and hypopharyngeal epithelial dysplasia is a spectrum of architectural and cytological changes of the squamous epithelium of laryngeal, hypopharyngeal, and tracheal mucosa, caused by an accumulation of genetic alterations and associated with an increased risk of progression to invasive squamous cell carcinoma (SCC).</p>\r\n",
+        "timestamp": "2023-09-25T13:58:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 113091,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 577,
+        "headingText": "\r\n<p>8077/0 Squamous intraepithelial neoplasia, low grade</p>\r\n<p>8077/2 Squamous intraepithelial neoplasia, high grade</p>\r\n<p>8070/2 Squamous cell carcinoma in situ, NOS</p>\r\n",
+        "timestamp": "2023-09-25T13:58:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 113092,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 578,
+        "headingText": "\r\n<p>2F00.Y &amp; XA2RH5 &amp; XH4611 Other specified benign neoplasm of middle ear or respiratory system &amp; Larynx &amp; Squamous intraepithelial neoplasia, grade&nbsp;I</p>\r\n",
+        "timestamp": "2023-09-25T13:58:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 113093,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Acceptable:</em> squamous intraepithelial lesion.</p>\r\n",
+        "timestamp": "2023-09-25T13:58:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 113094,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 580,
+        "headingText": "<p>Low-grade dysplasia; high-grade dysplasia (basaloid subtype and large, spinous cell subtype); carcinoma in&nbsp;situ</p>",
+        "timestamp": "2023-10-11T17:00:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 113095,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 581,
+        "headingText": "\r\n<p>Dysplasia can occur anywhere in the larynx, although it occurs most frequently along one or (less frequently) both vocal cords. The commissures, hypopharynx, and trachea are rarely involved {24595419; 22348834; 24295655; 20459558}.</p>\r\n",
+        "timestamp": "2023-09-25T13:58:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 113096,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 582,
+        "headingText": "\r\n<p>Symptoms and signs are nonspecific and vary according to the site and size of the lesion. In the glottis, symptoms of dysplasia include voice change and hoarseness, whereas in the supraglottis and subglottis, dysplasia is usually asymptomatic {33051798}.</p>\r\n",
+        "timestamp": "2023-09-25T13:58:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 113097,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 583,
+        "headingText": "\r\n<p>Dysplasia is mostly seen in adults and affects more men than women, with an M:F&nbsp;ratio as high as 4.6:1 {18752537}. This disparity is especially evident after the sixth decade of life. The annual incidence of laryngeal keratosis in the USA has been reported as 10.2&nbsp;and 2.1&nbsp;lesions per 100&nbsp;000&nbsp;male population and female population, respectively; between 1988 and 2012, 3169&nbsp;cases of glottic carcinoma in&nbsp;situ (CIS) were reported in the 18-registry SEER database {1791144; 26481178}. The annual incidence elsewhere in the world is unknown.</p>\r\n",
+        "timestamp": "2023-09-25T13:58:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 113098,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 584,
+        "headingText": "<p>The principal risk factor for laryngeal dysplasia is cigarette smoking, especially in combination with alcohol abuse {16372991; 16945612}. Gastroesophageal reflux disease has been suggested as possible risk factor {12569600; 23794281; 25810702}. High-risk HPV plays a minor role in laryngeal dysplasia development; rare reported cases showed HPV16/18 RNA by in&nbsp;situ hybridization and occurred concurrently with invasive SCC {21573490; 24127203; 24609302; 27492445}.</p>",
+        "timestamp": "2023-10-11T17:00:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 113099,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 585,
+        "headingText": "\r\n<p>Preneoplastic cells are frequently aneuploid {12973674; 15201498}, with chromosomal changes&nbsp;/ loss of heterozygosity accumulating at 9p21 (probably targeting <em>CDKN2A</em>), 17p13 (<em>TP53</em>), 3p26, and 3p14 {7738713}. Other molecular alterations consistently detected include cyclin&nbsp;D1 overexpression {19139013} and reactivation of telomerase {13679446; 15375434; 22463766}.</p>\r\n",
+        "timestamp": "2023-09-25T13:58:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 113100,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 592,
+        "headingText": "\r\n<p>Laryngeal dysplasia does not have a characteristic macroscopic appearance. Patients may present with leukoplakia (white patch), erythroplakia (red patch), erythroleukoplakia, or chronic laryngitis. It can be a localized or diffuse, flat or exophytic lesion. Macroscopic appearance does not carry any microscopic connotation {24595419}.</p>\r\n<p>Narrow-band imaging (applying narrow-band spectrum optical filters to enhance the visualization of mucosal and submucosal blood vessels) may provide useful information: a lack of perpendicular vascular patterns suggests a benign lesion, whereas irregularities of capillary loops and narrow-angled perpendicular vascular patterns point to a high-grade lesion or SCC {20459558; 32112142}.</p>\r\n",
+        "timestamp": "2023-09-25T13:58:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 113101,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 586,
+        "headingText": "<p>Several classifications have been devised to represent the spectrum of histological changes and their relation to biological behaviour {16731030; 19432960; 21108746; 24689850; 29729029}. In recent reviews of classification systems of laryngeal dysplasia {32141027; 32329013}, the use of unified terminology including dysplasia&nbsp;/ squamous intraepithelial lesion (SIL) has been suggested, with either a two-tiered or a three-tiered grading system (see <a style=\"cursor:pointer\" href=\"/attachment/52/42/26045\" target=\"_blank\">#26045</a>Table&nbsp;3.01). A disadvantage of the two-tiered system of grading is a wide category of high-grade dysplasia/SIL (moderate, severe, and CIS), which can be potentially resolved by introducing CIS as the third category.</p>\r\n<p>Lesions previously classified as moderate dysplasia have shown a higher risk of malignant transformation, which supports their inclusion in the high-grade dysplasia/SIL category {26268427}. Although the grading of laryngeal dysplasia is subjective to a certain degree, it remains the most important prognostic factor for the biological behaviour of the disease, helping clinicians to offer appropriate treatment {11119129; 20857246; 21499237}. The diagnosis of laryngeal dysplasia should follow a multidisciplinary approach, and pathologists should discuss with their clinicians which system optimizes the treatment decisions for their specific patient populations {33058010}.</p>\r\n<p>Morphological features of each grade of dysplasia are described in <a style=\"cursor:pointer\" href=\"/attachment/52/42/26046\" target=\"_blank\">#26046</a>Box&nbsp;3.01 . Epithelium in laryngeal dysplasia/SIL is usually thickened, but it may be normal or (rarely) atrophic. It may be keratinizing or non-keratinizing; the presence of a surface keratinization is not considered to be an important prognostic factor {28060368}. The basement membrane is preserved. The subepithelial stroma may show inflammation, but there is no desmoplastic stromal reaction {12138247; 15712177}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Reliable markers with diagnostic and prognostic value are lacking. Some studies suggested the potential value of p53, p16, Ki-67, EGFR, CK19, and MAGEA, but they are currently not recommended for dysplasia classification {30936424; 32329013}.</p>\r\n<p>A stem cell marker, NANOG, has recently emerged as a potential diagnostic and prognostic marker in dysplasia of the head and neck {28894270; 31484317; 32041418; 33643897}. Studies have shown that there is no immunohistochemical expression of NANOG in the normal mucosa; weak expression in low-grade dysplasia; and strong expression in high-grade dysplasia, CIS, and SCC. The marked difference in intensity between low- and high-grade dysplasia indicates a potential diagnostic use of NANOG, enabling the distinction between reactive lesions and low-grade dysplasia, and between low- and high-grade dysplasia. However, it does not distinguish between high-grade dysplasia and CIS.</p>",
+        "timestamp": "2023-10-11T17:00:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 113102,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 587,
+        "headingText": "<p>Unlike in the uterine cervix, cytopathology has not been used to diagnose and grade dysplasia of the laryngeal epithelium.</p>",
+        "timestamp": "2023-11-07T17:13:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 113103,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 588,
+        "headingText": "\r\n<p>None of the molecular changes are currently of diagnostic or prognostic utility. Expression of members of the MAGEA family is reported to predict malignant transformation in precursor lesions {30936424}.</p>\r\n",
+        "timestamp": "2023-09-25T13:58:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 113104,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> full-thickness, properly oriented biopsy; appropriate cytological and architectural abnormalities; preserved basement membrane.</p>\r\n",
+        "timestamp": "2023-09-25T13:58:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 113105,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 589,
+        "headingText": "<p>Dysplasia has no staging system. CIS is classified as Tis according to the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2023-10-09T16:40:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 113106,
+        "bookId": 52,
+        "chapterId": 42,
+        "headingId": 590,
+        "headingText": "\r\n<p>The risk of malignant transformation increases with the degree of laryngeal dysplasia. However, some follow-up studies showed overlapping confidence intervals {25654369; 26268427}. A retrospective follow-up study demonstrated a highly significant difference in the risk of malignant progression between low- and high-grade dysplasia (1.6% and 12.5%, respectively) {24689850}. Certain high-grade dysplasias (e.g. CIS) have been associated with an increased progression to invasive growth (40%) and may require more extensive surgery or radiation therapy, depending on the specific site (anterior commissure) and risk factors (alcohol, tobacco) {22229875; 24595419}.</p>",
+        "timestamp": "2023-09-25T13:58:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "pkheadingid": 1173,
+    "bookid": 67,
+    "headingType": 1,
+    "headingTitle": " ",
+    "headingPosition": 1,
+    "headingid": 794,
+    "contributions": [
+      {
+        "pkcontributionId": 158750,
+        "bookId": 67,
+        "chapterId": 114,
+        "headingId": 794,
+        "headingText": "<p>DNA mismatch repair (MMR) recognizes and repairs erroneous insertion or deletion loops (indels) that usually occur in repetitive sequences, and the misincorporation of bases that can arise during DNA replication and recombination, as well as repairing some types of DNA base damage. DNA synthesis always results in errors, and the first step in MMR is recognition of mismatched bases in the new strand that are then repaired by removing bases from this strand and replacing them with the correct sequence.</p>\r\n<p>Lynch syndrome results from germline or constitutional pathogenic variants affecting one of four genes involved in mismatch repair (<em>MLH1</em>, <em>MSH2</em>, <em>MSH6</em>, or <em>PMS2</em>). The four MMR genes encode proteins which form complexes that detect and repair errors in base pairing or indels that occur during DNA replication {33005611}. Germline alteration in one of the MMR genes followed by a second somatic mutation event in the remaining wildtype allele {18551751} leads to cells becoming mismatch repair deficient. MMR deficient cells escape normal control of apoptosis (as some DNA mismatches can stimulate apoptosis) and gain a relative growth advantage. MMR deficiency also leads to an increase in the point mutation rate and indel frequency within repetitive stretches of DNA known as microsatellites, resulting in microsatellite instability. Muir&ndash;Torre syndrome is very similar to Lynch syndrome, and is sometimes regarded as a subtype. It is caused by mutation of the same four MMR genes, though abnormalities of <em>MSH2</em> are associated with the Muir&ndash;Torre syndrome phenotype, in which cutaneous sebaceous as well as colorectal tumours occur. In both Lynch syndrome and Muir&ndash;Torre syndrome, one allele is inherited and the other lost by somatic mutation.</p>\r\n<p>Constitutional mismatch repair deficiency syndrome is the last of the three recognized syndromes involving the same four MMR genes, but it differs in that it is an autosomal recessive disorder caused by germline biallelic variants in one of the four mismatch repair genes. It causes a broad range of tumours in childhood, adolescence, and young adulthood, including haematological malignancies; brain tumours; colorectal, endometrial, and other Lynch syndrome&ndash;associated cancers; and multiple colorectal adenomatous polyps, often including high-grade dysplastic adenomas.</p>",
+        "timestamp": "2026-09-02T11:51:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

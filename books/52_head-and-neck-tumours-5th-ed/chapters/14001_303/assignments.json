@@ -1,0 +1,36 @@
+[
+  {
+    "pkroleId": 139,
+    "bookId": "52",
+    "roleid": 158,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2997,
+        "lastname": "Nosé",
+        "firstname": "Vania",
+        "initials": "V",
+        "email": "",
+        "roleid": 158,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 140,
+    "bookId": "52",
+    "roleid": 159,
+    "roleTitle": "Co-Author(s)",
+    "contributors": [
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      }
+    ]
+  }
+]

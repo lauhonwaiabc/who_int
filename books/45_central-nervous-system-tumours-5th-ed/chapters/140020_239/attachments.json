@@ -1,0 +1,47 @@
+[
+  {
+    "pkattachmentId": 40002,
+    "bookid": 45,
+    "chapterId": 239,
+    "fileId": 19902,
+    "type": "Figure",
+    "diagnosis": "Histopathology of <em>ELP1</em>-associated medulloblastoma",
+    "title": "",
+    "legend": "Desmoplastic/nodular pattern characterized by nodular, reticulin-free zones and intervening densely packed, poorly differentiated cells that produce an intercellular network of reticulin-positive collagen fibres.",
+    "source": "Korshunov, Andrey; ELP1_Fig1.tiff",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/45/239/19902.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/45/239/thumb_19902.jpg"
+  },
+  {
+    "pkattachmentId": 40004,
+    "bookid": 45,
+    "chapterId": 239,
+    "fileId": 19931,
+    "type": "Figure",
+    "diagnosis": "Proposed three-step model of tumorigenesis in ELP1-medulloblastoma syndrome",
+    "title": "",
+    "legend": "Step&nbsp;1: germline variant results in monoallelic inactivation of <em>ELP1</em>. Step&nbsp;2: somatic deletion of chromosome&nbsp;9q results in biallelic inactivation of <em>ELP1</em> and concurrent monoallelic inactivation of <em>PTCH1</em>. Step&nbsp;3: somatic <em>PTCH1</em> mutation or focal deletion on 9q22.32 results in biallelic inactivation of <em>PTCH1</em>.",
+    "source": "Sebastian M. Waszak",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/45/239/19931.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/45/239/thumb_19931.jpg"
+  },
+  {
+    "pkattachmentId": 40353,
+    "bookid": 45,
+    "chapterId": 239,
+    "fileId": 22853,
+    "type": "Table",
+    "diagnosis": "",
+    "title": "<p>Diagnostic criteria for ELP1-medulloblastoma syndrome</p>",
+    "legend": "",
+    "source": "Section contributors - separate source citation not necessary",
+    "copyright": "",
+    "tablehtml": "<table class=\"MsoNormalTable\" style=\"width: 16.0cm; background: #DAEEF3; border-collapse: collapse;\" border=\"0\" width=\"605\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr style=\"page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 16.0cm; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"605\">\r\n<p class=\"TableText\"><strong><em>Essential:</em></strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\"page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 16.0cm; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"605\">\r\n<p class=\"TableText\"><span style=\"color: black;\">Heterozygous pathogenic germline variant in the <em>ELP1</em> gene in the context of a sonic hedgehog (SHH)-activated, <em>TP53</em>-wildtype medulloblastoma</span></p>\r\n</td>\r\n</tr>\r\n<tr style=\"page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 16.0cm; background: #EFF6FC; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"605\">\r\n<p class=\"TableText\"><strong><em><span style=\"color: black;\">Desirable:</span></em></strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\"page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 16.0cm; background: #EFF6FC; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"605\">\r\n<p class=\"TableText\"><span style=\"color: black;\">Loss of heterozygosity of the <em>ELP1</em> gene in resected tumour material and a methylation profile consistent with SHH-activated medulloblastoma subgroup&nbsp;3 </span><span class=\"Ref-PMID\">{32296180}</span></p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+    "imageUrl": null,
+    "thumbnail": null
+  }
+]

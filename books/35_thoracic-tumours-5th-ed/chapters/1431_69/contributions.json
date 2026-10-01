@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 66897,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 432,
+        "headingText": "<p>Carcinoid tumours are neuroendocrine malignancies with a well-differentiated organoid architecture. There are two subtypes: <em>typical carcinoids</em> (TCs; carcinoid tumours with &lt;&nbsp;2&nbsp;mitoses/2&nbsp;mm<sup>2</sup> and lacking necrosis) and <em>atypical carcinoids</em> (ACs; carcinoid tumours with 2&ndash;10&nbsp;mitoses/2&nbsp;mm<sup>2</sup> and/or foci of necrosis, usually punctate).</p>",
+        "timestamp": "2021-02-18T17:10:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 66898,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 433,
+        "headingText": "<p>8240/3 Carcinoid tumour, NOS&nbsp;/ neuroendocrine tumour, NOS</p>\r\n<p>8240/3 Typical carcinoid&nbsp;/ neuroendocrine tumour, grade&nbsp;1</p>\r\n<p>8249/3 Atypical carcinoid&nbsp;/ neuroendocrine tumour, grade&nbsp;2</p>",
+        "timestamp": "2021-02-12T16:51:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 66899,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 434,
+        "headingText": "\r\n<p>2C25.4 &amp; XH9LV8 Carcinoid or other malignant neuroendocrine neoplasms of bronchus or lung &amp; Neuroendocrine tumour, grade&nbsp;1</p>\r\n<p>2C25.4 &amp; XH51K1 Carcinoid or other malignant neuroendocrine neoplasms of bronchus or lung &amp; Neuroendocrine tumour, grade&nbsp;2</p>\r\n",
+        "timestamp": "2020-11-11T10:29:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 66900,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 435,
+        "headingText": "\r\n<p>&ldquo;Neuroendocrine tumour (NET)&rdquo; is a related term, according to the unifying nomenclature proposed by the International Agency for Research on Cancer (IARC) and the WHO Classification of Tumours Group {30140036}, that includes well-differentiated grade&nbsp;1 (G1) NET and grade&nbsp;2 (G2) NET, which generally correspond to TC and AC, regarded as low-grade and intermediate-grade, respectively.</p>\r\n<p>The terminology &ldquo;well-differentiated neuroendocrine tumour, grades&nbsp;1 and 2&rdquo; is not recommended for lung carcinoid tumours.</p>\r\n",
+        "timestamp": "2020-11-11T10:29:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 66901,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 436,
+        "headingText": "<p>Typical carcinoid; atypical carcinoid</p>",
+        "timestamp": "2021-01-06T17:31:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 66902,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 437,
+        "headingText": "\r\n<p>Pulmonary carcinoids may be central or peripheral lesions, with TC and AC situated more often centrally and peripherally, respectively {18473355; 10508944; 11828290; 29770932; 11070119}. Different location of carcinoids could imply different precursors and/or development mechanisms {31300474; 23383615}.</p>\r\n",
+        "timestamp": "2020-11-11T10:29:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 66903,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 438,
+        "headingText": "<h5>Signs and symptoms</h5>\r\n<p>Patients with central carcinoids involving segmental and larger airways may present with symptoms related to bronchial obstruction, including cough, wheezing, haemoptysis, and recurrent pneumonia. In addition, symptoms may mimic asthma. At bronchoscopy, central carcinoids appear as endobronchial, polypoid, and hypervascular lesions. Peripheral carcinoids are generally asymptomatic and are typically detected as an incidental finding on chest imaging. Symptoms related to hormone secretion (e.g. carcinoid syndrome or Cushing syndrome) are rare {28238592; 2981373}.</p>\r\n<h5>Imaging</h5>\r\n<p>TCs usually form central nodules or masses with lobulated, well-circumscribed contours. Due to their vascular nature, they show pronounced attenuation increase on contrast-enhanced CT. Calcification resulting from stromal ossification is detectable by CT in a minority of cases {11896225; 22021498; 2014296}. When an endobronchial component is present, secondary distal effects can include recurrent pneumonia, atelectasis, bronchiectasis, and hyperlucency on CT {22021498}. Peripheral carcinoids form sharply circumscribed intraparenchymal lesions and are more often atypical. FDG&nbsp;PET usually shows some abnormal uptake in TCs, but with lower average standardized&nbsp;uptake values than other solid lung cancers {17116005; 2014296}. ACs show greater FDG avidity. Both FDG PET and 68Ga-DOTATOC PET (targeting the somatostatin receptor) are useful in the staging of carcinoids, with the highest sensitivity for 68Ga-DOTATOC PET (90% vs 71%) {30855482}.</p>\r\n<h5>Tumour spread</h5>\r\n<p>Distant metastases are rare for TCs (&lt;&nbsp;5%) but are common for ACs (20&ndash;30%) {21043816}. Typical sites of distant metastasis for lung carcinoids include liver, bone, and brain. In particular, brain metastases are present in 20&ndash;30% of patients with stage&nbsp;IV lung carcinoids {25218177; 30923345}. Lung carcinoids also have a propensity to metastasize to unusual sites, including skin, eye, and ovary {30923345}. Regional lymph node metastases occur in approximately 10% and 50% of TC and AC cases, respectively {21043816; 31179077}.</p>",
+        "timestamp": "2021-02-18T17:10:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 66904,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 439,
+        "headingText": "\r\n<p>Pulmonary carcinoids are rare tumours, accounting for &le;&nbsp;2% of all lung malignancies {25646366}. The ratio of TCs to ACs is about 8&ndash;10:1 {10508944; 30414942; 18473355; 30248673; 25564217}. The age-adjusted incidence rate ranges from 0.2 to 2&nbsp;cases per 100&nbsp;000&nbsp;person-years {25646366}. This is slightly higher in women {19247084}, white populations {12569593; 18565894; 17429568}, and in the fifth and sixth decades of life (median age: 45&nbsp;years for TC and one decade later for AC) {22080849; 18491401; 11070119}. Pulmonary carcinoids account for a substantial portion of childhood lung tumours, occurring mostly in late adolescence {19513967; 20620301; 30422774}.</p>\r\n",
+        "timestamp": "2020-11-11T10:29:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 66905,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 440,
+        "headingText": "\r\n<p>No risk factors are recognized for carcinoid tumour. Tobacco smoking has been proposed, but no genetic signature of tobacco damage has so far been recognized, indicating that a link is questionable. Genetic causes include <em>MEN1</em> gene mutations in the setting of hereditary multiple endocrine neoplasia type&nbsp;1, in which ACs are most common.</p>\r\n",
+        "timestamp": "2020-11-11T10:29:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 66906,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 441,
+        "headingText": "<p>Diffuse idiopathic pulmonary neuroendocrine cell hyperplasia is recognized as a preinvasive condition for carcinoids (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/67\" target=\"_blank\">section </a><em>Diffuse idiopathic pulmonary neuroendocrine cell hyperplasia</em>) {21043816; 17099078}, although the rate of progression to carcinoid is presumably low {17400673}. Localized and diffuse neuroendocrine cell hyperplasia can be seen in association with 60&ndash;75% of peripheral carcinoids {7755151; 19723148}. Neuroendocrine cell hyperplasia can be a secondary reaction to airway fibrosis and inflammation, and carcinoids can develop in this setting {19723148; 1280078}. Orthopedia homeobox protein (OTP), a key player in the development of the hypothalamic neuroendocrine system, is expressed in diffuse idiopathic pulmonary neuroendocrine cell hyperplasia and carcinoids, while not in normal neuroendocrine cells {26927888}, suggesting a role for the <em>OTP</em> gene along with deregulated proliferation in the development of pulmonary carcinoids {31597385}.</p>\r\n<p>The distinct epidemiological, clinical, morphological, and molecular profiles of pulmonary carcinoids&nbsp;&ndash; NETs&nbsp;&ndash; versus the high-grade small cell lung carcinoma (SCLC) and large cell neuroendocrine carcinoma (LCNEC)&nbsp;&ndash; neuroendocrine carcinomas (NECs)&nbsp;&ndash; support two separate tumour groups with different carcinogenic processes (see <a style=\"cursor:pointer\" href=\"/attachment/35/307/14462\" target=\"_blank\">#14462</a>). In the uncommon advanced-stage metastatic setting, pulmonary carcinoids can show an increased mitotic count and Ki-67 index compared with the primary tumour {30923345; 31041430}.</p>\r\n<p>Research genomic studies show that pulmonary carcinoids (NETs) have a low mutation rate {24670920; 27873319; 24174329}. Significantly mutated genes include <em>MEN1</em>, <em>EIF1AX</em>, and <em>ARID1A</em> {24670920; 31300474}. Mutations in chromatin-remodelling genes such as those involved in histone methylation and acetylation, as well as members of the SWI/SNF complex, are present in 50% of cases {24670920; 27873319}. Overall, <em>MEN1</em> is the most frequently mutated gene, with somatic mutations in 11&ndash;22% of cases {24670920; 27873319; 24276465; 9361035}. Unlike in SCLC&nbsp;and LCNEC, mutations in the <em>TP53</em> and <em>RB1</em> tumour suppressor genes are extremely rare in pulmonary carcinoids (NETs) {24670920; 27873319}, and the minority of ACs that show <em>TP53</em> mutations lack the smoking-related G&gt;T and C&gt;A transversions typically found in SCLC and LCNEC {10091733}.</p>\r\n<p>Three molecular groups have been identified among lung carcinoids {31431620; 31300474}. All <em>MEN1</em> mutations are found in the group that is enriched for ACs and has high levels of UGT and CYP genes, high levels of <em>ANGPTL3</em> and <em>ERBB4</em>, and low levels of <em>OPT</em> and <em>TTF1</em>. The other two groups consist mostly of TCs: one shows high levels of <em>ASCL1</em> and <em>DLL3</em>, with <em>EIF1AX</em> mutations; the other has low levels of <em>SLIT1</em> and <em>ROBO1</em>, with expression of <em>HNF1A</em> and <em>FOXA3</em>.</p>\r\n<p>A small number of carcinoids (NETs) have unusual genetic findings, with high levels of immune checkpoint receptors and ligands (including PDL1 and CTLA-4) similar to&nbsp;&ndash; or even higher than&nbsp;&ndash; those of LCNEC and SCLC {31431620}. More study is needed to validate and determine the clinical relevance of these genetic findings.</p>",
+        "timestamp": "2021-02-18T17:11:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 66907,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 448,
+        "headingText": "<p>Central carcinoids are well-circumscribed, round to ovoid masses that are often endobronchial and may be pedunculated. Tumours may grow between the cartilaginous plates into adjacent tissues. Peripheral tumours may not be clearly associated with an airway. An endobronchial component can be seen in 50% of cases. By definition, neuroendocrine proliferations &ge; 5 mm are classified as carcinoid tumours, and if &lt; 5 mm they are classified as tumourlets (see <a style=\"cursor:pointer\" href=\"/attachment/35/307/14464\" target=\"_blank\">#14464</a>). TCs are generally smaller than the ACs, but size is not a distinguishing criterion {8045525; 21751183; 31320001}. Carcinoids are grey to yellow and may show haemorrhagic areas. They may be soft or firm and can be hard if they contain bone. Tumours causing bronchial obstruction may be associated with secondary abscesses and/or bronchiectasis.</p>",
+        "timestamp": "2021-02-02T10:56:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 66908,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 442,
+        "headingText": "<p>TCs and ACs are well-differentiated NETs at the level of both tumour architecture and cytological features. However, clinically, TCs are low-grade and ACs are intermediate-grade. Differences are only related to mitosis and/or necrosis. TCs (G1 NETs) have a mitotic count of &lt;&nbsp;2&nbsp;mitoses/2&nbsp;mm<sup>2</sup> and lack necrosis. ACs (G2 NETs) have 2&ndash;10&nbsp;mitoses/2&nbsp;mm<sup>2</sup> and/or may have necrosis, which is usually focal and punctate. See <a style=\"cursor:pointer\" href=\"/chaptercontent/35/307\" target=\"_blank\">section </a><em>Lung neuroendocrine neoplasms: Introduction</em> for details on methods of counting mitoses. Neuroendocrine morphology is defined by organoid patterns of growth with trabecular, rosette formation, insular, palisading, ribbon, follicular, pseudoglandular, or solid arrangements, while true glandular spaces or papillae are uncommon. Oncocytic, clear cell, and melanin-laden carcinoids can occur. Tumour cells are uniform, featuring finely granular nuclear chromatin, moderate to abundant eosinophilic cytoplasm, inconspicuous to variably evident nucleoli, and fine to coarsely granular chromatin texture. Tumour cells are small to intermediate in size and cuboidal to polygonal or fusiform. Fusiform cells are especially seen in peripheral lesions {29770932}. Unlike for SCLC and LCNEC, the combination of carcinoids with adenocarcinoma or squamous cell carcinoma is exceptional {25406425; 25564217; 30140036; 21867986; 25539082; 11070119; 12218575; 24174329; 24670920; 26960398; 29535388; 9706973} [[Travis WD, Brambilla E, Burke AP, et al., editors. WHO classification of tumours of the lung, pleura, thymus and heart. Lyon (France): International Agency for Research on Cancer; 2015. (WHO classification of tumours series, 4th ed.; vol. 7). https://publications.iarc.fr/17.]]. In addition, carcinoid tumours characteristically do not occur in combination with SCLC and LCNEC {25406425; 25564217; 30140036; 21867986; 25539082; 11070119; 12218575; 24174329; 24670920; 26960398; 29535388; 9706973; 26324138} [[Travis WD, Brambilla E, Burke AP, et al., editors. WHO classification of tumours of the lung, pleura, thymus and heart. Lyon (France): International Agency for Research on Cancer; 2015. (WHO classification of tumours series, 4th ed.; vol. 7). https://publications.iarc.fr/17.]].</p>\r\n<h5>Carcinoid tumours&nbsp;/ NETs with elevated mitotic counts and/or Ki-67 proliferation index</h5>\r\n<p>Rare lung carcinoids (NETs) have morphological features of AC but higher mitotic counts (&gt;&nbsp;10&nbsp;mitoses/2&nbsp;mm<sup>2</sup>) than defined in the present WHO classification and/or a higher Ki-67 proliferation index than expected (&gt;&nbsp;30%) {28631159; 27879513; 30485860; 26960398; 31511024}. Genomic analysis is available for only a few such cases, but it supports a relationship with carcinoids rather than SCLC or LCNEC, based on lack of <em>RB1</em> or <em>TP53</em> mutations, low total mutation burden, and/or presence of <em>MEN1</em> mutations {26960398}. These tumours generally correspond to those regarded as grade&nbsp;3 (G3) NETs in the pancreas (PanNET); however, in the lung, more clinical, pathological, and genetic studies are needed to determine how to fit these tumours into the classification. Currently, such tumours are usually classified as LCNEC, but their prognosis has been suggested to be different from that of conventional LCNEC. Until these tumours are better defined, we suggest adding a note stating the presence of histological features of a carcinoid tumour and documenting the mitotic counts and if available the Ki-67 index. The optimal approach to systemic management (e.g. the effectiveness of immunotherapies) needs to be addressed. Careful attention to the method of mitosis counting is needed, as outlined in <a style=\"cursor:pointer\" href=\"/chaptercontent/35/307\" target=\"_blank\">section </a><em>Lung neuroendocrine neoplasms: Introduction</em> , because mitotic counts can be artefactually elevated by failure to adjust for the varying microscope fields of view depending on the microscope manufacturer and model or by lack of a strict definition of a mitotic figure {30140036; 2564592; 8551926; 9706973}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Carcinoid tumours are positive for low-molecular-weight cytokeratins, but they lack reactivity to high-molecular-weight cytokeratins {11567220}. They are strongly reactive for neuroendocrine markers such as chromogranin&nbsp;A, synaptophysin, CD56, and INSM1 {30154579; 28719469; 26482608}. TTF1 tends to be positive in peripheral but negative in central tumours {15257545}.</p>\r\n<p>The proliferation marker Ki-67 is not part of the diagnostic criteria for lung carcinoids, particularly in the distinction of TC from AC {27701763; 22575865}. Although tumours with a Ki-67 index &gt;&nbsp;5% are more likely to be ACs, this is not an absolute cut-off value {28631159}. The main role of Ki-67 is in crushed cytology or biopsy samples to exclude SCLC or LCNEC {15644774}. Further work is needed to address the clinical significance and optimal role of Ki-67 index in the diagnosis and prognostic evaluation of pulmonary carcinoids {29114468; 29802361; 28631159; 31041430; 24518085}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The differential diagnosis of pulmonary carcinoids includes metastatic carcinoids from elsewhere, especially those originating in the gastrointestinal tract {19065104}. Glandular structures are unusual in pulmonary carcinoids but a frequent finding in gastrointestinal carcinoids. Gastrointestinal and pancreatic carcinoids are usually negative for TTF1 but frequently express CDX2 or PAX8 {19065104; 20414099}. Mitotic counts are the most important morphological feature for distinguishing carcinoids from SCLC and LCNEC (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/307\" target=\"_blank\">section </a><em>Lung neuroendocrine neoplasms: Introduction</em>), but they may be difficult to determine in small crushed biopsies. In this setting, Ki-67 plays an important role, because tumours with a high labelling index (&gt;&nbsp;30%) are more likely to be SCLC or LCNEC, and tumours with a Ki-67 proliferation index &lt;&nbsp;30% are more likely to be carcinoids {15644774; 15899778}. The monotonous nuclear appearance of carcinoids may also be seen in salivary gland&ndash;type tumours, metastases of lobular breast carcinoma, paraganglioma, melanoma, and glomus tumours. Salivary gland&ndash;type tumours are usually negative for neuroendocrine markers. Mucoepidermoid carcinomas usually express p40 and have intracytoplasmic mucin. Adenoid cystic carcinomas show a dual pattern of cellular staining with CAM5.2, which is strong in ductal/luminal cells but weak in myoepithelial cells, and both p63 and S100 are positive in myoepithelial cells. Adenoid cystic carcinomas also have <em>MYB</em>-<em>NFIB</em> or <em>MYBL1</em>-<em>NFIB</em> fusions by FISH in 60&ndash;90% of cases (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/58\" target=\"_blank\">section </a><em>Adenoid cystic carcinoma of the lung</em>). Breast carcinomas may be positive for ER and/or PR, and they are usually negative for neuroendocrine markers. However, positive staining for ER and PR has been reported in some carcinoid tumours {19061285}. Metastases from thyroid carcinoma are positive for TTF1, thyroglobulin, and PAX8. The distinction of carcinoids from paragangliomas is based mainly on morphology; although paragangliomas are pancytokeratin-negative, so are about 20% of carcinoid tumours, and S100-positive sustentacular cells can be seen in both entities {21043816} [[Travis WD, Nicholson AG, Geisinger KR, et al. Tumors of the lower respiratory tract. Washington, DC: American Registry of Pathology; 2019. (AFIP atlas of tumor pathology, series 4; fascicle 29).]]. Melanomas are positive for melanoma markers (HMB45, S100, and SOX10) but negative for neuroendocrine markers, although melanocytic carcinoids may express both {17825057}. Glomus tumours are positive for SMA but negative for neuroendocrine markers.</p>\r\n<h5>Diagnosis in non-resection specimens and metastases</h5>\r\n<p>The diagnosis of carcinoid tumours can be readily made on the basis of small biopsies and cytology specimens in most cases. The distinction between TC and AC cannot be made in small biopsies, and resection is required.&nbsp;In this setting, the term &ldquo;carcinoid tumour NOS&rdquo; is recommended. If a few mitotic figures and/or foci of punctate necrosis are identified, this may be suggestive of AC, and this can be mentioned in a comment. If there is any doubt about the diagnosis of carcinoid tumour, immunohistochemistry should be performed. Ki-67 may be helpful in the distinction from SCLC and LCNEC, particularly in small crushed specimens. Notably, in metastatic carcinoids, Ki-67 may occasionally exceed 30%, usually in hotspots {30923345}.</p>\r\n<p>In pathological specimens from patients with metastatic pulmonary carcinoids, the term &ldquo;metastatic carcinoid tumour NOS\" (NET) should be used rather than specifying TC or AC, because proliferation rates may vary at different sites and many core biopsies from metastatic tumours may be too small to allow accurate mitotic counts per 2&nbsp;mm<sup>2</sup> {30923345; 31041430}. These tumours should be reported as &ldquo;metastatic carcinoid tumour NOS&rdquo;, and the mitotic counts and presence of any necrosis should be documented. Metastatic pulmonary carcinoid (NET) patients are often treated by medical oncologists who also manage gastrointestinal/pancreatic carcinoids (NETs), where Ki-67 is used to stratify patients for therapeutic decisions {29891520; 30248673; 29777005}. In summary, documenting Ki-67 may be useful in metastatic pulmonary carcinoids (NETs), although mitotic counts and necrosis remain the main diagnostic criteria in primary resected tumours. In metastatic pulmonary carcinoids (NETs), further study is needed to determine the role of Ki-67 in classification, prognostication, and therapeutic management {29891520; 30771520; 30248673; 29777005; 28813709; 25646366; 30923345}.</p>",
+        "timestamp": "2021-02-18T17:14:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 66909,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 443,
+        "headingText": "\r\n<p>The hallmark cytological features of carcinoid tumours include bland, monotonous nuclei with smooth contours and salt-and-pepper chromatin (indicating a mixture of fine and larger granules), lacking prominent nucleoli. In smears, cells tend to be loosely cohesive, yielding single-cell patterns or loosely cohesive groups. Cells are frequently plasmacytoid {8693889; 19856422}. Rosettes may be preserved in some specimens and should not be mistaken for glandular structures of adenocarcinoma. In air-dried Diff-Quik preparations, cytoplasm may be inconspicuous, and dispersed naked nuclei may mimic a haematolymphoid neoplasm. Spindle cell carcinoids in cytological preparations may mimic a mesenchymal neoplasm. TCs and ACs generally cannot be reliably distinguished in cytological preparations. In some cases, carcinoids enter in the differential diagnosis with small cell carcinoma or LCNEC. This distinction can be aided by Ki-67, with a low index (&lt;&nbsp;30%) supporting the diagnosis of carcinoid tumour {12931551}, although some cytological fixatives inhibit Ki-67 reactivity and this may be a pitfall {31398281}. There are no established criteria for distinguishing TC from AC on the basis of Ki-67 in cytology specimens.</p>\r\n",
+        "timestamp": "2020-11-11T10:29:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 66910,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 444,
+        "headingText": "\r\n<p>There is no recognized molecular test for lung carcinoids.</p>\r\n",
+        "timestamp": "2020-11-11T10:29:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 66911,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>A NET with a well-differentiated architecture, often consisting of organoid nesting, trabeculae, rosettes, and palisading arrangements</li>\r\n<li>Tumour cells with moderate to abundant cytoplasm with an eosinophilic hue and finely granular nuclear chromatin</li>\r\n<li>Low-grade TC has &lt;&nbsp;2&nbsp;mitoses/2&nbsp;mm<sup>2</sup> and lacks necrosis, and intermediate-grade AC has 2&ndash;10&nbsp;mitoses/2&nbsp;mm<sup>2</sup> and/or foci of necrosis</li>\r\n<li>The number of high-power fields used for mitosis counting should be adjusted to achieve 2&nbsp;mm<sup>2</sup> according to the microscope field of view, which varies depending on the microscope manufacturer and model (see <a style=\"cursor:pointer\" href=\"/attachment/35/331/19646\" target=\"_blank\">#19646</a>Table A)</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Neuroendocrine marker immunoexpression (chromogranin&nbsp;A, synaptophysin, CD56, INSM1)</li>\r\n<li>Ki-67 can be useful in distinguishing carcinoids from high-grade LCNEC and SCLC, particularly in small crushed biopsies</li>\r\n<li>Although Ki-67 may be useful in lung carcinoids (NETs) and documenting it in reports is considered desirable, the primary diagnostic criteria for separating these tumours remain mitotic count per 2&nbsp;mm<sup>2</sup> and/or presence of necrosis</li>\r\n<li>In non-resection specimens, including biopsies of metastases, the diagnosis of &ldquo;carcinoid tumour NOS&rdquo; rather than TC or AC is recommended, with specification of the mitotic counts per 2&nbsp;mm<sup>2</sup>, presence or absence of necrosis (including extent&nbsp;&ndash; punctate or extensive), and (if available) Ki-67 index; the distinction between TC and AC requires a resection specimen</li>\r\n</ul>",
+        "timestamp": "2021-03-04T15:59:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 66912,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 445,
+        "headingText": "\r\n<p>The eighth edition of the TNM classification applies to carcinoids with the same criteria as for other lung cancers. Multiple carcinoids in the setting of diffuse idiopathic pulmonary neuroendocrine cell hyperplasia should be considered separate primaries and not metastases, mentioning T&nbsp;size of the largest (m) {27448762; 26723244}. However, some overlaps in combined stages and subcategories have been reported with this new edition regarding disease-specific survival {30414942}.</p>\r\n",
+        "timestamp": "2020-11-11T10:29:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 66913,
+        "bookId": 35,
+        "chapterId": 69,
+        "headingId": 446,
+        "headingText": "<p>The distinction between TC and AC is a critical prognostic factor {29908980; 29733505}, as evidenced by the 5-year survival rates of 82&ndash;100% and 50&ndash;68%, respectively. Mitotic counts are the most important predictor of outcome {10508944; 9706973}. In addition, 10&ndash;23% of TCs and 40&ndash;50% of ACs have nodal metastases {28813709}. Age, sex, TNM stage according to the eighth-edition TNM classification, existence of previous malignancies, peripheral location, and Eastern Cooperative Oncology Group (ECOG) performance status are additional reported prognostic factors, as are surgery and regional lymph node examination {31759223; 30414942; 25866229; 25564217; 31094922; 29022070}. Lymph node metastasis as part of TNM staging is an independent prognostic factor associated with worse survival for TCs &gt;&nbsp;20 mm and ACs {29908980}, encouraging radical lymphadenectomy during surgical resections, particularly for ACs {24603194}. Spread through airspaces is correlated with high tumour stage, positive nodal status, high Ki-67 index, presence of angioinvasion, and shorter overall survival and time to progression {31201506; 31121325}. Ki-67 index values of &ge;&nbsp;5% and &ge;&nbsp;10% were reported as prognostic factors in TCs and ACs, respectively {30031097; 28631159}, but more data are needed to define their use in practice {26561395; 29869902}.</p>\r\n<p>Several prognostic markers have been identified in research settings, but they are not yet recommended for routine clinical practice because they have not been tested in comparison with the above parameters. High coexpression of CD44 and nuclear OTP, mainly observed in TCs, was associated with a higher recurrence-free survival rate {27873160}, whereas low CD44 and nuclear OTP expression and high RET expression were associated with a low 20-year survival rate {23444222}.</p>\r\n<p>The expression of SSTR2A could predict response to somatostatin analogue therapy, and high levels of phosphorylated mTOR and S6K were associated with a better response to rapalogues in experimental models, but these have yet to be validated in the clinical setting {25252622}. Preliminary data suggest that methylation of the <em>MGMT</em> promoter could be a predictive factor of objective response to temozolomide-based therapies, in addition to its prognostic significance {29150792}.</p>",
+        "timestamp": "2021-02-02T10:56:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

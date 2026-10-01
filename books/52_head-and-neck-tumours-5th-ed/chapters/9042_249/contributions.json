@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 116174,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 576,
+        "headingText": "\r\n<p>T-lymphoblastic leukaemia/lymphoma (T-ALL/LBL) is a neoplasm of precursor T&nbsp;lymphocytes.</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 116175,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 577,
+        "headingText": "\r\n<p>9837/3 T-lymphoblastic leukaemia/lymphoma</p>\r\n<p>9837/3 Cortical T-lymphoblastic leukaemia/lymphoma</p>\r\n<p>9837/3 Medullary T-lymphoblastic leukaemia/lymphoma</p>\r\n<p>9837/3 Early thymic precursor T-lymphoblastic leukaemia/lymphoma</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 116176,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 578,
+        "headingText": "\r\n<p>2A71 &amp; XH7T28 Precursor T-lymphoblastic neoplasms &amp; Precursor T-cell lymphoblastic leukaemia</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 116177,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> precursor T-lymphoblastic leukaemia/lymphoma.</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 116178,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 580,
+        "headingText": "\r\n<p>Cortical T-ALL/LBL; medullary T-ALL/LBL; early T-precursor (ETP) T-ALL/LBL (see <a style=\"cursor:pointer\" href=\"/attachment/52/249/25340\" target=\"_blank\">#25340</a>Table&nbsp;10.05)</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 116179,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 581,
+        "headingText": "\r\n<p>T-ALL/LBL occurs in the mediastinum and lymph nodes, and rarely at extranodal sites such as the orbit, tonsils, or nasopharynx.</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 116180,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients with anterior mediastinal (thymic) masses present with dyspnoea, superior vena cava syndrome, and pleural and/or pericardial effusions {31567129}.</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 116181,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 583,
+        "headingText": "<p>T-ALL/LBL affects children and young adults mostly, and older adults less often. The M:F&nbsp;ratio is 2.5&ndash;3:1 {26991119; 16173961; 31567129; 26585702}. T-lymphoblastic lymphoma accounts for 1&ndash;2% of cases of non-Hodgkin lymphoma overall. It is the second most common non-Hodgkin lymphoma in children and adolescents, comprising 15&ndash;20% of paediatric non-Hodgkin lymphoma cases {26991119; 16173961} and 85&ndash;90% of cases of lymphoblastic lymphomas. T-lymphoblastic leukaemia represents approximately 15% of paediatric cases of acute lymphoblastic leukaemia and 25% of adult cases [[Swerdlow SH, Campo E, Harris NL, et al., editors. WHO classification of tumours of haematopoietic and lymphoid tissues. Lyon (France): International Agency for Research on Cancer; 2017. (WHO classification of tumours series, 4th rev. ed.; vol. 2). https://publications.iarc.who.int/556.]]. Most patients in the USA are White, but Asian people and Black people are also affected {26991119}.</p>",
+        "timestamp": "2023-11-26T16:49:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 116182,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 116183,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 585,
+        "headingText": "\r\n<p>T-ALL/LBL shows diverse genetic changes {23023710}. The karyotype is abnormal in about 60% of cases, with structural and numerical changes, including translocations and partial losses of chromosomes, and others {21689091; 31567129}. Translocations often involve TR (TCR) genes (35&ndash;50%) (TCR&alpha;/&delta; at 14q11, TCR&beta; at 7q34, TCR&gamma; at 7p14) {21112032; 18691165; 26276771}, or less commonly <em>KMT2A</em> (<em>MLL</em>) and <em>ABL1</em> {27451956}. The del(9p21) alteration involving <em>CDKN2A</em> and <em>CDKN2B</em> is seen in 60&ndash;70% of cases, causing cell-cycle disruption.</p>\r\n<p>At the molecular level, <em>NOTCH1</em> mutation is most common (~60% of cases, targeting <em>MYC</em>), followed by <em>FBXW7</em> mutation (~30%, negative regulator of NOTCH1) {33467425}. Other common mutations include those in <em>PHF6</em> (~20% of cases), <em>PTEN</em> (~15% of cases), <em>LEF1</em> (~10%), and <em>ILR7R</em> (~10% of cases). Mutations typically associated with acute myeloid leukaemia (AML), such as <em>FLT3</em> internal tandem duplication (ITD), <em>EZH2</em>, <em>RAS</em>, and <em>RUNX1</em> have been described more in ETP T-ALL/LBL {26276771; 26991119; 21112032}. Mutations unique to T-lymphoblastic lymphoma involve those in <em>PAPPA</em>, <em>NFIL3</em>, and <em>ZNF91</em> {25160903}.</p>\r\n<p>Genetic and epigenetic changes lead to activation of the NOTCH, JAK/STAT, and/or PI3K/AKT/mTOR pathways {31570389; 33152759; 21112032; 18691165; 26216196; 28872614; 33227818}.</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 116184,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 592,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 116185,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 586,
+        "headingText": "<p>Normal architecture is typically effaced by a diffuse proliferation of medium-sized neoplastic cells with round to convoluted nuclei, fine chromatin, small or absent nucleoli, and scant cytoplasm, with frequent mitoses and often with tingible-body macrophages imparting a starry-sky pattern {31567129; 26991119}. Large cells showing prominent nucleoli may be seen {21451365}. Cases with rearrangement of <em>PDGFRA</em>, <em>PDGFRB</em>, or FGFR genes, or with <em>PCM1</em>::<em>JAK2</em>, often associated with eosinophilia, are classified separately.</p>\r\n<p>Neoplastic cells variably express T-cell&ndash;associated markers (CD1a, CD2, CD3, CD5, CD7), CD10, CD34, CD43, CD45, and CD99 and usually express TdT. CD33 and KIT (CD117) are detectable in a subset of cases. TdT is absent in 3&ndash;4% of cases at diagnosis {23702731}. CD79a is expressed in 12% of cases {21451365}. Lymphoblasts can be CD4+/CD8+ (double-positive), CD4&minus;/CD8&minus; (double-negative), or positive for CD4 or CD8 only. Surface CD3+ cases usually express TCR&alpha;&beta;, and rarely TCR&gamma;&delta; {31567129}. Ki-67 is high (often &gt;&nbsp;90%). The immunophenotype simulates stages of intrathymic T-cell differentiation {31567129; 28538509; 21112032; 7564526}. T-lymphoblastic lymphoma has a more mature (cortical) immunophenotype than T-lymphoblastic leukaemia, with some overlap (see <a style=\"cursor:pointer\" href=\"/attachment/52/249/25340\" target=\"_blank\">#25340</a>Table&nbsp;10.05) {22994934}.</p>\r\n<p>The differential diagnosis includes indolent T-lymphoblastic proliferation, a rare self-limited disorder characterized by a polyclonal proliferation of TdT+ T&nbsp;cells, usually small in size, distorting but not obliterating the normal architecture {10435569; 11224614; 24618611; 23574769}. Indolent T-lymphoblastic proliferation usually involves head and neck sites and rarely occurs in association with Castleman disease, follicular dendritic cell sarcoma, and other neoplasms {23574769; 23060347; 30222603; 29143359}. LMO2 is usually positive in T-ALL/LBL but negative in indolent T-lymphoblastic proliferation {32526041}.</p>",
+        "timestamp": "2024-01-18T14:30:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 116186,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 587,
+        "headingText": "\r\n<p>Lymphoblasts are typically agranular, with delicate chromatin, round or notched nuclei, and occasionally vacuolated cytoplasm {31567129}.</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 116187,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 588,
+        "headingText": "\r\n<p>TRB and/or TRG (encoding TCR&beta; and TCR&gamma;) are almost always clonally rearranged; concurrent clonal IGH is found in as many as about 20% of cases {19147408; 10419594; 10361104}.</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 116188,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> diffuse proliferation of T-lineage lymphoblasts; negative for myeloperoxidase, without strongly expressed B-lineage markers.</p>\r\n<p><em>Desirable:</em> demonstration of monoclonal TR (TCR) rearrangement; abnormal cytogenetic or/and mutation profiles consistent with those of T-ALL/LBL.</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 116189,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 589,
+        "headingText": "\r\n<p>Although staging is not typically used for risk stratification of T-ALL/LBL, almost all patients have stage&nbsp;III or&nbsp;IV disease {10627444; 26585702} using Lugano or Murphy staging {7414342}. Bone marrow involvement is common, and CNS involvement occurs in 5&ndash;10% of cases {10627444; 28427520; 16173961}.</p>\r\n<p>Staging requires history, physical examination, and laboratory and imaging studies. Ancillary testing such as flow cytometry, karyotyping, and molecular genetic analysis may be required to assess peripheral blood, cerebrospinal fluid, and bone marrow involvement {26991119; 28427520}. Although arbitrary, marrow involvement of &ge;&nbsp;25% is usually used as the threshold for diagnosing T-lymphoblastic leukaemia {7414342}.</p>\r\n",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 116190,
+        "bookId": 52,
+        "chapterId": 249,
+        "headingId": 590,
+        "headingText": "\r\n<p>T-ALL/LBL is treated with acute lymphoblastic leukaemia&ndash;type intensive chemotherapy; high-risk patients receive allogeneic stem cell transplantation {28427520}. The complete remission rate is 76&ndash;93%. The 5-year event-free survival rate is 75&ndash;90% in paediatric patients but 50&ndash;70% in older patients. Relapse occurs in one&nbsp;third of patients and predicts a poor outcome {26991119; 10627444; 26585702}. ETP T-ALL/LBL is still considered an aggressive disease in adult patients {26991119; 26747249; 28605290}. Minimal measurable disease detectable after induction/consolidation is a significant risk factor for relapse {28427520; 26679753}. Mutations of <em>NOTCH1</em>/<em>FBXW7</em> combined with wildtype RAS/<em>PTEN</em> are associated with a favourable outcome {29051182; 24166518}. PI3K activation and <em>KMT2A</em> (<em>MLL</em>) disruption predict an unfavourable outcome. Targeted therapy modulating the NOTCH, PI3K/AKT/mTOR, JAK/STAT, and MAPK pathways, as well as immunotherapy, may prove valuable. Mortality is associated with tumour progression, complications of therapy, and (rarely) second malignancies {10627444; 26585702}.</p>",
+        "timestamp": "2023-10-02T12:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

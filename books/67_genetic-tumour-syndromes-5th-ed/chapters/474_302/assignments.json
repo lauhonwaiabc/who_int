@@ -1,0 +1,71 @@
+[
+  {
+    "pkroleId": 202,
+    "bookId": "67",
+    "roleid": 209,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2173,
+        "lastname": "Cree",
+        "firstname": "Ian A.",
+        "initials": "",
+        "email": "",
+        "roleid": 209,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 204,
+    "bookId": "67",
+    "roleid": 211,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4139,
+        "lastname": "Khoury",
+        "firstname": "Joseph D.",
+        "initials": "JD",
+        "email": "",
+        "roleid": 211,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 205,
+    "bookId": "67",
+    "roleid": 212,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2184,
+        "lastname": "Siebert",
+        "firstname": "Reiner",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 3693,
+        "lastname": "Kratz",
+        "firstname": "Christian P.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 3834,
+        "lastname": "Godley",
+        "firstname": "Lucy A.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      }
+    ]
+  }
+]

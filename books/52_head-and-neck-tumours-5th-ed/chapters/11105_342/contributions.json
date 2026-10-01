@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 116363,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 576,
+        "headingText": "<p>Lymphoepithelial cyst is a benign acquired epithelial-lined cystic lesion associated with dense lymphoid stroma.</p>",
+        "timestamp": "2024-01-18T15:34:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 116364,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 577,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 116365,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 578,
+        "headingText": "\r\n<p>DA05.Y Lymphoepithelial cyst of mouth</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 116366,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Acceptable:</em> benign lymphoepithelial cyst, HIV-related sialadenitis.</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 116367,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 116368,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 581,
+        "headingText": "<p >Lymphoepithelial cysts affect multiple locations, including the parotid, lateral neck, and oral cavity, particularly the floor of the mouth {13608417; 28936296}.</p>",
+        "timestamp": "2023-11-21T12:54:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 116369,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 582,
+        "headingText": "\r\n<p>In immunocompetent individuals, lymphoepithelial cysts present as a unilateral painless mass. Patients with HIV infection may develop bilateral disease {3393663; 31456841}.</p>\r\n<h5>Imaging</h5>\r\n<p>Imaging is useful for confirming their simple cystic nature and delineating their anatomical location. Lymphoepithelial cysts appear as well-circumscribed T2-hyperintense and T1-weighted low-signal lesions on MRI, which may demonstrate thin peripheral postcontrast enhancement. On ultrasound, the lesions are hypoechoic/anechoic with well-defined margins. In HIV-related cases, enlarged adenoidal tissue and cervical lymph nodes are also often noted.</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 116370,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 583,
+        "headingText": "\r\n<p>Lymphoepithelial cysts arise over a broad age range, with a peak in the fourth to fifth decade of life {7535539; 9496829; 20303054}. They have classically been described in AIDS and are reported to occur in as many as 6% and 10% of HIV-positive adults and children, respectively {1407984; 3393663}. Cystic lesions with a similar morphology also occur in middle-aged immunocompetent individuals and patients with Sj&ouml;gren syndrome {10335942; 31456841}.</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 116371,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 584,
+        "headingText": "\r\n<p>The etiology is unclear. It has been postulated that lymphoepithelial cysts arise from epithelial inclusions located in intraparotid and/or periparotid lymph nodes that subsequently undergo cystic dilatation due to obstruction {3393663; 6809660}.</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 116372,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 585,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 116373,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 592,
+        "headingText": "\r\n<p>Lesions may be unilocular or multilocular, with a mean size of 25&nbsp;mm {29491615}.</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 116374,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 586,
+        "headingText": "<p>Lymphoepithelial cyst is a dilated cystic structure lined by squamous epithelium with variable degrees of maturation and/or columnar epithelium. The epithelium lacks cytomorphological evidence of malignancy. The cyst wall exhibits a dense lymphoid infiltrate with well-developed lymphoid follicles, and the epithelium is commonly permeated by lymphocytes. In the setting of AIDS and Sj&ouml;gren syndrome, the background parenchyma may show features of lymphoepithelial sialadenitis. In HIV-positive patients, immunoreactivity for the major HIV-1 core protein p24 can be seen in follicular dendritic cells and interfollicular multinucleated giant cells within the lymphoid stroma adjacent to the cyst {8394048; 28963391}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Branchial cleft cysts and isolated lymphoepithelial cysts have striking overlapping morphology. Because both lesions have a benign clinical course, the distinction between them has no practical implications. Cystic salivary gland neoplasms with tumour-associated lymphoid proliferation can mimic a lymphoepithelial cyst.</p>",
+        "timestamp": "2024-01-18T15:35:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 116375,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 587,
+        "headingText": "\r\n<p>Smears show a mixed lymphoid population and rare benign epithelial elements in a background of proteinaceous fluid {2294703; 10450101; 12357495}.</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 116376,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 588,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 116377,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> dilated cystic structure; benign epithelial lining; dense lymphoid stroma in cyst wall.</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 116378,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 116379,
+        "bookId": 52,
+        "chapterId": 342,
+        "headingId": 590,
+        "headingText": "\r\n<p>Surgical management is curative for isolated lesions, whereas cysts in the setting of AIDS resolve with highly active antiretroviral therapy (HAART) or radiotherapy {21237435; 23532713; 31456841}.</p>",
+        "timestamp": "2023-10-02T13:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

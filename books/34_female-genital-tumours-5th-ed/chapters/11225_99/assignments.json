@@ -1,0 +1,80 @@
+[
+  {
+    "pkroleId": 81,
+    "bookId": "34",
+    "roleid": 37,
+    "roleTitle": "Responsible Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2008,
+        "lastname": "Oliva",
+        "firstname": "Esther",
+        "initials": "",
+        "email": "",
+        "roleid": 37,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 83,
+    "bookId": "34",
+    "roleid": 39,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2797,
+        "lastname": "McKenney",
+        "firstname": "Jesse K.",
+        "initials": "",
+        "email": "",
+        "roleid": 39,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 84,
+    "bookId": "34",
+    "roleid": 40,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2367,
+        "lastname": "Oda",
+        "firstname": "Yoshinao",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2745,
+        "lastname": "Vang",
+        "firstname": "Russell",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2778,
+        "lastname": "Park",
+        "firstname": "Kay J.",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2798,
+        "lastname": "Ayhan",
+        "firstname": "Ayse",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      }
+    ]
+  }
+]

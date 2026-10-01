@@ -1,0 +1,89 @@
+[
+  {
+    "pkroleId": 202,
+    "bookId": "67",
+    "roleid": 209,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4139,
+        "lastname": "Khoury",
+        "firstname": "Joseph D.",
+        "initials": "JD",
+        "email": "",
+        "roleid": 209,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 204,
+    "bookId": "67",
+    "roleid": 211,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2184,
+        "lastname": "Siebert",
+        "firstname": "Reiner",
+        "initials": "",
+        "email": "",
+        "roleid": 211,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 205,
+    "bookId": "67",
+    "roleid": 212,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3810,
+        "lastname": "de Jong",
+        "firstname": "Daphne",
+        "initials": "D",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 4610,
+        "lastname": "Natkunam",
+        "firstname": "Yasodha",
+        "initials": "Y",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 4647,
+        "lastname": "Hodge",
+        "firstname": "Jennelle C.",
+        "initials": "JC",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5002,
+        "lastname": "Gratzinger",
+        "firstname": "Dita",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5003,
+        "lastname": "Pan-Hammarström",
+        "firstname": "Qiang ",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 126456,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 764,
+        "headingText": "\r\n<p>Blastic plasmacytoid dendritic cell neoplasm (BPDCN) is a haematological neoplasm consisting of immature cells with plasmacytoid dendritic cell (pDC) differentiation, characterized by a high frequency of cutaneous involvement and systemic dissemination.</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 126457,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 765,
+        "headingText": "\r\n<p>9727/3 Blastic plasmacytoid dendritic cell neoplasm</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 126458,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 766,
+        "headingText": "\r\n<p>2A60.5 Blastic plasmacytoid dendritic cell neoplasm</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 126459,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 767,
+        "headingText": "\r\n<p><em>Not recommended:</em> blastic NK-cell lymphoma; agranular CD4+/NK leukaemia; blastic NK leukaemia/lymphoma; agranular CD4+/CD56+ haematodermic neoplasm/tumour.</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 126460,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 768,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 126461,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 769,
+        "headingText": "\r\n<p>The skin is most commonly involved (in 60&ndash;95% of cases) {29795241; 31869411; 31243042; 26056082; 32336414}, followed by bone marrow and lymph nodes {23940084; 31243042}. A leukaemic phase is common, with or without tissue involvement {34884997}.</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 126462,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 770,
+        "headingText": "\r\n<p>Patients most commonly present with skin lesions, which vary in size, colour (violaceous, contusiform, brown, xanthochromic), and form (solitary or multiple patches, plaques, and nodules). The lesions are usually non-pruritic, and they tend to involve the upper thorax, head and neck, and upper extremities {31243042; 24441662; 32336415}. Mucosal lesions are uncommon but may be identified, particularly in the oral cavity {23646868}.</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 126463,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 771,
+        "headingText": "\r\n<p>BPDCN is rare, with an estimated annual incidence of 0.04&nbsp;cases per 100&nbsp;000&nbsp;individuals in the USA {30189324}. Although the disease can affect all ages, and a bimodal age distribution pattern has been observed {30189324}, it most commonly occurs in elderly men in the seventh decade of life (median age: 62&ndash;70&nbsp;years), with an M:F&nbsp;ratio of 4&ndash;6:1 {34884997; 31869411; 33027528; 31243042; 31261288; 29795241; 20663945}.</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 126464,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 772,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 126465,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 773,
+        "headingText": "\r\n<p>BPDCN cells derive from resting, non-activated pDCs with aberrant activation of the NF-&kappa;B pathway {31811114; 24504027}, and they appear to have defective type&nbsp;I interferon signalling postulated to be related to E-cadherin expression {34081040}. The E-box transcription factor TCF4 (previously E2-2) plays an obligatory role as a master regulator in BPDCN cells under the control of the BET protein BRD4 {27846392}.</p>\r\n<p>In the Japanese population, translocation of 8q24 (the <em>MYC</em> locus), most frequently with 6p21 (the <em>RUNX2</em> locus), is found in 38% of patients and is associated with immunoblastoid cytomorphology and MYC overexpression {29795241}.</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 126466,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 780,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 126467,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 774,
+        "headingText": "<p>In the skin, the neoplastic infiltrate of BPDCN is usually centred in the dermis with extension to subcutaneous tissue, while sparing the epidermis and adnexal structures {19956058}. BPDCN is characterized by a diffuse monotonous infiltrate of medium-sized immature blastic cells. These cells usually have scant cytoplasm, eccentric nuclei with slightly irregular nuclear contours, fine chromatin, and one to several inconspicuous nucleoli. In some cases, neoplastic cells may have an immunoblastoid morphology, whereas in others they may have lymphoid features. Mitotic figures are variable, and necrosis can be present {31869411; 30350260}. Intratumoural erythrocyte extravasation is a consistent finding.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>CD123 (IL-3RA) expression is a characteristic feature of BPDCN, as is strong, uniform expression of TCF4 {27846392; 31261288}. Although rare, some cases of BPDCN lacking CD123 or other markers (e.g. CD5, CD56) have been reported {29795241; 34884997}. Other commonly expressed pDC antigens include TCL1, CD2AP, SPIB, CD303, CD304, E-cadherin, and MX1 {24441662; 18218851; 12576313; 23165482; 34081040}. BPDCN cells are usually positive for CD4, CD56, and HLA-DR. The Ki-67 proliferation index is typically high. Absence of strong expression of lymphoid or myeloid lineage&ndash;specific markers is expected, specifically CD3, CD14, CD19, lysozyme, and myeloperoxidase. CD1a, CD15, CD25, CD34, CD41, CD64, CD113, and MNDA are usually negative {32241840; 29795241; 26796502; 31869411}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>A subset of acute myeloid leukaemia (AML) may show clinical, morphological, and immunophenotypic overlap with BPDCN, including high-level coexpression of CD4, CD56, and CD123. Demonstration of TCF4, CD303, and/or TCL1 expression in this context, coupled with an absence of strong expression of lineage-specific markers, usually helps establish the diagnosis of BPDCN.</p>",
+        "timestamp": "2025-04-25T08:34:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 126468,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 775,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 126469,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 776,
+        "headingText": "\r\n<p>No specific molecular or cytogenetic tests are required to make a diagnosis of BPDCN.</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 126470,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 779,
+        "headingText": "<p><em>Essential:</em> immature cells with blastoid morphology and pDC differentiation as per the criteria in <a style=\"cursor:pointer\" href=\"/attachment/64/172/36273\" target=\"_blank\">#36273</a>Box&nbsp;6.03 .</p>\r\n<p><em>Desirable:</em> absence of lymphoid or myeloid lineage markers; absence of CD34 expression; high Ki-67 proliferation index.</p>",
+        "timestamp": "2025-05-06T15:31:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 126471,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 777,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 126472,
+        "bookId": 64,
+        "chapterId": 172,
+        "headingId": 778,
+        "headingText": "\r\n<p>There is no significant difference in outcomes between patients who present with skin-only BPDCN and those who present with BPDCN with systemic involvement {31243042}. Treatment with CD123-targeted agents has improved overall response rates and overall survival {31018069; 34226167}; however, treatment with cytotoxic chemotherapy remains a mainstay, in combination with targeted therapy {35061885}.</p>",
+        "timestamp": "2025-04-25T08:33:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

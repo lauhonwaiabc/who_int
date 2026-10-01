@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 137,
+    "bookId": "52",
+    "roleid": 156,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2997,
+        "lastname": "Nosé",
+        "firstname": "Vania",
+        "initials": "V",
+        "email": "",
+        "roleid": 156,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 138,
+    "bookId": "52",
+    "roleid": 157,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 157,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 139,
+    "bookId": "52",
+    "roleid": 158,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3169,
+        "lastname": "Vigneswaran",
+        "firstname": "Nadarajah",
+        "initials": "",
+        "email": "",
+        "roleid": 158,
+        "position": 0
+      }
+    ]
+  }
+]

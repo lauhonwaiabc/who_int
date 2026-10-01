@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 119959,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Follicular lymphoma (FL) is a neoplasm of germinal-centre (GC) B&nbsp;cells with varying proportions of centrocytes and centroblasts or large transformed cells and at least a partially follicular growth pattern. In rare cases with an entirely diffuse growth pattern, the neoplastic cells should still show GC B-cell morphology and immunophenotype.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 119960,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9690/3 Follicular lymphoma</p>\r\n<p>9698/3 Follicular large B-cell lymphoma</p>\r\n<p>9690/3 Follicular lymphoma with uncommon features</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 119961,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A80.Z Follicular lymphoma, unspecified</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 119962,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Acceptable:</em> FL&nbsp;grades&nbsp;1, 2, 3A, and&nbsp;3B; <em>BCL2</em>-R&ndash;negative CD23-positive follicle centre lymphoma (for some cases of FL with dominant diffuse growth pattern only).</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 119963,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 705,
+        "headingText": "<p>Classic FL (cFL); FL with unusual cytological features (uFL); FL with a predominantly diffuse growth pattern (dFL); follicular large B-cell lymphoma (FLBCL)</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T13:08:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 119964,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>FL predominantly affects lymph nodes. Involvement of the spleen and bone marrow is frequent. Rarely, the Waldeyer ring and peripheral blood are involved. More commonly affected sites include the gastrointestinal tract (often with mesenteric lymph node involvement), soft tissue, thoracic vertebrae, breast, and ocular adnexa. Primary testicular FL is very rare and has also been reported in children, in addition to adults {12194999; 17592272; 22215099}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 119965,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Most patients have widespread disease at diagnosis, including peripheral and central (abdominal and thoracic) lymphadenopathy and splenomegaly. Most patients present with peripheral lymphadenopathy, but any nodal group can be involved. A pure extranodal presentation is uncommon but can occur in almost any extranodal site {19065102; 29108238; 30935940}. The bone marrow is involved in 40&ndash;70% of cases. Only 10&ndash;15% of patients present in stages&nbsp;I or&nbsp;II {33249059}. Patients are often asymptomatic, and B&nbsp;symptoms (e.g. fever and weight loss) are uncommon. Waxing and waning of involved sites without therapy may occur. The most common clinical course follows a chronic relapsing pattern. Early treatment does not appear to prolong survival {12932382; 26729445; 24602760; 33249059}.</p>\r\n<p>In&nbsp;situ follicular B-cell neoplasm, paediatric-type FL, and duodenal-type FL are considered to be distinct entities, separate from FL.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 119966,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>FL accounts for 10&ndash;20% of all lymphomas {27618563}, with the highest proportions reported in the USA and western Europe, and the lowest in eastern Europe and Asia {9739436}. During the period 1993&ndash;2008, the incidence significantly increased in certain parts of the world, such as Japan {24245986}. Furthermore, studies have shown differences in regional distribution/incidence. In Canada, a higher incidence of FL was noted within cities or regions with high herbicide use, primary mining, and a strong manufacturing presence, supporting a possible role of environmental factors {31548815}. The latter is also suggested by a higher incidence in cities and near industrial regions {19840879; 31548815}. The incidence is lower in low- and middle-income countries than in high-income countries {27354024}. FL is two to three times as frequent in White populations as it is in Black populations in the USA {32586570}. FL predominantly affects adults (median age: 65&nbsp;years) {25151959}. There is no sex predilection {27618563}, although a slight male predominance has been observed {32586570}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 119967,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>The etiology is unknown. Agricultural exposure to malathion {30928843} and dichlorodiphenyltrichloroethane (DDT) {24762670} (but none of other pesticide chemical groups {30880337}), as well as cigarette smoking in women {25174024}, occupational spray painting {25174024}, HCV infection {17119031; 27783921}, and Sj&ouml;gren syndrome {18263783; 25174024} have been associated with an increased risk. For younger patients, obesity {17484069; 25174024} and having a first-degree relative with FL {19438470; 26442613}, non-Hodgkin lymphoma {25174024}, or haematological malignancies {31395603} have been reported as risk factors {17484069; 25174024}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 119968,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 710,
+        "headingText": "\r\n<h5>FL with BCL2 rearrangement</h5>\r\n\r\n<p>Lymphomagenesis is a multi-hit process (see <a style=\"cursor:pointer\" href=\"/attachment/63/132/31359\" target=\"_blank\">#31359</a>Table&nbsp;4.26) escalating over many years {34176559}. The t(14;18)(q32;q21) rearrangement involving IGH and <em>BCL2</em>, and leading to constitutive expression of <em>BCL2</em>, is considered the initiating event in FL and is found in 85&ndash;90% of cFL cases {26621338; 3284977}. It arises from a V(D)J recombination error in a bone marrow pre-B&nbsp;cell. Rare translocation variants involve IGL instead of IGH. Whereas pre-B or na&iuml;ve B&nbsp;cells harbouring t(14;18) have not been documented to date, differentiated t(14;18)+ memory-like B-cell clones can be detected in the peripheral blood at very low levels (~1&ndash;100&nbsp;cells per 1&nbsp;million B&nbsp;cells) in &gt;&nbsp;70% of healthy adults. Among them, the vast majority will never develop FL {17043145; 1766674; 18648002}. The frequency of detection of t(14;18)+ cells in peripheral blood increases with age, and t(14;18)+ cells have been detected at higher levels in individuals with environmental exposures such as pesticides {16621961; 19506050}. These cells may also be found in the bone marrow, spleen, and lymph nodes of the same healthy individuals {19506050; 25384217}. In reactive lymph nodes, t(14;18)-positive B&nbsp;cells accumulate within GCs as centrocytes with a very low proliferation rate {24677543; 25384217} and a high propensity to re-enter the GC and undergo iterative cycles of GC reaction, increasing the risk of accumulation of genomic instability {25384217}. Circulating and resident clones usually carry IgM, whereas the translocated allele is often class-switched to IgG (known as the allelic paradox) {17043145}. Significant somatic hypermutation is also observed on the translocated allele, with an evolution pattern suggesting that activation-induced cytidine deaminase (AID) expression is maintained or reactivated {19506050; 25384217}. N-glycosylation sites are introduced within the V&nbsp;regions, an event not commonly encountered in normal B&nbsp;cells {31932843}.</p>\r\n<p>The dominant t(14;18)+ clone detected in healthy individuals may rarely develop into overt FL as long as a decade later, especially if the clonal cell frequency is &gt;&nbsp;10<sup>&minus;4</sup>; such individuals have a 23-fold higher risk of subsequent FL {25549806; 19202129; 21183699; 22585168; 24162788; 24687831}. These clones have been demonstrated to carry some mutations commonly found in established FL, such as <em>CREBBP</em> {24362818; 25713363; 26307535; 29568095; 31932843; 36504425}. In&nbsp;situ follicular B-cell neoplasm and partial involvement of lymph nodes by FL may constitute intermediate steps of morphological progression in tissues.</p>\r\n<p>Phylogenetic trees suggest divergent subclonal evolution from a common precursor cell driving FL at diagnosis and relapses. Although linear clonal evolution has been described, most FL cases follow a branching evolution. Multiple subclones can readily be identified in early disease phases {23297126} and provide the substrate for progression and transformation {24811163; 25527563; 38156368}. The sequences of events driving progression are largely unknown. Copy-number alterations are found in &gt;&nbsp;90% of FLs. They encompass chromosomal gains of&nbsp;18, X, 1q, 2p, and&nbsp;7, and less commonly of&nbsp;17q, 6p, 8q, and&nbsp;12q {8049424; 8104536; 14732921; 30446494}. Deletions mainly include 6q and 1p, and less frequently 10q and&nbsp;9p {30446494}. The 1p36 region, containing <em>TNFRSF14</em>, is frequently deleted {33211828}. Copy-neutral loss of heterozygosity of <em>TNFRSF14</em> is also observed. The evolution of FL is accompanied by gene mutations that occur over time {24362818; 27959929; 33512481}. The most frequent mutations are found in <em>KMT2D</em> and <em>CREBBP</em>; these represent early driver events and induce loss-of-function of chromatin modifiers {26366712}. Epigenetic dysregulation comprises gain-of-function mutations of <em>EZH2</em>, encoding an H3K27 methyltransferase and (less frequently) mutations affecting <em>ARID1A</em>, <em>MEF2B</em>, and <em>KMT2C</em> {29422597}. Loss-of-function mutations and deletions of <em>TNFRSF14</em>&nbsp;foster an FL-supporting milieu {33512481}. <em>BCL2</em> mutations are frequent, owing to AID activity {28247997}. Other, less common, gene mutations are found in <em>STAT6</em>, <em>CARD11</em>, <em>FOXO1</em>, <em>BTK</em>, <em>TNFAIP3</em>, <em>NOTCH1</em>, <em>NOTCH2</em>, and <em>RRAGC</em>, all leading to perturbed intracellular signalling. Some recurrent mutations in genes such as <em>RRAGC</em> and <em>CTSS</em> are uncommon in lymphoma types other than FL {24362818; 32330455}. A number of genetic alterations are more often seen in transformed lymphoma than in preceding FL, such as inactivation of <em>TP53</em> and <em>CDKN2A</em>, as well as <em>MYC</em> translocations {9531609; 9616165; 12077300; 26307535; 27959929; 31844144}.</p>\r\n\r\n<h5>FL with BCL6 rearrangement</h5>\r\n\r\n<p>Rearrangements affecting chromosomal band&nbsp;3q27, resulting in structural <em>BCL6</em> alterations, can be found in any type of FL. Their frequency is 15&ndash;20% in FL with <em>BCL2</em> rearrangement (FL-<em>BCL2</em>-R) {26481245; 27959929} and is higher (~35%) in FLs lacking <em>BCL2</em> rearrangement {26307535; 27959929}. In FLBCL, structural alterations involving BCL6 can be found in about 40% of cases, reflecting their closer biological relationship to diffuse large B-cell lymphoma (DLBCL) {15277222; 33704790}.</p>\r\n\r\n<h5>FL lacking BCL2 and BCL6 rearrangements</h5>\r\n\r\n<p>The pathogenesis of FL lacking <em>BCL2</em> rearrangement is less well known and probably follows different pathways. These cases account for 10&ndash;15% of cFL cases {26481245}; they are more common in FLBCL {11986240; 33704790}, dFL {26965583}, primary testicular FL {17592272}, and paediatric-type FL {31187530}. FLs lacking <em>BCL2</em> and <em>BCL6</em>&nbsp;rearrangements show evidence of somatic hypermutation, similarly to cells having transited through the GC. However, in contrast to FL-<em>BCL2</em>-R, which expresses GC B-cell signatures, the gene expression profile of FLs lacking <em>BCL2</em>&nbsp;rearrangement is reminiscent of late/post-GC cells {19471018}. Thus, the postulated normal counterpart is a late GC B-cell that has not yet exited the GC stage of differentiation. Overall, FLs lacking <em>BCL2</em> rearrangement display copy-number alterations and mutations similar to those in FL-<em>BCL2</em>-R, but with different frequencies {28824170; 33211828}. The most frequently mutated gene is <em>STAT6</em> (&gt;&nbsp;50%), which may play a pivotal role in some tumours {35851155}, especially in localized stages {35816682}. <em>KMT2D</em> is less often mutated (&lt;&nbsp;50%) {33211828}. FL with a predominantly diffuse growth pattern lacking <em>BCL2</em> rearrangement frequently presents as limited-stage disease, often involving the inguinal lymph nodes, showing frequent coexpression of CD23 (correlated with <em>STAT6</em> mutation), 1p36 deletion, and <em>TNFRSF14</em>&nbsp;mutation {26965583; 32506320; 33211828}.</p>\r\n\r\n<h5>Tumour microenvironment</h5>\r\n\r\n<p>The tumour microenvironment plays a crucial role in FL pathogenesis. FL cells reside within specific niches with a spatial architecture formed by follicular dendritic cells (FDCs), T&nbsp;follicular helper (TFH) cells, and different subsets of tumour-associated macrophages {15548776; 33694181}. Compared with normal lymph nodes, the GCs of FL contain increased numbers of CD4+ T-cell subsets, such as TFH cells and T&nbsp;regulatory (Treg) cells. Immune signalling pathways are skewed towards T-cell exhaustion and tolerance, leading to tumour immune evasion {33694181}.</p>\r\n<p>Some tumour microenvironment components such as TFH cells can directly stimulate the growth and survival of the neoplastic cells {25733581}. Non-immune components, such as endothelial cells, fibroblasts, and mesenchymal stromal cells, are also involved in the aberrant ecosystem {22289889}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T12:12:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 119969,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>The cut surface of lymph nodes involved by FL may display a vaguely nodular pattern. Splenic involvement by FL shows a uniform expansion of the white pulp, usually without obvious involvement of the red pulp.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 119970,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 711,
+        "headingText": "\r\n<h5>Classic follicular lymphoma</h5>\r\n\r\n\r\n<h6>Cellular composition</h6>\r\n\r\n<p>Follicles are organoid structures comprising neoplastic cells placed in a specific microenvironment composed of T&nbsp;cells, macrophages, and FDCs. cFL resembles GCs in its cellular composition, with a mixture of centrocytes and centroblasts&nbsp;/ large transformed cells. Centrocytes and centroblasts are located mostly within the neoplastic follicles but are often found between and outside the follicles as well. Centrocytes are slightly larger than small lymphocytes and have angulated, elongated, twisted, or cleaved nuclei. The chromatin is less dense than in small lymphocytes, and the nucleoli are inconspicuous. The cytoplasm is scant, pale, and barely discernible in routinely stained sections. Centroblasts are large cells (usually at least three times the size of normal lymphocytes) but may sometimes be smaller (termed small centroblasts), depending in part on the staining/fixation. Their cytoplasm is usually fairly visible and lightly amphophilic (basophilic with Giemsa). The nuclei appear round or oval with vesicular chromatin and multiple peripherally located nucleoli. Transformed/blastic cells with similar chromatin and a single large nucleolus are immunoblasts and may be found as a minority of blasts. Rare cases harbour intrafollicular giant or multinucleated cells resembling HRS cells {26481245}.</p>\r\n\r\n<h6>Patterns</h6>\r\n\r\n<p>Most cases present with at least a focal follicular pattern identifiable by morphology, but recognition may be facilitated by immunohistochemistry. Spread beyond the nodal capsule is often associated with sclerosis or diffuse areas.</p>\r\n<p>The size and shape of the follicles vary substantially between cases. There is also variability in the extent and distribution of the follicles, which are commonly distributed over the whole lymph node, leading to effacement of the architecture (including a lack of sinuses). The follicles are often crowded, with a back-to-back arrangement. Most neoplastic follicles display attenuated or absent mantle zones, with poorly defined borders. They usually lack polarization of the GCs, i.e. the physiological demarcation between a centroblast-rich (dark) and a centrocyte-rich (light) zone is absent. The starry-sky pattern imparted by tingible-body macrophages, characteristic of the dark zone of reactive GCs, is usually not seen. Some cases show irregular or serpiginous follicles, which may resemble progressively transformed GCs and create a floral pattern. Involvement of the interfollicular regions is a frequent finding and should not be confused with a diffuse growth pattern. Interfollicular FL cells may be smaller, have less irregular nuclei, and show phenotypic differences (CD10/BCL6 downregulation, CD23 upregulation) as compared with the intrafollicular FL cells. Their detection can be facilitated by immunohistochemistry.</p>\r\n<p>Marginal zone differentiation of FL presents with pale, marginal zone&ndash;like areas, mostly found at the outer borders of the follicles and containing lymphoma cells with a monocytoid appearance. Plasmacytic differentiation, characterized by the presence of light chain&ndash;restricted plasmacytoid cells mainly seen in interfollicular areas, is uncommon {19838161; 31688142}. Rarely, the neoplastic cells may assume a signet-ring cell appearance, in the form of either a clear cytoplasmic vacuole or a homogeneous eosinophilic globule (Russell-body type) compressing the nucleus {28038709}. Occasional cases, frequently with mesenteric and retroperitoneal presentation, may show widespread sclerosis in interfollicular regions. Some foci of sclerosis or hyalinosis may also be present within neoplastic follicles resembling the hyaline-vascular follicles of Castleman disease {28873356; 31688142}. Some cases may contain abundant intrafollicular amorphous deposits that stain strongly for CD10 and CD20, resulting from the shedding of cell membrane materials {12175094}. Massive necrosis can be found in rare cases but does not necessarily indicate transformation.</p>\r\n<p>In the bone marrow, paratrabecular infiltration is typical for FL, although interstitial areas may be also involved. Neoplastic follicles containing FDC are rarely encountered in the bone marrow. Lymphoma cells are usually smaller than regular centrocytes, resembling the FL cells found in the interfollicular regions of lymph nodes.</p>\r\n\r\n<h6>Immunophenotype</h6>\r\n\r\n<p>FL cells express B-cell antigens (CD19, CD20, CD22, CD79a, PAX5), in addition to surface immunoglobulin, mostly of the IgM isotype, with or without IgD; expression of IgG is less frequent, and IgA is rare. They also express the GC-associated markers CD10, BCL6, GCET1, HGAL (GCET2), LMO2, AID, MEF2B, and stathmin, with variable sensitivity and specificity of each of the markers {20697248; 23509938; 25203428; 29309299}. Expression of CD10 and BCL6 may vary between neoplastic follicles and is usually stronger in the neoplastic follicles than in interfollicular FL cells. It may be absent in FL cells located in areas of marginal zone differentiation, peripheral blood, or bone marrow {21502424}. In the rare CD10/BCL6-negative cases, the diagnosis of FL should be supported by the use of other GC-associated markers, which are commonly negative in other small B-cell lymphomas.</p>\r\n<p>In most cases, the neoplastic follicles express BCL2, thus allowing their delineation from reactive follicles. The frequency of BCL2-negative cases is low in cFL (~15%). The lack of BCL2 expression may be due to mutations in <em>BCL2</em>&nbsp;that affect the BCL2 epitope recognized by the antibody used. If BCL2 is negative, it is recommended to use additional anti-BCL2 antibodies directed against different epitopes. Rare FL cases remain negative to multiple antibodies used, which usually corresponds to a lack of <em>BCL2</em> rearrangement {23642737}. In some cases, the abundance of intrafollicular BCL2-positive T&nbsp;cells may hamper the assessment of BCL2 expression in neoplastic FL cells. Comparison with corresponding CD3 immunohistochemistry may avoid misinterpretation. IRF4 (MUM1) is mostly negative in FL, except in occasional cases {25149549; 26481245; 17138820}, which may be centroblast-rich and also lack CD10 and BCL2 expression {17296585; 18500267}. The neoplastic follicles show highly variable Ki-67 proliferation indexes, but most cases have a proliferation index much lower than that of reactive follicles {17664481}. The Ki-67+ cells are sometimes concentrated in the peripheral portions of the neoplastic follicles. Polarization characteristic of reactive follicles is not seen. A high proliferation index is often seen in cases with high numbers of centroblasts, although it can sometimes also be seen in centrocyte-rich cases {16224216; 26481245}. CD30 positivity can be rarely observed in neoplastic follicles, some of which may also show HRS-like cells {26481245}. Expression of CD5 or PD1 has rarely been reported {18479731; 31953940}. EBV association can be detected exceptionally {27982024}. FDCs in the neoplastic follicles usually express CD21, CD23, and/or CD35 but are often irregularly distributed. However, diminished expression of these markers may occur even in obviously follicular areas {21401698}.</p>\r\n\r\n<h6>Grading</h6>\r\n\r\n<p>Traditionally, FL has been graded as FL1, FL2, FL3A, and FL3B, according to the quantification of absolute numbers of centroblasts&nbsp;/ transformed cells in 10&nbsp;consecutive high-power fields (HPFs) {6376315}. However, there is accumulating evidence of the lack of reproducibility in counting centroblasts, and thus of grading itself {29472351; 30918966}. Many studies have indicated no statistically significant difference in clinical outcomes between FL1, FL2, and FL3A, which are treated similarly in modern clinical trials {31339826; 29856692; 28976863; 30184451; 29472351}. Furthermore, there is compelling evidence that FL3A is biologically related to FL1/2, with similar immunohistochemical and genetic profiles {29567771; 27117536; 34334687} and frequent coexistence in the same affected lymph node.</p>\r\n<p>At present, there is no definitive evidence to support the distinction between FL1, FL2, and FL3A, and hence to mandate grading. FL1/2 and FL3A together constitute the cFL subtype, which is defined by a mixture of centrocytes and centroblasts in various proportions, but in which centrocytes must be unequivocally present. The vast majority (90%) of FLs are cFLs {22126847}, in which centrocytes are often the predominant cell population. If centrocytes are scarce, FLBCL must be excluded, and additional tissue may be required to clarify the subtype. Grading is nevertheless considered optional. If required by local clinical practice, it should be performed using conventional criteria, i.e. by counting or estimating the absolute number of centroblasts in neoplastic follicles per HPF of 0.159&nbsp;mm in diameter and 0.458&nbsp;mm<sup>2</sup> in area (see <a style=\"cursor:pointer\" href=\"/attachment/63/388/39804\" target=\"_blank\">#39804</a>Table&nbsp;A in the foreword of this volume for HPF conversion). FL1/2 cases contain 0&ndash;15&nbsp;centroblasts, and FL3A cases contain &gt;&nbsp;15&nbsp;centroblasts per HPF of 0.159&nbsp;mm in diameter and 0.458&nbsp;mm<sup>2</sup> in area {6376315; 3530348}. FL3 can be further subdivided according to the presence/absence of centrocytes, with centrocytes still present in FL3A but absent in FL3B (now termed FLBCL) {11986240}. Rare cases of FL with a prominent diffuse pattern and an increased number of centroblasts (consistent with FL3A) have been reported, and such cases were designated as DLBCL in the previous (revised fourth) edition {27117536}. Currently, it is uncertain whether such cases should be classified as FL or DLBCL. In such cases, individual treatment choices should be made in multidisciplinary conference settings, taking into consideration clinical, laboratory, and imaging parameters. However, the presence of diffuse areas composed entirely or predominantly of large cells warrants a diagnosis of DLBCL.</p>\r\n<p>The reliability of subtyping/grading is highly dependent on adequate sampling. Accurate subtyping cannot be performed on FNAs and may be difficult or unreliable on core needle biopsies. Therefore, an excisional biopsy is strongly recommended for primary diagnosis. For small biopsies with no discernible follicular component but displaying features of cFL, a diagnosis of &ldquo;FL, likely cFL&rdquo; is advised.</p>\r\n\r\n<h5>FL with unusual cytological features</h5>\r\n\r\n<p>In rare cases, FL may be composed of predominantly medium-sized cells with immature or blastoid chromatin. Other infrequent morphologies include large cells with cleaved/irregular nuclei (large centrocytes) {29170017; 34334687}. These uncommon morphologies often present with particular features that deserve optional specifications related to cytology, morphology, phenotype, proliferation, or genetics {34334687}. They display higher Ki-67 proliferation and IRF4 (MUM1) expression in a higher proportion of cells. Furthermore, the frequency of <em>BCL2</em> rearrangement is lower. Their diagnosis may require negative <em>IRF4</em> FISH testing if IRF4 (MUM1) protein is strongly expressed. Although still largely unknown, the prognosis of these cases may differ from that of cFL {34334687}. Because the data currently available on these uncommon morphologies are limited, the prognostic impact remains to be ascertained {34334687}. The distinction of uFL will allow such data to be collected in the coming years, for the purposes of better risk stratification.</p>\r\n\r\n<h5>FL with a predominantly diffuse growth pattern</h5>\r\n\r\n<p>A diffuse FL subtype was initially described as being characterized by a predominantly diffuse growth pattern, CD23 expression, and absence of t(14;18)(q32;q21) {18978208; 26965583; 33211828}. In such cases, a diffuse pattern is supported by the absence of demonstrable FDCs, although FDC remnants may be present in residual small follicles (microfollicles). The cell population should be composed of a vast majority of centrocytes, except in residual follicles. BCL2 immunohistochemistry is often weak to absent, especially in remnant follicles. Sclerosis and interstitial fibrosis may be observed. dFL mainly occurs in the inguinal region and may form large tumour masses, but infrequently it disseminates. Patients often present with limited-stage disease and have a favourable prognosis {18978208; 26965583; 33211828}. Neoplastic cells are usually positive for CD10 and CD23, but CD10 expression may be absent. Although not specific, mutations in <em>STAT6</em> are more frequently observed in inguinal dFL than in cFL {26965583; 33211828}. Of note, a partly diffuse (sometimes extensive) growth pattern is a regularly encountered feature in FL in general {26621338; 28824170; 29193015; 33211828}. Therefore, a definite diagnosis of dFL should not be made on limited biopsy material, including core needle biopsy samples.</p>\r\n\r\n<h5>Follicular large B-cell lymphoma</h5>\r\n\r\n<p>FLBCL (formerly FL3B) is commonly regarded as a particular subtype of FL with a close clinical and biological relationship to DLBCL {11986240; 21659362; 27117536; 29567771; 34334687; 35021600}. FLBCL is defined by the presence of a follicular pattern with follicles composed of sheets of centroblasts and an absence of centrocytes. <em>BCL2</em>&nbsp;translocation is uncommon {21658612}. FLBCL rarely coexists with cFL but frequently coexists with DLBCL. Because of the extreme rarity of pure FLBCL {11986240; 15277222; 27117536; 29472351; 34334687}, the possibility of concurrent DLBCL must be excluded by careful sampling. Therefore, a definitive diagnosis of this entity should not be made on a core needle biopsy. A presumptive diagnosis of FLBCL should prompt additional investigations, such as <em>BCL6</em>&nbsp;or <em>MYC</em> rearrangement {27117536; 29567771; 34334687}. <em>IRF4</em> FISH analysis is required if IRF4 (MUM1) protein is strongly expressed, to exclude large B-cell lymphoma with <em>IRF4</em> rearrangement.</p>\r\n\r\n<h5>Differential diagnosis</h5>\r\n\r\n<p>Florid follicular hyperplasia can pose problems in the distinction from FL. Generally, follicles in florid follicular hyperplasia are widely spaced, of uneven size and shape, and contain prominent GCs with polarization and tingible-body macrophages. The GC cells are negative for BCL2 expression, and the Ki-67 proliferation index is high in florid follicular hyperplasia. It occasionally may show a clonal CD10+ population by flow cytometry, which should not be considered sufficient evidence of malignancy. Rare FL may harbour tingible-body macrophages and show BCL2 negativity that may suggest benign follicular hyperplasia. Using different BCL2 antibodies (corresponding to different clones) may be useful, because BCL2 protein may not be detectable in some FLs due to mutations in <em>BCL2</em>. The presence of B&nbsp;cells of GC phenotype (positive for CD10, HGAL, or MEF2B) in interfollicular areas favours a diagnosis of FL. A low Ki-67 proliferation index would favour a diagnosis of FL. Furthermore, a lack of polarization (evidenced by morphology and Ki-67) argues against a reactive lesion. In some cases, FISH (<em>BCL2</em>, <em>BCL6</em>, and IGH) and/or clonality (IGH and IGK) studies may be needed.</p>\r\n<p>FL cases with marginal zone differentiation or plasmacytoid cells may mimic nodal marginal zone lymphoma (NMZL) with a predominant nodular growth pattern and/or NMZL with extensive follicular colonization. The distorted architecture of the follicles and the presence of BCL2-negative, CD10/BCL6-positive intrafollicular cells favour the diagnosis of NMZL. It should be noted that CD10 expression (in isolation) does not exclude a diagnosis of NMZL. The expression of MNDA or IRTA1 favours a diagnosis of NMZL {24925224; 19474799}. In some cases, the histophenotypical distinction between FL and NMZL may be impossible; in such cases, the presence of <em>BCL2</em> translocation favours a diagnosis of FL, although its absence does not totally rule this out. More extensive genetic analyses may also aid in the differentiation of difficult cases {33311649}.</p>\r\n<p>A floral pattern in FL can mimic progressive transformation of CGs. BCL2 expression may be difficult to interpret, owing to the mixing of mantle cells displaying strong BCL2 positivity with FL cells expressing BCL2 at lower levels.</p>\r\n<p>FL cases harbouring CD30+ HRS-like cells may raise the suspicion of classic Hodgkin lymphoma, which can be ruled out by the atypical morphology of the surrounding lymphoid cells. However composite tumours comprising classic Hodgkin lymphoma and FL do rarely occur {34265801}.</p>\r\n<p>Large B-cell lymphoma with <em>IRF4</em> rearrangement must be ruled out in cases composed of centroblasts or medium-sized blastoid cells with a partly follicular pattern {26416032}, especially in children and young adults. This requires IRF4 (MUM1) testing by immunohistochemistry. If IRF4 (MUM1) is strongly and uniformly expressed, FISH studies for <em>IRF4</em>&nbsp;translocation should be considered.</p>\r\n&nbsp;",
+        "timestamp": "2024-05-14T16:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 119971,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>Cytological preparations of lymph nodes reveal typical centroblasts and centrocytes. The diagnosis of FL can be suspected if centrocytes constitute most of the cell population and macrophages are rare. However, an unequivocal diagnosis of FL should not be made on the basis of cytology alone. Cytological aspirates of lymph nodes may be used in assessing recurrence, especially when used in combination with flow cytometric analysis. It may also be a surrogate for assessing transformation in a context of strong clinical suspicion, especially in severely ill patients with poorly accessible sites.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 119972,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>IG heavy chain (IGH) and light chain (IGK, IGL) genes are monoclonally rearranged in FL, which allows its distinction from reactive follicular hyperplasia. Multiplex PCR reactions using BIOMED-2 primer sets detect clonal rearrangements in &gt;&nbsp;90% of FL cases when primers targeting IGH and IGK are included. When only IGH assays are used, clonal rearrangements may be missed {21030528; 17170731; 21790530}.</p>\r\n<p>Investigation of IGH::<em>BCL2</em> translocation may be applied in the diagnostic workup of suspected BCL2 immunohistochemistry&ndash;negative FL or dFL and to support the distinction of FL from other small B-cell lymphomas, such as NMZL. In these settings, analysis of <em>BCL6</em> translocation may have added value. FISH testing of <em>BCL2</em>, <em>BCL6</em>, and <em>IRF4</em> is recommended to distinguish unusual cases of IRF4 (MUM1)-expressing FL and FLBCL from large B-cell lymphoma with <em>IRF4</em> rearrangement {23108024; 21658612}.</p>\r\n<p>Next-generation sequencing is currently not recommended in the routine workup of FL, since the mutation profile of FL shares considerable overlap with other lymphoma entities.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 119973,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> B-cell lymphoma composed of varying proportions of centrocytes and/or centroblasts&nbsp;(large transformed cells), with a dominance of centrocytes in the overwhelming majority of cases; immunophenotype compatible with a germinal-centre B-cell origin, with positivity for markers such as CD10, BCL6, MEF2B, GCET1, HGAL (GCET2), or LMO2.</p>\r\n<p><em>Desirable:</em> at least partly follicular growth pattern; <em>BCL2</em> or <em>BCL6</em> rearrangements and/or a lack of <em>IRF4</em> rearrangement (in equivocal cases).</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 119974,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Staging is performed using the Lugano classification, a modification of the Ann Arbor staging system {27574190}. A complete blood count and peripheral blood smear are required. Assessment of bone marrow involvement with a bone marrow biopsy is recommended, especially when the results would alter case management. Bone marrow aspiration has a lower yield, because of the difficulty in aspirating cells from the paratrabecular locations. Conventional imaging tools such as CT are useful in assessing the degree of lymphadenopathy and the extent of disease. FDG&nbsp;PET has the potential to upstage 10&ndash;45% of early-stage patients to advanced-stage disease {18295982; 27560022; 30446493}, and therefore is recommended. Functional imaging is also useful in identifying patients with suspected transformation {19139176}. Biopsies are needed for confirmation and should be directed to the site of the greatest FDG avidity.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 119975,
+        "bookId": 63,
+        "chapterId": 132,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>cFL is an indolent disease {33249059}, with a median survival time of &gt;&nbsp;17&nbsp;years with current therapies {32139690}. Progression occurs continuously over time, with no plateau in the survival curves {32678074}. The prognosis of FL is closely related to the disease extent at diagnosis. FLIPI, a modification of the International Prognostic Index (IPI), has a prognostic impact on outcome {15126323; 32678074}, which remains significant in the rituximab era {16690968; 23041589}. FLIPI uses five independent adverse predictors: age &gt;&nbsp;60&nbsp;years, haemoglobin &lt;&nbsp;12&nbsp;g/dL, elevated serum LDH, Ann Arbor stage&nbsp;III/IV (disseminated disease in the Lugano system), and &gt;&nbsp;4 involved nodal areas. The presence of 0&ndash;1, 2, and 3&ndash;5 of these factors defines low-risk, intermediate-risk, and high-risk disease, respectively. In patients with progression within 24&nbsp;months after diagnosis or first-line immunochemotherapy (POD24), 5-year overall survival is significantly worse {26124482; 27418643; 31300404}.</p>\r\n<p>Other prognostic indexes, such as FLIPI-2 and PRIMA-PI, are not commonly used in daily practice, because their performance has not been sufficiently validated {29666118; 31814159}. A clinicogenetic risk model based on the mutation status of seven genes combined with FLIPI and Eastern Cooperative Oncology Group (ECOG) performance status (m7-FLIPI) for patients treated with immunochemotherapy has been established and awaits further independent validation {26256760; 28784599; 33512481}.</p>\r\n<p>The occurrence of <em>EZH2</em> mutations tends to have a favourable prognostic impact on patients treated with immunochemotherapy (excluding bendamustine-based treatment) {28247997; 28411252; 26256760} and may predict response to EZH2 inhibition {33035457}. An association with adverse outcome has been suggested for <em>TP53</em> mutations, 2p&nbsp;gain, 9p21&nbsp;deletion, or 17p&nbsp;deletion {18628487; 20884631; 21941365; 26256760; 28247997; 30446494}. FL with double-hit <em>BCL2</em> and <em>MYC</em> rearrangements behaves more aggressively {28984304; 33964277; 34155628; 34334687}.</p>\r\n<p>Gene expression and immunohistochemistry studies have examined the prognostic relevance of tumour microenvironment immune components, with no clear consensus as yet {28414090; 29296835; 31461379}. A gene expression signature related to dark-zone centroblasts was shown to be associated with poor outcomes under some, but not all, explored treatments {29422597; 29475724; 28414090; 33512481; 34991156}. The prognostic value of high Ki-67 expression has not been clarified to date, although a trend towards unfavourable evolution was observed, even in centrocyte-rich FL {25149549; 26481245}. Overall, the prognostic value of genomic alterations, gene expression, and immunohistochemical markers currently remains controversial because of the lack of comprehensive validation, and their impact on treatment decisions in individual patients and outside clinical trials remains unanswered.</p>\r\n<p>Histological transformation of FL to DLBCL occurs at a risk of 1&ndash;3% per year {17485708; 18838711; 23897955; 30078408}. The median time to transformation is 2.5&ndash;4.1&nbsp;years {18838711; 23897955}. Various clinical parameters, including a high FLIPI score and resistance to first-line therapy, have been reported as risk factors for transformation {28782811; 32954916}, but reliable immunological or genetic predictive biomarkers have not been identified thus far. Transformation is often associated with a rapid increase in serum LDH, discordant progression of localized lymphadenopathy, new development of unusual extranodal disease (e.g. liver, bone, muscle, brain), new development of B&nbsp;symptoms, hypercalcaemia, and high uptake values on FDG&nbsp;PET imaging {16721817; 18838711; 19139176; 23897955}.</p>",
+        "timestamp": "2024-03-12T10:24:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

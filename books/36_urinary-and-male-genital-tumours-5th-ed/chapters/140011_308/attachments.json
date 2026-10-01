@@ -1,0 +1,47 @@
+[
+  {
+    "pkattachmentId": 38560,
+    "bookid": 36,
+    "chapterId": 308,
+    "fileId": 21805,
+    "type": "Figure",
+    "diagnosis": "Tc-99m bone scan in a patient with <em>BRCA2</em>&nbsp;mutation&nbsp;and prostate cancer.",
+    "title": "",
+    "legend": "Homologous recombination repair&ndash;deficient tumours are overrepresented in patients presenting with advanced prostate cancer.",
+    "source": "Steven Christopher Smith",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/36/308/21805.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/36/308/thumb_21805.jpg"
+  },
+  {
+    "pkattachmentId": 38561,
+    "bookid": 36,
+    "chapterId": 308,
+    "fileId": 21806,
+    "type": "Figure",
+    "diagnosis": "Prostate carcinoma",
+    "title": "",
+    "legend": "Lumbar spine metastasis from homologous recombination repair&ndash;deficient prostate carcinoma.",
+    "source": "Steven Christopher Smith",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/36/308/21806.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/36/308/thumb_21806.jpg"
+  },
+  {
+    "pkattachmentId": 38895,
+    "bookid": 36,
+    "chapterId": 308,
+    "fileId": 32091,
+    "type": "Figure",
+    "diagnosis": "Cell response to DNA damage with and without BRCA mutation",
+    "title": "",
+    "legend": "<strong>A</strong>&nbsp;Normal cell. If a normal cell incurs DNA damage, PARP binds to the site (left) and recruits DNA repair proteins. If PARP is inhibited (right), BRCA will be activated and the cell will still survive. <strong>B</strong>&nbsp;Cancer cell with BRCA mutation. A cell with BRCA mutation does not activate the downstream effectors, but if PARP is still functional (left), it can assist in the repair process. If a cell has BRCA mutation and PARP is inhibited (right), a synthetic lethality occurs. The cell cannot survive, and it dies. DSB, double-strand break; HR, homologous recombination; PARP, poly (ADP-ribose) polymerase; PARPi, PARP inhibitor; SSB, single-strand break.",
+    "source": "Check with Mark Rubin for acknowledgement - ?Alexander von Werdt and Mariana Ricca",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/36/308/32091.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/36/308/thumb_32091.jpg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "pkattachmentId": 80643,
+    "bookid": 67,
+    "chapterId": 9,
+    "fileId": 37424,
+    "type": "Figure",
+    "diagnosis": "Colonic juvenile polyp",
+    "title": "",
+    "legend": "An example from a patient with juvenile polyposis syndrome, characterized by an increase of the stroma and cystically dilated crypts.",
+    "source": "",
+    "copyright": "Brosens&nbsp;LAA",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/67/9/37424.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/67/9/thumb_37424.jpg"
+  },
+  {
+    "pkattachmentId": 81021,
+    "bookid": 67,
+    "chapterId": 9,
+    "fileId": 37422,
+    "type": "Table",
+    "diagnosis": "",
+    "title": "<p class=\"TableTitle\"><strong>Box&nbsp;2.01</strong> Diagnostic criteria for juvenile polyposis syndrome <span class=\"Ref-ID\">{1656892;2853131}</span></p>",
+    "legend": "",
+    "source": "",
+    "copyright": "WHO Classification of Tumours Editorial Board. Digestive system tumours. Lyon (France): International Agency for Research on Cancer; 2019. (WHO classification of tumours series, 5th ed.; vol. 1). https://publications.iarc.who.int/579.",
+    "tablehtml": "<table class=\"MsoNormalTable\" style=\"width: 450.75pt; background: #DAEEF3; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;\" border=\"0\" width=\"601\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\r\n<td style=\"width: 450.75pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"601\">\r\n<p class=\"TableText\">1. A minimum of 3&ndash;5 juvenile polyps of the colorectum</p>\r\n</td>\r\n</tr>\r\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\r\n<td style=\"width: 450.75pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"601\">\r\n<p class=\"TableText\">2. Juvenile polyps throughout the gastrointestinal tract</p>\r\n</td>\r\n</tr>\r\n<tr style=\"mso-yfti-irow: 2; page-break-inside: avoid;\">\r\n<td style=\"width: 450.75pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"601\">\r\n<p class=\"TableText\">3. Any number of juvenile polyps with a family history of juvenile polyposis</p>\r\n</td>\r\n</tr>\r\n<tr style=\"mso-yfti-irow: 3; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\r\n<td style=\"width: 450.75pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"601\">\r\n<p class=\"TableText\">Other syndromes involving hamartomatous gastrointestinal polyps should be ruled out clinically or by pathological examination</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+    "imageUrl": null,
+    "thumbnail": null
+  },
+  {
+    "pkattachmentId": 81022,
+    "bookid": 67,
+    "chapterId": 9,
+    "fileId": 37423,
+    "type": "Table",
+    "diagnosis": "",
+    "title": "<p class=\"TableTitle\"><strong>Table&nbsp;2.05</strong> Phenotypic subtypes of juvenile polyposis syndrome</p>",
+    "legend": "",
+    "source": "",
+    "copyright": "WHO Classification of Tumours Editorial Board. Digestive system tumours. Lyon (France): International Agency for Research on Cancer; 2019. (WHO classification of tumours series, 5th ed.; vol. 1). https://publications.iarc.who.int/579.",
+    "tablehtml": "<table class=\"MsoNormalTable\" style=\"border-collapse: collapse; mso-table-layout-alt: fixed; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;\" border=\"0\" width=\"727\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\r\n<td style=\"width: 126.7pt; border: none; border-top: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; background: #8DB3E2; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"169\">\r\n<p class=\"TableText\"><strong><span style=\"color: black; mso-color-alt: windowtext;\">Subtype</span></strong></p>\r\n</td>\r\n<td style=\"width: 255.55pt; border: none; border-top: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; background: #8DB3E2; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"341\">\r\n<p class=\"TableText\"><strong><span style=\"color: black; mso-color-alt: windowtext;\">Clinical features</span></strong></p>\r\n</td>\r\n<td style=\"width: 163.0pt; border: none; border-top: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; background: #8DB3E2; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"217\">\r\n<p class=\"TableText\"><strong><span style=\"color: black; mso-color-alt: windowtext;\">Associated genetic defects</span></strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\r\n<td style=\"width: 126.7pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"169\">\r\n<p class=\"TableText\"><strong>Juvenile polyposis coli or generalized juvenile polyposis</strong><sup>a</sup></p>\r\n</td>\r\n<td style=\"width: 255.55pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"341\">\r\n<p class=\"TableBullet\" style=\"margin-left: 0cm; text-indent: 0cm; mso-list: none; tab-stops: 36.0pt;\">Polyps restricted to the colorectum</p>\r\n<p class=\"TableBullet\" style=\"margin-left: 0cm; text-indent: 0cm; mso-list: none; tab-stops: 36.0pt;\">Polyps in the stomach, small intestine, and colon</p>\r\n</td>\r\n<td style=\"width: 163.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"217\">\r\n<p class=\"TableText\">Germline variant in <em>SMAD4</em> (in ~30% of patients) or <em>BMPR1A</em> (in ~20% of patients)</p>\r\n</td>\r\n</tr>\r\n<tr style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\r\n<td style=\"width: 126.7pt; border: none; border-bottom: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"169\">\r\n<p class=\"TableText\"><strong><span style=\"color: black; mso-color-alt: windowtext;\">Juvenile polyposis of infancy</span></strong></p>\r\n</td>\r\n<td style=\"width: 255.55pt; border: none; border-bottom: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"341\">\r\n<p class=\"TableBullet\" style=\"margin-left: 0cm; text-indent: 0cm; mso-list: none; tab-stops: 36.0pt;\"><span style=\"color: black; mso-color-alt: windowtext;\">Generalized polyposis</span></p>\r\n<p class=\"TableBullet\" style=\"margin-left: 0cm; text-indent: 0cm; mso-list: none; tab-stops: 36.0pt;\"><span style=\"color: black; mso-color-alt: windowtext;\">Often severe symptoms (diarrhoea, haemorrhage, malnutrition, intussusceptions)</span></p>\r\n<p class=\"TableBullet\" style=\"margin-left: 0cm; text-indent: 0cm; mso-list: none; tab-stops: 36.0pt;\"><span style=\"color: black; mso-color-alt: windowtext;\">Often death at a young age</span></p>\r\n<p class=\"TableBullet\" style=\"margin-left: 0cm; text-indent: 0cm; mso-list: none; tab-stops: 36.0pt;\"><span style=\"color: black; mso-color-alt: windowtext;\">Often congenital abnormalities</span></p>\r\n</td>\r\n<td style=\"width: 163.0pt; border: none; border-bottom: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"217\">\r\n<p class=\"TableText\"><span style=\"color: black; mso-color-alt: windowtext;\">Contiguous <em>BMPR1A</em> and/or <em>PTEN</em> deletion</span></p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p class=\"TableText\"><sup>a</sup>Variable expressions of the same disease.</p>",
+    "imageUrl": null,
+    "thumbnail": null
+  },
+  {
+    "pkattachmentId": 81024,
+    "bookid": 67,
+    "chapterId": 9,
+    "fileId": 37454,
+    "type": "Table",
+    "diagnosis": "",
+    "title": "<p class=\"TableTitle\"><strong>Table&nbsp;2.06</strong> Summary of the main features of juvenile polyposis syndrome</p>",
+    "legend": "",
+    "source": "Lodewijk A.A. Brosens",
+    "copyright": "",
+    "tablehtml": "<table class=\"MsoNormalTable\" style=\"width: 425.2pt; border-collapse: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;\" border=\"0\" width=\"567\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr style=\"mso-yfti-irow: 0; mso-yfti-firstrow: yes; page-break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; border: none; border-top: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; background: #8DB3E2; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\"><strong>Feature</strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; border: none; border-top: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; background: #8DB3E2; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\"><strong>Syndrome characteristics</strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\"mso-yfti-irow: 1; page-break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\"><strong>Syndrome MIM number(s)</strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\">174900, 175050, 612242</p>\r\n</td>\r\n</tr>\r\n<tr style=\"mso-yfti-irow: 2; page-break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\"><strong>Associated malignant tumours</strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\">Colorectal cancer, gastric cancer</p>\r\n</td>\r\n</tr>\r\n<tr style=\"mso-yfti-irow: 3; page-break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\"><strong>Associated benign tumours</strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\">Colorectal and gastric, juvenile polyps</p>\r\n</td>\r\n</tr>\r\n<tr style=\"mso-yfti-irow: 4; page-break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\"><strong>Cancer-related inheritance</strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\">Autosomal dominant</p>\r\n</td>\r\n</tr>\r\n<tr style=\"mso-yfti-irow: 5; page-break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\"><strong>Chromosome location</strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\"><em>BMPR1A</em> (10q23.2)</p>\r\n<p class=\"TableText\"><em>SMAD4</em> (18q21.2)</p>\r\n</td>\r\n</tr>\r\n<tr style=\"mso-yfti-irow: 6; mso-yfti-lastrow: yes; page-break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; border: none; border-bottom: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\"><strong>Protein product&ndash;associated pathway</strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; border: none; border-bottom: solid windowtext 1.0pt; mso-border-bottom-alt: solid windowtext .5pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\">Growth factor receptors pathway</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+    "imageUrl": null,
+    "thumbnail": null
+  }
+]

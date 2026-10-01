@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 185,
+    "bookId": "72",
+    "roleid": 266,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2038,
+        "lastname": "Montgomery",
+        "firstname": "Elizabeth A.",
+        "initials": "EA",
+        "email": "",
+        "roleid": 266,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 186,
+    "bookId": "72",
+    "roleid": 279,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2029,
+        "lastname": "Schirmacher",
+        "firstname": "Peter",
+        "initials": "P",
+        "email": "",
+        "roleid": 279,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "pkroleId": 187,
+    "bookId": "72",
+    "roleid": 280,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4005,
+        "lastname": "Makhlouf",
+        "firstname": "Hala R.",
+        "initials": "HR",
+        "email": "",
+        "roleid": 280,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 188,
+    "bookId": "72",
+    "roleid": 281,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 5534,
+        "lastname": "Papke",
+        "firstname": "David J.",
+        "initials": "DJ",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 5598,
+        "lastname": "Zhang",
+        "firstname": "Xuchen",
+        "initials": "X",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      }
+    ]
+  }
+]

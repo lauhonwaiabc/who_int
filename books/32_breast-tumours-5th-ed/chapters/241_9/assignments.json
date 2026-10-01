@@ -1,0 +1,80 @@
+[
+  {
+    "pkroleId": 65,
+    "bookId": "32",
+    "roleid": 15,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2196,
+        "lastname": "Brogi",
+        "firstname": "Edi ",
+        "initials": "",
+        "email": "",
+        "roleid": 15,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 67,
+    "bookId": "32",
+    "roleid": 17,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2211,
+        "lastname": "Troxell",
+        "firstname": "Megan",
+        "initials": "",
+        "email": "",
+        "roleid": 17,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 68,
+    "bookId": "32",
+    "roleid": 18,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2249,
+        "lastname": "Yamaguchi",
+        "firstname": "Rin",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2258,
+        "lastname": "Boulos",
+        "firstname": "Fouad B.",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2259,
+        "lastname": "Denkert",
+        "firstname": "Carsten",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2349,
+        "lastname": "Horii",
+        "firstname": "Rie",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      }
+    ]
+  }
+]

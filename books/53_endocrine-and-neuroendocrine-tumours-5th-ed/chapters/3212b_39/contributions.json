@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 122473,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 607,
+        "headingText": "\r\n<p>Hyalinizing trabecular tumour (HTT) is a follicular cell&ndash;derived neoplasm composed of large trabeculae of elongated/polygonal cells with hyaline cytoplasm admixed with intratrabecular hyaline material and with nuclear features characterized by prominent grooves, vacuoles, and membrane irregularities.</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 122474,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 608,
+        "headingText": "\r\n<p>8336/1 Hyalinizing trabecular tumour</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 122475,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 609,
+        "headingText": "\r\n<p>2F9A &amp; XH1Y66 Neoplasms of unknown behaviour of endocrine glands &amp; Hyalinizing trabecular tumour</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 122476,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> hyalinizing trabecular neoplasm; hyalinizing trabecular adenoma.</p>\r\n<p><em>Not recommended:</em> paraganglioma-like adenoma of thyroid.</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 122477,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 611,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 122478,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 612,
+        "headingText": "\r\n<p>HTT occurs anywhere in the thyroid, with a slight predilection for the right lobe {18813121}. No ectopic locations are described.</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 122479,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 613,
+        "headingText": "\r\n<p>HTT is found incidentally by ultrasonography in asymptomatic patients or during clinical examination. It may be solitary or associated with other thyroid pathologies. At ultrasonography HTT is hypoechoic and solid, with peripheral or poor vascularity {26639939}. Microcalcifications are usually absent. HTT cannot be reliably diagnosed by ultrasound alone, and a clinical suspicion of malignancy is rendered in a variable percentage of cases {21190434; 25232186}. HTT is cold on a radioactive scan {18813121} and may be positive with 99mTc sestamibi (MIBI) {32691403}.</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 122480,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 614,
+        "headingText": "\r\n<p>HTT represents &lt;&nbsp;1% of thyroid neoplasms. It has a strong female predominance (&gt;&nbsp;80% of cases) and a mean age of 50&nbsp;years (range: 21&ndash;79&nbsp;years) {18813121}.</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 122481,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 615,
+        "headingText": "\r\n<p>The etiology and risk factors are unknown; previous radiation exposure has been reported {18813121}.</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 122482,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 616,
+        "headingText": "\r\n<p>HTT is characterized by the presence of GLIS rearrangements (<em>PAX8</em>::<em>GLIS1</em> and <em>PAX8</em>::<em>GLIS3</em>, the latter being the most frequent) detected in virtually all cases analysed and not in other thyroid tumours, when stringent diagnostic criteria are applied {30648929; 31273314}. The <em>GLIS1</em> and <em>GLIS3</em>-encoded proteins are activators of transcription belonging to the Kr&uuml;ppel-like zinc finger family {32699115}. The oncogenic activity of the <em>PAX8</em>::<em>GLIS3</em> fusion gene implies a significant activation of the sonic hedgehog pathway {32383186}. Neither RAS nor <em>BRAF</em> mutations have been detected in HTT {15763659}. The relationship between HTT and papillary thyroid carcinoma was originally suggested by the detection of <em>RET</em>::<em>CCDC6</em> rearrangements {11117782; 11117781; 15763659}, although these findings were not confirmed by others {20459574; 31273314}.</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 122483,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 623,
+        "headingText": "\r\n<p>HTT is a well-circumscribed, solid neoplasm with a round or oval shape, a firm to soft consistency, a lobulated appearance, and a white to yellow colour. The size ranges from 5&nbsp;to 75&nbsp;mm; about half of all reported cases measure &lt;&nbsp;30&nbsp;mm {18813121}.</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 122484,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 617,
+        "headingText": "<p>The morphological characteristics of HTT include architectural and cytological features {2441614}. The lesion is usually well circumscribed or encapsulated. Tumour cells are arranged in wide trabeculae or small nests delimited by stromal bundles. Within the trabeculae, a variably abundant eosinophilic hyaline amorphous material (resembling amyloid but Congo red&ndash;negative) is present, sometimes enveloping tumour cells. This material is diastase-resistant, PAS-positive, and made of basal membrane material. The amount of intertrabecular stroma is variable, but, even when conspicuous, it is not diagnostic of HTT in the absence of intratrabecular hyalinization. Tumour cells are large or medium-sized and polygonal or elongated, oriented perpendicular to the trabeculae. The cytoplasm is variably eosinophilic (occasionally clear) with hyaline material that contains finely granular deposits and with focal perinuclear yellowish cytoplasmic bodies of lysosomal origin {9888712}. These bodies may be present in thyroid lesions other than HTT but at a much lower frequency {12741896}. The nuclei are large, elongated, and convoluted, with prominent grooves, vacuoles, and membrane irregularities, but they are not usually as clear as in papillary carcinoma. Mitoses are rare. Intratrabecular and stromal calcifications are frequent {18813121; 29368414}. Rare tumours with HTT features have been described showing capsular, vascular, or thyroid parenchymal invasion and these demonstrate a (small) recurrence/metastasis risk {8119720; 8732345; 18315612; 18813121; 32138392}.</p>\r\n<h6><em>Immunophenotype</em></h6>\r\n<p>Thyroglobulin and thyroid transcription factor&nbsp;1 (TTF1) are invariably positive. Malignancy-related markers of follicular cells (e.g. galectin-3) are variably expressed {12657934}. The hyaline material is positive for collagen&nbsp;IV {18813121; 9416692}. Anomalous Ki-67 cell membrane reactivity is unique in HTT {10757406} but occurs only when the monoclonal antibody MIB1 is used, and only at room temperature {17525638; 29199205}. MIB1 membranous staining is also a useful diagnostic tool in cytological samples {15487446; 25352467}. Expression of GLIS3 is associated with the presence of a <em>PAX8</em>::<em>GLIS3</em> fusion.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>The most relevant differential diagnoses include follicular cell&ndash;derived neoplasms with trabecular growth (follicular adenoma, papillary and poorly differentiated carcinomas), medullary thyroid carcinoma, and paraganglioma {18409025; 31571046}. Key differential diagnostic features are summarized in <a style=\"cursor:pointer\" href=\"/attachment/53/39/26590\" target=\"_blank\">#26590</a>Table&nbsp;3.03 .</p>",
+        "timestamp": "2024-10-18T13:52:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 122485,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 618,
+        "headingText": "<p>These cytological features are not specific {28424236}. HTT features include loosely cohesive groups of tumour cells with abundant cytoplasm and a trabecular or syncytial pattern radiating outwards from a hyaline core and amyloid-like material in the background {25352467; 15223954; 31135104}. Papillary structures with fibrovascular stalks are absent. It is frequently classified as papillary carcinoma (category&nbsp;VI in the Bethesda system) or less frequently as follicular neoplasm or suspicious for malignancy (category&nbsp;IV&ndash;V in the Bethesda system) {28424236}.</p>",
+        "timestamp": "2024-12-17T12:51:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 122486,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 619,
+        "headingText": "\r\n<p>The detection of the GLIS fusions (or GLIS protein expression) may be of clinical relevance in the preoperative setting, in the presence of a suggestive cytology, to tailor the most adequate surgical therapy {31373774}. To date, GLIS fusions have not been investigated in metastatic tumours, so it is unclear whether their identification can be used to exclude metastatic risk.</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 122487,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> follicular cell differentiation; pure trabecular architecture with intratrabecular hyalinization and nuclear features characterized by prominent grooves, vacuoles, and membrane irregularities.</p>\r\n<p><em>Desirable:</em> membranous Ki-67 staining (MIB1 clone); detection of GLIS rearrangements in selected cases.</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 122488,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 620,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 122489,
+        "bookId": 53,
+        "chapterId": 39,
+        "headingId": 621,
+        "headingText": "\r\n<p>The overwhelming majority of HTTs are clinically benign even after a long follow-up, and complete excision is generally curative {18813121}. The rare cases with lymph node or distant metastases usually show invasive growth or vascular invasion {18813121; 8119720; 18315612; 8732345; 32138392}.</p>",
+        "timestamp": "2024-10-09T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

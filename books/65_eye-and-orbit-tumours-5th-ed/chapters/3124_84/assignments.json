@@ -1,0 +1,115 @@
+[
+  {
+    "pkroleId": 176,
+    "bookId": "65",
+    "roleid": 205,
+    "roleTitle": "Resp editor",
+    "contributors": [
+      {
+        "contributorid": 2642,
+        "lastname": "Kivelä",
+        "firstname": "Tero",
+        "initials": "",
+        "email": "",
+        "roleid": 205,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 177,
+    "bookId": "65",
+    "roleid": 206,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      },
+      {
+        "contributorid": 2173,
+        "lastname": "Cree",
+        "firstname": "Ian A.",
+        "initials": "",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      },
+      {
+        "contributorid": 5044,
+        "lastname": "Jager",
+        "firstname": "Martine",
+        "initials": "",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 178,
+    "bookId": "65",
+    "roleid": 207,
+    "roleTitle": "Resp author",
+    "contributors": [
+      {
+        "contributorid": 3275,
+        "lastname": "Mudhar",
+        "firstname": "Hardeep Singh",
+        "initials": "",
+        "email": "",
+        "roleid": 207,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 179,
+    "bookId": "65",
+    "roleid": 208,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3318,
+        "lastname": "Verdijk",
+        "firstname": "Robert M.",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 4036,
+        "lastname": "Sagoo",
+        "firstname": "Mandeep S.",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 5244,
+        "lastname": "Dalvin",
+        "firstname": "Lauren A",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 5246,
+        "lastname": "de Klein",
+        "firstname": "Annelies",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      }
+    ]
+  }
+]

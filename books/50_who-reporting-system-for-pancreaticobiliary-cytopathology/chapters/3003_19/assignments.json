@@ -1,0 +1,36 @@
+[
+  {
+    "pkroleId": 121,
+    "bookId": "50",
+    "roleid": 164,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4168,
+        "lastname": "Saieg",
+        "firstname": "Mauro",
+        "initials": "",
+        "email": "",
+        "roleid": 164,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 123,
+    "bookId": "50",
+    "roleid": 166,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4384,
+        "lastname": "Kurtycz",
+        "firstname": "Daniel",
+        "initials": "",
+        "email": "",
+        "roleid": 166,
+        "position": 0
+      }
+    ]
+  }
+]

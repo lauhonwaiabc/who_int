@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 81,
+    "bookId": "34",
+    "roleid": 37,
+    "roleTitle": "Responsible Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2377,
+        "lastname": "Soslow",
+        "firstname": "Robert A.",
+        "initials": "",
+        "email": "",
+        "roleid": 37,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 82,
+    "bookId": "34",
+    "roleid": 38,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2387,
+        "lastname": "Mikami",
+        "firstname": "Yoshiki",
+        "initials": "",
+        "email": "",
+        "roleid": 38,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 83,
+    "bookId": "34",
+    "roleid": 39,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2414,
+        "lastname": "Howitt",
+        "firstname": "Brooke E.",
+        "initials": "",
+        "email": "",
+        "roleid": 39,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 84,
+    "bookId": "34",
+    "roleid": 40,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2247,
+        "lastname": "Moritani",
+        "firstname": "Suzuko",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2382,
+        "lastname": "McCluggage",
+        "firstname": "W. Glenn",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2759,
+        "lastname": "Ganesan",
+        "firstname": "Raji",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2769,
+        "lastname": "Mirkovic",
+        "firstname": "Jelena",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 3327,
+        "lastname": "Kong",
+        "firstname": "Christina S.",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "pkroleId": 81,
+    "bookId": "34",
+    "roleid": 37,
+    "roleTitle": "Responsible Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2383,
+        "lastname": "Herrington",
+        "firstname": "C. Simon",
+        "initials": "",
+        "email": "",
+        "roleid": 37,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 82,
+    "bookId": "34",
+    "roleid": 38,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2385,
+        "lastname": "Ordi",
+        "firstname": "Jaume",
+        "initials": "",
+        "email": "",
+        "roleid": 38,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 83,
+    "bookId": "34",
+    "roleid": 39,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2814,
+        "lastname": "Felix",
+        "firstname": "Ana",
+        "initials": "",
+        "email": "",
+        "roleid": 39,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 84,
+    "bookId": "34",
+    "roleid": 40,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2332,
+        "lastname": "Mills",
+        "firstname": "Anne M.",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2778,
+        "lastname": "Park",
+        "firstname": "Kay J.",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2851,
+        "lastname": "Saco",
+        "firstname": "Adela",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2852,
+        "lastname": "Carrilho",
+        "firstname": "Carla",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2853,
+        "lastname": "Regauer",
+        "firstname": "Sigrid",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 3327,
+        "lastname": "Kong",
+        "firstname": "Christina S.",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 3758,
+        "lastname": "Bray",
+        "firstname": "Freddie",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      }
+    ]
+  }
+]

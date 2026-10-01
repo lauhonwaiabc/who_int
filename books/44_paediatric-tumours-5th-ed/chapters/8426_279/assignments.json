@@ -1,0 +1,70 @@
+[
+  {
+    "pkroleId": 129,
+    "bookId": "44",
+    "roleid": 131,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3648,
+        "lastname": "Reyes-Múgica",
+        "firstname": "Miguel",
+        "initials": "M",
+        "email": "",
+        "roleid": 131,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 130,
+    "bookId": "44",
+    "roleid": 132,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4020,
+        "lastname": "Oligny",
+        "firstname": "Luc Laurier",
+        "initials": "",
+        "email": "",
+        "roleid": 132,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 131,
+    "bookId": "44",
+    "roleid": 133,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4002,
+        "lastname": "Lieberman",
+        "firstname": "Richard W.",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 132,
+    "bookId": "44",
+    "roleid": 150,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 1999,
+        "lastname": "Cheung",
+        "firstname": "Annie Nga-Yin",
+        "initials": "",
+        "email": "",
+        "roleid": 150,
+        "position": 0
+      }
+    ]
+  }
+]

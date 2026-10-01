@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 67153,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 432,
+        "headingText": "\r\n<p>Primary pulmonary diffuse large B-cell lymphoma (DLBCL) is a non-Hodgkin lymphoma composed of a diffuse proliferation of large B&nbsp;cells with centroblastic or immunoblastic morphology, confined to the lung with or without hilar lymph node involvement at presentation or during the subsequent 3&nbsp;months.</p>\r\n",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 67154,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 433,
+        "headingText": "\r\n<p>9680/3 Diffuse large B-cell lymphoma, NOS</p>\r\n",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 67155,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 434,
+        "headingText": "\r\n<p>2A81.Z Diffuse large B-cell lymphoma, NOS</p>\r\n",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 67156,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Acceptable:</em> diffuse large B-cell non-Hodgkin lymphoma.</p>\r\n<p><em>Not recommended:</em> high-grade mucosa-associated lymphoid tissue lymphoma.</p>\r\n",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 67157,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 436,
+        "headingText": "<p>Diffuse large B-cell lymphoma NOS; EBV-positive diffuse large B-cell lymphoma NOS</p>",
+        "timestamp": "2021-01-07T18:14:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 67158,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 437,
+        "headingText": "\r\n<p>Primary pulmonary DLBCL can involve any lobe but is characteristically located peripherally.</p>\r\n",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 67159,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 438,
+        "headingText": "\r\n<p>Patients are usually symptomatic and present with cough or dyspnoea, or rarely with haemoptysis and systemic B&nbsp;symptoms, which include fever, night sweats, and weight loss {29697079; 26452211; 23451749}.</p>\r\n<h5>Imaging</h5>\r\n<p>Chest CT examination shows consolidation and single or multiple well-defined nodules. CT findings in extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma) and DLBCL can overlap; however, cavitation and/or central necrosis are features more commonly seen in DLBCL {31583557; 27265602}. DLBCL can be limited to the lungs or can spread to the mediastinum and other extranodal sites.</p>\r\n",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 67160,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 439,
+        "headingText": "<p>Primary pulmonary DLBCL, although rare, is the second most common type of primary pulmonary lymphoma, accounting for about 5&ndash;20% of cases {8902461; 2198222; 15466823; 21418743}. The mean age of presentation is 60&nbsp;years (range: 38&ndash;70&nbsp;years). There is no sex predisposition.</p>",
+        "timestamp": "2021-01-07T16:21:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 67161,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 440,
+        "headingText": "\r\n<p>The etiology of pulmonary DLBCL is unknown. It occurs in both immunocompetent and immunocompromised patients; however, it occurs often in immunocompromised individuals with underlying inflammatory processes or chronic infections such as HIV infection. DLBCL arising in this setting is often EBV-positive {17785567; 28506687; 25999451; 21499229}. An association between DLBCL and systemic autoimmune disorders has also been described {8902461}.</p>\r\n",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 67162,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 441,
+        "headingText": "\r\n<p>Roughly half represent de&nbsp;novo DLBCL, whereas the other half arise from transformation of an underlying MALT lymphoma {2198222}.</p>\r\n",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 67163,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 448,
+        "headingText": "\r\n<p>Nodules are usually well-circumscribed, cream-coloured, and typically solid, but they may show areas of haemorrhage, central necrosis, and cavitation.</p>\r\n",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 67164,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 442,
+        "headingText": "\r\n<p>Endobronchial ultrasound&ndash;guided transbronchial needle aspiration and percutaneous CT-guided or bronchoscopic biopsy may be sufficient to make a diagnosis in a solid lesion; however, a surgical biopsy may be required {26146788; 29076937}. Morphologically, primary pulmonary DLBCL is similar to DLBCL in other sites. The tumour comprises diffuse sheets of large cells that destroy and replace the normal lung parenchyma. The large cells resemble centroblasts and/or immunoblasts and are 2&ndash;4&nbsp;times the size of normal lymphocytes.</p>\r\n<p>The immunophenotype is that of a B&nbsp;cell, with expression of pan&ndash;B&nbsp;cell markers (CD20, CD79a). There is variable staining for CD10, BCL6, IRF4 (MUM1), BCL2, and MYC, which is performed to aid in prognostication. Subclassification into germinal-centre B-cell and activated B-cell subtypes should be accomplished through the use of gene expression profiling or immunohistochemical algorithms {24398326; 21135273}. The presence of EBV should be investigated using in&nbsp;situ hybridization for EBV-encoded small RNA (EBER).</p>\r\n<p>The differential diagnoses include undifferentiated carcinoma, anaplastic large cell lymphoma, primary mediastinal large B-cell lymphoma, and rarely germ cell tumours. The most difficult differential diagnosis is between EBV-positive DLBCL-NOS and pulmonary lymphomatoid granulomatosis. The latter shows more reactive T&nbsp;cells, marked angiocentricity, and a greater variability in the number of EBV-positive cells {25321327}.</p>\r\n",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 67165,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 443,
+        "headingText": "<p>Smears show a monotonous population of large atypical cells with blastic chromatin, one or more nucleoli, and fairly abundant cytoplasm. Primary diagnosis of DLBCL in cytological preparations should be made with caution, always in conjunction with ancillary techniques such as immunohistochemistry, flow cytometry, and molecular testing.</p>",
+        "timestamp": "2021-01-07T16:21:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 67166,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 444,
+        "headingText": "\r\n<p>IG genes are clonally rearranged. Little is known about other genetic abnormalities in primary pulmonary DLBCL; however, a molecular classification for DLBCL, in general, has been proposed {29713087; 29641966}.</p>\r\n",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 67167,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Large lymphoid cells (tumour cells 2&ndash;4&nbsp;times the size of normal lymphocytes) resembling centroblasts or immunoblasts</li>\r\n<li>Diffuse infiltration with destruction of lung parenchyma</li>\r\n<li>Immunophenotyping to confirm B-cell lineage (e.g. CD20, PAX5, CD79a)</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Immunophenotype or gene expression profiling to determine germinal-centre B-cell or activated B-cell subtype</li>\r\n<li>EBER in&nbsp;situ hybridization and/or LMP1 stain</li>\r\n</ul>",
+        "timestamp": "2021-01-04T10:35:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 67168,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 445,
+        "headingText": "\r\n<p>The stage of the disease is determined using the Lugano classification, a modification of the Ann Arbor staging system {25113753}.</p>\r\n",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 67169,
+        "bookId": 35,
+        "chapterId": 103,
+        "headingId": 446,
+        "headingText": "\r\n<p>Patients are usually treated with combined immunotherapy and chemotherapy. Surgical resection can be performed in cases with localized tumours. An enhanced International Prognostic Index (IPI) is widely applied as a prognostic guide {17105812; 24264230}. DLBCL in extranodal sites generally has a poorer prognosis than nodal-based disease {24273125}.</p>",
+        "timestamp": "2020-11-11T11:38:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

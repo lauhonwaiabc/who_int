@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 145,
+    "bookId": "49",
+    "roleid": 181,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4160,
+        "lastname": "Katz",
+        "firstname": "Ruth Louise",
+        "initials": "",
+        "email": "",
+        "roleid": 181,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 146,
+    "bookId": "49",
+    "roleid": 182,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4156,
+        "lastname": "Calaminici",
+        "firstname": "Mariarita",
+        "initials": "",
+        "email": "",
+        "roleid": 182,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 147,
+    "bookId": "49",
+    "roleid": 183,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4159,
+        "lastname": "Ehinger",
+        "firstname": "Mats",
+        "initials": "",
+        "email": "",
+        "roleid": 183,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 148,
+    "bookId": "49",
+    "roleid": 184,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4161,
+        "lastname": "Lin",
+        "firstname": "Oscar",
+        "initials": "",
+        "email": "",
+        "roleid": 184,
+        "position": 0
+      },
+      {
+        "contributorid": 4164,
+        "lastname": "Zeppa",
+        "firstname": "Pio",
+        "initials": "",
+        "email": "",
+        "roleid": 184,
+        "position": 0
+      }
+    ]
+  }
+]

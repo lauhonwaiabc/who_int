@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 54331,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 159,
+        "headingText": "<p>Adenocarcinoma of the stomach is a malignant epithelial neoplasm of the gastric mucosa, with glandular differentiation.</p>",
+        "timestamp": "2019-01-29T16:27:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 54332,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 160,
+        "headingText": "<p>8140/3 Adenocarcinoma NOS</p>",
+        "timestamp": "2021-11-22T12:14:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 54333,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 161,
+        "headingText": "<p>2B72.0 &amp; XH74S1 Adenocarcinoma of stomach &amp; Adenocarcinoma NOS</p>",
+        "timestamp": "2019-01-29T16:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 54334,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 162,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-01-29T16:28:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 54335,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 163,
+        "headingText": "<p>Tubular adenocarcinoma (8211/3); parietal cell carcinoma (8214/3); adenocarcinoma with mixed subtypes (8255/3); papillary adenocarcinoma NOS (8260/3); micropapillary carcinoma NOS (8265/3); mucoepidermoid carcinoma (8430/3); mucinous adenocarcinoma (8480/3); signet-ring cell carcinoma (8490/3); poorly cohesive carcinoma (8490/3); medullary carcinoma with lymphoid stroma (8512/3); hepatoid adenocarcinoma (8576/3); Paneth cell carcinoma</p>",
+        "timestamp": "2021-11-22T12:14:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 54336,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 164,
+        "headingText": "<p>The localization of these tumours varies geographically according to the incidence of gastric cancer (GC). In regions with high GC incidence (Asia, Central and South America, and eastern Europe), about 80% of cases are distal (occurring in the gastric body, antrum, and/or pylorus), with a relative predominance of antral-pyloric location. In northern Europe (including the United Kingdom) and the USA, 50&ndash;60% of GCs are located in the cardia and/or fundus, primarily because of the lower incidence of distal carcinoma in these parts of the world [[Ferlay J, Colombet M, Bray F. Cancer Incidence in Five Continents, CI5plus: IARC CancerBase No. 9 [Internet]. Lyon (France): International Agency for Research on Cancer; 2018. Available from: http://ci5.iarc.fr.]]. In contrast, the proportion of cardia/fundus cases in a study from the Republic of Korea was a relatively stable 5.9&ndash;7.1% over the 15-year period of 1999&ndash;2014. In Japan, the incidence of proximal GC has been increasing, with 18&ndash;22% of all GCs arising in the proximal stomach {28205058; 28417260; 28819392}. A recent increase in GC arising in the corpus has also been observed in the USA and the Netherlands {21613644; 24309073}.</p>",
+        "timestamp": "2019-01-29T16:29:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 54337,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 165,
+        "headingText": "<p>GC can be asymptomatic at early stages. At advanced disease stages, common symptoms include dysphagia, asthenia, indigestion, vomiting, weight loss, early satisfaction of appetite, and anaemia {29458786}.</p>\r\n<p>Endoscopic examination and forceps biopsies remain the gold standard method of diagnosing GC. Details of the mucosal surface can be evaluated by narrow-band imaging or chromoendoscopy in combination with magnifying endoscopy. Submucosal invasion can be suspected if mucosal abnormalities are seen, such as deep depression, irregular nodules, or an amorphous surface {27734273}. Endoscopic mucosal resection and endoscopic submucosal dissection are used for staging and treatment of superficial lesions such as dysplasia or intramucosal carcinoma {26234303; 26317585}.</p>\r\n<p>For more-advanced cancers, staging is performed using EUS, contrast-enhanced CT, MRI, or FDG&nbsp;PET-CT {21837458; 22237654; 24782607; 27130061}. EUS may also be useful to identify enlarged perigastric lymph nodes and, if necessary, to confirm metastasis by FNA. Staging laparoscopy is required to exclude peritoneal disease {27384751}.</p>",
+        "timestamp": "2019-01-29T16:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 54338,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 166,
+        "headingText": "<p>Worldwide, GC is the third most common cause of cancer-related mortality {30207593}; despite its declining incidence {28730504}, &gt;&nbsp;1&nbsp;million new cases were estimated worldwide in 2018 {30207593}. The incidence is highest in central and eastern Asia, eastern Europe, and South America {30207593}. In a studied population in the United Kingdom, 1&nbsp;in 2&nbsp;patients with GC presented with locally advanced disease {25761964; 29395269}. Laur&eacute;n&rsquo;s 1965 classification {14320675} divided GC into two main histological types: intestinal-type and diffuse-type. A decrease in the incidence of intestinal-type GC with a relative increase in the incidence of diffuse-type GC has been observed in some countries {26185368}.</p>",
+        "timestamp": "2019-01-29T16:29:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 54339,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 167,
+        "headingText": "<p>GC is a multifactorial disease; 90% of cases are sporadic and the other 10% develop in a familial/hereditary setting. Environmental factors include <em>Helicobacter pylori</em> infection, EBV infection, tobacco smoking, and dietary factors (see Box&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/29/1033\" target=\"_blank\">#1033</a>) [[IARC Monographs on the Evaluation of Carcinogenic Risks to Humans [Internet]. Lyon (France): International Agency for Research on Cancer; 2018. Agents classified by the IARC Monographs, Volumes 1&ndash;122; updated 2018 Jul 30. Available from: https://monographs.iarc.fr/agents-classified-by-the-iarc/]] {22110269; 28730504; 28532700; 29631196}.</p>\r\n<p>Several subtypes of GC have been associated with specific etiologies and molecular mechanisms. Germline mutations and specific types of GC have been recognized, such as <em>CDH1</em> mutations in hereditary diffuse GC (see <a style=\"cursor:pointer\" href=\"/chaptercontent/31/230\" target=\"_blank\">section </a><em>Hereditary diffuse gastric cancer</em>) and <em>APC</em> exon&nbsp;1B mutations in gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS) (see <a style=\"cursor:pointer\" href=\"/chaptercontent/31/229\" target=\"_blank\">section </a><em>GAPPS and other fundic gland polyposes</em>).</p>",
+        "timestamp": "2019-08-23T11:10:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 54340,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 168,
+        "headingText": "<p><em>H.&nbsp;pylori</em> infection is thought to be responsible for most GCs, in particular non-cardia GCs {27707777; 28771894; 29562147}. Chronic infection of the gastric mucosa leads to atrophic gastritis and intestinal metaplasia in a stepwise progression known as Correa&rsquo;s cascade {22188910; 28647684}. Eradication of <em>H.&nbsp;pylori</em> reduces the risk of GC {26836587}. However, the degree of risk reduction depends on the presence, severity, and extent of the atrophic damage at the time of eradication {26187502; 26995689; 29306868; 26836587}. In patients with advanced stages of gastric atrophy, <em>H.&nbsp;pylori</em> eradication may no longer reduce the risk of neoplastic progression {29306868}. Chronic <em>H.&nbsp;pylori</em> infection has been assumed to cause DNA mutations and epigenetic changes in epithelial cells of the stomach (field cancerization) {24786892; 29358395; 28513632}. Infection with <em>cagA</em>-positive <em>H.&nbsp;pylori</em> strains is the strongest risk factor for the development of GC {11743164; 28322182}. Infection with the most virulent <em>vacA</em> s1, m1, and i1 strains is associated with an increased risk of gastric adenocarcinoma, although the predictive value of <em>vacA</em> virulent genotypes, observed in the USA and Colombia, was not confirmed in some studies from eastern and south-eastern Asia {19726606; 28322182}. Genetic susceptibility is also involved, such as SNPs of inflammation-associated genes (<em>IL1B</em>, <em>TNF</em>) {28736214}. Furthermore, autoimmune gastritis is considered a risk factor for GC in high-income countries {29361173}.</p>\r\n<p>Multiple genetic and epigenetic alterations occur during gastric carcinogenesis and progression {19261089; 22005013}. These include genetic instability and abnormalities in oncogenes, tumour suppressor genes, growth factors, receptor tyrosine kinases, DNA repair genes, matrix degradation enzymes, cell-cycle regulators, and cell adhesion molecules. Genetic polymorphisms or variations, such as SNPs of <em>MUC1</em> and <em>PSCA</em>, are predisposing endogenous factors and appear to alter GC susceptibility as well as disease progression {18488030; 21070779; 22005013; 25134511}. DNA methylation, histone modification, chromatin remodelling, and regulation by non-coding RNAs are important epigenetic alterations {26823082; 28513632}. Advanced multiplatform genomic technology has recently identified potential molecular mechanisms underlying GC carcinogenesis {26073375; 26861606; 28004449; 29511593}.</p>\r\n<p>Using high-throughput sequencing technology, several groups, including The Cancer Genome Atlas (TCGA) Research Network and the Asian Cancer Research Group (ACRG), have proposed genetic and epigenetic molecular classifications of GC {23684942; 25079317; 25894828}.</p>\r\n<p>TCGA has proposed a classification categorizing GC into four molecular subtypes: EBV-positive, microsatellite-unstable, genomically stable, and chromosomally unstable (see Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/29/1041\" target=\"_blank\">#1041</a>) {25079317; 28004449}. Most EBV-positive GCs are histologically GC with lymphoid stroma or lymphoepithelioma-like, and display <em >PIK3CA</em> and <em >ARID1A</em> mutations, genome-wide hypermethylation, and amplification of the <em >CD274</em> (<em >PD-L1</em>) gene, an important immune checkpoint regulator {26073375; 27934877; 25633561}. Microsatellite-unstable&nbsp;GCs are characterized by mutations or promoter methylation of mismatch repair genes, such as <em >MLH1</em>. Like EBV-positive GC, the microsatellite-unstable&nbsp;GC subtype exhibits global hypermethylation. Genomically stable GCs show predominantly diffuse-type histology and are characterized by a substantially lower frequency of genetic aberrations. However, mutations of <em >RHOA</em> or fusions involving RHO-family GTPase-activating proteins have been observed in a subset of genomically stable GC {24816255}. GCs with chromosomal instability show mostly intestinal-type histology together with extensive DNA copy-number abnormalities, including amplification of receptor tyrosine kinase genes, such as <em >ERBB2</em>, <em >EGFR</em>, <em >MET</em>, and <em >FGFR2</em>. In routine pathology, immunohistochemistry of mismatch repair proteins (MLH1, etc.), p53, and E-cadherin combined with in&nbsp;situ hybridization for EBV-encoded small RNA (EBER) might allow molecular GC subtyping similar to the classification proposed by TCGA {27342907; 27819872; 27032689}.</p>\r\n<p>ACRG proposed a classification of GC into four different subtypes: microsatellite-unstable,&nbsp;microsatellite-stable (MSS) with epithelial&ndash;mesenchymal transition gene signature, MSS and <em>TP53</em>-active, and MSS and <em>TP53</em>-inactive {25894828}.</p>",
+        "timestamp": "2019-10-15T14:34:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 54341,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 207,
+        "headingText": "<p>Early gastric carcinomas can be macroscopically subclassified into three main types: 0-I, 0-II, and 0-III (see <a name=\"0763\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#0763</a> and Box <a style=\"cursor:pointer\" href=\"/attachment/31/29/1034\" target=\"_blank\">#1034</a>) {21573743; 27734273}. Advanced gastric carcinomas are macroscopically subclassified according to the Borrmann classification as localized growth with a fungating or ulcerated appearance or as infiltrative growth with or without ulceration. The term &ldquo;linitis plastica&rdquo; or &ldquo;scirrhous carcinoma&rdquo; is used when there is an abundant fibrous stroma reaction resulting in thickening and rigidity of the stomach wall {28679451}.</p>",
+        "timestamp": "2019-08-23T11:12:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 54342,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 169,
+        "headingText": "<p>Intratumoural and intertumoural heterogeneity of the histological phenotype can be striking in GC and is most likely the reason for the many histopathological classification schemes for GC. The most commonly used classifications are those published by the Japanese Gastric Cancer Association (JGCA) [[Japanese Gastric Cancer Association. [Japanese classification of gastric carcinoma]. 15th ed. Tokyo (Japan): Kanehara Shuppan; 2017. Japanese.]], WHO, Nakamura et al. {5726267}, and Laur&eacute;n {14320675}, which are compared in Table <a style=\"cursor:pointer\" href=\"/attachment/31/29/1040\" target=\"_blank\">#1040</a>. Other classifications have been proposed by Ming {872047}, Mulligan {4557936}, and Carneiro et al. {7479380}. Five main histological subtypes of gastric adenocarcinoma are recognized: tubular, papillary, poorly cohesive (including signet-ring cell and other subtypes), mucinous, and mixed adenocarcinomas.</p>\r\n<p><strong>Tubular adenocarcinoma:</strong> This is the most common subtype, with a relative frequency ranging from 45% in Europe {27522550} to 64% in a nationwide study in Japan [[Japanese Gastric Cancer Association [Internet]. Kyoto (Japan): Japanese Gastric Cancer Association; 2018. [Japanese Gastric Cancer Association report of national registration analysis results: surgical cases in 2009]. Japanese. Available from: http://www.jgca.jp/entry/iganhtml/doc/2009_report.pdf]]. A much higher frequency (72.4%) has been reported in elderly patients in Japan {23274922}. This subtype is composed of dilated or slit-like branching tubules of variable diameter. Acinar structures may also be present. Individual neoplastic cells can be columnar, cuboidal, or flattened by prominent intraluminal mucin or cell debris. A clear cell subtype has been recognized with predilection for the cardia/oesophagogastric region {17886094}. Tumours with solid structures and barely recognizable tubules are included in this category; they are classified as poorly differentiated tubular (solid) carcinoma, which corresponds to the designation &ldquo;poorly&nbsp;1 (solid type): por1&rdquo; in the JGCA classification (see Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/29/1040\" target=\"_blank\">#1040</a>).</p>\r\n<p><strong>Papillary adenocarcinoma:</strong> This is a relatively rare subtype, accounting for 2.7&ndash;9.9% of GCs [[Japanese Gastric Cancer Association [Internet]. Kyoto (Japan): Japanese Gastric Cancer Association; 2018. [Japanese Gastric Cancer Association report of national registration analysis results: surgical cases in 2009]. Japanese. Available from: http://www.jgca.jp/entry/iganhtml/doc/2009_report.pdf]] {11013353}. This subtype usually shows an exophytic growth pattern and is histologically most commonly well differentiated, with elongated finger-like processes lined by columnar or cuboidal cells supported by fibrovascular connective tissue cores. Some tumours also contain tubules (tubulopapillary). Despite being a well-differentiated tumour with a pushing invading edge and frequent infiltration by inflammatory cells, papillary adenocarcinoma is associated with a higher frequency of liver metastasis and poor survival {11984707; 28123605}.</p>\r\n<p><strong>Poorly cohesive carcinoma (PCC), including signet-ring cell carcinoma and other subtypes:</strong> PCCs account for 20&ndash;54% of GCs {25761964; 27298411}, with higher frequencies reported in Japanese patients {27629881; 25761964}. PCCs are composed of neoplastic cells that are isolated or arranged in small aggregates without well-formed glands. PCCs can be of either signet-ring cell type or non&ndash;signet-ring cell type (PCC-NOS) {30167905}. Signet-ring cell type tumours are composed predominantly or exclusively of signet-ring cells, which are characterized by a central, optically clear, globoid droplet of cytoplasmic mucin with an eccentrically placed nucleus. Signet-ring cells may form a lace-like glandular or delicate microtrabecular pattern (especially in the mucosa). Other cellular subtypes (non&ndash;signet-ring cell type: PCC-NOS) include tumours composed of neoplastic cells resembling histiocytes or lymphocytes; others have deeply eosinophilic cytoplasm; some poorly cohesive cells are pleomorphic, with bizarre nuclei. A mixture of the different cell types can be seen, including few signet-ring cells {28873240}. PCCs can be accompanied by marked desmoplasia, in particular when infiltrating into the submucosa or beyond. There is preliminary evidence suggesting lower sensitivity of signet-ring cell carcinomas to chemo(radio)therapy {26523107; 27046280}. A subgroup of <em>RHOA</em>-mutated GC {24816255} consists of predominantly or exclusively PCC with limited tubular differentiation and a permeative growth pattern at the edge of the mucosa {25823974}.</p>\r\n<p><strong>Mucinous adenocarcinoma:</strong> This subtype has been reported to account for 2.1&ndash;8.1% of GCs [[Japanese Gastric Cancer Association [Internet]. Kyoto (Japan): Japanese Gastric Cancer Association; 2018. [Japanese Gastric Cancer Association report of national registration analysis results: surgical cases in 2009]. Japanese. Available from: http://www.jgca.jp/entry/iganhtml/doc/2009_report.pdf]] {20208134}. This tumour is composed of malignant epithelium and extracellular mucin pools, with the latter accounting for &gt;&nbsp;50% of the tumour area. Two main growth patterns can be seen: (1) recognizable glandular structures or tubules lined by columnar epithelium with interstitial mucin and (2) chains, nests, or single tumour cells (signet-ring cells can be seen) surrounded by mucin. Recent comprehensive genetic analysis demonstrated that the mutation profile of the latter type of mucinous adenocarcinoma is different than that of intestinal-type or diffuse-type GCs {27313181}.</p>\r\n<p><strong>Mixed adenocarcinoma:</strong> The reported relative frequency of this subtype is 6&ndash;22% {25761964; 27298411; 18266006}. These carcinomas display two or more distinct histological components: glandular (tubular/papillary) and signet-ring cell&nbsp;/ poorly cohesive. Any distinct histological component should be reported. Mixed carcinomas appear to be clonal {17167181; 18266006}, and their phenotypic divergence has been attributed to somatic mutation in the gene encoding E-cadherin (<em>CDH1</em>), which is restricted to the signet-ring cell&nbsp;/ poorly cohesive component {10211998}. Available data suggest that patients with mixed adenocarcinomas have a poorer prognosis than those with only one component {9269907; 18266006}.</p>\r\n<h5>Other and rare histological subtypes</h5>\r\n<p><strong>Gastric (adeno)carcinoma with lymphoid stroma:</strong> This subtype has been reported to account for 1&ndash;7% of GCs {947518; 29438172}. It has also been referred to as lymphoepithelioma-like carcinoma and medullary carcinoma. The subtype is characterized by irregular sheets, trabeculae, ill-defined tubules, or syncytia of polygonal cells embedded within a prominent lymphocytic infiltrate, with intraepithelial lymphocytes {21654677; 19445939; 29779068}. In early-stage disease, gastric (adeno)carcinoma with lymphoid stroma shows a characteristic lace pattern with anastomosing or branching glandular structures {11745439}. The tumours are frequently localized in the proximal stomach or gastric stump, and they are more common in males. Reported rates of EBV infection in this subtype vary from 22.5% to 100% {29438172; 11432666; 10370694}, and the highest frequencies (&gt;&nbsp;80%) are detected by performing EBER in&nbsp;situ hybridization {27342912; 29536167; 19445939; 24771002; 25912839}. A subset of gastric carcinomas with microsatellite instability (MSI)&nbsp;and/or mismatch repair deficiency have a similar histological phenotype but a different transcriptomic profile {30018250}.</p>\r\n<p><strong>Hepatoid adenocarcinoma and related entities:</strong> Hepatoid adenocarcinoma is predominantly composed of large polygonal eosinophilic hepatocyte-like neoplastic cells. AFP can be detected by immunohistochemistry in the tumour cells, and also in the serum. Bile and PASD-positive intracytoplasmic eosinophilic globules can be observed. Other AFP-producing carcinomas include well-differentiated papillary or tubular-type adenocarcinoma with clear cytoplasm, adenocarcinoma with enteroblastic differentiation and yolk-sac tumour&ndash;like carcinoma {11706627; 29034239; 29751042; 21592404; 26622718}. More than one of these histological types often coexist. The reported frequencies of hepatoid carcinoma and AFP-producing carcinomas are 0.3&ndash;2% {28505005; 19243386} and 2.6&ndash;5.4% {28505005; 1371637} of all GCs, respectively. Adenocarcinoma with enteroblastic differentiation is a tumour showing a tubulopapillary architecture composed of columnar neoplastic cells with clear cytoplasm, resembling early fetal gut epithelium. These types of tumours may express marker proteins of fetal gut, such as SALL4, claudin-6, and glypican-3 (GPC3) {20182341; 22803571; 19243386; 23837142}. SALL4 and claudin-6 immunohistochemistry are diagnostically useful in distinguishing hepatoid adenocarcinoma from hepatocellular carcinoma {20182341}.</p>\r\n<p><strong>Micropapillary adenocarcinoma: </strong>This subtype is characterized by the presence of small clusters of tumour cells without fibrovascular cores protruding into clear spaces {20661012}. This component, ranging between 10% and 90% of the entire tumour, accompanies tubular or papillary GCs. A pure invasive micropapillary carcinoma of the oesophagogastric junction has been reported {27553658}. The micropapillary subtype has an unfavourable prognosis, and patients often have lymph node metastasis {21164291; 22175888; 24562421}.</p>\r\n<p><strong>Gastric adenocarcinoma of fundic-gland type:</strong> This subtype is assumed to develop from oxyntic gland&nbsp;adenoma, and it accounts for 1% of early GCs treated by endoscopic submucosal dissection {26185396}. The characteristic oxyntic gland differentiation can be divided into three subcategories on the basis of the tumours&rsquo; composition: chief cell&ndash;predominant (~99% of reported cases), parietal cell&ndash;predominant, and mixed phenotype {29648578}. Submucosal invasion is observed in 60% of cases {29648578}. Immunohistochemistry demonstrates positivity of both pepsinogen&nbsp;I and MUC6 {25597649}. Some cells also show differentiation towards parietal cells (H<sup>+</sup>/K<sup>+</sup>&nbsp;ATPase&ndash;positive) {20410811}. This subtype of GC is slow-growing, and lymph node metastasis is extremely rare.</p>\r\n<p><strong>Rare subtypes </strong>encompass mucoepidermoid carcinoma {3807383}, Paneth cell carcinoma {2068003}, and parietal cell carcinoma {6083970}.</p>\r\n<h5>Grading</h5>\r\n<p>Grading applies primarily to tubular and papillary carcinomas and not to other GC subtypes. Thus, well-differentiated adenocarcinomas are composed of well-formed glands, whereas poorly differentiated carcinomas have poorly formed glands and may display solid areas or individual cells. Grading is preferably performed using a two-tiered system: low-grade (formerly well or moderately differentiated) versus high-grade (formerly poorly differentiated).</p>\r\n<h5>Tumour spread</h5>\r\n<p>GCs can spread by direct extension to adjacent organs, by lymphatic and/or haematogenous spread, and/or by serosal dissemination. Lymphovascular invasion should be systematically assessed; it is an indicator of biological aggressiveness and may be a prognostic factor for lymph node&ndash;negative GC {25376868; 19878963}. Tubular/papillary carcinomas are more likely to give rise to liver metastases by haematogenous spread, whereas PCCs are more likely to involve the serosa. Mixed tumours exhibit the metastatic patterns of both types. Widespread tumour extension is particularly common in PCCs, which frequently show extensive spread on the serosal surface, well beyond the macroscopically visible tumour. Consequently, frozen section examination of longitudinal margins is desirable, particularly if the clearance is &lt;&nbsp;4&nbsp;cm, to assess completeness of resection. If carcinoma penetrates the serosa, peritoneal implants generally flourish. Bilateral massive ovarian involvement (Krukenberg tumour) can result from transperitoneal or haematogenous spread. Pulmonary lymphangitic carcinomatosis and pulmonary tumour thrombotic microangiopathy may rarely develop in patients with GC {23536282; 25740390}.</p>\r\n<h5>Response to therapy</h5>\r\n<p>Neoadjuvant therapy may modify the histopathological appearance. Tumour response, which can vary from no detectable response to pathological complete response, can be assessed by tumour regression grade (TRG). Various methods have been proposed, including the Becker and Mandard systems {14508841; 28918544; 24109590; 8194005}, but there is no international consensus on which TRG system should be used.</p>",
+        "timestamp": "2019-10-15T14:36:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 54343,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 170,
+        "headingText": "<p>Peritoneal lavage cytology has been used for GC staging and monitoring adjuvant chemotherapy for GC {28779261}. Abnormal cytology findings include irregularly shaped nuclei, high N:C&nbsp;ratio, increased chromatin, and anisonucleosis. The presence of a single signet-ring cell, &gt;&nbsp;5&nbsp;cell clusters, or &ge;&nbsp;50 isolated cancer cells in the peritoneal lavage is reported to affect the outcome of patients with R1&nbsp;resection despite the absence of macroscopic peritoneal metastasis {28256061}.</p>",
+        "timestamp": "2019-01-29T16:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 54344,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 171,
+        "headingText": "<p>Routine evaluation for MSI and PDL1 expression is not currently recommended, but gastric adenocarcinomas are good potential candidates for immunotherapy targeting the PD1/PDL1 axis, and these biomarkers are now under investigation in clinical trials.</p>",
+        "timestamp": "2019-04-23T16:33:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 54345,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 174,
+        "headingText": "<p><em>Essential:</em> evidence of invasion of the lamina propria or deeper layers by neoplastic glandular cells; immunohistochemistry (may be required for the characterization of some histological subtypes, as well as for small biopsies and metastases).</p>\r\n<p><em>Desirable:</em> ERBB2 (HER2) immunohistochemistry (required if anti-ERBB2 therapy is being considered).</p>",
+        "timestamp": "2019-01-29T16:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 54346,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 172,
+        "headingText": "<p>According to the eighth editions (2017) of the Union for International Cancer Control (UICC) TNM classification [[Brierly JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley Blackwell; 2017.]] and the American Joint Committee on Cancer (AJCC) cancer staging manual [[Amin MB, Edge S, Greene F, et al., editors. AJCC cancer staging manual. 8th ed. New York (NY): Springer; 2017.]], tumours involving the oesophagogastric junction with an epicentre &le;&nbsp;2&nbsp;cm into the proximal stomach are staged as oesophageal cancers; tumours with an epicentre located &gt;&nbsp;2&nbsp;cm into the proximal stomach are staged as GCs, even if the oesophagogastric junction is involved. All tumours in the stomach that do not cross the oesophagogastric junction are staged as GC.</p>",
+        "timestamp": "2019-01-29T18:22:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 54347,
+        "bookId": 31,
+        "chapterId": 29,
+        "headingId": 173,
+        "headingText": "<h5>Prognostic factors</h5>\r\n<p><strong>Stage:</strong> The pTNM staging system is currently the single most important factor for prognosis prediction in patients with GC. The 5-year survival rate in patients with pT1 (tumour invades the lamina propria, muscularis mucosae, or submucosa) and pN0 (no regional lymph node metastasis) GC is &gt;&nbsp;90% {26897166}. Survival decreases in a stepwise fashion with increasing pT and pN category {26897166}. The 5-year survival rate is 30% in patients with pT4b GC, 20% in those with pN3b GC, and 20% in patients with stage IIIC GC {26897166}.</p>\r\n<p><strong>Histology:</strong> It has been suggested that histological phenotype may affect prognosis {16714395; 19453074}. The Japanese recommendations for endoscopic treatment of GC are based on the size and histopathological characteristics of the lesion (see Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/29/1035\" target=\"_blank\">#1035</a>) {27704225} [[Japanese Gastric Cancer Association. [Japanese gastric cancer treatment guidelines]. 5th ed. Tokyo (Japan): Kanehara Shuppan; 2018. Japanese.]]. Detailed histopathological examination of the resected material is mandatory to identify even minute foci of submucosal invasion or other features that indicate the need for further treatment {21573743}. Patients with PCC with abundant fibrous stroma (linitis plastica or scirrhous carcinoma) have the worst prognosis, with a 5-year survival rate of &lt;&nbsp;15% {21717092; 28679451; 29299363}.</p>\r\n<p><strong>Molecular profile:</strong> The recently identified molecular profiles are not only important to improve our understanding of driver alterations involved in gastric carcinogenesis, but may also help identify clinically relevant biomarkers and new potential therapeutic targets in the future.</p>\r\n<h5>Established predictive biomarkers</h5>\r\n<p><strong>ERBB2 (HER2): </strong>Anti-ERBB2 therapy benefits patients with unresectable or metastatic/recurrent ERBB2-positive GC, and ERBB2 testing is used to predict potential therapy response {27342689}. ERBB2 status is assessed primarily by immunohistochemistry; if the findings are equivocal, <em>ERBB2</em> in&nbsp;situ hybridization is recommended {28129524}. The prognostic value of ERBB2 overexpression&nbsp;/ <em>ERBB2</em> amplification has been demonstrated in some studies but not in others&nbsp;{25224659; 25682441; 29507688}.</p>\r\n<h5>Predictive biomarkers partly established and/or under development</h5>\r\n<p><strong>Receptor tyrosine kinases: </strong><em>EGFR</em> amplification has been suggested to be an independent prognostic factor in stage&nbsp;II/III GC {22977193}. Similarly, c-MET status has been suggested to be an independent prognostic factor for unresectable or recurrent GC in patients who received standard chemotherapy {25682441}.</p>\r\n<p><strong>MSI and EBV: </strong>The prognosis of GC with EBV positivity or MSI&nbsp;/ mismatch repair deficiency is better than that of cases that are EBV-negative or MSS&nbsp;/ mismatch repair proficient {26137290; 29091259; 27450278; 27934877; 25633561}. Therefore, histological recognition of GC with lymphoid stroma, EBV detection by EBER testing, and detection of hypermethylation of <em>MLH1</em> are biomarkers of good prognosis.</p>\r\n<p><strong>Cancer immunotherapy: </strong>Tumour mutation load, density of intratumoural CD8+ T-cell infiltrates, and PDL1 expression have been proposed as biomarkers of response to immune checkpoint blockade therapy {27079802}. Among the four molecular subtypes proposed by TCGA, microsatellite-unstable&nbsp;GC with promoter methylation of mismatch repair genes is characterized by a high frequency of mutations, and among EBV-positive GCs, amplification and elevated expression of PDL1 is observed in 10&ndash;15% and 30&ndash;50%, respectively {25079317; 25633561; 27147580; 27934877; 29627937}. Therefore, these two molecular subtypes might be good potential candidates for immunotherapy targeting the PD1/PDL1 axis, which is currently under investigation in clinical trials.</p>\r\n<p><strong>Other predictive/prognostic biomarkers: </strong>A very large number of single gene marker studies have been published, including studies of EGF/TGF-&alpha;, VEGF-A, CD44, E-cadherin, MMP1, MMP7, MMP10, SPC18, and protocadherin&nbsp;B9 {15864715; 23995782; 24488015; 28671736} [[Tan D, Lynch HT, editors. Principles of molecular diagnostics and personalized cancer medicine. Philadelphia (PA): Lippincott Williams &amp; Wilkins; 2013.]]. Several comprehensive molecular profiles have been proposed to have prognostic value {16145069; 20012501; 21191688; 24217965; 25079317; 25894828}. Certain microRNA signatures have been associated with survival in GC {19951901; 20022810; 28903436}. However, none has yet been introduced into clinical practice.</p>",
+        "timestamp": "2019-10-15T14:38:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

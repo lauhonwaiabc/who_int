@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 141,
+    "bookId": "63",
+    "roleid": 185,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4643,
+        "lastname": "Chng",
+        "firstname": "Wee Joo",
+        "initials": "",
+        "email": "",
+        "roleid": 185,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 142,
+    "bookId": "63",
+    "roleid": 186,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4404,
+        "lastname": "Sewell",
+        "firstname": "William Arthur",
+        "initials": "",
+        "email": "",
+        "roleid": 186,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 143,
+    "bookId": "63",
+    "roleid": 187,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 4795,
+        "lastname": "Wechalekar",
+        "firstname": "Ashutosh Dilip",
+        "initials": "",
+        "email": "",
+        "roleid": 187,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 144,
+    "bookId": "63",
+    "roleid": 188,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4472,
+        "lastname": "Naresh",
+        "firstname": "Kikkeri N.",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4874,
+        "lastname": "Gertz",
+        "firstname": "Morie",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      }
+    ]
+  }
+]

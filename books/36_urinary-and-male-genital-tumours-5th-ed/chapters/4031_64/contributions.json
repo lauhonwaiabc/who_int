@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 71108,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 539,
+        "headingText": "\r\n<p>Paragangliomas (PGLs) are neuroendocrine neoplasms (NENs) that develop from the neural crest&ndash;derived progenitors in paraganglia associated with the prevertebral and paravertebral sympathetic chains, sympathetic nerve plexuses, and sympathetic nerve fibres.</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 71109,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 540,
+        "headingText": "\r\n<p>8693/3 Extra-adrenal paraganglioma</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 71110,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 541,
+        "headingText": "\r\n<p>2C9Y &amp; XH1UN6 Other specified malignant neoplasms of urinary tract &amp; Extra-adrenal paraganglioma</p>\r\n<p>2C9Y &amp; XH0EW6 Other specified malignant neoplasms of urinary tract &amp; Paraganglioma, NOS</p>\r\n<p>2C9Y &amp; XH4G21 Other specified malignant neoplasms of urinary tract &amp; Sympathetic paraganglioma</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 71111,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Acceptable:</em> extra-adrenal paraganglioma; sympathetic paraganglioma.</p>\r\n<p><em>Not recommended:</em> extra-adrenal phaeochromocytoma; phaeochromocytoma.</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 71112,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 71113,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 544,
+        "headingText": "\r\n<p>PGLs occur in the lower abdomen, retroperitoneum, pelvis, or bladder wall and are related to the presence of paraganglia. Rare sites of occurrence of PGLs in the genitourinary tract include the urethra, prostate, seminal vesicles, kidneys, and paratestis {20718871; 19415959}.</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 71114,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 545,
+        "headingText": "\r\n<p>Most PGLs are sympathetic and functional, so clinical manifestations may be due to catecholamine excess and/or mass effects. Symptoms of adrenaline/noradrenaline excess include sweating, palpitation, and anxiety; signs include paroxysmal hypertension and tachycardia. Some PGLs of the bladder wall have been described with micturition-associated symptomatology {31564165}. The tumours with SDH mutations tend to be non-secretory or produce dopamine only.</p>\r\n<h5>Imaging</h5>\r\n<p>The use of imaging modalities for the detection of PGL depends on their genetic background (see <em>Pathogenesis</em>, below). Those that have pseudohypoxic pathogenesis express SSTR and are well visualized with 68Ga-DOTATATE PET-CT or the less sensitive indium-labelled somatostatin scans. Tumours with kinase pathway abnormalities can be imaged with 18F-DOPA PET-CT or iobenguane (metaiodobenzylguanidine; 123I-MIBG) {33247927; 23162105}.</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 71115,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 546,
+        "headingText": "\r\n<p>In the Netherlands and the Republic of Korea, which have national registries, the respective incidence rates of PGL are approximately 0.5&nbsp;and 0.18&nbsp;cases per 100&nbsp;000&nbsp;person-years {29361475; 32207276}. Patients typically present in their fifth or sixth decade of life (age range: 0&ndash;88&nbsp;years) {29361475}. There is a slight female predominance or (in some series) an equal sex distribution {29361475; 32207276}. Only 10&ndash;20% of PGLs occur in children. PGL of the bladder wall accounts for 0.05% of all bladder tumours {23627260}.</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 71116,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 547,
+        "headingText": "\r\n<p>Overall, 30&ndash;40% of PGLs in adults, and an even higher percentage in children, arise in the context of hereditary disease, and genetic testing for &gt;&nbsp;20&nbsp;susceptibility genes facilitates risk reduction strategies across entire kindreds {23913591; 24899893}. Younger age at presentation, multiple tumours, and the presence of extra-adrenal tumours are significantly associated with the presence of a germline mutation {12000816}.</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 71117,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 548,
+        "headingText": "\r\n<p>Susceptibility genes have been clustered according to pathogenetic processes into a pseudohypoxia-associated cluster, including all hypoxia-related genes (SDH genes, <em>VHL</em>, <em>EGLN2</em> [<em>PHD1</em>], <em>EGLN1</em> [<em>PHD2</em>], <em>EPAS1</em> [<em>HIF2A</em>]), the Krebs cycle genes (<em>FH</em>, <em>MDH2</em>, <em>IDH1</em>, and <em>IDH2</em>), a kinase-signalling cluster (including <em>RET</em>, <em>TMEM127</em>, <em>HRAS</em>, and <em>NF1</em>), and a WNT-altered cluster (including <em>CSDE1</em> and <em>MAML3</em>). A possible fourth cluster, initially designated as the (adrenal) cortex admixture subtype, harbouring both <em>MAX</em> mutations might have a separate biological background {28162975}.</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 71118,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 555,
+        "headingText": "\r\n<p>PGLs have no specific gross appearance. When they are in the vicinity of the adrenal gland, care should be exercised to assure tumours are indeed extra-adrenal. Bladder PGL may occur anywhere in the wall, and it may be exophytic with intact mucosa or lead to ulcerations. PGLs may be as large as 90&nbsp;mm {23627260}.</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 71119,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 549,
+        "headingText": "<p>PGLs have a characteristic nested growth pattern with a Zellballen appearance. These are separated by a delicate fibrovascular network and supported by sustentacular cells. Nuclei in PGLs are round to oval and sometimes pleomorphic or hyperchromatic, while the cytoplasm usually is eosinophilic (in contrast to phaeochromocytomas, which have amphophilic to basophilic cytoplasm). Some PGLs have cells with clear cytoplasm, which can cause them to be mistaken for urinary bladder {14707870}, prostate {23766843}, or renal {30116720} carcinomas. Muscularis propria invasion is common in urinary bladder PGLs, leading to misdiagnosis as urothelial carcinoma {24739826}.</p>\r\n<p>Immunohistochemical staining for neuroendocrine markers including synaptophysin and chromogranin&nbsp;A yields diffuse strong staining. S100 and SOX10 staining highlights the sustentacular cells. Additionally on immunohistochemistry, PGL may express cytoplasmic tyrosine hydroxylase, SSTR2A, and nuclear GATA3 {30217041; 23599157; 32303954}. Most PGLs (with the exception of spinal PGL) are immunonegative for cytokeratins {31442521}. A loss of SDHB immunoreactivity in tumour cells with granular cytoplasmic staining of stromal cells (positive internal control) supports the diagnosis of SDH-related disease {20236688; 19576851}; in tumours that lack SDHB immunoreactivity, the addition of SDHA staining can identify loss in patients with <em>SDHA</em> mutations {21752896}.</p>",
+        "timestamp": "2022-02-28T13:05:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 71120,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 71121,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 551,
+        "headingText": "\r\n<p>No specific molecular analyses are necessary in the context of the diagnosis.</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 71122,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> typical PGL morphology.</p>\r\n<p><em>Desirable:</em> genetic studies to identify specific genetic mutations; positive immunohistochemistry for synaptophysin and chromogranin&nbsp;A; biochemical demonstration of catecholamine excess for functional tumours; imaging studies.</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 71123,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 552,
+        "headingText": "\r\n<p>The eighth edition of the American Joint Committee on Cancer (AJCC) TNM staging system is used; there is no Union for International Cancer Control (UICC) staging system for paraganglioma. A multidisciplinary international pathology reporting template was introduced in 2014 {24476517}. Recently, a pathology-standardized reporting guideline for PGL was introduced by the International Collaboration on Cancer Reporting (ICCR) {32407815}.</p>\r\n",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 71124,
+        "bookId": 36,
+        "chapterId": 64,
+        "headingId": 553,
+        "headingText": "\r\n<p>There is no single histological finding or biomarker that reliably predicts metastatic spread in patients with PGLs {30217041; 24476517}. PGLs tend to have a lifelong risk of metastases. The 2017 edition of the WHO classification of endocrine tumours did not endorse a formal prognostic/predictive grading or scoring system for these tumours. There are currently three scoring systems for extra-adrenal PGLs: the grading system for adrenal phaeochromocytoma and paraganglioma (GAPP) {24521857}; the modified GAPP {29117221}; the age, size, extra-adrenal location, and secretory type (ASES) score {29929757}; and the recently proposed composite phaeochromocytoma/paraganglioma prognostic score (COPPS) {30868297}. Application of these systems has demonstrated variable prognostic/predictive performance and utility {29779047; 30769931}. From a molecular perspective, with the exception of germline <em>SDHB</em> mutations {32062700; 21969497}, somatic alterations that correlate with aggressive biology include somatic <em>SETD2</em> or <em>ATRX</em> mutations, <em>MAML3</em> fusions, and the WNT-altered pathway {28162975} and <em>TERT</em> activation {30301828}. Large tumour size, molecular clusters (especially pseudohypoxia and <em>SDHB</em> mutations), biochemical phenotype, and resectability status are often considered components of the dynamic risk factors in patients with PGL {30769931; 33193100}.</p>",
+        "timestamp": "2022-02-22T16:05:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

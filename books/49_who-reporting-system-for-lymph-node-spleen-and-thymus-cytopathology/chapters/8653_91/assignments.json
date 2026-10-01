@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 145,
+    "bookId": "49",
+    "roleid": 181,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4119,
+        "lastname": "Mehrotra",
+        "firstname": "Ravi",
+        "initials": "",
+        "email": "",
+        "roleid": 181,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 147,
+    "bookId": "49",
+    "roleid": 183,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2444,
+        "lastname": "Bode-Lesniewska",
+        "firstname": "Beata",
+        "initials": "",
+        "email": "",
+        "roleid": 183,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 148,
+    "bookId": "49",
+    "roleid": 184,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4158,
+        "lastname": "Cozzolino",
+        "firstname": "Immacolata",
+        "initials": "",
+        "email": "",
+        "roleid": 184,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 124259,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 764,
+        "headingText": "\r\n<p>Verruca plana is an HPV-induced benign epidermal proliferation characterized by flat-topped cutaneous papules.</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 124260,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 765,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 124261,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 766,
+        "headingText": "\r\n<p>1E80.1 Plane warts</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 124262,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 767,
+        "headingText": "\r\n<p><em>Acceptable:</em> plane wart; flat wart.</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 124263,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 768,
+        "headingText": "\r\n<p>Epidermodysplasia verruciformis acanthoma</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 124264,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 769,
+        "headingText": "\r\n<p>The lesions occur most frequently on the face, hands, and shins {22131115}. Rarely, plane warts may occur on the site of a tattoo {32282734}.</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 124265,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 770,
+        "headingText": "\r\n<p>Patients present with several smooth-surfaced, skin-coloured to light-brown papules. Associated koebnerization can occur {22131115}. Redness or depigmentation is often indicative of regression {921896}. Dermoscopy has emerged as a useful diagnostic adjunct {33866733}.</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 124266,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 771,
+        "headingText": "\r\n<p>Verruca plana most commonly affects children. In adults, there is a predilection for women {22131115}.</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 124267,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 772,
+        "headingText": "\r\n<p>The most frequently implicated HPV types are HPV3, HPV5, HPV10, and HPV28 {2172338; 22131115; 23932731}. Epidermodysplasia verruciformis, an autosomal recessive genodermatosis with mutations in <em>TMC6</em> (<em>EVER1</em>) or <em>TMC8</em> (<em>EVER2</em>) confers susceptibility to causative HPV types {9146528}. Immunosuppression is a risk factor {22131115}. Multiple plane warts occupying &gt;&nbsp;5% of the body surface area are a potential harbinger of underlying HIV infection {19940800}. In patients infected with HIV, a sudden eruption of lesions may herald the immune reconstitution inflammatory syndrome {18975443}.</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 124268,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 773,
+        "headingText": "\r\n<p>See the <em>Pathogenesis</em> subsection of the <a style=\"cursor:pointer\" href=\"/chaptercontent/64/10\" target=\"_blank\">section </a><em>Verruca vulgaris</em> section .</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 124269,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 780,
+        "headingText": "\r\n<p>See <em>Clinical features</em>, above.</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 124270,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 774,
+        "headingText": "<p>There is orthokeratosis, mild acanthosis, and variable hypergranulosis, but only minimal papillomatosis. Scattered koilocytes (some with grey-blue cytoplasm) are present in the upper third of the epidermis {22131115}. Owl&rsquo;s-eye intranuclear inclusions may be found. Regression is associated with a superficial perivascular lymphocytic infiltrate, lymphocytic exocytosis, and keratinocytic apoptosis {2839432; 900963}.</p>\r\n<p>Epidermodysplasia verruciformis exhibits a spectrum of features, including orthokeratosis, an irregular granular layer, and enlarged keratinocytes with abundant bluish-grey, often vacuolated cytoplasm {11023102}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Seborrhoeic keratoses tend to be more scattered, and apart from being histologically distinctive, they possess different dermoscopic and reflectance confocal microscopic features from plane warts {33866733; 33174647}.</p>",
+        "timestamp": "2025-04-24T14:06:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 124271,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 775,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 124272,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 776,
+        "headingText": "\r\n<p>Routine HPV subtyping is not indicated.</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 124273,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 779,
+        "headingText": "\r\n<p><em>Essential:</em> mild acanthosis; hypergranulosis; koilocytosis.</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 124274,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 777,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 124275,
+        "bookId": 64,
+        "chapterId": 12,
+        "headingId": 778,
+        "headingText": "\r\n<p>Some lesions show spontaneous regression, whereas others can be persistent or recurrent despite treatment {23932731; 24938453}. In one historical study of plane warts that had regressed, 64% were found to have done so spontaneously; the other 36% underwent regression following various forms of treatment {900963}.</p>",
+        "timestamp": "2025-04-24T14:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

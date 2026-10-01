@@ -1,0 +1,187 @@
+[
+  {
+    "pkroleId": 202,
+    "bookId": "67",
+    "roleid": 209,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2173,
+        "lastname": "Cree",
+        "firstname": "Ian A.",
+        "initials": "",
+        "email": "",
+        "roleid": 209,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 203,
+    "bookId": "67",
+    "roleid": 210,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4139,
+        "lastname": "Khoury",
+        "firstname": "Joseph D.",
+        "initials": "JD",
+        "email": "",
+        "roleid": 210,
+        "position": 0
+      },
+      {
+        "contributorid": 2890,
+        "lastname": "Denton",
+        "firstname": "Erika R.E.",
+        "initials": "",
+        "email": "",
+        "roleid": 210,
+        "position": 0
+      },
+      {
+        "contributorid": 4887,
+        "lastname": "Eden",
+        "firstname": "Michael",
+        "initials": "M",
+        "email": "",
+        "roleid": 210,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 204,
+    "bookId": "67",
+    "roleid": 211,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2019,
+        "lastname": "Arends",
+        "firstname": "Mark J.",
+        "initials": "MJ",
+        "email": "",
+        "roleid": 211,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 205,
+    "bookId": "67",
+    "roleid": 212,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2001,
+        "lastname": "Gill",
+        "firstname": "Anthony J.",
+        "initials": "AJ",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 2165,
+        "lastname": "Frayling",
+        "firstname": "Ian M.",
+        "initials": "IM",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 2443,
+        "lastname": "Pfister",
+        "firstname": "Stefan M.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 2862,
+        "lastname": "Foulkes",
+        "firstname": "William D.",
+        "initials": "WD",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 3767,
+        "lastname": "Rubin",
+        "firstname": "Mark A.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 4243,
+        "lastname": "Leite",
+        "firstname": "Katia R.M.",
+        "initials": "KRM",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 4887,
+        "lastname": "Eden",
+        "firstname": "Michael",
+        "initials": "M",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5281,
+        "lastname": "Dalgleish",
+        "firstname": "Raymond",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5282,
+        "lastname": "Bruford",
+        "firstname": "Elspeth A.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5284,
+        "lastname": "Plon",
+        "firstname": "Sharon",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5287,
+        "lastname": "Walsh ",
+        "firstname": "Michael Francis",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      }
+    ]
+  }
+]

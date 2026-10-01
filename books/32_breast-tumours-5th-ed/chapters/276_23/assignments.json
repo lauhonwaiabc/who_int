@@ -1,0 +1,62 @@
+[
+  {
+    "pkroleId": 65,
+    "bookId": "32",
+    "roleid": 15,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2196,
+        "lastname": "Brogi",
+        "firstname": "Edi ",
+        "initials": "",
+        "email": "",
+        "roleid": 15,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 67,
+    "bookId": "32",
+    "roleid": 17,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2270,
+        "lastname": "Marchiò",
+        "firstname": "Caterina",
+        "initials": "",
+        "email": "",
+        "roleid": 17,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 68,
+    "bookId": "32",
+    "roleid": 18,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2241,
+        "lastname": "Vincent-Salomon",
+        "firstname": "Anne",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2271,
+        "lastname": "Horlings",
+        "firstname": "Hugo",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      }
+    ]
+  }
+]

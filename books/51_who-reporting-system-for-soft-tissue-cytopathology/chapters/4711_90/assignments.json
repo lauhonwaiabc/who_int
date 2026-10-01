@@ -1,0 +1,70 @@
+[
+  {
+    "pkroleId": 166,
+    "bookId": "51",
+    "roleid": 189,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2309,
+        "lastname": "Jo",
+        "firstname": "Vickie Y.",
+        "initials": "",
+        "email": "",
+        "roleid": 189,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 167,
+    "bookId": "51",
+    "roleid": 190,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4177,
+        "lastname": "Chebib",
+        "firstname": "Ivan",
+        "initials": "",
+        "email": "",
+        "roleid": 190,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 168,
+    "bookId": "51",
+    "roleid": 191,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 4162,
+        "lastname": "Monaco",
+        "firstname": "Sara E.",
+        "initials": "",
+        "email": "",
+        "roleid": 191,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 169,
+    "bookId": "51",
+    "roleid": 192,
+    "roleTitle": "Co-Author(s)",
+    "contributors": [
+      {
+        "contributorid": 2441,
+        "lastname": "Agaram",
+        "firstname": "Narasimhan P.",
+        "initials": "",
+        "email": "",
+        "roleid": 192,
+        "position": 0
+      }
+    ]
+  }
+]

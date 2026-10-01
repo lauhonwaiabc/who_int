@@ -1,0 +1,62 @@
+[
+  {
+    "pkroleId": 121,
+    "bookId": "50",
+    "roleid": 164,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4172,
+        "lastname": "Weynand",
+        "firstname": "Birgit",
+        "initials": "",
+        "email": "",
+        "roleid": 164,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 123,
+    "bookId": "50",
+    "roleid": 166,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4361,
+        "lastname": "Cai",
+        "firstname": "Guoping",
+        "initials": "",
+        "email": "",
+        "roleid": 166,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 124,
+    "bookId": "50",
+    "roleid": 167,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2093,
+        "lastname": "Pitman",
+        "firstname": "Martha Bishop",
+        "initials": "MB",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      },
+      {
+        "contributorid": 4392,
+        "lastname": "Sigel",
+        "firstname": "Carlie",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      }
+    ]
+  }
+]

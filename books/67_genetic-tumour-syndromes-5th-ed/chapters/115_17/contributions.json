@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1174,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 795,
+    "contributions": [
+      {
+        "pkcontributionId": 157937,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 795,
+        "headingText": "\r\n<p>Hereditary neuroblastoma, a specific group in peripheral neuroblastic tumours (pNTs), is caused by a germline (constitutional) pathogenic sequence variant affecting either <em>ALK</em> or <em>PHOX2B.</em></p>\r\n",
+        "timestamp": "2026-09-02T11:49:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1175,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "MIM numbering",
+    "headingPosition": 2,
+    "headingid": 796,
+    "contributions": [
+      {
+        "pkcontributionId": 157938,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 796,
+        "headingText": "\r\n<p>613013 Neuroblastoma, susceptibility to,&nbsp;2; NBLST2 (<em>PHLOX2B</em>)</p>\r\n<p>613014 Neuroblastoma, susceptibility to,&nbsp;3; NBLST3 (<em>ALK</em>)</p>\r\n",
+        "timestamp": "2026-09-02T11:49:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1176,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 797,
+    "contributions": [
+      {
+        "pkcontributionId": 157939,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 797,
+        "headingText": "\r\n<p>XH85Z0 Neuroblastoma, NOS</p>\r\n",
+        "timestamp": "2026-09-02T11:49:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1177,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 798,
+    "contributions": [
+      {
+        "pkcontributionId": 157940,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 798,
+        "headingText": "\r\n<p><em>Acceptable:</em> familial neuroblastoma.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1178,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 799,
+    "contributions": [
+      {
+        "pkcontributionId": 157941,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 799,
+        "headingText": "\r\n<p>Hereditary neuroblastoma with variants affecting the <em>PHOX2B</em> gene; hereditary neuroblastoma with variants affecting the <em>ALK</em> gene</p>\r\n",
+        "timestamp": "2026-09-02T11:49:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1179,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 800,
+    "contributions": [
+      {
+        "pkcontributionId": 157942,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 800,
+        "headingText": "\r\n<p>Primary tumour localizations of hereditary neuroblastoma are the same as those of sporadic pNT cases. They are closely related to the migration pattern of neural crest cells at the origin of the sympathetic nervous system and include the adrenal gland and sympathetic ganglia.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1180,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 801,
+    "contributions": [
+      {
+        "pkcontributionId": 157943,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 801,
+        "headingText": "\r\n<p>The clinical presentation of hereditary neuroblastoma does not differ fundamentally from that of sporadic pNTs. However, patients with hereditary neuroblastoma seem to have an increased risk of developing their tumour in multiple primary sites {4340974}. Few patients of hereditary neuroblastoma associated with <em>ALK</em> sequence variants present with severe neurocognitive defects and brain stem abnormalities {21972109}.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1181,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 802,
+    "contributions": [
+      {
+        "pkcontributionId": 157944,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 802,
+        "headingText": "\r\n<p>Without performing systematic sequencing of <em>PHOX2B</em> and <em>ALK</em> in all patients with pNTs, the exact incidence of hereditary neuroblastoma is not known. However, it is estimated to be about 1&ndash;2% of all pNT cases {27830764;30200332}. The tumours are inherited in an autosomal dominant fashion {28674118}. The penetrance within family members is reported as incomplete, but it might well be underestimated since some tumours could regress spontaneously or remain completely asymptomatic. Thus, mediastinal and abdominal imaging tests are warranted in all variant carriers, regardless of their age and clinical history, in order to better appreciate the tumour penetrance.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1182,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 803,
+    "contributions": [
+      {
+        "pkcontributionId": 157945,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 803,
+        "headingText": "\r\n<p>Neuroblastoma is caused by transformation of neural crest cells owing to genetic or epigenetic events, but the etiology remains poorly understood. Variants of <em>PHOX2B</em> or <em>ALK</em> are reported in rare neuroblastoma patients with a family history of the disease (hereditary neuroblastoma).</p>\r\n",
+        "timestamp": "2026-09-02T11:49:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1183,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 804,
+    "contributions": [
+      {
+        "pkcontributionId": 157946,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 804,
+        "headingText": "\r\n<h5>PHOX2B gene variants</h5>\r\n<p>The <em>PHOX2B</em> gene, located at chromosome 4p13, plays a crucial role in the differentiation of the neural lineages of the autonomic nervous system. <em>PHOX2B</em> was reported as the first identified neuroblastoma predisposition gene in 2004 {15024693;15338462}, and sequence variants of this gene are reported in approximately 10% of hereditary familial cases. It is also known as the major disease-causing gene for congenital central hypoventilation syndrome (CCHS; also known as Ondine&rsquo;s curse) {12640453}. About 90% of <em>PHOX2B </em>variants are polyalanine repeat mutations (PARMs), i.e. expansions of the polyalanine region in exon&nbsp;3, and they are mostly associated with isolated CCHS, while 6&ndash;10% of <em>PHOX2B</em> variants are non-PARMs and include frameshift, missense, and nonsense variants. Most of the non-PARMs are detected in syndromic CCHS, presenting with neuroblastoma and/or Hirschsprung disease, collectively grouped as the neuroblastoma&ndash;Hirschsprung disease&ndash;CCHS cluster (Haddad syndrome) {15657873;26375764}.</p>\r\n<h5>ALK gene variants</h5>\r\n<p>Gain-of-function variants in the <em>ALK</em> gene, located at chromosome 2p23.2-p23.1, are detected in about 75% of hereditary neuroblastoma cases. Germline variants of <em>ALK</em> in hereditary familial neuroblastoma were found to be SNVs in the region of the gene encoding the tyrosine kinase domain {28674118}. The variant NM_004304.5:c.3824G&gt;A p.(Arg1275Gln) occurs most frequently in hereditary neuroblastoma and is also one of the most prevalent variants in sporadic neuroblastic tumours {25517749;28674118}. By contrast, substitutions at Phe1174 and Phe1245, which are frequent variants in sporadic neuroblastoma, have been detected rarely in familial cases and only in the context of severe neurocognitive defects and brain stem abnormalities {21972109}. Across all neuroblastoma-predisposing <em>ALK </em>sequence variants in the aggregate, penetrance is estimated to be approximately 50% {21734404;25517749}. Additional genetic modifiers influencing the observed incomplete penetrance remain to be identified. Genomic amplification of <em>ALK</em>, which is observed in sporadic neuroblastoma and other human malignancies, has not been found in hereditary neuroblastoma thus far.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1190,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 811,
+    "contributions": [
+      {
+        "pkcontributionId": 157947,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 811,
+        "headingText": "\r\n<p>No specific macroscopic appearances are reported for familial neuroblastomas, and they are the same as for sporadic pNTs.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1184,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 805,
+    "contributions": [
+      {
+        "pkcontributionId": 157948,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 805,
+        "headingText": "\r\n<p>No specific histological features for familial neuroblastoma are reported. Accordingly, application of the International Neuroblastoma Pathology Classification (INPC) {10421272;10421273} is recommended for histopathological evaluation and the distinction of favourable histology and unfavourable histology in hereditary neuroblastoma cases. Members of the same families can be found to have tumours in any category (i.e. neuroblastoma [Schwannian stroma poor]; ganglioneuroblastoma, intermixed [Schwannian stroma rich]; ganglioneuroma [Schwannian stroma dominant]; and ganglioneuroblastoma, nodular [composite, Schwannian stroma dominant&nbsp;/ stroma rich and stroma poor]), in any subtype based on neuroblastic differentiation (undifferentiated, poorly differentiated, or differentiating), and in any mitosis-karyorrhexis index class (low, intermediate, or high).</p>\r\n",
+        "timestamp": "2026-09-02T11:49:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1185,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 806,
+    "contributions": [
+      {
+        "pkcontributionId": 157949,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 806,
+        "headingText": "\r\n<p>Cytologically, individual tumours are indistinguishable from their sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1186,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 807,
+    "contributions": [
+      {
+        "pkcontributionId": 157950,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 807,
+        "headingText": "\r\n<p>Diagnostic evaluation of genomic/molecular characteristics significantly associated with biological/clinical behaviour of pNTs in general should be applied to hereditary neuroblastoma. This includes <em>MYCN</em> oncogene status, MYC family protein overexpression, telomere maintenance abnormalities, tumour DNA content, segmental chromosomal aberrations, and <em>ALK </em>mutation/amplification (see <em>Prognosis and prediction</em>, below).</p>\r\n",
+        "timestamp": "2026-09-02T11:49:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1189,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 810,
+    "contributions": [
+      {
+        "pkcontributionId": 157951,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 810,
+        "headingText": "\r\n<p><em>Essential:</em> germline pathogenic sequence variant affecting either <em>ALK</em> or <em>PHOX2B </em>in a patient with neuroblastoma.</p>\r\n<p>&nbsp;</p>\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/67/17/39007\" target=\"_blank\">#39007</a>Table&nbsp;2.07.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1187,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 808,
+    "contributions": [
+      {
+        "pkcontributionId": 157952,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 808,
+        "headingText": "\r\n<p>No specific clinical staging system is established for hereditary neuroblastoma cases. In other words, the same staging system for sporadic pNTs is applicable to the familial cases. There are two widely accepted staging systems: the International Neuroblastoma Staging System (INSS) {8336186} and the International Neuroblastoma Risk Group Staging System (INRGSS) {19047290}. The former is based on postsurgery evaluation, and the latter is based on presurgery evaluation (absence or presence of image-defined risk factors) of the disease status.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1188,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 809,
+    "contributions": [
+      {
+        "pkcontributionId": 157953,
+        "bookId": 67,
+        "chapterId": 17,
+        "headingId": 809,
+        "headingText": "\r\n<p>No specific guideline for predicting clinical behaviours of hereditary neuroblastomas is reported, and both biologically favourable and biologically unfavourable tumours are diagnosed in the same family {30350464}. Similarly to sporadic pNTs, the prognosis for hereditary neuroblastoma depends on its clinical presentation, histopathology, and additional genomic alterations {30523111}. There are various classification systems for predicting clinical outcomes of pNTs in general {35614230}. They include the International Neuroblastoma Risk Group (INRG) {19047291} and Children&rsquo;s Oncology Group (COG) risk classification systems {34319759}, and both are established by a combination of various prognostic factors (clinical stage, age at diagnosis, histopathology, <em>MYCN</em> oncogene status, ploidy pattern, and segmental chromosomal aberrations). The INRG system, distinguishing very low, low, intermediate, and high risk groups, has been designed to facilitate the comparison of risk-based clinical trials conducted in different regions and countries. The COG risk classification system, recently revised {34319759} and distinguishing low, intermediate, and high risk groups, has been used for the purpose of patient stratification and protocol assignment in international clinical trials. Of note, the therapeutic effect of ALK inhibitors in <em>ALK</em>-mutated neuroblastoma is currently under investigation in clinical trials, and preliminary data on some patients with <em>ALK</em>-mutated familial neuroblastoma suggest that these patients might be exquisitely sensitive to ALK inhibitors {23598171;33568345;34780709}.</p>",
+        "timestamp": "2026-09-02T11:49:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

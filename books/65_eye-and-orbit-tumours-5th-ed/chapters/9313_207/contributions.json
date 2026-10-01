@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 138862,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 733,
+        "headingText": "\r\n<p>Mantle cell lymphoma (MCL) is a mature B-cell neoplasm arising from the mantle zone of lymphoid follicles, and is typically composed of small to medium-sized monomorphic cells expressing CD5, SOX11, and cyclin&nbsp;D1. It is associated with translocations involving CCND family genes, most commonly <em>CCND1</em>.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 138863,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 734,
+        "headingText": "\r\n<p>9673/3 Mantle cell lymphoma</p>\r\n<p>9673/3 Cyclin&nbsp;D1&ndash;positive mantle cell lymphoma</p>\r\n<p>9673/3 Cyclin&nbsp;D1&ndash;negative mantle cell lymphoma</p>\r\n",
+        "timestamp": "2026-03-31T15:03:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 138864,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 735,
+        "headingText": "\r\n<p>2A85.5 Mantle cell lymphoma</p>\r\n",
+        "timestamp": "2026-03-31T15:03:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 138865,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 736,
+        "headingText": "\r\n<p><em>Not recommended</em>: mantle zone lymphoma; centrocytic lymphoma; malignant lymphoma, lymphocytic intermediate differentiation.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 138866,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 737,
+        "headingText": "\r\n<p>Cyclin&nbsp;D1&ndash;positive mantle cell lymphoma; cyclin&nbsp;D1&ndash;negative mantle cell lymphoma</p>\r\n",
+        "timestamp": "2026-03-31T15:03:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 138867,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 738,
+        "headingText": "\r\n<p>Ocular adnexal MCL may involve the eyelid, conjunctiva/caruncle, orbit, and the lacrimal gland and its drainage system. The conjunctiva and orbit are most frequently involved {17255761;19429588;29121219}.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 138868,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 739,
+        "headingText": "\r\n<p>Patients present with symptoms related to an ocular adnexal mass. Bilateral manifestation is relatively common, and often more than one ocular adnexal site is involved {17255761;29121219;35100932}. Most patients have systemic disease at diagnosis, such that the ocular manifestation is secondary {17255761;29121219;35100932}. Only a few cases arise at these sites as a primary MCL.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 138869,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 740,
+        "headingText": "\r\n<p>MCL is the fourth most common subtype of ocular adnexal lymphoma and accounts for 5&ndash;11% of all ocular adnexal lymphomas {32732342;17255761;19429588;14685876}. Most patients are elderly with a median age of 60&ndash;70&nbsp;years, with a significant male predominance {17255761;19429588;29121219;35100932;30144455}.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 138870,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 741,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-03-31T15:03:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 138871,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 742,
+        "headingText": "\r\n<p>The t(11;14)(q13;q32) chromosomal translocation is the genetic hallmark and primary event in the pathogenesis of cyclin&nbsp;D1&ndash;positive MCL, present in &ge; 95% of cases {8619427;10329598;2002419}. <em>CCND1</em> rearrangement results in overexpression of the cell-cycle regulatory protein cyclin&nbsp;D1 {8619427;7670110;7753558}. Other translocations involving <em>CCND1</em> and immunoglobulin light chain genes occasionally occur {21945515}. In most MCLs, the translocation is acquired at the precursor B-cell stage mediated by recombination-activating enzymes, but t(11;14) occurs in mature B&nbsp;cells via activation-induced cytidine deaminase in a small subset of cases {32584970}. Secondary mutations and chromosomal aberrations are frequent and play important roles in disease progression {21945515;34114641}.</p>\r\n<p>SOX11 also plays an important oncogenic role in MCL. It is involved in multiple signalling pathways, including B-cell differentiation, and modulating the lymphoma microenvironment, cell-cycle progression, mobility/migration, and apoptosis {29738333;26710884;23321250}.</p>\r\n<p>Cyclin&nbsp;D1&ndash;negative MCLs lack <em>CCND1</em> rearrangements and therefore expression of cyclin&nbsp;D1 {16123218;16861358}. Approximately half of these cases harbour rearrangements of <em>CCND2</em> and the remaining cases have other genetic alterations leading to expression of cyclin&nbsp;D2 or cyclin&nbsp;D3 {31753927;23255553;30538135}. No cases have been reported to date in the ocular adnexa.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 138872,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 749,
+        "headingText": "\r\n<p>MCL usually presents as a smooth, pinkish mass.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 138873,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 743,
+        "headingText": "\r\n<p>MCL is typically composed of a vaguely nodular or diffuse proliferation of small to medium-sized lymphoid cells with oval to irregular nuclei, inconspicuous nucleoli, and scant cytoplasm. Scattered epithelioid histiocytes may be admixed. Rare cases of the blastoid pattern are described, characterized by medium-sized cells with fine chromatin and distinct nucleoli, with frequent mitotic figures, resembling lymphoblastic lymphoma {17255761;19429588}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Neoplastic cells are typically positive for B&nbsp;antigens (CD20, CD19, PAX5), and IgM+, sIg+, cIg&minus;, CD5+, CD10&minus;, BCL6&minus;, BCL2+, CD43+, CD23&minus;, cyclin D1+, and SOX11+; often with CD21+ and CD23+ follicular dendritic cell meshworks. The &lambda; light chain is more often expressed than the &kappa;. The follicular dendritic cell staining correlates with architectural nodularity. The Ki-67 index is variable, but it is high in the blastoid and pleomorphic patterns {17255761;19429588}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>This includes other small to medium-sized B-cell lymphomas that can express cyclin&nbsp;D1, such as plasma cell myeloma, which also can have <em>CCND1</em> rearrangements, as well as neoplasms that do not carry <em>CCND1</em> rearrangements, such as chronic lymphocytic leukaemia (weakly in proliferation centres), diffuse large B-cell lymphoma, and hairy cell leukaemia. In the case of pleomorphic and blastoid patterns of MCL, these must be differentiated from diffuse large B-cell lymphoma, lymphoblastic lymphoma, and Burkitt lymphoma, among others.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 138874,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 744,
+        "headingText": "\r\n<p>MCL is rarely diagnosed on the basis of FNAB alone.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 138875,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 745,
+        "headingText": "\r\n<p>Diagnostic molecular pathology is not usually needed; in unusual cases, demonstration of <em>CCND1</em> rearrangement or <em>CCND1</em>::IGH translocation and an extended immunohistochemistry panel are recommended to exclude lymphomas that can express cyclin&nbsp;D1 (see <em>Differential diagnosis</em>). In the absence of cyclin&nbsp;D1 expression and <em>CCND1 </em>rearrangements, cyclin&nbsp;D1&ndash;negative MCL may be confirmed by testing for <em>CCND2</em> translocations. <em>TP53</em> mutation analysis may help to define a high-risk MCL cohort {26926679;29196411}.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 138876,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 748,
+        "headingText": "\r\n<p><em>Essential:</em> lymphoma cells of B&nbsp;lineage (CD20-positive and usually CD5-positive); morphology of classic pattern (monomorphic and centrocyte-like) or, less often, blastoid pattern morphology; cyclin&nbsp;D1&ndash;positive and/or detection of <em>CCND1</em> rearrangement, almost always.</p>\r\n<p><em>Desirable:</em> SOX11 expression (if cyclin&nbsp;D1 is negative, SOX11 staining is essential); expression of monotypic light chain.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 138877,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 746,
+        "headingText": "\r\n<p>Staging is performed according to the Lugano criteria {25113753}. For the rare primary MCL arising in the ocular adnexa, the American Joint Committee on Cancer (AJCC) TNM (eighth edition) staging system can be used {31768360;28399341;27894880;24180616}.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 138878,
+        "bookId": 65,
+        "chapterId": 207,
+        "headingId": 747,
+        "headingText": "\r\n<p>MCLs of the ocular adnexa have a worse prognosis than other small B-cell ocular adnexal lymphomas, with 3-year and 5-year disease-specific survival rates of 72% and 38%, respectively {29121219;32732342}, and 3-year and 5-year overall survival rates of 65% and 34%, respectively {29121219}. However, new immunochemotherapeutic regimens with/without autologous stem-cell transplantation have improved survival {33783838}.</p>\r\n<p>Factors associated with outcome for MCL in general include age, performance status, CNS involvement at diagnosis, stage, serum B2M, serum LDH, morphology (classic vs blastoid pattern), MCL International Prognostic Index (MIPI), Ki-67 (above vs below 30%), p53 expression by immunohistochemistry, and <em>TP53</em> mutation and/or deletion {17962512;24687837;26926679;29196411;31975037;19669190}.</p>",
+        "timestamp": "2026-03-31T15:03:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 918,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 694,
+    "contributions": [
+      {
+        "pkcontributionId": 135172,
+        "bookId": 51,
+        "chapterId": 50,
+        "headingId": 694,
+        "headingText": "\r\n<p>Ischaemic fasciitis is a reactive fibroblastic/myofibroblastic proliferation occurring in the deep subcutis, often associated with chronic pressure and consequent ischaemia of tissue overlying bone.</p>\r\n",
+        "timestamp": "2025-10-14T11:00:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 919,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 695,
+    "contributions": [
+      {
+        "pkcontributionId": 135173,
+        "bookId": 51,
+        "chapterId": 50,
+        "headingId": 695,
+        "headingText": "\r\n<p>Ischaemic fasciitis has a marked predilection for elderly patients in their eighth and ninth decades of life who are physically debilitated or immobilized. It usually arises around the limb girdles, sacral region, and greater trochanter. Ischaemic fasciitis forms an ill-defined lesion, usually 30&ndash;40&nbsp;mm but as large as 100&nbsp;mm, located in the deep subcutis, with or without extension into skeletal muscle. It demonstrates characteristic zonation, with a circumscribed low-signal centre surrounded by peripheral enhancement on MRI with contrast {1530110; 27161342; 18724246; 17056926}.</p>\r\n",
+        "timestamp": "2025-10-14T11:00:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 920,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 696,
+    "contributions": [
+      {
+        "pkcontributionId": 135174,
+        "bookId": 51,
+        "chapterId": 50,
+        "headingId": 696,
+        "headingText": "\r\n<p>Ischaemic fasciitis is characterized by a distinct zonal appearance, with a central hypocellular and avascular area showing fibrinoid, pseudocystic degeneration and/or fat necrosis. The peripheral cellular area contains a granulation tissue vascular proliferation admixed with fibroblasts and myofibroblasts of varying sizes and shapes, some with a ganglion cell&ndash;like appearance. Myxoid stroma, hyalinosis of vessel walls, an inflammatory infiltrate, and extravasated erythrocytes may be present. Mitotic figures are variable, but atypical forms are absent {1530110; 8426859; 18724246}.</p>\r\n",
+        "timestamp": "2025-10-14T11:00:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 921,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 697,
+    "contributions": [
+      {
+        "pkcontributionId": 135175,
+        "bookId": 51,
+        "chapterId": 50,
+        "headingId": 697,
+        "headingText": "\r\n\r\nMild to moderate cellularity\r\nTissue fragments and single cells of varying sizes\r\nSpindle to stellate cells with round to oval nuclei with smooth nuclear contours and varying chromatin ranging from open to smudged and hyperchromatic (Pap)\r\nAmple granular and vacuolated cytoplasm, staining light blue-green (Pap) and blue-grey (Giemsa)\r\nOccasional ganglion-like cells and inflammatory cells\r\nMyxoid matrix, blood, and granular debris in background, particularly in Giemsa\r\n\r\n<p><em>Reference(s):</em> {9100807; 11135465}</p>\r\n",
+        "timestamp": "2025-10-14T11:00:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 922,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 698,
+    "contributions": [
+      {
+        "pkcontributionId": 135176,
+        "bookId": 51,
+        "chapterId": 50,
+        "headingId": 698,
+        "headingText": "\r\n<p>Proliferative fasciitis and proliferative myositis share many morphological features with ischaemic fasciitis, but these lesions occur in younger patients, are not associated with chronic pressure, and lack the central necrosis and granulation tissue&ndash;like capillaries that are characteristic of ischaemic fasciitis. Because of the presence of necrotic debris, large ganglion-like cells, and ischaemic and degenerative nuclear hyperchromasia, ischaemic fasciitis can be easily mistaken for spindle cell sarcomas, such as myxofibrosarcoma and myxoinflammatory fibroblastic sarcoma, both of which show more cellular smears and more prominent nuclear pleomorphism. Multinucleated tumour giant cells and atypical mitotic figures are more commonly seen in the sarcomas {18384209; 34896963}.</p>\r\n",
+        "timestamp": "2025-10-14T11:00:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 923,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 699,
+    "contributions": [
+      {
+        "pkcontributionId": 135177,
+        "bookId": 51,
+        "chapterId": 50,
+        "headingId": 699,
+        "headingText": "\r\n<p>Ischaemic fasciitis may show focal positivity for SMA, desmin, and CD34, supporting its fibroblastic or myofibroblastic nature. The spindle cells in a subset of cases may show MDM2, CDK4, and p16 expression by ICC, without evidence of <em>MDM2</em> gene amplification {28477272}.</p>",
+        "timestamp": "2025-10-14T11:00:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

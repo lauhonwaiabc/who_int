@@ -1,0 +1,47 @@
+[
+  {
+    "pkattachmentId": 60331,
+    "bookid": 63,
+    "chapterId": 110,
+    "fileId": 39738,
+    "type": "Figure",
+    "diagnosis": "B-lymphoblastic leukaemia/lymphoma (B-ALL/LBL) with <em>BCR</em>::<em>ABL1</em>-like features detected with a quantitative RT-PCR&ndash;based low-density array assay",
+    "title": "",
+    "legend": "Quantitative RT-PCR&ndash;based low-density array evaluates the expression levels of 15&nbsp;previously described genes (and a control gene) shown to be associated with the diagnosis of B-ALL/LBL with <em>BCR</em>::<em>ABL1</em>-like features {31935290}. A score based on a composite of the individual amplification curves is generated to determine whether the case shows expression levels at or above the validated threshold of positivity. The assay also screens for multiple fusions that would preclude the diagnosis of B-ALL/LBL with <em>BCR</em>::<em>ABL1</em>-like features and fusions that are commonly associated with B-ALL/LBL with <em>BCR</em>::<em>ABL1</em>-like features, such as <em>P2RY8</em>::<em>CRLF2</em>. In this example, there is increased expression of <em>CRLF2</em> and <em>P2RY8</em>::<em>CRLF2</em> compared with a negative control, consistent with a positive result in a patient with B-ALL/LBL with <em>BCR</em>::<em>ABL1</em>-like features due to del(X)(p22.33;p22.33) causing <em>P2RY8</em>::<em>CRLF2</em> rearrangement.",
+    "source": "Devon Chabot-Richards, MD Director, Molecular Oncology and Diagnostics Laboratory Vice Chair for Education Department of Pathology University of New Mexico",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/63/110/39738.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/63/110/thumb_39738.jpg"
+  },
+  {
+    "pkattachmentId": 60332,
+    "bookid": 63,
+    "chapterId": 110,
+    "fileId": 39739,
+    "type": "Figure",
+    "diagnosis": "B-lymphoblastic leukaemia/lymphoma with <em>BCR</em>::<em>ABL1</em>-like features",
+    "title": "",
+    "legend": "B-lymphoblastic leukaemia with CRLF2 expression: flow cytometry dot plot and histogram. <strong>A</strong>&nbsp;B-lymphoblastic leukaemia blasts show moderate expression of TSLPR (CRLF2). <strong>B</strong>&nbsp;An overlay histogram shows TSLPR (CRLF2)-positive B-lymphoblastic leukaemia blasts (red peak) and negative lymphocytes (blue peak).",
+    "source": "Prashant Tembhare, Professor, Hematopathology Laboratory, ACTREC, TMC, Mumbai, India",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/63/110/39739.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/63/110/thumb_39739.jpg"
+  },
+  {
+    "pkattachmentId": 60429,
+    "bookid": 63,
+    "chapterId": 110,
+    "fileId": 40735,
+    "type": "Figure",
+    "diagnosis": "B-lymphoblastic leukaemia/lymphoma with <em>BCR</em>::<em>ABL1</em>-like features",
+    "title": "",
+    "legend": "Schematic illustration of representative fusions with <em>BCR</em>::<em>ABL1</em>-like features, and their functional domains and breakpoints. Dotted red lines indicate the breakpoints, and numbers denote amino acids (<strong>A</strong>&nbsp;{20042721; 28972016}; <strong>B</strong>&nbsp;{26859458}; <strong>C</strong>&nbsp;{25207766; 22897847}). AB, actin-binding domain; CC, coiled-coil&nbsp;oligomerization domain; DB, DNA-binding domain; FG, phenylalanine glycine; HLH, helix-loop-helix; IG, immunoglobulin-like domain; IPT/TIG, immunoglobulin-like fold, plexins, transcription factors&nbsp;/ transcription factor immunoglobulin; KD, kinase domain; LisH, Lis homology; PARP, PARP catalytic domain; PB, paired-box domain; PD, pointed domain; SD, SANT DNA binding domains; SH, SRC homology domain; SN, sorting nexin, N-terminal; SSDB, single-stranded DNA-binding domain; T&nbsp;II-A, topoisomerase&nbsp;II&ndash;associated protein; TD, transmembrane domain; TR, tetratricopeptide repeat; TRFH, telomeric repeat binding factor; ZF, zinc finger domain.",
+    "source": "(Prepared by Rachel Dobson &amp; Ming-Qing Du).",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/63/110/40735.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/63/110/thumb_40735.jpg"
+  }
+]

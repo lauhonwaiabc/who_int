@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 55719,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 159,
+        "headingText": "\r\n<p>Langerhans cell histiocytosis (LCH) is a clonal proliferation of cells with morphological and immunophenotypic features of Langerhans cells.</p>\r\n",
+        "timestamp": "2019-04-10T11:39:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 55720,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 160,
+        "headingText": "\r\n<p>9751/1 Langerhans cell histiocytosis NOS</p>\r\n",
+        "timestamp": "2019-04-10T11:39:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 55721,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 161,
+        "headingText": "<p>2B31.2Y Other specified Langerhans cell histiocytosis</p>",
+        "timestamp": "2019-12-16T14:54:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 55722,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 162,
+        "headingText": "<p><em>Acceptable:</em> histiocytosis&nbsp;X; eosinophilic granuloma.</p>\r\n<p><em>Not recommended:</em> Langerhans cell granulomatosis.</p>",
+        "timestamp": "2019-05-02T11:38:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 55723,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 163,
+        "headingText": "<p>Langerhans cell histiocytosis, disseminated (9751/3)</p>",
+        "timestamp": "2021-11-22T17:07:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 55724,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 164,
+        "headingText": "\r\n<p>LCH can involve a single or multiple sites, most commonly bone and skin. Gastrointestinal and liver involvement is common in paediatric patients with multisystem LCH and uncommon in adults.</p>\r\n",
+        "timestamp": "2019-04-10T11:39:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 55725,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 165,
+        "headingText": "\r\n<p>Children with multisystem LCH are usually aged &lt;&nbsp;2&nbsp;years, and they present with failure to thrive, diarrhoea, vomiting, protein-losing enteropathy, and hepatomegaly. They have multiple ulcerative lesions throughout the intestines {2178934; 10229501; 21263252}. Adults with GI tract involvement are asymptomatic or present with constipation, anaemia, or dysphagia {21263252}. They often have a solitary polypoid or ulcerative lesion in the large intestine or (less commonly) the stomach and oesophagus {21263252; 25268199}. Liver involvement in adults usually occurs in the setting of multiorgan disease, and it manifests as hepatomegaly and abnormal liver biochemistry (in particular, evidence of cholestasis) {10229501; 21550330}.</p>\r\n",
+        "timestamp": "2019-04-10T11:39:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 55726,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 166,
+        "headingText": "\r\n<p>The annual incidence in children is 4.1&ndash;5.4&nbsp;cases per million person-years, and the M:F&nbsp;ratio is 1.2:1 to 2.2:1 {19060008; 18260177; 9561907}. LCH has a wide age range at presentation, but is more common in children.</p>\r\n",
+        "timestamp": "2019-04-10T11:39:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 55727,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 167,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2019-04-10T11:39:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 55728,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 168,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2019-04-10T11:39:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 55729,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 207,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-10T11:39:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 55730,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 169,
+        "headingText": "\r\n<p>LCH is characterized by proliferation of oval cells with deeply grooved or contorted nuclei, thin nuclear membranes, fine chromatin, and generally inconspicuous nucleoli. Nuclei atypia is minimal. The cells have a moderate amount of lightly eosinophilic cytoplasm. There are variable numbers of admixed eosinophils and histiocytes. Immunophenotypically, LCH expresses S100, CD1a, and CD207 (langerin). In the GI tract, the LCH infiltrate is centred in the mucosa or submucosa {21263252}. There are variable numbers of admixed eosinophils and lymphocytes. The mucosa may show ulceration. In the liver, parenchymal involvement takes the form of sinusoidal infiltrate, granulomatoid clusters, and confluent tumour masses {10229501}. The portal tracts, including the bile ducts, are infiltrated by Langerhans cells, evolving to a pattern of sclerosing cholangitis with periductal fibrosis, ductopenia, and periportal ductular reaction. Langerhans cells may be sparse or absent in the late lesions.</p>\r\n",
+        "timestamp": "2019-04-10T11:39:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 55731,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 170,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-10T11:39:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 55732,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 171,
+        "headingText": "<p>Almost all cases exhibit gain-of-function mutations in genes encoding proteins of the MAPK signalling pathway, most commonly <em>BRAF</em>&nbsp;p.V600E mutations (~50% of cases) and <em>MAP2K1</em> mutations {26966089; 20519626}.</p>",
+        "timestamp": "2019-05-02T10:24:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 55733,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 174,
+        "headingText": "\r\n<p><em>Essential:</em> dense aggregates of uniform-appearing Langerhans cells with grooved nuclei and fine chromatin; immunoreactivity for S100, CD1a, and CD207.</p>\r\n<p><em>Desirable:</em> many admixed eosinophils.</p>\r\n",
+        "timestamp": "2019-04-10T11:39:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 55734,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 172,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-10T11:39:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 55735,
+        "bookId": 31,
+        "chapterId": 246,
+        "headingId": 173,
+        "headingText": "<p>Children with liver or GI tract involvement as part of multisystem LCH have a high mortality rate. Adults with localized gastrointestinal disease have an excellent prognosis, whereas those with liver involvement may die from complications of sclerosing cholangitis. Tumours with <em>BRAF</em>&nbsp;p.V600 mutations are treatable using BRAF inhibitors {29188284; 27804235; 25422482}, and trial results are encouraging for this approach.</p>",
+        "timestamp": "2019-05-02T10:24:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

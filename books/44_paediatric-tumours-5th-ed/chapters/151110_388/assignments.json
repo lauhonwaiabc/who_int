@@ -1,0 +1,80 @@
+[
+  {
+    "pkroleId": 129,
+    "bookId": "44",
+    "roleid": 131,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3647,
+        "lastname": "López-Terrada",
+        "firstname": "Dolores H.",
+        "initials": "DH",
+        "email": "",
+        "roleid": 131,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 130,
+    "bookId": "44",
+    "roleid": 132,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2923,
+        "lastname": "de Krijger",
+        "firstname": "Ronald R.",
+        "initials": "RR",
+        "email": "",
+        "roleid": 132,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 131,
+    "bookId": "44",
+    "roleid": 133,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2513,
+        "lastname": "Perry",
+        "firstname": "Arie",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3529,
+        "lastname": "Brandner",
+        "firstname": "Sebastian",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3658,
+        "lastname": "Asa",
+        "firstname": "Sylvia L.",
+        "initials": "SL",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 4050,
+        "lastname": "Toledo",
+        "firstname": "Rodrigo Almeida",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      }
+    ]
+  }
+]

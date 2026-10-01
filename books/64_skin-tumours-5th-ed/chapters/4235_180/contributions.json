@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 126592,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 764,
+        "headingText": "\r\n<p>Histiocytic sarcoma (HS) is a malignant tumour showing morphological and immunophenotypic features of macrophages. Tumorous proliferations of acute monocytic leukaemia are excluded.</p>\r\n",
+        "timestamp": "2025-04-25T08:46:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 126593,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 765,
+        "headingText": "\r\n<p>9755/3 Histiocytic sarcoma</p>\r\n",
+        "timestamp": "2025-04-25T08:46:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 126594,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 766,
+        "headingText": "\r\n<p>2B31.1 Histiocytic sarcoma</p>\r\n",
+        "timestamp": "2025-04-25T08:46:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 126595,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 767,
+        "headingText": "\r\n<p><em>Not recommended:</em> histiocytic lymphoma.</p>\r\n",
+        "timestamp": "2025-04-25T08:46:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 126596,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 768,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-25T08:46:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 126597,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 769,
+        "headingText": "\r\n<p>HS occurs in lymph nodes or extranodal sites. The skin is a common extranodal site of involvement, but primary cutaneous HS is extremely rare {23801128; 30626916}.</p>\r\n",
+        "timestamp": "2025-04-25T08:46:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 126598,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 770,
+        "headingText": "\r\n<p>Patients present with plaques, nodules, and tumours at any site on the body {29414400}. It can be localized or disseminated.</p>\r\n",
+        "timestamp": "2025-04-25T08:46:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 126599,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 771,
+        "headingText": "\r\n<p>HS is rare. It occurs over a wide age range, with a slight male predominance {23801128}.</p>\r\n",
+        "timestamp": "2025-04-25T08:46:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 126600,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 772,
+        "headingText": "\r\n<p>Some cases of HS are associated with prior or metachronous lymphoma {18272816; 15050956}. A subset of cases are associated with primary mediastinal germ cell tumours, especially in young male patients {16809892}.</p>\r\n",
+        "timestamp": "2025-04-25T08:46:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 126601,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 773,
+        "headingText": "\r\n<p>Some cases of HS show clonal IG gene rearrangement, particularly when associated with lymphoid neoplasms {21666687; 32929178}. This is postulated to represent the transdifferentiation process.</p>\r\n<p>The most frequent genomic alterations are mutations in the MAPK pathway, including <em>KRAS</em>, <em>NRAS</em>, <em>BRAF</em>, <em>MAP2K1</em>, <em>PTPN11</em>, <em>NF1</em>, and <em>CBL</em> {31768065; 32929178; 33904632}. Mutations in tumour suppressors such as <em>CDKN2A</em> and <em>TP53</em> are common {33904632}.</p>\r\n",
+        "timestamp": "2025-04-25T08:46:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 126602,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 780,
+        "headingText": "\r\n<p>See <em>Clinical features</em>, above.</p>\r\n",
+        "timestamp": "2025-04-25T08:46:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 126603,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 774,
+        "headingText": "<p>HS shows a diffuse infiltrate of oval to round, and sometimes spindled, non-cohesive large tumour cells with variable pleomorphism. The cytoplasm is abundant and eosinophilic, and often vacuolated. The nuclei are oval, grooved, or irregularly folded, often with distinct nucleoli. Haemophagocytosis is occasionally observed. Variable numbers of reactive cells are often admixed.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>HS shows expression of multiple histiocytic markers, including CD163, CD68, and lysozyme. There can be heterogeneous expression of S100. Langerhans cell markers (CD1a, CD207), follicular dendritic cell markers (CD21, CD35), and myeloid cell markers (myeloperoxidase, CD13) are negative, as is ALK. Melanocytic markers (SOX10, HMB45), epithelial markers (cytokeratins), and specific mature B-cell/T-cell markers (CD20, PAX5, CD3) are also negative.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The differential diagnoses include various large cell neoplasms, such as lymphoma (especially large B-cell lymphoma and anaplastic large cell lymphoma), Langerhans cell sarcoma, follicular dendritic cell sarcoma, melanoma, carcinoma, and undifferentiated pleomorphic sarcoma. A relatively non-cohesive growth pattern and an abundance of eosinophilic cytoplasm are clues to the diagnosis of HS, which has to be further supported by expression of the relevant immunohistochemical markers.</p>",
+        "timestamp": "2025-04-25T08:47:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 126604,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 775,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2025-04-25T08:46:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 126605,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 776,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2025-04-25T08:46:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 126606,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 779,
+        "headingText": "\r\n<p><em>Essential:</em> a tumour composed of non-cohesive large cells with abundant eosinophilic cytoplasm; variably pleomorphic neoplastic cells with reniform, grooved, or irregularly folded nuclei and distinct nucleoli; positive immunostaining for two or more histiocytic markers; negative for CD1a, CD207 (langerin), CD21, and CD35.</p>\r\n",
+        "timestamp": "2025-04-25T08:46:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 126607,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 777,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2025-04-25T08:46:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 126608,
+        "bookId": 64,
+        "chapterId": 180,
+        "headingId": 778,
+        "headingText": "\r\n<p>HS is usually aggressive, with a limited response to therapy and a high mortality rate. Some patients with a localized neoplasm have a more favourable outcome {15316312; 15696128}.</p>",
+        "timestamp": "2025-04-25T08:46:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

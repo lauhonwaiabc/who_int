@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 176,
+    "bookId": "65",
+    "roleid": 205,
+    "roleTitle": "Resp editor",
+    "contributors": [
+      {
+        "contributorid": 3546,
+        "lastname": "Eberhart",
+        "firstname": "Charles G.",
+        "initials": "",
+        "email": "",
+        "roleid": 205,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 177,
+    "bookId": "65",
+    "roleid": 206,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3294,
+        "lastname": "Grossniklaus",
+        "firstname": "Hans E.",
+        "initials": "",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 178,
+    "bookId": "65",
+    "roleid": 207,
+    "roleTitle": "Resp author",
+    "contributors": [
+      {
+        "contributorid": 3318,
+        "lastname": "Verdijk",
+        "firstname": "Robert M.",
+        "initials": "",
+        "email": "",
+        "roleid": 207,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 179,
+    "bookId": "65",
+    "roleid": 208,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2667,
+        "lastname": "Mihic-Probst",
+        "firstname": "Daniela",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 3276,
+        "lastname": "Moulin",
+        "firstname": "Alexandre",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 5103,
+        "lastname": "Pižem",
+        "firstname": "Jože",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "pkroleId": 81,
+    "bookId": "34",
+    "roleid": 37,
+    "roleTitle": "Responsible Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2384,
+        "lastname": "Matias-Guiu",
+        "firstname": "Xavier",
+        "initials": "",
+        "email": "",
+        "roleid": 37,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 82,
+    "bookId": "34",
+    "roleid": 38,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2004,
+        "lastname": "Lax",
+        "firstname": "Sigurd F.",
+        "initials": "",
+        "email": "",
+        "roleid": 38,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 83,
+    "bookId": "34",
+    "roleid": 39,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2834,
+        "lastname": "Bosse",
+        "firstname": "Tjalling",
+        "initials": "",
+        "email": "",
+        "roleid": 39,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 84,
+    "bookId": "34",
+    "roleid": 40,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2746,
+        "lastname": "Davidson",
+        "firstname": "Ben",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2747,
+        "lastname": "Singh",
+        "firstname": "Naveena",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2813,
+        "lastname": "Euscher",
+        "firstname": "Elizabeth D.",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2835,
+        "lastname": "Raspollini",
+        "firstname": "Maria Rosaria",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 2837,
+        "lastname": "Liu",
+        "firstname": "Congrong",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      },
+      {
+        "contributorid": 3757,
+        "lastname": "Lortet-Tieulent",
+        "firstname": "Joannie",
+        "initials": "",
+        "email": "",
+        "roleid": 40,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "pkroleId": 141,
+    "bookId": "63",
+    "roleid": 185,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2127,
+        "lastname": "Ott",
+        "firstname": "German",
+        "initials": "G",
+        "email": "",
+        "roleid": 185,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 142,
+    "bookId": "63",
+    "roleid": 186,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2006,
+        "lastname": "Moch",
+        "firstname": "Holger",
+        "initials": "H",
+        "email": "",
+        "roleid": 186,
+        "position": 0
+      },
+      {
+        "contributorid": 3810,
+        "lastname": "de Jong",
+        "firstname": "Daphne",
+        "initials": "D",
+        "email": "",
+        "roleid": 186,
+        "position": 0
+      },
+      {
+        "contributorid": 4470,
+        "lastname": "Dave",
+        "firstname": "Sandeep S.",
+        "initials": "",
+        "email": "",
+        "roleid": 186,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 143,
+    "bookId": "63",
+    "roleid": 187,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2590,
+        "lastname": "Coupland",
+        "firstname": "Sarah E.",
+        "initials": "",
+        "email": "",
+        "roleid": 187,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 144,
+    "bookId": "63",
+    "roleid": 188,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2188,
+        "lastname": "Ferry",
+        "firstname": "Judith A.",
+        "initials": "JA",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 3495,
+        "lastname": "Soffietti",
+        "firstname": "Riccardo",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 3661,
+        "lastname": "Batchelor",
+        "firstname": "Tracy",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 3668,
+        "lastname": "Deckert",
+        "firstname": "Martina",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 3679,
+        "lastname": "Hoang-Xuan",
+        "firstname": "Khe",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 3760,
+        "lastname": "Nagane",
+        "firstname": "Motoo",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 3818,
+        "lastname": "Elenitoba-Johnson",
+        "firstname": "Kojo ",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4156,
+        "lastname": "Calaminici",
+        "firstname": "Mariarita",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4693,
+        "lastname": "Lenz",
+        "firstname": "Georg",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4721,
+        "lastname": "Jeon",
+        "firstname": "Yoon Kyung",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4977,
+        "lastname": "Chapuy",
+        "firstname": "Björn",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4981,
+        "lastname": "Kuzu",
+        "firstname": "Isinsu",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4982,
+        "lastname": "Dunleavy",
+        "firstname": "Kieron",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      }
+    ]
+  }
+]

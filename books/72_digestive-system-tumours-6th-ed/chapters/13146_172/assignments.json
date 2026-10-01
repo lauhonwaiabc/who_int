@@ -1,0 +1,70 @@
+[
+  {
+    "pkroleId": 185,
+    "bookId": "72",
+    "roleid": 266,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2038,
+        "lastname": "Montgomery",
+        "firstname": "Elizabeth A.",
+        "initials": "EA",
+        "email": "",
+        "roleid": 266,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 186,
+    "bookId": "72",
+    "roleid": 279,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3648,
+        "lastname": "Reyes-Múgica",
+        "firstname": "Miguel",
+        "initials": "M",
+        "email": "",
+        "roleid": 279,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "pkroleId": 187,
+    "bookId": "72",
+    "roleid": 280,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3949,
+        "lastname": "Colmenero",
+        "firstname": "Isabel",
+        "initials": "I",
+        "email": "",
+        "roleid": 280,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 188,
+    "bookId": "72",
+    "roleid": 281,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2146,
+        "lastname": "Thway",
+        "firstname": "Khin",
+        "initials": "K",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      }
+    ]
+  }
+]

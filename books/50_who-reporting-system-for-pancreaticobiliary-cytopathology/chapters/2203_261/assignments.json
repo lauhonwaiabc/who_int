@@ -1,0 +1,115 @@
+[
+  {
+    "pkroleId": 121,
+    "bookId": "50",
+    "roleid": 164,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2269,
+        "lastname": "Schmitt",
+        "firstname": "Fernando",
+        "initials": "",
+        "email": "",
+        "roleid": 164,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 122,
+    "bookId": "50",
+    "roleid": 165,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2173,
+        "lastname": "Cree",
+        "firstname": "Ian A.",
+        "initials": "",
+        "email": "",
+        "roleid": 165,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 123,
+    "bookId": "50",
+    "roleid": 166,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4171,
+        "lastname": "Lozano",
+        "firstname": "María D.",
+        "initials": "",
+        "email": "",
+        "roleid": 166,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 124,
+    "bookId": "50",
+    "roleid": 167,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2036,
+        "lastname": "Singhi",
+        "firstname": "Aatur D.",
+        "initials": "AD",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      },
+      {
+        "contributorid": 4152,
+        "lastname": "Roy-Chowdhuri",
+        "firstname": "Sinchita",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      },
+      {
+        "contributorid": 4350,
+        "lastname": "Troncone",
+        "firstname": "Giancarlo",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      },
+      {
+        "contributorid": 4367,
+        "lastname": "de Andrea",
+        "firstname": "Carlos E.",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      },
+      {
+        "contributorid": 4381,
+        "lastname": "Jhala",
+        "firstname": "Darshana N.",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      },
+      {
+        "contributorid": 4391,
+        "lastname": "Rosenbaum",
+        "firstname": "Matthew W.",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 55412,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 159,
+        "headingText": "\r\n<p>Pancreatic neuroendocrine carcinoma (PanNEC) is a high-grade malignant epithelial neoplasm with neuroendocrine differentiation.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 55413,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 160,
+        "headingText": "<p>8246/3 Neuroendocrine carcinoma NOS</p>",
+        "timestamp": "2021-11-22T16:54:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 55414,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 161,
+        "headingText": "\r\n<p>2C10.1 &amp; XH0U20 Neuroendocrine neoplasms of pancreas &amp; Neuroendocrine carcinoma NOS</p>\r\n<p>2C10.1 &amp; XH9SY0 Neuroendocrine neoplasms of pancreas &amp; Small cell neuroendocrine carcinoma</p>\r\n<p>2C10.1 &amp; XH0NL5 Neuroendocrine neoplasms of pancreas &amp; Large cell neuroendocrine carcinoma</p>\r\n",
+        "timestamp": "2019-03-27T15:08:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 55415,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 162,
+        "headingText": "<p><em>Acceptable:</em> high-grade (poorly differentiated) neuroendocrine carcinoma {24503751; 25723112; 22967994}; small cell carcinoma; small cell undifferentiated carcinoma {26113608; 22251937; 24430597}.</p>",
+        "timestamp": "2019-04-29T19:27:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 55416,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 163,
+        "headingText": "<p>Large cell neuroendocrine carcinoma (8013/3); small cell neuroendocrine carcinoma (8041/3)</p>",
+        "timestamp": "2021-11-22T16:54:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 55417,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 164,
+        "headingText": "\r\n<p>PanNECs show a mild predilection for occurring in the head of the pancreas, with a 2:1&nbsp;ratio {24503751}.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 55418,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 165,
+        "headingText": "\r\n<p>The presentation of PanNECs is similar to that of pancreatic ductal adenocarcinomas (PDACs) {8789136; 24503751; 25723112; 26113608}, including back pain, jaundice, and/or nonspecific abdominal symptoms {17383419; 22967994}. Serum hormone activity is very unusual {4350960}, and increased serum chromogranin does not seem to be a feature. Calcitonin may be elevated in some patients {29063495}. Serum CA19-9 levels may also be high. The vast majority (&gt;&nbsp;90%) of patients present with metastasis at the time of diagnosis. Somatostatin receptor scintigraphy is often negative due to lack of expression of SSTR2 and SSTR5, and this may be a helpful criterion to distinguish PanNECs from well-differentiated pancreatic neuroendocrine tumours (PanNETs) clinically.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 55419,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 166,
+        "headingText": "\r\n<p>PanNECs are rare, accounting for &lt;&nbsp;1% of all pancreatic tumours and no more than 2&ndash;3% of PanNETs {6268272; 25723112; 18508996; 20702725}. They seem to be slightly more common in males. They mostly occur in patients aged 50&ndash;60&nbsp;years {24503751; 25723112; 26113608; 22967994}, but they can occur in younger patients as well.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 55420,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 167,
+        "headingText": "\r\n<p>Similar to their counterparts in other organs, PanNECs show an association with cigarette smoking {8265240}, although this requires further confirmation.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 55421,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 168,
+        "headingText": "\r\n<p>Syndromes that are associated with well-differentiated neuroendocrine tumours (NETs), such as multiple endocrine neoplasia type&nbsp;1 and von Hippel&ndash;Lindau syndrome, do not seem to be involved in PanNECs. A case with <em>BRCA1</em> mutation was noted in a study of 44&nbsp;PanNECs {24503751}, a frequency similar to that seen in PDACs.</p>\r\n<p>Specific genetic alterations common in well-differentiated NETs (alterations in <em>MEN1</em>, <em>ATRX</em>, <em>DAXX</em>) or PDAC (alterations in <em>KRAS</em>, <em>SMAD4</em>) {22251937} are not features of PanNEC {12612881; 22941188}. Instead, PanNECs seem to be characterized by the presence of mutations of <em>TP53</em> and inactivation of the RB1/p16 pathway determined by either mutations in <em>RB1</em> or loss of expression of p16 {22251937; 24292676}. The role of epigenetic and microRNA expression modifications {24534469; 16966691} or increased CDK4 or CDK6 {22761470} identified in NETs has yet to be determined for PanNECs.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 55422,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 207,
+        "headingText": "\r\n<p>PanNECs present as relatively large (mean size: 4&nbsp;cm; largest reported size: 18&nbsp;cm), solid, compact tumours that are typically more fleshy than ordinary PDACs. They tend to be whitish-grey or tan-red to yellowish, and they often exhibit vague nodularity {24503751}. They tend to appear more demarcated than PDACs. Haemorrhage is common, and necrosis is often visible.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 55423,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 169,
+        "headingText": "<p>Histologically, PanNECs are defined similarly to their counterparts in other organs, particularly their pulmonary counterparts {24503751; 24430597; 25723112; 20664477}. Poorly differentiated NECs of small cell type are characterized by diffuse sheets of cells with scant cytoplasm, round or elongated nuclei (some with moulding), and finely granular chromatin with inconspicuous nucleoli. The large cell subtype, which is more common (60%) {24503751; 25723112}, shows a nesting/trabecular pattern, with relatively uniform round to polygonal cells having amphophilic cytoplasm, large nuclei, vesicular chromatin, and in some cases prominent nucleoli. Necrosis with peritheliomatous preservation of cells can be seen {24503751}. Mitoses are easily identified, typically multiple in each high-power field. The Ki-67 proliferation index is by definition &gt;&nbsp;20%, in the vast majority of cases &gt;&nbsp;50%, and commonly &gt;&nbsp;60&ndash;80% {24503751; 25723112; 22967994}.</p>\r\n<p>Neuroendocrine carcinomas (NECs) can be associated with other (non-neuroendocrine) carcinoma types, in particular ductal adenocarcinoma or acinar cell carcinoma. When each component accounts for &ge;&nbsp;30% of the tumour area, the term &ldquo;mixed neuroendocrine&ndash;non-neuroendocrine carcinoma (MiNEC)&rdquo; is applicable; however, in reporting such cases, it is advisable to emphasize the NEC component, because these mixed cases behave very similarly to pure NECs {24503751}.</p>\r\n<p>NEC is defined by morphology {24503751; 25723112; 20664477; 24430597}, but it is important to establish the neuroendocrine differentiation in these poorly differentiated malignant neoplasms. Synaptophysin is the most sensitive marker. However, other neoplasms (including acinar and solid pseudopapillary neoplasms) can also express synaptophysin. Chromogranin is a highly specific marker, but its sensitivity is relatively low, and its expression can be especially faint in small cell carcinomas where the cytoplasm is less abundant and contains fewer granules {986582}. CD56 by itself is not conclusive, due to its low specificity. Moreover, the expression of all these markers is often focal in distribution {24503751}; conversely, focal/scattered neuroendocrine differentiation is not uncommon in some non-neuroendocrine neoplasms. In rare cases, small cell PanNEC may be diagnosed in the absence of synaptophysin/chromogranin staining {24503751}.</p>\r\n<p>Acinar cell carcinomas are often mistaken for NECs due to their characteristically monotonous appearance, high-grade nature, and common expression of neuroendocrine markers (at least focally). In one study {24503751}, 15% of cases originally classified as NEC proved to be acinar carcinomas on further analysis (see <a style=\"cursor:pointer\" href=\"/chaptercontent/31/130\" target=\"_blank\">section </a><em>Pancreatic acinar cell carcinoma</em>).</p>\r\n<p>NEC should be differentiated from lymphoma and melanoma by negative lymphoid and melanoma markers. Metastatic carcinoma to the pancreas should be excluded and requires clinical correlation {15057558}. Immunohistochemical analysis may not be helpful in this regard, given the ubiquitous expression of otherwise organ-specific transcription factors, such as TTF1, CDX2, and insulin gene enhancer protein ISL1 or PDX1, which are commonly seen in small cell carcinomas of any location {22046491; 23503646}. Loss of SMAD4 may be of some value but requires further investigation. Similarly, immunohistochemical staining is also helpful in small blue cell tumours of young adulthood, which can occur in the pancreas and mimic NEC {12170091; 15166674}.</p>\r\n<p>The Ki-67 proliferation index is typically very high in NECs (commonly &gt;&nbsp;60&ndash;80%). In a tumour with a low Ki-67 proliferation index (&lt;&nbsp;40%), other possibilities must be considered more carefully {25723112}.</p>",
+        "timestamp": "2019-06-07T15:16:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 55424,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 170,
+        "headingText": "\r\n<p>The cytological characteristics of small cell and large cell PanNECs are similar to those of NECs in other organs {26837492; 24420597}. Often, the high-grade malignant nature of the process is readily evident, with necrotic material and mitotic figures easily identified. The carcinomas should be differentiated from other malignancies, including lymphomas, melanomas, and other carcinomas. Their distinction from well-differentiated NETs can be challenging; immunohistochemical studies on cell blocks may be helpful {29044913}. Proliferation index analysis may also serve as an adjunct {24021213}.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 55425,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 171,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-03-27T15:08:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 55426,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 174,
+        "headingText": "<p><em>Essential:</em> a poorly differentiated neoplasm of small or large cells, with vague neuroendocrine features; usually weak expression of neuroendocrine markers; mitotic count of &gt;&nbsp;20&nbsp;mitoses/2&nbsp;mm<sup>2</sup> and Ki-67 proliferation index &gt;&nbsp;20%.</p>\r\n<p><em>Desirable:</em> Ki-67 proliferation index &gt;&nbsp;50%.</p>",
+        "timestamp": "2019-08-06T11:06:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 55427,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 172,
+        "headingText": "\r\n<p>The pathological staging of PanNECs is based on the eighth edition (2017) of the Union for International Cancer Control (UICC) TNM classification [[Brierly JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley Blackwell; 2017.]] for carcinomas of the exocrine pancreas, rather than the staging for better-differentiated NETs (PanNETs).</p>\r\n",
+        "timestamp": "2019-03-27T15:08:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 55428,
+        "bookId": 31,
+        "chapterId": 155,
+        "headingId": 173,
+        "headingText": "\r\n<p>PanNECs are highly aggressive malignant neoplasms {24503751; 24420597; 25723112}. Metastasis is present in the vast majority of patients at the time of diagnosis {26113608; 17383419; 22967994}. Even in resected cases and with platinum-based therapy, the median survival time is very short (&lt;&nbsp;1&nbsp;year), and &lt;&nbsp;25% of patients survive beyond 2&nbsp;years. The survival of patients with large cell PanNECs seems to be only very slightly better than for the small cell subtype. In addition, PanNECs with other carcinoma components (such as ductal adenocarcinoma) appear to behave aggressively, emphasizing the importance of recognition of the PanNEC component in such cases.</p>\r\n<p>In terms of molecular targets for therapy, the current literature suggests that PanNECs may not be good candidates for somatostatin-receptor analogues, whereas there is emerging evidence that, similar to NECs of other sites, pancreatic primaries may warrant platinum-based therapy instead {22967994; 25723112}. One potential target that may be worth further investigation is the mTOR pathway {22967994; 22768026; 19657638}, and some efficacy of the mTOR inhibitor everolimus has been shown {21468754; 23343749; 19917848}.</p>",
+        "timestamp": "2019-03-27T15:08:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

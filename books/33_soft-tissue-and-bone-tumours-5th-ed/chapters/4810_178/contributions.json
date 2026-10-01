@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 395,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 228,
+    "contributions": [
+      {
+        "pkcontributionId": 60701,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 228,
+        "headingText": "\r\n<p>Undifferentiated pleomorphic sarcoma (UPS) is a pleomorphic malignant neoplasm of bone with no identifiable line of differentiation; this is a diagnosis of exclusion.</p>\r\n",
+        "timestamp": "2019-11-26T16:25:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 396,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 229,
+    "contributions": [
+      {
+        "pkcontributionId": 60702,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 229,
+        "headingText": "<p>8802/3 Pleomorphic sarcoma, undifferentiated</p>",
+        "timestamp": "2020-01-31T18:59:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 397,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 230,
+    "contributions": [
+      {
+        "pkcontributionId": 60703,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 230,
+        "headingText": "\r\n<p>2B54 &amp; XH0947 Unclassified pleomorphic sarcoma, primary site &amp; Malignant fibrous histiocytoma</p>\r\n",
+        "timestamp": "2019-11-26T16:25:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 398,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 231,
+    "contributions": [
+      {
+        "pkcontributionId": 60704,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 231,
+        "headingText": "<p ><em>Not recommended:</em> malignant fibrous histiocytoma of bone; pleomorphic fibrosarcoma of bone.</p>",
+        "timestamp": "2020-02-19T10:30:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 399,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 232,
+    "contributions": [
+      {
+        "pkcontributionId": 60705,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 232,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-11-26T16:25:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 400,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 233,
+    "contributions": [
+      {
+        "pkcontributionId": 60706,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 233,
+        "headingText": "\r\n<p>UPS has a predilection for long tubular bones, particularly around the knee {10569265; 9028358}. The most frequently involved bone is the femur, followed by the tibia and humerus. Among the bones of the trunk, the pelvis is most commonly affected. UPS rarely occurs in the spine.</p>\r\n",
+        "timestamp": "2019-11-26T16:25:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 401,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 234,
+    "contributions": [
+      {
+        "pkcontributionId": 60707,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 234,
+        "headingText": "<h5><em>Signs and symptoms</em></h5>\r\n<p>Symptomatic patients typically report pain and occasionally swelling. Pathological fractures are common, particularly in weight-bearing long tubular bones.</p>\r\n<h5><em>Imaging</em></h5>\r\n<p>The radiological features of UPSs are nonspecific, but the majority of cases demonstrate an aggressive osteolytic neoplasm with ill-defined margins, cortical destruction, and an associated soft tissue mass {19936744}. Periosteal reaction is an infrequent finding, and mineralized matrix is absent. The tumours are usually centred in the metadiaphyseal region of long bones and occasionally extend into the epiphysis.</p>",
+        "timestamp": "2020-02-19T10:29:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 402,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 235,
+    "contributions": [
+      {
+        "pkcontributionId": 60708,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 235,
+        "headingText": "\r\n<p>UPS of bone is rare, representing &lt;&nbsp;2% of all primary malignant bone tumours. Males are more frequently affected than females. There is a broad age distribution, from the second to eighth decades of life, but most patients are aged &gt;&nbsp;40&nbsp;years. Only 10&ndash;15% of cases occur in patients aged &lt;&nbsp;20&nbsp;years.</p>\r\n",
+        "timestamp": "2019-11-26T16:25:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 403,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 236,
+    "contributions": [
+      {
+        "pkcontributionId": 60709,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 236,
+        "headingText": "<p>The etiology of primary UPS of bone is unknown. Secondary UPS, representing approximately 28% of cases, arises in association with a pre-existing bone condition or disease {9028358; 10642003; 3000204}. The majority of secondary UPSs are associated with a bone infarct, Paget disease, or prior irradiation in the field of the affected bone {3006524; 19229663; 26397350}. Rare examples of UPS of bone occur at the site of a metallic orthopaedic prosthesis or hardware {11598166; 11903581}. Diaphyseal medullary stenosis, a rare autosomal dominant bone dysplasia, is another less common setting associated with UPS of bone {4713573; 3745248}. This disorder is characterized by cortical growth abnormalities, including diffuse diaphyseal medullary stenosis with overlying endosteal cortical thickening, metaphyseal striations, and scattered infarctions {12072764}. Approximately 35% of patients with this syndrome develop UPS of bone {10053015; 11807991; 22464254}. The disorder is caused by mutations in the gene encoding methylthioadenosine phosphorylase, <em>MTAP</em> {22464254}.</p>",
+        "timestamp": "2019-12-11T17:09:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 404,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 237,
+    "contributions": [
+      {
+        "pkcontributionId": 60710,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 237,
+        "headingText": "\r\n<p>UPS of bone is highly aneuploid and shows complex chromosomal complements with numerous structural aberrations and marker chromosomes {10748288}. These cytogenetic observations are confirmed by array hybridization studies, which reveal frequent losses of 8p, 9p, 10, 13q, and 18q and gains of 4q, 5p, 6p, 7p, 8q, 12p, 14q, 17q, 19p, 20q, 22q, and X {21254299}. Homozygous deletions of <em>CDKN2A</em>, <em>RB1</em>, <em>TP53</em>, and <em>ING1</em> are present in a subset of UPSs {21254299}. Mutations in <em>TP53</em> (~30%) and/or chromatin-remodelling genes (~40%) are most frequent {30281149}. In general, the copy-number alterations in UPS of bone overlap with those identified in the same tumours originating in soft tissue {30281149; 29100075}. UPS of bone exhibits multiple somatic gene fusions, two of which, <em>CLTC</em>-<em>VMP1</em> and <em>FARP1</em>-<em>STK24</em>, appear to be recurrent and were reported previously in multiple cancers {30281149; 23637631}. RNA sequencing expression data indicate that UPS has an expression profile distinct from that of its soft tissue counterpart and is characterized by activation of the FGF23 pathway {30281149}.</p>\r\n",
+        "timestamp": "2019-11-26T16:25:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 411,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 244,
+    "contributions": [
+      {
+        "pkcontributionId": 60711,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 244,
+        "headingText": "\r\n<p>The gross appearance of UPS is quite variable. The cut surface texture ranges from fibrous to soft. Areas of necrosis and haemorrhage are frequently present. The tumours exhibit a range of colours, including greyish-white, yellow, and brownish-tan. Cortical destruction and a soft tissue mass are commonly present.</p>\r\n",
+        "timestamp": "2019-11-26T16:25:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 405,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 238,
+    "contributions": [
+      {
+        "pkcontributionId": 60712,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 238,
+        "headingText": "<p>The tumour is diffusely composed of spindle-shaped and epithelioid or polygonal cells with marked pleomorphism arranged in a haphazard, storiform, and fascicular growth pattern. Variable numbers of large, bizarre multinucleated giant cells and numerous typical and atypical mitotic figures are readily identified. The tumour cells are often embedded within a collagen-rich stroma, which may be hyalinized. A background population of scattered foamy histiocytes and inflammatory cells can be seen among the neoplastic cells. Importantly, the tumour lacks any evidence of malignant osteoid or cartilage, thus necessitating thorough sampling in order to rule out osteosarcoma and dedifferentiated chondrosarcoma. Trabeculae of reactive woven bone are occasionally present, particularly at the periphery or in the setting of a pathological fracture {8625223}.</p>\r\n<h5><em>Immunohistochemistry</em></h5>\r\n<p>Immunohistochemistry is an essential part of the diagnosis because, by definition, UPS lacks an identifiable line of differentiation and is a diagnosis of exclusion. Caution is required when interpreting myogenic markers, because approximately 50% of UPSs of bone show focal positivity with a single myogenic marker {12401825; 23001328}. SMA positivity with an additional myogenic marker (desmin or h-caldesmon) supports leiomyosarcoma in an appropriate histological context. Desmin, myogenin, and MYOD1 aid in ruling out rhabdomyosarcoma. SATB2 immunoreactivity can be seen in UPS, a limiting factor when exploring the possibility of osteosarcoma {26644288}. H3.3 p.Gly34Trp (G34W) expression is occasionally seen in bone sarcomas without associated giant cell tumour histology; these are usually sited in the epiphysis in young people, suggesting a relationship with a giant cell tumour. Therefore, there is a move to expand the definition of primary malignant giant cell tumour on the basis of an <em>H3-3A</em> (<em>H3F3A</em>) or <em>H3-3B (H3F3B</em>) p.Gly34 mutation {28545165; 28899740; 28505000; 29241742}. Focal cytokeratin positivity can be seen in UPS, but abundant expression should raise concern for metastatic sarcomatoid carcinoma. Several melanocytic markers are indicated in the setting of focal S100 expression in order to exclude melanoma.</p>\r\n<h5><em>Differential diagnosis</em></h5>\r\n<p>The differential diagnosis is broad, including a variety of high-grade sarcomas, metastatic carcinoma, and metastatic melanoma. When features are similar to those of high-grade myxofibrosarcoma of soft tissue, some pathologists favour a diagnosis of high-grade myxofibrosarcoma of bone {23001328}.</p>",
+        "timestamp": "2020-01-10T11:52:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 406,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 239,
+    "contributions": [
+      {
+        "pkcontributionId": 60713,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 239,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-11-26T16:25:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 407,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 240,
+    "contributions": [
+      {
+        "pkcontributionId": 60714,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 240,
+        "headingText": "<p>The absence of <em>IDH1</em> or <em>IDH2</em> mutations in UPS of bone can be used in the differential diagnosis with dedifferentiated chondrosarcoma {28552826}. Similarly, the presence of an <em>H3-3A</em> (<em>H3F3A</em>) or <em>H3-3B (H3F3B</em>) p.Gly34 mutation may suggest a relationship with giant cell tumour of bone, and there is a move to expand the definition of primary malignant giant cell tumour of bone on the basis of an <em>H3-3A</em> (<em>H3F3A</em>) or <em>H3-3B (H3F3B</em>) p.Gly34 mutation {28545165; 28899740; 28505000}.</p>",
+        "timestamp": "2019-12-05T12:13:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 410,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 243,
+    "contributions": [
+      {
+        "pkcontributionId": 60715,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 243,
+        "headingText": "\r\n<p><em>Essential:</em> bone tumour with compatible imaging; pleomorphic spindle-shaped and epithelioid cells in a storiform or fascicular growth pattern; no malignant cartilage or bone production by the tumour cells; no specific line of differentiation.</p>\r\n<p><em>Desirable:</em> atypical mitotic figures; necrosis.</p>\r\n",
+        "timestamp": "2019-11-26T16:25:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 408,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 241,
+    "contributions": [
+      {
+        "pkcontributionId": 60716,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 241,
+        "headingText": "<p>Staging is according to bone sarcoma protocols (see &lt;&lt;TNM-Bone&gt;&gt;<em>TNM staging of tumours of bone</em>). See also the information on staging in <a style=\"cursor:pointer\" href=\"/chaptercontent/33/261\" target=\"_blank\">section </a><em>Bone tumours: Introduction</em>.</p>",
+        "timestamp": "2020-02-19T16:38:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 409,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 242,
+    "contributions": [
+      {
+        "pkcontributionId": 60717,
+        "bookId": 33,
+        "chapterId": 178,
+        "headingId": 242,
+        "headingText": "\r\n<p>Patients with UPS of bone are generally treated with chemotherapy and complete en bloc resection {8364866; 9577426; 20559764}. Patients with localized disease and adequate therapy have a 5-year survival rate of 50&ndash;67% {10506628; 10642003; 10569265}. Pulmonary metastases are common, occurring in approximately 35&ndash;50% of cases. Secondary UPS and metastatic disease are associated with a poorer prognosis. Incomplete expression of myogenic markers is not thought to affect the prognosis {23001328}.</p>",
+        "timestamp": "2019-11-26T16:25:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

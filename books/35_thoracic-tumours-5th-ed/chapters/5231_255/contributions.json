@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 68387,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 432,
+        "headingText": "\r\n<p>Large cell neuroendocrine carcinoma (LCNEC) is a high-grade thymic tumour comprising large cells with neuroendocrine morphology and positive neuroendocrine immunohistochemistry.</p>\r\n",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 68388,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 433,
+        "headingText": "\r\n<p>8013/3 Large cell neuroendocrine carcinoma</p>\r\n",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 68389,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 434,
+        "headingText": "\r\n<p>2C27.Y &amp; XH0NL5 Other specified malignant neoplasms of thymus &amp; Large cell neuroendocrine carcinoma</p>\r\n",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 68390,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Not recommended:</em> high-grade (grade&nbsp;3) neuroendocrine tumour of the thymus.</p>\r\n",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 68391,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 68392,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 437,
+        "headingText": "<p>LCNECs arise in the anterior (prevascular) mediastinum.</p>",
+        "timestamp": "2021-01-04T11:42:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 68393,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 438,
+        "headingText": "\r\n<p>About 50% of patients are asymptomatic at presentation; the remainder present with chest pain, dyspnoea, or superior vena cava obstruction {23110006; 12853516}. Cushing syndrome is very rare {21757832}. About 50% of patients present with local spread or distant metastasis {20485130}.</p>\r\n",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 68394,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 439,
+        "headingText": "\r\n<p>LCNECs are more common in males, with a median age of 57&nbsp;years (range: 16&ndash;79&nbsp;years). They account for 14&ndash;26% of thymic neuroendocrine neoplasms (NENs) {31042566; 23110006; 12853516; 24764238}, with an estimated incidence of 1&nbsp;case per 20&nbsp;million individuals per year {20485130}.</p>\r\n",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 68395,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 440,
+        "headingText": "\r\n<p>The etiology is unknown. There is no association with multiple endocrine neoplasia type&nbsp;1.</p>\r\n",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 68396,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 441,
+        "headingText": "\r\n<p>Chromosomal aberrations are similar to those seen in pulmonary counterparts, such as gains in 2p, 9p, and 17q and losses at 4p, 8p, 9p, and 18p {24764238}. Copy-number instability is high in LCNECs {31042566}.</p>\r\n",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 68397,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 448,
+        "headingText": "\r\n<p>LCNECs are unencapsulated, infiltrative, and generally solid tumours, sometimes with focal calcification. Necrosis may be present. Tumour lobulation, as seen in thymomas, is absent.</p>\r\n",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 68398,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 442,
+        "headingText": "<p>LCNECs comprise sheets of non-small cell epithelial cells with neuroendocrine morphology and a high mitotic count of &gt;&nbsp;10&nbsp;mitoses/2&nbsp;mm<sup>2</sup> {10884805; 31042566}, usually much higher. Necrosis is nearly always seen and often extensive. Architecture varies between solid sheets and neuroendocrine morphology (nesting, trabeculae, and rosettes), the latter often poorly developed.</p>\r\n<p>There is staining for at least one neuroendocrine marker (chromogranin, synaptophysin, CD56). However, if morphological features are convincing for LCNEC, any extent of expression of even a single neuroendocrine marker is accepted to support the diagnosis (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/74\" target=\"_blank\">section </a><em>Large cell neuroendocrine carcinoma of the lung</em>) {30572031; 31042566; 27124922}. Staining for CD5 is negative, although occasional cases stain with KIT (CD117). Staining for TTF1 is usually negative {10884805; 12853516}. If there is a small cell component of &ge;&nbsp;10%, the tumour should be classified as a combined small cell carcinoma and LCNEC.</p>",
+        "timestamp": "2021-01-14T11:16:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 68399,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 443,
+        "headingText": "\r\n<p>Cytological features are the same as those in primary pulmonary LCNEC (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/74\" target=\"_blank\">section </a><em>Large cell neuroendocrine carcinoma of the lung</em>).</p>\r\n",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 68400,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 444,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 68401,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Neuroendocrine morphology</li>\r\n<li>Mitotic count of &gt;&nbsp;10&nbsp;mitoses/2&nbsp;mm<sup>2</sup></li>\r\n<li>Necrosis, often geographical</li>\r\n<li>Positive neuroendocrine immunohistochemistry</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>High Ki-67 index: &gt;&nbsp;30%, generally 40&ndash;80%; negative p40 immunohistochemistry</li>\r\n</ul>",
+        "timestamp": "2021-01-14T11:20:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 68402,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 445,
+        "headingText": "<p>Staging is according to the Union for International Cancer Control (UICC) TNM classification [[Brierley JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley-Blackwell; 2017.]] {25396314}.</p>",
+        "timestamp": "2021-01-14T11:20:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 68403,
+        "bookId": 35,
+        "chapterId": 255,
+        "headingId": 446,
+        "headingText": "\r\n<p>The 5-year overall survival rate ranges from 0% to 66% {12853516; 22632882; 24764238; 31042566}.</p>",
+        "timestamp": "2020-10-27T10:11:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

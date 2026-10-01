@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 64223,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 370,
+        "headingText": "\r\n<p>Squamous cell carcinoma (SCC), HPV-associated, is an HPV-associated squamous tumour with stromal invasion and/or exophytic-type invasion.</p>\r\n",
+        "timestamp": "2020-04-28T14:53:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 64224,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 371,
+        "headingText": "<p>8085/3 Squamous cell carcinoma, HPV-associated</p>",
+        "timestamp": "2020-06-15T12:08:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 64225,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 372,
+        "headingText": "\r\n<p>2C77.0 &amp; XH0EJ9 Squamous cell carcinoma of cervix uteri &amp; Squamous cell carcinoma, HPV-positive</p>\r\n",
+        "timestamp": "2020-04-28T14:53:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 64226,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 373,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-04-28T14:53:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 64227,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-04-28T14:53:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 64228,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 375,
+        "headingText": "\r\n<p>Cervix</p>\r\n",
+        "timestamp": "2020-04-28T14:53:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 64229,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 376,
+        "headingText": "\r\n<p>The average age at diagnosis in women from high-income countries is in the sixth decade of life (median age: 51&nbsp;years {30911077}). Patients with small tumours are usually asymptomatic; larger tumours can present with abnormal vaginal bleeding, discharge, and pain. Involvement of the parametrium can cause ureteric obstruction with uraemia. Anterior and posterior growth can lead to urinary frequency, pain, haematuria, tenesmus, and vesicovaginal or rectovaginal fistulas.</p>\r\n",
+        "timestamp": "2020-04-28T14:53:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 64230,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 377,
+        "headingText": "<p>Cervical cancer is the fourth most frequent cancer in women, with an incidence of 569&nbsp;847&nbsp;new cases and 311&nbsp;365&nbsp;deaths worldwide in 2018 {30207593}, and 80&ndash;90% of cervical cancers are SCCs {20952254}. The large majority of cervical SCCs (&gt;&nbsp;90&ndash;95%) are HPV-associated. The disease is largely preventable, and in high-income countries cervical cancer incidence and mortality have markedly diminished over the past 30&nbsp;years, since the introduction of screening programmes and, in recent years, HPV vaccination {31382121}. Approximately 90% of cervical cancers occur in low- and middle-income countries {30207593} lacking organized screening and HPV vaccination programmes. The highest incidence and mortality rates are seen in sub-Saharan Africa, followed by south-eastern Asia {30207593}.</p>",
+        "timestamp": "2020-08-12T11:57:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 64231,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 378,
+        "headingText": "\r\n<p>High-risk HPV genotypes cause the vast majority (&gt;&nbsp;90&ndash;95%) of SCCs {30911077; 20952254}. Twelve HPV types are classified by WHO as oncogenic: 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, and 59 {28893940}, but two types (16 and 18) are responsible for 70% of all SCCs {20952254; 12556961}. Another eight HPV types have been rarely but consistently identified as single HPV infections in about 3% of cervical carcinomas and are classified as probably/possibly carcinogenic: 26, 53, 66, 67, 68, 70, 73, and 82 {25043390}. Very rarely, low-risk HPV genotypes such as 6 and 11 have been identified as the sole cause of cervical SCC {24076770}.</p>\r\n",
+        "timestamp": "2020-04-28T14:53:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 64232,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 379,
+        "headingText": "<p>HPV-associated cervical SCC develops from a high-grade squamous intraepithelial lesion (HSIL) as a result of high expression levels of the viral oncogenes E6 and E7 in dividing epithelial cells (a so-called transforming infection). The progression of high-grade lesions to SCC requires the accumulation of additional, not yet completely understood epigenetic and genetic alterations, a process that may take 20&ndash;30&nbsp;years. Hypermethylation of CpG islands in promoter regions of tumour suppressor genes has been recognized as a molecular change from HSIL towards cervical cancer {26219541; 31067838}. Several factors have been associated with an increased risk of HPV persistence and progression, including immunosuppression (particularly due to HIV), multiparity, smoking, and the use of oral contraceptives.</p>\r\n<p>More than 70% of HPV-associated SCCs exhibit genomic alterations in either one or both of the PI3K/MAPK and TGF-&beta; signalling pathways {28112728}. <em>ERBB3</em> (<em>HER3</em>), <em>CASP8</em>, <em>HLA-A</em>, <em>SHKBP1</em>, and <em>TGFBR2</em> have been reported as significantly mutated genes {28112728}. Almost all HPV-associated SCCs show strong and diffuse p16 overexpression in both the nuclei and the cytoplasm {30911077}.</p>",
+        "timestamp": "2020-08-12T11:57:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 64233,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 386,
+        "headingText": "\r\n<p>Early invasive carcinomas may present as red, erosive, or raised areas. More-advanced tumours can be either exophytic (with papillary or polypoid morphology) or endophytic (with minimal surface changes and infiltrative growth). Tumour tissue frequently shows necrotic areas and has a brittle consistency.</p>\r\n",
+        "timestamp": "2020-04-28T14:53:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 64234,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 380,
+        "headingText": "<p>SCCs are characterized by infiltrating, angulated, irregularly sized and shaped nests, anastomosing cords, and solid sheets separated by an intervening desmoplastic or inflammatory stroma. Nuclear pleomorphism and an increased mitotic count are seen. Early stromal invasion is associated with irregular ragged epithelial nests, increased epithelial cell eosinophilia (paradoxical maturation), stromal loosening, or desmoplasia. Occasionally, definitive invasion cannot be confirmed on biopsy and the phrase &ldquo;invasive carcinoma cannot be excluded&rdquo; can be used. Grading systems, based on either nuclear pleomorphism or differentiation, have not shown any consistent correlation with behaviour {29665326}.</p>\r\n<p>Several histological patterns have been described. Non-keratinizing SCCs are composed of polygonal squamous cells growing in nest or sheets. Intercellular bridges or individual cell keratinization can be seen, but keratin pearls are not present. Keratinizing SCCs are characterized by the presence of keratin pearls. Tumour cells show a mature appearance, with polygonal cytoplasm and intercellular bridges. Basaloid SCCs show nests of immature, basal-type squamous cells with scant cytoplasm, resembling the cells commonly seen in HSIL. Some individual keratinization can be present, but keratin pearls are rarely seen {12195218}. Occasional cases show as HSIL-like growth pattern and may be misinterpreted as non-invasive or minimally invasive disease {27681166}. Warty (condylomatous) SCC shows an exophytic surface and koilocyte-like changes. Papillary SCC shows exophytic growth of fibrovascular cores lined by a multilayered atypical epithelium with squamous differentiation. Stromal invasion may be present, but carcinoma can be diagnosed without definitive stromal invasion when there is a clinically visible lesion or the exophytic growth pattern is sufficient to indicate exophytic-type invasion. Occasionally, these tumours may show a transitional-like appearance, and the term &ldquo;squamotransitional carcinoma&rdquo; has been used in the past {7573672; 9255254}. The occasional reported cases of SCC associated with low-risk HPV types tend to show this morphology {24076770}. Giant condyloma should be rigorously excluded in these cases. Lymphoepithelioma-like SCC is a rare pattern showing a dense stromal inflammatory infiltrate. EBV is not involved in these tumours in the cervix {15863191; 17674013}. Non-keratinizing and basaloid patterns are the most frequently identified patterns in HPV-associated SCC.</p>\r\n<h5><em>Immunohistochemistry</em></h5>\r\n<p>The vast majority of cervical SCCs are HPV-associated. However, p16 testing and/or molecular HPV typing is recommended for the diagnosis of HPV-associated cervical SCC. If this is not available, the NOS category should be used (see <a style=\"cursor:pointer\" href=\"/chaptercontent/34/529\" target=\"_blank\">section </a><em>Squamous cell carcinoma NOS of the uterine cervix</em>).</p>",
+        "timestamp": "2020-08-12T11:57:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 64235,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 381,
+        "headingText": "\r\n<p>Non-keratinizing and basaloid SCCs have syncytial aggregates and single cells with high N:C&nbsp;ratios, coarse chromatin, macronucleoli, and irregular nuclear contours. Cell borders are poorly defined and cytoplasm is delicate. Tumour diathesis and haemorrhage are commonly present and can lead to paucicellular or unsatisfactory specimens. Keratinizing and warty (condylomatous) SCCs have tumour cells that are heavily keratinized and have low to high N:C&nbsp;ratios, with intermixed keratin pearls, tadpole cells, and spindle cells. The nuclei are hyperchromatic, with dense or coarse chromatin. Nucleoli and tumour diathesis are uncommon. The low N:C&nbsp;ratios can lead to a misdiagnosis of low-grade squamous intraepithelial lesion.</p>\r\n",
+        "timestamp": "2020-04-28T14:53:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 64236,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-04-28T14:53:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 64237,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> infiltrating, angulated, irregularly sized and shaped nests, anastomosing cords, and solid sheets; nuclear pleomorphism and increased mitotic count; a desmoplastic or inflammatory stroma; overexpression of p16 as an acceptable surrogate marker of HPV association.</p>\r\n<p><em>Desirable (in selected cases):</em> HPV testing.</p>\r\n",
+        "timestamp": "2020-04-28T14:53:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 64238,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 383,
+        "headingText": "<p>FIGO stage and lymph node status are the most important prognostic factors {23062423; 23778490}.</p>",
+        "timestamp": "2020-06-01T12:08:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 64239,
+        "bookId": 34,
+        "chapterId": 127,
+        "headingId": 384,
+        "headingText": "\r\n<p>Histological patterns, HPV type, and grading do not seem to have prognostic implications {29665326; 29665323}.</p>",
+        "timestamp": "2020-04-28T14:53:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

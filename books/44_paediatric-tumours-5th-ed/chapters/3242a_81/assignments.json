@@ -1,0 +1,124 @@
+[
+  {
+    "pkroleId": 129,
+    "bookId": "44",
+    "roleid": 131,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2755,
+        "lastname": "Reifenberger",
+        "firstname": "Guido",
+        "initials": "",
+        "email": "",
+        "roleid": 131,
+        "position": 0
+      },
+      {
+        "contributorid": 3490,
+        "lastname": "Jacques",
+        "firstname": "Thomas S.",
+        "initials": "",
+        "email": "",
+        "roleid": 131,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 130,
+    "bookId": "44",
+    "roleid": 132,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2984,
+        "lastname": "Lopes",
+        "firstname": "Maria Beatriz S.",
+        "initials": "",
+        "email": "",
+        "roleid": 132,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 131,
+    "bookId": "44",
+    "roleid": 133,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2508,
+        "lastname": "Stemmer-Rachamimov",
+        "firstname": "Anat Olga",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 2511,
+        "lastname": "Rodriguez",
+        "firstname": "Fausto J.",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 2755,
+        "lastname": "Reifenberger",
+        "firstname": "Guido",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3746,
+        "lastname": "Santosh",
+        "firstname": "Vani",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3747,
+        "lastname": "Sharma",
+        "firstname": "Mehar C.",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3751,
+        "lastname": "Cotter",
+        "firstname": "Jennifer A.",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 132,
+    "bookId": "44",
+    "roleid": 150,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2513,
+        "lastname": "Perry",
+        "firstname": "Arie",
+        "initials": "",
+        "email": "",
+        "roleid": 150,
+        "position": 0
+      }
+    ]
+  }
+]

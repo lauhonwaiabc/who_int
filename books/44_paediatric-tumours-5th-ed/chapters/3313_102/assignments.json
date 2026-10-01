@@ -1,0 +1,71 @@
+[
+  {
+    "pkroleId": 129,
+    "bookId": "44",
+    "roleid": 131,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3493,
+        "lastname": "Hawkins",
+        "firstname": "Cynthia E.",
+        "initials": "",
+        "email": "",
+        "roleid": 131,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 130,
+    "bookId": "44",
+    "roleid": 132,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3594,
+        "lastname": "Pietsch",
+        "firstname": "Torsten",
+        "initials": "",
+        "email": "",
+        "roleid": 132,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 131,
+    "bookId": "44",
+    "roleid": 133,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2488,
+        "lastname": "Malkin",
+        "firstname": "David",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3563,
+        "lastname": "Hasselblatt",
+        "firstname": "Martin",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3602,
+        "lastname": "Paulus",
+        "firstname": "Werner",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      }
+    ]
+  }
+]

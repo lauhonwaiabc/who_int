@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 69367,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 539,
+        "headingText": "\r\n<p>Congenital mesoblastic nephromas (CMNs) are low-grade fibroblastic neoplasms of the infantile renal sinus.</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 69368,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 540,
+        "headingText": "<p>8960/1 Mesoblastic nephroma</p>\r\n<p>8960/1 Classic congenital mesoblastic nephroma</p>\r\n<p>8960/1 Cellular congenital mesoblastic nephroma</p>\r\n<p>8960/1 Mixed congenital mesoblastic nephroma</p>",
+        "timestamp": "2022-04-12T14:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 69369,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 541,
+        "headingText": "\r\n<p>2C90.Y &amp; XH10F1 Other specified malignant neoplasms of kidney, except renal pelvis &amp; Mesoblastic nephroma</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 69370,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 542,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 69371,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 543,
+        "headingText": "\r\n<p>Classic congenital mesoblastic nephroma; cellular congenital mesoblastic nephroma; mixed congenital mesoblastic nephroma</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 69372,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 544,
+        "headingText": "\r\n<p>CMNs by definition arise in the renal sinus. Cases are always unifocal and unilateral.</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 69373,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 545,
+        "headingText": "\r\n<p>The typical presentation is that of an abdominal mass (in 75% of cases). Hypertension due to hyperreninism (in 20%) and haematuria (in 10%) are less common. Approximately 15% of cases are diagnosed prenatally owing to polyhydramnios {28124468}.</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 69374,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 546,
+        "headingText": "\r\n<p>CMNs account for 2% of paediatric renal tumours. CMN is the most common congenital renal neoplasm, and 90% of cases occur in the first year of life {28124468}.</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 69375,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 547,
+        "headingText": "\r\n<p>There are neither environmental nor hereditary genetic risk factors.</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 69376,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 548,
+        "headingText": "<p>In &gt;&nbsp;70% of cases, cellular CMNs harbour a t(12;15)(p13;q25) translocation, which results in a fusion of the <em>ETV6</em> and <em>NTRK3</em> genes. <em>NTRK3</em> is a receptor tyrosine kinase. The fusion gene is a constitutively active tyrosine kinase that promotes cellular growth via multiple downstream pathways {22374738}. Other variant fusions, such as <em>EML4</em>::<em>NTRK3</em> {29099503}, have also been identified. The <em>ETV6</em>::<em>NTRK3</em> gene fusion in cellular CMN was first identified in infantile fibrosarcoma, but it is not present in classic CMN or its analogue, infantile fibromatosis {9462753; 9823307; 9811336}. Thus, cellular CMN and infantile fibrosarcoma are identical neoplasms. The molecular spectrum of cellular CMN and infantile fibrosarcoma has recently been expanded to include genetic alterations outside of the canonical <em>ETV6</em>::<em>NTRK3</em> fusion, including <em>BRAF</em> and <em>NTRK1</em> gene fusions {32590884; 28877062; 29915264}.</p>\r\n<p>Classic CMNs harbour an <em>EGFR</em> internal tandem duplication (ITD) that is predicted to activate EGFR signalling {29915264; 32590884; 32490123}. Mixed CMNs more frequently demonstrate <em>EGFR</em> ITD than the <em>ETV6</em>::<em>NTRK3</em> gene fusion, suggesting that most of them represent classic CMN with foci of increased cellularity {10658907; 16681692; 27020209; 29286563}, similarly to composite fibromatosis/fibrosarcoma of soft tissue {11684968}.</p>\r\n<p>Classic CMNs are typically diploid, whereas cellular CMNs frequently demonstrate aneuploidy of chromosomes&nbsp;11, 8, and 17 {3030229; 2544507; 9811336}.</p>",
+        "timestamp": "2022-04-26T15:38:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 69377,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 555,
+        "headingText": "\r\n<p>Classic CMNs have a firm, whorled texture, whereas cellular CMNs are larger and more typically soft, cystic, and haemorrhagic.</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 69378,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 549,
+        "headingText": "\r\n<p>Classic CMN (accounting for 24% of all cases of CMN) is morphologically identical to infantile fibromatosis of the renal sinus {4378178}. Tumours are composed of interlacing fascicles of fibroblastic cells with thin, tapered nuclei; pink cytoplasm; low mitotic activity; and abundant collagen deposition. The tumour dissects and entraps islands of renal parenchyma. Islands of cartilage are often found. Cellular CMN (66% of cases) is morphologically identical to infantile fibrosarcoma. These tumours have a pushing border, and they are composed of poorly formed fascicles that give way to sheet-like growth patterns. The tumours have a high mitotic count and frequently feature necrosis. Mixed CMN (10% of cases) has features of both classic and cellular CMN {12973047}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>CMNs are often immunoreactive for actin, with infrequent desmin labelling; CD34 is non-reactive. Although pan-TRK and cyclin&nbsp;D1 are often positive in CMN, both are also positive in its main differential diagnostic consideration, clear cell sarcoma of the kidney, which limits their utility {32034283}. Diffuse nuclear labelling for BCOR, which is characteristic of clear cell sarcoma of the kidney, is not found in CMN and thus is discriminatory {29851702; 28817404}. Ultrastructurally, CMNs have features of myofibroblasts or fibroblasts.</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 69379,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 69380,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 551,
+        "headingText": "\r\n<p>The <em>ETV6</em>::<em>NTRK3</em> gene fusion is characteristic of cellular CMN, whereas <em>EGFR</em> ITD is characteristic of classic CMN {29286563; 10658907; 9811336; 9823307; 29915264}.</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 69381,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> an infantile fibroblastic neoplasm with the typical morphology described above, in a child aged &lt;&nbsp;3&nbsp;years.</p>\r\n<p><em>Desirable:</em> molecular confirmation can be helpful in some cases.</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 69382,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 552,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-10T17:11:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 69383,
+        "bookId": 36,
+        "chapterId": 37,
+        "headingId": 553,
+        "headingText": "<p>When completely excised,&nbsp;CMN is associated with an excellent prognosis. Recurrence occurs in 5% of patients, and it is mainly related to the completeness of resection. Children with cellular CMN, children aged &ge;&nbsp;3&nbsp;months, and children with stage&nbsp;III disease have more recurrences {16596620}. All recurrences have occurred within 12&nbsp;months of diagnosis, and half of them resulted in patient death {28856451; 8402467; 8385324; 16596620; 21370406; 28124468}. Causes of recurrence divide almost equally between disease-related and treatment-related. All documented haematogenous metastases have resulted from cellular CMN. Relapsed cases are responsive to chemotherapy if resection is not possible {12652616; 12218597}.</p>",
+        "timestamp": "2022-04-26T15:39:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

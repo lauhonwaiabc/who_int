@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 118571,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Acute myeloid leukaemia (AML) with <em>RUNX1</em>::<em>RUNX1T1</em> is characterized by fusion of the RUNX family transcription factor&nbsp;1 gene (<em>RUNX1</em>) and the RUNX1 partner transcriptional co-repressor&nbsp;1 gene (<em>RUNX1T1</em>).</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 118572,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9896/3 Acute myeloid leukaemia with <em>RUNX1</em>::<em>RUNX1T1</em> fusion</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 118573,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A60.0 &amp; XH3CX5 Acute myeloid leukaemia with recurrent genetic abnormalities &amp; Acute myeloid leukaemia, t(8;21)(q22;q22)</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 118574,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Acceptable:</em> acute myeloid leukaemia with t(8;21)(q22;q22.1).</p>\r\n<p><em>Not recommended:</em> acute myeloid leukaemia with <em>AML1</em>/<em>ETO</em>.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 118575,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 118576,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>The blood and bone marrow are always involved. Some patients may present with myeloid sarcoma.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 118577,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Presenting symptoms and signs are typically secondary to bone marrow failure and include fatigue, bruising or bleeding, and infection. Organomegaly may be present. Patients who present with myeloid sarcoma may have low blast counts in the blood or bone marrow.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 118578,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>The t(8;21)(q22;q22.1) translocation is found in 1&ndash;5% of AML cases. <em>RUNX1</em>::<em>RUNX1T1</em> is the predominant core-binding factor (CBF) rearrangement found in African-American patients with AML (~55&ndash;70% of CBF-AML in these patients) {14976037}. Similarly, CBF-AML is enriched in patients of eastern Asian ancestry (~20%) {29427994}, with a predominance of <em>RUNX1</em>::<em>RUNX1T1</em> (70&ndash;80% of CBF-AML cases in these patients) {29427994}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 118579,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>Unknown</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 118580,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 710,
+        "headingText": "\r\n\r\n<p>The CBF is a transcription factor complex comprising a DNA-binding CBF&alpha; subunit (RUNX1, RUNX2, or RUNX3) and a non&ndash;DNA-binding heterodimerization partner CBF&beta; subunit (encoded by <em>CBFB</em>). RUNX1 (AML1) is a master transcriptional regulator of adult haematopoiesis expressed by all haematopoietic lineages. RUNX1 and CBF&beta; form a DNA-binding heterodimer that regulates haematopoietic differentiation. RUNX1T1 is a transcriptional co-repressor whose expression is limited to the megakaryocytic and erythrocytic lineages, but not haematopoietic stem and progenitor cells {33217477}. The <em>RUNX1</em>::<em>RUNX1T1</em> fusion resulting from t(8;21)(q22;q22.1) plays a critical role in leukaemogenesis by blocking myeloid differentiation but requires other cooperating pathogenic alterations for leukaemic development and progression (see <a style=\"cursor:pointer\" href=\"/attachment/63/39/31112\" target=\"_blank\">#31112</a>Table&nbsp;2.14). Such alterations include mutations in <em>DHX15</em> and <em>ZBTB7A</em>, as well as an enrichment of mutations in epigenetic regulators, including <em>ASXL2</em> and the cohesin complex {27798625; 26980726; 26968532}. Other cooperating factors include mutations resulting in RAS pathway activation {26968532; 26980726}. Secondary cytogenetic abnormalities occur in approximately 66% of cases, with the more frequently reported aberrations being del(9q) (in 15% of cases) and loss of a sex chromosome (loss of the X&nbsp;chromosome in 37% of female patients, loss of the Y&nbsp;chromosome in 44% of male patients) {34003250}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 118581,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 118582,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 711,
+        "headingText": "<p>Bone marrow trephine biopsy or clot preparation usually shows extensive replacement by immature cells. Bone marrow smears show increased blasts and myeloid precursors at various stages of maturation in about 90% of cases. Approximately 10% of cases have features of AML without maturation. Blasts are large, with abundant basophilic cytoplasm, often containing numerous azurophilic granules and perinuclear clearing (hof). Few blasts containing large Ch&eacute;diak&ndash;Higashi&ndash;like granules may be seen. Auer rods are frequently found and appear as a single long rod with tapered ends. Promyelocytes, myelocytes, and mature neutrophils show variable degrees of dysplasia. The latter may show abnormal nuclear segmentation (e.g. pseudo&ndash;Pelger&ndash;Hu&euml;t nuclei) and/or cytoplasmic staining abnormalities, including homogeneous pink cytoplasm in neutrophils. However, dysplasia of other cell lines is uncommon. Monocytes are typically few or absent. Eosinophil precursors are frequently increased, but they do not exhibit cytological (or cytochemical) abnormalities. Basophils may be increased. Mast cells are sometimes increased, and concurrent systemic mastocytosis may be present rarely {22847983; 24045550}.</p>\r\n\r\n<h5>Immunophenotype</h5>\r\n\r\n<p>Leukaemic cells express a characteristic immunophenotype that includes high-intensity expression of CD34 and aberrant expression of the lymphoid markers CD19 and cCD79a. CD56 is positive in some cases, with expression on myeloblasts and maturing neutrophils {16986129; 23810283; 30264491}. Neutrophils usually show abnormal maturation patterns. Other markers commonly expressed include HLA-DR, CD13, and myeloperoxidase, whereas CD33 is usually weak or negative {14692523; 30264491}. Blasts may show maturation asynchrony (e.g. coexpression of CD34 and CD15). PAX5 expression is usually present {23616623}.</p>\r\n\r\n<h5>Cytochemistry</h5>\r\n\r\n<p>Blasts are usually positive for myeloperoxidase. Butyrate esterase may show a Golgi-zone signal in some cases, but such a finding should not be regarded as evidence of monocytic differentiation.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-01T12:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 118583,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>See above.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 118584,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>Detection of t(8;21)(q22;q22.1) and/or <em>RUNX1</em>::<em>RUNX1T1</em> can be achieved using chromosome banding analysis, FISH, and various molecular techniques.</p>\r\n<p>The number of somatic mutations is usually low in comparison to that in AML with a normal karyotype {23634996; 28321123}. At least one mutation can be identified in 85&ndash;90% of cases of AML with <em>RUNX1</em>::<em>RUNX1T1</em>, but a high mutation burden (&ge;&nbsp;2) may be present in some cases {24402164; 32757686}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 118585,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> a myeloid neoplasm with increased peripheral blood and/or bone marrow blasts (may be &lt;&nbsp;20%); detection of <em>RUNX1</em>::<em>RUNX1T1</em>; not fulfilling diagnostic criteria for myeloid neoplasm post cytotoxic therapy.</p>\r\n<p><em>Desirable:</em> detection of t(8;21)(q22;q22.1).</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 118586,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not applicable</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 118587,
+        "bookId": 63,
+        "chapterId": 39,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>Most patients have higher rates of complete remission and long-term disease-free survival when treated with intensive consolidation therapy (e.g. high-dose cytarabine) {25008258; 29991495}. Some factors appear to adversely affect prognosis, including the presence of <em>KIT</em> mutations (in adults) and CD56 expression {19458628; 23810283}. The presence of KIT p.D816 in adults correlates with a lower relapse-free survival rate, whereas hyperdiploidy and/or the presence of del(9q) is associated with a longer overall survival {30117318}. Based on these clinical and molecular features, the derived I-CBFit score may specifically predict survival {30117318}. A high mutation burden (&ge;&nbsp;2) is associated with inferior outcomes {24402164; 32757686}.</p>\r\n<p>Early reduction in the level of <em>RUNX1</em>::<em>RUNX1T1</em> fusion transcripts after induction therapy represents an independent prognostic factor for better disease-free and overall survival {22875911; 29884905}. Patients who do not achieve major molecular remission after consolidation therapy are at a high risk of relapse and may benefit from allogeneic stem cell transplant therapy {25082877}. Detection of measurable residual disease either by flow cytometry or PCR-based techniques is associated with lower complete remission rates and shorter survival, even after transplantation {32101640}.</p>",
+        "timestamp": "2024-03-01T12:27:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

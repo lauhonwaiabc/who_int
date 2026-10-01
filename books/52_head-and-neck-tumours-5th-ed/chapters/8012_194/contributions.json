@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 115425,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 576,
+        "headingText": "<p >Liposarcomas are a heterogeneous group of malignant adipocytic neoplasms with type-dependent features and include atypical lipomatous tumour&nbsp;/ well-differentiated liposarcoma (ALT/WDLPS); dedifferentiated liposarcoma (DDLPS); myxoid liposarcoma (MLPS); pleomorphic liposarcoma (PLPS); and myxoid pleomorphic liposarcoma (MPLPS).</p>",
+        "timestamp": "2024-01-10T14:01:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 115426,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 577,
+        "headingText": "<p >8850/1 Atypical lipomatous tumour</p>\r\n<p >8851/3 Liposarcoma, well-differentiated, NOS</p>\r\n<p >8858/3 Dedifferentiated liposarcoma</p>\r\n<p >8852/3 Myxoid liposarcoma</p>\r\n<p >8854/3 Pleomorphic liposarcoma</p>",
+        "timestamp": "2024-01-10T14:01:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 115427,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 578,
+        "headingText": "<p >2F7C &amp; XH0RW4 Neoplasms of uncertain behaviour of connective or other soft tissue &amp; Atypical lipomatous tumour</p>\r\n<p >2B5H &amp; XH7Y61 Well-differentiated lipomatous tumour, primary site &amp; Liposarcoma, well-differentiated</p>\r\n<p >2B59 &amp; XH1C03 Liposarcoma, primary site &amp; Dedifferentiated liposarcoma</p>\r\n<p >2B59.Y &amp; XH3EL0 Liposarcoma, other specified primary site &amp; Myxoid liposarcoma</p>\r\n<p >2B59.Y &amp; XH25R1 Liposarcoma, other specified primary site &amp; Pleomorphic liposarcoma</p>\r\n<p >2B59.Y &amp; XH3EL0 &amp; XH25R1 Liposarcoma, other specified primary site &amp; Myxoid liposarcoma &amp; Pleomorphic liposarcoma</p>",
+        "timestamp": "2024-01-10T14:01:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 115428,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> for ALT/WDLPS: atypical lipoma; lipoma-like liposarcoma; for MPLPS: pleomorphic myxoid liposarcoma.</p>\r\n",
+        "timestamp": "2023-09-29T15:20:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 115429,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-29T15:20:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 115430,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 581,
+        "headingText": "<p >About 80% of liposarcomas in this site involve the subcutaneous tissue of the face, neck, and scalp {23728920}. MLPS may metastasize to unusual sites, including the head and neck region {22473934}.</p>",
+        "timestamp": "2024-01-10T14:02:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 115431,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients often present with a mass. Symptoms are site- and size-dependent {12379747}.</p>\r\n",
+        "timestamp": "2023-09-29T15:20:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 115432,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 583,
+        "headingText": "\r\n<p>Liposarcomas account for 2&ndash;9% of sarcomas in the head and neck. The mean patient age is 60&nbsp;years. Male patients (76%) outnumber female patients, and White patients (&gt;&nbsp;80%) outnumber Black and Asian patients. The most common subtype is ALT/WDLPS, followed by MLPS, PLPS, and DDLPS {23728920}.</p>\r\n",
+        "timestamp": "2023-09-29T15:20:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 115433,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-29T15:20:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 115434,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 585,
+        "headingText": "<p><em>ALT/WDLPS and DDLPS:</em> Amplified sequences of 12q14-15, including <em>MDM2</em>, <em>TSPAN31</em>, <em>HMGA2</em>, <em>CDK4</em>, <em>YEATS4</em>, <em>CPM</em>, <em>FRS2</em>, and <em>STAT6</em> {31501988; 24457460}.</p>\r\n<p><em>MLPS:</em> The driver mutation is <em>FUS</em>::<em>DDIT3</em> or <em>EWSR1</em>::<em>DDIT3</em> {7566973; 8637704}.</p>\r\n<p><em>PLPS:</em> Complex numerical chromosome aberrations, including loss of <em>RB1</em>, <em>TP53</em>, and <em>NF1</em> {31501988}.</p>\r\n<p><em>MPLPS:</em> Complex numerical chromosome aberrations, including loss of <em>RB1</em>; mutations in <em>KMT2D</em> {26647907}.</p>",
+        "timestamp": "2024-01-10T14:02:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 115435,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 592,
+        "headingText": "<p >Liposarcomas form (multi)nodular fatty (ALT/WDLPS) or grey-white firm tumours with a variable fatty component (DDLPS, PLPS). Myxoid/gelatinous areas can be observed in all lesions. Necrotic areas are mainly found in high-grade lesions {31950475}.</p>",
+        "timestamp": "2024-01-10T14:02:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 115436,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 586,
+        "headingText": "<p>ALT/WDLPS consists of atypical adipocytes with enlarged hyperchromatic nuclei. Irregular septa contain atypical stromal cells with hyperchromatic nuclei. Lipoblasts may be present {12379747}. MDM2 and CDK4 provide strong immunohistochemical support for the diagnosis {22301498}.</p>\r\n<p>DDLPS shows a variable, spindle cell sarcomatous pattern often combined with a well-differentiated liposarcoma component. Lipoblastic, rhabdomyoblastic, or osteogenic differentiation may occur {12379747; 22301498; 24457460; 31950475}.</p>\r\n<p>MLPSs are arranged in lobules consisting of a variable number of prelipoblasts and lipoblasts in a myxoid background with a characteristic plexiform capillary network. Adipocytes may be present. The lobules often show peripheral condensation of primitive cells. High-grade MLPSs show &gt;&nbsp;5% solid sheets of undifferentiated mainly round cells {31950475}. DDIT3 immunohistochemistry is a surrogate marker for the fusion gene {33465826}.</p>\r\n<p>PLPS is a high-grade sarcoma defined by the presence of atypical lipoblasts in an otherwise high-grade sarcoma with spindle cell and/or epithelioid cell features. A dedifferentiated liposarcoma may be excluded by expression of MDM2/CDK4 or amplification of <em>MDM2</em>. RB1 can be absent {31950475}.</p>\r\n<p>MPLPS shows mixed features of MLPS and PLPS, with atypical and bland-looking lipoblasts, variable pleomorphic stromal cells, myxoid matrix, and less vascularity {31501988; 19194281}.</p>",
+        "timestamp": "2024-01-10T14:03:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 115437,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 587,
+        "headingText": "\r\n<p>Cytological features of the subtypes of liposarcoma reflect their histological composition {19899126}.</p>\r\n",
+        "timestamp": "2023-09-29T15:20:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 115438,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 588,
+        "headingText": "<p>ALT/WDLPS and DDLPS are associated with <em>MDM2</em> amplification. MLPS is associated with <em>FUS</em>/<em>EWSR1</em>::<em>DDIT3</em> fusions. MPLPS and PLPS are associated with <em>RB1</em> deletion.</p>",
+        "timestamp": "2024-01-10T14:03:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 115439,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em></p>\r\n<p>ALT/WDLPS: atypical stromal cells in irregular septa; adipocytes may show (subtle) atypia.</p>\r\n<p>DDLPS: non-adipogenic sarcoma and often atypical fat cells.</p>\r\n<p>MLPS: prelipoblasts (round or spindle cells) and lipoblasts; chicken-wire vasculature; myxoid background; round cell hypercellular areas &gt;&nbsp;5% in high-grade lesions.</p>\r\n<p>PLPS: pleomorphic lipoblasts in an otherwise high-grade sarcoma NOS.</p>\r\n<p>MPLPS: mixed features of PLPS and MLPS.</p>\r\n<p><em>Desirable:</em> appropriate immunocytochemistry or molecular features (in selected cases).</p>",
+        "timestamp": "2024-01-10T14:04:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 115440,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 589,
+        "headingText": "<p >Staging is not clinically relevant in ALT/WDLPS. For other subtypes, staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2024-01-10T14:04:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 115441,
+        "bookId": 52,
+        "chapterId": 194,
+        "headingId": 590,
+        "headingText": "<p>Liposarcomas of the head and neck are usually early-stage and low-grade. Survival is significantly better for liposarcoma of the head and neck than other sites {23728920}. However, the prognosis depends on the subtype and localization.</p>\r\n<p><em>ALT/WDLPS:</em> May recur if incompletely excised {24800932}.</p>\r\n<p><em>DDLPS:</em> Often recurs and shows metastatic potential in a small subset {24800932}.</p>\r\n<p><em>MLPS:</em> Recurrence and metastatic disease depend on grade. Most tumours behave as low-grade sarcomas. When metastasized, the outcome is worse {22190864}.</p>\r\n<p><em>PLPS, MPLPS:</em> Often show aggressive behaviour, with metastases and a fatal outcome {24800932; 31501988; 31950475}. Superficial lesions often have a good prognosis {31950475}.</p>",
+        "timestamp": "2024-01-10T14:04:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

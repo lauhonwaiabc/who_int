@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 138178,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 733,
+        "headingText": "\r\n<p>Gliomas of the optic nerve are a family of defined tumour types. Astrocytomas of the optic disc and optic nerve are tumours with an astrocytic phenotype developing from glial precursor cells and located within the optic nerve and chiasm. Optic nerve gliomas are most frequently pilocytic astrocytomas. However, other diffuse gliomas (including glioblastoma) may rarely involve the nerve, usually by secondary extension from the CNS.</p>\r\n",
+        "timestamp": "2026-03-31T15:01:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 138179,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 734,
+        "headingText": "\r\n<p>9421/1 Pilocytic astrocytoma</p>\r\n<p>9425/3 Pilomyxoid astrocytoma</p>\r\n<p>9400/3 Astrocytoma, IDH-mutant, grade&nbsp;2</p>\r\n<p>9440/3 Glioblastoma, IDH-wildtype</p>\r\n",
+        "timestamp": "2026-03-31T15:01:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 138180,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 735,
+        "headingText": "\r\n<p>2A02.12 &amp; XH29Q5 Malignant neoplasm of the optic nerve &amp; Pilomyxoid astrocytoma</p>\r\n<p>2A02.12 &amp; XH2HK4 Malignant neoplasm of the optic nerve &amp; Diffuse astrocytoma, IDH-mutant</p>\r\n<p>2A02.12 &amp; XH5571 Malignant neoplasm of the optic nerve &amp; Glioblastoma, IDH-wildtype</p>\r\n",
+        "timestamp": "2026-03-31T15:01:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 138181,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 736,
+        "headingText": "\r\n<p><em>Acceptable:</em> optic pathway glioma (not a pathological category).</p>\r\n<p><em>Not recommended (obsolete):</em> juvenile pilocytic astrocytoma.</p>\r\n",
+        "timestamp": "2026-03-31T15:01:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 138182,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 737,
+        "headingText": "\r\n<p>Pilocytic astrocytoma; pilomyxoid astrocytoma; glioblastoma and other diffuse gliomas: malignant optic nerve glioma; primary and secondary glioblastoma</p>\r\n",
+        "timestamp": "2026-03-31T15:01:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 138183,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 738,
+        "headingText": "\r\n<p>The most common location is the optic nerve or chiasm. Bilateral involvement can be seen in patients with neurofibromatosis type&nbsp;1 (NF1). Intraocular tumour extension and vitreous spread are rare {26004076}. Local recurrence of high-grade gliomas is inevitable, with frequent extension into the adjacent brain tissue. The tumour may spread via the optic radiations to the occipital pole. There have been documented cases of malignant optic nerve glioma occurring in the context of multifocal glioblastomas {18977790;26004076}. Transtentorial spread to the cerebellum has been documented {28298017}.</p>\r\n",
+        "timestamp": "2026-03-31T15:01:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 138184,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 739,
+        "headingText": "\r\n<p>Individuals with optic nerve gliomas present clinically with a wide spectrum of ophthalmic abnormalities, including visual impairment, optic atrophy, and proptosis {773617;12788189;24736941;10705932}. Patients with high-grade glioma present with rapidly progressive unilateral vision loss, often eventually developing bilateral blindness. Pain may be an accompanying symptom {26004076}, along with headaches, motor deficits, and behavioural changes {28298017}.</p>\r\n",
+        "timestamp": "2026-03-31T15:01:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 138185,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 740,
+        "headingText": "\r\n<p>Optic nerve gliomas account for approximately 5% of all intracranial gliomas and 66% of primary optic nerve tumours {2011108;9029062;12432832;25411148}. About 90% are diagnosed within the first two decades of life. The median patient age at diagnosis is 7&nbsp;years (range: from birth to the eighth decade of life). The M:F&nbsp;ratio is approximately 2:3. Both sexes appear to be equally affected when the neoplasm involves the optic chiasm. About 15% of patients with NF1 develop optic pathway gliomas. Diffuse gliomas of the optic nerve are rare, with &lt;&nbsp;100&nbsp;cases reported in adults. There is a male predominance, with a mean patient age at diagnosis of 62&nbsp;years (range: 26&ndash;83&nbsp;years) {6298650;22330854;28298017}. Rare cases have been reported in children {20433265}. The novel molecular class of high-grade astrocytoma with piloid features is typically cerebellar tumours in adults, and does not tend to affect the optic pathways {29564591;30192422}.</p>\r\n",
+        "timestamp": "2026-03-31T15:01:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 138186,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 741,
+        "headingText": "\r\n<p>Optic nerve gliomas probably derive from glial progenitors and have an astrocytic phenotype. Light stimulation during specified developmental periods is important for the formation of optic nerve gliomas in NF1 mouse models, which explains in part a predilection for the optic pathways in this patient population {34040258}. Radiation therapy has been implicated in the formation of some high-grade gliomas {1330262}.</p>\r\n<h5>Genetic susceptibility</h5>\r\n<p>NF1 has a recognized association with gliomas of the optic pathways {8727140;7472822}. About 70% of optic pathway gliomas are associated with the syndrome {10469435}, and these tumours generally have a more favourable outcome than sporadic gliomas. Approximately 20% of optic nerve tumours in patients with NF1 affect both nerves {10708361}. Tumour enlargement and progressive visual impairment occasionally occur in children with NF1 {8021787;7472822}, and malignant change at this site is exceptional {7066671}.</p>\r\n",
+        "timestamp": "2026-03-31T15:01:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 138187,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 742,
+        "headingText": "\r\n<p>Pilocytic astrocytomas of the optic pathway may show deletions and allelic losses involving the <em>NF1 </em>gene at chromosome 17q11.2, with homozygous inactivation of the gene a uniform feature in the NF1 population. It appears that various mechanisms involving the <em>NF1 </em>tumour suppressor gene may play an important primary genetic role in the promotion or initiation of NF1-associated pilocytic astrocytomas {10931370;12387455}. Pilocytic astrocytomas associated with NF1 typically lack the genetic changes associated with diffuse gliomas {11294925}. Mutations of the <em>TP53 </em>gene are rare {8108140}. Sporadic optic nerve pilocytic astrocytomas harbour <em>KIAA1549</em>::<em>BRAF </em>fusions typical of pilocytic astrocytomas in other locations. Unlike in diffuse or infiltrating astrocytomas, IDH mutations are absent in pilocytic astrocytomas {25792358;22892521}.</p>\r\n<p>Very few optic pathway glioblastoma cases have been subject to molecular genetic profiling. In a single case report, FISH&nbsp;/ microsatellite analyses showed 1p36 and 19q13 loss in a high proportion of cells, deletion of <em>PTEN </em>at chromosome&nbsp;10q23 in 28% of cells, monosomy&nbsp;7 in 40% of cells, and polysomy&nbsp;7 in 15%. No <em>EGFR </em>or <em>EGFRvIII </em>amplification or <em>MGMT </em>methylation was observed {23348245}. <em>MGMT </em>promoter methylation was found in a case with transtentorial spread to the cerebellum {28298017}.</p>\r\n",
+        "timestamp": "2026-03-31T15:01:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 138188,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 749,
+        "headingText": "\r\n<p>Most pilocytic astrocytomas are soft, grey, and relatively discrete. Intratumoural or paratumoural cyst formation, including mural tumour nodules, is common. Optic nerve tumours often circumferentially infiltrate the optic sheath {7066671}.</p>\r\n",
+        "timestamp": "2026-03-31T15:01:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 138189,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 743,
+        "headingText": "\r\n<p>Pilocytic astrocytomas expand the septa of the optic nerve and frequently exhibit a biphasic growth pattern. They can also extensively involve the leptomeninges. The tumour cells are characterized by delicate bipolar hair-like processes. Rosenthal fibres (eosinophilic corkscrew or beaded structures) are frequently found in pilocytic astrocytomas in addition to eosinophilic granular bodies and protein droplets {3152462}. Verhoeff described three histological patterns of optic nerve pilocytic astrocytoma: coarsely reticulated, coarsely fibrillated, and finely reticulated [[Penfield W, Editor. Cytology and Cellular Pathology of the Nervous System. 2nd ed. New York (NY): Hafner Publishing Company; 1965.]]. Oligodendrocyte-like cells may be present as in other sites. The pilomyxoid subtype of pilocytic astrocytoma has a distinct predilection for the chiasm&nbsp;/ hypothalamic region, affecting infants. Immunohistochemical staining for GFAP highlights the tumour cells and their processes.</p>\r\n<h5>Pilomyxoid astrocytoma</h5>\r\n<p>Pilomyxoid astrocytoma {10515229} shares many features with classic pilocytic astrocytoma but differs in some important clinicopathological respects {14683543;12943571}. It is a tumour of infancy occurring in the hypothalamic/chiasmatic region, has a higher rate of recurrence and a poorer outcome than classic pilocytic astrocytoma, and shows a propensity for cerebrospinal dissemination {14683543;18622384}. It is characterized by monomorphic cytology and a diffuse myxoid background {10515229}. It also has a prominent angiocentric arrangement of tumour cells and typically lacks Rosenthal fibres and eosinophilic granular bodies. Some pilomyxoid astrocytomas develop into a classic pilocytic astrocytoma on recurrence {21107083}.</p>\r\n<h5>Diffuse gliomas</h5>\r\n<p>Diffuse gliomas are characterized by single cell parenchymal infiltration, with higher grades demonstrating brisk mitotic activity, microvascular proliferation, necrosis, or a molecular profile typical of high-grade tumours as described in the current <em>Central nervous system tumours</em> volume of this series {34185076}. Molecularly confirmed primary diffuse gliomas of the optic nerve and pathways are scant and usually represent secondary extension of supratentorial primaries. An IDH-mutant high-grade astrocytoma with secondary infiltration of the optic nerve and vitreous seeding has been reported {28208187}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Piloid gliosis can mimic and be difficult to distinguish from pilocytic astrocytoma. Optic nerve gliosis may include arachnoid gliomatosis {6767467} and diffuse hyperplastic gliosis, and may be seen in patients with or without NF1 {6818504}. Diffuse leptomeningeal glioma can involve the optic nerve sheath {23247038}. Arachnoid enhancement of the optic nerve sheath on MRI may mimic optic nerve meningioma in some cases. Optic nerve gliomas can be associated with meningothelial hyperplasia, and a superficial biopsy of the meninges may result in an erroneous diagnosis of meningioma {486377}. On a tiny biopsy specimen, it might not be possible to histologically distinguish pilocytic astrocytoma from a diffuse or fibrillary (WHO grade&nbsp;2) astrocytoma {18344915}.</p>\r\n<p>Rare examples of glioneuronal tumours (predominantly ganglioglioma) involving the optic nerve and chiasm have been reported, and they are histologically identical to similar tumours elsewhere in the CNS {25043166;8637690;31793986}. They contain the same combination of neoplastic mature ganglion cells admixed with neoplastic glial cells that typically constitutes a pilocytic astrocytoma. Because the optic nerve is normally a pure white matter fibre tract that lacks ganglion cells, explanations for the presence of ganglion cells in optic nerve gangliogliomas include ectopic neurons {2194139} and undifferentiated neuroepithelium of the optic stalk lumen, which could conceivably differentiate concurrently into both glial and ganglionic derivatives with neoplastic potential {8487083}. When a ganglioglioma involves the region of the optic chiasm and hypothalamus, the pathologist must determine whether the neuronal component constitutes entrapped non-neoplastic hypothalamic neurons. Chiasmal&ndash;optic nerve rosette-forming glioneuronal tumours associated with NF1 have been reported {19349806}.</p>\r\n<p>For diffuse gliomas, the most important aspect of the differential diagnosis is distinguishing malignant optic nerve gliomas from metastases, lymphoma, meningioma, ganglioglioma, and pilocytic astrocytoma. Not surprisingly, biopsy specimens consisting largely of necrosis may pose a particular challenge {25391062}, as can the vascular proliferation commonly seen in pilocytic lesions.</p>\r\n",
+        "timestamp": "2026-03-31T15:01:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 138190,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 744,
+        "headingText": "\r\n<p>Intraoperative smears of pilocytic astrocytoma are characterized by cells with long, fine, hair-like processes. The cells usually show uniform, round to spindled nuclei with minimal atypia. Rosenthal fibres, eosinophilic granular bodies, and glomeruloid vessels can be present. In some cases, there may be degenerative atypia, with multinucleated cells. Vitreous sampling may detect glioma cells in the rare tumours extending to the retina {28208187}.</p>\r\n",
+        "timestamp": "2026-03-31T15:01:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 138191,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 745,
+        "headingText": "\r\n<p>The most frequent genetic alteration in pilocytic astrocytoma is a chromosome&nbsp;7q34 rearrangement resulting in a <em>KIAA1549</em>::<em>BRAF</em> tandem duplication and fusion {18974108;18398503;19373855}. In small numbers of cases, alternative <em>BRAF</em> fusions have also been identified, occurring by various genetic rearrangements (including deletions and translocations) but all resulting in loss of the N-terminal regulatory region of the BRAF protein, with retention of the kinase domain {23817572;23583981;29141672;28448514}. Other MAPK pathway gene alterations also occur (see <a style=\"cursor:pointer\" href=\"/attachment/65/122/56477\" target=\"_blank\">#56477</a>Table&nbsp;6.01) {23817572;23583981}. <em>BRAF</em> duplications and MAPK pathway activation are detected in almost all sporadic optic nerve gliomas {22892521;23702730}.</p>\r\n",
+        "timestamp": "2026-03-31T15:01:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 138192,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 748,
+        "headingText": "\r\n<h5>Pilocytic astrocytoma</h5>\r\n<p><em>Essential:</em> classic histological features of pilocytic astrocytoma, such as biphasic compact and loose growth patterns, piloid cytology, and low proliferative activity, with or without Rosenthal fibres and/or eosinophilic granular bodies; OR a low-grade piloid astrocytic neoplasm with a solitary MAPK pathway alteration, such as <em>KIAA1549</em>::<em>BRAF</em> fusion.</p>\r\n<h5>Pilomyxoid astrocytoma</h5>\r\n<p><em>Essential:</em> a monomorphic, loose, myxoid neoplasm with piloid cytology and a prominent angiocentric pattern, often without Rosenthal fibres and eosinophilic granular bodies; OR an astrocytic neoplasm with pilomyxoid features and a solitary MAPK pathway alteration, such as <em>KIAA1549</em>::<em>BRAF</em> fusion.</p>\r\n<h5>Diffuse glioma</h5>\r\n<p><em>Essential:</em> a diffusely infiltrating glioma; molecular alterations typical of a specific diffuse glioma subtype (see the <em>Central nervous system tumours</em> volume).</p>\r\n",
+        "timestamp": "2026-03-31T15:01:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 138193,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 746,
+        "headingText": "\r\n<p>For supratentorial pilocytic astrocytomas, including those involving the optic pathways, spinal MRI is performed if there is evidence of intracranial dissemination. Cerebrospinal fluid cytology is only done if radiological findings indicate disseminated disease {28649001}.</p>\r\n",
+        "timestamp": "2026-03-31T15:01:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 138194,
+        "bookId": 65,
+        "chapterId": 122,
+        "headingId": 747,
+        "headingText": "\r\n<p>Pilocytic astrocytomas are typically slow growing and have a favourable prognosis. Some remain stable for extended periods of time, and some may regress. Others, despite years of relative quiescence, retain the ability to grow and invade the optic chiasm and hypothalamus, resulting in considerable morbidity and mortality and a worse prognosis {3652011}. Malignant transformation is rare.</p>\r\n<p>Like analogous tumours of the brain and spinal cord, high-grade astrocytomas in the optic pathways have a dismal prognosis, with most patients dying of the disease in &lt;&nbsp;2&nbsp;years despite radiation and/or chemotherapy {28298017;26004076}.</p>",
+        "timestamp": "2026-03-31T15:01:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

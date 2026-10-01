@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1119,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1158,
+    "contributions": [
+      {
+        "pkcontributionId": 156153,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1158,
+        "headingText": "\r\n<p>Extraskeletal myxoid chondrosarcoma (EMC) is a malignant mesenchymal neoplasm of uncertain lineage characterized by abundant myxoid matrix; multilobular architecture; uniform cells arranged in cords, clusters, and reticular networks; and <em>NR4A3</em> gene rearrangement. Despite the name, there is no evidence of cartilaginous differentiation.</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1120,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1159,
+    "contributions": [
+      {
+        "pkcontributionId": 156154,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1159,
+        "headingText": "\r\n<p>9231/3 Extraskeletal myxoid chondrosarcoma</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1121,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1160,
+    "contributions": [
+      {
+        "pkcontributionId": 156155,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1160,
+        "headingText": "\r\n<p>2B5F.2 &amp; XH9344 Sarcoma, not elsewhere classified of other specified sites &amp; Myxoid chondrosarcoma</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1122,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1161,
+    "contributions": [
+      {
+        "pkcontributionId": 156156,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1161,
+        "headingText": "\r\n<p><em>Acceptable:</em> <em>NR4A3</em>-rearranged myxoid sarcoma.</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1123,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1162,
+    "contributions": [
+      {
+        "pkcontributionId": 156157,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1162,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1124,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1163,
+    "contributions": [
+      {
+        "pkcontributionId": 156158,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1163,
+        "headingText": "\r\n<p>Most EMCs arise in the deep soft tissues of the proximal extremities and limb girdles, most commonly the thigh {4261659; 10366145}. Less common sites include the trunk, breast {35775709}, head and neck, paraspinal soft tissue, abdomen, pelvis, and foot. Rare tumours have also been reported in the finger {11679947}, brain {8310804}, retroperitoneum {3953507}, vulva {33075019}, and pleura {1553915}. Despite the current nomenclature, rare genetically confirmed cases of EMC have been described in bone {9149016; 28249774}.</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1125,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1164,
+    "contributions": [
+      {
+        "pkcontributionId": 156159,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1164,
+        "headingText": "\r\n<p>Patients most often present with an enlarging, deep-seated soft tissue mass, often accompanied by pain and tenderness. Some tumours may mimic a haematoma. Tumours around joints can restrict the range of motion.</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1126,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1165,
+    "contributions": [
+      {
+        "pkcontributionId": 156160,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1165,
+        "headingText": "\r\n<p>EMC is rare, accounting for &lt;&nbsp;3% of soft tissue sarcomas. Cases are reported to usually occur in adults, with a median age of 50&ndash;57&nbsp;years {18951519; 10366145; 35251555; 35962783; 36825763}. Only rare cases in childhood or adolescence have been reported {2835146}. The M:F&nbsp;ratio in reported cases is 4:1 {36825763; 32572850}.</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1127,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1166,
+    "contributions": [
+      {
+        "pkcontributionId": 156161,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1166,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1128,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1167,
+    "contributions": [
+      {
+        "pkcontributionId": 156162,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1167,
+        "headingText": "\r\n<p>Molecular characterization of t(9;22)(q22;q12) and, subsequently, the less common t(9;17)(q22;q11) variant translocation has shown that they result in gene fusions involving <em>NR4A3</em> with either <em>EWSR1</em> at 22q12.2 or <em>TAF15</em> at 17q12, respectively {10602520; 8634690; 10602519; 10537274}. Rare alternative <em>NR4A3</em> gene fusion partners include <em>TCF12</em>, <em>TFG</em>, <em>HSPA8</em>, <em>SMARCA2</em>, <em>PGR</em>, and <em>LSM14A</em>, identified in isolated cases of EMC {15188455; 11156374; 24746215; 36563884; 32572850; 34124809; 36103645; 35932215}. The <em>NR4A3</em> fusions, which are present in &gt;&nbsp;90% of EMCs {15998372; 12378528; 12598313}, are considered a hallmark of the disease, although this rearrangement has been rarely reported in a distinct subset of uterine leiomyosarcomas {30829727; 38508521}.</p>\r\n<p><em>NR4A3</em> (also known as <em>TEC</em>, <em>CHN</em>, and <em>NOR1</em>) encodes an orphan nuclear receptor belonging to the steroid/thyroid receptor gene family, whereas <em>EWSR1</em> and <em>TAF15</em>&nbsp;&ndash; also known as <em>TAF2N</em>, <em>RBP56</em>, and <em>TAF</em>(<em>II</em>)<em>68</em>&nbsp;&ndash; belong to the FET family of multifunctional proteins that bind both RNA and DNA.</p>\r\n<p>The molecular consequences of the <em>NR4A3</em> gene fusions in EMC have only been partially elucidated. The EWSR1::NR4A3 and TAF15::NR4A3 fusion proteins are strong transcriptional activators {18330902; 10359536}. There is evidence suggesting that coexpression of native NR4A3 and its coactivator SIX3 may be an alternative mechanism to gene fusion {15262426}. The orphan receptor NR4A3 is a transcriptional target of p53 and interacts with the antiapoptotic BCL2 protein, presumably promoting apoptosis {30455429}.</p>\r\n<p>Besides the driver fusion event, additional copy-number changes have been described, including trisomy for 1q25-qter, 7, 8, 12, and&nbsp;19 {12378528; 12598313}.</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1135,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1174,
+    "contributions": [
+      {
+        "pkcontributionId": 156163,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1174,
+        "headingText": "\r\n<p>EMCs form large, well-demarcated tumours. Tumour size is variable, and some very large tumours can reach 300&nbsp;mm {10366145}. On cut surface, EMC has a well-defined multinodular architecture comprising glistening, gelatinous areas separated by fibrous septa. Intratumoural haemorrhage, cystic cavities, and geographical areas of necrosis are common. Highly cellular tumours are fleshy.</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1129,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1168,
+    "contributions": [
+      {
+        "pkcontributionId": 156164,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1168,
+        "headingText": "\r\n<p>EMC has a multinodular architecture defined by fibrous septa that divide the tumour into hypocellular lobules with abundant pale-blue myxoid or chondromyxoid matrix. Well-formed hyaline cartilage is virtually never seen. The stroma is strikingly hypovascular. The cells characteristically interconnect with one another to form cords, small clusters, and complex trabecular or cribriform arrays. The cells have a modest amount of deeply eosinophilic to vacuolated cytoplasm and delicate elongated cytoplasmic processes. The tumours have uniform round to oval nuclei, with evenly distributed chromatin, often with a small, inconspicuous nucleolus. Mitotic activity is usually low. Some tumours have prominent rhabdoid cytoplasmic inclusions. Rare cases are hypercellular with decreased myxoid matrix and have higher-grade, often epithelioid cytomorphology, sometimes with a pseudopapillary pattern {36563884}. Non-myxoid, solid EMCs are characterized by sheet-like growth of uniform round to small epithelioid cells, with minimal to absent stroma, closely resembling undifferentiated round cell sarcomas {39828007; 36948401}. Exceptional cases resemble myoepithelial tumours and may express keratin, but cluster with EMC by DNA methylation profiling {32572850; 36754860}.</p>\r\n<p>By immunohistochemistry, S100 is positive in no more than 20% of cases, and KIT (CD117) is positive in as many as 30%. Expression of synaptophysin has been demonstrated in some tumours {10895826; 11679947; 10955458}. INSM1 expression (typically focal) is seen in a substantial proportion of cases {36563884; 29327709; 36948401}. Pan-TRK immunoreactivity is observed in approximately one&nbsp;third of cases and correlates with higher mRNA expression levels {36948401}. Tumours with rhabdoid features often show loss of SMARCB1 (INI1) expression. Notably, tumour cells only very rarely express keratins or GFAP, and muscle markers are negative.</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1130,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1169,
+    "contributions": [
+      {
+        "pkcontributionId": 156165,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1169,
+        "headingText": "\r\n<p>Cytological preparations demonstrate uniform, round to polygonal to epithelioid or spindle cells singly or in anastomosing cords or around vessels in a magenta (Giemsa) myxoid or chondromyxoid stroma {32828707}. The nuclei are oval to spindle with small nucleoli, grooves, and frequent intranuclear pseudo inclusions, and the cytoplasm is vacuolated and unipolar or bipolar.</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1131,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1170,
+    "contributions": [
+      {
+        "pkcontributionId": 156166,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1170,
+        "headingText": "\r\n<p>Identification of <em>NR4A3</em> gene rearrangement is diagnostically helpful.</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1134,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1173,
+    "contributions": [
+      {
+        "pkcontributionId": 156167,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1173,
+        "headingText": "\r\n<p><em>Essential:</em> generally bland cells with eosinophilic cytoplasm disposed in strands or cords in a predominantly myxoid stroma.</p>\r\n<p><em>Desirable:</em> <em>NR4A3</em> rearrangement in selected cases.</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1132,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1171,
+    "contributions": [
+      {
+        "pkcontributionId": 156168,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1171,
+        "headingText": "\r\n<p>The Union for International Cancer Control (UICC) or American Joint Committee on Cancer (AJCC) TNM system may be used.</p>\r\n",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1133,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1172,
+    "contributions": [
+      {
+        "pkcontributionId": 156169,
+        "bookId": 87,
+        "chapterId": 125,
+        "headingId": 1172,
+        "headingText": "\r\n<p>Older age, large tumour size (especially &gt;&nbsp;100&nbsp;mm), metastasis at presentation, and proximal location are adverse prognostic factors {10366145; 10955458; 32572850; 36948401}. Some studies suggest that tumours with increased cellularity and atypia are more aggressive {9781944; 10469211; 10955458}. Others suggest that the presence of rhabdoid cells represents an adverse histological finding {10955458; 11493979}. By immunohistochemistry, a Ki-67 proliferation index of &gt;&nbsp;5% and abnormal p53 staining have been associated with worse outcome {36376703}. EMCs with variant non-<em>EWSR1</em> (typically <em>TAF15</em>) gene fusions tend to show a higher incidence of rhabdoid phenotype, high-grade morphology, and aggressive outcome than the <em>EWSR1</em>::<em>NR4A3</em>&ndash;positive tumours {24746215; 32572850; 36948401}, although not uniformly {37057757}.</p>\r\n<p>Although often associated with prolonged survival, EMC has high rates of distant recurrence and disease-associated death {18951519; 10366145; 1451062; 35962783; 36825763; 32572850}. Radiation may reduce the risk of local recurrence in some, but not all, cases, probably because of confounding by higher rates of radiation for treatment of recurrent disease. Metastases are usually pulmonary; however, extrapulmonary and disseminated metastases also occur {1451062}. Interestingly, prolonged survival even in the face of metastatic disease is not uncommon. Two large retrospective series {18951519; 10366145} report 5-year, 10-year, and 15-year overall survival rates of 82&ndash;90%, 65&ndash;70%, and 58&ndash;60%, respectively.</p>",
+        "timestamp": "2026-08-31T16:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

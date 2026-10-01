@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 137,
+    "bookId": "52",
+    "roleid": 156,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 3134,
+        "lastname": "Odell",
+        "firstname": "Edward W.",
+        "initials": "",
+        "email": "",
+        "roleid": 156,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 138,
+    "bookId": "52",
+    "roleid": 157,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3126,
+        "lastname": "Muller",
+        "firstname": "Susan",
+        "initials": "",
+        "email": "",
+        "roleid": 157,
+        "position": 0
+      },
+      {
+        "contributorid": 3160,
+        "lastname": "Tilakaratne ",
+        "firstname": "Wanninayake M.",
+        "initials": "",
+        "email": "",
+        "roleid": 157,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 139,
+    "bookId": "52",
+    "roleid": 158,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3130,
+        "lastname": "Nelson",
+        "firstname": "Brenda L.",
+        "initials": "",
+        "email": "",
+        "roleid": 158,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 140,
+    "bookId": "52",
+    "roleid": 159,
+    "roleTitle": "Co-Author(s)",
+    "contributors": [
+      {
+        "contributorid": 2362,
+        "lastname": "Flanagan",
+        "firstname": "Adrienne Margaret",
+        "initials": "AM",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 4505,
+        "lastname": "Fitzpatrick",
+        "firstname": "Sarah",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      }
+    ]
+  }
+]

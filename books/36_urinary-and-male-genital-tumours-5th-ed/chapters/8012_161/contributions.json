@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 70579,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 539,
+        "headingText": "<p>Serous tumour of borderline malignancy is a paratesticular or intratesticular non-invasive proliferative serous epithelial neoplasm with mild or moderate cytological atypia.</p>",
+        "timestamp": "2022-04-15T17:41:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 70580,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 540,
+        "headingText": "\r\n<p>8442/1 Serous borderline tumour, NOS</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 70581,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 541,
+        "headingText": "\r\n<p>2F77 &amp; XH3ZK9 Neoplasms of uncertain behaviour of male genital organs &amp; Serous borderline tumour, NOS</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 70582,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 542,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 70583,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 70584,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 544,
+        "headingText": "<p>Paratestis or testis</p>",
+        "timestamp": "2022-04-15T17:41:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 70585,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 545,
+        "headingText": "\r\n<p>The symptoms of these tumours are related to a paratesticular or intratesticular mass.</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 70586,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 546,
+        "headingText": "\r\n<p>These are uncommon tumours that may occur over a wide age range, including in children (range: 14&ndash;68&nbsp;years) {19348511; 26743391}.</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 70587,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 547,
+        "headingText": "\r\n<p>The origin of these tumours has yet to be accurately identified. M&uuml;llerian remnants could be responsible for their occurrence, and the expression of ER and PR may support this hypothesis. Alternatively, they could originate from M&uuml;llerian metaplasia of the peritoneum {28543997}.</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 70588,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 548,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 70589,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 555,
+        "headingText": "\r\n<p>These tumours may manifest as paratesticular masses without involvement of the testis parenchyma {19348511} or as intratesticular lesions. In the testicular lesions, the cut surface of the testis shows a solid mass {25491441} or a well-demarcated cystic lesion with excrescences protruding into the cyst lumen {15842644}.</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 70590,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 549,
+        "headingText": "\r\n<p>Microscopic findings are characterized by irregular papillary formations with irregular hierarchical branching. The papillae are lined by stratified ciliated columnar cells with mild to moderate cytological atypia. The tumour cells show eosinophilic cytoplasm and nuclei with dense chromatin and prominent nucleoli. Mitoses are rare. Psammoma bodies are uncommon. The intratesticular lesions, which are separated from the surrounding parenchyma by a fibrous capsule, are mostly cystic and contain serous fluid {32619438; 26197800; 28543997; 15842644; 25491441; 21934480; 1544675}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>The tumour cells are positive for pancytokeratin, WT1, PAX8, ER, PR, CA125, CEA, CK5/6, and CK7. BRAF cytosolic and membranous staining is observed in the <em>BRAF</em>-mutated tumours {26197800; 25491441; 28543997}. The tumour cells are negative for calretinin, CK20, OCT3/4, and thyroid transcription factor&nbsp;1 (TTF1). The Ki-67 index is low {26197800; 28543997}.</p>\r\n<p>Differential diagnoses include all mesothelial proliferations mimicking serous tumour of borderline malignancy (reactive mesothelial hyperplasia, well-differentiated papillary mesothelial tumour, epithelioid mesothelioma).</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 70591,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 550,
+        "headingText": "\r\n<p>No published data</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 70592,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 551,
+        "headingText": "\r\n<p>About 50% of cases show mutations of the <em>BRAF</em> gene {26197800; 28543997; 25491441}.</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 70593,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 554,
+        "headingText": "<p><em>Essential:</em> epithelial proliferation with hierarchical branching papillae supported by fibrovascular cores and lined by stratified serous epithelium showing mild to moderate atypia.</p>\r\n<p><em>Desirable:</em> positive immunohistochemistry for ER, PR, WT1, and PAX8; negative immunohistochemistry for calretinin.</p>",
+        "timestamp": "2022-04-15T17:42:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 70594,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 552,
+        "headingText": "\r\n<p>There is no American Joint Committee on Cancer (AJCC) staging system for these tumours.</p>\r\n",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 70595,
+        "bookId": 36,
+        "chapterId": 161,
+        "headingId": 553,
+        "headingText": "\r\n<p>No cases with metastasis have been reported. Conservative treatment of paediatric cases has been reported {19348511; 26743391}.</p>",
+        "timestamp": "2022-02-22T15:30:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

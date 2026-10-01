@@ -1,0 +1,22 @@
+[
+  {
+    "pkheadingid": 456,
+    "bookid": 34,
+    "headingType": 1,
+    "headingTitle": " ",
+    "headingPosition": 1,
+    "headingid": 369,
+    "contributions": [
+      {
+        "pkcontributionId": 64205,
+        "bookId": 34,
+        "chapterId": 284,
+        "headingId": 369,
+        "headingText": "<p>Please see <a style=\"cursor:pointer\" href=\"/chaptercontent/34/368\" target=\"_blank\">section </a><em>Condyloma acuminatum</em>&nbsp;of the vulva.</p>",
+        "timestamp": "2020-05-26T14:14:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

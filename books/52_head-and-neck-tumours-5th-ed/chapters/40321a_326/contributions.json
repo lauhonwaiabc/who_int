@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 113754,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 576,
+        "headingText": "<p >Sclerosing microcystic adenocarcinoma (SMA) is an indolent infiltrative salivary gland carcinoma composed of a biphasic population of ductal and myoepithelial cells embedded in a dense collagenous stroma.</p>",
+        "timestamp": "2023-11-22T14:27:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 113755,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 577,
+        "headingText": "\r\n<p>8407/3 Sclerosing microcystic adenocarcinoma</p>\r\n",
+        "timestamp": "2023-09-26T13:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 113756,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 578,
+        "headingText": "\r\n<p>2B66.Z &amp; XH17P2 Malignant neoplasms of other or unspecified parts of mouth, unspecified &amp; Microcystic adnexal carcinoma</p>\r\n",
+        "timestamp": "2023-09-26T13:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 113757,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Acceptable:</em> microcystic adnexal carcinoma of the tongue; sclerosing sweat duct&ndash;like carcinoma; syringomatous adenocarcinoma.</p>\r\n",
+        "timestamp": "2023-09-26T13:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 113758,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T13:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 113759,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 581,
+        "headingText": "\r\n<p>SMA arises from intraoral minor salivary glands in sites including the tongue, lip mucosa, floor of the mouth, and buccal mucosa {27233253; 33526218}. A single case was reported in the nasopharynx {27233253}.</p>\r\n",
+        "timestamp": "2023-09-26T13:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 113760,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients most commonly present with a painless mass or swelling; less common symptoms include dysphagia {8551161}, numbness {29987694}, and diplopia {27233253}.</p>\r\n",
+        "timestamp": "2023-09-26T13:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 113761,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 583,
+        "headingText": "<p>SMA is more common in women than men and occurs from the fifth to the eighth decades of life (mean age: 56&nbsp;years) {2368175; 8551161; 29987694; 33109575}.</p>",
+        "timestamp": "2023-10-18T15:46:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 113762,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-26T13:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 113763,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 585,
+        "headingText": "\r\n<p>Whole-exome sequencing revealed a moderate mutation burden and putative loss-of-function mutations in <em>CDK11B</em>, but an absence of mutations in genes including <em>CDKN2A</em>, <em>CDKN2B</em> {33109575}, <em>TP53</em>, and <em>JAK1</em> {31857679}.</p>\r\n",
+        "timestamp": "2023-09-26T13:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 113764,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 592,
+        "headingText": "\r\n<p>Gross examination of the surgical resection specimen revealed a poorly defined white-tan submucosal mass in a single case report {29987694}.</p>\r\n",
+        "timestamp": "2023-09-26T13:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 113765,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 586,
+        "headingText": "<p>SMA is characterized by deeply infiltrative ducts/tubules, strands/cords, nests, and (rarely) single cells embedded in a densely collagenous stroma. The tumour is composed of a biphasic cell population including luminal-lining bland-appearing ductal cells with round to oval monotonous nuclei, evenly dispersed chromatin, occasional nucleoli, and eosinophilic to clear cytoplasm. Ductal lining cells are peripherally surrounded by flattened myoepithelial cells. Mitotic figures are not conspicuous. Perineural invasion is commonly seen, and apposition to and/or invasion of minor salivary glands can be seen.</p>\r\n<h5>Histochemistry</h5>\r\n<p>Mucicarmine-positive luminal eosinophilic globular secretory material is seen.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Duct lining cells are positive for pancytokeratin and CK7, and the peripheral myoepithelial cell population expresses p40/p63, S100, SMA (smooth muscle actin), and calponin {29398516; 29987694; 33526218}. KIT (CD117) is negative {27233253; 29987694}. Low proliferation indexes are seen with Ki-67 (MIB1) staining.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The biphasic cell population, bland cytology, immunoreactive staining pattern, and lack of keratinization are helpful features in the differentiation from squamous cell carcinoma, polymorphous adenocarcinoma, adenoid cystic carcinoma, mucoepidermoid carcinoma, and hyalinizing clear cell carcinoma.</p>",
+        "timestamp": "2023-10-18T15:46:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 113766,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 587,
+        "headingText": "<p>Not reported</p>",
+        "timestamp": "2023-10-18T15:46:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 113767,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 588,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-26T13:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 113768,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> an infiltrative low-grade adenocarcinoma embedded in a dense sclerotic stroma; a biphasic cell population with an attenuated myoepithelial cell layer.</p>\r\n<p><em>Desirable:</em> perineural invasion.</p>\r\n",
+        "timestamp": "2023-09-26T13:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 113769,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 589,
+        "headingText": "<p>Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2023-10-09T17:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 113770,
+        "bookId": 52,
+        "chapterId": 326,
+        "headingId": 590,
+        "headingText": "\r\n<p>Surgical excision is the treatment of choice. Adjunctive radiotherapy may be used in margin-positive excision {29987694}. SMA has a uniformly good outcome, without locoregional recurrence or distant metastases {29987694; 33526218}.</p>",
+        "timestamp": "2023-09-26T13:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

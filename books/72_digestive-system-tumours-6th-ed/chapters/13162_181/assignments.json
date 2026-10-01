@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 185,
+    "bookId": "72",
+    "roleid": 266,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2038,
+        "lastname": "Montgomery",
+        "firstname": "Elizabeth A.",
+        "initials": "EA",
+        "email": "",
+        "roleid": 266,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 186,
+    "bookId": "72",
+    "roleid": 279,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3648,
+        "lastname": "Reyes-Múgica",
+        "firstname": "Miguel",
+        "initials": "M",
+        "email": "",
+        "roleid": 279,
+        "position": 0
+      },
+      {
+        "contributorid": 2029,
+        "lastname": "Schirmacher",
+        "firstname": "Peter",
+        "initials": "P",
+        "email": "",
+        "roleid": 279,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "pkroleId": 187,
+    "bookId": "72",
+    "roleid": 280,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2065,
+        "lastname": "Saxena",
+        "firstname": "Romil",
+        "initials": "R",
+        "email": "",
+        "roleid": 280,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 188,
+    "bookId": "72",
+    "roleid": 281,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3647,
+        "lastname": "López-Terrada",
+        "firstname": "Dolores H.",
+        "initials": "DH",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 107434,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 466,
+        "headingText": "\r\n<p>Malignant rhabdoid tumour of the kidney (MRTK) is a highly malignant tumour, typically composed of sheets of cells that have eccentric pleomorphic nuclei with prominent nucleoli and characteristic intracytoplasmic inclusions, complemented by loss a of SMARCB1 (INI1) immunostaining and frequent <em>SMARCB1</em> genetic abnormalities.</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 107435,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 467,
+        "headingText": "\r\n<p>8963/3 Malignant rhabdoid tumour of the kidney</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 107436,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 468,
+        "headingText": "\r\n<p>2C90.Y &amp; XH3RF3 Other specified malignant neoplasms of kidney, except renal pelvis &amp; Rhabdoid tumour, NOS</p>\r\n<p>2B5F.2 &amp; XH3RF3 Sarcoma, not elsewhere classified, of other specified sites &amp; Malignant rhabdoid tumour</p>\r\n<p>2A00.1Y &amp; XH3RF3 Other specified embryonal tumours of brain &amp; Malignant rhabdoid tumour</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 107437,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Acceptable:</em> rhabdoid tumour (of soft tissues); rhabdoid tumour predisposition syndrome.</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 107438,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 107439,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 471,
+        "headingText": "\r\n<p>Kidney parenchyma</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 107440,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 472,
+        "headingText": "\r\n<p>There are no specific clinical features, but patients generally present with haematuria and/or an abdominal mass.</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 107441,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 473,
+        "headingText": "\r\n<p>MRTKs account for approximately 2% of paediatric renal tumours, which makes them extremely rare tumours. They occur in infants and young children, with a mean/median patient age of 1&nbsp;year and with 80% of patients diagnosed before the age of 2&nbsp;years. Although congenital cases have been described, it is rare to find MRTK in children aged &gt;&nbsp;3&nbsp;years {2543225}. In as many as 15% of cases there is a synchronous or metachronous occurrence of atypical teratoid/rhabdoid tumours in the brain.</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 107442,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 474,
+        "headingText": "\r\n<p>Biallelic inactivation of <em>SMARCB1</em> (also known as <em>BAF47</em>, <em>SNF5</em>, or <em>INI1</em>), located on chromosome 22q11.23, is the almost universal hallmark of renal and extrarenal rhabdoid tumours, including atypical teratoid/rhabdoid tumour of the brain. Inactivation may occur through mutation, segmental chromosomal deletion, or whole-chromosome loss (loss of heterozygosity). <em>SMARCB1</em> mutations may occur in the germ line in as many as one&nbsp;third of patients; if so, they are affected by the familial rhabdoid tumour predisposition syndrome type&nbsp;1. A small proportion (&le;&nbsp;5%) of patients with MRTK have biallelic inactivation of <em>SMARCA4</em>, another component of the SWI/SNF complex, instead of <em>SMARCB1</em> inactivation {29280680}.</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 107443,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 475,
+        "headingText": "\r\n<p>Because MRTK and other rhabdoid tumours are genetically silent tumours, almost exclusively characterized by <em>SMARCB1</em> inactivation, it is thought that deregulation of the SWI/SNF chromatin-remodelling complex leads to carcinogenesis by its epigenetic effect on the promoter and enhancer regions of other genes.</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 107444,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 482,
+        "headingText": "\r\n<p>These are large, highly infiltrative tumours with a haemorrhagic and necrotic appearance.</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 107445,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 476,
+        "headingText": "\r\n<p>MRTK is composed of disorganized sheets of poorly cohesive large cells that grow in a diffuse infiltrative pattern with abundant necrosis. The tumour cells have large vesicular nuclei with one or two prominent eosinophilic nucleoli, and moderate amounts of pink cytoplasm. Rounded pink cytoplasmic inclusions, ultrastructurally composed of balls of intermediate filaments, give the tumour its descriptive &ldquo;rhabdoid&rdquo; name. MRTK, like other rhabdoid tumours, may have different architectural growth patterns, including solid, sclerosing, epithelioid, spindled, cystic, vascular, or myxoid. Tumour cells with classic rhabdoid inclusions may be only focally present. Apart from the typical morphology, MRTKs are characterized by a loss of nuclear SMARCB1 (INI1) staining, which is otherwise universally present in all cells (staining of normal cells is an internal positive control) {17717433}. It should be noted that a limited spectrum of other tumours may also show a loss of SMARCB1 (INI1) staining, including renal medullary carcinoma. For MRTK with <em>SMARCA4</em> inactivation, SMARCA4 (BRG1) immunohistochemistry may be used; these tumours show a loss of nuclear staining in tumour cells and normal expression in all other cells {29280680}.</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 107446,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 107447,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 478,
+        "headingText": "\r\n<p>Mutation analysis by next-generation sequencing techniques will show <em>SMARCB1</em> or <em>SMARCA4</em> mutations. This should be complemented by other techniques aiming to demonstrate the loss of the other allele (e.g. SNP arrays). Patients with mutations should be referred to clinical genetics for germline analysis and counselling.</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 107448,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> typical morphology with absence of SMARCB1 (INI1) immunostaining.</p>\r\n<p><em>Desirable:</em> <em>SMARCB1</em> mutation and/or loss of 22q11.</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 107449,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 479,
+        "headingText": "\r\n<p>No separate staging system exists for renal MRTK, but the staging systems from the International Society of Paediatric Oncology (SIOP) 2016 UMBRELLA protocol or from the Children&rsquo;s Oncology Group (COG) may be used. Most patients present with advanced-stage tumours; only 6&ndash;21% present with stage&nbsp;I disease {16234525; 21370404}.</p>\r\n",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 107450,
+        "bookId": 44,
+        "chapterId": 258,
+        "headingId": 480,
+        "headingText": "\r\n<p>MRTKs have a uniformly dismal prognosis, with reported 5-year overall survival rates ranging from &lt;&nbsp;15% to 25%. Younger age and presence of metastases at diagnosis are adverse prognostic factors for survival {16234525; 21370404}.</p>",
+        "timestamp": "2023-03-09T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

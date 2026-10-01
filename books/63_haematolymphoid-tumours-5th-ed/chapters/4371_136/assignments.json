@@ -1,0 +1,36 @@
+[
+  {
+    "pkroleId": 141,
+    "bookId": "63",
+    "roleid": 185,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4404,
+        "lastname": "Sewell",
+        "firstname": "William Arthur",
+        "initials": "",
+        "email": "",
+        "roleid": 185,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 143,
+    "bookId": "63",
+    "roleid": 187,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2590,
+        "lastname": "Coupland",
+        "firstname": "Sarah E.",
+        "initials": "",
+        "email": "",
+        "roleid": 187,
+        "position": 0
+      }
+    ]
+  }
+]

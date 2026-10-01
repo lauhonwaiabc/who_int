@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 67754,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 432,
+        "headingText": "\r\n<p>Inflammatory myofibroblastic tumour (IMT) is a distinctive, rarely metastasizing neoplasm composed of myofibroblastic and fibroblastic spindle cells, usually accompanied by a stromal inflammatory infiltrate of plasma cells and lymphocytes.</p>\r\n",
+        "timestamp": "2020-12-03T16:13:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 67755,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 433,
+        "headingText": "\r\n<p>8825/1 Inflammatory myofibroblastic tumour</p>\r\n",
+        "timestamp": "2020-12-03T16:13:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 67756,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 434,
+        "headingText": "\r\n<p>2B53.Y &amp; XH66Z0 Other specified fibroblastic or myofibroblastic tumour, primary site &amp; Myofibroblastic tumour, NOS</p>\r\n",
+        "timestamp": "2020-12-03T16:13:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 67757,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Not recommended:</em> plasma cell granuloma; inflammatory pseudotumour; inflammatory myofibrohistiocytic proliferation; inflammatory fibrosarcoma; pulmonary nodular lymphoid hyperplasia; invasive fibrous tumour of the tracheobronchial tree.</p>\r\n",
+        "timestamp": "2020-12-03T16:13:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 67758,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 436,
+        "headingText": "<p>Epithelioid inflammatory myofibroblastic&nbsp;tumour</p>",
+        "timestamp": "2021-02-23T18:12:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 67759,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 437,
+        "headingText": "\r\n<p>IMT shows a wide anatomical distribution and can arise in the lung, tracheobronchial tree, pleura, chest wall, and mediastinum.</p>\r\n",
+        "timestamp": "2020-12-03T16:13:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 67760,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 438,
+        "headingText": "\r\n<p>Most patients are asymptomatic, but as many as 25% present with a systemic inflammatory response, which may include fever, weight loss, anaemia, thrombocytosis, elevated erythrocyte sedimentation rate, hypergammaglobulinaemia, and elevated C-reactive protein {10320231; 15602716; 17414097; 2311072}. Primary tracheobronchial IMTs are rare and are seen more commonly in children and young adults. This form may occur as well-defined endoluminal masses with an exophytic component {20732473; 11283894; 14990929}.</p>\r\n",
+        "timestamp": "2020-12-03T16:13:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 67761,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 439,
+        "headingText": "<p>The lung is the site most frequently affected by IMT, which accounts for as many as 1% of all lung tumours {14747105}. In children, IMTs represent 50% of all benign or intermediate pulmonary neoplasms {10974727; 27153788}. The M:F&nbsp;ratio is about 1:1 {6098549}.</p>",
+        "timestamp": "2021-01-11T10:42:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 67762,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 440,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-12-03T16:13:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 67763,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 441,
+        "headingText": "\r\n<p>In about two&nbsp;thirds of cases of IMT in children and young adults, the tumours have clonal rearrangements in chromosome band 2p23 and the 3&prime;&nbsp;kinase region of the <em>ALK</em> gene with various partner genes, including <em>TPM3</em>, <em>TPM4</em>, <em>CLTC</em>, <em>CARS1</em> (<em>CARS</em>), <em>ATIC</em>, <em>SEC31A</em> (<em>SEC31L1</em>), <em>PPFIBP1</em>, <em>DCTN1</em>, <em>EML4</em>, <em>PRKAR1A</em>, <em>LMNA</em>, <em>TFG</em>, <em>FN1</em>, <em>HNRNPA1</em>, <em>RANBP2</em>, and others {27259007; 29268561; 31112350; 21430068}. <em>ALK</em> rearrangement is uncommon in IMTs diagnosed in older adults. <em>ROS1</em> or <em>NTRK3</em> gene rearrangements are each found in about 5% of IMTs {24875859; 25723109; 26647767; 27259007; 30550870}, with <em>RET</em> gene rearrangements being less frequent. See also the <em>Soft tissue and bone tumours</em> volume of this series [[WHO Classification of Tumours Editorial Board. Soft tissue and bone tumours. Lyon (France): International Agency for Research on Cancer; 2020. (WHO classification of tumours series, 5th ed.; vol. 3). https://publications.iarc.fr/588.]].</p>\r\n",
+        "timestamp": "2020-12-03T16:13:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 67764,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 448,
+        "headingText": "<p>IMTs are lobulated and circumscribed fleshy masses, varying in size from &lt; 10 mm&nbsp;up to 150 mm. Most tumours are solitary. About one&nbsp;fifth may show extraparenchymal involvement including mediastinal or airway invasion. These invasive lesions are more commonly localized to the lower lung lobes and may show associated atelectasis and/or pleural effusions {27153788}.</p>",
+        "timestamp": "2021-02-02T10:26:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 67765,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 442,
+        "headingText": "<p>The neoplastic cells of IMT are plump and spindle-shaped with indistinct cell borders, growing in a fascicular pattern {17414097}. Nuclear atypia is generally absent or only minimal. The morphology can be variable, with myxoid, hypercellular or hypocellular fibrous patterns. The spindle cell component may be obscured by a mixed chronic inflammatory infiltrate (typically rich in plasma cells) and a variable number of lymphocytes, eosinophils, and/or neutrophils {17414097; 27087029}. Necrosis is uncommon and mitotic activity is generally low. Secondary changes such as collagen deposition, myxoid change, and oedema may occur. Dystrophic calcifications are seen more frequently in children {22358018; 10974727}.</p>\r\n<p>Spindle cells are positive for SMA, with variable staining for calponin, MSA, and desmin, in keeping with a myofibroblastic immunophenotype. Focal low-molecular-weight keratin immunoreactivity can be seen in as many as 30% of cases. Immunoreactivity for ALK is detectable in 50&ndash;60% of cases and is more common in young patients. ALK expression correlates well with the presence of <em>ALK</em> gene rearrangement {12218210; 17414097}. The staining pattern may vary depending on the fusion partner: <em>RANBP2</em>-<em>ALK</em> is associated with nuclear membranous staining, <em>RRBP1</em>-<em>ALK</em> with a cytoplasmic pattern with paranuclear accentuation, and <em>CLTC</em>-<em>ALK</em> with a granular cytoplasmic pattern {27874193}. Highly sensitive ALK antibody clones (5A4, D5F3) may improve detection of the ALK protein in IMT {21430068; 26647767}. <em>ROS1</em>-rearranged IMT typically shows a cytoplasmic expression of ROS1.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The differential diagnosis of IMT is broad. Several non-neoplastic processes should be considered, including organizing pneumonia, mycobacterial spindle cell tumour, pulmonary hyalinizing granuloma, and IgG4-related disease {30451733; 24100523}. Neoplastic processes to be considered, particularly in ALK-negative cases, include sclerosing pneumocytoma, lymphoma, spindle cell carcinoma, and sarcomas.</p>",
+        "timestamp": "2021-01-11T10:43:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 67766,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 443,
+        "headingText": "\r\n<p>FNA samples usually show spindled fibroblastic to epithelioid myofibroblasts, with a delicate vascular network and admixed plasma cells and lymphocytes. Nuclei are round to oval, with slight hyperchromasia, and nucleoli are inconspicuous {29673102; 15452903; 27087029; 2588924}.</p>\r\n",
+        "timestamp": "2020-12-03T16:13:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 67767,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 444,
+        "headingText": "\r\n<p>In addition to the detection of ALK by immunohistochemistry, molecular assays for <em>ALK</em> can be used to confirm the diagnosis; if such testing is negative, immunohistochemistry for ROS1 or tests for non-<em>ALK</em> gene fusions may be useful {27259007}.</p>\r\n",
+        "timestamp": "2020-12-03T16:13:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 67768,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Loose or compact fascicles of myofibroblastic cells with a prominent inflammatory infiltrate and a variable fibrous or myxoid stroma</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Myofibroblastic differentiation by immunohistochemistry</li>\r\n<li>Expression of ALK (seen in as many as 60% of cases)</li>\r\n<li><em>ALK</em> or other gene rearrangements (in selected cases)</li>\r\n</ul>",
+        "timestamp": "2021-02-23T18:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 67769,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 445,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-12-03T16:13:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 67770,
+        "bookId": 35,
+        "chapterId": 185,
+        "headingId": 446,
+        "headingText": "\r\n<p>Most cases of IMT can be cured by complete surgical excision, but approximately 20% recur or show locally aggressive behaviour {10320231}. Distant metastases are rare {17414097; 27153788; 31112350}.</p>",
+        "timestamp": "2020-12-03T16:13:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

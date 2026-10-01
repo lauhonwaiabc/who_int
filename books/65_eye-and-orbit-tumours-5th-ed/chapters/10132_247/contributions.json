@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 139254,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 733,
+        "headingText": "\r\n<p>Rhabdomyosarcoma is a group of malignant mesenchymal tumours with skeletal muscle differentiation, which consists of four types: embryonal rhabdomyosarcoma (ERMS), alveolar rhabdomyosarcoma (ARMS), spindle cell&nbsp;/ sclerosing rhabdomyosarcoma, and pleomorphic rhabdomyosarcoma. Ectomesenchymoma consists of rhabdomyosarcoma intermixed with ganglionic/neuroblastic components.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 139255,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 734,
+        "headingText": "\r\n<p>8910/3 Embryonal rhabdomyosarcoma</p>\r\n<p>8920/3 Alveolar rhabdomyosarcoma</p>\r\n<p>8912/3 Spindle cell rhabdomyosarcoma</p>\r\n<p>8901/3 Pleomorphic rhabdomyosarcoma</p>\r\n<p>8921/3 Ectomesenchymoma</p>\r\n",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 139256,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 735,
+        "headingText": "\r\n<p>2B55.Y &amp; XH83G1 Rhabdomyosarcoma, other specified primary site &amp; Embryonal rhabdomyosarcoma, NOS</p>\r\n<p>2B55.Y &amp; XH7099 Rhabdomyosarcoma, other specified primary site &amp; Alveolar rhabdomyosarcoma</p>\r\n<p>2B55.Y &amp; XH7NM2 Rhabdomyosarcoma, other specified primary site &amp; Spindle cell rhabdomyosarcoma</p>\r\n<p>2B55.Y &amp; XH5SX9 Rhabdomyosarcoma, other specified primary site &amp; Pleomorphic rhabdomyosarcoma, NOS</p>\r\n<p>2B55.Y &amp; XH0S12 Rhabdomyosarcoma, other specified primary site &amp; Ectomesenchymoma</p>\r\n",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 139257,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 736,
+        "headingText": "\r\n<p><em>Not recommended</em>: sarcoma botryoides.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 139258,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 737,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 139259,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 738,
+        "headingText": "\r\n<p>Ocular rhabdomyosarcoma can develop within the orbit, conjunctiva, eyelid, or uveal tract (iris, ciliary body). The most common location is the orbit, with a predilection for the superior nasal quadrant {12559326;15377992}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 139260,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 739,
+        "headingText": "\r\n<p>Proptosis of rapid onset, eyelid swelling, and blepharoptosis are the main presenting features of orbital rhabdomyosarcoma {11733272}. A rapidly growing conjunctival mass is the characteristic presentation of conjunctival rhabdomyosarcoma {12559326}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 139261,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 740,
+        "headingText": "\r\n<p>Orbital rhabdomyosarcoma makes up approximately 10% of all rhabdomyosarcoma cases {11733272}. ERMS and ARMS are the predominant types, and ERMS accounts for the vast majority. Patients with ERMS are typically children &lt; 10&nbsp;years in age, whereas those with ARMS are most often adolescents and young adults {9142207;12559326;15377992}. Pleomorphic and spindle cell&nbsp;/ sclerosing rhabdomyosarcoma of primary eye/periocular origin are exceedingly rare [[Montgomery EA, Dry SM. Pleomorphic Rhabdomyosarcoma. In: WHO Classification of Tumours Editorial Board. Soft Tissue and Bone Tumours. Lyon (France): International Agency for Research on Cancer; 2020. pp. 209–10. (WHO Classification of Tumours Series, 5th ed.; vol. 3). https://publications.iarc.who.int/588.]] (see the fifth-edition <em>Soft tissue and bone tumours</em> volume [[WHO Classification of Tumours Editorial Board. Soft Tissue and Bone Tumours. Lyon (France): International Agency for Research on Cancer; 2020. (WHO Classification of Tumours Series, 5th ed.; vol. 3). https://publications.iarc.who.int/588.]]). Primary ocular/periocular ectomesenchymoma is also uncommon, with only a few case reports in the literature; most patients are infants or children {12218574;32769567}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 139262,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 741,
+        "headingText": "\r\n<p>Most cases of rhabdomyosarcoma are sporadic, but certain genetic conditions can increase the risk, particularly for ERMS, such as Li&ndash;Fraumeni syndrome (germline <em>TP53</em> mutation) or RASopathies (e.g. neurofibromatosis&ndash;Noonan syndrome) {17420382;11984810;12679651}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 139263,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 742,
+        "headingText": "\r\n<p>ERMS commonly harbours whole-chromosome gains (of&nbsp;2, 8, 11, 12, 13, and/or&nbsp;20) and losses (of&nbsp;10 and&nbsp;15), and loss of heterozygosity at 11p15.5. Mutations in the RAS pathway (<em>NRAS</em>,<em> KRAS</em>,<em> HRAS</em>,<em> NF1</em>,<em> FGFR4</em>), the PI3K pathway (<em>PTEN</em>,<em> PIK3CA</em>), or the cell-cycle regulatory genes (<em>FBXW7</em>, <em>CTNNB1</em>) are frequent in ERMS {24436047;26349418;30617281;34755412}.</p>\r\n<p>In ARMS, t(2;13) or t(1;13) rearrangement produces <em>PAX3</em>::<em>FOXO1</em> or <em>PAX7</em>::<em>FOXO1</em> fusion genes, encoding transcription factors that activate the <em>PAX3 </em>and/or<em> PAX7</em> target genes {8098985;8187070;8275086;30617281}.</p>\r\n<p>Ectomesenchymoma shares molecular similarities with ERMS and frequently carries <em>HRAS</em> mutations {26872011}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 139264,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 749,
+        "headingText": "\r\n<p>Most lesions present as poorly circumscribed, soft, fleshy, gelatinous masses with a pale-tan cut surface. Botryoid ERMS has a grape-like polypoid appearance.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 139265,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 743,
+        "headingText": "\r\n<p>ERMS consists of atypical primitive round and spindle-shaped tumour cells set in a variably myxoid background. Large differentiated rhabdomyoblasts with bright eosinophilic cytoplasm can be observed. Mitotic figures are often numerous, and necrosis can be seen. Botryoid ERMS grows as a submucosal polypoid mass with a cambium layer (cellular aggregates beneath the surface). Anaplastic ERMS is recognized by pronounced nuclear pleomorphism and/or enlarged atypical mitoses {18985676}.</p>\r\n<p>ARMS is composed of monomorphic small round to ovoid cells with scant cytoplasm organized into an alveolar architectural pattern or arranged in solid sheets and nests.</p>\r\n<p>Ectomesenchymoma has features of ERMS intermixed with ganglioneuroblastomatous elements.</p>\r\n<h6>Immunohistochemistry</h6>\r\n<p>All types of rhabdomyosarcomas express desmin, myogenin, and MYOD1 {16861966}. Myogenin expression tends to be more diffuse in ARMS than in ERMS.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 139266,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 744,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-03-31T15:07:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 139267,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 745,
+        "headingText": "\r\n<p>Demonstration of <em>PAX</em>::<em>FOXO1</em> fusion is particularly useful for classification of rhabdomyosarcoma with a round cell phenotype.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 139268,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 748,
+        "headingText": "\r\n<h6>Embryonal rhabdomyosarcoma</h6>\r\n<p><em>Essential:</em> mitotically active, primitive spindle to round cells; alternating cellular and myxoid areas; heterogeneous myogenin expression.</p>\r\n<p><em>Desirable (in select cases): </em>absence of <em>PAX3</em>, <em>PAX7</em>, or <em>FOXO1</em> rearrangement in tumours morphologically reminiscent of ARMS.</p>\r\n<h6>Alveolar rhabdomyosarcoma</h6>\r\n<p><em>Essential:</em> malignant small blue round cell neoplasm; homogeneous myogenin expression; <em>PAX3</em>, <em>PAX7</em>, or <em>FOXO1</em> rearrangement.</p>\r\n<h6>Ectomesenchymoma</h6>\r\n<p><em>Essential:</em> composite ERMS with neuroblastic elements; immunolabelling for desmin or myogenin and synaptophysin.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 139269,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 746,
+        "headingText": "\r\n<p>Staging for paediatric rhabdomyosarcoma is based on the Intergroup Rhabdomyosarcoma Study Group (IRSG) system. The orbit is a favourable site, and tumours confined to the orbit are considered stage&nbsp;I {22378628;30617281}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 139270,
+        "bookId": 65,
+        "chapterId": 247,
+        "headingId": 747,
+        "headingText": "\r\n<p>Patients with ocular ERMS have excellent outcomes {9142207;27473389;11733272}. The prognosis is worse for patients with anaplastic ERMS and <em>FOXO1 </em>fusion&ndash;positive ARMS {8470759;30617281;26756883;31146616;32800827}.</p>",
+        "timestamp": "2026-03-31T15:07:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

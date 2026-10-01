@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 166,
+    "bookId": "51",
+    "roleid": 189,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2269,
+        "lastname": "Schmitt",
+        "firstname": "Fernando",
+        "initials": "",
+        "email": "",
+        "roleid": 189,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 167,
+    "bookId": "51",
+    "roleid": 190,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 190,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 168,
+    "bookId": "51",
+    "roleid": 191,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 4404,
+        "lastname": "Sewell",
+        "firstname": "William Arthur",
+        "initials": "",
+        "email": "",
+        "roleid": 191,
+        "position": 0
+      }
+    ]
+  }
+]

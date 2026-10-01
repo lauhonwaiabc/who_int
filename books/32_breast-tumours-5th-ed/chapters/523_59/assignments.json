@@ -1,0 +1,62 @@
+[
+  {
+    "pkroleId": 65,
+    "bookId": "32",
+    "roleid": 15,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2108,
+        "lastname": "Sasano",
+        "firstname": "Hironobu",
+        "initials": "",
+        "email": "",
+        "roleid": 15,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 67,
+    "bookId": "32",
+    "roleid": 17,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2291,
+        "lastname": "Albarracin",
+        "firstname": "Constance T.",
+        "initials": "",
+        "email": "",
+        "roleid": 17,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 68,
+    "bookId": "32",
+    "roleid": 18,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2237,
+        "lastname": "Lester",
+        "firstname": "Susan C.",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2293,
+        "lastname": "Baldewijns",
+        "firstname": "Marcella",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      }
+    ]
+  }
+]

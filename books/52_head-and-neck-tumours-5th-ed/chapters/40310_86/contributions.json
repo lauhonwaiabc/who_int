@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 113703,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 576,
+        "headingText": "<p >Myoepithelial carcinoma (MECA) is an invasive malignant salivary gland neoplasm that is almost exclusively composed of myoepithelial cells.</p>",
+        "timestamp": "2023-10-18T15:41:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 113704,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 577,
+        "headingText": "\r\n<p>8982/3 Myoepithelial carcinoma</p>\r\n",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 113705,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 578,
+        "headingText": "\r\n<p>2B67.Y &amp; XH43E6 Other specified malignant neoplasms of parotid gland &amp; Myoepithelial carcinoma</p>\r\n<p>2B65.Y &amp; XH43E6 Other specified malignant neoplasms of palate &amp; Myoepithelial carcinoma</p>\r\n<p>2B68.2 &amp; XH43E6 Other specified malignant neoplasms of submandibular or sublingual glands &amp; Myoepithelial carcinoma</p>\r\n",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 113706,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> malignant myoepithelioma.</p>\r\n",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 113707,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 113708,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 581,
+        "headingText": "\r\n<p>Most tumours occur in the parotid gland, followed by the palate and the submandibular gland {25970687; 33027073}.</p>\r\n",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 113709,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients often present with a painless mass, sometimes with recent rapid growth {25970687; 28739497}.</p>\r\n<h5>Imaging</h5>\r\n<p>Cross-sectional imaging shows an irregular, lobulated, poorly defined, heterogeneously enhancing salivary gland mass, with avid FDG uptake on PET-CT. Lesions are often T1- and T2-hypointense on MRI, and some demonstrate punctate calcification on CT. Imaging is used to assess the primary tumour and the presence of lymph node and distant metastases (including to the lungs, skin, liver, bone and brain) {28153562; 32804766}.</p>\r\n",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 113710,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 583,
+        "headingText": "\r\n<p>MECA is underrecognized. It may present at any age and has no sex predilection {25970687; 28739497}.</p>\r\n",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 113711,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 113712,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 585,
+        "headingText": "\r\n<p><em>PLAG1</em> fusions are identified in &gt;&nbsp;50% of cases of both de&nbsp;novo MECA and MECA ex pleomorphic adenoma (PA), with different fusion partner genes, including <em>FGFR1</em>, <em>TGFBR3</em>, and others {29084941; 33027073}. <em>HMGA2</em> and <em>EWSR1</em> fusions are detected in small subsets of tumours {29084941; 33526224}. <em>EWSR1</em> rearrangement without fusion may be present in clear cell MECA {25581728; 33027073}.</p>\r\n",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 113713,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 592,
+        "headingText": "\r\n<p>The tumour is typically unencapsulated and has a grey to tan-white cut surface. Haemorrhage, necrosis, and cystic change may occur.</p>\r\n",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 113714,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 586,
+        "headingText": "<p>MECA may arise de&nbsp;novo or within a pre-existing PA and is the second most common histological subtype of carcinoma ex PA {20338616; 25970687}. It exhibits diverse morphologies with different cell types (spindle, epithelioid, plasmacytoid, vacuolated, oncocytic, and clear) and architectures (solid, trabecular, and reticular) {8732339; 9762928; 24446021}. The stroma can be myxoid, myxochondroid, or hyalinized. The uniform cellular myoepithelial proliferation with the multinodular pattern and the transition from peripheral hypercellular zones to central hypocellular areas are characteristic and help to differentiate MECA from PA {30789358}. Focal duct-like or squamous differentiation may occur {25581728}. The presence of PA and tumour necrosis correlates with a worse outcome {25970687}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>MECA expresses cytokeratins, SOX10, S100, and myoepithelial markers such as SMA, calponin, and p63/p40 {9762928; 20338616; 25970687; 30789358}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>MECA is often cytologically bland and may therefore be underrecognized as malignant and misclassified as a myoepithelial-rich PA {30789358}.</p>",
+        "timestamp": "2023-10-18T15:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 113715,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 587,
+        "headingText": "\r\n<p>In cytological specimens, MECA shows a mixture of spindle, plasmacytoid, and epithelioid cells. MECA cannot be distinguished from cellular PA on cytology {11836700; 30789358}.</p>\r\n",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 113716,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 588,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 113717,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em> a salivary gland malignancy showing nearly exclusively myoepithelial differentiation; invasive growth.</p>\r\n<p><em>Desirable:</em> a zonal pattern with a hypercellular periphery and a hypocellular centre.</p>",
+        "timestamp": "2023-10-18T15:42:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 113718,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 589,
+        "headingText": "<p>Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2023-10-09T17:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 113719,
+        "bookId": 52,
+        "chapterId": 86,
+        "headingId": 590,
+        "headingText": "\r\n<p>MECA has a varied clinical behaviour but is relatively aggressive, even when it is intracapsular or minimally invasive MECA ex PA {20338616; 25970687; 30789358}. The risks of local recurrence and distant metastasis are 35% and 22%, respectively {30789358}. MECA seems to have a propensity to distant rather than lymph node metastasis {25636455; 25896567; 25970687; 30789358}.</p>",
+        "timestamp": "2023-09-26T13:54:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

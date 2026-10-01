@@ -1,0 +1,133 @@
+[
+  {
+    "pkroleId": 141,
+    "bookId": "63",
+    "roleid": 185,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2127,
+        "lastname": "Ott",
+        "firstname": "German",
+        "initials": "G",
+        "email": "",
+        "roleid": 185,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 142,
+    "bookId": "63",
+    "roleid": 186,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 186,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 143,
+    "bookId": "63",
+    "roleid": 187,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 4023,
+        "lastname": "Oschlies",
+        "firstname": "Ilske",
+        "initials": "",
+        "email": "",
+        "roleid": 187,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 144,
+    "bookId": "63",
+    "roleid": 188,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2574,
+        "lastname": "Battistella",
+        "firstname": "Maxime",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 2632,
+        "lastname": "Jansen",
+        "firstname": "Patty M.",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 2639,
+        "lastname": "Kempf",
+        "firstname": "Werner",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 2722,
+        "lastname": "Vergier",
+        "firstname": "Beatrice",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 2723,
+        "lastname": "Vermeer",
+        "firstname": "Maarten H.",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 2730,
+        "lastname": "Willemze",
+        "firstname": "Rein",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4903,
+        "lastname": "Parrens",
+        "firstname": "Marie",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4977,
+        "lastname": "Chapuy",
+        "firstname": "Björn",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      }
+    ]
+  }
+]

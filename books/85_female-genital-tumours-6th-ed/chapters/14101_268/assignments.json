@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 190,
+    "bookId": "85",
+    "roleid": 265,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4139,
+        "lastname": "Khoury",
+        "firstname": "Joseph D.",
+        "initials": "JD",
+        "email": "",
+        "roleid": 265,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 192,
+    "bookId": "85",
+    "roleid": 291,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3810,
+        "lastname": "de Jong",
+        "firstname": "Daphne",
+        "initials": "D",
+        "email": "",
+        "roleid": 291,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 193,
+    "bookId": "85",
+    "roleid": 292,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2188,
+        "lastname": "Ferry",
+        "firstname": "Judith A.",
+        "initials": "JA",
+        "email": "",
+        "roleid": 292,
+        "position": 0
+      }
+    ]
+  }
+]

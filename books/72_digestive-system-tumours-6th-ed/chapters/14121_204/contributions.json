@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 150358,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 951,
+        "headingText": "\r\n<p>Gastric neuroendocrine neoplasms (NENs) are epithelial neoplasms with neuroendocrine differentiation that arise in the stomach.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 150359,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 952,
+        "headingText": "\r\n<p>82400/3 Neuroendocrine tumour, NOS</p>\r\n<p>82401/3 Neuroendocrine tumour, grade&nbsp;1</p>\r\n<p>82490/3 Neuroendocrine tumour, grade&nbsp;2</p>\r\n<p>82491/3 Neuroendocrine tumour, grade&nbsp;3</p>\r\n<p>82460/3 Neuroendocrine carcinoma, NOS</p>\r\n<p>81540/3 Mixed neuroendocrine&ndash;non-neuroendocrine neoplasm</p>\r\n",
+        "timestamp": "2026-06-09T11:31:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 150360,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 953,
+        "headingText": "\r\n<p>2B72.1 &amp; XH9LV8 Neuroendocrine tumour, grade&nbsp;1, of stomach</p>\r\n<p>2B72.1 &amp; XH51K1 Neuroendocrine tumour, grade&nbsp;2, of stomach</p>\r\n<p>2B72.1 &amp; XH5QW8 Neuroendocrine tumour, grade&nbsp;3, of stomach</p>\r\n<p>2B72.1 &amp; XH0U20 Neuroendocrine carcinoma, NOS, of stomach</p>\r\n<p>2B72.1 &amp; XH8E54 Mixed neuroendocrine&ndash;non-neuroendocrine neoplasm (MiNEN) of stomach</p>\r\n",
+        "timestamp": "2026-06-09T11:31:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 150361,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 954,
+        "headingText": "\r\n<p><em>Acceptable:</em> well-differentiated endocrine tumour/neoplasm; poorly differentiated endocrine carcinoma; mixed exocrine&ndash;endocrine carcinoma.</p>\r\n<p><em>Not recommended:</em> carcinoid; composite carcinoid-adenocarcinoma.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 150362,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 955,
+        "headingText": "<p>Gastrin-producing G-cell neuroendocrine tumour (81530/3); somatostatin-producing D-cell neuroendocrine tumour (81560/3); serotonin-producing enterochromaffin-cell neuroendocrine tumour (82410/3); histamine-producing enterochromaffin-like-cell neuroendocrine tumour (82420/3); large cell neuroendocrine carcinoma (80130/3); small cell neuroendocrine carcinoma (80410/3); mixed large cell neuroendocrine carcinoma&ndash;adenocarcinoma (80132/3); mixed large cell neuroendocrine carcinoma&ndash;squamous cell carcinoma (80133/3); mixed small cell neuroendocrine carcinoma&ndash;adenocarcinoma (80451/3); mixed small cell neuroendocrine carcinoma&ndash;squamous cell carcinoma (80453/3); amphicrine-like carcinoma (85743/3); amphicrine-like adenocarcinoma (85744/3); amphicrine-like squamous cell carcinoma (85745/3); see <a style=\"cursor:pointer\" href=\"/attachment/72/204/49330\" target=\"_blank\">#49330</a>Box&nbsp;14.02</p>",
+        "timestamp": "2026-06-19T12:03:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 150363,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 956,
+        "headingText": "\r\n<p>Neuroendocrine tumours (NETs) occur in the stomach with a site-specific distribution according to tumour subtype. Enterochromaffin-like&ndash;cell (ECL-cell) NETs arise in the corpus/fundus, D-cell and G-cell NETs in the antrum, and enterochromaffin-cell (EC-cell) NETs in both the antrum and the corpus/fundus {25053544}. Neuroendocrine carcinomas (NECs) and MiNENs can arise in any part of the stomach but usually occur in the antral or cardiac regions {25053544}.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 150364,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 957,
+        "headingText": "\r\n<p>Most gastric NETs do not cause specific symptoms or local tumour effects and are discovered during evaluation for underlying gastric conditions. Rarely, they are associated with secretory syndromes such as Zollinger&ndash;Ellison syndrome.</p>\r\n<p><em>Histamine-producing ECL-cell NET:</em> ECL-cell NETs may or may not be associated with hypergastrinaemia. Tumours associated with hypergastrinaemia are subdivided into different subtypes on the basis of their clinicopathological background. Type&nbsp;1 ECL-cell NETs are associated with hypergastrinaemia due to chronic atrophic gastritis (often autoimmune, with antibodies against parietal cells and/or intrinsic factor), achlorhydria, and (less frequently) macrocytic anaemia (pernicious anaemia). Type&nbsp;2 ECL-cell NETs are associated with hypergastrinaemia due to duodenal or (rarely) pancreatic gastrinoma in patients with multiple endocrine neoplasia type&nbsp;1 and hypertrophic hypersecretory gastropathy. <em>ATP4A</em> mutation&ndash;associated ECL-cell NETs are associated with hypergastrinaemia due to an inactivating mutation of <em>ATP4A</em> (encoding the &alpha;-subunit of the gastric proton pump), achlorhydria, and parietal cell hyperplasia/hypertrophy (type&nbsp;4 ECL-cell NETs) {34944008;38635098}. Proton-pump inhibitor (PPI)&ndash;related ECL-cell NETs are associated with hypergastrinaemia due to long-term PPI use and parietal cell hyperplasia (type&nbsp;5 ECL-cell NETs) {32702178;34283890;37022112}. Type&nbsp;3 NETs are not associated with hypergastrinaemia and arise in the oxyntic/junctional mucosa, with variable degrees of gastritis. They may be associated with nonspecific symptoms due to tumour growth or metastatic dissemination, including melaena, pain, and weight loss. Patients with extensive liver metastases may present with atypical carcinoid syndrome, characterized by cutaneous flushing, facial oedema, lacrimation, headache, and bronchoconstriction {12946486}. See <a style=\"cursor:pointer\" href=\"/attachment/72/204/49331\" target=\"_blank\">#49331</a>Table&nbsp;14.02 for a summary of key clinicopathological features of gastric histamine-producing ECL-cell NETs.</p>\r\n<p><em>Somatostatin-producing D-cell NET:</em> D-cell NETs are usually non-functioning, but when they are functioning, the term &ldquo;somatostatinoma&rdquo; applies and they may be associated with diabetes mellitus-like symptoms, steatorrhea, cholelithiasis, chronic diarrhoea, and gastrointestinal bleeding {24143326}.</p>\r\n<p><em>Gastrin-producing G-cell NET:</em> These tumours are usually non-functioning, but a minority of cases may cause Zollinger&ndash;Ellison syndrome; the term &ldquo;gastrinoma&rdquo; is used in functioning cases only.</p>\r\n<p><em>Serotonin-producing EC-cell NET:</em> EC-cell NETs are usually non-functioning but may be associated with the classic carcinoid syndrome symptoms of diarrhoea, flushing, tricuspid regurgitation, and asthma.</p>\r\n<p><em>NEC and MiNEN:</em> Patients with these neoplasms present with nonspecific symptoms including dyspepsia and weight loss due to tumour growth and/or distant metastases. Ulcerated neoplasms may be associated with gastric bleeding, anaemia, and pain; large pyloric lesions may cause obstruction.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 150365,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 958,
+        "headingText": "\r\n<p>The incidence of gastric NENs has increased about 15-fold in recent years, likely due to widespread use of endoscopy {28448665}. Increased use of PPIs may be an additional factor contributing to the rise in gastric NETs {31963924}. The estimated age-adjusted incidence rate in the USA was about 0.5&nbsp;cases per 100&nbsp;000&nbsp;person-years {34554237}, with a female predominance and a mean patient age at diagnosis of 64&nbsp;years {18565894;21349409;18853416}. Similar epidemiological characteristics are reported for European cases {25053544}. Although a female predominance is reported for gastric NETs overall, the specific age and sex distributions vary across the tumour subtypes. Of the ECL-cell NETs, type&nbsp;1 is the most common; it accounts for about 80&ndash;90% of all ECL-cell NETs and shows a female predilection {39604221}. Type&nbsp;2 accounts for about 1% of ECL-cell NETs {39604221} and shows no sex predilection. Type&nbsp;3 accounts for about 5&ndash;10% of all gastric NENs, and patients are more frequently male {39604221}. Type&nbsp;5 is slightly more common than type&nbsp;3 and shows a male predilection in the USA {32702178;34283890;37022112}. Type&nbsp;4 ECL-cell NETs are very rare, and patients are more commonly female {34944008;38635098}. Antral NETs are rare, accounting for about 5% of gastric NENs in one series {21531442}. Gastric NECs are about 15&ndash;20% of all gastric NENs, show a male predilection, and account for about 20% of all digestive NECs {21531442;26943788;39604221}. Gastric MiNENs, although rare overall, account for about 20% of all digestive MiNENs {29592868}.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 150366,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 959,
+        "headingText": "\r\n<p>Type&nbsp;1 ECL-cell NETs are typically associated with autoimmune chronic atrophic gastritis (autoantibodies against parietal cells and intrinsic factor), but <em>Helicobacter pylori</em> infection has also been implicated in some cases. Type&nbsp;2 ECL-cell NETs occur in patients with multiple endocrine neoplasia type&nbsp;1 with gastrinoma and consequent hypergastrinaemia. Type&nbsp;4 ECL-cell NETs are hereditary due to an inactivating mutation in <em>APT4A</em> {34944008;38635098}. Type&nbsp;5 ECL-cell NETs are associated with long-term PPI use {32702178;34283890;37022112}. There are no known etiological factors for type&nbsp;3 NETs {7681798}. No specific etiological factors have been identified for NECs or MiNENs, except for the presence of Merkel cell polyomavirus reported in a rare case of primary gastric Merkel cell carcinoma {24709111}.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 150367,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 960,
+        "headingText": "\r\n<p><em>Histamine-producing ECL-cell NET:</em> The pathogenesis of type&nbsp;1, type&nbsp;2, <em>ATP4A</em> mutation&ndash;associated (type&nbsp;4), and PPI-related (type&nbsp;5) ECL-cell NETs directly relates to unregulated gastrin stimulus {28608155;34944008;38635098}. <em>ATP4A</em> mutations lead to an impaired parietal cell function, causing achlorhydria and subsequently hypergastrinaemia. The gastrin stimulus likely contributes to PPI-related type&nbsp;5 ECL-cell NETs. However, hypergastrinaemia alone may not be sufficient for the development of ECL-cell NETs. Potential cooperating factors include TGF-&alpha; and bFGF {24782101}. Overall, recurrently mutated genes are rare in gastric NETs {37403531}. <em>MEN1</em> gene abnormality is required for the development of type&nbsp;2 ECL-cell NET, and loss of heterozygosity for markers at the chromosomal locus of the <em>MEN1</em> gene is the rule. Loss of heterozygosity for <em>MEN1</em> gene locus markers has also been identified in 17&ndash;73% of type&nbsp;1 ECL-cell NETs {24782101}. The pathogenesis of type&nbsp;3 NET is unknown. Loss of heterozygosity and/or mutations of <em>MEN1</em> have also been demonstrated in about 30&ndash;40% of sporadic type&nbsp;3 NETs. NETs with <em>CDKN1B</em> mutation and reduced p27 (p27Kip1) protein levels have been described in the setting of multiple endocrine neoplasia type&nbsp;4 {22129891;23800691}.</p>\r\n<p><em>NEC and MiNEN:</em> The pathogenesis of gastric NECs and MiNENs with NEC components involves complex genetic factors. Gastric NECs/MiNENs contain considerably higher numbers of somatic mutations compared with all microsatellite-stable gastric adenocarcinomas, and genomic instability plays an essential role in their tumorigenesis {37352862;37285266}. Gastric NECs/MiNENs show frequent <em>TP53</em> mutations (70.7%), high frequency of cyclin/CDK and CDKN2A/RB1 pathway alterations with <em>RB1</em> mutations seen in about 40% cases, highly recurrent <em>MYC</em> gains, and common aberrations of genes involved in growth factor signalling and WNT signalling {37352862}. <em>MYC</em> gains are especially common in gastric NECs (93%), whereas WNT pathway mutations are more common in gastric MiNENs. The most common mutations identified in gastric MiNENs are <em>TP53</em>, <em>RB1</em>, <em>APC</em>, and <em>CTNNB1</em>. Gastric MiNENs are of monoclonal origin; about 62% of somatic mutations are shared by both adenocarcinoma and NEC components, and about 19% of mutations are selective for each component {37285266}. Gastric MiNENs show significant mutations in <em>TP53</em> and in cell-cycle and PI3K signalling pathway genes during the initial tumour stage, and subsequent activation of WNT pathways during phenotypic differentiation. The NEC component has been shown to contain more aggressive genomic properties than its adenocarcinoma counterpart {37285266}. In addition, distinctive phenotypic and microenvironmental characteristics are observed between NEC and adenocarcinoma components in a digital spatial profiling study {39029904}.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 150368,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 967,
+        "headingText": "\r\n<p>Type&nbsp;1 ECL-cell NETs are multiple in about 60% of cases and present as small (&lt;&nbsp;10&nbsp;mm) polyps or nodules of the oxyntic mucosa {8661813}. Type&nbsp;2 ECL-cell NETs arise in the oxyntic mucosa and present as multiple lesions typically &lt;&nbsp;20&nbsp;mm in size; the gastric mucosa may be thickened because of severe hypertrophic hypersecretory gastropathy. Type&nbsp;3 NETs are usually single and large (17&nbsp;mm) {37190131}. Type&nbsp;4 ECL-cell NETs can present as numerous (&gt;&nbsp;100) small polypoid/nodular lesions in the gastric fundus/body {34944008;38635098}. Type&nbsp;5 ECL-cell NETs also mostly present as small polyps or nodules of the oxyntic mucosa and are multifocal in about 30% of cases {32702178;34283890;37022112}. Gastrin-producing G-cell NETs are typically small, mucosal/submucosal proliferations located in the antral region, most frequently in proximity to the pylorus. Gastric NECs may form large fungating masses that deeply infiltrate the gastric wall. MiNENs are similar in appearance to conventional gastric adenocarcinomas, often occurring as polypoid or ulcerating stenotic large masses, with a mean size of about 50&nbsp;mm {24213223}.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 150369,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 961,
+        "headingText": "\r\n<p>Gastric NETs display the well-differentiated neuroendocrine morphology of epithelial lineage [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International Agency for Research on Cancer; 2025. (WHO classification of tumours series, 5th ed.; vol. 10). https://publications.iarc.who.int/645. Bookref]].</p>\r\n<h5>Histamine-producing ECL-cell NET</h5>\r\n<p>ECL-cell NETs arising in hypergastrinaemic conditions develop through the hyperplasia-dysplasia-neoplasia sequence. The types of hyperplasia are termed simple, linear, micronodular, and adenomatoid {25053544}. Dysplasia is characterized by moderately atypical cells with features of enlarging or fusing micronodules, microinvasion, or newly formed stroma. When the nodules increase in size to &gt;&nbsp;0.5&nbsp;mm or invade the submucosa, the lesion is classified as a microtumour (&lt;&nbsp;5&nbsp;mm) or plain ECL-cell NET (&ge;&nbsp;5&nbsp;mm).</p>\r\n<p>ECL-cell NETs usually show small microlobular and/or trabecular architecture without necrosis. They are typically composed of well-differentiated cells with abundant eosinophilic cytoplasm and monomorphic round nuclei that lack prominent nucleoli. Mitotic figures are scarce. Unconventional morphologies have been described in a subset of ECL-cell NETs, including cribriform networks of atrophic-appearing tumour cells embedded within myxoid matrix, sheets of deceptively bland discohesive cells resembling inflammatory infiltrates, and wreath-like arrangement of columnar cells wrapped around collagenous cores {36913909}.</p>\r\n<p>Type&nbsp;1 ECL-cell NETs usually infiltrate beyond the muscularis mucosae; rare cases &gt;&nbsp;10&nbsp;mm in size with muscularis propria invasion may produce metastases {31558880}. Most cases are G1 or G2, with similar degrees of gastric wall invasion and metastatic spread, as well as similar outcome. Very rare G3 type&nbsp;1 ECL-cell NETs have been described, in one series accounting for 1.6% of all type&nbsp;1 ECL-cell NETs {29895024}. The background mucosa is atrophic, with intestinal and pseudopyloric metaplasia and complex ECL-cell hyperplastic and dysplastic changes {23642738;17996794}. In the corresponding antral mucosa, gastrin-producing G-cell hyperplasia is usually observed as the morphological counterpart of hypergastrinaemia {23642738}. Most type&nbsp;1 ECL-cell NETs are of low-stage {31272081;29895024}.</p>\r\n<p>Type&nbsp;2 ECL-cell NETs are mainly confined to the mucosa/submucosa {31272081;35900481}, but lymph node and distant metastases are present in about 20% and 10% of patients, respectively {7681798;10029611;28664309;30686481;27306997;38605021}. The background mucosa is hyperplastic and displays various types of hyperplastic and dysplastic ECL-cell proliferations {25053544}.</p>\r\n<p>Type&nbsp;3 NETs range from G1 to G3, but G3 tumours are not as common as previously reported {37190131}. They often deeply invade the gastric wall and develop lymph node and distant metastases {31272081;29895024}.</p>\r\n<p>Type&nbsp;4 <em>ATP4A</em> mutation&ndash;associated ECL-cell NETs are mostly stage&nbsp;I or&nbsp;II. Regional lymph node metastases have been reported {15958864}. The background mucosa displays vacuolated parietal cells, parietal cell hyperplasia/hypertrophy, oxyntic gland cystic dilation filled with inspissated material, and ECL-cell hyperplasia/dysplasia {34944008;38635098}. Like type&nbsp;1 ECL-cell NETs, the corresponding antral mucosa shows gastrin-producing G-cell hyperplasia {15958864}.</p>\r\n<p>Type&nbsp;5 PPI-related ECL-cell NETs are typically G1 or G2 and confined to the mucosa/submucosa. Lymph node and distant metastases are rare. The background mucosa shows parietal cell hyperplasia and ECL-cell hyperplasia {32702178;34283890;37022112}. In addition, antral neuroendocrine cell hyperplasia is seen in some cases.</p>\r\n<h5>Somatostatin-producing D-cell NET</h5>\r\n<p>Somatostatin-producing D-cell NETs are composed of well-differentiated monomorphic cells that are positive for somatostatin.</p>\r\n<h5>Gastrin-producing G-cell NET and gastrinoma</h5>\r\n<p>Gastrin-producing G-cell NETs typically show a thin trabecular and gyriform pattern, although some cases grow in more-solid nests. The tumour cells are uniform, with scant cytoplasm {21531442}.</p>\r\n<h5>Serotonin-producing EC-cell NET</h5>\r\n<p>Gastric EC-cell NET morphology is similar to that of ileal EC-cell NETs, including rounded nests of cells with peripheral palisading. The tumour cells are uniform, with intense eosinophilic cytoplasm.</p>\r\n<h5>NEC</h5>\r\n<p>Gastric NECs display the poorly differentiated neuroendocrine morphology of epithelial lineage, either small or large cell type [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International Agency for Research on Cancer; 2025. (WHO classification of tumours series, 5th ed.; vol. 10). https://publications.iarc.who.int/645. Bookref]]. NECs are composed of large, poorly formed trabeculae or sheets of poorly differentiated cells. They are subtyped as small cell NEC (SCNEC) and large cell NEC (LCNEC), which resemble their more common lung counterparts. LCNECs are composed of large cells with vesicular nuclei showing prominent nucleoli and abundant eosinophilic cytoplasm. SCNECs are composed of neoplastic cells with scant cytoplasm and hyperchromatic nuclei without nucleoli. NECs typically have a mitotic count of &gt;&nbsp;20&nbsp;mitoses/2&nbsp;mm<sup>2</sup>, and the Ki-67 proliferation index is frequently &gt;&nbsp;60&ndash;70%, especially in SCNECs.</p>\r\n<h5>MiNEN</h5>\r\n<p>Gastric MiNEN displays the classic morphological features of neuroendocrine and non-neuroendocrine neoplasia [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International Agency for Research on Cancer; 2025. (WHO classification of tumours series, 5th ed.; vol. 10). https://publications.iarc.who.int/645. Bookref]]. Usually, MiNENs are composed of adenocarcinoma associated with NEC or, more rarely, NET. The presence of a solid or organoid structure with extensive necrosis, together with a very high mitotic count, may suggest the diagnosis of mixed adenocarcinoma&ndash;NEC (formerly defined as mixed adenoneuroendocrine carcinoma [MANEC]), which is confirmed by positive expression of neuroendocrine markers. The neuroendocrine component of MiNEN often has a Ki-67 proliferation index &gt;&nbsp;55% {29592868}. Mixed adenocarcinoma&ndash;NETs (both primary tumours and metastases) are composed of areas of tubular, papillary, or mucinous adenocarcinoma and areas of NET that can be G1, G2, or G3. Gastric mixed adenocarcinoma&ndash;NETs with or without an association with autoimmune chronic atrophic gastritis have been described {27169712;24213223;38922356}.</p>\r\n<h5>Mixed adenoma&ndash;NET</h5>\r\n<p>Gastric mixed adenoma&ndash;NETs are rare tumours composed of tubular or tubulovillous adenoma associated with well-differentiated NET. The neuroendocrine component is generally located in the deep central portion of the polyp, whereas the adenomatous component occupies most of the periphery {27169712;30001239}. These unusual tumours are not considered MiNENs at present.</p>\r\n<h5>Amphicrine-like carcinoma</h5>\r\n<p>Gastric amphicrine-like carcinoma may occur as amphicrine-like adenocarcinoma also with pancreatic acinar cell features {2413979;37249796;16224221}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>A typical gastric NEN expresses at least two of the general neuroendocrine markers (synaptophysin, chromogranin&nbsp;A, and INSM1) {35294740}. CD56 (NCAM) shows low specificity for neuroendocrine differentiation, and its use is discouraged. In addition, all ECL-cell NETs are positive for VMAT2, HDC, and SSTR2. They can also show scattered cells positive for serotonin, ghrelin, somatostatin, and &alpha;-hCG {7681798;11600584}. An ECL-cell phenotype cannot be demonstrated in type&nbsp;3 NETs; in addition to cases composed of ECL cells, this category also includes cases composed of uncharacterized NET cells lacking a cell-type-specific phenotype. Some features, including the expression of SSTR2 and HDC, may be reduced or even lost in G3&nbsp;NETs {34475969}. Gastric EC-cell NETs are positive for serotonin, SSTR2, and CDX2 {38922356}. Gastrin-producing G-cell NETs are positive for gastrin and SSTR2. Somatostatin-producing D-cell NETs are positive for somatostatin and SSTR2. Chromogranin&nbsp;A may be absent or only focally expressed (with a typical perinuclear dot-like pattern) in gastric NECs. NEC, particularly SCNEC, may also be positive for TTF1 and ASH1L (ASH1) {23759931;36381336;30236546}.</p>\r\n<h5>Grading</h5>\r\n<p>Gastric NENs are graded using the same system used for other gastroenteropancreatic NENs (see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/199\" target=\"_blank\">section </a><em>Neuroendocrine neoplasms of the digestive system: Introduction and classification</em>).</p>\r\n",
+        "timestamp": "2026-06-09T11:31:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 150370,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 962,
+        "headingText": "\r\n<p>Cytology is usually not clinically relevant. FNA is rarely performed on small gastric NETs because of their small size (and in many cases multiplicity); however, it could be useful for the diagnosis of submucosal nodules, as demonstrated in one study of patients with Zollinger&ndash;Ellison syndrome, in which NETs were successfully diagnosed in 11&nbsp;of 12&nbsp;cases {8093826}. Like for other anatomical sites, there is a uniform cell population with round nuclei and stippled chromatin. The cytology of gastric NECs is the same as that of other high-grade NECs.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 150371,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 963,
+        "headingText": "\r\n<p><em>TP53</em> and <em>RB1</em> mutations can help distinguish NECs from G3&nbsp;NETs, in which these genes are more frequently wildtype. In addition, next-generation sequencing may be useful for the diagnosis of high-grade gastric NENs if available.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 150372,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 966,
+        "headingText": "\r\n<h5>NET</h5>\r\n<p><em>Essential:</em> well-differentiated neuroendocrine morphology of epithelial lineage; neuroendocrine marker expression; Ki-67 proliferation index and/or mitotic count.</p>\r\n<p><em>Desirable:</em> SSTR2 expression; positive immunohistochemistry for selected hormone products (e.g. gastrin, serotonin) and VMAT2 for subtyping.</p>\r\n<h5>NEC</h5>\r\n<p><em>Essential:</em> small cell carcinoma or large cell carcinoma pattern; sheets or trabeculae of poorly differentiated cells; neuroendocrine marker expression; high mitotic count and/or Ki-67 proliferation index.</p>\r\n<p><em>Desirable:</em> reduced/absent SSTR2 expression; loss of RB1 expression or abnormal p53 expression.</p>\r\n<h5>MiNEN</h5>\r\n<p><em>Essential:</em> a mixed tumour composed of two morphologically recognizable components; either type &ge;&nbsp;30% of the neoplasm; neuroendocrine marker expression in the neuroendocrine component.</p>\r\n<p><em>Desirable:</em> assessment of Ki-67 proliferation index to grade the NET component or to prognostically stratify the NEC component; grading of the non-neuroendocrine component.</p>\r\n<h5>Amphicrine-like carcinoma</h5>\r\n<p><em>Essential:</em> a mixed tumour with no morphologically distinct zones of neuroendocrine and non-neuroendocrine differentiation; &ge;&nbsp;30% of the neoplasm; neuroendocrine marker expression in the neuroendocrine component.</p>\r\n<p><em>Desirable:</em> assessment of Ki-67 proliferation index.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 150373,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 964,
+        "headingText": "\r\n<p>The staging of gastric NETs is in line with the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer systems for this site. For NEC, MiNEN, and amphicrine-like carcinoma, the staging follows the criteria of gastric carcinoma.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 150374,
+        "bookId": 72,
+        "chapterId": 204,
+        "headingId": 965,
+        "headingText": "\r\n<p>The prognosis for gastric NENs largely depends on the tumour subtype {31558880;32702178;38605021;30686481;27306997;37190131}, presence of hypergastrinaemia, grade, and stage; higher grade and stage are associated with increased morbidity. The prognosis for type&nbsp;1 ECL-cell NETs is excellent, and that of type&nbsp;3 NETs is substantially worse. Type&nbsp;2 ECL-cell NETs have intermediate prognostic features, largely depending on the concurrent MEN1&ndash;associated neoplasms. In type&nbsp;1 ECL-cell NETs, staging parameters (e.g. size and wall invasion) seem to be more prognostically significant than grade {29895024;31558880}. In type&nbsp;3 NETs, both grade and stage are relevant {29895024;37190131}. Type&nbsp;5 ECL-cell NETs behave in an indolent fashion, with an excellent prognosis {32702178;34283890;37022112}. Antral NETs are usually indolent, with an excellent prognosis {7681798;10029611;21531442;25053544}. Gastric NEC and MiNEN with NEC component have a poor prognosis, with survival time usually measured in months. In MiNEN, the NEC component and its Ki-67 proliferation index (&lt;&nbsp;55% or &gt;&nbsp;55%) drives the outcome, like in NEC {7681798;10029611;21531442;29592868;29895024}.</p>",
+        "timestamp": "2026-06-09T11:31:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

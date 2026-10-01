@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 113686,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 576,
+        "headingText": "<p>Salivary duct carcinoma (SDC) is an aggressive carcinoma resembling mammary ductal carcinoma, most typically with an apocrine phenotype.</p>",
+        "timestamp": "2023-11-22T14:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 113687,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 577,
+        "headingText": "\r\n<p>8500/3 Salivary duct carcinoma</p>\r\n<p>8033/3 Sarcomatoid salivary duct carcinoma</p>\r\n<p>8481/3 Mucin-rich salivary duct carcinoma</p>\r\n<p>8265/3 Micropapillary salivary duct carcinoma</p>\r\n<p>8500/3 Basal-like salivary duct carcinoma</p>\r\n<p>8290/3 Oncocytic salivary duct carcinoma</p>\r\n",
+        "timestamp": "2023-09-26T13:34:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 113688,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 578,
+        "headingText": "<p>XH7KH3 &amp; XA5CM1 Infiltrating duct carcinoma, NOS &amp; Salivary duct</p>",
+        "timestamp": "2023-11-22T14:27:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 113689,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 579,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T13:34:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 113690,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 580,
+        "headingText": "\r\n<p>Sarcomatoid SDC; mucin-rich SDC; micropapillary SDC; basal-like SDC; oncocytic SDC</p>\r\n",
+        "timestamp": "2023-09-26T13:34:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 113691,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 581,
+        "headingText": "\r\n<p>Most tumours involve major salivary glands {12524620; 15900577; 23606370}.</p>\r\n",
+        "timestamp": "2023-09-26T13:34:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 113692,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 582,
+        "headingText": "\r\n<p>SDC presents as a rapidly growing tumour, with facial nerve palsy, pain, and cervical lymphadenopathy. If arising from pleomorphic adenoma, a rapid increase in size of a longstanding pre-existing mass is common.</p>\r\n<h5>Imaging</h5>\r\n<p>On cross-sectional imaging, SDC most commonly presents as a poorly defined, infiltrative salivary gland mass with frequent calcification and necrosis. Foci of marked hypointensity on T2-weighted MRI may be a useful radiological feature to suggest the diagnosis {22307272}.</p>\r\n",
+        "timestamp": "2023-09-26T13:34:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 113693,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 583,
+        "headingText": "\r\n<p>SDC has a distinct male predilection and a peak incidence in the fifth to seventh decades of life {25871467; 31764219}.</p>\r\n",
+        "timestamp": "2023-09-26T13:34:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 113694,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 584,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T13:34:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 113695,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 585,
+        "headingText": "<p><em>AR</em> copy-number gain and splice variants have been reported {25316813}. The most frequent genetic alterations are mutations in <em>TP53</em> (55%), <em>HRAS</em> (23%), and <em>PIK3CA</em> (23%); amplification of <em>ERBB2</em> (35%) {27103403}; <em>PTEN</em> deletion; and <em>BRAF</em> pathogenic variants {25723113; 29416736; 32421944}. <em>PLAG1</em> or <em>HMGA2</em> rearrangements, markers of pre-existing pleomorphic adenoma, are identified in about half of all SDCs {23738717; 25439740; 27379604}. A small subset of SDCs harbour <em>ALK</em> {30946933; 33871952} and <em>ETV6</em>::<em>NTRK3</em> fusions {32124419}.</p>",
+        "timestamp": "2023-10-18T15:40:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 113696,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 592,
+        "headingText": "\r\n<p>SDCs are infiltrative, firm, tan-white masses, frequently involving adjacent structures, and they may contain well-defined nodules of pre-existing pleomorphic adenoma.</p>\r\n",
+        "timestamp": "2023-09-26T13:34:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 113697,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 586,
+        "headingText": "<p>SDCs display complex solid, cribriform, and papillary-cystic architecture with frequent comedonecrosis {4301301}. The cells have large pleomorphic nuclei with coarse chromatin and prominent nucleoli, and abundant eosinophilic, typically apocrine, cytoplasm {25723113; 25871467}. Lymphovascular and perineural invasion are common {31764219}. A hyalinized nodule of a pre-existing pleomorphic adenoma may be present. Rarely, SDC may be purely in&nbsp;situ {18983607}.</p>\r\n<h5>Subtypes</h5>\r\n<p>The sarcomatoid subtype of SDC contains areas of highly atypical spindle cells, occasionally with foci of heterologous differentiation (e.g. osteoid production) {10685635; 15806515}. In mucin-rich SDC there are significant pools of extracellular mucin {12883239; 22431183}. Micropapillary SDC includes small tumour nests, without fibrovascular cores, with prominent retraction from adjacent stroma, and an inside-out pattern of EMA immunostaining {23821208}. Basal-like SDC is characterized by a less abundant and more amphophilic, rather than apocrine, cytoplasm {22882517; 23821208}. Oncocytic SDC is defined by abundant granular eosinophilic cytoplasm {23821208}. SDC with rhabdoid-like features contains usually dyscohesive ovoid cells with eccentric nuclei; immunohistochemically, the rhabdoid cells are positive for cytokeratin and negative for myoepithelial markers {33538422}. The current definition of SDC subtypes does not include a universally agreed-on minimal threshold for variant morphology. All subtypes are commonly accompanied by areas of conventional SDC.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>AR is expressed in about 90% of SDCs, indicative of an apocrine immunophenotype {9831198; 22882517; 24553861; 25871467; 28938615; 29492965}. Diffuse and strong immunoreactivity for ERBB2 is identified in about one&nbsp;third of SDCs {28938615; 29492965; 32421944; 33526216}. CK7 is consistently positive, whereas S100 and SOX10 are negative. Staining for p63 may help to identify the intraductal component by highlighting basal/myoepithelial cells surrounding neoplastic cells.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The differential diagnosis includes other salivary carcinomas with high-grade transformation {23821210; 25871467; 33825717}.</p>",
+        "timestamp": "2023-10-18T15:40:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 113698,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 587,
+        "headingText": "<p >Markedly cellular smears show irregular crowded tissue fragments (which may show a cribriform architecture), with large polygonal cells showing well-defined cytoplasm, pleomorphic nuclei, prominent nucleoli, and plentiful mitoses, in a necrotic background, resembling poorly differentiated carcinoma, no special type, of breast {9812225; 18528886; 32421944}.</p>",
+        "timestamp": "2023-10-18T15:41:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 113699,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 588,
+        "headingText": "\r\n<p>Because systemic therapies targeting AR, <em>ERRB2</em> amplification, the PI3K pathway (including <em>PIK3CA</em> mutations and <em>PTEN</em> loss), and <em>BRAF</em> p.V600E are being investigated, molecular analysis may be warranted {31437521; 32717621; 33526216}.</p>\r\n",
+        "timestamp": "2023-09-26T13:34:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 113700,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> a high-grade carcinoma, most typically with apocrine features.</p>\r\n<p><em>Desirable:</em> AR expression.</p>\r\n",
+        "timestamp": "2023-09-26T13:34:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 113701,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 589,
+        "headingText": "<p>Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2023-10-09T17:03:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 113702,
+        "bookId": 52,
+        "chapterId": 85,
+        "headingId": 590,
+        "headingText": "<p >SDC is the most aggressive salivary gland malignancy, with most patients presenting with regional lymph node or distant metastases {23606370; 25871467; 29492965} and disease progression within 3&ndash;5&nbsp;years {15900577; 23606370; 25916947; 31764219}.</p>",
+        "timestamp": "2023-10-18T15:41:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

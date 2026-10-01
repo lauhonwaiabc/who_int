@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123157,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 607,
+        "headingText": "\r\n<p>Non-functioning (non-syndromic) pancreatic neuroendocrine tumours (NF-PanNETs) are well-differentiated epithelial pancreatic neuroendocrine neoplasms (PanNENs) that measure &ge;&nbsp;5&nbsp;mm, without a distinct hormonal syndrome. A microtumour is an NF-PanNET measuring &lt;&nbsp;5&nbsp;mm. &ldquo;Microadenomatosis&rdquo; is the former term for what is now classified as the multifocal occurrence of pancreatic neuroendocrine microtumours.</p>\r\n",
+        "timestamp": "2024-10-09T14:05:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123158,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 608,
+        "headingText": "\r\n<p>8150/3 Neuroendocrine tumour, non-functioning, pancreatic</p>\r\n<p>8150/3 Oncocytic non-functioning (non-syndromic) pancreatic neuroendocrine tumour</p>\r\n<p>8150/3 Clear cell non-functioning (non-syndromic) pancreatic neuroendocrine tumour</p>\r\n<p>8150/3 Pleomorphic non-functioning (non-syndromic) pancreatic neuroendocrine tumour</p>\r\n<p>8150/3 Cystic non-functioning (non-syndromic) pancreatic neuroendocrine tumour</p>\r\n<p>8150/1 Pancreatic neuroendocrine microtumour</p>\r\n",
+        "timestamp": "2024-10-09T14:05:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123159,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 609,
+        "headingText": "\r\n<p>2C10.1 &amp; XH3709 Neuroendocrine neoplasms of pancreas &amp; Pancreatic endocrine tumour, non-functioning</p>\r\n",
+        "timestamp": "2024-10-09T14:05:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123160,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> non-functioning pancreatic endocrine tumour.</p>\r\n<p><em>Not recommended:</em> low-grade endocrine carcinoma of the pancreas; islet cell tumour; microadenoma.</p>\r\n",
+        "timestamp": "2024-10-09T14:05:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123161,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 611,
+        "headingText": "\r\n<p>Oncocytic non-functioning (non-syndromic) PanNET; clear cell non-functioning (non-syndromic) PanNET; pleomorphic non-functioning (non-syndromic) PanNET; cystic non-functioning (non-syndromic) PanNET</p>\r\n",
+        "timestamp": "2024-10-09T14:05:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123162,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 612,
+        "headingText": "\r\n<p>NF-PanNETs have no specific site predilection {24238123; 31299638}.</p>\r\n",
+        "timestamp": "2024-10-09T14:05:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123163,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 613,
+        "headingText": "<p>Sporadic NF-PanNETs can be diagnosed at any age between 10&nbsp;and 80&nbsp;years {2153046; 12037756; 18065733; 20305616; 22503317; 22525418; 30300897}. Increasing numbers of NF-PanNETs are being diagnosed incidentally, and the optimal management of small (&lt;&nbsp;20&nbsp;mm), asymptomatic, incidentally detected tumours is controversial and the subject of ongoing follow-up studies (e.g. ASPEN [[ClinicalTrials.gov [Internet]. Bethesda (MD): U.S. National Library of Medicine; 2022. Identifier NCT03084770, Asymptomatic small pancreatic endocrine neoplasms (ASPEN); first posted 2017 Mar 21 [updated 2022 Mar 7]. Available from: https://clinicaltrials.gov/ct2/show/NCT03084770.]]) {30282083; 33425946; 33724300}. The remaining NF-PanNETs present with symptoms due to local or metastatic tumour spread {20664472}. As many as half of patients present with metastatic disease {18565894; 22525418; 30300897}.</p>\r\n<p>Metastases occur both to regional lymph nodes and to the liver. Other metastatic sites are mainly found in lung and bone {2153046; 20664472; 26742109}.</p>\r\n<h6><em>Biochemical investigations</em></h6>\r\n<p>Specific NF-PanNET blood markers are not available at present, but general neuroendocrine neoplasm (NEN) serological markers (chromogranin&nbsp;A, pancreastatin, or vasostatin-1) can be used, and levels have been correlated with tumour size and aggressiveness {30282083; 31555796}.</p>\r\n<h6><em>Imaging</em></h6>\r\n<p>NF-PanNETs and their metastatic spread can be diagnosed using EUS and CT-guided FNA, CT, MRI, and SSTR imaging (111In-pentetreotide [Octreoscan] and 68Ga-DOTATOC/DOTANOC PET) {16967267; 20664472; 26742109; 33588146}.</p>",
+        "timestamp": "2024-10-09T14:06:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123164,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 614,
+        "headingText": "<p>The prevalence of clinically diagnosed PanNETs is increasing over time and currently amounts to 0.4&nbsp;cases per 1&nbsp;million person-years {24322304}. However, this reflects a historical underestimation of the prevalence of this disorder, because autopsy studies show that the prevalence of PanNETs is between 3% and 10% {2070707; 21349409; 28448665}. Two to three decades ago, NF-PanNETs were reported to constitute only one&nbsp;third of all PanNETs {2424108; 2898775}, but in a recently published large international cohort study, NF-PanNETs represented two&nbsp;thirds of cases {18065733; 20305616; 22525418; 30300897}. In multiple endocrine neoplasia type&nbsp;1, 30&ndash;75% of patients are diagnosed with a PanNET, but at autopsy there is nearly 100% pancreatic involvement {24938521; 28811081; 32971521; 33249439}. In these patients, a high percentage of separate tumours are NF-PanNETs {12210027; 16699310; 28938468}, but the majority have at least one functioning PanNET, or a functioning gastrinoma {2420439; 8898842; 32971521; 33249439}. In von Hippel&ndash;Lindau syndrome (VHL), PanNETs are observed in 11&ndash;17% of patients {11040195; 18063061; 22659535; 29748190}; functioning lesions have not been reported {18063061; 19238077; 29748190}.</p>",
+        "timestamp": "2024-12-02T15:26:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123165,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 615,
+        "headingText": "\r\n<p>Familial NF-PanNETs are found in several hereditary syndromes such as multiple endocrine neoplasia type&nbsp;1, VHL, tuberous sclerosis, and neurofibromatosis type&nbsp;1, and rarely in other syndromes (see <a style=\"cursor:pointer\" href=\"/chaptercontent/53/73\" target=\"_blank\">section </a><em>Pancreatic neuroendocrine neoplasms: Introduction</em>).</p>\r\n",
+        "timestamp": "2024-10-09T14:05:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123166,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 616,
+        "headingText": "\r\n<p>The pathogenesis of NF-PanNETs is largely unknown, and precursors in both the ducts and the islets have been suggested. During disease progression, accumulation of additional genomic alterations accompanies the grade progression that may occur.</p>\r\n<p>The genetic features of NF-PanNETs are similar to those described for PanNETs in general (see <a style=\"cursor:pointer\" href=\"/chaptercontent/53/73\" target=\"_blank\">section </a><em>Pancreatic neuroendocrine neoplasms: Introduction</em>).</p>\r\n<p>The most frequent recurring genetic features are inactivation of the genes <em>MEN1</em>, <em>DAXX</em> or <em>ATRX</em>, <em>SETD2</em>, <em>PTEN</em>, and <em>TSC1/TSC2</em>; hyperactivation of the PI3K/mTOR pathway; and alternative lengthening of telomeres {21252315}. Epigenomic and transcriptomic profiles of most NF-PanNETs fall into either a group with A-cell lineage or a group with islet B-cell lineage features {31263286}. <em>MEN1</em>/<em>DAXX</em>/<em>ATRX</em> mutations are frequently detected in the A-cell group {30315258; 33849943}.</p>\r\n",
+        "timestamp": "2024-10-09T14:05:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123167,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 623,
+        "headingText": "<p>The majority of NF-PanNETs are well circumscribed and range from 20&nbsp;to 50&nbsp;mm in greatest dimension {20664472}. Some large tumours are lobulated, with a nodular-infiltrative appearance. NF-PanNETs vary in consistency from soft and fleshy to hard and fibrous, and from red-tan to brown-yellow. Cystic change may occur, usually with a unilocular cyst filled with serous fluid surrounded by a rim of neoplastic tissue {11395552; 20922407; 23073325}. Necrosis is uncommon.</p>\r\n<p>Rarely, NF-PanNETs in the head of the gland narrow the common bile duct and infiltrate the duodenum; tumours in the tail of the gland extend into peripancreatic soft tissues and spleen. Tumour thrombi within large veins may be found.</p>",
+        "timestamp": "2024-12-02T15:27:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123168,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 617,
+        "headingText": "<p>NF-PanNETs are characterized by organoid growth patterns that do not differ from those of most types of functioning PanNETs {32298138}. The two main growth patterns are solid and trabecular. The former can be subtyped into solid-nested and solid-paraganglioma-like and the latter into trabecular NOS, trabecular-reticulated, trabecular-gyriform, and trabecular-glandular patterns {32668277; 33032264}. In some tumours, different patterns coexist {1978380; 2898775}. Necrosis is uncommon and generally focal. The stroma can vary from a delicate fibrovascular network to broad areas of dense, hyalinized collagen. Some tumours may exhibit stromal calcifications and psammoma bodies.</p>\r\n<p>The neoplastic cells are usually cuboidal, with eosinophilic to amphophilic, finely granular cytoplasm. The nuclei are round to oval, with minimal atypia and coarsely clumped (salt-and-pepper) chromatin. They are centrally located in tumours with a solid pattern, or polarized in trabecular tumours. Uncommon are eccentric nuclei associated with a rhabdoid or clear cell appearance {12717248}, enlarged nuclei, irregular nuclear membranes, and prominent nucleoli. Mitoses are generally sparse (nearly always &lt;&nbsp;20&nbsp;mitoses/2&nbsp;mm<sup>2</sup>). Some NF-PanNETs contain small non-neoplastic ductules, acini, and islets intermingled with the neoplastic cells {15166675; 16418841}.</p>\r\n<h6><em>Subtypes</em></h6>\r\n<p>A number of NF-PanNETs have distinctive cytological features. Oncocytic NF-PanNETs are composed of large cells with eosinophilic cytoplasm (due to abundant mitochondria) and large nuclei frequently containing prominent nucleoli {16491376}. Pleomorphic NF-PanNETs are characterized by marked nuclear pleomorphism, but these pleomorphic nuclei have no adverse prognostic significance, because they are associated with a normal N:C&nbsp;ratio and no increased proliferation rate {16096409}. Clear cell NF-PanNETs have innumerable lipid vacuoles in the cytoplasm, scalloping the nucleus. Although these tumours were first reported in patients with VHL, cases also occur outside the setting of VHL {11342771; 16434893}.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>The epithelial and neuroendocrine nature of NF-PanNETs is best recognized by cytokeratin, synaptophysin, chromogranin&nbsp;A, and INSM1 immunolabelling {28849340; 29520563}. Many NF-PanNETs, although clinically non-functioning, immunolabel for peptide hormones in highly variable proportions of the tumour cells. About 40% of the tumours are multihormonal {16418841; 25602797}. The hormones most often expressed are glucagon, PP, and somatostatin {12039924; 16418841; 32668277}, although immunoreactivity for ectopic hormones (i.e. calcitonin, ACTH, &alpha;-hCG, neurotensin, etc.) can be detected as well {8982376; 29063495}. Rarely, the entire tumour fails to label for any hormone. In some tumours, in which one hormone predominates, distinctive histological patterns may occur. Glucagon-positive NF-PanNETs frequently demonstrate cystic changes and the trabecular-reticulated pattern {20922407}. Somatostatin-positive NF-PanNETs may show a nested, paraganglioma-like pattern and/or glandular structures with psammoma bodies {18310290; 32668277}. Serotonin-positive NF-PanNETs often display small cell nests and tubules embedded in dense stromal sclerosis, and they frequently arise adjacent to the main duct, causing duct obstruction and dilatation (see <a style=\"cursor:pointer\" href=\"/chaptercontent/53/82\" target=\"_blank\">section </a><em>Serotonin-producing tumours with and without carcinoid syndrome</em>) {21705949; 22221702}. Pancreatic neuroendocrine microtumours generally show diffuse expression of a single peptide, most often glucagon, followed by PP {16699310}.</p>\r\n<p>NF-PanNETs express the transcription factor insulin gene enhancer protein ISL1, which may be useful to support a pancreatic origin for a metastatic NET of unknown primary {23348208; 23503646}. The intestinal marker CDX2 is expressed in about 10% of NF-PanNETs {23348208}. Immunolabelling for DAXX and ATRX reveals loss of expression in as many as 45% of NF-PanNETs {21252315; 23361940; 24148618}. Overexpression of p53 may be rarely seen in high-grade PanNETs (G3&nbsp;NETs) {29596894; 34499237}. Strong membranous expression of SSTR2A is usually seen in NF-PanNETs and correlates with molecular imaging {17873898}. Occasionally, NF-PanNETs immunolabel for CEA and CA19-9 {12131156; 12395898}.</p>\r\n<p>Immunolabelling for Ki-67 reveals that most NF-PanNETs show low-grade (G1) to intermediate-grade (G2) proliferative features, and as many as 9% of these tumours show a Ki-67 labelling index &gt;&nbsp;20% {16699310; 30300897; 34499237}.</p>\r\n<h6><em>Ultrastructure</em></h6>\r\n<p>NF-PanNETs are characterized by variable numbers of membrane-bound electron-dense neurosecretory granules, either non-polarized within the cytoplasm or oriented near the basal surfaces facing the capillaries. The granule morphology is often nonspecific. The characteristic granule types of islet A&nbsp;or B&nbsp;cells sometimes found in functioning PanNETs are absent.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>The main entities include pancreatic neuroendocrine carcinoma (PanNEC), paraganglioma, acinar cell carcinoma, solid pseudopapillary neoplasm, pancreatoblastoma, and ductal adenocarcinoma. Metastasis from renal cell carcinoma may resemble a clear cell PanNET, particularly in patients with VHL, whereas metastases from hepatocellular carcinoma or adrenal cortical carcinoma may resemble oncocytic PanNETs {11342771; 16491376}. Mesenchymal neoplasms may also mimic PanNENs {34350470}. Microtumours can be distinguished from enlarged islets by immunohistochemical staining for islet peptides, because microtumours lose the normal proportions and non-random distribution of peptide cell types that characterize islets {16699310}.</p>",
+        "timestamp": "2024-10-10T17:18:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123169,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 618,
+        "headingText": "\r\n<p>FNA specimens from PanNETs are usually highly cellular with a clean background. The neoplastic cells are found in loosely cohesive clusters and individually. A plasmacytoid configuration is characteristic. The nuclei are uniform and round to oval, and contain coarsely granular chromatin. Mitotic figures are usually not identified. Grading of NF-PanNETs in cytological specimens can underestimate the true grade because of limited material {25044931; 25493252; 29044913}.</p>\r\n",
+        "timestamp": "2024-10-09T14:05:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123170,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 619,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2024-10-09T14:05:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123171,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> a keratin-positive PanNEN (PanNET); expression of general neuroendocrine markers (e.g. chromogranin&nbsp;A, INSM1, and synaptophysin); Ki-67 immunohistochemistry.</p>\r\n<p><em>Desirable:</em> positive immunohistochemistry for selected hormone products associated with special growth patterns; positive immunohistochemistry for cytokeratins (in selected cases).</p>\r\n",
+        "timestamp": "2024-10-09T14:05:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123172,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 620,
+        "headingText": "<p>The staging of NF-PanNETs, like that of all PanNENs, follows the eighth editions (2017) of the Union for International Cancer Control (UICC) TNM classification [[Brierley JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley-Blackwell; 2017.]] and the American Joint Committee on Cancer (AJCC) cancer staging manual [[Amin MB, Edge S, Greene F, et al., editors. AJCC cancer staging manual. 8th ed. New York (NY): Springer; 2017.]] {28752469}, which rely on macroscopic assessment of site, tumour size, and metastases. This approach largely corresponds to that of the European Neuroendocrine Tumor Society (ENETS) classification {22525418; 30300897}. The staging of well-differentiated PanNENs is presented in <a style=\"cursor:pointer\" href=\"/chaptercontent/53/219\" target=\"_blank\">section </a><em>TNM staging of endocrine and neuroendocrine tumours</em> .</p>",
+        "timestamp": "2024-10-14T15:39:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123173,
+        "bookId": 53,
+        "chapterId": 76,
+        "headingId": 621,
+        "headingText": "<p>All NF-PanNETs are considered to be malignant. Neuroendocrine microtumours almost always have benign behaviour, but rare lymph node metastases have been reported {30003325}. Approximately 55&ndash;75% of NF-PanNETs are diagnosed with extrapancreatic spread, metastases (predominantly in liver, bones, and distant lymph nodes), or recurrence {2153046; 22525418; 30300897}. After R0&nbsp;resection of the primary PanNET (and synchronous metastases, if present), the recurrence rate is 26% {33939661}. This recurrence rate seems to be dependent on the Ki-67 index and varies from 14% in patients with a Ki-67 index of 0&ndash;5%, to 41% in patients with a Ki-67 index of 6&ndash;20% (indicating the need for closer follow-up of patients with tumours with a higher Ki-67 index). As a consequence, the 10-year disease-specific survival rates are 91% for a Ki-67 index of 0&ndash;5%, and 26% for a Ki-67 index of 6&ndash;20% {29789972}.</p>\r\n<p>A number of factors have been shown to predict the prognosis of PanNETs. The most important histological factor predictive of outcome is proliferative rate, based on mitotic count and Ki-67 proliferation index {29789972} (see <a style=\"cursor:pointer\" href=\"/chaptercontent/53/73\" target=\"_blank\">section </a><em>Pancreatic neuroendocrine neoplasms: Introduction</em>). Abundant data demonstrate the prognostic stratification of G1&nbsp;and G2&nbsp;NF-PanNETs, both in the setting of a resected primary tumour and for metastatic disease. In biopsies of metastases, the Ki-67 proliferation index may be difficult to assess accurately because of the limited tissue available or tumour heterogeneity regarding highest proliferative activity {21566513}. Both G1&nbsp;and G2&nbsp;PanNETs are prognostically separated from PanNECs {26943788}. This is also true for the G3&nbsp;PanNET group (see also <a style=\"cursor:pointer\" href=\"/chaptercontent/53/73\" target=\"_blank\">section </a><em>Pancreatic neuroendocrine neoplasms: Introduction</em>), which is somewhat more aggressive than G2&nbsp;PanNET but not as rapidly progressive as PanNEC {30300897}. The 5-year survival rate is 62% for G2&nbsp;PanNETs,&nbsp;29% for G3&nbsp;PanNETs, and 16% for PanNECs {25723112}.</p>\r\n<p>Another predictor of outcome is tumour size. Tumours &lt;&nbsp;20&nbsp;mm uncommonly demonstrate clinical aggressiveness, whereas tumours &gt;&nbsp;30&nbsp;mm have a higher risk of metastasis {12210027; 20664472}. Small (&lt;&nbsp;20&nbsp;mm), low-grade NF-PanNETs have very indolent biology. Therefore, it has been suggested that asymptomatic cases may be closely monitored radiographically rather than resected {26742109}. The likelihood of metastasis also increases with the extent of invasive growth (especially vascular invasion), necrosis, and the status of regional lymph nodes {18059224}.</p>\r\n<p>Immunolabelling for a peptide in the absence of a clinical syndrome has no prognostic relevance. The histological patterns of NF-PanNETs are not prognostically distinctive in general. Cystic PanNETs frequently lack adverse prognostic factors and often present at a lower stage {11395552; 20922407}. Oncocytic NF-PanNETs appear to be more aggressive {16491376}. Other immunohistochemical markers such as PTEN loss, loss of DAXX or ATRX expression, alternative-lengthening-of-telomeres activation, as well as the A-cell lineage subtype with alternative lengthening of telomeres were reported as adverse prognostic factors {24148618; 25076292; 27407094; 31263286; 33849943}.</p>",
+        "timestamp": "2024-12-02T15:28:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

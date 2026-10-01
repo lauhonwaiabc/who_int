@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 61935,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 370,
+        "headingText": "<p>Adenosarcoma is a biphasic neoplasm with benign to atypical epithelial and low-grade malignant stromal components.</p>",
+        "timestamp": "2020-07-02T17:54:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 61936,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 371,
+        "headingText": "\r\n<p>8933/3 Adenosarcoma</p>\r\n",
+        "timestamp": "2020-05-13T17:02:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 61937,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 372,
+        "headingText": "\r\n<p>2C73 &amp; XH5544 Malignant neoplasms of ovary &amp; Adenosarcoma</p>\r\n",
+        "timestamp": "2020-05-13T17:02:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 61938,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 373,
+        "headingText": "\r\n<p><em>Not recommended:</em> mesodermal adenosarcoma</p>\r\n",
+        "timestamp": "2020-05-13T17:02:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 61939,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-05-13T17:02:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 61940,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 375,
+        "headingText": "\r\n<p>Ovary</p>\r\n",
+        "timestamp": "2020-05-13T17:02:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 61941,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 376,
+        "headingText": "<p>Patients are typically early postmenopausal, with the usual signs and symptoms of an adnexal mass, but some patients may present with vaginal bleeding or incidentally {12360039; 20179434}.</p>",
+        "timestamp": "2020-07-02T17:55:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 61942,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 377,
+        "headingText": "\r\n<p>These are uncommon tumours {27771166}.</p>\r\n",
+        "timestamp": "2020-05-13T17:02:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 61943,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 378,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-05-13T17:02:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 61944,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 379,
+        "headingText": "\r\n<p>A subset of tumours arise from endometriosis {11293158; 29241974}.</p>\r\n",
+        "timestamp": "2020-05-13T17:02:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 61945,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 386,
+        "headingText": "<p>Ovarian adenosarcomas are typically unilateral and large, ranging from uniformly solid to solid and cystic. Cysts are often small. Polypoid fronds may be seen within cysts or on the ovarian surface. Expansile fleshy areas may indicate sarcomatous overgrowth. Haemorrhage and necrosis may be seen {12360039}.</p>",
+        "timestamp": "2020-07-02T17:55:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 61946,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 380,
+        "headingText": "<p>Low-power examination reveals evenly distributed glands and cysts within a predominant stromal component. The glands are often elongated, compressed, and branching, imparting a phyllodes-like appearance. The stroma may form polypoid projections within cysts, and it is often more cellular adjacent to the epithelial component (cuffing). The cells lining the glands and cysts are cytologically bland and exhibit tubal, endometrioid, mucinous, or squamous differentiation; sometimes there is an admixture of cell types. Rarely, the glands exhibit features of atypical hyperplasia or low-grade endometrioid adenocarcinoma. The stroma (which may be decidualized) resembles neoplastic endometrial stroma and may show fibroblastic or smooth muscle differentiation or be myxoid. Cytological atypia in the stromal cells is usually mild to moderate but in rare instances is severe; mitotic activity is variable, occasionally being conspicuous {12360039; 20179434}. Sex cord&ndash;like differentiation (sometimes extensive, more often granulosa-like) {25656930; 26535983}, foamy histiocytes, and multinucleated stromal cells may be seen. Heterologous elements, including skeletal muscle, cartilage, and adipocytic elements, may be present {22449231; 12360039}. Sarcomatous overgrowth is defined as areas of pure sarcoma without glands, occupying at least 25% of the tumour; the pure sarcoma is most commonly high-grade&nbsp;&ndash; either undifferentiated sarcoma or rhabdomyosarcoma {2535774; 12360039; 20179434; 19483627; 12558756}.</p>\r\n<p>The stromal component is typically positive for CD10, WT1, ER, and PR. Areas of high-grade sarcomatous overgrowth are usually negative for these markers; desmin, myogenin, and MYOD1 may be positive in areas of skeletal muscle differentiation {18469708; 16051333}. Sex cord&ndash;like areas may be positive for inhibin and other sex cord markers.</p>",
+        "timestamp": "2020-07-23T15:44:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 61947,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 381,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-13T17:02:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 61948,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-13T17:02:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 61949,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 385,
+        "headingText": "<p><em>Essential:</em> biphasic tumour composed of benign or atypical M&uuml;llerian epithelium and a malignant (typically low-grade) stromal component.</p>",
+        "timestamp": "2020-07-06T16:34:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 61950,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 383,
+        "headingText": "<p>This entity is staged according to the Union for International Cancer Control (UICC) TNM classification (see <em>TNM staging of ovarian, fallopian tube, and primary peritoneal carcinoma</em>&nbsp;[[Brierley JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley-Blackwell; 2017.]]) and the FIGO staging system.</p>",
+        "timestamp": "2020-07-15T11:12:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 61951,
+        "bookId": 34,
+        "chapterId": 63,
+        "headingId": 384,
+        "headingText": "<p>The 5-year overall survival rate is about 65%, indicative of more-aggressive behaviour than seen with uterine adenosarcomas; ovarian adenosarcomas often rupture or show surface involvement. The presence of sarcomatous overgrowth or high-grade stroma is also associated with a worse prognosis {12360039}.</p>",
+        "timestamp": "2020-07-23T15:44:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "pkroleId": 202,
+    "bookId": "67",
+    "roleid": 209,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2001,
+        "lastname": "Gill",
+        "firstname": "Anthony J.",
+        "initials": "AJ",
+        "email": "",
+        "roleid": 209,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 203,
+    "bookId": "67",
+    "roleid": 210,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2014,
+        "lastname": "Thompson",
+        "firstname": "Lester D.R.",
+        "initials": "",
+        "email": "",
+        "roleid": 210,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 204,
+    "bookId": "67",
+    "roleid": 211,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3658,
+        "lastname": "Asa",
+        "firstname": "Sylvia L.",
+        "initials": "SL",
+        "email": "",
+        "roleid": 211,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 205,
+    "bookId": "67",
+    "roleid": 212,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2923,
+        "lastname": "de Krijger",
+        "firstname": "Ronald R.",
+        "initials": "RR",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 2933,
+        "lastname": "Erickson",
+        "firstname": "Lori A.",
+        "initials": "LA",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 3001,
+        "lastname": "Osamura",
+        "firstname": "Robert Y.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 4436,
+        "lastname": "Fuchs",
+        "firstname": "Talia L.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 4466,
+        "lastname": "Valk",
+        "firstname": "Gerlof D",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5333,
+        "lastname": "Ye",
+        "firstname": "Feng",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      }
+    ]
+  }
+]

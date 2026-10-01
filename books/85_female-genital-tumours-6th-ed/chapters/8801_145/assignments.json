@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 190,
+    "bookId": "85",
+    "roleid": 265,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2383,
+        "lastname": "Herrington",
+        "firstname": "C. Simon",
+        "initials": "",
+        "email": "",
+        "roleid": 265,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 191,
+    "bookId": "85",
+    "roleid": 290,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2377,
+        "lastname": "Soslow",
+        "firstname": "Robert A.",
+        "initials": "",
+        "email": "",
+        "roleid": 290,
+        "position": 0
+      },
+      {
+        "contributorid": 2392,
+        "lastname": "Longacre",
+        "firstname": "Teri A.",
+        "initials": "TA",
+        "email": "",
+        "roleid": 290,
+        "position": 0
+      },
+      {
+        "contributorid": 2393,
+        "lastname": "Ellenson",
+        "firstname": "Lora Hedrick",
+        "initials": "",
+        "email": "",
+        "roleid": 290,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 192,
+    "bookId": "85",
+    "roleid": 291,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2813,
+        "lastname": "Euscher",
+        "firstname": "Elizabeth D.",
+        "initials": "",
+        "email": "",
+        "roleid": 291,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 193,
+    "bookId": "85",
+    "roleid": 292,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 5630,
+        "lastname": "Pors",
+        "firstname": "Jennifer",
+        "initials": "",
+        "email": "",
+        "roleid": 292,
+        "position": 0
+      }
+    ]
+  }
+]

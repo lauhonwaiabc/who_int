@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 85,
+    "bookId": "35",
+    "roleid": 117,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2873,
+        "lastname": "Nicholson",
+        "firstname": "Andrew Gordon",
+        "initials": "",
+        "email": "",
+        "roleid": 117,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 87,
+    "bookId": "35",
+    "roleid": 119,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 1998,
+        "lastname": "Chan",
+        "firstname": "John K.C.",
+        "initials": "JKC",
+        "email": "",
+        "roleid": 119,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 88,
+    "bookId": "35",
+    "roleid": 120,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2876,
+        "lastname": "Cooper",
+        "firstname": "Wendy A.",
+        "initials": "WA",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      }
+    ]
+  }
+]

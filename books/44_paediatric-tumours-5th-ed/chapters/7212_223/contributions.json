@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 107315,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 466,
+        "headingText": "\r\n<p>SMARCB1-deficient renal medullary carcinoma is a high-grade adenocarcinoma typically centred in the renal medulla, which occurs mainly in patients with sickle cell trait.</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 107316,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 467,
+        "headingText": "\r\n<p>8510/3 SMARCB1-deficient renal medullary carcinoma</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 107317,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 468,
+        "headingText": "\r\n<p>2C90.Y &amp; XH2YP5 Other specified malignant neoplasms of kidney, except renal pelvis &amp; Medullary carcinoma, NOS</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 107318,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 469,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 107319,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 107320,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 471,
+        "headingText": "\r\n<p>Kidney</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 107321,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 472,
+        "headingText": "\r\n<p>Age at diagnosis ranges from childhood to the seventh decade of life (median: 21&nbsp;years) {7528470; 26085875}. There is a male predominance (M:F&nbsp;ratio: 2:1). Virtually all patients are symptomatic at diagnosis, with haematuria and flank or abdominal pain being the most common symptoms. Other common presenting symptoms are an abdominal mass, dysuria, and weight loss.</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 107322,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 473,
+        "headingText": "\r\n<p>Several hundred cases of renal medullary carcinoma have been reported. The vast majority of cases have been in patients of African ancestry in the USA and Brazil {17643096}. Almost all patients have had sickle cell trait or haemoglobin&nbsp;SC disease, but a few have had sickle cell disease. A few patients without a haemoglobinopathy have been reported to have tumours identical to renal medullary carcinoma {20145663}.</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 107323,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 474,
+        "headingText": "\r\n<p>Sickle cell trait is far more common than sickle cell disease and it appears that patients with sickle cell trait and sickle cell disease have similar risks (~1&nbsp;case per 40&nbsp;000&nbsp;patients over a 10-year period) of developing renal medullary carcinoma {29440190; 27605964}.</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 107324,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 475,
+        "headingText": "\r\n<p>The hypoxic and hypertonic environment of the renal medulla, exacerbated by microvascular occlusion by sickle-shaped erythrocytes, may promote the DNA double-strand breaks that are prerequisites for the translocations and deletions that inactivate <em>SMARCB1</em> and drive tumorigenesis {29440190}. About three&nbsp;quarters of the tumours occur in the right kidney. This may be accounted for by the relative hypoxia in the right kidney due to the lesser blood flow caused by the greater length of the right renal artery.</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 107325,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 482,
+        "headingText": "\r\n<p>Renal medullary carcinomas are usually large and poorly circumscribed, ranging in size from 40&nbsp;to 120&nbsp;mm (mean: 70&nbsp;mm). Smaller tumours are often centred in the renal medulla, which experiences hypoxia and sometimes undergoes papillary necrosis in patients with sickling haemoglobinopathies. The cut surface of the tumour is frequently tan or grey-white and often shows extensive necrosis and haemorrhage.</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 107326,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 476,
+        "headingText": "\r\n<p>Renal medullary carcinoma cells typically grow as infiltrating cords, nests, microcysts, sheets, and tubules. Round empty spaces from individual cell necrosis are common and when numerous can impart a cribriform, adenoid cystic carcinoma&ndash;like appearance. There is usually a pronounced myxoid desmoplastic reaction with a chronic inflammatory cell infiltrate. The carcinoma cells may show marked nuclear pleomorphism, but many have vesicular chromatin, prominent nucleoli, and eosinophilic cytoplasm, imparting a rhabdoid appearance. Mitotic figures are numerous. Sickle-shaped erythrocytes are a frequent finding within the vasculature of the tumour and kidney but are most commonly seen among extravasated red blood cells.</p>\r\n<p>By immunohistochemistry, medullary carcinomas {18327209} demonstrate loss of SMARCB1 (also known as INI1, SNF5, or BAF47). Renal medullary carcinomas typically label diffusely for PAX8, broad-spectrum cytokeratins, EMA, and vimentin {23348212; 22895263}. There is variable labelling for CK7, high-molecular-weight cytokeratin, CEA, and p53. OCT3/4 is strongly positive in about 50% of cases {22301499}, creating a potential diagnostic pitfall with metastatic germ cell tumour when these young patients present with extensive retroperitoneal nodal involvement.</p>\r\n<p>Ultrastructurally, the carcinoma cells contain vesicles lined by long microvilli, prominent desmosomes, and condensed fibrillary electron-dense deposits. Intracytoplasmic glycogen or lipids are not prominent {19117267}.</p>\r\n<p>The main differential diagnostic considerations for renal medullary carcinoma in children are rhabdoid tumour and <em>VCL</em>::<em>ALK</em> fusion renal cell carcinomas, which also occur in patients with sickle cell trait. Rhabdoid tumours typically affect younger children, and SMARCB1 is intact in <em>VCL</em>::<em>ALK</em> carcinomas. In adults, the differential diagnosis is mainly high-grade invasive urothelial carcinoma. Clinical evidence of sickle cell trait and young age at presentation are typical of renal medullary carcinoma, whereas the presence of in&nbsp;situ urothelial carcinoma or CK20 positivity favour urothelial carcinoma.</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 107327,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 107328,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 478,
+        "headingText": "\r\n<p>The most common genetic abnormality is the inactivation of <em>SMARCB1</em> by chromosomal translocations or deletions {28558987}. <em>SMARCB1</em> is located in a fragile region at 22q11.2 and is commonly lost by mutation and deletion in rhabdoid tumour of the kidney. In medullary carcinoma, loss of SMARCB1 protein expression arises through mechanisms of concurrent hemizygous loss and translocation, or by homozygous loss {30980040}.</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 107329,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> a high-grade SMARCB1-deficient infiltrating renal adenocarcinoma.</p>\r\n<p><em>Desirable:</em> clinical/laboratory evidence of a haemoglobinopathy.</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 107330,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 479,
+        "headingText": "\r\n<p>Renal medullary carcinomas are staged using conventional renal cell carcinoma staging protocols (Union for International Cancer Control [UICC]).</p>\r\n",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 107331,
+        "bookId": 44,
+        "chapterId": 223,
+        "headingId": 480,
+        "headingText": "\r\n<p>Renal medullary carcinoma has a poor prognosis, with &gt;&nbsp;90% of patients presenting with metastases to lymph nodes or other sites (most frequently lung and liver) at the time of diagnosis {26085875}. Patients with localized disease at presentation have only slightly better survival. Overall, the median survival time is 8&nbsp;months {28485059}. Preoperative chemotherapy has been suggested, but there is little evidence that this will make a notable difference in outcome {30287223; 27860149}.</p>",
+        "timestamp": "2023-03-09T10:36:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

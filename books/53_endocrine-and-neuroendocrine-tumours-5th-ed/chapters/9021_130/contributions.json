@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123482,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 607,
+        "headingText": "\r\n<p>Solitary fibrous tumour (SFT) is a fibroblastic mesenchymal tumour characterized by <em>NAB2</em>::<em>STAT6</em> gene rearrangement.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123483,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 608,
+        "headingText": "\r\n<p>8815/0 Solitary fibrous tumour, benign</p>\r\n<p>8815/1 Solitary fibrous tumour, NOS</p>\r\n<p>8815/1 Fat-forming (lipomatous) solitary fibrous tumour</p>\r\n<p>8815/1 Giant cell&ndash;rich solitary fibrous tumour</p>\r\n<p>8815/3 Solitary fibrous tumour, malignant</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123484,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 609,
+        "headingText": "\r\n<p>2F7C &amp; XH7E62 Neoplasms of uncertain behaviour of connective or other soft tissue &amp; Solitary fibrous tumour, NOS</p>\r\n<p>2B5Y &amp; XH1HP3 Other specified malignant mesenchymal neoplasms &amp; Solitary fibrous tumour, malignant</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123485,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> extrapleural solitary fibrous tumour.</p>\r\n<p><em>Not recommended:</em> haemangiopericytoma; giant cell angiofibroma; benign solitary fibrous tumour.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123486,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 611,
+        "headingText": "\r\n<p>Fat-forming (lipomatous) solitary fibrous tumour; giant cell&ndash;rich solitary fibrous tumour</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123487,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 612,
+        "headingText": "\r\n<p>SFTs can develop at any anatomical site, but within endocrine organs (a rare location) they most commonly involve the thyroid gland {29616597; 30758754; 32149061} or pituitary fossa {12808569; 16145288; 19224406}, with only rare reports in other endocrine organs {20191330; 29787363; 31391097; 32047784; 32332621}.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123488,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 613,
+        "headingText": "<p>Symptoms are nonspecific, and SFTs usually present as slow-growing, painless masses {30758754}. Large tumours may cause mass effect or obstructive symptoms. Paraneoplastic syndromes have been reported, such as Doege&ndash;Potter syndrome, with the induction of severe hypoglycaemia or (more rarely) acromegaloid changes due to tumour production of IGF2 {30278559; 30788455}.</p>\r\n<h6><em>Imaging</em></h6>\r\n<p>Radiographic features are nonspecific, with CT showing heterogeneous contrast enhancement {27153789; 30225611}, whereas MRI shows intermediate T1 intensity and variable T2 intensity corresponding to fibrous and cellular or myxoid tumour components {27153789; 29028514}.</p>",
+        "timestamp": "2024-10-09T15:26:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123489,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 614,
+        "headingText": "\r\n<p>There is an equal sex distribution, with a peak incidence between 50&nbsp;and 60&nbsp;years of age {22575866; 24360568; 28838212; 28731041; 29039030; 30206022; 30758754; 32315454}.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123490,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 615,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123491,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 616,
+        "headingText": "\r\n<p>Paracentric inversion involving chromosome 12q, resulting in the fusion of <em>NAB2</em> and <em>STAT6</em> {23313954; 23761323; 23313952}, is pathognomonic of SFT.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123492,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 623,
+        "headingText": "\r\n<p>SFTs are well circumscribed and usually measure 50&ndash;100&nbsp;mm, but they may be larger.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123493,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 617,
+        "headingText": "<p>SFTs are unencapsulated and variably cellular, with a patternless architecture interspersed with loosely to densely collagenized or myxoid stroma. Tumours are highly vascular, with dilated round to angulated branching blood vessels, which may be hyalinized. Cells are ovoid to spindled and typically monotonous, with bland nuclear features and few mitotic figures. Features suggestive of aggressive clinical behaviour include increased mitotic activity and necrosis. Metastatic presentations of SFT in endocrine organs have been reported {24280583; 24413787; 29616597}.</p>\r\n<h6><em>Subtypes</em></h6>\r\n<p>Lipomatous (fat-forming) SFT harbours a component of mature adipose tissue {10524520; 11014579; 7793472; 26339447}. Giant cell&ndash;rich SFT has multinucleated giant cells within the stroma and lining pseudovascular spaces {7573691; 10895819}. Dedifferentiated (anaplastic) SFT, although not yet reported in endocrine organs, shows transition to high-grade sarcoma with or without heterologous elements {19133003; 19718788; 22026427; 22613995; 23040384; 24427361; 25582503; 28968297}.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>By immunohistochemistry, SFT typically shows strong and diffuse cytoplasmic expression with CD34 and nuclear STAT6 {23575898; 24030747; 25873501}, but expression may be lost in dedifferentiated SFT or embolized tumours {19718788; 22613995; 26022454; 27189111}.</p>",
+        "timestamp": "2024-10-09T15:26:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123494,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 618,
+        "headingText": "\r\n<p>Smears are cellular, with loosely cohesive clusters around blood vessels or dispersed cells with bare nuclei. The cells are oval, elongated, or rounded, with wispy cytoplasm and eosinophilic collagenous stroma {12672098; 24013381; 28914981; 33493367}.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123495,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 619,
+        "headingText": "\r\n<p>Molecular assays may be insensitive for the diverse <em>NAB2</em>::<em>STAT6</em> fusion types. Conventional cytogenetic methods are not recommended, because of the small size of the inversion, but STAT6 immunohistochemistry is a sensitive and specific surrogate for all fusion types {23575898; 24030747; 24702701}.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123496,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> spindled to ovoid cells arranged around a branching vasculature; variable stromal collagen deposition; demonstration of CD34 and/or STAT6 expression by immunohistochemistry.</p>\r\n<p><em>Desirable:</em> <em>NAB2</em>::<em>STAT6</em> fusion (in selected cases).</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123497,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 620,
+        "headingText": "\r\n<p>Multivariable risk-stratification models are preferred over staging.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123498,
+        "bookId": 53,
+        "chapterId": 130,
+        "headingId": 621,
+        "headingText": "\r\n<p>Recurrence (distant or local) occurs in 10&ndash;30% of SFTs, often after a long latency (&gt;&nbsp;5&nbsp;years) {22575866; 29039030; 28838212; 26924782; 30206022; 1203874; 9850176; 31991494}. Risk stratification based on multivariable models may be applied in order to aid management {31991494; 22575866; 24052313; 26924782; 28838212; 29039030}; most are site-agnostic. The most widely used multivariate model for metastatic risk incorporates mitotic count (&gt;&nbsp;2&nbsp;mitoses/mm<sup>2</sup>, equating to &ge;&nbsp;4&nbsp;mitoses/10&nbsp;HPF of 0.55&nbsp;mm in diameter and 0.24&nbsp;mm<sup>2</sup> in area), patient age (&ge;&nbsp;55&nbsp;years), and tumour size stratified by 50&nbsp;mm tiers, with or without the additional variable of necrosis, to classify tumours into low-risk, intermediate-risk, and high-risk groups {22575866; 28731041; 29935303; 31206727}. Secondary <em>TERT</em> promoter mutations {25582503; 27562490; 29703757; 29985536} and <em>TP53</em> loss {22026427; 25015562; 25582503; 26022454} may be associated with disease progression.</p>",
+        "timestamp": "2024-10-09T15:25:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

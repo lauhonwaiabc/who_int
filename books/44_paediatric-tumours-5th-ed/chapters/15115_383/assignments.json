@@ -1,0 +1,143 @@
+[
+  {
+    "pkroleId": 129,
+    "bookId": "44",
+    "roleid": 131,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3647,
+        "lastname": "López-Terrada",
+        "firstname": "Dolores H.",
+        "initials": "DH",
+        "email": "",
+        "roleid": 131,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 130,
+    "bookId": "44",
+    "roleid": 132,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2165,
+        "lastname": "Frayling",
+        "firstname": "Ian M.",
+        "initials": "IM",
+        "email": "",
+        "roleid": 132,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 131,
+    "bookId": "44",
+    "roleid": 133,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2170,
+        "lastname": "Brosens",
+        "firstname": "Lodewijk A.A.",
+        "initials": "LAA",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 2443,
+        "lastname": "Pfister",
+        "firstname": "Stefan M.",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 2513,
+        "lastname": "Perry",
+        "firstname": "Arie",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 2804,
+        "lastname": "Solomon",
+        "firstname": "David A.",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3493,
+        "lastname": "Hawkins",
+        "firstname": "Cynthia E.",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3594,
+        "lastname": "Pietsch",
+        "firstname": "Torsten",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3616,
+        "lastname": "Tabori",
+        "firstname": "Uri",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3629,
+        "lastname": "Varlet",
+        "firstname": "Pascale",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3735,
+        "lastname": "Abedalthagafi",
+        "firstname": "Malak S.",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3980,
+        "lastname": "Gupta",
+        "firstname": "Anita",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 4051,
+        "lastname": "Tomlinson",
+        "firstname": "Gail E",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      }
+    ]
+  }
+]

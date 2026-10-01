@@ -1,0 +1,22 @@
+[
+  {
+    "pkheadingid": 456,
+    "bookid": 34,
+    "headingType": 1,
+    "headingTitle": " ",
+    "headingPosition": 1,
+    "headingid": 369,
+    "contributions": [
+      {
+        "pkcontributionId": 61501,
+        "bookId": 34,
+        "chapterId": 536,
+        "headingId": 369,
+        "headingText": "<h5><strong>Citing the online version</strong></h5>\r\n<h6><em>Full volume</em></h6>\r\n<p>WHO Classification of Tumours Editorial Board. Female genital tumours [Internet]. Lyon (France): International Agency for Research on Cancer; 2020 [cited YYYY&nbsp;Mmm&nbsp;D]. (WHO classification of tumours series, 5th ed.; vol. 4). Available from: https://tumourclassification.iarc.who.int/chapters/34.</p>\r\n<h6><em>Individual entity section</em></h6>\r\n<p>Author AB, Author CD, Author EF, et al. Title of the section. In: WHO Classification of Tumours Editorial Board. Female genital tumours [Internet]. Lyon (France): International Agency for Research on Cancer; 2020 [cited YYYY&nbsp;Mmm&nbsp;D]. (WHO classification of tumours series, 5th ed.; vol. 4). Available from: https://tumourclassification.iarc.who.int/chapters/34.</p>\r\n<h5><strong>Citing the print version</strong></h5>\r\n<h6><em>Full volume</em></h6>\r\n<p>WHO Classification of Tumours Editorial Board. Female genital tumours. Lyon (France): International Agency for Research on Cancer; 2020. (WHO classification of tumours series, 5th ed.; vol. 4). https://publications.iarc.fr/592.</p>\r\n<h6><em>Chapter</em></h6>\r\n<p>ChapterEditor AB, ChapterEditor CD, ChapterEditor EF, et al., editors. Chapter XX: Title of the chapter. In: WHO Classification of Tumours Editorial Board. Female genital tumours. Lyon (France): International Agency for Research on Cancer; 2020. pp. XXX&ndash;X. (WHO classification of tumours series, 5th ed.; vol. 4). https://publications.iarc.fr/592.</p>\r\n<h6><em>Individual entity section</em></h6>\r\n<p>Author AB, Author CD, Author EF, et al. Title of the section. In: WHO Classification of Tumours Editorial Board. Female genital tumours. Lyon (France): International Agency for Research on Cancer; 2020. pp. XXX&ndash;X. (WHO classification of tumours series, 5th ed.; vol. 4). https://publications.iarc.fr/592.</p>",
+        "timestamp": "2020-08-08T11:38:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

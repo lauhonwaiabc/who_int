@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 55344,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 159,
+        "headingText": "\r\n<p>Glucagonoma is a well-differentiated functioning pancreatic neuroendocrine tumour (PanNET) composed of cells producing glucagon and preproglucagon-derived peptide, with uncontrolled glucagon secretion, causing glucagonoma syndrome. Glucagon cell hyperplasia and neoplasia (GCHN) is found in patients with inherited mutations in <em>GCGR</em> leading to hyperplasia and neoplasia of the islet glucagon cells.</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 55345,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 160,
+        "headingText": "<p>8152/3 Glucagonoma</p>",
+        "timestamp": "2021-11-22T16:51:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 55346,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 161,
+        "headingText": "\r\n<p>2C10.1 &amp; XH87C1 Neuroendocrine neoplasms of pancreas &amp; Glucagonoma, malignant</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 55347,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 162,
+        "headingText": "<h5>Glucagonoma</h5>\r\n<p>None</p>\r\n<h5>GCHN</h5>\r\n<p><em>Acceptable:</em> glucagon cell adenomatosis;&nbsp;Mahvash disease.</p>",
+        "timestamp": "2019-04-29T19:26:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 55348,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 163,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 55349,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 164,
+        "headingText": "\r\n<p>Glucagonoma predominantly involves the tail of the pancreas {29435000}. GCHN affects the pancreas diffusely.</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 55350,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 165,
+        "headingText": "\r\n<p>Diagnosis of the tumour depends on elevated glucagon levels and the typical triad of glucagonoma syndrome: skin rash (necrolytic migratory erythema), diabetes mellitus, and weight loss. The necrolytic migratory erythema is usually located in the groin and migrates to the limbs, buttocks, and peritoneum. Angular stomatitis, cheilitis, or atrophic glossitis is present in approximately 40% of patients. Other features are amino acid deficiency, normochromic normocytic anaemia, and widespread venous thrombosis with pulmonary embolism in late-stage disease. The average time from symptom onset to diagnosis is 31.4&nbsp;months {29435000}. Metastatic disease at initial diagnosis is common, most commonly affecting the liver, followed by lymph nodes, mesentery/peritoneum, bone, lung, and spleen {29435000}.</p>\r\n<p>Elevated glucagon levels without glucagonoma syndrome may be found in patients with GCHN. In these patients, upper abdominal discomfort usually leads to the detection of multiple pancreatic tumours by CT, MRI, ultrasound, octreoscan, and/or 68Ga-DOTATATE PET-CT {29432346}.</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 55351,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 166,
+        "headingText": "\r\n<p>Glucagonoma accounts for 1&ndash;2% of all PanNETs and is the fourth most common functioning PanNET, after insulinoma, gastrinoma, and VIPoma {17896148; 22261919}. Its incidence is approximatively 1&nbsp;case per 20&nbsp;million person-years. The average patient age at diagnosis is 52.5&nbsp;years, and the reported M:F&nbsp;ratio is 0.8:1 {9880781}.</p>\r\n<p>GCHN is an extremely rare autosomal recessive disease, with only about 10&nbsp;cases reported to date. Males and females are equally affected. Patient age ranges from 25 to 68&nbsp;years.</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 55352,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 167,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 55353,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 168,
+        "headingText": "\r\n<p>Excessive glucagon produced by the tumour acts on the liver and increases both amino acid oxidation and gluconeogenesis from amino acid substrates, consequently causing glucagonoma syndrome.</p>\r\n<p>GCHN results from <em>GCGR</em> gene mutations that probably lead to deficient receptor expression. Lack of glucagon signalling in the liver probably causes a disturbance in a presumed feedback mechanism between the liver and the glucagon cells, which in turn leads to glucagon cell hyperplasia and elevated glucagon levels.</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 55354,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 207,
+        "headingText": "\r\n<p>Glucagonomas are usually solitary, well-demarcated tumours, varying in size from 3&nbsp;to 7&nbsp;cm {8606627; 29435000}. Rarely, they are cystic {10457311; 20922407}. They occasionally infiltrate the pancreatic tissue or the spleen.</p>\r\n<p>In GCHN, the pancreas may be diffusely involved, with multiple whitish-yellow nodules ranging in size from a few millimetres to 8&nbsp;cm.</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 55355,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 169,
+        "headingText": "\r\n<p>Glucagonomas are well-differentiated PanNETs with densely packed trabecular formations and a scant stromal reaction. Mitotic figures are rare. No poorly differentiated glucagonomas have been described, but glucagonomas may progress to G3 PanNETs. The tumour cells express synaptophysin, chromogranin&nbsp;A, glucagon, and often PP {8606627}.</p>\r\n<p>In GCHN, the pancreatic tissue shows normal-sized and hypertrophic islets (with glucagon cell hyperplasia) randomly distributed between glucagon cell microadenomas, and in some cases a single macrotumour. Calcification is often noted. All express glucagon {25695890; 19657311}. Metastatic disease is rare {25695890}.</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 55356,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 170,
+        "headingText": "\r\n<p>The cytology is the same as that of other PanNETs.</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 55357,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 171,
+        "headingText": "\r\n<p>Rarely, glucagonoma occurs in multiple endocrine neoplasia type&nbsp;1 {22261919; 9880781}. FOXA2, which plays a crucial role in islet development, is reported to be deregulated in multiple endocrine neoplasia type&nbsp;1&ndash;associated glucagonomas {28188614}. In addition, a biallelic inactivation of <em>DAXX</em> was reported in a sporadic glucagonoma {29688432}. In GCHN, about 50% of the examined patients showed germline mutations of <em>GCGR</em>, located on chromosome 17q25.3 {25695890; 19657311}.</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 55358,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 174,
+        "headingText": "\r\n<p><em>Essential:</em> clinical diagnosis (see &lt;&gt;<em>Clinical features</em>, above); neuroendocrine tumour (NET) histology.</p>\r\n",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 55359,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 172,
+        "headingText": "<p>The staging of glucagonomas, like that of all pancreatic neuroendocrine neoplasms (PanNENs), follows the eighth editions (2017) of the Union for International Cancer Control (UICC) TNM classification [[Brierly JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley Blackwell; 2017.]] and the American Joint Committee on Cancer (AJCC) cancer staging manual [[Amin MB, Edge S, Greene F, et al., editors. AJCC cancer staging manual. 8th ed. New York (NY): Springer; 2017.]] {28752469}, which rely on macroscopic assessment of site, tumour size, and metastases. This approach largely corresponds to that of the European Neuroendocrine Tumor Society (ENETS) classification {22525418}. The staging of well-differentiated PanNENs is presented in <a style=\"cursor:pointer\" href=\"/chaptercontent/31/1\" target=\"_blank\">section </a>Chapter&nbsp;1.</p>",
+        "timestamp": "2019-06-07T15:14:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 55360,
+        "bookId": 31,
+        "chapterId": 149,
+        "headingId": 173,
+        "headingText": "\r\n<p>The prognosis depends on grade and stage {17896148; 25602797}. In a recent series, Ki-67 proliferation index was not found to be of prognostic relevance {17873310}. Recent data show that 70% of patients survive 5&nbsp;years, with a mean survival time of &gt;&nbsp;6&nbsp;years {21470282; 8606627}. In another retrospective study, the average survival time was 32.1&nbsp;months {29435000}. Death is usually related to tumour growth rather than tumour-related functional complications {8606627; 17873310}.</p>",
+        "timestamp": "2019-03-27T15:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

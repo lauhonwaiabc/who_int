@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 148425,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 951,
+        "headingText": "\r\n<p>Barrett dysplasia is defined by a morphologically unequivocal neoplastic epithelium without invasion, occurring in an area of metaplastic columnar epithelium in the oesophagus.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 148426,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 952,
+        "headingText": "\r\n<p>81480/0 Barrett dysplasia, low-grade</p>\r\n<p>81480/2 Barrett dysplasia, high-grade</p>\r\n",
+        "timestamp": "2026-06-09T11:25:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 148427,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 953,
+        "headingText": "\r\n<p>2E92.0 &amp; XH3K13 Oesophageal glandular dysplasia (intraepithelial neoplasia), low-grade</p>\r\n<p>2E60.1 &amp; XH36M5 Oesophageal glandular dysplasia (intraepithelial neoplasia), high-grade</p>\r\n",
+        "timestamp": "2026-06-09T11:25:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 148428,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 954,
+        "headingText": "\r\n<p><em>Not recommended:</em> glandular dysplasia; columnar dysplasia.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 148429,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 955,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-06-09T11:25:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 148430,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 956,
+        "headingText": "\r\n<p>Barrett dysplasia is restricted to metaplastic glandular oesophageal mucosa.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 148431,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 957,
+        "headingText": "\r\n<p>There are no distinct clinical, radiological, or serological manifestations of dysplasia in Barrett oesophagus (BO). Some patients with underlying BO present with symptoms of gastro-oesophageal reflux disease. Dysplasia may be visible endoscopically, appearing as a flat, plaque-like, or irregular area of mucosa distinct from the surrounding non-dysplastic BO {12924649}. Mucosal abnormalities such as ulceration, plaques, nodules, and strictures are associated with an increased probability of cancer.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 148432,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 958,
+        "headingText": "\r\n<p>The global prevalence of histologically confirmed BO is approximately 1&ndash;2% in the general population {32631176;32732370}. Risk factors are chronic gastro-oesophageal reflux disease, age &gt;&nbsp;50&nbsp;years, obesity, positive first-degree family history, and male sex {31152737}. The prevalence of BO is probably higher in North America and Europe, although data are lacking for many regions {32631176;32732370;37879525}. A recent meta-analysis suggests that the vast majority of oesophageal adenocarcinoma (OAC) cases arise in patients with BO {33234525}, but the annual progression rate to OAC is only 0.3% {21997553} and may be lower depending on the characteristics of the patient population. Dysplasia in BO is the primary risk factor for progression to OAC {37813356}. Guidelines do not support population screening but recommend screening individuals with chronic reflux who have additional risk factors for BO and/or OAC {29671159}. A 2019 meta-analysis reported a pooled prevalence of low-grade dysplasia (LGD) and high-grade dysplasia (HGD) of approximately 2&ndash;5% for each diagnosis at index endoscopy among average-risk patients {30872393;34275161}. The likelihood of finding dysplasia is highest at index endoscopy (prevalent dysplasia) and increases only slowly with regular surveillance (incident dysplasia) {33549872}. Identification of goblet cells (intestinal metaplasia) in endoscopically suspected BO significantly influences the decision to offer surveillance, and most data indicate that intestinal metaplasia should be required for the definition of BO. In a study from the USA, background intestinal metaplasia was detected in &gt;&nbsp;90% of neoadjuvant treatment-na&iuml;ve (early) OACs {29016405}. Similarly, an Australian case study concluded that early BO-related neoplasia in segments &ge;&nbsp;10&nbsp;mm is always associated with intestinal metaplasia {28548120}.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 148433,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 959,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/chaptercontent/72/11\" target=\"_blank\">section </a><em>Adenocarcinoma of the oesophagus and oesophagogastric junction</em>.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 148434,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 960,
+        "headingText": "\r\n<p>Cancer in BO develops through sequential progression from inflammation to glandular metaplasia, dysplasia, and ultimately carcinoma. Metaplasia is initially of the cardia type and devoid of goblet cells; it later develops into goblet cell metaplasia and eventually dysplasia. Occasionally, both dysplasia and adenocarcinoma can develop in the absence of goblet cells {29037468;26701877}. Dysplasia develops and progresses because of the accumulation of multiple genetic and epigenetic alterations, many of which occur before the onset of dysplasia {24952744;26192918}. <em>TP53</em> inactivation plays a key role by allowing the accumulation of chromosomal instability and genomic duplication {24952744;26192918;23525077}. A more complete description of the molecular abnormalities in BO is provided in <a style=\"cursor:pointer\" href=\"/chaptercontent/72/11\" target=\"_blank\">section </a><em>Adenocarcinoma of the oesophagus and oesophagogastric junction</em>.</p>\r\n<p>Several molecular assays have been evaluated as biomarkers in BO. These include nucleic acid sequencing to detect somatic mutations in individual genes, measure the extent of loss of heterozygosity and clonal diversity, and detect altered DNA methylation patterns or altered expression of microRNAs, as well as in&nbsp;situ hybridization and flow cytometry to detect chromosomal aneuploidy {26021200;33093162;35260826}. Methylation markers have also been evaluated as adjunct diagnostic biomarkers to detect BO in conjunction with swallowable non-endoscopic cell sampling assays {29084829;29343623;30670490}.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 148435,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 967,
+        "headingText": "\r\n<p>Endoscopic assessment according to the Paris classification {14652541} is critical for stratifying invasion risk and assessing the likelihood of curative endoluminal resection. The Paris classification divides lesions into distinct morphologies on the basis of their growth patterns: type&nbsp;0-I (polypoid) lesions are elevated growths, further subdivided into pedunculated (Ip), sessile (Is), or mixed (Is/p); type&nbsp;0-II (non-polypoid) lesions are flat or slightly elevated lesions, categorized into superficial elevated (IIa), flat (IIb), or superficial depressed (IIc); and type&nbsp;0-III (excavated) lesions are ulcerated lesions penetrating the mucosa. Type&nbsp;0-IIc or type&nbsp;0-III lesions in BO are particularly concerning for harbouring dysplasia or early cancer. Mucosal abnormalities such as ulceration, plaques, nodules, and strictures, when identified, are associated with an increased risk of dysplasia when associated with disruption in the microvascular pattern using high-definition gastroscopes. Narrow-band imaging and blue-light imaging highlight vascular patterns of identified lesions.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 148436,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 961,
+        "headingText": "\r\n<p>Dysplasia is characterized by an abrupt transition from normal to abnormal, a lack of surface maturation, variable glandular crowding, architectural abnormalities, and cytological atypia. At low magnification, dysplastic foci exhibit basophilic epithelium due to hyperchromatic nuclei in crowded cells, contrasting with uninvolved areas. HGD shows more pronounced cytological atypia and architectural abnormalities than lower-grade dysplasia.</p>\r\n<p>Dysplasia is classified as negative, indefinite, or positive (low-grade or high-grade), although alternative classifications are available (see <a style=\"cursor:pointer\" href=\"/attachment/72/7/45047\" target=\"_blank\">#45047</a>Table&nbsp;2.01) {10896917;10680883}.</p>\r\n<p>Two patterns of BO have been identified: intestinal (adenoma-like) and gastric {26813745;20228780}. The term &ldquo;non-adenomatous dysplasia&rdquo; has been used to refer to cases lacking classic intestinal differentiation, but they are not equivalent to lesions with pure gastric differentiation {19194279}. Instead they show small glands lined by a monolayer of hyperchromatic nuclei with nuclear membrane irregularities rather than stratified elongated nuclei akin to those in colonic adenomas. Recognizing these patterns is helpful for diagnosing Barrett dysplasia, despite their limited clinical relevance {27526016}. Other patterns, including serrated and basal dysplasia (crypt dysplasia), have been recognized {38280743}.</p>\r\n<p>The intestinal/adenoma-like phenotype shows columnar cells with goblet cells and enterocyte-like features resembling colonic dysplasia/adenoma. The gastric phenotype features a single layer of uniform cuboidal or short columnar cells with basally located, larger, hyperchromatic, and irregular nuclei. Goblet cells are absent or depleted, replaced by cells with prominent cytoplasmic mucin with either foveolar or pyloric differentiation.</p>\r\n<p>LGD is characterized by cytological abnormalities with minimal architectural alterations. The cells show elongation, nuclear enlargement, hyperchromasia, and stratification, but largely retain their nuclear polarity. Goblet cell density varies, generally decreasing with increasing dysplasia grade. Cases with gastric differentiation may appear deceptively bland. Attention to cell-to-cell polarity can be useful in separating low-grade dysplasia from reactive changes. Non-dysplastic Barrett mucosa shows four layers: apical mucin cap, base of the cap, a row of cytoplasm, and a row of nuclei; these organized layers (&ldquo;lines&rdquo;) are obscured in dysplastic mucosa {30234520}.</p>\r\n<p>HGD is characterized by marked cytological atypia with architectural complexity. The diagnosis of HGD can be established in the presence of either high-grade cytological aberrations or architectural aberrations, but most cases show a combination. Cases with gastric differentiation show less obvious nuclear atypia and loss of nuclear polarity.</p>\r\n<p>Architectural abnormalities in HGD include glandular complexity and variability in size and shape, crowding, cribriforming, back-to-back glands, and budding or angulation in a spectrum with intramucosal adenocarcinoma. Nuclear abnormalities include enlargement (3&ndash;4&nbsp;times lymphocyte size), pleomorphism, irregular contours, prominent nucleoli, and loss of polarity. Mitoses are usually increased on the surface epithelium, and atypical mitoses are common. High-grade gastric dysplasia shows increased N:C&nbsp;ratios, irregular nuclear contours, loss of nuclear polarity, and open chromatin with prominent nucleoli.</p>\r\n<p>Abrupt transition between non-dysplastic and dysplastic epithelium is a helpful feature for recognizing any grade of dysplasia. Loss of nuclear polarity separates HGD from LGD. Basal dysplasia shows dysplastic nuclear features confined to the basal third of involved glands without surface involvement; additional sectioning may detect the latter.</p>\r\n<p>Accurate diagnosis and grading of dysplasia are facilitated in endoscopic resections and well-oriented biopsies. A diagnosis of indefinite dysplasia is assigned when atypia does not meet the criteria for LGD or HGD. The interobserver agreement for LGD is variable (poor to fair), while HGD has a higher interobserver agreement {11331953}. Consensus diagnoses improve diagnostic robustness.</p>\r\n<p>Various immunohistochemical stains have been advocated for refining dysplasia diagnoses in BO, but only p53 has been in widespread use. Most dysplasias show p53 overexpression or loss due to <em>TP53</em> mutations, although other patterns and cytoplasmic staining are rarely encountered. Preanalytical considerations and awareness of aberrant p53 patterns are critical {37471633;30826014}. While p53 can aid in confirming a diagnosis of dysplasia and may improve interobserver agreement {31852770}, its role in grading remains inconclusive. Studies have shown poor reproducibility in separating negative, indefinite, low-grade, and high-grade dysplasia on H&amp;E (four categories) but better separation of presence or absence of dysplasia (two categories) {26918780}. Some have advocated for the use of universal p53 immunohistochemistry in BO cases to detect occult dysplasia {28389530;24165758}. The recommendation may reflect studies directed at predicting the progression of non-dysplastic BO to HGD/OAC rather than establishing an initial diagnosis.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 148437,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 962,
+        "headingText": "\r\n<p>Cytology has been used as an adjunct to biopsy in the diagnosis of BO and associated neoplasms, but screening using cytological methods may be best exploited to identify patients who would benefit from endoscopic evaluation {32738955;12951679;20821361;36150646}.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 148438,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 963,
+        "headingText": "\r\n<p>Nucleic acid&ndash;based molecular diagnostics are not currently recommended for routine screening and surveillance of BO {37813356}.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 148439,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 966,
+        "headingText": "\r\n<p><em>Essential:</em> unequivocal glandular neoplastic alteration of the epithelium, without invasion.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 148440,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 964,
+        "headingText": "\r\n<p>HGD is Tis (Union for International Cancer Control [UICC]).</p>\r\n",
+        "timestamp": "2026-06-09T11:25:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 148441,
+        "bookId": 72,
+        "chapterId": 7,
+        "headingId": 965,
+        "headingText": "\r\n<p>Dysplasia in BO is a primary determinant of progression risk, and detecting it plays a central role in management guidelines. HGD progresses to OAC at a rate of approximately 6.6% per patient-year {38763697}. Curative endoscopic treatment of HGD is universally recommended {29671159}. The rate of progression to OAC after a diagnosis of LGD has remained difficult to ascertain, and there is substantial heterogeneity among studies {24556051;27702561}, mainly due to diagnostic variability {11331953;27818167}. When multiple experts achieve a consensus diagnosis of LGD, the risk of progression has been shown to increase substantially {11151865;28012849}. Guidelines universally recommend that primary histological diagnosis of BO dysplasia of any grade be confirmed by a pathologist with specialized expertise in BO dysplasia {38763697}. Randomized trials have shown a significant decrease in progression rates when patients with BO and LGD undergo endoscopic treatment, and most guidelines now conditionally favour discussing endoscopic treatment with patients who have confirmed LGD {38763697}.</p>\r\n<p>Abnormal p53 expression by immunohistochemistry that signifies <em>TP53</em> mutation identifies patients who are 4-&nbsp;to 17-fold more likely to progress to HGD or OAC {35354777;34757142;23256952}. Considering the poor to fair diagnostic agreement for LGD {11331953}, non-dysplastic BO cases with aberrant p53 expression should undergo peer review {37471633;30826014}. Studies based on next-generation sequencing reveal structural and copy-number alterations as potential prognostic factors {37794034;31001805}.</p>\r\n<p>Computational analysis of an immunofluorescent expression panel has been used to predict progression to HGD or OAC {27197290;27729357;32079863;33108124;33982936}.</p>",
+        "timestamp": "2026-06-09T11:25:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

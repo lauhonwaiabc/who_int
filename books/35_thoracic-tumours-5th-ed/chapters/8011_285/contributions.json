@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 68764,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 432,
+        "headingText": "<p>Li&ndash;Fraumeni syndrome (LFS) is an autosomal dominant cancer predisposition syndrome caused by germline pathogenic variants of the <em>TP53</em> gene.</p>",
+        "timestamp": "2022-10-07T14:20:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 68765,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 433,
+        "headingText": "<h5>MIM numbering</h5>\r\n<p>151623 Li&ndash;Fraumeni syndrome; LFS</p>",
+        "timestamp": "2020-10-05T17:48:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 68766,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 434,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-10-05T17:47:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 68767,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 435,
+        "headingText": "<p><em>Acceptable:</em> SBLA syndrome (sarcoma, breast cancer, brain tumours, leukaemia&nbsp;/ lymphoma&nbsp;/ lung carcinoma, adrenocortical carcinoma).</p>\r\n<p><em>Not recommended:</em> sarcoma family syndrome of Li and Fraumeni.</p>",
+        "timestamp": "2022-10-07T14:20:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 68768,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-10-05T17:47:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 68769,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 437,
+        "headingText": "\r\n<p><em>TP53</em>-associated LFS is associated with cancers of the breast, lung, soft tissue, bone, brain, and adrenal glands.</p>\r\n",
+        "timestamp": "2020-10-05T17:47:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 68770,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 438,
+        "headingText": "<p>LFS was historically described in families with paediatric sarcomas and other cancers occurring at a very young age. Several clinical criteria have been defined (see <a style=\"cursor:pointer\" href=\"/attachment/35/285/20277\" target=\"_blank\">#20277</a>Box&nbsp;10.01) {22939227}. The Chompret criteria take into account the narrow LFS cancer spectrum {26014290}, but the spectrum is actually broader, especially in adulthood, and cancer can arise at virtually any body site. Nevertheless, penetrance estimates are skewed by ascertainment bias. Lifetime cancer risk is supposed to be 70% in males and 90% in females {28270529}, but the identification of pathogenic variants in large gene panels in an unselected population suggests a lower penetrance in some situations, most likely depending on mutation type and genetic modifiers {30240537}.</p>\r\n<p>Within the core spectrum of cancers associated with LFS, breast cancer (24&ndash;39%) and sarcomas (24&ndash;31%) are the most common, followed by brain tumours (3.5&ndash;14%) and adrenocortical cancers (6.5&ndash;10%) {11219776; 26014290}. Other tumours are also observed, with an earlier age of onset than sporadic counterparts remaining a hallmark of LFS {29076966}.</p>\r\n<p>Thoracic cancers have been reported in LFS patients but are not common. Several recent studies have reported lung adenocarcinomas, predominantly in non-smokers {28772291}. In the IARC <em>TP53</em> Database, thoracic cancers accounted for 75&nbsp;of 2592&nbsp;(2.9%) of all cancers reported in individuals carrying <em>TP53</em> mutations [[IARC TP53 Database [Internet]. Lyon (France): International Agency for Research on Cancer; 2019. Version R20, July 2019. Available from: https://p53.iarc.fr/.]]. These include adenocarcinomas (23) and squamous cell carcinoma (4), with the remainder not specified. Three individuals with thymic carcinomas have been reported, and another three had sarcomas arising in the mediastinum or heart. In a large prospective screening cohort of LFS patients, lung cancer was the second most frequent new primary cancer (5&nbsp;of 31&nbsp;new cancers), occurring mainly in the fifth decade of life {28772306}.</p>",
+        "timestamp": "2020-12-08T14:59:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 68771,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 439,
+        "headingText": "\r\n<p>The <em>TP53</em> carrier rate is estimated at 1&nbsp;carrier per 20&nbsp;000&nbsp;individuals, but it may be as high as 1&nbsp;carrier per 500&nbsp;individuals, especially with the widespread use of both tumour and germline profiling {28861920; 29529297}. <em>TP53</em> pathogenic variants are found in 70% of families fulfilling the classic LFS criteria and 30% fulfilling the broader Chompret criteria.</p>\r\n<p>Most of the pathogenic variants are inherited in an autosomal dominant manner, but de&nbsp;novo mutations occur frequently (in 14% of carriers, in whom one&nbsp;fifth of the cases were mosaic in a recent series) {29070607}. Mosaic cases may be mistaken for clonal haematopoiesis of indeterminate potential {29189820}.</p>\r\n",
+        "timestamp": "2020-10-05T17:47:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 68772,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 440,
+        "headingText": "\r\n<p><em>TP53</em> encodes a transcriptional activator mediating cell responses to DNA damage and oncogenic stress {29195118}. It is not required for normal development and appears to have a unique function as a tumour suppressor. Of the 4000&nbsp;<em>TP53</em> mutations reported to date, most comprise missense mutations, although structural variants are also observed. A systematic functional screen of all possible missense substitutions has been reported, greatly enabling interpretation of novel variants {29775997; 21837677} [[IARC TP53 Database [Internet]. Lyon (France): International Agency for Research on Cancer; 2019. Version R20, July 2019. Available from: https://p53.iarc.fr/.]].</p>\r\n",
+        "timestamp": "2020-10-05T17:47:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 68773,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 441,
+        "headingText": "\r\n<p>Mutations in <em>TP53</em> predominantly affect the DNA-binding core domain, often acting in a dominant negative manner by disrupting a tetrameric complex that is required for binding to regulatory regions in key downstream effector genes such as <em>CDKN1A</em> and <em>BBC3</em> (<em>PUMA</em>) {29195118; 30224644}. While a broad spectrum of mutations are observed, the most common mutations occur at codons&nbsp;175, 248, 249, 273, and 281 [[IARC TP53 Database [Internet]. Lyon (France): International Agency for Research on Cancer; 2019. Version R20, July 2019. Available from: https://p53.iarc.fr/.]] and for the most part closely overlap with those observed to occur somatically in cancers.</p>\r\n<p>Disruption of <em>TP53</em> function impairs several key tumour suppressor processes, including cell-cycle arrest and cell death. Because sensing DNA damage is an important function for <em>TP53</em>, the tumour spectrum associated with LFS is characterized by genomic instability {18685109}. Recent evidence suggests that chromothripsis, the shattering of chromosomes, is frequently present {22265402}.</p>\r\n",
+        "timestamp": "2020-10-05T17:47:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 68774,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 448,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-10-05T17:47:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 68775,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 442,
+        "headingText": "\r\n<p>Histopathological features of thoracic tumours occurring in LFS are the same as those of their sporadic counterparts (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/2\" target=\"_blank\">section </a><em>Tumours of the lung: Introduction</em>).</p>\r\n",
+        "timestamp": "2020-10-05T17:47:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 68776,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 443,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-10-05T17:47:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 68777,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 444,
+        "headingText": "<p>Germline <em>TP53</em>&nbsp;pathogenic variants are the only cause of LFS. Importantly, many germline variants could increasingly be identified through tumour-only sequencing performed for therapeutic purposes, but most of these variants will remain purely somatic. The interpretation of variants of uncertain significance, which are large in number, remains an important challenge for genetic pathology.</p>",
+        "timestamp": "2020-11-16T16:44:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 68778,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 447,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/35/285/20277\" target=\"_blank\">#20277</a>Box&nbsp;10.01 .</p>",
+        "timestamp": "2020-11-17T17:48:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 68779,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 445,
+        "headingText": "\r\n<p>The staging system for cancers in LFS is the same as for tumours in their sporadic form.</p>\r\n",
+        "timestamp": "2020-10-05T17:47:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 68780,
+        "bookId": 35,
+        "chapterId": 285,
+        "headingId": 446,
+        "headingText": "<p>Overall penetrance is presumed to be very high, with a 90% lifetime risk of cancer for male <em>TP53</em> mutation carriers and a nearly 100% risk for female carriers by the age of 70&nbsp;years, with breast cancer incidence partly responsible for the observed sex difference {31719101}; however, these figures may be overestimated due to ascertainment bias. Moreover, some variants might have lower penetrance than others. Mutated <em>TP53</em> as seen in LFS confers an elevated risk of radiation-induced secondary malignancies {22878818; 21059199} and possibly increased sensitivity to low-dose radiation exposure from diagnostic procedures such as mammography {23355100}. Surveillance strategies for early tumour detection in <em>TP53</em> mutation carriers have been reported and are now widely used, with some evidence of reductions in both mortality and treatment-related morbidity in patients who undergo surveillance {27501770; 28572266; 28772291}.</p>\r\n<p><em>EGFR</em> mutations may be more common in lung adenocarcinomas arising in LFS. In a cohort of 164&nbsp;carriers of the recurrent <em>TP53</em> p.R337H variant in Brazil, 9&nbsp;people developed lung cancer, with a mean age at diagnosis of 53&nbsp;years. An <em>EGFR</em> activating mutation was found in 8&nbsp;of 9&nbsp;tumours, contrasting with the usual 20% rate {31889631}. This was confirmed by a larger series from France and Spain, in which 19&nbsp;of 21&nbsp;lung cancers displayed driver oncogenic alterations (18&nbsp;<em>EGFR</em> mutations and 1&nbsp;<em>ROS1</em> fusion) {32179180}. This is in line with LFS breast cancers, in which <em>ERBB2</em> is usually amplified. HER-family kinases seem to be frequently activated in LFS tumours.</p>",
+        "timestamp": "2020-12-08T14:59:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 116465,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 576,
+        "headingText": "<p>Squamous carcinoma of unknown primary (CUP) is a clinical diagnosis that refers to a squamous carcinoma metastatic to cervical lymph nodes, with no evident primary site.</p>",
+        "timestamp": "2024-01-18T15:38:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 116466,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 577,
+        "headingText": "\r\n<p>8010/6 Carcinoma, metastatic, NOS</p>\r\n",
+        "timestamp": "2023-10-02T13:36:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 116467,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 578,
+        "headingText": "\r\n<p>2D4Z Unspecified malignant neoplasms of ill-defined or unspecified sites</p>\r\n",
+        "timestamp": "2023-10-02T13:36:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 116468,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> branchial cleft cyst carcinoma; branchiogenic carcinoma.</p>\r\n",
+        "timestamp": "2023-10-02T13:36:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 116469,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T13:36:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 116470,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 581,
+        "headingText": "\r\n<p>Metastases to the neck are determined by lymphatic drainage; therefore, the location of a positive lymph node may indicate the site of origin {11754505}. For the expected pattern of first-echelon lymph node metastasis of CUP in the head and neck, see <a style=\"cursor:pointer\" href=\"/attachment/52/274/26364\" target=\"_blank\">#26364</a>Table&nbsp;12.04 . CUP most commonly affects the upper jugular lymph nodes (level&nbsp;II), which suggests an oropharyngeal primary {9886695; 10799723}. Most metastases to the supraclavicular nodes arise from non&ndash;head and neck sites (e.g. thorax, abdomen).</p>\r\n",
+        "timestamp": "2023-10-02T13:36:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 116471,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 582,
+        "headingText": "\r\n<p>The cardinal sign in most patients (&gt;&nbsp;90%) with CUP is a neck mass/swelling {10799723; 12684829}.</p>\r\n",
+        "timestamp": "2023-10-02T13:36:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 116472,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 583,
+        "headingText": "\r\n<p>Approximately 5&ndash;10 % of head and neck cancers present as CUP {10799723; 12957453; 16698706; 30616785}. With recent advances, after clinical, radiographic, surgical, and pathological evaluation the primary site is found in the head and neck region in &gt;&nbsp;90% of these cases, and the oropharynx is the most common location of the primary tumour {12684829; 19718744; 20737490; 22855133; 23345170; 24812081}. Conversely, a neck mass is the most common (44%) initial symptom of an oropharyngeal HPV-associated squamous cell carcinoma (SCC) {24652023}. In areas where EBV infection is endemic, the nasopharynx is a common primary site {11933178}. Patients affected with metastatic cutaneous head and neck SCC have an unknown index lesion in about one&nbsp;quarter of cases {16783833; 18849863}. The percentage of unknown primary tumour (true CUP), where the primary is not identified after extensive endoscopic evaluation, represents &lt;&nbsp;3% of suspected CUP {10799723; 17657782; 33244460}.</p>\r\n",
+        "timestamp": "2023-10-02T13:36:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 116473,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 584,
+        "headingText": "<p >High-risk HPV is a common driver of tumours presenting as CUP, and EBV plays an etiological role in a subset of CUP cases {11933178; 20737490; 22855133; 23345170; 24812081}.</p>",
+        "timestamp": "2023-11-21T13:05:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 116474,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 585,
+        "headingText": "<p>HPV and EBV are provable carcinogenic factors and represent a significant etiological component of CUP {33244460}. Ultraviolet (UV) radiation signature mutations indicate sun-induced DNA damage, characterized by a preponderance of C&gt;T substitutions at dipyrimidine sites, including CC&gt;TT {25354245}, The presence of UV radiation signature mutations in CUP indicates a skin primary and has been reported in metastatic cutaneous SCC and polyomavirus-negative Merkel cell carcinoma {30684551; 30986802}. Polymorphous adenocarcinomas, cribriform subtype, with <em>PRKD1/2/3</em> gene rearrangements have a higher risk of nodal metastasis {31492931}.</p>",
+        "timestamp": "2023-11-21T13:06:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 116475,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 592,
+        "headingText": "\r\n<p>Cystic lymph node metastases frequently correlate with an oropharyngeal primary site {18383529}.</p>\r\n",
+        "timestamp": "2023-10-02T13:36:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 116476,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 586,
+        "headingText": "<p>For the morphological diagnostic approach to CUP in the head and neck, see <a style=\"cursor:pointer\" href=\"/attachment/52/274/26365\" target=\"_blank\">#26365</a>Table&nbsp;12.05 .</p>\r\n<p>The non-keratinizing morphology characteristic of HPV-associated SCC is the most common pattern encountered in CUP {22211374}. A subset of tumours can have ciliated or columnar features {26457358; 26411881}. Metastatic extra-oropharyngeal mucosal and cutaneous SCCs typically show a keratinizing morphology. An undifferentiated (lymphoepithelial-like) morphology is strongly associated with EBV-related nasopharyngeal carcinomas but can be seen in HPV-associated carcinomas {11933178; 20421782}. Neuroendocrine neoplasms (NENs) presenting as CUP are rare. For well-differentiated neuroendocrine tumours (NETs) with immunoreactivity for calcitonin but normal serum levels, the supraglottic larynx should be examined for a possible occult primary {3056608}. If high-grade neuroendocrine carcinoma (NEC) is encountered, an oropharyngeal HPV-associated NEC or a cutaneous Merkel cell carcinoma should be suspected. Salivary gland adenocarcinomas rarely present as CUP, with the notable exception of the cribriform subtype of polymorphous adenocarcinoma {10583573}. Non&ndash;head and neck adenocarcinomas may have a heterogeneous morphology and require immunohistochemical evaluation to identify the site of origin.</p>",
+        "timestamp": "2023-11-21T13:06:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 116477,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 587,
+        "headingText": "<p>FNAB of a neck mass suspected of being a metastasis is the first diagnostic approach to CUP and is usually performed under ultrasound guidance or after ultrasound and other imaging assessment. It is essential for the proceduralist to provide material for cell block preparation for immunohistochemistry and potentially for molecular studies, and this may take several passes, ideally performed with rapid on-site evaluation (ROSE) to facilitate triaging of the specimen as lymphoid (for possible flow cytometry) or metastatic carcinoma. The cytomorphology of CUP mirrors that of tumours of known primary sites, and it is important to correlate the location of the tumour in the head and neck region (see <a style=\"cursor:pointer\" href=\"/attachment/52/274/26365\" target=\"_blank\">#26365</a>Table&nbsp;12.05) and the clinical history and findings. Possible primary sites, especially for the supraclavicular lymph nodes, include lung, breast, ovary, and other sites.</p>",
+        "timestamp": "2023-11-21T13:06:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 116478,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 588,
+        "headingText": "\r\n<p>High-risk HPV testing should be routinely performed in CUPs showing SCC, undifferentiated, and neuroendocrine morphology {29251996; 30188786}. p16 is a very sensitive surrogate marker of high-risk HPV; however, 20% of cutaneous head and neck SCCs are positive for p16 {30640756}. Additional specific high-risk HPV testing (PCR-based assay or RNA in&nbsp;situ hybridization) should be performed to confirm HPV status in tumours located outside level&nbsp;II/III and/or those with a keratinizing morphology {30188786}. The EBV-encoded small RNA (EBER) probe is useful in the identification of EBV-related nasopharyngeal carcinomas in metastatic lymph nodes {12622545}.</p>\r\n",
+        "timestamp": "2023-10-02T13:36:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 116479,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential (for true CUP):</em> p16 and EBER negativity; no primary site identified on the basis of clinical history and after extensive diagnostic workup.</p>\r\n<p><em>Desirable:</em> lack of UV radiation signature mutations.</p>\r\n",
+        "timestamp": "2023-10-02T13:36:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 116480,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 589,
+        "headingText": "<p >Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system for unknown primary.</p>",
+        "timestamp": "2023-11-21T13:07:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 116481,
+        "bookId": 52,
+        "chapterId": 274,
+        "headingId": 590,
+        "headingText": "\r\n<p>HPV positivity is associated with improved overall and disease-specific survival in CUP {20737490; 25369118}.</p>",
+        "timestamp": "2023-10-02T13:36:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

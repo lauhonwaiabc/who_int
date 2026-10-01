@@ -1,0 +1,70 @@
+[
+  {
+    "pkroleId": 121,
+    "bookId": "50",
+    "roleid": 164,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2093,
+        "lastname": "Pitman",
+        "firstname": "Martha Bishop",
+        "initials": "MB",
+        "email": "",
+        "roleid": 164,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 122,
+    "bookId": "50",
+    "roleid": 165,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4119,
+        "lastname": "Mehrotra",
+        "firstname": "Ravi",
+        "initials": "",
+        "email": "",
+        "roleid": 165,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 123,
+    "bookId": "50",
+    "roleid": 166,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4167,
+        "lastname": "Centeno",
+        "firstname": "Barbara Ann",
+        "initials": "",
+        "email": "",
+        "roleid": 166,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 124,
+    "bookId": "50",
+    "roleid": 167,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3155,
+        "lastname": "Stelow",
+        "firstname": "Edward B.",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      }
+    ]
+  }
+]

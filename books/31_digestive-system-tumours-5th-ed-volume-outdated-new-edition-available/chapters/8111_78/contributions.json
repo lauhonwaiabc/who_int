@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 54812,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 159,
+        "headingText": "<p>Hepatocellular adenoma (HCA) is a benign liver neoplasm composed of cells with hepatocellular differentiation.</p>",
+        "timestamp": "2019-03-04T11:06:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 54813,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 160,
+        "headingText": "<p>8170/0 Hepatocellular adenoma</p>",
+        "timestamp": "2019-03-04T11:06:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 54814,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 161,
+        "headingText": "<p>2E92.7 &amp; XH68V1 Benign neoplasm of liver or intrahepatic bile ducts &amp; Liver cell adenoma</p>",
+        "timestamp": "2019-03-04T11:06:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 54815,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 162,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-03-04T11:06:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 54816,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 163,
+        "headingText": "<p><em>HNF1A</em>-inactivated hepatocellular adenoma; inflammatory hepatocellular adenoma; &beta;-catenin-activated hepatocellular adenoma; &beta;-catenin-activated inflammatory hepatocellular adenoma</p>",
+        "timestamp": "2019-04-30T19:02:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 54817,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 164,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-03-04T11:07:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 54818,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 165,
+        "headingText": "<p>About 85% of HCAs occur in women of childbearing age; HCA is rare in children, men, and people aged &gt;&nbsp;65&nbsp;years. HCAs can present with abdominal pain, palpable mass, or haemorrhage; however, most are incidentally discovered on imaging. HCAs can be single or multiple. When they are &ge;&nbsp;10, the condition is known as adenomatosis {18339077; 10636105}. Clinically significant haemorrhage (20&ndash;25%) is mainly observed in tumours &gt;&nbsp;5&nbsp;cm. Transformation to hepatocellular carcinoma (HCC) is uncommon (4&ndash;8%) and occurs mainly in men {18246041; 19664629; 30190977}; the risk varies with HCA subtype and is higher in some clinical settings (glycogenosis, anabolic steroid use, vascular diseases) {26119687}.</p>\r\n<p>Characteristic changes on imaging can be seen in some HCA subtypes (see Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/78/0435\" target=\"_blank\">#0435</a>) {16954922; 16966481; 18688875}. However, histological evaluation remains the cornerstone for diagnosis of HCA.</p>",
+        "timestamp": "2019-08-23T11:46:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 54819,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 166,
+        "headingText": "<p>The incidence is 3&ndash;4&nbsp;cases per 100&nbsp;000&nbsp;person-years in Europe and North America {221698}, possibly lower in Asia {21175790}.</p>",
+        "timestamp": "2019-03-04T11:07:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 54820,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 167,
+        "headingText": "<p>Oral contraceptive use is a major risk factor, present in 80% of young women with HCA in North American and European countries. The risk increases with the duration of oral contraceptive usage. HCA can decrease in size after oral contraceptive cessation or after menopause. Men using anabolic steroids for body building are also at risk, as are patients taking anabolic steroids or androgens for aplastic anaemia {15495253}. Other risk factors include glycogenosis types&nbsp;1 and&nbsp;3, galactosaemia, tyrosinaemia, familial polyposis coli, polycystic ovary syndrome, and &beta;-thalassaemia. The recent increase in HCA has been attributed to obesity and metabolic syndrome {17596890; 23509632; 22429502}.</p>",
+        "timestamp": "2019-03-04T11:07:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 54821,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 168,
+        "headingText": "<p>HCAs are clonal tumours. They are classified into several genotypic/phenotypic groups, which have important consequences for patient management {16496320; 17663417; 19585623; 23485860; 27939373}. See <em>Diagnostic molecular pathology</em>, below.</p>",
+        "timestamp": "2019-03-04T11:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 54822,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 207,
+        "headingText": "<p>HCAs are typically soft, poorly defined tumours that lack a fibrous capsule {25232451}. Secondary changes such as necrosis, haemorrhage, and fibrosis can be present. The lesions range in size from microscopic to &gt;&nbsp;20&nbsp;cm. Hundreds of minute subcapsular lesions may be visible in adenomatosis. The background liver is typically non-cirrhotic. Inflammatory HCA (IHCA) has been described in cirrhosis due to alcohol abuse and/or metabolic syndrome {26516697; 25318388}.</p>",
+        "timestamp": "2019-03-04T11:07:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 54823,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 169,
+        "headingText": "<p>HCA, supplied by isolated arteries, is composed of benign cells with hepatocellular differentiation arranged in plates 1&ndash;2&nbsp;cells thick and occasional pseudoglands. The cytoplasm can be normal, clear, or steatotic, or it can contain pigment such as bile or lipofuscin {26205181}. Nuclear atypia is mild and may be related to ischaemic changes, but mitoses are unusual. Each molecular subtype has morphological hallmarks (see Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/78/0435\" target=\"_blank\">#0435</a>). <em >HNF1A</em>-inactivated HCAs (H-HCAs) often have lobulated contours and exhibit typically diffuse macrosteatosis/microsteatosis, ballooned and clear cells, and occasional pseudoglands. Microadenomas are often present in the background liver. Some atypical cases have no or only minor steatosis, rarely a myxoid stroma. IHCAs are typically characterized by sinusoidal dilatation, congestion, foci of inflammation, thick arteries, and more or less obvious ductular reaction leading to an aspect of pseudoportal tracts. Focal steatosis is not rare. Fibrotic bands and nodular organization due to remodelling can be misleading. &beta;-catenin-activated HCA (b-HCA) can sometimes present some cytoarchitectural atypia, pseudoglands, and pigments (lipofuscins, bile). &beta;-catenin-activated IHCAs (b-IHCAs) exhibit associated features of IHCA and b-HCA.</p>\r\n<p>Table <a style=\"cursor:pointer\" href=\"/attachment/31/78/0435\" target=\"_blank\">#0435</a> summarizes the immunohistochemistry of HCA.</p>\r\n<p>Features typical of focal nodular hyperplasia such as nodularity, fibrous septa, and ductular reaction can be seen in IHCA. Map-like glutamine synthetase (GS) staining in focal nodular hyperplasia and positive staining with inflammatory markers (serum amyloid&nbsp;A and C-reactive protein) in IHCA help in the diagnosis.</p>\r\n<p>The presence of thick cell plates, frequent pseudoglands, small-cell change, mitoses, and loss/fragmentation of the reticulin network are typical of HCC. Immunohistochemistry for glypican-3 (GPC3) or HSP70 favours HCC, but is not helpful in most cases {26769138}. Arterialized sinusoids (CD34+) are frequently seen in HCCs, but they can also be seen in benign lesions, including focal nodular hyperplasia and HCA.</p>\r\n<p>Epithelioid angiomyolipoma can resemble HCA and can show diffuse GS staining {29512829}. Demonstration of myomelanocytic differentiation by immunohistochemistry confirms the diagnosis of angiomyolipoma.</p>",
+        "timestamp": "2019-08-23T11:48:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 54824,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 170,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-03-04T11:08:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 54825,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 171,
+        "headingText": "<p>The molecular pathology (genotype/phenotype) of HCA is summarized in Table <a style=\"cursor:pointer\" href=\"/attachment/31/78/0435\" target=\"_blank\">#0435</a>.</p>\r\n<p>H-HCA accounts for 30&ndash;35% of all HCAs {12355088; 14598263; 17363580}. <em>FABP1</em>, positively regulated by <em>HNF1A</em>, is a gene coding for liver fatty-acid binding protein, which is expressed in the cytoplasm of normal hepatocytes and is downregulated in H-HCA. Lack of liver fatty-acid binding protein expression by immunohistochemistry is a useful diagnostic marker for H-HCA.</p>\r\n<p>IHCA, which accounts for 35&ndash;40% of all HCAs, is characterized by recurrent somatic activating mutations in genes involved in the IL-6/JAK/STAT3 pathway {19020503; 24735922}. IHCAs show increased expression of inflammation-associated proteins such as serum amyloid&nbsp;A and C-reactive protein at both the mRNA and protein levels. Serum C-reactive protein can be elevated, sometimes in association with fever and anaemia, which can regress after resection.</p>\r\n<p>b-HCA accounts for 10% of all HCAs and b-IHCA for 10&ndash;15%. These subtypes show activation of the WNT signalling pathway, which results from mutation or deletion of <em>CTNNB1</em> (encoding &beta;-catenin). Large deletions and most hotspot mutations in exon&nbsp;3 lead to high levels of &beta;-catenin activation, whereas exon&nbsp;3 S45 and exon&nbsp;7/8 mutations lead to moderate and weak activation of the pathway, respectively, leading to different GS patterns {27177928; 27469330; 17663417}. Nuclear &beta;-catenin can be identified by immunohistochemistry, but the staining can be focal or even absent. Diffuse homogeneous GS staining is observed with mutations that lead to strong &beta;-catenin activation, whereas more-modest activation (such as S45 mutation) tends to show a diffuse heterogeneous pattern (starry-sky pattern) {27177928}. Most HCAs with mutations in exon&nbsp;7/8 show weak patchy GS staining. In addition, b-HCA with exon&nbsp;3 S45 and exon&nbsp;7/8 mutations can show a strong peripheral border of GS staining; in these cases, CD34 is usually diffusely expressed in the tumour, except at the border. Therefore, GS is a good surrogate marker to identify different types of <em>CTNNB1</em> mutations; however, molecular analysis (on frozen or formalin-fixed, paraffin-embedded material) can be performed in cases with inconclusive GS pattern for evaluation of malignancy risk, which is high in cases with exon&nbsp;3 mutations and low/absent in cases with exon&nbsp;7/8 mutations.</p>\r\n<p>The term &ldquo;borderline lesion&rdquo; has been used for b-HCA with focal cytoarchitectural atypias and/or reticulin abnormalities (but insufficient for definite diagnosis of HCC) {24735922}. Other groups have proposed the term &ldquo;atypical hepatocellular neoplasm&rdquo; for all &beta;-catenin-activated tumours (except those with exon&nbsp;7/8 mutation), irrespective of cytoarchitectural atypia, in view of the high associated risk of HCC {23084586; 27469330}. Molecular and cytogenetic changes typical of HCC, such as <em>TERT</em> promoter mutations, are more common in b-HCA/b-IHCA with malignant transformation {23084586; 24735922}.</p>\r\n<p>b-IHCAs have features of both IHCA and b-HCA, and they carry the same risk of malignant transformation as b-HCAs with exon&nbsp;3 mutations.</p>\r\n<p>An additional subtype, sonic hedgehog HCA (shHCA), has also been described. It accounts for 4% of HCAs and is characterized by activation of the sonic hedgehog pathway due to small somatic deletions of <em>INHBE</em> leading to the fusion of <em>INHBE</em> and <em>GLI1</em>. These cases may be identified by immunostaining for PTGDS {27939373}. Overexpression of the enzyme ASS1 has also been reported in HCA (ASS1-positive HCA), including probably all shHCAs {28646562}; both subtypes are reportedly associated with a high risk of haemorrhage, even for small nodules. Further studies are needed to further characterize these subtypes.</p>\r\n<p>Unclassified HCAs, which account for 5&ndash;10% of all HCAs, lack well-defined pathological or genetic findings.</p>\r\n<p>It is important to note that different HCA subtypes can occur in the same liver {27939373}.</p>",
+        "timestamp": "2019-08-23T11:47:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 54826,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 174,
+        "headingText": "<p><em>Essential:</em> a benign hepatocellular tumour; specific histological criteria according to subtype, with corresponding immunohistochemical surrogate markers; GS is a main marker in the clinical setting to identify b-HCA with risk of malignant transformation.</p>",
+        "timestamp": "2019-03-04T11:08:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 54827,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 172,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-03-04T11:08:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 54828,
+        "bookId": 31,
+        "chapterId": 78,
+        "headingId": 173,
+        "headingText": "<p>The management guidelines for HCA {27085809; 25135008} recommend biopsies mainly to assess the diagnosis of HCA, and surgical resection for tumours that are &gt;&nbsp;5&nbsp;cm or irrespective of size if other high-risk features for malignant transformation are present, such as male sex, androgen-associated HCA, &beta;-catenin activation, and borderline features for HCC {29751879}. Ablative therapy can be used as an alternative to surgery. The treatment is similar for multiple tumours and is targeted towards nodule(s) with high-risk features. Because &beta;-catenin activation can direct management, especially in small and multiple tumours, accurate assessment of GS staining is crucial for diagnosis. When GS results are equivocal, molecular/cytogenetic testing for <em>CTNNB1</em> mutation, <em>TERT</em> promoter mutations, and chromosomal gains (1, 7, and 8) can be helpful.</p>",
+        "timestamp": "2019-04-24T12:00:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

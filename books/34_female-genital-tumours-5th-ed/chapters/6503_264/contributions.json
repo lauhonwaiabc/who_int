@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 63982,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 370,
+        "headingText": "<p>Germ cell tumours are tumours composed of primitive and/or mature germ cell elements.</p>",
+        "timestamp": "2020-07-24T16:27:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 63983,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 371,
+        "headingText": "\r\n<p>9064/3 Germ cell tumour NOS</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 63984,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 372,
+        "headingText": "\r\n<p>2C76.Y &amp; XH1E13 Other specified malignant neoplasms of corpus uteri &amp; Germinoma</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 63985,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 373,
+        "headingText": "<p>None</p>",
+        "timestamp": "2020-07-07T15:35:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 63986,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 374,
+        "headingText": "<p>Yolk sac tumour NOS; mature teratoma NOS; immature teratoma NOS</p>",
+        "timestamp": "2020-07-08T15:50:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 63987,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 375,
+        "headingText": "\r\n<p>Endometrium, myometrium</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 63988,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 376,
+        "headingText": "\r\n<p>Uterine germ cell tumours occur over a wide patient age range (24&ndash;87&nbsp;years), with most cases diagnosed after menopause, typically after presentation for abnormal uterine bleeding. Elevated serum AFP has been reported in uterine yolk sac tumour (YST) {27631522; 31033797}.</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 63989,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 377,
+        "headingText": "\r\n<p>As many as 5% of germ cell tumours are extragonadal; those arising in the uterus account for a small percentage of these rare tumours {27631522}.</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 63990,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 378,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 63991,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 379,
+        "headingText": "\r\n<p>The proposed histogenetic mechanisms include retrodifferentiation of somatic tumour cells to more-primitive cells, specialized differentiation from a somatic carcinoma, aberrant or stalled migration of germ cells, and origination from residual fetal tissue after incomplete abortion {28599587; 27631522; 31033797}.</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 63992,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 386,
+        "headingText": "\r\n<p>The macroscopic appearance is variable.</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 63993,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 380,
+        "headingText": "\r\n<p>YST and immature/mature teratoma have been reported in the uterus. YST is more frequent and often has an associated somatic carcinoma or carcinosarcoma. The histological features of the germ cell component are identical to those of their ovarian counterparts {28599587; 27631522; 31033797}.</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 63994,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 381,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 63995,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 63996,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> characteristic microscopic and immunohistochemical features, as seen in their ovarian counterparts.</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 63997,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 383,
+        "headingText": "\r\n<p>These tumours are staged according to the criteria for endometrial carcinoma.</p>\r\n",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 63998,
+        "bookId": 34,
+        "chapterId": 264,
+        "headingId": 384,
+        "headingText": "\r\n<p>It is unknown whether the presence of YST in an otherwise somatic carcinoma worsens the prognosis, because the associated somatic carcinoma is usually high-grade. Immature teratoma in the uterus is associated with aggressive behaviour {28599587; 27631522}.</p>",
+        "timestamp": "2020-06-05T17:13:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

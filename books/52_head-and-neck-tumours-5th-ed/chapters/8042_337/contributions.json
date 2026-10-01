@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 115901,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 576,
+        "headingText": "\r\n<p><em>GLI1</em>-altered soft tissue tumour is a mesenchymal neoplasm of uncertain histogenesis, characterized by an epithelioid morphology and <em>GLI1</em> alterations.</p>\r\n",
+        "timestamp": "2023-10-02T11:22:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 115902,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 577,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T11:22:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 115903,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 578,
+        "headingText": "<p >2B5F.2 Sarcoma, not elsewhere classified of other specified sites</p>",
+        "timestamp": "2023-11-17T15:06:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 115904,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Acceptable:</em> epithelioid neoplasm with <em>GLI1</em> rearrangement.</p>\r\n<p><em>Not recommended:</em> haemangiopericytoma of tongue; pericytoma with t(7;12).</p>\r\n",
+        "timestamp": "2023-10-02T11:22:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 115905,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T11:22:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 115906,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 581,
+        "headingText": "<p >Tumours may involve soft tissue, bone, or viscera. Approximately 40% occur in the head and neck, most arising in the tongue and oropharynx, with less common locations including the submandibular gland and the soft tissues of the neck {15111311; 29309307; 31189998; 31934916; 35933574}.</p>",
+        "timestamp": "2023-11-17T15:06:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 115907,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients typically present with a slow-growing, painless mass {8163277; 31567194}.</p>\r\n",
+        "timestamp": "2023-10-02T11:22:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 115908,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 583,
+        "headingText": "\r\n<p>This is a rare tumour occurring over a broad age range but most commonly presenting in young adults (median age: 37&nbsp;years, range: 1&ndash;83&nbsp;years). There is no overt sex predilection {15111311; 31934916}.</p>\r\n",
+        "timestamp": "2023-10-02T11:22:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 115909,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-10-02T11:22:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 115910,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 585,
+        "headingText": "\r\n<p><em>GLI1</em>-altered soft tissue tumours have a heterogeneous molecular pathogenesis and can be broadly divided into two groups. About two&nbsp;thirds of cases are defined by gene fusions {15111311}. The remaining one&nbsp;third arise from amplification involving <em>GLI1</em>, often with coamplification of neighbouring genes {31189998}. Tumours with <em>GLI1</em> rearrangement can be further subdivided on the basis of their fusion partner. The most common fusion is <em>ACTB</em>::<em>GLI1</em>, with <em>PTCH1</em>::<em>GLI1</em>, <em>MALAT1</em>::<em>GLI1</em>, and <em>DERA</em>::<em>GLI1</em> representing rare events {15111311; 31189998; 31934916; 33067875}. Various <em>GLI1</em> exons have been reported as breakpoints {15111311; 29309307}.</p>\r\n",
+        "timestamp": "2023-10-02T11:22:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 115911,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 592,
+        "headingText": "\r\n<p>Tumours range in size from 8&nbsp;to &ge;&nbsp;100&nbsp;mm but tend to be smaller in the head and neck region. They are generally circumscribed and, on cut section, are white-yellow, fleshy, and may be solid and/or cystic {15111311; 29309307; 31567194; 33067875; 32132020}.</p>\r\n",
+        "timestamp": "2023-10-02T11:22:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 115912,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 586,
+        "headingText": "<p>Morphologically there is a spectrum of architectural and cytological findings. Tumours are frequently multilobulated, with margins that may be well demarcated or infiltrative {15111311}. Architecturally the cells are generally arranged in nests and sheets; occasionally they may have fascicles, pseudorosettes, cords and/or reticular patterns {15111311; 29309307; 31189998; 31934916}. The cells are small to medium-sized and range from epithelioid to ovoid to spindled, with variable eosinophilic to clear cytoplasm {29309307; 26980027; 31189998}. The nuclei are round to ovoid and relatively monomorphic, with pinpoint nucleoli; mitotic activity is variable (0&ndash;5&nbsp;mitoses/mm<sup>2</sup>) {29309307; 31189998; 31934916}. A prominent capillary-sized vasculature is often present. The intervening stroma may be focally myxoid or hyalinized {15111311; 29309307; 31189998; 31934916}. Protrusion into vascular spaces is common {15111311; 31934916}. Necrosis is rarely encountered {31934916}. The morphology and ultrastructural findings are suggestive of pericytic differentiation {15111311}, but this is not entirely supported by immunohistochemistry.</p>\r\n<p>These neoplasms lack a consistent immunophenotype. Although positive for vimentin, these tumours show variable, often patchy/focal or weak, immunoreactivity for SMA, S100, CD10, CD56, CD99, p16, and EMA {15111311; 29309307; 26980027; 31189998; 31934916; 32132020; 35933574}. Focal expression of h-caldesmon and keratin has been reported {31567194; 31189998}. Tumours are generally negative for SOX10, HMB45, GFAP, CD34, and p63 {29309307; 31189998}. The lack of expression of chromogranin and synaptophysin {31934916} may assist in their distinction from neuroendocrine neoplasms (NENs). Tumours with <em>GLI1</em> amplification often have concomitant overexpression of CDK4, MDM2, and STAT6 {31934916}.</p>",
+        "timestamp": "2023-11-17T15:07:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 115913,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 587,
+        "headingText": "<p >Rarely reported {35514197}</p>",
+        "timestamp": "2023-11-17T15:07:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 115914,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 588,
+        "headingText": "<p>The presence of a <em>GLI1</em> rearrangement or amplification, in the appropriate clinical and histomorphology context, is diagnostic. <em>GLI1</em> rearrangement is not disease-defining and has been reported in plexiform fibromyxoma {27101025} and gastroblastoma {28731043}.</p>",
+        "timestamp": "2024-01-10T14:10:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 115915,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em> neoplasm arranged in nests and sheets of epithelioid to ovoid cells; prominent capillary vasculature; monomorphic round to ovoid nuclei; demonstration of <em>GLI1</em> rearrangement or amplification.</p>",
+        "timestamp": "2023-11-17T15:07:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 115916,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-10-02T11:22:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 115917,
+        "bookId": 52,
+        "chapterId": 337,
+        "headingId": 590,
+        "headingText": "\r\n<p>Most tumours pursue an indolent clinical course when completely excised. A subset is complicated by local or distant recurrence. Distant metastasis has been reported in approximately 20% of cases and includes spread to lung, lymph node, soft tissue and bone, and brain {29309307; 31189998; 31567194; 31934916}.</p>",
+        "timestamp": "2023-10-02T11:22:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

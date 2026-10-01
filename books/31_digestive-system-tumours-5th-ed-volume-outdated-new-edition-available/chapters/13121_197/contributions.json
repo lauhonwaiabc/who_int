@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 55890,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 159,
+        "headingText": "\r\n<p>Leiomyoma is a benign mesenchymal neoplasm showing smooth muscle differentiation.</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 55891,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 160,
+        "headingText": "<p>8890/0 Leiomyoma NOS</p>",
+        "timestamp": "2021-11-22T17:30:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 55892,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 161,
+        "headingText": "\r\n<p>2E86.1 Leiomyoma of other or unspecified sites</p>\r\n<p>XA0828 Oesophagus</p>\r\n<p>XA9607 Gastrointestinal tract</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 55893,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 162,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 55894,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 163,
+        "headingText": "\r\n<p>Leiomyomatosis (8890/1); seedling leiomyomas</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 55895,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 164,
+        "headingText": "\r\n<p>Clinically relevant leiomyomas predominantly occur in the oesophagus, colon, and rectum and are rare in the stomach and small intestine. Typically, leiomyomas are intramural in the upper GI tract, whereas they occur in the muscularis mucosae in the colon and rectum. Leiomyoma is the most common benign intramural mesenchymal tumour of the oesophagus and tends to arise in the oesophagogastric junction and the mid-oesophagus. Smaller (&lt;&nbsp;7&nbsp;mm) incidentally recognized leiomyomas have been reported in oesophagogastric resections (seedling leiomyomas) {7319487}. Oesophageal leiomyomatosis is regarded as a hamartomatous disorder in children, but case reports of adult cases have been published in the literature {12784310; 18299739}.</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 55896,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 165,
+        "headingText": "\r\n<p>Large tumours of the oesophagus may be symptomatic. However, most leiomyomas are discovered incidentally at endoscopy or surgery, often as a polyp.</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 55897,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 166,
+        "headingText": "\r\n<p>The prevalence is unknown. The incidence of leiomyoma varies according to site. Approximately 10% of all leiomyomas of the GI tract occur in the oesophagus {12717247; 15797036; 18059218}. However, even in the oesophagus, leiomyomas are relatively rare, with autopsy data showing an incidence of 0.006&ndash;8% {14698321}.</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 55898,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 167,
+        "headingText": "\r\n<p>Some cases of leiomyomatosis may be familial, associated with Alport syndrome and deletions of the <em>COL4A5</em> and <em>COL4A6</em> genes {12784310}.</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 55899,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 168,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 55900,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 207,
+        "headingText": "\r\n<p>Grossly, intramural leiomyomas are firm white tumours with a whorled appearance on cut surface.</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 55901,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 169,
+        "headingText": "\r\n<p>Microscopically, the tumours are composed of bundles of well-differentiated spindled smooth muscle cells with blunt-ended nuclei. There is no clear demarcation or well-formed capsule. Mitotic activity is generally not detected. There may be focal nuclear atypia. By immunohistochemistry, lesional cells are typically positive for desmin, SMA, caldesmon, and calponin. A distinctive type of leiomyoma that occurs in the colon originates in the muscularis mucosae.</p>\r\n<p>Leiomyoma must be differentiated from other spindle cell lesions of the GI tract. Throughout the GI tract, the main differential diagnosis is with gastrointestinal stromal tumour, which may show similar bland spindle cells. However, immunohistochemical stains diagnostic of gastrointestinal stromal tumour, such as KIT (CD117), DOG1, and CD34, are consistently negative in leiomyomas. Schwannomas are spindle cell tumours that show strong, diffuse positivity for S100 and are negative for desmin. Inflammatory fibroid polyps usually arise in the submucosa of the stomach and small bowel, and they show ovoid, spindled, or epithelioid cells with scant cytoplasm set in a myxoid to oedematous stroma with a marked inflammatory infiltrate consisting predominantly of eosinophils, as well as lymphocytes and histiocytes. These also are positive for CD34, and a minority of cases are positive for SMA, but they are negative for desmin, KIT (CD117), DOG1, and S100.</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 55902,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 170,
+        "headingText": "\r\n<p>Large mass-forming leiomyomas of the GI tract may be sampled by EUS-guided FNA. Fragments of spindle cells with bland cytology are noted in adequate samples. Confirmatory immunohistochemical stains can be performed on cell block material {18208801}.</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 55903,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 171,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 55904,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 174,
+        "headingText": "\r\n<p><em>Essential:</em> fascicles of spindle cells with eosinophilic cytoplasm; lack of conspicuous mitotic activity and necrosis; expression of SMA and desmin; lack of KIT (CD117), DOG1, and CD34.</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 55905,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 172,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 55906,
+        "bookId": 31,
+        "chapterId": 197,
+        "headingId": 173,
+        "headingText": "\r\n<p>Leiomyomas are benign tumours, with virtually no risk of progression to leiomyosarcoma in the GI tract.</p>",
+        "timestamp": "2019-04-15T16:20:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

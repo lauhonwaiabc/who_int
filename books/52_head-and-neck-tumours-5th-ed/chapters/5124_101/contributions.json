@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 114044,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 576,
+        "headingText": "\r\n<p>HPV-associated oral epithelial dysplasia (HPVOED) is characterized by distinctive viral cytopathic changes caused by transcriptionally active high-risk HPV, with a risk of progression to squamous cell carcinoma.</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 114045,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 577,
+        "headingText": "<p>8085/0 HPV-associated oral epithelial dysplasia, low grade</p>\r\n<p>8085/2 HPV-associated oral epithelial dysplasia, high grade</p>",
+        "timestamp": "2023-12-05T15:24:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 114046,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 578,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 114047,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> HPV-associated squamous intraepithelial neoplasia; koilocytic dysplasia; oral Bowen disease; oral bowenoid papulosis.</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 114048,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 114049,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 581,
+        "headingText": "\r\n<p>The ventral/lateral tongue and the floor of the mouth are the commonest sites, followed by the buccal mucosa. The palatal mucosa, gingiva, and labial mucosa are less commonly affected {28799537; 31617604; 32632179}.</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 114050,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients with HPVOED generally present with a white, red/white, or red patch, which is usually flat and demarcated but sometimes slightly raised or nodular {28799537; 31617604}.</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 114051,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 583,
+        "headingText": "\r\n<p>There is a male predilection (M:F&nbsp;ratio: 6:1) and a wide age range, with a peak incidence in the sixth decade of life {23522647; 28799537; 31617604; 31902664; 32632179}.</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 114052,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 584,
+        "headingText": "\r\n<p>HPVOED is caused by epithelial infection by high-risk HPV subtypes, usually type&nbsp;16, although other types may be detected {28799537; 28407985; 32573035}. In limited series, most patients are tobacco smokers {28799537} and some are immunosuppressed.</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 114053,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 585,
+        "headingText": "<p>The pathogenesis is unclear in this context but is assumed to follow pathways causing uterine cervical dysplasia through E6/E7 transcription, p53 degradation, and p16 overexpression {12525422}. Lesions vary; some show viral integration through the downregulation of the HPV E2 protein {30100997}, and others express the HPV proteins E4 and L1, indicating possible productive infection {31617604}. <em>APOBEC3B</em>-associated mutagenesis has also been implicated in the pathogenesis of HPVOED {32632179}.</p>",
+        "timestamp": "2023-11-07T12:34:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 114054,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 592,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 114055,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 586,
+        "headingText": "\r\n<p>The epithelial surface is covered by a brightly eosinophilic layer of parakeratin in most cases, although orthokeratosis may be seen. There are marked architectural and cytological changes of dysplasia, characterized by a monotonous population of keratinocytes exhibiting basaloid morphology and a high N:C&nbsp;ratio. Some cases show pleomorphic cells, and koilocytes may be present superficially {28799537; 31902664; 28407985; 31617604}. Two types of cells are characteristic of the cytopathic effect of HPV: karyorrhectic cells with condensed coarse chromatin resembling cells in mitosis, with a pericellular halo resulting from a loss of attachment to adjacent cells; and apoptotic cells with dense eosinophilic cytoplasm that in the initial stages contains residual chromatin {28799537; 31902664}. There is a continuum between these two cell types. The specificity of karyorrhectic and apoptotic keratinocytes as a surrogate for HPVOED increases as the number of such cells increases {28407985; 30100997}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Although there is strong and diffuse nuclear and cytoplasmic positivity for p16 by immunohistochemistry, in a continuous band (block positivity) that is often sharply demarcated from the adjacent non-dysplastic epithelium, this feature is not yet validated for diagnosis in this setting {31617604}. Most studies indicate that positivity in &gt;&nbsp;50% of the epithelial thickness, excluding the keratin layer, suggests HPV-associated dysplasia; however, studies have not defined a threshold for p16 interpretation {31617604}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The combination of dysplasia, viral cytopathic changes, and the presence of high-risk HPV distinguishes HPVOED from conventional oral epithelial dysplasia, flat warts, and multifocal epithelial hyperplasia {23599160; 25749203}.</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 114056,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 587,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 114057,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 588,
+        "headingText": "\r\n<p>Strong and diffuse nuclear and cytoplasmic p16 immunohistochemical expression in the presence of oral epithelial dysplasia with viral cytopathic changes should be supported by testing for high-risk HPV by DNA or RNA in&nbsp;situ hybridization, or PCR {28407985; 28799537; 30100997; 31902664}. Standard consensus PCR alone, without a strong p16 reaction and supportive histopathological criteria, is insufficient for the diagnosis of HPVOED {32573035}.</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 114058,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em> epithelial dysplasia with prominent karyorrhectic/apoptotic cells; presence of high-risk HPV.</p>\r\n<p><em>Desirable:</em> strong p16 immunohistochemical expression exceeding half of the epithelial thickness, excluding keratin.</p>",
+        "timestamp": "2023-11-07T12:35:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 114059,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 589,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 114060,
+        "bookId": 52,
+        "chapterId": 101,
+        "headingId": 590,
+        "headingText": "\r\n<p>According to limited data, the development of invasive squamous cell carcinoma occurs in 5&ndash; 15% of cases {28799537; 28407985}. To date, there are no validated grading criteria to predict transformation. In the interim, it is recommended that HPVOED should be graded and managed similarly to conventional oral epithelial dysplasia, pending further evidence. In general, such HPVOEDs are amenable to surgical excision. The role of prophylactic vaccination in the management of HPVOED is unknown.</p>",
+        "timestamp": "2023-09-26T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

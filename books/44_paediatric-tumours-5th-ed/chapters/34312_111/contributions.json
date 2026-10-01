@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 104926,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 466,
+        "headingText": "\r\n<p>A CNS embryonal tumour with multilayered rosettes (ETMR) is an embryonal neoplasm conforming to one of three morphological patterns &ndash; embryonal tumour with abundant neuropil and true rosettes, ependymoblastoma, or medulloepithelioma &ndash; and typically having a C19MC alteration or (rarely) a <em>DICER1</em> mutation (CNS WHO grade&nbsp;4).</p>\r\n",
+        "timestamp": "2022-02-11T16:12:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 104927,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 467,
+        "headingText": "<p>9478/3 Embryonal tumour with multilayered rosettes</p>\r\n<p>9478/3 Embryonal tumour with multilayered rosettes, C19MC-altered</p>\r\n<p>9478/3 Embryonal tumour with multilayered rosettes, <em>DICER1</em>-mutated</p>",
+        "timestamp": "2023-02-23T11:46:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 104928,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A00.1Y &amp; XH0KZ2 Other specified embryonal tumours of brain &amp; Embryonal tumour with multilayered rosettes, NOS</p>\r\n<p>2A00.1Y &amp; XH51C5 Other specified embryonal tumours of brain &amp; Embryonal tumours with multilayered rosettes with C19MC alteration</p>\r\n",
+        "timestamp": "2022-02-11T16:12:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 104929,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> embryonal tumour with abundant neuropil and true rosettes (ETANTR); embryonal tumour with abundant neuropil and ependymoblastic rosettes (ETANER); ependymoblastoma; medulloepithelioma.</p>\r\n",
+        "timestamp": "2022-02-11T16:12:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 104930,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 470,
+        "headingText": "\r\n<p>Embryonal tumour with multilayered rosettes, C19MC-altered; embryonal tumour with multilayered rosettes, <em>DICER1</em>-mutated</p>\r\n",
+        "timestamp": "2022-02-11T16:12:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 104931,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 471,
+        "headingText": "\r\n<p>Most ETMRs are intracranial; examples in the spinal cord are rare. The most common site is the cerebral hemisphere, although 45% arise in non-hemispheric locations. Occasionally, ETMRs are very large, involving multiple cerebral lobes and even both hemispheres. Posterior fossa ETMRs occur in both cerebellum and brainstem, occasionally involving the cerebellopontine cistern {24839957; 24948504; 32601913}.</p>\r\n",
+        "timestamp": "2022-02-11T16:12:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 104932,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 472,
+        "headingText": "<p>ETMRs commonly produce symptoms and signs of raised intracranial pressure (e.g. headache, nausea, vomiting, and visual disturbances). A few patients present with epilepsy due to a small cortical tumour. Focal neurological signs are more common in older children and in patients with infratentorial tumours.</p>\r\n<h5>Imaging</h5>\r\n<p>The neuroimaging characteristics of ETMR vary; for example, large cerebral tumours frequently enhance, whereas smaller, cortical tumours may be non-enhancing. Tumours may contain cysts or calcification {24948504}. Radiologically, brainstem ETMRs may mimic diffuse midline glioma, although they tend to be more circumscribed.</p>\r\n<h5>Spread</h5>\r\n<p>Most tumours (75%) are localized at presentation, with the remainder showing a range of tumour dissemination (stage M2&ndash;M4). Rarely, ETMRs with extracranial invasive growth and extradural metastases have been reported {29177676}.</p>",
+        "timestamp": "2022-10-03T12:05:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 104933,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 473,
+        "headingText": "\r\n<p>The true incidence of ETMR is difficult to determine because of its rarity. In addition, before its defining genetic alteration was discovered, multiple diagnostic terms were used for its varied morphological features. With few exceptions, ETMRs affect children aged &lt;&nbsp;4&nbsp;years, the vast majority of cases occurring during the first 2&nbsp;years of life. In larger cohorts, the incidence seems to be equally balanced between male and female patients {32601913}.</p>\r\n",
+        "timestamp": "2022-02-11T16:12:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 104934,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 474,
+        "headingText": "\r\n<p>No genetic susceptibility for patients with C19MC-altered ETMRs has been reported. In contrast, almost all patients with <em>DICER1</em>-mutant ETMRs carry a pathogenic <em>DICER1</em> germline alteration, which should prompt genetic testing and counselling {31802000}. No other risk factors have been reported to date.</p>\r\n",
+        "timestamp": "2022-02-11T16:12:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 104935,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 475,
+        "headingText": "<h5>Cell of origin</h5>\r\n<p>Distinct histological patterns of ETMR share a molecular signature, which suggests that they have a common histogenesis. Single-cell RNA sequencing data have identified clusters of stem cell&ndash;like, oligodendrocyte precursor&ndash;like, and astrocyte-like tumour cell populations {31802000}.</p>\r\n<h5>Genetic profile</h5>\r\n<p>Approximately 90% of ETMRs harbour specific structural alterations of a microRNA cluster on chromosome&nbsp;19q13.42 (C19MC), including focal high-level amplification, fusion to <em>TTYH1</em>, and other rare rearrangements (e.g. fusion to <em>MYO9B</em> or <em>MIRLET7BHG</em>), all of which produce strong upregulation of this microRNA cluster as a driving event {24316981; 31802000}.</p>\r\n<p>Rare ETMRs (5%) have a <em>DICER1</em> mutation, and almost all of these are in the setting of a <em>DICER1</em> genetic tumour syndrome {30953130}. Typically, the germline mutation is associated with a second mutation in the (hotspot) RNase&nbsp;IIIb domain that is important for microRNA processing {32601913}. Other ETMRs without a C19MC alteration or <em>DICER1</em> mutation may be driven by amplification of the miR-17&ndash;92 microRNA cluster on chromosome&nbsp;13 {32601913}.</p>\r\n<p>Despite ETMR subtypes having different mechanisms for deregulating microRNA processing, microRNA expression profiles are nevertheless very similar across ETMRs. In a recent study, R loop&ndash;associated chromosomal instability was suggested as a key factor in ETMR pathogenesis {31802000}. Other recurrently mutated genes, such as <em>CTNNB1</em> (10%) and <em>TP53</em> (7%), are likely to play a role during ETMR development. Relapsed ETMRs can acquire additional copy-number aberrations (loss of 6q, gains of 1q or 17q) and increased polyploidy accompanied by chromosomal instability, and they show a large increase in somatic single-nucleotide variants {31802000}.</p>",
+        "timestamp": "2022-10-03T12:05:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 104936,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 482,
+        "headingText": "\r\n<p>ETMR is a grey to pink, well-circumscribed tumour, with areas of necrosis and haemorrhage and, sometimes, minute calcifications. Some tumours are cystic. Widespread leptomeningeal dissemination and extradural metastases are frequent in the terminal stage of disease.</p>\r\n",
+        "timestamp": "2022-02-11T16:12:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 104937,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 476,
+        "headingText": "<p>By definition, rosettes are a characteristic histological feature of ETMRs. They are multilayered structures consisting of embryonal cells in a pseudostratified neuroepithelium with a central round or slit-like lumen. The cells facing the lumen have a defined apical surface, with a prominent internal limiting membrane. The nuclei of the rosette-forming cells tend to be located away from the lumen towards the outer cell border. In most tumours, a defined outer membrane around the rosettes is absent. Mitotic figures are commonly observed in the embryonal cells of rosettes. ETMRs have three histological patterns: embryonal tumour with abundant neuropil and true rosettes, ependymoblastoma, and medulloepithelioma. On the basis of their molecular commonality, all three are now considered to constitute various points along a morphological spectrum of diverse differentiation within a single tumour entity, rather than distinct nosological tumour types {19120373; 24337497}.</p>\r\n<h5>Embryonal tumour with abundant neuropil and true rosettes</h5>\r\n<p>This pattern of ETMR shows a biphasic architecture featuring densely packed, small embryonal cells with round or polygonal nuclei and scant cytoplasm, as well as large, neuropil-like areas with sparse neoplastic neurocytic and ganglion cells {10890250; 18987548}. In some cases, the neuropil has a fascicular quality. Multilayered rosettes are often present among the embryonal cells, although in some cases they are observed in the otherwise paucicellular neuropil-like areas.</p>\r\n<h5>Ependymoblastoma</h5>\r\n<p>This pattern of ETMR features sheets of embryonal cells incorporating numerous multilayered rosettes, but it typically lacks a neuropil-like matrix and ganglion cell element.</p>\r\n<h5>Medulloepithelioma</h5>\r\n<p>This pattern of ETMR is characterized by papillary, tubular, or trabecular arrangements of neoplastic pseudostratified neuroepithelium with an external (PAS-positive) limiting membrane, resembling the primitive neural tube. On the luminal surface of these tubules, cilia and blepharoplasts are absent. In zones away from tubular and papillary structures, there are large sheets of embryonal cells. Rare tumours display epithelial, myeloid, osteoid, myoid, or other mesenchymal differentiation, or they contain melanin pigment {22103481; 19563506}.</p>\r\n<p>All morphological patterns of ETMR show abundant mitotic figures and apoptotic bodies, indicating a high rate of cell turnover. The Ki-67 proliferation index ranges from 20% to 80%. After therapy, some ETMRs show neuronal and glial differentiation, resembling a low-grade glioneuronal tumour {17332950; 24033491; 25697539}. During progression, other tumours show complete loss of recognizable ETMR patterns and instead resemble other embryonal neoplasms {22057788}.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>Most of the embryonal component of ETMR (the rosettes and tubular structures) is intensely immunoreactive for nestin and vimentin {10890250; 18987548}. Embryonal cells and rosettes may also show focal expression of cytokeratins (particularly in the medulloepithelioma pattern), EMA, and CD99, but they are usually negative for neuronal and glial markers. In contrast, the neuropil-like matrix is strongly immunopositive for synaptophysin, NFP, and NeuN. Immunoreactivity for GFAP highlights scattered cells resembling reactive astrocytes, but it may also be present in a few embryonal cells. ETMRs show strong and diffuse nuclear immunoreactivity for SMARCB1 (INI1) throughout all components. Strong and diffuse cytoplasmic immunoreactivity for LIN28A is found in ETMRs irrespective of their morphological pattern {24337497; 24839957}. However, LIN28A expression also occurs in some gliomas, atypical teratoid/rhabdoid tumours, germ cell tumours, teratomas, and some non-CNS neoplasms {24839957; 25638158}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Intraocular medulloepithelioma and sacrococcygeal ependymoblastoma share some histopathological features with CNS ETMR but harbour striking molecular differences and consequently deserve a separate nosological designation.</p>",
+        "timestamp": "2022-10-03T12:05:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 104938,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 477,
+        "headingText": "\r\n<p>Evaluation of tumour cell presence in cerebrospinal fluid cytology is required for staging.</p>\r\n",
+        "timestamp": "2022-02-11T16:12:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 104939,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 478,
+        "headingText": "\r\n<p>A limited range of recurrent molecular alterations is displayed by ETMRs. To date, structural variants of the C19MC microRNA cluster at 19q13.42 have been found only in ETMRs, occurring in approximately 90% of cases. These are usually focal amplifications, but fusions can also occur, generally with <em>TTYH1</em>. C19MC alterations can be detected by array-based copy-number profiling or interphase FISH. It should be borne in mind that the characteristic morphological features of ETMR, including rosettes, might not always be present in tissue submitted for histopathological examination. The combination of LIN28A immunoreactivity and C19MC alterations by interphase FISH can be helpful in this situation. However, although C19MC alterations are specific for ETMR, immunoreactivity for LIN28A is not.</p>\r\n<p>About half of the ETMRs without a C19MC alteration harbour <em>DICER1</em> mutations. These are generally compound heterozygous mutations, combining one somatic mutation (usually in exon&nbsp;24 or 25) and a second mutation in the patient&rsquo;s germline. Germline testing for a <em>DICER1</em> mutation should be undertaken in patients with an ETMR that lacks a C19MC alteration. Not all high-grade neuroepithelial tumours with a <em>DICER1</em> mutation are ETMRs; a <em>DICER1</em> mutation can be found in other embryonal tumours and gliomas. Rare ETMRs without a C19MC alteration or <em>DICER1</em> mutation should be classified as ETMR not elsewhere classified (NEC).</p>\r\n",
+        "timestamp": "2022-02-11T16:12:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 104940,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 481,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/44/111/22706\" target=\"_blank\">#22706</a>Box&nbsp;3.40 .</p>",
+        "timestamp": "2023-03-24T12:02:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 104941,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 479,
+        "headingText": "\r\n<p>Clinical staging procedures include MRI examinations of the CNS with contrast agent. This is complemented by lumbar puncture postoperative cerebrospinal fluid cytology. The postoperative staging system developed by Chang and others in 1969 {4983156}, which defines the following degrees of metastatic spread, is still being used:</p>\r\n<p>M0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No evidence of subarachnoid or haematogenous metastasis</p>\r\n<p>M1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microscopic tumour cells found in the cerebrospinal fluid</p>\r\n<p>M2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gross nodular seeding demonstrated in the cerebellar/cerebral subarachnoid space or in the third or lateral ventricles</p>\r\n<p>M3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gross nodular seeding in the spinal subarachnoid space</p>\r\n<p>M4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Metastasis outside the cerebrospinal axis</p>\r\n",
+        "timestamp": "2022-02-11T16:12:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 104942,
+        "bookId": 44,
+        "chapterId": 111,
+        "headingId": 480,
+        "headingText": "\r\n<p>ETMRs demonstrate rapid growth and are associated with an aggressive clinical course, with reported survival times averaging 12&nbsp;months after intensive combination therapies {18987548; 21308398; 24311633; 24337497; 26438544}. Few prognostic indicators have been reliably identified. Gross total resection, radiotherapy, and high-dose chemotherapy probably prolong overall survival {30582019}. Metastatic disease at presentation and brainstem tumours have been significantly associated with an adverse outcome. Patient survival does not differ significantly between the three morphological patterns of ETMR. From extremely rare cases with long-term survival, posttreatment neuronal differentiation has been proposed as a favourable indicator of outcome {17332950; 24033491; 25697539}.</p>",
+        "timestamp": "2022-02-11T16:12:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 64445,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 370,
+        "headingText": "\r\n<p>Ectopic prostate tissue includes epithelial elements resembling prostatic epithelium in the cervix.</p>\r\n",
+        "timestamp": "2020-04-28T15:05:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 64446,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 371,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-04-28T15:05:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 64447,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 372,
+        "headingText": "\r\n<p>GA15.Y Other specified acquired abnormalities of cervix uteri</p>\r\n",
+        "timestamp": "2020-04-28T15:05:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 64448,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 373,
+        "headingText": "<p><em>Not recommended:</em> tubulosquamous polyp</p>",
+        "timestamp": "2020-06-16T09:49:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 64449,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-04-28T15:05:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 64450,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 375,
+        "headingText": "\r\n<p>Ectopic prostate tissue occurs in the ectocervical stroma, sometimes reaching the transformation zone {10976696; 16434895; 21979599}.</p>\r\n",
+        "timestamp": "2020-04-28T15:05:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 64451,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 376,
+        "headingText": "<p>Patients are usually asymptomatic; rare cases present with vaginal bleeding and a visible lesion {16434895; 21979599; 10976696; 23722517}. Some cases occur in association with long-term testosterone therapy and other causes of increased androgens, such as adrenogenital syndrome {27571240; 32282346; 15084849}.</p>",
+        "timestamp": "2020-06-16T09:49:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 64452,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 377,
+        "headingText": "\r\n<p>Patient age ranges from 21 to 81&nbsp;years {16434895; 21979599}.</p>\r\n",
+        "timestamp": "2020-04-28T15:05:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 64453,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 378,
+        "headingText": "<p>Some cases represent a metaplastic process induced by increased androgens {27571240; 32282346}.</p>",
+        "timestamp": "2020-06-16T09:50:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 64454,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 379,
+        "headingText": "<p>Ectopic prostate tissue may be derived from misplaced Skene glands {21979599} or may represent an androgen-related metaplastic process {27571240; 32282346}.</p>",
+        "timestamp": "2020-06-16T09:51:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 64455,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 386,
+        "headingText": "\r\n<p>Ectopic prostate tissue is usually an incidental finding; a &le;&nbsp;3&nbsp;cm polyp/mass is rarely encountered.</p>\r\n",
+        "timestamp": "2020-04-28T15:05:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 64456,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 380,
+        "headingText": "<p>There is a proliferation of glands/tubules of variable size with a double layer of basal and luminal cells. The basal cells are flattened or cuboidal cells with scant cytoplasm, and the luminal cells are columnar cells with moderate amounts of clear, eosinophilic, or granular cytoplasm. Variable amounts of intraglandular squamous differentiation, micropapillary/cribriform patterns, hair follicle&ndash;like&nbsp;/ urethral-like formations, and sebaceous glands can be seen; the squamous elements often predominate. Immunohistochemically, the luminal cells are variably positive for PSA, PAP, AMACR, and NKX3-1, and the basal cell layer is p63-positive; the glandular and squamous elements are AR-positive {16434895; 27180063; 19700941}.</p>",
+        "timestamp": "2020-06-18T08:19:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 64457,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 381,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-04-28T15:05:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 64458,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-04-28T15:05:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 64459,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> presence of prostatic glandular elements.</p>\r\n<p><em>Desirable:</em> positivity for prostatic antigens; positivity for p63 in the basal cell layer.</p>\r\n",
+        "timestamp": "2020-04-28T15:05:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 64460,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 383,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-04-28T15:05:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 64461,
+        "bookId": 34,
+        "chapterId": 302,
+        "headingId": 384,
+        "headingText": "\r\n<p>This is a benign lesion {16434895; 10976696; 23722517}.</p>",
+        "timestamp": "2020-04-28T15:05:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

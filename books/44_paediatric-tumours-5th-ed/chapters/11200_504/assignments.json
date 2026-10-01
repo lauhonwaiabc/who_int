@@ -1,0 +1,62 @@
+[
+  {
+    "pkroleId": 129,
+    "bookId": "44",
+    "roleid": 131,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2559,
+        "lastname": "Wesseling",
+        "firstname": "Pieter",
+        "initials": "",
+        "email": "",
+        "roleid": 131,
+        "position": 0
+      },
+      {
+        "contributorid": 3532,
+        "lastname": "Brat",
+        "firstname": "Daniel J.",
+        "initials": "",
+        "email": "",
+        "roleid": 131,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 130,
+    "bookId": "44",
+    "roleid": 132,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2984,
+        "lastname": "Lopes",
+        "firstname": "Maria Beatriz S.",
+        "initials": "",
+        "email": "",
+        "roleid": 132,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 132,
+    "bookId": "44",
+    "roleid": 150,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2001,
+        "lastname": "Gill",
+        "firstname": "Anthony J.",
+        "initials": "AJ",
+        "email": "",
+        "roleid": 150,
+        "position": 0
+      }
+    ]
+  }
+]

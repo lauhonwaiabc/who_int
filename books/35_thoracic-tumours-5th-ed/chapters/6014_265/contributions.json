@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 68456,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 432,
+        "headingText": "\r\n<p>Choriocarcinoma of the mediastinum is a highly malignant trophoblastic neoplasm arising in the mediastinum, composed of syncytiotrophoblast, cytotrophoblast, and variably intermediate trophoblast.</p>\r\n",
+        "timestamp": "2020-10-05T09:24:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 68457,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 433,
+        "headingText": "<p>9100/3 Choriocarcinoma</p>",
+        "timestamp": "2021-02-12T16:57:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 68458,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 434,
+        "headingText": "\r\n<p>2C28.0 &amp; XH8PK7 Malignant germ cell neoplasms of heart, mediastinum or non-mesothelioma of pleura &amp; Choriocarcinoma, NOS</p>\r\n",
+        "timestamp": "2020-10-05T09:24:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 68459,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 435,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-10-05T09:24:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 68460,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-10-05T09:24:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 68461,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 437,
+        "headingText": "<p>Choriocarcinoma of the mediastinum occurs in the anterior (prevascular; majority) and posterior (paravertebral) mediastinum {9298876; 31930104}.</p>",
+        "timestamp": "2021-01-04T12:53:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 68462,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 438,
+        "headingText": "<p>Choriocarcinomas grow rapidly {13787562}, and early lung&nbsp;invasion is typical. Reported symptoms at presentation include shortness of breath, chest pain, cough, superior vena cava syndrome, syncopal episodes, persistent headache, and cardiac tamponade {9298876; 2433543; 3038295; 24156175}. Some patients present with gynaecomastia&nbsp;(see Fig. <a name=\"13930\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#13930</a>) {3449627} due to hCG production {9264351; 7689921; 4856444; 3449627; 24455559}. Some patients develop thyrotoxicosis due to TSH-like effects of hCG {945690; 3038295; 6682351}.</p>",
+        "timestamp": "2021-02-08T11:15:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 68463,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 439,
+        "headingText": "\r\n<p>Almost all reported cases of choriocarcinoma have occurred in adult male patients (age range: 17&ndash;63&nbsp;years) {7689921; 4856444; 3449627; 12518361; 9298876; 2433543; 24455559}. Only 3% of mediastinal germ cell tumours are pure choriocarcinomas {10504636; 2981374; 9264351; 9264353}; however, estimates are probably biased by the referral patterns of the reporting institutions. The crude estimated incidence of choriocarcinomas is 1&nbsp;case per 12&nbsp;million individuals per year {12518361}.</p>\r\n",
+        "timestamp": "2020-10-05T09:24:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 68464,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 440,
+        "headingText": "\r\n<p>For unknown reasons, choriocarcinoma, either pure or as part of a mixed germ cell tumour, tends to be particularly frequent in patients with Klinefelter syndrome {7469226; 1034031; 7193252; 571203; 3038295; 6682351}.</p>\r\n",
+        "timestamp": "2020-10-05T09:24:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 68465,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 441,
+        "headingText": "\r\n<p>An aberrant midline migration of primordial germ cells has been hypothesized {15426876; 17705807}. Mediastinal choriocarcinomas have been described to harbour an isochromosome&nbsp;12p characteristic of postpubertal malignant germ cell tumours at all sites {7910232}.</p>\r\n",
+        "timestamp": "2020-10-05T09:24:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 68466,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 448,
+        "headingText": "<p>Most tumours are large (average size: 100 mm), soft, friable, extensively haemorrhagic, and with foci of necrosis {9298876; 2433543}.</p>",
+        "timestamp": "2021-02-03T11:16:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 68467,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 442,
+        "headingText": "<p>Mediastinal choriocarcinoma can occur in a pure form or as part of a mixed germ cell tumour. Most choriocarcinomas occur as a component of mixed germ cell tumours. The histology is the same as&nbsp;that of its gonadal counterpart. Syncytiotrophoblasts and cytotrophoblasts are typically intermingled in a bilaminar plexiform pattern or in disordered sheets. Occasionally, scattered clusters of syncytiotrophoblasts cap cytotrophoblast nodules. Syncytiotrophoblasts are large multinucleated cells with numerous, pleomorphic, dark-staining nuclei; variably distinct nucleoli; and abundant densely eosinophilic or amphophilic cytoplasm (which may contain cytoplasmic lacunae). Cytotrophoblasts are uniform, polygonal cells with round nuclei, prominent nucleoli, and clear or eosinophilic cytoplasm. Atypical mitosis and cellular atypia are common. There can be sheets of nondescript mononuclear cells that resemble intermediate trophoblast. Choriocarcinomas are typically intimately associated with dilated vascular sinusoids. Partial or complete replacement of the walls of blood vessels is common. There are often vast areas of haemorrhage and necrosis {9298876; 2433543; 24455559}.</p>\r\n<p>Choriocarcinomas are positive for keratins, SALL4, and GATA3, and they are negative for OCT3/4, PLAP, AFP, CEA, CD30, and vimentin. The syncytiotrophoblastic cells express hCG {2433543; 24455559; 9670832}, glypican-3 (GPC3) {18628091}, and &alpha;-inhibin {9923923}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Sarcomatous carcinomas with giant cell features may mimic choriocarcinoma. However, in contrast to choriocarcinomas that consist of two cell populations of cytotrophoblasts and syncytiotrophoblasts, giant cell carcinomas show a continuum between smaller or medium-sized tumour cells and the larger giant cells.</p>",
+        "timestamp": "2021-02-08T11:17:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 68468,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 443,
+        "headingText": "\r\n<p>The cytology is characterized by abundant necrosis and haemorrhage. Clusters or isolated pleomorphic cells with large and often multiple nuclei and abundant eosinophilic cytoplasm are seen (syncytiotrophoblasts). Mononucleated cytotrophoblasts are rarely recognized and are composed of medium-sized cells with vacuolated, basophilic cytoplasm and eccentric nuclei {30262237; 28397369}.</p>\r\n",
+        "timestamp": "2020-10-05T09:24:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 68469,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 444,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-10-05T09:24:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 68470,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Atypical and proliferating syncytiotrophoblasts and cytotrophoblasts with dilated vascular sinusoids, often with areas of haemorrhage and necrosis</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>The immunohistochemical profile should show positivity for keratins, SALL4, and GATA3, as well as hCG in syncytiotrophoblasts</li>\r\n</ul>",
+        "timestamp": "2020-12-02T09:24:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 68471,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 445,
+        "headingText": "\r\n<p>There is currently no established staging system for mediastinal germ cell tumours. Most patients with choriocarcinoma present with infiltration of neighbouring organs (e.g. the great vessels, lung, and chest wall) and/or with intrathoracic and extrathoracic metastases {24455559; 9298876} into the lungs, liver, kidney, and spleen {9298876}, but also the brain, choroids, heart, adrenals, and bone {2981374; 22153647; 9298876; 4856444}.</p>\r\n",
+        "timestamp": "2020-10-05T09:24:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 68472,
+        "bookId": 35,
+        "chapterId": 265,
+        "headingId": 446,
+        "headingText": "\r\n<p>In most reported cases, patients died of disseminated disease shortly after diagnosis (average survival time: 1&ndash;2&nbsp;months) {9298876; 4856444; 9264353; 3449627; 24455559}. However, treatment with cisplatin-based chemotherapy may improve the outcome {12518361; 11919246; 7689921; 3038295; 24156175}.</p>",
+        "timestamp": "2020-10-05T09:24:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

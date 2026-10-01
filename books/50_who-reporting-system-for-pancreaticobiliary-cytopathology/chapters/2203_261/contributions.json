@@ -1,0 +1,142 @@
+[
+  {
+    "pkheadingid": 671,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Introduction",
+    "headingPosition": 1,
+    "headingid": 637,
+    "contributions": [
+      {
+        "pkcontributionId": 93987,
+        "bookId": 50,
+        "chapterId": 261,
+        "headingId": 637,
+        "headingText": "<p>Cytopathology samples from the pancreaticobiliary tree have been utilized to perform a variety of ancillary tests including ICC and molecular testing using next-generation sequencing (NGS) {12004358; 17019794; 27203738; 28970292}. Testing for germline mutations for hereditary cancer syndromes, tumour gene profiling including NGS for actionable somatic mutations, determinations of mismatch repair gene defects and <em>BRCA1</em> or <em>BRCA2</em> mutations are now rapidly emerging for any pancreatic ductal adenocarcinoma, as well as for bile duct cancers {32368150; 25896973; 31327440; 33406487}. Molecular profiling for these tumours includes, but is not limited to, gene fusions (<em>ALK</em>, <em>NRG1</em>, NTRK, <em>ROS1</em>) and mutations (<em>EGFR</em>, <em>BRAF</em>, <em>TP53</em>, <em>SMAD4</em>, <em>BRCA1</em>, <em>BRCA2</em>, <em>ERBB2</em> [<em>HER2</em>], <em>KRAS</em>, <em>PALB2</em>) that could lead to personalized therapies. Furthermore, molecular analysis has made a significant impact in the diagnosis of neoplastic cysts of the pancreas. Molecular tests on pancreatic cyst fluids (<em>KRAS</em>, <em>GNAS</em>, <em>CTNNB1</em>, <em>VHL</em>, <em>TP53</em>, <em>PIK3CA</em>, <em>PTEN</em>, <em>AKT1</em>) have not only helped differentiate various neoplastic pancreatic cysts but also demonstrated association with aggressive tumour behaviour {28970292; 31711852; 31509835; 19415731}. In addition, for neuroendocrine tumours (NETs) of the pancreas, performance of germline testing for inherited genetic syndromes may be indicated {33406487; 28199314}.</p>",
+        "timestamp": "2023-01-11T15:51:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 672,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Technical requirements",
+    "headingPosition": 2,
+    "headingid": 638,
+    "contributions": [
+      {
+        "pkcontributionId": 93988,
+        "bookId": 50,
+        "chapterId": 261,
+        "headingId": 638,
+        "headingText": "<p>Successful molecular testing of pancreaticobiliary samples is directly dependent on specimen adequacy and the number of tumour cells. Sequencing-based molecular testing has two input requirements, i.e. the amount of nucleic acid yield and the tumour fraction. A minimum amount of DNA/RNA is required to obtain a result and a minimum tumour to neoplastic (neoplastic nuclei) fraction is essential to detect a mutation in a background of wildtype signal {27333361; 28739858; 31206465}. When insufficient DNA/RNA occurs, no result is obtained and the result is &ldquo;uninformative&rdquo;, but an insufficient tumour to neoplastic (neoplastic nuclei) fraction can lead to a false negative or &ldquo;misinformative&rdquo; result (see <a style=\"cursor:pointer\" href=\"/attachment/50/261/23835\" target=\"_blank\">#23835</a>Table&nbsp;2.05) {30600323; 29494220}. Because of the low tumour fraction in many pancreatic cysts, the absence of genetic mutations is uninformative, but the detection of mutations may be diagnostic. For example, the simple detection of a <em>KRAS</em> mutation can take a biopsy from a &ldquo;Non-diagnostic&rdquo; or nonspecific cyst fluid interpretation to a diagnosis of a neoplastic mucinous cyst, which directly impacts patient management {26253016}.</p>\r\n<p>Rapid onsite evaluation (ROSE) is beneficial for improving the diagnostic yield of FNAB specimens of solid masses {15368316} (see <a style=\"cursor:pointer\" href=\"/attachment/50/261/23836\" target=\"_blank\">#23836</a>Box&nbsp;2.02). ROSE is not advised for cysts unless there is a solid component, because cyst fluid must be conserved for ancillary studies. Standardized protocols and optimization guidelines are mandatory. Specimen collection, fixation, processing, staining, storage conditions, tumour fraction enrichment, nucleic acid quality/quantity assessment, and quality assurance/control metrics are also crucial {28739858; 33119213}.</p>",
+        "timestamp": "2023-01-12T15:29:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 673,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Management of types of cytopathological specimens",
+    "headingPosition": 3,
+    "headingid": 639,
+    "contributions": [
+      {
+        "pkcontributionId": 93989,
+        "bookId": 50,
+        "chapterId": 261,
+        "headingId": 639,
+        "headingText": "\r\n<p>Nucleic acid (DNA/RNA) can be extracted from all routine cytopathological specimen preparations, including direct smears; cytospin preparations; liquid-based cytopathology preparations; and formalin-fixed, paraffin-embedded cell block preparations {29575423; 28609003; 29547001}. Cytopathological preparations that are air-dried for Giemsa and/or alcohol-fixed for Pap provide a superior source of DNA for molecular testing when compared with formalin-fixed, paraffin-embedded preparations {29024530; 25186473}. In pancreatic cyst fluids, molecular testing can be performed by extracting nucleic acid directly from fresh, unfixed cyst fluid {27647802; 28970292}. Collected cyst fluid can be used for cytopathology, biochemistry testing for CEA and amylase, and molecular testing. The supernatant fluid from centrifuged pancreaticobiliary cytopathology specimens can also be used for molecular testing {24265269; 22846349}.</p>\r\n<p>Morphological assessment of specimen adequacy is crucial for reliable molecular results. A cytopathological slide with an area of adequate tumour is selected for macrodissection or microdissection. The coverslip is removed and the selected cells on the slide are scraped or cell-lifted into buffer medium for nucleic acid extraction. Cell block sections are processed as per standard protocols for histopathological specimens using an H&amp;E-stained section as a guide for specimen adequacy and to extract cells from corresponding unstained sections. In cases where a single diagnostic cytopathological slide is available for molecular testing, whole slide image scanning and digital archiving of the slide for cytomorphological evidence of malignancy, before sacrificing the slide for molecular testing, can avoid medicolegal issues {28739858}.</p>\r\n",
+        "timestamp": "2022-11-29T17:23:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 674,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Fixation",
+    "headingPosition": 4,
+    "headingid": 640,
+    "contributions": [
+      {
+        "pkcontributionId": 93990,
+        "bookId": 50,
+        "chapterId": 261,
+        "headingId": 640,
+        "headingText": "\r\n<p>For pancreatic cysts, fresh, unfixed, and undiluted pancreatic cyst fluid is required for molecular analysis. Direct smears from solid lesions and biliary brushing can be alcohol-fixed or air-dried. Formalin fixation is recommended for cell blocks and small biopsies that are often used to supplement bile duct brushings. Fluid can be processed as a cytospin preparation. A dedicated pass for flow cytometry can be done if a lymphoproliferative lesion is suspected.</p>\r\n",
+        "timestamp": "2022-11-29T17:23:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 675,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Controls",
+    "headingPosition": 5,
+    "headingid": 641,
+    "contributions": [
+      {
+        "pkcontributionId": 93991,
+        "bookId": 50,
+        "chapterId": 261,
+        "headingId": 641,
+        "headingText": "\r\n<p>Several single-institution studies have shown that the quality of molecular assays on pancreaticobiliary cytopathological specimens is high {32340363; 27974679}. However, for NGS, multi-institutional studies are needed to exclude potential sources of inconsistent results due to differences in gene panels, target enrichment strategies, and platforms between institutions {29565213}. To this end, genetically engineered cell lines can be used to mimic actual clinical cytopathological samples in routine practice. However, genetically engineered cell lines have traditionally only been available as artificial formalin-fixed, paraffin-embedded histopathological sections or scrolls. The Molecular Cytopathology Meeting Group has developed molecular reference slides harbouring concurrent mutations in several genes at various allelic ratios, including low allele frequencies of 1%, to mimic actual smears {28475299; 31021538}. In multicentre international studies, all participating laboratories successfully detected the mutations in the study set, despite the use of different sequencing platforms. Therefore, quantitative molecular reference slides are a useful tool for monitoring the performance of different multigene mutation assays, and this could lead to better standardization of molecular cytopathology procedures.</p>\r\n",
+        "timestamp": "2022-11-29T17:23:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 676,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Procedures",
+    "headingPosition": 6,
+    "headingid": 642,
+    "contributions": [
+      {
+        "pkcontributionId": 93992,
+        "bookId": 50,
+        "chapterId": 261,
+        "headingId": 642,
+        "headingText": "\r\n<p>A variety of molecular testing methodologies can be used for interrogating pancreatic and biliary cytopathology specimens. These include methods ranging from single-gene-based mutation assays such as Sanger sequencing, pyrosequencing, and real-time PCR, to multiplexed array assays, to broad, expanded molecular profiling approaches such as NGS {22167000; 25393586; 26967456; 25513781; 29496399; 33686791; 28970292; 27647802}. In general, targeted assays have high analytical sensitivity but limited clinical sensitivity. Testing using an expanded NGS panel approach offers the advantage of simultaneously screening multiple genes for a variety of alterations including SNVs, indels, copy-number changes, gene fusions, tumour mutation burden, and microsatellite instability, depending on the design of the assay.</p>\r\n",
+        "timestamp": "2022-11-29T17:23:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 677,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Diagnostic applications",
+    "headingPosition": 7,
+    "headingid": 643,
+    "contributions": [
+      {
+        "pkcontributionId": 93993,
+        "bookId": 50,
+        "chapterId": 261,
+        "headingId": 643,
+        "headingText": "<p>Molecular biomarkers can be used for diagnostic, prognostic, and therapeutic purposes. These assays represent an adjunct to cytomorphology evaluation and have significant value in the preoperative diagnosis of pancreatic cystic lesions {27647802; 28970292}.</p>\r\n<p>The detection of <em>KRAS</em> or <em>GNAS</em> mutations from pancreatic cyst fluids is highly sensitive and specific for neoplastic mucinous cysts, with <em>GNAS</em> mutations being highly specific for intraductal papillary mucinous neoplasms.</p>\r\n<p>The overall diagnostic utility of molecular testing of solid lesions of the pancreas is limited, although the increasing use of broad, panel-based molecular profiling such as NGS may enable the analysis of mutations such as <em>TP53</em>, <em>SMAD4</em>, and <em>CDKN2A</em> to help in the diagnosis and prognostication of pancreatic ductal adenocarcinoma when cytopathology is indeterminate (see <a style=\"cursor:pointer\" href=\"/attachment/50/261/23837\" target=\"_blank\">#23837</a>Table&nbsp;2.06) {21775669; 22158988; 31678302; 32796935; 26253016; 26253305; 26709110; 27647802; 28970292; 31316009}.</p>\r\n<p>NGS of bile duct brushings and biopsies can detect genetic alterations such as <em>KRAS</em> mutations and improve the identification of a malignant bile duct stricture with a sensitivity and specificity as high as 74% and 100%, respectively {26596524; 30971436}. Moreover, the combination of NGS and cytopathological evaluation increases the sensitivity to 85% while maintaining a high specificity. Additionally, the detection of genomic alterations can triage patients with pancreaticobiliary neoplasms to specific therapeutic regimens, such as those associated with <em>ERBB2</em> amplification or tyrosine kinase gene fusions {28476735; 30971436; 31605106; 32203698}.</p>\r\n<p>For pancreatic neuroendocrine neoplasms (PanNENs), molecular testing can be both diagnostic and prognostic. The cytopathological distinction between WHO grade&nbsp;3 (G3) pancreatic neuroendocrine tumour (PanNET) and pancreatic neuroendocrine carcinoma (PanNEC) can be problematic. G3 PanNET harbours frequent alterations in <em>ATRX</em> and <em>DAXX</em>, whereas PanNEC often has <em>TP53</em> and <em>RB1</em> mutations {21252315; 22251937; 26482044}. Molecular testing can aid in the discrimination of these two neoplasms, which is imperative when considering the differences in treatment and prognosis. Moreover, for G1 and G2 PanNETs, <em>ATRX</em> and <em>DAXX</em> alterations are prognostic biomarkers for recurrence and metastasis and are independent of histopathological grade, including Ki-67 {24148618; 27407094; 27663587; 29486199}.</p>",
+        "timestamp": "2023-01-12T15:30:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

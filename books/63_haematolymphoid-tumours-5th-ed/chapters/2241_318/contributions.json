@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 118707,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Acute myeloid leukaemia (AML) with <em>NPM1</em> mutation is a myeloid neoplasm characterized by the presence of somatic mutations involving the nucleophosmin&nbsp;1 gene (<em>NPM1</em>).</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 118708,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9877/3 Acute myeloid leukaemia with <em>NPM1</em> mutation</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 118709,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A60.0 &amp; XH74W8 Acute myeloid leukaemia with recurrent genetic abnormalities &amp; Acute myeloid leukaemia with mutated <em>NPM1</em></p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 118710,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Not recommended:</em> myelodysplastic neoplasm with <em>NPM1</em> mutation; myelodysplastic/myeloproliferative neoplasm with <em>NPM1</em> mutation.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 118711,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 118712,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>The blood and bone marrow are nearly always involved. Some patients may present initially with myeloid sarcoma involving the skin, gingiva, lymph nodes, or other extramedullary sites {16051734; 17443224}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 118713,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Anaemia and thrombocytopenia are common, typically associated with a high white blood cell count. The platelet count may be higher than that typically seen in other AML types {16051734; 16455956}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 118714,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>Nearly one&nbsp;third of adult patients with AML have <em>NPM1</em> mutation. The peak incidence is in middle age, and there is a female predominance. Most patients have a normal karyotype {15659725; 16051734; 16455956; 17008539}. The incidence decreases with advanced age, but AML with <em>NPM1</em> mutation still accounts for about 20% of AML cases in patients aged &gt;&nbsp;70&nbsp;years {29090343}. Approximately 6&ndash;8% of paediatric patients with AML have <em>NPM1</em> mutation {15870172; 17440048; 17597811; 20979630}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 118715,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>Although <em>NPM1</em> mutations are not typically detected in individuals with clonal haematopoiesis, emerging data suggest that AML with <em>NPM1</em> mutation develops from a background of clonal haematopoiesis in most cases {24522528; 30568172; 30692594}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 118716,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 710,
+        "headingText": "\r\n\r\n<p><em>NPM1</em> encodes a multifunctional nucleolar protein with chaperone and shuttling features. The mutation is typically characterized by a 4&nbsp;bp insertion in exon&nbsp;12 of the gene {23436734}. Wildtype <em>NPM1</em> resides predominantly in the nucleolus, with domains allowing its cytoplasmic, nucleoplasmic, and nucleolar localization. It is involved in several key cellular functions including ribosome biogenesis, maintenance of genomic stability, stress response, growth suppression, and response to apoptotic stimuli {28111462}. The protein may be exported to the cytoplasm to perform select functions under specific biological conditions, mediated by binding of CRM1 to nuclear export signal (NES) motifs.</p>\r\n<p><em>NPM1</em> mutations result in the creation of a new NES motif and loss of the tryptophan residue at codon&nbsp;288 or&nbsp;290, leading to aberrant localization of mutant NPM1 to the cytoplasm resulting from loss of the nucleolar localization signal and addition of a nuclear export signal {16041368; 16455950; 16720834}. Cytoplasmic localization of mutant NPM1 is thought to be critical for its role in leukaemogenesis. However, the exact mechanisms by which mutant <em>NPM1</em> drives leukaemogenesis have yet to be determined {16041368; 28111462}. Pathogenetic mechanisms include interaction with chromatin-bound <em>XPO1</em> at HOX loci to facilitate their expression {30205049}, and binding and exporting several nuclear proteins (including tumour suppressors and transcription factors) to the cytoplasm, probably inhibiting their normal functions {17616680}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 118717,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 118718,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 711,
+        "headingText": "<p>Most cases are characterized by markedly hypercellular bone marrow. Myelomonocytic or monocytic differentiation is common {15659725; 17008539}; however, morphological features vary widely, and in some cases blasts may show less maturation. Multilineage dysplasia is observed in 20&ndash;25% of cases {19429869; 20203266; 21183700}.</p>\r\n<p>Blasts with cup-like nuclear morphology are strongly associated with the presence of <em>NPM1</em> and <em>FLT3</em>&nbsp;ITD mutations {19672946}. Identification of this finding in &gt;&nbsp;10% of blasts is highly specific for AML with <em>NPM1</em> mutation {20855646}.</p>\r\n<p>Cytochemistry stains demonstrate the presence of myeloperoxidase in blasts in the majority of cases. In cases with monocytic differentiation, butyrate esterase will be reactive in the monocytic component.</p>\r\n\r\n<h5>Immunophenotype</h5>\r\n\r\n<p>The detection of cytoplasmic NPM1 by immunohistochemistry is a surrogate marker of <em>NPM1</em> mutation {33171486}, including rare mutations occurring outside exon&nbsp;12 {20378574; 34343258}. Mutant NPM1 may be present in various lineages, including myeloid, monocytic, erythroid, and megakaryocytic {16926285}.</p>\r\n<p>The immunophenotype is variable, but about 80% of cases have an absence of CD34 expression {20542566; 33618432}. CD33, KIT (CD117), and CD123 expression is common, whereas CD13 is usually low. Immunophenotypic categories include cases with a predominance of immature myeloid blasts (CD34+, KIT&nbsp;[CD117]+; or CD34&minus;, KIT&nbsp;[CD117]+, HLA-DR+), cases with acute promyelocytic leukaemia-like features (CD34&minus;, HLA-DR&minus;, KIT&nbsp;[CD117]+, myeloperoxidase+), and cases with a predominance of myelomonocytic or monocytic differentiation (CD14+, CD36+, CD64+) {23601747; 33618432; 20542566; 29274134}. A small population with the immunophenotype of leukaemic stem cells (CD34+, CD38&minus;, CD123+) is detectable by flow cytometry in most cases {20634376}.</p>\r\n<p>Immunophenotypically abnormal CD34+ myeloid progenitors may persist after molecular remission of the <em>NPM1</em>-mutant clone, and they appear to be associated with persistent clonal haematopoiesis. The persistence of these cells does not correlate with relapse-free survival and should not be interpreted as measurable residual AML by flow cytometry immunophenotyping {33618432}.</p>\r\n\r\n<h5>Differential diagnosis</h5>\r\n\r\n<p>The broad morphological spectrum of AML with <em>NPM1</em> mutation may overlap with a variety of myeloid neoplasms. The presence of dysplasia results in morphological overlap with myelodysplasia-related AML and with several AML types with defining genetic abnormalities.</p>\r\n<p>Recent data suggest that the presence of <em>NPM1</em> mutation is an AML-defining event on biological and clinical grounds; therefore, rare cases with features of myelodysplastic neoplasms (MDSs) or myelodysplastic/myeloproliferative neoplasms, particularly chronic myelomonocytic leukaemia, should be regarded as AML with <em>NPM1</em> mutation when such mutation is detected at presentation {16678898; 28707414; 30902805; 31085507; 33255988}. Although the presence of an <em>NPM1</em> variant is considered an AML-defining event irrespective of bone marrow blast count, data on the clinical significance and outcome of rare cases of myeloid neoplasms harbouring <em>NPM1</em> variants with a very low variant allele frequency (VAF; &lt;&nbsp;10%) and no increase in bone marrow or peripheral blood blasts are lacking, and for the time being, these cases should be interpreted with caution, because definitive classification as AML may not be possible in such cases.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-01T12:36:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 118719,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>See above.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 118720,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 713,
+        "headingText": "<p><em>NPM1</em> mutations are invariably heterozygous and primarily restricted to exon&nbsp;12 (&lt;&nbsp;1% involving other exons) {32609823}. Leukaemic cells have a normal karyotype in about 85% of cases {15659725; 19429869}. When present, chromosomal abnormalities often include gains of chromosomes&nbsp;8 and&nbsp;4 and del(9q) {16455956; 19429869}.</p>\r\n<p>The most frequent concurrent mutations involve <em>FLT3</em> and RAS pathway signalling (<em>KRAS</em>, <em>NRAS</em>, <em>PTPN11</em>), epigenetic regulators (<em>DNMT3A</em>, <em>TET2</em>, <em>IDH1</em>/<em>IDH2</em>), and the cohesin complex (<em>STAG2</em>) {15659725; 23634996; 33618432}. <em>TET2</em>&nbsp;and <em>SRSF2</em> mutations are more commonly co-mutated in elderly patients {33711909}. Although <em>NPM1</em> mutation is a class-defining lesion, it is frequently a later event in leukaemogenesis, commonly secondary to mutations in epigenetic modifiers {23704090; 24550281; 24522528; 33087716; 33116311}. Therefore, the latter mutations may persist after remission of the <em>NPM1</em>-mutant leukaemic clone {34376804}.</p>\r\n<p>Monitoring of measurable residual disease by sensitive molecular techniques for the detection of mutant <em>NPM1</em> provides helpful information to guide therapeutic decisions {21555683; 34376804; 34724563}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T15:34:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 118721,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> a myeloid neoplasm with increased peripheral blood and/or bone marrow blasts (may be &lt;&nbsp;20%); detection of <em>NPM1</em> mutation; no history of exposure to cytotoxic therapy.</p>\r\n<p><em>Desirable:</em> detection of cytoplasmic <em>NPM1</em> by immunohistochemistry.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 118722,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:36:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 118723,
+        "bookId": 63,
+        "chapterId": 318,
+        "headingId": 715,
+        "headingText": "<p>According to the European LeukemiaNet (ELN) prognostication scheme, determining the mutation status of <em>NPM1</em>&nbsp;(together with <em>FLT3</em>) is mandatory for accurate risk stratification of AML. AML with mutated <em>NPM1</em> typically shows a good response to induction therapy {27895058; 15659725}. Hypomethylating agents combined with venetoclax have shown better results than traditional standard-of-care regimens in older patients with <em>NPM1</em>-mutated AML {32251497}. Higher <em>NPM1</em> mutant transcript levels after induction and consolidation therapy are associated with an increased risk of relapse and death {21555683; 29601269; 26789727}.</p>\r\n<p>Although rare, the detection of <em>NPM1</em> mutation in a patient with MDS with low blasts might warrant close follow-up to exclude the possibility of a subclonal variant. Furthermore, in patients with MDS with <em>NPM1</em> mutation, relapses without mutant <em>NPM1</em> have been described after chemotherapy, showing the subclonal nature of the <em>NPM1</em> mutation {27509126; 28690314}.</p>\r\n<p>The prognosis of <em>NPM1</em>-mutated AML is influenced by other co-occurring mutations. Cases with a normal karyotype, in the absence of <em>FLT3</em> internal tandem duplication (ITD) mutation, have a characteristically favourable prognosis {16455956; 16109776}. <em>NPM1</em>-mutated AML without <em>FLT3</em>&nbsp;ITD or with <em>FLT3</em>&nbsp;ITD-low (mutant allele ratio: &lt;&nbsp;0.5) are classified as favourable risk, whereas <em>NPM1</em>-mutated AML with <em>FLT3</em>&nbsp;ITD-high (mutant allele ratio: &gt;&nbsp;0.5) is regarded as intermediate risk, according to the ELN risk-stratification scheme {27895058}. Morphological dysplasia in the setting of <em>NPM1</em> mutation does not appear to affect prognosis {19429869; 20203266; 21183700}. Myelodysplasia-related AML&ndash;defining mutations involving chromatin modifiers and the splicing complex are rare in AML with <em>NPM1</em> mutation and may have a negative prognostic impact {27276561}.</p>\r\n<p>Younger patients with a normal karyotype and no <em>FLT3</em>&nbsp;ITD have a prognosis comparable to that of patients with core-binding factor (CBF) AML. At least in younger adult patients, the coexistence of <em>FLT3</em>&nbsp;ITD mutations, particularly in cases with a high VAF, is associated with a poorer prognosis, but these patients still appear to have a better prognosis than those with AML with <em>FLT3</em>&nbsp;ITD and wildtype <em>NPM1</em>, especially when the VAF of <em>FLT3</em>&nbsp;ITD is low {17957027; 23377436; 25270908; 28644114; 31826241; 33171486}. The negative prognostic impact of a concomitant <em>FLT3</em>&nbsp;ITD mutation in older patients with AML with mutated <em>NPM1</em> is less clear {20026798}. Co-occurrence of <em>NPM1</em>, <em>FLT3</em>&nbsp;ITD, and <em>DNMT3A</em> mutations has been associated with a particularly poor outcome {25281355; 31977039; 34376804}. Patients with <em>NPM1</em> and <em>NRAS</em> mutation {27276561} or <em>NPM1</em> and <em>FLT3</em> tyrosine kinase domain (TKD) double-mutated AML {29296796} have a relatively good prognosis. The presence of concurrent <em>WT1</em> mutations appears to be associated with a poor outcome {32461631}. Adverse-risk cytogenetic abnormalities confer a poor prognosis in the setting of <em>NPM1</em>-mutated/FLT3-wildtype (or <em>FLT3</em>&nbsp;ITD-low) genotype {31430225}.</p>",
+        "timestamp": "2024-03-21T15:35:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

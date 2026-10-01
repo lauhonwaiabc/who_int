@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1070,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1086,
+    "contributions": [
+      {
+        "pkcontributionId": 152010,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1086,
+        "headingText": "\r\n<p>Primary endometrial squamous cell carcinoma (PESCC) is an endometrial carcinoma showing exclusively squamous differentiation without an endometrioid component.</p>\r\n<p>Endometrial gastric (gastrointestinal)&ndash;type carcinoma (EmGA) is an endometrial carcinoma with gastric/gastrointestinal differentiation and without a conventional endometrioid component.</p>\r\n<p>Endometrial carcinoma with somatically derived germ cell&nbsp;/ trophoblastic component is an endometrial carcinoma showing yolk sac tumour&ndash;like or choriocarcinoma&nbsp;/ trophoblastic tumour&ndash;like components of somatic origin.</p>\r\n<p>Neuroendocrine carcinoma of the endometrium is an endometrial carcinoma with neuroendocrine differentiation, displaying features of small cell neuroendocrine carcinoma.</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1071,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1087,
+    "contributions": [
+      {
+        "pkcontributionId": 152011,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1087,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1072,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1088,
+    "contributions": [
+      {
+        "pkcontributionId": 152012,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1088,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1073,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1089,
+    "contributions": [
+      {
+        "pkcontributionId": 152013,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1089,
+        "headingText": "\r\n<p><em>Acceptable:</em> endometrial gastric-type adenocarcinoma (for EmGA); mixed M&uuml;llerian&ndash;germ cell&nbsp;/ trophoblastic tumours (for endometrial carcinoma with somatically derived germ cell / trophoblastic component); high-grade neuroendocrine carcinoma (for neuroendocrine carcinoma of the endometrium).</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1074,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1090,
+    "contributions": [
+      {
+        "pkcontributionId": 152014,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1090,
+        "headingText": "\r\n<p>For endometrial carcinoma with somatically derived germ cell/trophoblastic component: endometrial carcinoma with somatically derived yolk sac tumour (XXXXX/3), endometrial carcinoma with somatically derived choriocarcinoma (XXXXX/3)</p>\r\n<p>For neuroendocrine carcinoma of the endometrium: small cell neuroendocrine carcinoma (XXXXX/3), mixed neuroendocrine and non-neuroendocrine neoplasm / carcinoma admixed with neuroendocrine carcinoma (XXXXX/3).</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1075,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1091,
+    "contributions": [
+      {
+        "pkcontributionId": 152015,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1091,
+        "headingText": "\r\n<p>Uterus</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1076,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1092,
+    "contributions": [
+      {
+        "pkcontributionId": 152016,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1092,
+        "headingText": "\r\n<p>Patients with PESCC may have a history of uterine prolapse, pelvic irradiation, or cervical stenosis, which could predispose to ichthyosis uteri or pyometra {8626118}. Presentation with vaginal discharge is reported in both PESCC and EmGA, described as watery/mucoid in the latter {8626118; 38477341}. In endometrial carcinoma with somatically derived germ cell&nbsp;/ trophoblastic component, there may be elevated serum AFP or &beta;-hCG {27334714; 32404953}. Neuroendocrine carcinomas of the endometrium rarely present with paraneoplastic syndromes, including Cushing syndrome and paraneoplastic retinopathy {9887249; 16112716; 19834252}.</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1077,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1093,
+    "contributions": [
+      {
+        "pkcontributionId": 152017,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1093,
+        "headingText": "\r\n<p>PESCC constitutes &lt;&nbsp;1% of all endometrial tumours in case series and usually affects postmenopausal women, with the reported mean age ranging from 66&nbsp;to 78&nbsp;years {8626118; 24071873; 36069815}.</p>\r\n<p>EmGA is rare and occurs over a wide age range but mostly affects postmenopausal women {31567280; 38477341}. In the largest reported series, the mean age was 67&nbsp;years (range: 42&ndash;87&nbsp;years) {40066786}.</p>\r\n<p>Endometrial carcinoma with somatically derived germ cell&nbsp;/ trophoblastic component is rare, comprising &le;&nbsp;1% of endometrial carcinomas in case series, and usually affects postmenopausal women {38651612; 32404953; 32558949}.</p>\r\n<p>Neuroendocrine carcinoma of the endometrium is rare {31519319}. The median age at presentation was 57&nbsp;years (range: 37&ndash;87&nbsp;years) in the largest reported series {26945341}.</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1078,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1094,
+    "contributions": [
+      {
+        "pkcontributionId": 152018,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1094,
+        "headingText": "\r\n<p>PESCCs may be associated with longstanding pyometra, nulliparity, and ichthyosis uteri {8626118; 24071873}. HPV is negative in the vast majority of PESCCs. It is uncertain whether isolated reported cases of HPV-associated PESCC represent cervical squamous cell carcinoma with extensive endometrial involvement {9103411; 16844559; 24071873; 36069815}.</p>\r\n<p>EmGA has no known etiological factor.</p>\r\n<p>There is no established etiological factor for endometrial carcinomas with germ cell&nbsp;/ trophoblastic component and neuroendocrine carcinomas of the endometrium.</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1079,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1095,
+    "contributions": [
+      {
+        "pkcontributionId": 152019,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1095,
+        "headingText": "\r\n<p>PESCC in a limited series was found to have pathogenic variants in <em>TP53 </em>and <em>CDKN2A</em> {36069815}.</p>\r\n<p>EmGAs commonly show pathogenic variants in <em>TP53</em>, while some cases may have pathogenic variants in <em>KRAS</em>, <em>PIK3CA</em>, <em>BRCA2</em>, <em>SMAD4</em>, and <em>POLE</em> {40066786}. Based on The Cancer Genome Atlas (TCGA) classification, EmGAs are most often designated as p53-abnormal, while a minority of cases belong to the remaining three molecular groups (no specific molecular profile (NSMP), mismatch repair&ndash;deficient, and <em>POLE</em>-mutated) {40066786}.</p>\r\n<p>Genomic analyses of endometrial carcinomas with somatically derived germ cell&nbsp;/ trophoblastic tumour components have demonstrated shared mutational profiles between the yolk sac tumour&nbsp;/ choriocarcinoma and M&uuml;llerian-type carcinoma elements, supporting their somatic origin {32404953; 32558949}. Isochromosome&nbsp;12p was demonstrated in some endometrial carcinomas with somatically derived choriocarcinoma {32404953}.</p>\r\n<p>Neuroendocrine carcinomas of the endometrium commonly harbour pathogenic variants in <em>PIK3CA</em>, <em>PTEN</em>, <em>ARID1A</em>, <em>TP53</em>, and <em>RB1, </em>with a molecular profile more closely aligned with conventional endometrial than canonical small cell neuroendocrine carcinoma {32773531; 34015161}. All four TCGA molecular groups are represented in these tumours {32773531}. Mismatch repair deficiency by immunohistochemistry was demonstrated in 8&nbsp;of 18&nbsp;cases (44%) in the largest reported series {26945341}. There is no association with high-risk HPV by in&nbsp;situ hybridization {26945341}. In mixed neuroendocrine and non-neuroendocrine neoplasms, shared molecular alterations between the two components indicate clonality, suggesting that the neuroendocrine component derives from the non-neuroendocrine carcinoma {32773531; 34015161}.</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1086,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1102,
+    "contributions": [
+      {
+        "pkcontributionId": 152020,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1102,
+        "headingText": "\r\n<p>PESCCs are often large, with macroscopically evident myoinvasion; purulent or whitish friable material may be seen in the endometrial cavity {8626118; 24071873; 36069815}.</p>\r\n<p>EmGA may exhibit an overtly mucoid cut surface {38477341} and often has a polypoid/exophytic appearance {40066786}.</p>\r\n<p>Endometrial carcinoma with germ cell&nbsp;/ trophoblastic component and neuroendocrine carcinoma of the endometrium exhibit no distinctive macroscopic features.</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1080,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1096,
+    "contributions": [
+      {
+        "pkcontributionId": 152021,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1096,
+        "headingText": "\r\n<p>PESCCs commonly exhibit infiltrating nests of squamous cells with variable degrees of nuclear atypia and keratinization, with morphological patterns including well-differentiated and deceptively bland squamous epithelium with a pushing border, papillary structures, or scattered single cells {8626118; 36069815}. Squamous metaplasia may be present in the adjacent endometrium (designated as ichthyosis uteri if extensive). Extensive tumour sampling is mandatory to exclude any endometrioid glandular element, which would support a diagnosis of endometrioid carcinoma with extensive squamous differentiation {36069815}. Immunohistochemically, these tumours often show mutation-type p53 expression, and they are usually negative for p16, ER, and PR {24071873; 36069815}. Involvement of the cervix is possible with PESCC, but a diagnosis of primary cervical squamous cell carcinoma should be made if the tumour is HPV associated and shows cervical mucosal involvement (irrespective of the extent of endomyometrial involvement). HPV-associated squamous cell carcinoma of the endometrium is extremely rare {9103411; 16844559; 36069815}, and this diagnosis should only be considered if the carcinoma cells are diffusely positive for p16, with molecular confirmation for HPV, and there is no evidence of HSIL or carcinoma in the cervix upon complete histological sampling {36069815}.</p>\r\n<p>EmGAs are typically composed of glands formed by columnar cells with abundant pale eosinophilic or clear mucinous cytoplasm and distinct cell borders, which may contain goblet cells or Paneth cells {20055951; 31567280; 40066786}. There may be significant morphological heterogeneity, including deceptively bland irregular glands invading with minimal desmoplasia, invasion with pseudomyxoma-type mucin pools, mucin-poor pseudoendometrioid or serous-like appearance, or prominent signet-ring cells {20055951; 26535979; 40066786}. Nuclei may have mild to severe atypia. Endometrioid glands with typical morphological and immunohistochemical features should be absent; such features should raise the possibility of endometrioid carcinoma with mucinous differentiation. By definition, the tumour cells should be at least focally positive for one or more immunohistochemical markers of gastrointestinal differentiation, such as CDX2, CK20, claudin-18, MUC6, and SATB2, and they should be negative or focally positive (&lt;&nbsp;5% of cells) for ER {31567280; 40066786}. The expression of these gastrointestinal markers is variable across individual cases and by itself not pathognomonic of this entity. These tumours are typically positive for CK7 and negative for PR, and PAX8 expression is seen in a majority {40066786}. p16 expression may be negative, focal, or diffuse, while p53 expression may be mutation type or wild type {40066786}. Mismatch repair deficiency with loss of MLH1 and PMS2 has been reported in some cases, and ERBB2 overexpression/amplification may be seen in a minority {40066786}. A component of gastric-type mucinous metaplasia with no or minimal nuclear atypia (often with a lobular arrangement resembling lobular endocervical glandular hyperplasia) may be present in a subset of cases, and is the postulated precursor lesion of EmGA {31567280; 38477341; 40066786}. Atypical mucinous proliferation of gastric-type may be diagnosed in a gastric-type glandular lesion in which there is cytological atypia or significant architectural complexity falling short of adenocarcinoma {31567280; 38477341}. In excision specimens, extensive sampling of the endometrium, cervix, fallopian tubes, and ovaries is recommended in view of the possibility of synchronous/multifocal gastric-type mucinous lesions {19207943; 38477341}.</p>\r\n<p>Endometrial carcinomas with germ cell&nbsp;/ trophoblastic component commonly show an admixture of germ cell&nbsp;/ trophoblastic tumour elements and a conventional type of endometrial carcinoma (endometrioid, serous, clear cell, and carcinosarcoma have been implicated), but some cases may display pure germ cell&nbsp;/ trophoblastic tumour morphology {31375771; 32558949; 38651612}. Cases exhibiting somatically derived yolk sac tumour components are better recognized than other types of germ cell&nbsp;/ trophoblastic tumours (such as choriocarcinoma or, rarely, epithelioid trophoblastic tumour), although a high index of suspicion may be required to diagnose the yolk sac tumour component, as it often exhibits glandular features that overlap morphologically with adenocarcinoma {27334714; 31010836; 31375771; 32404953; 32558949; 38651612}. Histological features suggestive of a yolk sac tumour component include glands with subnuclear vacuoles and primitive-appearing nuclei, cytoplasmic clearing, reticular growth with myxoid stroma, Schiller&ndash;Duval bodies, hyaline globules, and hepatoid appearance {27334714; 31375771; 38651612}. Immunohistochemical expression of AFP, glypican-3, and SALL4 is typically present in somatically derived yolk sac tumour (usually with at least one of these markers positive in &gt;&nbsp;70% of tumour cells) {38651612}. The expression of these markers by itself is not diagnostic of this entity, as they may be positive in endometrial carcinomas of other histotypes {31375771; 38651612}. The yolk sac tumour components may show variable expression of epithelial markers (including EMA and CK7) and gastrointestinal markers (such as CDX2 and villin), while ER, PR, and PAX8 are usually negative {31375771; 38651612}. Somatically derived choriocarcinoma components typically show an admixture of cytotrophoblast-like and syncytiotrophoblast-like tumour cells, which are typically positive for hCG and other trophoblastic markers {32404953; 32558949}. PDL1 expression has been documented in the choriocarcinoma components of these tumours {31010836}.</p>\r\n<p>Neuroendocrine carcinomas of the endometrium are characterized by morphological features identical to those of small cell neuroendocrine carcinomas of other organs. Although some cases exist as pure neuroendocrine carcinomas, an admixed component of a conventional endometrial carcinoma (endometrioid, serous, clear cell, or carcinosarcoma) is commonly present {26945341; 32773531; 34015161}. Small cell neuroendocrine carcinomas are composed of cells with scant cytoplasm, hyperchromatic nuclei with stippled (salt-and-pepper) chromatin, and nuclear moulding, usually with a diffuse architecture, while nests and cords may sometimes be present {26945341; 32773531}. Brisk mitotic activity and tumour necrosis are usually present. Immunohistochemical expression of neuroendocrine marker(s) (synaptophysin, chromogranin, or INSM1) in at least 10% of tumour cells is required for diagnosis. Synaptophysin has higher diagnostic sensitivity than chromogranin and INSM1, while INSM1 has the highest specificity for neuroendocrine carcinomas in the female genital tract {33264139; 33323849; 35394077}. CD56 is considered nonspecific {31040050; 32773531; 33264139}. Large cell neuroendocrine carcinomas are extremely rare. It should be noted that significant expression of neuroendocrine markers can be present in other endometrial carcinomas such as undifferentiated/dedifferentiated carcinoma {35394077} and pilomatrix-like high-grade endometrioid carcinoma {33811207}; a diagnosis of neuroendocrine carcinoma should be made only when the morphological and other immunohistochemical features are compatible with this diagnosis. Most neuroendocrine carcinomas are positive for broad-spectrum and low&ndash;molecular weight cytokeratins (some small cell neuroendocrine carcinomas may be negative), while a subset of cases may show expression of PAX8, KIT (CD117), and TTF1 {26945341}. Expression of p16 is present in most cases, and is usually patchy but occasionally diffuse {26945341}. p53 expression may be mutation type or wild type {35394077}. Loss of mismatch repair protein expression is observed in a significant subset of cases {26945341; 32773531}. Expression of SWI/SNF complex proteins (ARID1A, ARID1B, SMARCA4, SMARCB1) is mostly preserved, with one reported case of isolated ARID1A loss {35394077}. Loss of RB1 expression may be seen {32773531}.</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1081,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1097,
+    "contributions": [
+      {
+        "pkcontributionId": 152022,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1097,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1082,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1098,
+    "contributions": [
+      {
+        "pkcontributionId": 152023,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1098,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1085,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1101,
+    "contributions": [
+      {
+        "pkcontributionId": 152024,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1101,
+        "headingText": "\r\n<h5>PESCC</h5>\r\n<p><em>Essential:</em> proliferation of squamous cells in the endometrium with cytological and/or architectural atypia; absence of glandular differentiation; absence of HPV-associated squamous cell carcinoma or high-grade squamous intraepithelial lesion in the cervix upon complete histological sampling.</p>\r\n<h5>EmGA</h5>\r\n<p><em>Essential:</em> glandular proliferation in the endometrium displaying gastric-type (voluminous, pale eosinophilic, or clear cytoplasm with distinct cell borders) and/or intestinal-type (goblet cells or Paneth cells) morphological features together with significant cytological and/or architectural atypia; absence of typical endometrioid glandular elements; presence of at least focal immunohistochemical expression of one or more gastrointestinal markers (e.g. CDX2, CK20); absent or minimal (&lt;&nbsp;5%) expression of ER.</p>\r\n<h5>Endometrial carcinoma with germ cell/trophoblastic component</h5>\r\n<p><em>Essential:</em> endometrial tumour displaying morphological features of yolk sac tumour or choriocarcinoma (or other germ cell&nbsp;/ trophoblastic tumours); with or without carcinoma displaying features of another histological type.</p>\r\n<p><em>Desirable:</em> (for somatically derived yolk sac tumour) expression of AFP, glypican-3, and SALL4; (for somatically derived choriocarcinoma) expression of hCG.</p>\r\n<h5>Neuroendocrine carcinoma of the endometrium</h5>\r\n<p><em>Essential: </em>endometrial tumour with morphological features of small cell neuroendocrine carcinoma; with or without carcinoma displaying features of a conventional endometrial histological type; neuroendocrine differentiation proven by immunohistochemical expression in the appropriate morphological context.</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1083,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1099,
+    "contributions": [
+      {
+        "pkcontributionId": 152025,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1099,
+        "headingText": "\r\n<p>Endometrial cancer is staged according to the Union for International Cancer Control (UICC) TNM classification (see <em>TNM staging of tumours of the uterus&nbsp;&ndash; endometrium</em> [[Brierley JD, Gospodarowicz MK, Wittekind C, editors. TNM Classification of Malignant Tumours. 8th ed. Oxford (UK): Wiley-Blackwell; 2017.]]) and the FIGO staging system. EmGA is considered an aggressive histological type in the FIGO 2023 staging system for endometrial carcinoma {37593813}.</p>\r\n",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1084,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1100,
+    "contributions": [
+      {
+        "pkcontributionId": 152026,
+        "bookId": 85,
+        "chapterId": 84,
+        "headingId": 1100,
+        "headingText": "\r\n<p>Limited data suggest that PESCC {36069815} and EmGA pursue an aggressive clinical course. For EmGA, this can occur despite low-grade morphology and low stage at presentation, although no direct comparison with other tumour histotypes is available {40066786; 38477341; 31567280}. If endometrial gastric-type mucinous metaplasia is diagnosed in a biopsy specimen, complete resection of any visible lesion should be considered, especially if atypia is present {31567280}.</p>\r\n<p>Endometrial carcinoma with somatically derived germ cell&nbsp;/ trophoblastic component often shows aggressive behaviour; however, it is unclear whether the germ cell&nbsp;/ trophoblastic components are independent predictors of unfavourable outcome {32558949}.</p>\r\n<p>Neuroendocrine carcinoma of the endometrium generally shows aggressive clinical behaviour {26945341; 31519319; 31576694}. In a population-based study of 364&nbsp;cases of endometrial neuroendocrine carcinoma, the median survival was 17&nbsp;months and the 5-year survival rate was 38.3% {31519319}. In a retrospective study of 42&nbsp;cases of endometrial neuroendocrine carcinoma, multivariate analysis showed that pure neuroendocrine carcinoma was associated with a worse prognosis than cases admixed with another histotype {31576694}.</p>",
+        "timestamp": "2026-08-25T18:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 106904,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 466,
+        "headingText": "\r\n<p>Notochordal tumours are a group of neoplasms with variable clinical behaviour ranging from benign to highly malignant, usually arising in bones of the axial skeleton with a phenotype that recapitulates the notochord.</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 106905,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 467,
+        "headingText": "<p>9370/3 Conventional chordoma</p>\r\n<p>9371/3 Chondroid chordoma</p>\r\n<p>9370/3 Poorly differentiated chordoma</p>\r\n<p>9370/0 Benign notochordal cell tumour</p>\r\n<p>9372/3 Dedifferentiated chordoma</p>",
+        "timestamp": "2023-05-19T11:53:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 106906,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 468,
+        "headingText": "\r\n<p>2E89.Z &amp; XH7MT7 Benign mesenchymal tumours of uncertain differentiation of unspecified site &amp; Benign notochordal tumour</p>\r\n<p>2B5K &amp; XH9GH0 Unspecified malignant soft tissue tumours or sarcomas of bone or articular cartilage of other or unspecified sites &amp; Chordoma, NOS</p>\r\n<p>2B5K &amp; XH17D8 Unspecified malignant soft tissue tumours or sarcomas of bone or articular cartilage of other or unspecified sites &amp; Chondroid chordoma</p>\r\n<p>2B5Z &amp; XH7303 Malignant mesenchymal neoplasm of unspecified type &amp; Dedifferentiated chordoma</p>\r\n<p>2B5Z &amp; XH9GH0 Malignant mesenchymal neoplasm of unspecified type &amp; Chordoma, NOS</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 106907,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 469,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 106908,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 470,
+        "headingText": "\r\n<p>Conventional chordoma (including chondroid chordoma); poorly differentiated chordoma; benign notochordal cell tumour; dedifferentiated chordoma</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 106909,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 471,
+        "headingText": "\r\n<p>Paediatric chordomas mainly occur in the base of the skull and upper cervical vertebrae (&gt;&nbsp;50%) and less commonly in the mobile spine and sacrococcygeal region {29483606; 21057957; 27635948; 28812319; 16819322; 19348512}. Only a small number of extra-axial and extraskeletal chordomas have been reported {18301055; 23588366}.</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 106910,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 472,
+        "headingText": "\r\n<p>Patients with chordomas most commonly present with pain and site-related neurological symptoms.</p>\r\n<p>On imaging, chordoma is typically a lytic, destructive lesion arising in the midline. It grows slowly, expanding the bone, and is frequently associated with a large soft tissue mass. It is not mineralized, but bone fragments are often seen within and at the periphery of the mass {21343509}. On MRI, the mass is lobular and heterogeneous, showing low signal on T1-weighted images and hyperintensity on T2-weighted images {15480648}.</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 106911,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 473,
+        "headingText": "\r\n<p>Paediatric chordomas are rare, representing &lt;&nbsp;5% of all chordomas. The conventional subtype is the most common subtype in children, and the poorly differentiated subtype is more frequent in children than in adults {6631498; 19348512; 27635948; 16819322; 27609115}. The M:F&nbsp;ratio is approximately 1:2, and the median age at diagnosis is 11&nbsp;years {29483606}. The incidence of benign notochordal cell tumour (BNCT) is unknown, but in a study of 100 randomly selected cadavers undergoing autopsy, BNCT was found in 20&nbsp;cases, suggesting a high prevalence {15186275}. Dedifferentiated chordoma is the rarest subtype {32427623}.</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 106912,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 474,
+        "headingText": "\r\n<p>In rare cases, chordoma is associated with a germline tandem duplication of <em>TBXT</em> {24990759}, and rare cases of childhood chordoma occur in the setting of tuberous sclerosis, caused by germline mutations in <em>TSC1</em> and/or <em>TSC2</em> {15236319; 21266383}.</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 106913,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 475,
+        "headingText": "<p>The hallmark of all notochordal tumours is the expression of brachyury (encoded by <em>TBXT</em>) {18301055}; in 27% of cases, this is associated with copy-number gain of <em>TBXT</em>, which encodes a transcription factor required for notochordal development {21171078; 29026114}. This recapitulates the tandem duplication of <em>TBXT</em> that underlies familial chordoma {29026114; 19801981}. The strong association of rs2305089 in <em>TBXT</em> with chordoma makes a strong case that this SNP contributes to chordoma development {23064415}. <em>TBXT</em> also acts as a master regulator of an oncogenic transcriptional network encompassing diverse signalling pathways, including components of the cell cycle and extracellular matrix {22847733}. EGFR (HER1) also appears to play an important role, being expressed in 67% of chordomas, and EGFR inhibitors reduce cell survival {21171079; 27102572}. Deletions in chromosomes&nbsp;1 and 3 have been reported in rare chordomas {26363792}. Deletion involving <em>SMARCB1</em> is identified in most cases of poorly differentiated chordoma {29119645; 27218413}.</p>",
+        "timestamp": "2023-05-10T16:20:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 106914,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 482,
+        "headingText": "\r\n<p>BNCTs are intraosseous, well-demarcated grey-tan tumours.</p>\r\n<p>Conventional and poorly differentiated chordomas manifest as multilobulated solid masses, destroying bone and extending into soft tissue. A gelatinous appearance is typically seen in the conventional subtype. Sacrococcygeal tumours tend to be larger than those at other sites; this is probably related to their longer symptom-free period. The size of poorly differentiated chordomas generally ranges from 20&nbsp;to &gt;&nbsp;100&nbsp;mm, although most are about 50&nbsp;mm {27635948; 29119645; 29483606}.</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 106915,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 476,
+        "headingText": "\r\n<p>BNCTs consist of solid sheets of adipocyte-like cells with bland nuclei. Cystic spaces filled with colloid-like material may be present. The involved bone is viable and mildly remodelled. BNCTs lack a lobular architecture, fibrous septa, capsule, myxoid matrix, and tumour vasculature.</p>\r\n<p>Conventional chordomas are composed of large epithelioid cells with clear, eosinophilic, or bubbly cytoplasm (physaliphorous cells), separated into lobules by fibrous septa. They are arranged as cords and nests embedded within an abundant extracellular myxoid matrix, or as densely arranged epithelioid packets. Conventional chordomas often show a substantial degree of cytological heterogeneity, including nuclear atypia and pleomorphism ranging from minimal (usually associated with low mitotic activity) to severe (in which bizarre nuclei or cell spindling can be seen). In the latter, mitotic figures can be easily detected and large areas of necrosis may be present. The matrix of chondroid chordoma has hyaline features, mimicking a cartilaginous tumour. Poorly differentiated chordoma is composed of sheets and nests of epithelioid and often rhabdoid cells with relatively abundant eosinophilic cytoplasm and scattered cytoplasmic vacuoles. The nuclei are round to ovoid with mild to moderate pleomorphism. Mitoses and necrosis are usually present. The physaliphorous cells are absent, and extracellular myxoid stroma (if present) is generally focal {16819322; 29119645; 29483606}. Dedifferentiated chordoma is usually a large mass with the biphasic appearance of a high-grade sarcoma juxtaposed to a conventional chordoma {18450635; 2440324; 17630110; 21184634; 6095644}.</p>\r\n<p>Notochordal tumours, except the dedifferentiated component, express cytokeratin and brachyury. There is variable expression of S100 and EMA. Loss of SMARCB1 (INI1) expression is seen in poorly differentiated chordoma.</p>\r\n<p>The expression of brachyury helps to distinguish chordoma from chondrosarcoma, carcinoma, and myoepithelial tumour of bone.</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 106916,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 106917,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 478,
+        "headingText": "\r\n<p>Deletion in <em>SMARCB1</em> can be detected by FISH in poorly differentiated chordoma {29119645; 31135077}.</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 106918,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> for BNCT: compatible imaging; notochordal differentiation without atypia; typical immunoprofile; for conventional chordoma: compatible imaging; physaliphorous cells with myxoid matrix; typical immunoprofile; for poorly differentiated chordoma: compatible imaging; a poorly differentiated malignant neoplasm with typical immunoprofile plus loss of SMARCB1 expression; for dedifferentiated chordoma: compatible imaging; conventional chordoma plus high-grade sarcoma.</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 106919,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 479,
+        "headingText": "\r\n<p>Staging is according to bone sarcoma protocols.</p>\r\n",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 106920,
+        "bookId": 44,
+        "chapterId": 230,
+        "headingId": 480,
+        "headingText": "\r\n<p>Prognosis for BNCTs is excellent and treatment is not required. Treatment of conventional and poorly differentiated chordomas consists of a combination of surgery, radiotherapy, and chemotherapy. The overall median survival time for conventional chordoma is 7&nbsp;years. Metastatic sites include lung, bone, lymph nodes, and subcutaneous tissue. It is unclear whether chondroid chordomas behave differently from conventional chordomas; previous literature on the subject is no longer reliable, because data were derived from the pre-brachyury era, and some cases may have in fact been low-grade chondrosarcomas. Poorly differentiated chordoma has a worse prognosis than conventional chordoma {29483606; 29119645; 16819322; 27067307}. The prognosis of dedifferentiated chordoma is dismal, with a high rate of metastasis and high mortality.</p>",
+        "timestamp": "2023-03-15T15:55:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

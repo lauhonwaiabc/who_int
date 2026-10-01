@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 54451,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 159,
+        "headingText": "<p>Ampullary adenoma is a polyp consisting of dysplastic glandular epithelium within the anatomical duodenal ampulla, which may show intestinal or pancreatobiliary differentiation.</p>",
+        "timestamp": "2019-03-25T15:30:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 54452,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 160,
+        "headingText": "<p>8210/0 Adenomatous polyp, low-grade dysplasia</p>\r\n<p>8210/2 Adenomatous polyp, high-grade dysplasia</p>",
+        "timestamp": "2021-11-22T12:18:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 54453,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 161,
+        "headingText": "<p>2E92.2 &amp; XH3DV3 Benign neoplasm of duodenum &amp; Adenoma NOS</p>\r\n<p>2E92.2 &amp; XH8MU5 Benign neoplasm of duodenum &amp; Adenomatous polyp NOS</p>",
+        "timestamp": "2019-02-15T10:41:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 54454,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 162,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-02-15T10:41:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 54455,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 163,
+        "headingText": "<p>Intestinal-type adenoma, low grade (8144/0); intestinal-type adenoma, high grade (8144/2); non-invasive pancreatobiliary papillary neoplasm with low-grade dysplasia (8163/0); non-invasive pancreatobiliary papillary neoplasm with high-grade dysplasia (8163/2); intra-ampullary papillary-tubular neoplasm</p>",
+        "timestamp": "2021-11-22T12:19:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 54456,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 164,
+        "headingText": "<p>Adenomas occur on the duodenal surface of the ampulla, and intra-ampullary papillary-tubular neoplasms (IAPNs) occur within the intra-ampullary channel (i.e. the lumen of the distal ends of the common bile duct and the main pancreatic duct).</p>",
+        "timestamp": "2019-04-29T19:10:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 54457,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 165,
+        "headingText": "<p>These neoplasms are often asymptomatic and incidentally discovered on endoscopy. Patients may present with symptoms related to obstruction of the biliary or pancreatic duct (jaundice) {22195233}. In rare instances, cholangitis or pancreatitis is caused by ampullary lesions. Substantial weight loss in a patient with an ampullary lesion may be due to malignant transformation {14986792}. Endoscopic approaches are increasingly used {22064552}, but they carry a risk of complications {23364840; 23059497}. Both complications and invasive components in endoscopic resections require surgical intervention. Surgical options are pancreatoduodenectomy (the Whipple procedure) and transduodenal ampullectomy {26260385}.</p>",
+        "timestamp": "2019-04-29T19:11:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 54458,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 166,
+        "headingText": "<p>In general, these neoplasms are rarer than their colorectal counterparts. Several series have reported duodenal polyps to occur in as many as 4.6% of patients presenting for gastroscopy. In autopsy series, the estimated prevalence of ampullary adenoma is 0.04&ndash;0.12% {10430377; 20290635; 22195233}.</p>",
+        "timestamp": "2019-04-26T18:38:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 54459,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 167,
+        "headingText": "<p>As discussed in the section on <a style=\"cursor:pointer\" href=\"/chaptercontent/31/37\" target=\"_blank\">section </a><em>Non-ampullary adenoma</em>, more than half of small bowel neoplasms occur in the duodenum (most around the ampulla), suggesting that bile acids may be carcinogenic {15652226}. This topographical pattern is also observed in patients with familial adenomatous polyposis, who are genetically predisposed to developing small bowel adenomas (see also <a style=\"cursor:pointer\" href=\"/chaptercontent/31/225\" target=\"_blank\">section </a>Chapter&nbsp;14: <em>Genetic tumour syndromes of the digestive system</em>&nbsp;{2571019}. In addition, population-based studies highlight the ampulla as part of a field effect with carcinogenic potential {19123739}.</p>",
+        "timestamp": "2019-06-04T18:35:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 54460,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 168,
+        "headingText": "<p>Sporadic and familial adenomatous polyposis&ndash;related ampullary adenomas of the small bowel show similar molecular features, associated with the WNT signalling pathway, including <em>APC</em> and <em>KRAS</em> mutations {18670349}. However, other mutations such as those in <em>BRAF</em> are rarer, as is mismatch repair deficiency {23208952}. This mutation profile is consistent with the molecular background identified in a large percentage of ampullary adenocarcinomas of intestinal type (see <a style=\"cursor:pointer\" href=\"/chaptercontent/31/251\" target=\"_blank\">section </a><em>Ampullary adenocarcinoma</em>).</p>",
+        "timestamp": "2019-06-04T18:36:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 54461,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 207,
+        "headingText": "<p>The surface appearance of an ampullary adenoma is in many ways not dissimilar to its colorectal counterparts. However, careful macroscopic analysis may provide clues to predict malignancy. In particular, large size, a nodular appearance with erosion, evidence of fold convergence with the adjacent duodenum, and ductal dilatation (sometimes observed endoscopically) should alert the pathologist to potential foci of invasion in the biopsy or surgical specimen {15571579; 23560162; 29998424}.</p>",
+        "timestamp": "2019-02-15T10:42:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 54462,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 169,
+        "headingText": "<p>In the previous edition, there were two subtypes of ampullary adenomas: intestinal-type and pancreatobiliary-type.</p>\r\n<p>Intestinal-type adenomas are the most common type of adenomas of the ampullary duodenum. They mostly show a tubular or tubulovillous growth pattern. Most have low-grade dysplasia and consist of tall columnar cells with elongated nuclei and inconspicuous nucleoli. Paneth, goblet, or endocrine cells may be prominent in low-grade lesions {8543313}. Adenomas with high-grade dysplasia are characterized by an increased degree of architectural complexity, nuclear stratification, and nuclear atypia. Ampullary adenomas may extend from the papilla down to involve the biliary epithelium of the ampulla. At the periphery of the polypoid lesion, flat adenomatous changes may also extend into the common bile duct or periampullary ductules within the sphincter of Oddi. Familial adenomatous polyposis&ndash;associated adenomas have the same histological features as sporadic lesions. Immunohistochemically, intestinal-type adenomas express markers of the intestinal epithelium, including CDX2 and MUC2, and usually lack expression of EMA (MUC1) {18670349}. Coexpression of CK7 and CK20 is common {18670349}. Occasionally, pyloric gland adenomas also arise in the duodenal surface of the ampulla, and the characteristics of these rare cases seem to be very similar to those of the cases described in the stomach and non-ampullary duodenum.</p>\r\n<p>Rarer non-invasive lesions with pancreatobiliary-type features have also been described. These exhibit a villous or papillary growth pattern and morphologically resemble pancreatobiliary-type intraductal papillary mucinous neoplasm of the pancreas {11815961}. Following the proposed nomenclature for preinvasive lesions in the pancreatic ducts {11815961} and biliary tract, the unified term &ldquo;intra-ampullary papillary-tubular neoplasm (IAPN)&rdquo; has been proposed for these lesions {21084962}. IAPN is defined as a dysplastic, compact, exophytic lesion localized almost exclusively within the ampulla, growing predominantly within the ampullary channel, with minimal or no involvement of bile duct, pancreatic duct, or duodenal papilla. IAPN exhibits a spectrum of dysplastic grades (&gt;&nbsp;80% of cases exhibit a mixture of low-grade and high-grade dysplastic foci within the same lesion) and cell lineage differentiation (in 50% of cases there is coexistence of intestinal and pancreatobiliary differentiation). The immunohistochemistry profile of these lesions typically follows their differentiation lineage, with predominant MUC2 and CDX2 expression in the intestinal patterns and predominant expression of EMA (MUC1), MUC5AC, and MUC6 in the pancreatobiliary pattern; &gt;&nbsp;50% of cases coexpress CK7 and CK20.</p>",
+        "timestamp": "2019-04-26T18:38:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 54463,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 170,
+        "headingText": "<p>Most ampullary adenomas and IAPNs are accessible to conventional endoscopic biopsy, but brush cytology is occasionally obtained for deeper-seated intra-ampullary neoplasms {11376018}. The cytological features of ampullary adenomas show a general preservation of architectural arrangement, with relatively scant dissociated malignant cells, but with cell clusters similar to those seen in confirmed invasive adenocarcinoma {11376018}. A recent review of cytological diagnoses of ampullary adenomas confirmed these features and highlighted the validity of liquid-based cytology preparations to make this diagnosis {28900465}.</p>",
+        "timestamp": "2019-04-26T18:39:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 54464,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 171,
+        "headingText": "<p>There are no routinely used molecular determinants of malignant transformation or therapeutic prediction in these lesions.</p>",
+        "timestamp": "2019-02-15T10:43:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 54465,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 174,
+        "headingText": "<p><em>Essential:</em> sessile or pedunculated mucosal growth at the ampulla; a tubular, tubulovillous, villous, or papillary growth pattern with dysplastic epithelial lining; intestinal or pancreatobiliary differentiation (for subtyping).</p>\r\n<p><em>Note:</em> The degree of dysplasia is determined on the basis of architectural complexity, nuclear stratification, and nuclear atypia.</p>",
+        "timestamp": "2019-04-26T18:39:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 54466,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 172,
+        "headingText": "<p>Adenomatous polyps with high-grade dysplasia are regarded as pTis. When ampullary adenoma or IAPN is accompanied by an invasive carcinoma, these neoplasms should be staged based on the invasive component. Their prognosis is related to the stage and subtype of the invasive component and is substantially better than with other lesions involving the ampulla {21084962; 23026934}.</p>",
+        "timestamp": "2019-04-26T18:39:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 54467,
+        "bookId": 31,
+        "chapterId": 250,
+        "headingId": 173,
+        "headingText": "<p>Ampullary adenomas have a higher chance of malignant transformation than other duodenal adenomas {23809242}. There is a high false negative rate on endoscopic biopsies {23442830} because invasive carcinomas are often well hidden in the crevices of the lesions. Incomplete resection of adenomas is associated with a high risk of development of adenocarcinomas {11015104; 11144926; 2167140}.</p>\r\n<p>Invasive carcinomas commonly accompany IAPNs, which are found in about 75% of resected cases but can be subtle and easily missed, especially in biopsies or poorly dissected resection specimens. Pure, non-invasive IAPNs have 3-year and 5-year survival rates of 100% after successful removal.</p>",
+        "timestamp": "2019-04-26T18:39:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 377,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 176,
+    "contributions": [
+      {
+        "pkcontributionId": 57340,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 176,
+        "headingText": "\r\n<p>Desmoid fibromatosis is an infiltrative spindle cell neoplasm characterized by fibroblastic/myofibroblastic differentiation and activation of the WNT/&beta;-catenin pathway.</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 378,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 177,
+    "contributions": [
+      {
+        "pkcontributionId": 57341,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 177,
+        "headingText": "\r\n<p>8821/1 Desmoid-type fibromatosis</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 379,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 178,
+    "contributions": [
+      {
+        "pkcontributionId": 57342,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 178,
+        "headingText": "\r\n<p>2F75 &amp; XH13Z3 Neoplasms of uncertain behaviour of breast &amp; Aggressive fibromatosis</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 380,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 179,
+    "contributions": [
+      {
+        "pkcontributionId": 57343,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 179,
+        "headingText": "\r\n<p><em>Acceptable:</em> desmoid tumour; aggressive fibromatosis; musculoaponeurotic fibromatosis.</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 381,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 180,
+    "contributions": [
+      {
+        "pkcontributionId": 57344,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 180,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 382,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 181,
+    "contributions": [
+      {
+        "pkcontributionId": 57345,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 181,
+        "headingText": "\r\n<p>Desmoid fibromatosis may arise primarily in the breast parenchyma (primary mammary fibromatosis), but many tumours originate in the pectoral fascia of the chest wall and extend secondarily into the breast {17896146; 2920364}. Localization to the dermis or subcutis is occasionally seen. The tumours are usually solitary, although synchronous and asynchronous bilateralism has been reported {2920364; 10656738}.</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 383,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 182,
+    "contributions": [
+      {
+        "pkcontributionId": 57346,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 182,
+        "headingText": "\r\n<p>The typical presentation is that of a slowly evolving, non-tender, and palpably firm mass with poorly defined boundaries. Rare symptoms include skin retraction or dimpling, nipple discharge, and pain {3789257}. Involvement of the axillary soft tissues should not be mistaken for lymphadenopathy. Radiographical findings of an irregularly contoured, spiculated, non-calcified mass often mimic the appearance of malignancy {24990452}.</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 384,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 183,
+    "contributions": [
+      {
+        "pkcontributionId": 57347,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 183,
+        "headingText": "\r\n<p>Desmoid fibromatosis accounts for &lt;&nbsp;0.2% of all breast tumours {10656738}. The median patient age at presentation is in the third to fifth decades of life, but tumours can present at any age {17896146; 2920364; 10656738}. The overwhelming majority of cases affect females.</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 385,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 184,
+    "contributions": [
+      {
+        "pkcontributionId": 57348,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 184,
+        "headingText": "\r\n<p>More than 90% of desmoid fibromatoses present sporadically, with the remainder arising in the setting of familial adenomatous polyposis. There is a distinct association with prior tissue injury, including surgery, in as many as 44% of cases {17896146}.</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 386,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 185,
+    "contributions": [
+      {
+        "pkcontributionId": 57349,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 185,
+        "headingText": "<p><em>CTNNB1</em> activating mutations have been detected in 83&ndash;95% of sporadic desmoid fibromatosis cases {17721184; 22766794; 20197769; 26171757}. These mutations have a strong predilection for exon&nbsp;3 of &beta;-catenin. Activating mutations of <em>CTNNB1</em> or inactivating mutations/deletions of <em>APC</em> lead to a pathogenic increase in transcriptional signalling through the WNT/&beta;-catenin pathway, which drives cell proliferation. <em>APC</em> inactivation via mutation or 5q allelic loss accounts for the majority of remaining sporadic cases, in addition to the bulk of cases associated with familial adenomatous polyposis {11823972; 9250146; 10597266}. Application of massively parallel sequencing enables detection of <em>CTNNB1</em>/<em>APC</em> mutations with greater sensitivity, along with identification of rare mutations in alternative WNT regulators, such as <em>BMI1</em> {26171757}. Mutations of both <em>CTNNB1</em> and <em>APC</em> inhibit APC-mediated degradation of &beta;-catenin, which in turn translocates to the nucleus where it regulates gene expression.</p>",
+        "timestamp": "2019-10-07T14:26:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 393,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 206,
+    "contributions": [
+      {
+        "pkcontributionId": 57350,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 206,
+        "headingText": "\r\n<p>Desmoid fibromatosis forms a poorly circumscribed mass lesion ranging in size from &lt;&nbsp;1&nbsp;cm to &gt;&nbsp;10&nbsp;cm in greatest dimension {17896146; 2920364; 3789257}. The cut surface is tan-white to grey, with a trabeculated or whorled appearance.</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 387,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 186,
+    "contributions": [
+      {
+        "pkcontributionId": 57351,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 186,
+        "headingText": "\r\n<p>Uniform-looking, slender, spindle-shaped cells form interwoven, arcuate fascicles of varying cellularity that characteristically infiltrate adjacent tissues, such as mammary ducts/lobules, adipose tissue, and skeletal muscle. The relatively small, hypochromatic nuclei may contain a few pinpoint nucleoli. Mitoses are typically absent or rare. The cytoplasm has an eosinophilic hue and a fibrillar texture. Varying degrees of interstitial collagen limit cell&ndash;cell contact and nuclear juxtaposition and confer a broad spectrum of morphological manifestations, including those that mimic keloid. Although the stroma of nascent lesions may appear more myxoid, longstanding lesions can develop calcification or chondro-osseous metaplasia. Lymphoid aggregates are commonly seen at the periphery. Morphological features do not always distinguish desmoid fibromatosis from phyllodes tumour or metaplastic carcinoma, which must be excluded with molecular and/or immunohistochemical studies.</p>\r\n<p>By immunohistochemistry, nuclear accumulation of &beta;-catenin is seen in 76&ndash;100% of cases {11823972; 15832090; 12360044; 17711447; 20693983}, although patterns of immunoreactivity are sometimes difficult to interpret. Nuclear accumulation of &beta;-catenin does not reliably distinguish desmoid fibromatosis from metaplastic carcinoma or phyllodes tumour {20693983; 21076461}. An absence of cytokeratin expression, established using antibodies targeting broad-spectrum, luminal, and basal cytokeratins, is essential to rule out metaplastic carcinoma, especially the fibromatosis-like subtype. Lack of p63 expression also distinguishes desmoid fibromatosis from a subset of metaplastic carcinomas. Unlike in myofibroblastoma and the stroma of phyllodes tumour, there is no expression of CD34 {28821190}. ER, PR, and ERBB2 (HER2) are generally not expressed {16254103; 10656738}. Most tumours express SMA and calponin {16625070}. Desmin immunoreactivity is occasionally seen in a limited fraction of neoplastic cells {12360044}.</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 388,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 187,
+    "contributions": [
+      {
+        "pkcontributionId": 57352,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 187,
+        "headingText": "\r\n<p>Classification by FNA is challenging and frequently inconclusive, owing to the indistinct cytomorphological features and low yield of dense fibrous tissue aspirates {17896146}; therefore, immunohistochemical and molecular diagnostic assays of WNT/&beta;-catenin pathway activation may be helpful.</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 389,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 188,
+    "contributions": [
+      {
+        "pkcontributionId": 57353,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 188,
+        "headingText": "\r\n<p>Given the technical difficulty of interpreting &beta;-catenin immunohistochemistry in some cases, along with the potential benefit of identifying a <em>CTNNB1</em> mutation {21076461}, sequencing may be helpful diagnostically.</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 392,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 191,
+    "contributions": [
+      {
+        "pkcontributionId": 57354,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 191,
+        "headingText": "\r\n<p><em>Essential:</em> cytologically bland spindle cell morphology; lack of nuclear pleomorphism and atypical mitoses; lack of circumscription with infiltration of adjacent tissues; exclusion of spindle cell tumours with epithelial, myoepithelial, peripheral nerve sheath, endothelial, and myogenic differentiation by immunohistochemical or molecular assays.</p>\r\n<p><em>Desirable:</em> evidence of WNT/&beta;-catenin activation by nuclear accumulation of &beta;-catenin by immunohistochemistry, or molecular evidence of inactivating <em>APC</em> mutation or activating <em>CTNNB1</em> mutation.</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 390,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 189,
+    "contributions": [
+      {
+        "pkcontributionId": 57355,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 189,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 391,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 190,
+    "contributions": [
+      {
+        "pkcontributionId": 57356,
+        "bookId": 32,
+        "chapterId": 69,
+        "headingId": 190,
+        "headingText": "\r\n<p>Desmoid fibromatosis exhibits infiltrative local growth with no potential for metastasis or evolution to high-grade malignancy. A rare exception is the phenomenon of radiation-induced sarcoma with clonal relationship to the irradiated fibromatosis {26414222}. Local recurrence has been reported in 25&ndash;29% of breast lesions after local excision {17896146; 2920364; 3789257}, but the predictive value of surgical margin status is uncertain {22963172; 19722232; 2916941; 10570430; 15505878; 12663732}. The serine to phenylalanine substitution at codon&nbsp;45 of exon&nbsp;3 (p.Ser45Phe) appears to portend a higher risk of local recurrence in sporadic desmoid-type fibromatosis {18832571; 23913621; 28961825; 25341748}. Growth has generally been regarded as persistent, but renewed interest in non-operative management of desmoid fibromatosis has revealed that growth arrest occurs in a substantial subset of patients who do not undergo surgery {17709227; 19568815}.</p>",
+        "timestamp": "2019-09-03T14:28:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

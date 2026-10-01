@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 176,
+    "bookId": "65",
+    "roleid": 205,
+    "roleTitle": "Resp editor",
+    "contributors": [
+      {
+        "contributorid": 3291,
+        "lastname": "Heegaard",
+        "firstname": "Steffen",
+        "initials": "",
+        "email": "",
+        "roleid": 205,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 177,
+    "bookId": "65",
+    "roleid": 206,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 5043,
+        "lastname": "Esmaeli",
+        "firstname": "Bita",
+        "initials": "",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      },
+      {
+        "contributorid": 5046,
+        "lastname": "Rodríguez-Reyes ",
+        "firstname": "Abelardo",
+        "initials": "",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 178,
+    "bookId": "65",
+    "roleid": 207,
+    "roleTitle": "Resp author",
+    "contributors": [
+      {
+        "contributorid": 3271,
+        "lastname": "Roberts",
+        "firstname": "Fiona",
+        "initials": "",
+        "email": "",
+        "roleid": 207,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 179,
+    "bookId": "65",
+    "roleid": 208,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 5104,
+        "lastname": "Stagner",
+        "firstname": "Anna M.",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      }
+    ]
+  }
+]

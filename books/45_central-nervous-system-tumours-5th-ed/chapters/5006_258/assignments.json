@@ -1,0 +1,36 @@
+[
+  {
+    "pkroleId": 93,
+    "bookId": "45",
+    "roleid": 130,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2756,
+        "lastname": "Figarella-Branger",
+        "firstname": "Dominique",
+        "initials": "",
+        "email": "",
+        "roleid": 130,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 95,
+    "bookId": "45",
+    "roleid": 139,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3563,
+        "lastname": "Hasselblatt",
+        "firstname": "Martin",
+        "initials": "",
+        "email": "",
+        "roleid": 139,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 150563,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 951,
+        "headingText": "\r\n<p>Insulinoma is a functioning pancreatic neuroendocrine tumour (PanNET), composed of insulin-producing cells and associated with unregulated insulin secretion causing hypoglycaemic syndrome.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 150564,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 952,
+        "headingText": "\r\n<p>81510/3 Neuroendocrine tumour, insulin-producing</p>\r\n",
+        "timestamp": "2026-06-09T11:32:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 150565,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 953,
+        "headingText": "\r\n<p>2C10.1 &amp; XH4SH8 Insulinoma, NOS, of pancreas</p>\r\n",
+        "timestamp": "2026-06-09T11:32:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 150566,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 954,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-06-09T11:32:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 150567,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 955,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-06-09T11:32:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 150568,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 956,
+        "headingText": "\r\n<p>The vast majority of insulinomas are found in the pancreas, where they are evenly distributed {24921202}. Extrapancreatic insulinomas are extremely rare and have been reported in the lung, liver, splenic hilum, mesentery, ligament of Treitz, gastrosplenic ligament, hepatoduodenal ligament, and throughout the GI tract, including stomach, duodenum, ileum, jejunum, appendix, and rectum {24921202;37434098}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 150569,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 957,
+        "headingText": "\r\n<p>Insulinoma causes hyperinsulinaemic hypoglycaemia leading to autonomic and neuroglycopenic symptoms. Adrenergic symptoms include palpitations and tremors, while cholinergic symptoms manifest as sweating, hunger, and/or paraesthesia. Neuroglycopenic symptoms are more severe and encompass profound weakness along with a broad spectrum of psychiatric and neurological manifestations. Other common signs and symptoms include confusion, agitation, slow reaction pattern, blurred vision, seizures, transient loss of consciousness, and in severe cases, hypoglycaemic coma {16253900}. The diagnosis of hypoglycaemia is based on the identification of the three key components of the Whipple triad: symptoms of hypoglycaemia, low plasma glucose levels (&lt;&nbsp;3.0&nbsp;mmol/L [55&nbsp;mg/dL]), and resolution of symptoms following glucose administration. The gold standard diagnostic test is prolonged fasting (72&nbsp;hours) with measurement of blood glucose, serum insulin, C-peptide, and proinsulin {10500929}. The tumours are typically detected using imaging modalities such as CT, MRI, EUS, and 68Ga-DOTATOC/DOTATATE PET {19060454;19077417;15763703}. More recently, radiolabelled GLP1R imaging has emerged as a highly sensitive method for localizing small insulinomas (&le;&nbsp;20&nbsp;mm) and outperforms other PET/CT modalities {19820010;37455905}. Biologically aggressive and metastatic insulinomas can alter hormone production and clinical syndrome over the course of the disease. Rare cases of metastatic insulinomas have been reported to transform into glucagonoma syndrome or evolve into non-functioning tumours over time {226443;9853567}. In patients with multiple insulinomas, the possibility of MEN1 or MAFA should be considered.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 150570,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 958,
+        "headingText": "\r\n<p>Insulinomas are the most common functioning PanNETs and account for about 4&ndash;20% of resected PanNENs {17896148;24499825}. The estimated incidence of insulinoma is 0.1&ndash;0.4&nbsp;cases per 100&nbsp;000&nbsp;person-years {1677058;35784630;34343300}. Insulinomas primarily occur in adults, with a peak incidence in the sixth decade of life, although individuals of any age can be affected {24921202}. They are rare in children and young adults, accounting for only 1% of cases in patients aged &lt;&nbsp;30&nbsp;years {24921202}. Women appear to be slightly more affected than men. About 10% of insulinomas develop metastases, which are more commonly observed in men {1677058;18156937}. Multiple insulinomas occur in about 10% of patients, most frequently in the context of multiple endocrine neoplasia type&nbsp;1 (MEN1), but also in the setting of insulinomatosis {19011561}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 150571,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 959,
+        "headingText": "\r\n<p>There are no known etiological factors for sporadic solitary insulinomas, although a possible association with diabetes has been suggested {25291526}. Inherited cases are linked to specific genetic mutations. Families with germline mutations in <em>MEN1</em> are predisposed to developing insulinomas, along with other PanNETs and endocrine tumours. Additionally, familial insulinomatosis, an autosomal dominant genetic disorder characterized by the presence of multiple insulin-secreting PanNETs, has been linked to germline mutation in the <em>MAFA</em> gene {29339498}. However, insulinomatosis mostly occur without any detectable germline genetic aberration {38264280}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 150572,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 960,
+        "headingText": "\r\n<p>An earlier study found that insulinomas clustered as an independent PanNET group at the RNA level, suggesting distinct tumorigenesis pathways {26446169}. Subsequent research identified genetic differences from other PanNETs that further support this notion. Unlike non-functioning PanNETs, insulinomas rarely harbour <em>MEN1</em> mutations indicating that <em>MEN1</em> is unlikely to play a major role in insulinoma tumorigenesis {28974674;31462556}. About 30% of insulinomas harbour the hotspot mutation NM_003403.5:c.1115C&gt;G p.(Thr372Arg) in <em>YY1</em>, a mutation that is almost exclusively observed in insulinomas {24326773;25763608}. Oncogenic <em>YY1</em> mutations enhance the transcriptional activity of the gene, leading to overexpression of YY1 protein. This overexpression is linked to increased insulin secretion through the activation of cAMP and Ca<sup>2+</sup> signalling pathways, both of which are essential for insulin release {25787250}.</p>\r\n<p>Small insulinomas, which are typically indolent, arise from pancreatic B&nbsp;cells, and differ genetically from aggressive insulinomas and non-functioning PanNETs. Earlier evidence from a comparative genomic hybridization study found that loss of chromosome&nbsp;6q and gains of&nbsp;12q, 14q, and 17pq were associated with aggressive insulinoma {15947114}. Later studies found that aggressive insulinomas often harbour <em>ATRX</em> or <em>DAXX</em> mutations, which are linked to chromosomal instability and alternative-lengthening-of-telomeres phenotype {36779771}. They also show transcription of non&ndash;B&nbsp;cell genes or lack of B&nbsp;cell markers. Expression of &alpha;1-antitrypsin (encoded by <em>SERPINA1</em>) is upregulated in aggressive insulinomas {17855650}. GLP1R is an important regulator of B&nbsp;cell proliferation expressed by B&nbsp;cells in indolent insulinomas but is absent in aggressive insulinomas {36779771;37894845}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 150573,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 967,
+        "headingText": "\r\n<p>Indolent insulinomas are typically small, solitary, and well-demarcated PanNETs with a greyish-white to yellowish-tan appearance, occasionally exhibiting areas of haemorrhage. In contrast, aggressive insulinomas are typically larger, often exceeding 30&nbsp;mm in size {25866230}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 150574,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 961,
+        "headingText": "\r\n<p>Insulinomas display the classic well-differentiated neuroendocrine morphology of epithelial lineage [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International Agency for Research on Cancer; 2025. (WHO classification of tumours series, 5th ed.; vol. 10). https://publications.iarc.who.int/645. Bookref]]. The growth pattern of insulinomas is mainly trabecular or solid. Some insulinomas show a tubuloacinar growth pattern with psammoma bodies, similar to those observed in somatostatin-producing PanNET. Non-neoplastic ducts may become entrapped within the tumour, and intense hyalinized sclerosis is often present. Stromal deposits of islet amyloid polypeptide (IAPP, also known as amylin) are associated with, but not specific to, insulinomas, occurring in 50% of cases {14507315}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>The demonstration of insulin expression is not mandatory for the diagnosis of insulinoma in the setting of a solitary PanNET. However, in the setting of multiple PanNETs, staining for insulin is essential to identify the insulinoma, as the largest PanNET may not always be the source of the clinical syndrome {16699310}. Insulin staining is required for the diagnosis of insulinomatosis {19011561}. Aggressive insulinoma often exhibit a diverse hormonal profile, with scattered cells staining positive for hormones other than insulin, including glucagon, pancreatic peptide, and somatostatin {9500779}.</p>\r\n<h5>Grading</h5>\r\n<p>Insulinomas are graded using the same system used for other gastroenteropancreatic NENs (see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/199\" target=\"_blank\">section </a><em>Neuroendocrine neoplasms of the digestive system: Introduction and classification</em>).</p>\r\n",
+        "timestamp": "2026-06-09T11:32:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 150575,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 962,
+        "headingText": "\r\n<p>The insulinoma cytology is the same as that of other PanNETs and is diagnosed as category&nbsp;7 (malignant) when using the WHO Reporting System for Pancreaticobiliary Cytopathology (WHO System) {38709670}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 150576,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 963,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-06-09T11:32:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 150577,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 966,
+        "headingText": "\r\n<p><em>Essential:</em> clinical evidence of hyperinsulinaemic hypoglycaemia; well-differentiated neuroendocrine morphology of epithelial lineage; neuroendocrine marker expression; Ki-67 proliferation index and/or mitotic count; positive immunohistochemistry for insulin in multiple or extrapancreatic cases.</p>\r\n<p><em>Desirable:</em> insulin expression; positive immunohistochemistry for SSTR2.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 150578,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 964,
+        "headingText": "\r\n<p>The staging of insulinomas is in line with the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) systems for neuroendocrine tumours (NETs) of the pancreas.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 150579,
+        "bookId": 72,
+        "chapterId": 228,
+        "headingId": 965,
+        "headingText": "\r\n<p>Most insulinomas are indolent and cured by surgery. Approximately 10&ndash;15% of cases show aggressive behaviour and metastasize to distant organs. Like for other PanNETs, tumour stage is an important prognostic marker {19060454}. In contrast to non-functioning PanNETs, tumour grade is not always predictive of behaviour in insulinomas and cannot be reliably used clinically to predict prognosis between&nbsp;G1 and G2&nbsp;tumours {36779771;32873371}. Aggressive insulinomas are usually characterized by a rapid onset of symptoms, larger tumour size, specific genetic mutations (often in <em>ATRX</em> or <em>DAXX</em>), an alternative-lengthening-of-telomeres phenotype, and chromosomal instability {36779771}. Almost all isolated small tumours are indolent whereas insulinomas &gt;&nbsp;20&nbsp;mm have an increased risk of metastasis {25866230}. Insulinomatosis usually has an indolent clinical course. Only two malignant cases have been reported {19011561;38264280}.</p>",
+        "timestamp": "2026-06-09T11:32:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

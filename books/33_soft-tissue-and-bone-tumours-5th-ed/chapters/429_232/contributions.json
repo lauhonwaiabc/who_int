@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 395,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 228,
+    "contributions": [
+      {
+        "pkcontributionId": 60327,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 228,
+        "headingText": "\r\n<p>Secondary osteosarcoma is osteosarcoma arising in abnormal bone.</p>\r\n",
+        "timestamp": "2019-11-26T16:12:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 396,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 229,
+    "contributions": [
+      {
+        "pkcontributionId": 60328,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 229,
+        "headingText": "<p>9184/3 Secondary osteosarcoma</p>",
+        "timestamp": "2020-01-31T18:58:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 397,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 230,
+    "contributions": [
+      {
+        "pkcontributionId": 60329,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 230,
+        "headingText": "<p>2B51.Z &amp; XH06W9 Osteosarcoma of bone and articular cartilage of unspecified sites &amp; Osteosarcoma in Paget disease of bone (encompasses secondary osteosarcoma)</p>",
+        "timestamp": "2020-01-23T17:26:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 398,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 231,
+    "contributions": [
+      {
+        "pkcontributionId": 60330,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 231,
+        "headingText": "<p><em>Acceptable:</em> Paget sarcoma; osteosarcoma in Paget disease of bone (PDB); radiation-associated osteosarcoma.</p>\r\n<p><em>Not recommended:</em> postirradiation sarcoma; radiation-induced sarcoma</p>",
+        "timestamp": "2020-01-06T15:54:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 399,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 232,
+    "contributions": [
+      {
+        "pkcontributionId": 60331,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 232,
+        "headingText": "<p>Osteosarcoma in Paget disease of bone; radiation-associated sarcoma; infarct-related osteosarcoma; osteosarcoma due to chronic osteomyelitis; implant-related osteosarcoma; osteosarcoma secondary to early postzygotic disorders such as fibrous dysplasia</p>",
+        "timestamp": "2020-01-28T17:36:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 400,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 233,
+    "contributions": [
+      {
+        "pkcontributionId": 60332,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 233,
+        "headingText": "<p>Paget sarcoma most commonly affects the femur (34%), pelvis (24%), and humerus (24%) {15018182}, reflecting the distribution of uncomplicated PDB, except for a disproportionately high and low incidence in the humerus (24%) and the spine (2%) {15018182}, respectively. Multifocal synchronous tumours may occur (2&ndash;17%) {10929418}. Long bone lesions tend to be metaphyseal {6235535}, and tumours have been noted to occur at the site of a previous fracture {2028867}. Radiation-associated osteosarcoma occurs at the site of radiotherapy, most frequently in the flat bones of the chest wall and pelvis {10561354}.</p>\r\n<p>Osteosarcoma related to premalignant bone syndromes generally affects the same locations as non-syndromic osteosarcoma. However, tumours may be multifocal in Rothmund&ndash;Thomson syndrome and occur at unusual sites in Werner syndrome (foot and ankle, patella) {22550413}. Bone sarcomas outside the radiation field in hereditary retinoblastoma develop predominantly in the lower limbs {19066271}.</p>",
+        "timestamp": "2020-01-06T15:55:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 401,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 234,
+    "contributions": [
+      {
+        "pkcontributionId": 60333,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 234,
+        "headingText": "<h5><em>Signs and symptoms</em></h5>\r\n<p>New pain and an enlarging mass in a patient with a history of predisposing bone condition suggest the diagnosis of secondary osteosarcoma; occasionally, the underlying condition is unknown. Paget sarcoma typically develops in a background of polyostotic symptomatic PDB {2028867}. Tumours are frequently lytic, occasionally mineralized {2028867; 11162693}, and may be multifocal {10929418}. Pathological fracture is common {15018182}.</p>\r\n<h5><em>Imaging</em></h5>\r\n<p>Radiographs show lytic (65%) destruction of pagetic bone {6235535}, and there is typically a large extraosseous mass. Lytic tumours appear photopenic on isotope scintigraphy {15018182}; mineralized lesions may be difficult to distinguish from adjacent PDB {2028867}. Replacement of fatty, heterogeneous pagetic marrow, cortical destruction, and an extraosseous mass are useful MRI findings to differentiate secondary osteosarcoma from PDB. Radiation-associated osteosarcoma usually presents some years after treatment, with aggressive bone destruction and an extraosseous mass, superimposed on postradiotherapy bone changes {11162693}. Syndromes predisposing individuals to secondary osteosarcoma may show evidence of a bone dysplasia (e.g. in Rothmund&ndash;Thomson syndrome {22550413}) but otherwise show similar presentation and imaging to non-syndromic osteosarcoma {22550413; 29668499; 24924172}. Osteosarcoma at the site of a pre-existing benign bone tumour or chronic osteomyelitis may show imaging evidence of the underlying disease, posttreatment changes, and aggressive bone destruction. Infarct-related osteosarcoma usually occurs at the knee. The tumour usually develops in the margin {26397350} but may obliterate all evidence of the infarct {26397350}.</p>",
+        "timestamp": "2020-01-06T15:55:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 402,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 235,
+    "contributions": [
+      {
+        "pkcontributionId": 60334,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 235,
+        "headingText": "<p>Osteosarcoma is the most common sarcoma associated with PDB {17229010}. PDB develops predominantly in populations of English descent: 50% of bone sarcomas in patients aged &gt;&nbsp;50&nbsp;years are secondary to PDB in endemic areas {15018182}. In areas where PDB is not found, there is no second, older peak in the bimodal incidence of osteosarcoma {14038496; 17229010}. The incidence of Paget sarcoma in PDB is 0.7&ndash;6.3% {15018182}, but as the incidence of PDB is declining, Paget sarcoma also appears to be less frequent {19064007} and is occurring at older ages {19064007}. Most patients are in the sixth to seventh decades of life {15018182} (range: 32&ndash;86&nbsp;years {6571760}).</p>\r\n<p>Radiation-associated osteosarcoma most commonly arises in bone after treatment of tumours with long survival (breast and cervical carcinomas, Hodgkin lymphoma, retinoblastoma) {12057168}. Radiation-associated osteosarcoma is estimated to occur in 0.03% of patients receiving radiotherapy {12057168}, with osteosarcoma accounting for 21&ndash;77% {1365680; 11162693}. The median latency period after radiotherapy is 10&nbsp;years {12057168} (range: 3&ndash;55&nbsp;years {3855683; 6939953}). Most patients are in the fifth decade of life, with an earlier peak in the second decade (children treated for hereditary retinoblastoma and other malignancies) {12057168}. Osteosarcoma in older populations is most frequently due to Paget disease or irradiation {18845233}.</p>",
+        "timestamp": "2020-01-06T15:56:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 403,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 236,
+    "contributions": [
+      {
+        "pkcontributionId": 60335,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 236,
+        "headingText": "<p>Ionizing irradiation is the strongest risk factor for developing secondary osteosarcoma. Development of a radiation-associated osteosarcoma appears to be dose-dependent, with lower, potentially mutagenic doses at the edge of the radiation field {11162693}. Most patients who develop radiation-associated osteosarcoma have received a median of 50&nbsp;Gy {12057168}. Bone infarction is an acknowledged cause of undifferentiated sarcoma, and an association between caisson disease, sickle cell disease, other biological insults, and osteosarcoma is now recognized {13009398; 13849880; 1423172}. Sarcomas, including osteosarcoma, infrequently develop adjacent to orthopaedic implants {26931145}. A causal link to the constituents of implanted material, which may be carcinogenic in vitro, has been suggested but not proven {11598166}.</p>",
+        "timestamp": "2020-01-06T15:56:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 404,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 237,
+    "contributions": [
+      {
+        "pkcontributionId": 60336,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 237,
+        "headingText": "<p>The pathogenesis of secondary osteosarcoma is likely to be variable and determined by its etiology. Comparison of transcriptome modification identified a signature of 135&nbsp;genes discriminating radiation-associated sarcomas from sporadic sarcomas; the functions of the signature genes suggest that radiation-associated osteosarcomas were subject to chronic oxidative stress, probably as a result of mitochondrial dysfunction {21470956}. Two mutation signatures of ionizing radiation, an excess of small deletions and balanced inversions (both aberration types generate driver mutations), have been identified by paired tumour&ndash;normal tissue whole-genome sequencing in radiation-associated malignancies, including radiation-associated osteosarcoma {27615322}. Radiation-associated osteosarcomas feature complex karyotypes {10640139; 28643781; 27615322}. Unlike in primary osteosarcoma, losses are more frequent than gains; in particular, loss at 1p is more common (57% vs 3%).</p>",
+        "timestamp": "2020-01-06T15:56:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 411,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 244,
+    "contributions": [
+      {
+        "pkcontributionId": 60337,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 244,
+        "headingText": "<p>The macroscopic features of secondary osteosarcoma are not significantly different from those of primary osteosarcoma. The tumours occur at all sites in bone: in a series of 23&nbsp;radiation-associated osteosarcomas in children/adolescents (excluding retinoblastomas), 21&nbsp;were central, 1&nbsp;was a high-grade surface lesion, and 1&nbsp;was a periosteal osteosarcoma {10561354}. When an osteosarcoma develops in association with fibrous dysplasia and is diagnosed early, the features of the fibrous dysplastic bone may be apparent, but this is rare.</p>",
+        "timestamp": "2020-01-06T15:56:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 405,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 238,
+    "contributions": [
+      {
+        "pkcontributionId": 60338,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 238,
+        "headingText": "<p>The histological features of secondary osteosarcoma are not distinguishable from those of primary osteosarcoma.</p>",
+        "timestamp": "2019-11-29T16:45:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 406,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 239,
+    "contributions": [
+      {
+        "pkcontributionId": 60339,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 239,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-11-26T16:12:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 407,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 240,
+    "contributions": [
+      {
+        "pkcontributionId": 60340,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 240,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-11-26T16:12:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 410,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 243,
+    "contributions": [
+      {
+        "pkcontributionId": 60341,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 243,
+        "headingText": "\r\n<p><em>Essential:</em> bone tumour with compatible imaging; known history of previous radiation therapy or the presence of an underlying bone abnormality; osteosarcoma histology.</p>\r\n<p><em>Desirable:</em> histological evidence of underlying abnormal bone.</p>\r\n",
+        "timestamp": "2019-11-26T16:12:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 408,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 241,
+    "contributions": [
+      {
+        "pkcontributionId": 60342,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 241,
+        "headingText": "<p>Staging is according to bone sarcoma protocols (see &lt;&lt;TNM-Bone&gt;&gt;<em>TNM staging of tumours of bone</em>). See also the information on staging in <a style=\"cursor:pointer\" href=\"/chaptercontent/33/261\" target=\"_blank\">section </a><em>Bone tumours: Introduction</em>.</p>",
+        "timestamp": "2020-02-19T16:19:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 409,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 242,
+    "contributions": [
+      {
+        "pkcontributionId": 60343,
+        "bookId": 33,
+        "chapterId": 232,
+        "headingId": 242,
+        "headingText": "<p>The prognosis of Paget sarcoma and radiation-associated osteosarcoma, which are typically high-grade tumours unresponsive to chemotherapy, is worse than that of conventional osteosarcoma. In Paget sarcoma, patient age contributes to poor prognosis: the 2-year survival rate is 25%; 29% of patients have pulmonary metastases at presentation {15018182}.</p>\r\n<p>The 5-year survival rate in radiation-associated osteosarcoma is 10&ndash;32% {11162693}; 87% of tumours are high-grade {1365680}, and many patients die from metastatic disease within a few months {3280809}. Prognosis is better in operable extremity lesions {11025461}. The use of alkylating agents {3475572} and younger age at treatment {10561354} increase the risk of radiation-associated osteosarcoma and may reduce the latency period {11162693}.</p>\r\n<p>In the setting of cancer predisposition syndromes, the treatment and prognosis of individual tumours are similar to those of non-syndromic lesions; management is complicated and aims to maximize clinical surveillance while minimizing radiation exposure {22550413}.</p>",
+        "timestamp": "2020-01-06T15:57:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

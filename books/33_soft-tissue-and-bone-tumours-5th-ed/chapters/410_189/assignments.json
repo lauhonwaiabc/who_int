@@ -1,0 +1,36 @@
+[
+  {
+    "pkroleId": 70,
+    "bookId": "33",
+    "roleid": 28,
+    "roleTitle": "Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2362,
+        "lastname": "Flanagan",
+        "firstname": "Adrienne Margaret",
+        "initials": "AM",
+        "email": "",
+        "roleid": 28,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 71,
+    "bookId": "33",
+    "roleid": 29,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 1998,
+        "lastname": "Chan",
+        "firstname": "John K.C.",
+        "initials": "JKC",
+        "email": "",
+        "roleid": 29,
+        "position": 0
+      }
+    ]
+  }
+]

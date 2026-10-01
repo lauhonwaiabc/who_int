@@ -1,0 +1,82 @@
+[
+  {
+    "pkheadingid": 1109,
+    "bookid": 85,
+    "headingType": 6,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1426,
+    "contributions": [
+      {
+        "pkcontributionId": 151597,
+        "bookId": 85,
+        "chapterId": 51,
+        "headingId": 1426,
+        "headingText": "\r\n<p>Squamous cell carcinoma (SCC), HPV status undetermined, is an invasive and/or exophytic malignant epithelial tumour exhibiting squamous differentiation in which the HPV status cannot be determined.</p>\r\n",
+        "timestamp": "2026-08-25T18:27:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1110,
+    "bookid": 85,
+    "headingType": 6,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1427,
+    "contributions": [
+      {
+        "pkcontributionId": 151598,
+        "bookId": 85,
+        "chapterId": 51,
+        "headingId": 1427,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T18:27:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1111,
+    "bookid": 85,
+    "headingType": 6,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1428,
+    "contributions": [
+      {
+        "pkcontributionId": 151599,
+        "bookId": 85,
+        "chapterId": 51,
+        "headingId": 1428,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T18:27:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1112,
+    "bookid": 85,
+    "headingType": 6,
+    "headingTitle": "Histopathology",
+    "headingPosition": 4,
+    "headingid": 1429,
+    "contributions": [
+      {
+        "pkcontributionId": 151600,
+        "bookId": 85,
+        "chapterId": 51,
+        "headingId": 1429,
+        "headingText": "\r\n<p>Cervical squamous cell carcinoma should be classified according to HPV status by ancillary testing (such as p16 immunohistochemistry), and HPV testing (by in&nbsp;situ hybridization or other molecular techniques), since the morphological features are not predictive of HPV association {37638549}. In cases where ancillary testing of the tumour tissue is not feasible, the results are inconclusive, or HPV status from testing of a proximate cervical cytology or tissue sample is not available, the designation squamous cell carcinoma, HPV status undetermined, is used. It is important to note that the majority of these tumours are likely to be HPV associated, reflecting the central role of HPV in the pathogenesis of cervical squamous cell cancer. {37702216; 25410654; 30911077}.</p>",
+        "timestamp": "2026-08-25T18:27:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

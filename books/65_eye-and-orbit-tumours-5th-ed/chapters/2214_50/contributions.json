@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 137342,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 733,
+        "headingText": "\r\n<p>Inverted follicular keratosis (IFK) is characterized by a benign epithelial expansion by proliferation of squamous and basaloid cells of the follicular infundibulum.</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 137343,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 734,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 137344,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 735,
+        "headingText": "\r\n<p>2F21.0 Seborrhoeic keratosis</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 137345,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 736,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 137346,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 737,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 137347,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 738,
+        "headingText": "\r\n<p>IFK is found anywhere on the skin, including the eyelid {6229188}.</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 137348,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 739,
+        "headingText": "\r\n<p>IFKs are white-tan to pink asymptomatic papules of the eyelid; they may rarely present as cutaneous horns. Clinically they are often considered to be viral warts, and the remainder are often misdiagnosed as basal cell carcinoma {1141446;453311}.</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 137349,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 740,
+        "headingText": "\r\n<p>IFKs arise in middle-aged to elderly patients. Men are affected about twice as often as women {1141446;453311}.</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 137350,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 741,
+        "headingText": "\r\n<p>The etiology is unknown, although multiple IFKs can be considered an indicator of Cowden syndrome, an autosomal dominant disorder associated with a propensity for tumour formation due to a mutation in <em>PTEN </em>{15337985}.</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 137351,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 742,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 137352,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 749,
+        "headingText": "\r\n<p>Dome-shaped pinkish or skin-coloured papule</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 137353,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 743,
+        "headingText": "\r\n<p>IFK is usually a symmetrical invaginated (inverted) proliferation of basaloid and squamoid cells deriving from the follicular infundibulum. There is a lobular endophytic and exophytic growth pattern. The lobules contain a more-or-less central longitudinal crypt with keratin and lining by squamous epithelium. Basaloid cells are located at the periphery and squamoid cells at the centre of the lobule/crypt. The crypt may open onto the surface. While basaloid cells sometimes merge with squamous cells indefinably, it is at the points of junction of these two cell types that squamous eddies are frequently found. This consists of a sharply demarcated, rounded group of larger, eosinophilic, polygonal cells set in a background of basaloid cells. Mitotic figures are present but not atypical. In contrast to squamous cell carcinoma, the cells lack pleomorphism or atypia. There is no dermal destructive invasion. However, there may be heavy dermal chronic inflammation and acantholysis, which can pose difficulties in excluding invasion and in distinguishing from well-differentiated squamous cell carcinoma. In those cases, absence of dysplasia of the adjacent epidermis and absence of elastoid degeneration in IFK may be helpful {1141446}.</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 137354,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 744,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2026-03-31T14:58:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 137355,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 745,
+        "headingText": "\r\n<p>Multiple IFKs can be considered an indicator of Cowden syndrome, an autosomal dominant disorder associated with a propensity for tumour formation due to a mutation in the <em>PTEN</em> gene {15337985}.</p>\r\n",
+        "timestamp": "2026-03-31T14:58:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 137356,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 748,
+        "headingText": "\r\n<p><em>Essential:</em> symmetrical invaginated (inverted) proliferation of basaloid and squamoid cells deriving from the follicular infundibulum without atypia.</p>\r\n",
+        "timestamp": "2026-03-31T14:58:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 137357,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 746,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2026-03-31T14:58:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 137358,
+        "bookId": 65,
+        "chapterId": 50,
+        "headingId": 747,
+        "headingText": "\r\n<p>With incomplete excision IFK may recur within several weeks.</p>",
+        "timestamp": "2026-03-31T14:58:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

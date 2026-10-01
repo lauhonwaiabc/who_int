@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 115561,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 576,
+        "headingText": "\r\n<p>Lymphangioma is a benign vascular lesion composed of a localized collection of dilated lymphatic channels.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 115562,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 577,
+        "headingText": "\r\n<p>9170/0 Lymphangioma, NOS</p>\r\n<p>9170/0 Mixed lymphangioma</p>\r\n<p>9173/0 Cystic lymphangioma</p>\r\n<p>9173/0 Microcystic lymphangioma</p>\r\n<p>9173/0 Macrocystic lymphangioma</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 115563,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 578,
+        "headingText": "\r\n<p>LA90.12 &amp; XH9MR8 Lymphatic malformations of certain specified sites &amp; Lymphangioma</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 115564,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Acceptable:</em> cystic hygroma; vascular malformation; lymphatic malformation; lymphangiomatous polyps.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 115565,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 580,
+        "headingText": "\r\n<p>Microcystic lymphangioma and macrocystic lymphangioma (depends on cyst diameter; cut-off point: 10&nbsp;mm); mixed lymphangioma {30819600}</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 115566,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 581,
+        "headingText": "\r\n<p>Although the skin and subcutaneous tissue of the head and neck region are the most common sites for lymphangiomas, they are only occasionally reported in the oral cavity and salivary glands. Intraoral lymphangiomas arise most commonly on the dorsum of the tongue, followed by the palate, buccal mucosa, gingiva, and lips {31823215}.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 115567,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 582,
+        "headingText": "\r\n<p>Clinical behaviour varies, with erratic growth, progression, or even spontaneous regression during the first two decades of life. Symptoms are related to lesion size and perturbation of surrounding structures {22420724; 30819600}.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 115568,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 583,
+        "headingText": "\r\n<p>Lymphangiomas are relatively uncommon and usually diagnosed in infancy and early childhood; however, there is a broad age range {30677207; 22658544; 30819600}.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 115569,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 584,
+        "headingText": "<p >These lesions are caused by developmental errors in the vascular system due to mosaic somatic mutations arising during embryogenesis or, more rarely, due to constitutive pathogenic variants {31950476}.</p>",
+        "timestamp": "2023-11-17T14:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 115570,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 585,
+        "headingText": "\r\n<p>Activating mutations, mainly in <em>PIK3CA</em>, result in hyperactive PI3K/AKT signalling {22658544; 21793738; 31950476}.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 115571,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 592,
+        "headingText": "\r\n<p>Lesions are sponge-like and not always delineated. They can be pedunculated or, more rarely, sessile.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 115572,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 586,
+        "headingText": "\r\n<p>Variably sized, irregular, thin-walled, fluid-filled spaces are lined by lymphatic endothelium and surrounded by a stroma of fibrous, smooth muscle, and adipose tissue along with lymphocytes {22420724}. Red blood cells and organized thrombi may be seen in the lumina after trauma. Communication with the venous system is sometimes seen. The endothelial cells show expression of CD31 and (rarely) CD34 {11048808}. They also express podoplanin (recognized by D2-40), PROX1, VEGFR3, and LYVE1 {19098468; 24283866; 22420724}. The walls of the lymphatic vessels and/or the surrounding layer show expression of SMA {11048808; 21605441}.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 115573,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 587,
+        "headingText": "\r\n<p>Aspiration produces a lymphocyte-rich yellow fluid {30819600}.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 115574,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 588,
+        "headingText": "\r\n<p>Mutation analysis for <em>PIK3CA</em> in selected cases may be helpful.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 115575,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em> variably sized, mainly thin-walled lymphatic channels, often with aggregates of lymphocytes.</p>\r\n<p><em>Desirable:</em> expression of vascular markers and podoplanin (recognized by D2-40) (in selected cases).</p>",
+        "timestamp": "2023-11-17T14:09:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 115576,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 115577,
+        "bookId": 52,
+        "chapterId": 206,
+        "headingId": 590,
+        "headingText": "\r\n<p>Lymphangiomas are benign, but because of their propensity for involvement of deeper tissue planes, recurrence after surgical resection may occur {22420724}.</p>",
+        "timestamp": "2023-09-29T15:49:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

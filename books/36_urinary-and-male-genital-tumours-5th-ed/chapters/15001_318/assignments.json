@@ -1,0 +1,36 @@
+[
+  {
+    "pkroleId": 89,
+    "bookId": "36",
+    "roleid": 151,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2016,
+        "lastname": "Tsuzuki",
+        "firstname": "Toyonori",
+        "initials": "",
+        "email": "",
+        "roleid": 151,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 91,
+    "bookId": "36",
+    "roleid": 153,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2012,
+        "lastname": "Srigley",
+        "firstname": "John R.",
+        "initials": "",
+        "email": "",
+        "roleid": 153,
+        "position": 0
+      }
+    ]
+  }
+]

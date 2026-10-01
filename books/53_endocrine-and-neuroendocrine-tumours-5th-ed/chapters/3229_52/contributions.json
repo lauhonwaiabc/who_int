@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 122626,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 607,
+        "headingText": "<p>Mucoepidermoid carcinoma is a salivary gland&ndash;type carcinoma characterized by mucous, intermediate, and epidermoid (squamoid) tumour cells forming cystic and solid growth patterns.</p>",
+        "timestamp": "2024-12-17T13:08:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 122627,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 608,
+        "headingText": "\r\n<p>8430/3 Mucoepidermoid carcinoma</p>\r\n<p>8480/3 Mucinous carcinoma</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 122628,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 609,
+        "headingText": "\r\n<p>2D10.Y &amp; XH1J36 Other specified malignant neoplasms of thyroid gland &amp; Mucoepidermoid carcinoma</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 122629,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 610,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 122630,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 611,
+        "headingText": "\r\n<p>Mucinous carcinoma (rare subtype)</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 122631,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 612,
+        "headingText": "\r\n<p>It can occur anywhere in the thyroid gland {7557943} and (extremely rarely) in a thyroglossal duct cyst {26101054}.</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 122632,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 613,
+        "headingText": "\r\n<p>Patients are typically euthyroid, with most presenting with a unilateral painless nodule {32562215}. These tumours are cold on radioiodine scan {7557943; 32562215}.</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 122633,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 614,
+        "headingText": "\r\n<p>Mucoepidermoid carcinoma of the thyroid is a very rare tumour, with approximately 48&nbsp;cases reported to date {32562215}. It has a female predilection (M:F&nbsp;ratio: 1:1.5), and the mean age at diagnosis is 46&nbsp;years (range: 10&ndash;91&nbsp;years) {31011324; 32562215}. A history of previous neck irradiation in childhood has been reported in some cases {1992608; 24096806}. Associated chronic lymphocytic thyroiditis is common {7557943}.</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 122634,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 615,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 122635,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 616,
+        "headingText": "\r\n<p>The histogenesis of this entity has been subject to significant controversy, with origins proposed from ectopic salivary gland, solid cell nests, and thyroglossal duct remnants {15948129; 22224821}. Inception from metaplastic follicular epithelium is now favoured, implicating metaplastic dedifferentiation of well-differentiated thyroid carcinoma {22224821; 32562215}.</p>\r\n<p>The <em>CRTC1</em>::<em>MAML2</em> fusion transcript, which results from the t(11;19) translocation and is characteristic of salivary gland mucoepidermoid carcinoma, was found in 1&nbsp;of 3&nbsp;thyroid mucoepidermoid carcinomas tested {17437281}. In 1&nbsp;other tumour tested, the t(11;19) translocation was not detected, but an increased copy number of the <em>MAML2</em> gene was observed {26101054}. <em>BRAF</em> p.V600E mutations were not present in any thyroid mucoepidermoid carcinomas analysed for that mutation {14743508}.</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 122636,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 623,
+        "headingText": "\r\n<p>Reported tumours range from 3&nbsp;to 100&nbsp;mm in dimension, with a mean size of 27&nbsp;mm {32562215}. On cut section, the tumours are tan-brown to yellow-orange, solid/firm in consistency, with occasional cystic areas {7557943}.</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 122637,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 617,
+        "headingText": "<p>The tumours consists of large nests surrounded by a fibrotic stroma. The tumour islands are composed predominantly of epidermoid cells admixed with a smaller number of mucocytes that are easily highlighted by mucicarmine stain. The epidermoid cells are round to polygonal and have eosinophilic cytoplasm with round to oval nuclei and prominent central nucleoli {7557943}. Keratin formation can occur, and ciliated epithelial cells have been reported in some instances {7557943}. A cribriform pattern with lumina containing colloid-like material has been described {22970393}. Cysts, extracellular mucin, and psammoma bodies can be found {7557943; 10912941; 25307114}. There is mild nuclear pleomorphism, and mitotic figures are rarely seen {7557943}. Necrosis is seldom present. A concurrent papillary thyroid carcinoma is found in half of the cases {7557943; 10912941; 32562215}. Rarely, there is a concomitant follicular or oncocytic cell carcinoma {22224821}. Some mucoepidermoid carcinomas of the thyroid can transform into anaplastic thyroid carcinoma {6083973; 10912941}. Chronic lymphocytic thyroiditis is a common finding in the background thyroid {7557943}. Mucoepidermoid carcinomas of the thyroid are immunopositive for cytokeratins and p63 and negative for calcitonin, chromogranin, and synaptophysin {32562215}. They can express PAX8, thyroid transcription factor&nbsp;1 (TTF1), and thyroglobulin, whereas calcitonin and neuroendocrine markers are negative {10912941; 24096806; 26354716; 32562215}.</p>",
+        "timestamp": "2024-12-17T13:09:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 122638,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 618,
+        "headingText": "<p>FNA smears contain predominantly epidermoid cells along with cells showing squamous differentiation with keratinization and intercellular bridges, as well as glandular cells with intracytoplasmic mucin {25307114; 10740618}. A microcystic-like pattern containing small eosinophilic globules and/or amorphous material can be found {10740618}. A third cellular component of papillary thyroid carcinoma cells can also be seen {25307114}. Features of an associated anaplastic carcinoma can rarely be present {9990275}.</p>",
+        "timestamp": "2024-12-17T13:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 122639,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 619,
+        "headingText": "\r\n<p>Demonstration of <em>MAML2</em> rearrangement may be helpful in selected cases {17437281}.</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 122640,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> a tumour with mucous cells, intermediate cells, and squamoid cells.</p>\r\n<p><em>Desirable:</em> <em>MAML2</em> rearrangement (in selected cases).</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 122641,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 620,
+        "headingText": "\r\n<p>Staging is according to the Union for International Cancer Control (UICC) and American Joint Committee on Cancer (AJCC) staging systems.</p>\r\n",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 122642,
+        "bookId": 53,
+        "chapterId": 52,
+        "headingId": 621,
+        "headingText": "\r\n<p>Most patients have an excellent outcome, and mucoepidermoid carcinoma of the thyroid is considered to be an indolent tumour {32562215; 7557943; 24096806}. Metastases to the neck lymph nodes are common {6083973; 6697313}, but distant metastases are unusual {7557943; 1992608; 32562215}. Death from the disease occurs in a minority patients, often due to anaplastic transformation {6083973; 10740618; 10912941}.</p>",
+        "timestamp": "2024-10-09T11:57:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

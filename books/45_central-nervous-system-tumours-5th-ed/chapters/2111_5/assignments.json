@@ -1,0 +1,125 @@
+[
+  {
+    "pkroleId": 93,
+    "bookId": "45",
+    "roleid": 130,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2558,
+        "lastname": "Louis",
+        "firstname": "David N.",
+        "initials": "",
+        "email": "",
+        "roleid": 130,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 95,
+    "bookId": "45",
+    "roleid": 139,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3492,
+        "lastname": "Brat",
+        "firstname": "Daniel J.",
+        "initials": "",
+        "email": "",
+        "roleid": 139,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 96,
+    "bookId": "45",
+    "roleid": 140,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2512,
+        "lastname": "Reuss",
+        "firstname": "David Emanuel",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 2754,
+        "lastname": "von Deimling",
+        "firstname": "Andreas",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3570,
+        "lastname": "Huse",
+        "firstname": "Jason T.",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3575,
+        "lastname": "Komori",
+        "firstname": "Takashi",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3613,
+        "lastname": "Suvà",
+        "firstname": "Mario L.",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3630,
+        "lastname": "Weller",
+        "firstname": "Michael",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3664,
+        "lastname": "Cahill",
+        "firstname": "Daniel Patrick",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3666,
+        "lastname": "Cimino",
+        "firstname": "Patrick J.",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3689,
+        "lastname": "Kleinschmidt-DeMasters",
+        "firstname": "Bette K.",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      }
+    ]
+  }
+]

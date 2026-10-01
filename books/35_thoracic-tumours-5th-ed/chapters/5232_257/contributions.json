@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 68370,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 432,
+        "headingText": "\r\n<p>Small cell carcinoma (SmCC) is a high-grade thymic carcinoma of neuroendocrine origin. Combined SmCC has an additional component of other thymic epithelial tumours (including thymoma and/or thymic carcinoma).</p>\r\n",
+        "timestamp": "2020-10-27T10:11:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 68371,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 433,
+        "headingText": "<p>8041/3 Small cell carcinoma</p>\r\n<p>8045/3 Combined small cell carcinoma</p>",
+        "timestamp": "2020-12-15T17:21:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 68372,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 434,
+        "headingText": "\r\n<p>2C27.Y &amp; XH0YB0 Other specified malignant neoplasms of thymus &amp; Small cell carcinoma, NOS</p>\r\n",
+        "timestamp": "2020-10-27T10:11:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 68373,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Not recommended:</em> oat cell carcinoma; poorly differentiated (high-grade) neuroendocrine carcinoma (obsolete).</p>\r\n",
+        "timestamp": "2020-10-27T10:11:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 68374,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 436,
+        "headingText": "<p>Small cell carcinoma; combined small cell carcinoma</p>",
+        "timestamp": "2020-12-04T11:43:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 68375,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 437,
+        "headingText": "<p>SmCCs occur in the anterior (prevascular) mediastinum.</p>",
+        "timestamp": "2021-01-04T11:42:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 68376,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 438,
+        "headingText": "\r\n<p>Symptoms include weight loss, sweating, chest pain, cough, and superior vena cava syndrome {12853516; 2294778; 6279270; 6295194}. Exceptional patients may present with Cushing syndrome due to ectopic ACTH production {11261817}. Most tumours show invasion of neighbouring structures such as the lung, pericardium, pulmonary artery, phrenic nerve, or aortic arch {2294778; 11261817; 6279270; 6295194}, or distant metastases to the lung, bone, brain, liver, and abdominal lymph nodes {24764238; 12853516; 2294778; 1689123; 6279270; 6295194}.</p>\r\n",
+        "timestamp": "2020-10-27T10:11:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 68377,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 439,
+        "headingText": "\r\n<p>SmCCs account for approximately 10% of all thymic neuroendocrine neoplasms (NENs) {16230946; 11603433; 10884805; 24764238; 12853516}, with an estimated incidence of 1&nbsp;case per 50&nbsp;million individuals per year {20485130}. Men and women are equally affected, and the median patient age is 58&nbsp;years (range: 37&ndash;63&nbsp;years) {24764238; 2294778; 11261817; 1689123; 6279270; 6295194}.</p>\r\n",
+        "timestamp": "2020-10-27T10:11:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 68378,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 440,
+        "headingText": "\r\n<p>The etiology of SmCC is unknown. SmCCs do not occur in multiple endocrine neoplasia type&nbsp;1 {12853516; 15713725; 12629087; 19294466; 22690831}. There are no data on the etiological role of smoking.</p>\r\n",
+        "timestamp": "2020-10-27T10:11:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 68379,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 441,
+        "headingText": "\r\n<p>The pathogenesis of thymic SmCC is unknown. The tumour does not appear to evolve from thymic carcinoid tumours, in line with other NENs {30140036}. There are limited genetic data available. Two studied tumours were highly aberrant, showing multiple chromosomal gains and losses that were mostly overlapping with the more stable thymic carcinoid tumours and large cell neuroendocrine carcinomas (LCNECs) {24764238}. In addition, SmCCs show a high copy-number instability score by whole-genome sequencing {31042566}.</p>\r\n",
+        "timestamp": "2020-10-27T10:11:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 68380,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 448,
+        "headingText": "<p>The macroscopy of SmCC is similar to that of other thymic NENs, but necrosis and haemorrhage can be extensive. The tumours may be large, measuring 100&ndash;150 mm in diameter {2294778; 6279270; 6295194}.</p>",
+        "timestamp": "2021-02-03T11:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 68381,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 442,
+        "headingText": "<p>The histology of thymic SmCC is identical to that of SmCCs in other organs (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/72\" target=\"_blank\">section </a><em>Small cell lung carcinoma</em>). Tumour cells are small (usually &lt;&nbsp;3&nbsp;times the size of a small resting lymphocyte), with scant cytoplasm. Nuclei can be round, oval, or spindle-shaped; the chromatin is finely granular, and nucleoli are inconspicuous or absent. Apoptotic bodies are often numerous. Mitotic count is high, &gt;&nbsp;10&nbsp;mitoses/2&nbsp;mm<sup>2</sup> but averaging &gt;&nbsp;50&nbsp;mitoses/2&nbsp;mm<sup>2</sup>. Neuroendocrine differentiation can be demonstrated in some cases by electron microscopy {12853516; 1689123}.</p>\r\n<p>Combined SmCC with thymoma, squamous cell carcinoma, or adenosquamous cell carcinoma has been reported.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Most cases stain for keratins, with rare exceptions {2294778; 11261817; 1689123}, and most tumours stain with neuroendocrine markers such as chromogranin, synaptophysin, or CD56 {12853516; 2294778; 11261817; 1689123}, although expression of neuroendocrine markers is not required for the diagnosis. ACTH may be expressed. The Ki-67 index is high, usually &gt;&nbsp;50% and often 80&ndash;100%.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The main differential diagnosis is metastasis from pulmonary SmCC, which requires careful correlation with clinical findings and imaging. TTF1 staining can be positive in thymic SmCC as in other extrapulmonary SmCCs {27761900}. The diagnosis of SmCC with negative keratin should be made with great caution after exclusion of lymphoma (CD45, TdT, and CD3) and Ewing sarcoma (e.g. CD99 or <em>EWSR1</em> translocation).</p>",
+        "timestamp": "2020-12-01T17:29:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 68382,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 443,
+        "headingText": "\r\n<p>The tumour cells show a high N:C&nbsp;ratio, scant cytoplasm, nuclear moulding, and finely granular nuclear chromatin. The nucleoli are inconspicuous or absent. Crush artefacts, nuclear breakdown, and apoptotic bodies are common.</p>\r\n",
+        "timestamp": "2020-10-27T10:11:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 68383,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 444,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-10-27T10:11:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 68384,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Radiological evidence of thymic origin</li>\r\n<li>Exclusion of a tumour spreading from the lung or metastatic from another extrapulmonary site to the thymus</li>\r\n<li>A tumour consisting purely of small cells with characteristic morphology similar to lung SmCCs</li>\r\n<li>Combined SmCC: a small carcinoma combined with another histology such as thymoma or other type of thymic carcinoma</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Positive immunohistochemistry for cytokeratins and neuroendocrine markers, as well as elevated Ki-67 (usually &gt;&nbsp;50%)</li>\r\n</ul>",
+        "timestamp": "2021-02-22T17:10:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 68385,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 445,
+        "headingText": "<p>Tumours are staged according to the eighth-edition TNM classification [[Brierley JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley-Blackwell; 2017.]] {25396314}.</p>",
+        "timestamp": "2021-01-14T11:15:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 68386,
+        "bookId": 35,
+        "chapterId": 257,
+        "headingId": 446,
+        "headingText": "\r\n<p>Prognosis is poor, with a 5-year survival rate of 0% {24764238; 10705813}. Median survival time is 14&nbsp;months (range: 13&ndash;26&nbsp;months) {24764238; 12853516; 2294778; 6279270; 6295194}.</p>",
+        "timestamp": "2020-10-27T10:11:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

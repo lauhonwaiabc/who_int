@@ -1,0 +1,97 @@
+[
+  {
+    "pkroleId": 85,
+    "bookId": "35",
+    "roleid": 117,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2874,
+        "lastname": "Yatabe",
+        "firstname": "Yasushi",
+        "initials": "",
+        "email": "",
+        "roleid": 117,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 86,
+    "bookId": "35",
+    "roleid": 118,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2872,
+        "lastname": "Travis",
+        "firstname": "William D.",
+        "initials": "",
+        "email": "",
+        "roleid": 118,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 87,
+    "bookId": "35",
+    "roleid": 119,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2883,
+        "lastname": "Jain",
+        "firstname": "Deepali",
+        "initials": "",
+        "email": "",
+        "roleid": 119,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 88,
+    "bookId": "35",
+    "roleid": 120,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2011,
+        "lastname": "Soares",
+        "firstname": "Fernando Augusto",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3409,
+        "lastname": "MacMahon",
+        "firstname": "Heber",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3431,
+        "lastname": "Nakatani",
+        "firstname": "Yukio",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3489,
+        "lastname": "Zhang",
+        "firstname": "Jie",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      }
+    ]
+  }
+]

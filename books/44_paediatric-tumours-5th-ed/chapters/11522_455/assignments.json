@@ -1,0 +1,97 @@
+[
+  {
+    "pkroleId": 129,
+    "bookId": "44",
+    "roleid": 131,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3646,
+        "lastname": "Jarzembowski",
+        "firstname": "Jason A.",
+        "initials": "",
+        "email": "",
+        "roleid": 131,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 130,
+    "bookId": "44",
+    "roleid": 132,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2816,
+        "lastname": "Mete",
+        "firstname": "Ozgur",
+        "initials": "",
+        "email": "",
+        "roleid": 132,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 131,
+    "bookId": "44",
+    "roleid": 133,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2499,
+        "lastname": "Hicks",
+        "firstname": "M. John",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 2923,
+        "lastname": "de Krijger",
+        "firstname": "Ronald R.",
+        "initials": "RR",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3037,
+        "lastname": "Tischler",
+        "firstname": "Arthur S.",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3107,
+        "lastname": "Kimura",
+        "firstname": "Noriko",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 132,
+    "bookId": "44",
+    "roleid": 150,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2014,
+        "lastname": "Thompson",
+        "firstname": "Lester D.R.",
+        "initials": "",
+        "email": "",
+        "roleid": 150,
+        "position": 0
+      }
+    ]
+  }
+]

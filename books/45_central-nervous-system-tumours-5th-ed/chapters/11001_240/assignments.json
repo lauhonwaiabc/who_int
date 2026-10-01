@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 93,
+    "bookId": "45",
+    "roleid": 130,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 3494,
+        "lastname": "Ng",
+        "firstname": "Ho-Keung",
+        "initials": "",
+        "email": "",
+        "roleid": 130,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 94,
+    "bookId": "45",
+    "roleid": 138,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2012,
+        "lastname": "Srigley",
+        "firstname": "John R.",
+        "initials": "",
+        "email": "",
+        "roleid": 138,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 95,
+    "bookId": "45",
+    "roleid": 139,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3598,
+        "lastname": "Rosenblum",
+        "firstname": "Marc K.",
+        "initials": "",
+        "email": "",
+        "roleid": 139,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 96,
+    "bookId": "45",
+    "roleid": 140,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3556,
+        "lastname": "Ichimura",
+        "firstname": "Koichi",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3594,
+        "lastname": "Pietsch",
+        "firstname": "Torsten",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3695,
+        "lastname": "Lau",
+        "firstname": "Ching C.",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3706,
+        "lastname": "Nishikawa",
+        "firstname": "Ryo",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3732,
+        "lastname": "Wong",
+        "firstname": "Tai-Tong",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 149,
+    "bookId": "53",
+    "roleid": 173,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 3034,
+        "lastname": "Tallini",
+        "firstname": "Giovanni",
+        "initials": "",
+        "email": "",
+        "roleid": 173,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 150,
+    "bookId": "53",
+    "roleid": 174,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2014,
+        "lastname": "Thompson",
+        "firstname": "Lester D.R.",
+        "initials": "",
+        "email": "",
+        "roleid": 174,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 151,
+    "bookId": "53",
+    "roleid": 175,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2947,
+        "lastname": "Ghossein",
+        "firstname": "Ronald A.",
+        "initials": "",
+        "email": "",
+        "roleid": 175,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 152,
+    "bookId": "53",
+    "roleid": 176,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2098,
+        "lastname": "Rindi",
+        "firstname": "Guido",
+        "initials": "G",
+        "email": "",
+        "roleid": 176,
+        "position": 0
+      },
+      {
+        "contributorid": 2901,
+        "lastname": "Baloch",
+        "firstname": "Zubair Wahid",
+        "initials": "",
+        "email": "",
+        "roleid": 176,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 103646,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 466,
+        "headingText": "<p>Juvenile myelomonocytic leukaemia (JMML) is a myeloproliferative neoplasm of early childhood characterized by granulocytosis and monocytosis, resulting from germline or somatic genetic alterations leading to constitutive activation of the RAS signalling pathway.</p>",
+        "timestamp": "2023-05-10T10:13:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 103647,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 467,
+        "headingText": "<p>9946/3 Juvenile myelomonocytic leukaemia (JMML)</p>\r\n<p>9946/3 <em>PTPN11</em>-mutated JMML</p>\r\n<p>9946/3 <em>NRAS</em>-mutated JMML</p>\r\n<p>9946/3 <em>KRAS</em>-mutated JMML</p>\r\n<p>9946/3 JMML in neurofibromatosis type 1 (<em>NF1</em>)</p>\r\n<p>9946/3 JMML in children with <em>CBL</em> syndrome</p>\r\n<p>9946/3 JMML-like disorders in children with Noonan syndrome (NS)</p>",
+        "timestamp": "2023-05-10T10:02:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 103648,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A42.Z Juvenile myelomonocytic leukaemia, unspecified</p>\r\n<p>2A42.0 Juvenile myelomonocytic leukaemia in complete remission</p>\r\n",
+        "timestamp": "2022-07-08T14:48:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 103649,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> juvenile chronic myeloid leukaemia; juvenile chronic myelomonocytic leukaemia; infantile monosomy&nbsp;7 syndrome.</p>\r\n",
+        "timestamp": "2022-07-08T14:48:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 103650,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 470,
+        "headingText": "<p><em>PTPN11</em>-mutated JMML; <em>NRAS</em>-mutated JMML; <em>KRAS</em>-mutated JMML;&nbsp;JMML in neurofibromatosis type&nbsp;1 (<em>NF1</em>); JMML in children with <em>CBL</em> syndrome; JMML-like disorders in children with Noonan syndrome (NS)</p>",
+        "timestamp": "2023-05-10T10:02:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 103651,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 471,
+        "headingText": "\r\n<p>Peripheral blood and bone marrow always show evidence of myelomonocytic proliferation in JMML. Leukaemic infiltration of the liver and spleen is found in virtually all cases. The lymph node, skin, respiratory system, and gut are other common sites of involvement, although any organ can be infiltrated {9885207; 9160658}. JMML rarely involves the CNS {10647883; 14608204; 17984696; 33404720}.</p>\r\n",
+        "timestamp": "2022-07-08T14:48:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 103652,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 472,
+        "headingText": "\r\n<p>Children with JMML are generally young and show marked hepatosplenomegaly. Lymphadenopathy, enlarged tonsils, interstitial lung disease with cough and tachypnoea, and gut infiltrates are common. Signs of bleeding are frequent, and about a quarter of patients have pleomorphic leukaemic skin lesions ranging from eczematous eruptions, to indurated raised lesions with central clearing, to Sweet syndrome. In addition, nonspecific lesions like juvenile xanthogranuloma may be present. Although 1&nbsp;or 2&nbsp;caf&eacute;-au-lait spots are often seen in patients with <em>CBL</em> syndrome {20694012; 25952305}, the clinical diagnosis of neurofibromatosis type&nbsp;1 (NF1) in infants with JMML requires &ge;&nbsp;6&nbsp;lesions that are &gt;&nbsp;5&nbsp;mm in size.</p>\r\n<p>The complete blood count generally shows leukocytosis, thrombocytopenia, and often anaemia {9885207; 9160658}. The median reported white blood cell count varies from 25&nbsp;to 30&nbsp;&times;&nbsp;10<sup>9</sup>/L; occasionally it is within the normal range. In addition to immature granulocytes, a few blasts may be present {6589029; 9160658}. Although most cases show striking monocytosis, with a monocyte count of &gt;&nbsp;1&nbsp;&times;&nbsp;10<sup>9</sup>/L {9414312; 21239819; 25564399}, some have a lower monocyte count {7703482; 9160658}.</p>\r\n<p>Many patients with JMML display a markedly increased synthesis of haemoglobin&nbsp;F {9160658}. Additional features include elevated immunoglobulin levels and the presence of autoantibodies, which rarely cause clinical symptoms {6589029; 9160658}.</p>\r\n",
+        "timestamp": "2022-07-08T14:48:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 103653,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 473,
+        "headingText": "\r\n<p>The incidence of JMML is estimated at 1.3&nbsp;cases per 1&nbsp;million person-years in children aged 0&ndash;14&nbsp;years {8025513; 7703482}. The age at diagnosis ranges from 1&nbsp;month to adolescence, but 95% of patients are aged &lt;&nbsp;3&nbsp;years {9885207; 9160658}. Boys are affected twice as frequently as girls. Approximately 15% of cases occur in infants with <em>CBL</em> syndrome and 10% occur in children with NF1.</p>\r\n",
+        "timestamp": "2022-07-08T14:48:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 103654,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 474,
+        "headingText": "\r\n<p>JMML in patients with NF1 or <em>CBL</em> syndrome is related to the respective predisposing germline mutation. In patients with NF1, the risk of developing JMML is approximately 300-fold higher than that in patients without NF1 {20015894}. Susceptibility for JMML in children with a germline <em>CBL</em> mutation is high, although the small number of patients precludes a more accurate estimation of risk {25952305}. The etiology of JMML with somatic <em>PTPN11</em>, <em>NRAS</em>, or <em>KRAS</em> mutations is unknown.</p>\r\n",
+        "timestamp": "2022-07-08T14:48:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 103655,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 475,
+        "headingText": "<p>JMML is considered a unique example of RAS-driven oncogenesis because it is associated in &gt;&nbsp;90% of cases with mutations in RAS genes (<em>NRAS</em> in 15&ndash;25%; <em>KRAS</em> in 15&ndash;20%; rarely <em>RRAS</em>, <em>RRAS2</em>, or <em>RIT1</em>) or in regulators of the RAS pathway (<em>PTPN11</em> in 35&ndash;40%, <em>NF1</em> in 5&ndash;10%, or <em><u>CBL</u></em> in 12&ndash;15%) leading to constitutive activation of the RAS signalling pathway and increasing the sensitivity of myeloid progenitors to granulocyte&ndash;macrophage colony&ndash;stimulating factor.</p>\r\n<p>RAS activating mutations are generally mutually exclusive and define subgroups with distinct clinical and haematological presentations. In 40% of somatically acquired mutations, the initial event can be traced back to birth, prior to disease development, implying that the initial genetic event occurs in utero {34183765}.</p>\r\n<p>Secondary somatic mutations can be seen in some patients and can be associated with tumour progression and poor outcomes {26457648}. They include second hits in one of the other RAS pathway genes, as well as mutations in various other targets {23832011; 26457647; 26457648}.</p>\r\n<p>Altered DNA methylation is a common feature {21406719}, and DNA hypermethylation may be associated with a more aggressive clinical course and secondary mutations {29259247; 29259179; 29437595; 33139265}.</p>",
+        "timestamp": "2023-05-10T10:04:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 103656,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 482,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-08T14:48:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 103657,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 476,
+        "headingText": "<p>The bone marrow is hypercellular with granulocytic proliferation, although in some patients erythroid precursors may predominate {9160658; 7703482}. The monocyte compartment is less prominent than in peripheral blood, generally accounting for 5&ndash;10% of bone marrow cells. Megakaryocytes are often reduced in number, and the blast percentage is &lt;&nbsp;20%.</p>\r\n<p>In leukaemic skin lesions, myelomonocytic cells infiltrate the superficial and deep dermis. In the lung, leukaemic cells spread from the capillaries of the alveolar septa into alveoli, and in the spleen, they infiltrate the red pulp and have a predilection for trabecular and central arteries. In the liver, the sinusoids and the portal tracts are infiltrated.</p>\r\n<p>No specific immunophenotypic abnormalities have been reported in JMML. In extramedullary tissues, the monocytic component is best detected by immunohistochemical techniques that detect lysozyme and CD68R. However, individual cases may show infiltration almost exclusively by myeloperoxidase-positive granulopoietic precursor cells.</p>",
+        "timestamp": "2023-05-10T10:04:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 103658,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 477,
+        "headingText": "\r\n<p>The peripheral blood smear is the most important specimen for diagnosis. Leukocytosis comprises mainly neutrophils, with some promyelocytes and myelocytes. The presence of myeloid and often erythroid precursors is a consistent feature of JMML {9160658}. Blasts usually account for &lt;&nbsp;5% of white cells, and always &lt;&nbsp;20%. Monocytes are generally increased in number and often abnormal with cytoplasmic vacuoles. Eosinophilia and basophilia are observed occasionally. Red blood cell changes include macrocytosis, particularly in patients with monosomy&nbsp;7, but normocytic red cells are more common, and occasional cases with persistent microcytosis {9590152} might be due to epigenetic dysregulation of the &beta;-globin genes {28749240}. Although platelet counts are variable, thrombocytopenia is usual and may be severe {9885207; 9160658; 7703482}.</p>\r\n<p>Most often dysplasia is minimal. Dysgranulopoiesis (including pseudo&ndash;Pelger&ndash;Hu&euml;t neutrophils or hypogranularity) may be noted, and erythroid precursors may be enlarged. Marked megakaryocytic dysplasia is unusual {9160658; 7703482}. Staining with &alpha;-naphthyl acetate esterase or with &alpha;-naphthyl butyrate esterase, alone or in combination with naphthol AS-D chloroacetate esterase, may be helpful in detecting the monocyte compartment. Flow cytometry studies show an abnormal blast population, with expression of CD7 and low expression of CD13 and CD33. Granulocytes may also show an abnormal maturation pattern, particularly with the CD13/CD16 combination. Monocytes may express downregulated HLA-DR {34387930}.</p>\r\n",
+        "timestamp": "2022-07-08T14:48:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 103659,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 478,
+        "headingText": "\r\n<p>The presence of one of the five canonical RAS pathway mutations greatly facilitates the diagnostic process. A clinical diagnosis of NF1 based on caf&eacute;-au-lait spots is reliable in children with JMML and NF1, but JMML may be the first manifestation of NF1 in some of these infants {26457647}. Careful genetic workup unmasked <em>NF1</em> lesions in a considerable number of cases previously considered negative for RAS pathway mutations [[Ramamoorthy SK, Noutsos T, Wei D, et al. Recurrent and refractory hemophagocytic lymphohistiocytosis in an elderly. Role of immune aberration due to myeloid gene mutation. Blood. 2020 Nov 5;136(suppl 1):24&ndash;6. doi:10.1182/blood-2020-133776.]]. Cytogenetic studies of JMML cells show a normal karyotype in 65% of cases, sole monosomy&nbsp;7 in approximately 25%, and other aberrations in 10% {9160658}. The likelihood of an abnormal karyotype is dependent on the genetic subtype, with monosomy&nbsp;7 most often noted in <em>KRAS</em>-mutated disease {33139265}.</p>\r\n<p>The haematological presentation of JMML cannot be differentiated from that of transient myeloproliferative disorder noted in some children with Noonan syndrome (MIM number: 163950) with a germline mutation in <em>PTPN11</em> {9202609; 9149755; 25097206} or (rarely) <em>NRAS</em> {19775298}, <em>KRAS</em> {16474405}, or <em>RIT1</em> {26757980; 26518681}. Although the vast majority of patients with both Noonan syndrome and myeloproliferative disorder harbour germline <em>PTPN11</em> mutations predicted to result in a weaker gain-of-function effect than the somatic <em>PTPN11</em> mutations in children with JMML {15928039}, there is a broad overlap between germline and somatic <em>PTPN11</em> mutations. Genetic analysis of non-haematological tissue is advisable before establishing the diagnosis of JMML specifically in infants with JMML {25420281}.</p>\r\n<p><em>NRAS</em>- and <em>KRAS</em>-mutated JMML share features with a disorder named RAS-associated lymphoproliferative disease (RALD). JMML and RALD (with the exception of leukopenia in RALD) show overlapping clinical and laboratory features. The two entities may represent different phenotypes of the same disease {25691160; 33011939}.</p>\r\n",
+        "timestamp": "2022-07-08T14:48:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 103660,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 481,
+        "headingText": "<p><em>Essential:</em> A diagnosis of JMML can be established in the presence of a clinical and haematological picture compatible with JMML and detection of one of the five canonical RAS pathway driver in leukaemic cells:</p>\r\n<ul>\r\n<li>biallelic molecular alterations of the <em>NF1</em> gene or a clinical diagnosis of NF1</li>\r\n<li>somatic <em>PTPN11</em> mutation</li>\r\n<li>oncogenic <em>NRAS</em> mutation</li>\r\n<li>oncogenic <em>KRAS</em> mutation</li>\r\n<li>biallelic (in some cases heterozygous only) molecular alterations of the <em>CBL</em> gene</li>\r\n</ul>\r\n<p><em>Note:</em> With &gt;&nbsp;90% of JMML cases defined by these molecular alterations, diagnostic criteria as published previously {25564399} are no longer helpful and may hinder careful exclusion of other rare neoplasms when RAS pathway lesions are absent (see <a style=\"cursor:pointer\" href=\"/attachment/44/17/23816\" target=\"_blank\">#23816</a>Box&nbsp;2.02).</p>",
+        "timestamp": "2023-04-27T17:56:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 103661,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-08T14:48:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 103662,
+        "bookId": 44,
+        "chapterId": 17,
+        "headingId": 480,
+        "headingText": "\r\n<p>A low platelet count, age &gt;&nbsp;2&nbsp;years at diagnosis, and high haemoglobin&nbsp;F are clinical predictors of short survival {9160658; 7703482}. The presence of secondary mutations {23832011; 25395418; 26457648} or DNA hypermethylation {29259247; 29259179; 29437595; 33139265} is also associated with inferior survival. In the absence of haematopoietic stem cell transplantation, <em>PTPN11</em>- or <em>NF1</em>-mutated JMML are invariably fatal disorders. JMML with <em>KRAS</em> or <em>NRAS</em> mutation generally runs an aggressive course with the need for early haematopoietic stem cell transplantation; in a small number of infants, spontaneous regression is noted {25564399}. Most children with <em>CBL</em>-mutated JMML have self-limiting disease with persistence of clonal haematopoiesis {20694012; 31511612}.</p>",
+        "timestamp": "2022-07-08T14:48:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

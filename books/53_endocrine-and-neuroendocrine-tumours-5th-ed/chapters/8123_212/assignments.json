@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 149,
+    "bookId": "53",
+    "roleid": 173,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2816,
+        "lastname": "Mete",
+        "firstname": "Ozgur",
+        "initials": "",
+        "email": "",
+        "roleid": 173,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 150,
+    "bookId": "53",
+    "roleid": 174,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2014,
+        "lastname": "Thompson",
+        "firstname": "Lester D.R.",
+        "initials": "",
+        "email": "",
+        "roleid": 174,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 151,
+    "bookId": "53",
+    "roleid": 175,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2709,
+        "lastname": "Tetzlaff",
+        "firstname": "Michael",
+        "initials": "",
+        "email": "",
+        "roleid": 175,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 152,
+    "bookId": "53",
+    "roleid": 176,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2665,
+        "lastname": "Messina",
+        "firstname": "Jane",
+        "initials": "",
+        "email": "",
+        "roleid": 176,
+        "position": 0
+      },
+      {
+        "contributorid": 4583,
+        "lastname": "Tsai",
+        "firstname": "Kenneth",
+        "initials": "",
+        "email": "",
+        "roleid": 176,
+        "position": 0
+      }
+    ]
+  }
+]

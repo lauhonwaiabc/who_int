@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 112969,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 576,
+        "headingText": "\r\n<p>Meningioma is a neoplasm of meningothelial/arachnoid cap cells.</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 112970,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 577,
+        "headingText": "<p>9530/0 Meningioma, NOS</p>\r\n<p>9531/0 Meningothelial meningioma</p>\r\n<p>9533/0 Psammomatous meningioma</p>",
+        "timestamp": "2023-11-10T12:20:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 112971,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 578,
+        "headingText": "\r\n<p>2F00.Y &amp; XH11P5 &amp; XA43C9 &amp; XH11P5 Other specified benign neoplasms of middle ear or respiratory system &amp; Nasal cavity &amp; Accessory sinuses &amp; Meningioma, NOS</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 112972,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 579,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 112973,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 580,
+        "headingText": "<p>Meningothelial and psammomatous meningiomas are the most common; for other subtypes, please see the WHO classification of CNS tumours [[WHO Classification of Tumours Editorial Board. Central nervous system tumours. Lyon (France): International Agency for Research on Cancer; 2021. (WHO classification of tumours series, 5th ed.; vol. 6). https://publications.iarc.who.int/601.]].</p>",
+        "timestamp": "2023-10-16T11:29:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 112974,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 581,
+        "headingText": "\r\n<p>Meningiomas of the head and neck most commonly arise by direct extension of an intracranial lesion, but they may occur ectopically within the sinonasal tract (nasal cavity more often than paranasal sinuses) or ear&nbsp;/ temporal bone without any discernible connection to the CNS {10800982; 10919384; 12640104; 16134320; 19644540; 25560515; 26191274; 28739401}. Exclusion of an intracranial primary should be documented before diagnosing ectopic meningioma. Multifocality is commonly present, and tumours are more frequently left-sided {2104554; 6478422; 10800982; 19644540}. Rarely, they reach these sites via metastasis from an intracranial tumour.</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 112975,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 582,
+        "headingText": "\r\n<p>Symptoms are nonspecific and usually present for years (as long as 15&nbsp;years; mean: 5&nbsp;years). These are secondary to mass effects and include nasal obstruction and epistaxis for nasal cavity lesions {2104554; 6435426; 6478422; 10800982}, and hearing loss, tinnitus, otitis media, pain, headaches, dizziness, and vertigo for ear&nbsp;/ temporal bone lesions {19644540; 22494527; 24650749}.</p>\r\n<h5>Imaging</h5>\r\n<p>Imaging studies document the extent, location, and intracranial involvement of the tumour. This is important for meningiomas with an en&nbsp;plaque configuration. CT demonstrates a hyperdense mass compared with brain tissue. MRI shows uniform enhancement of the tumour. Calcifications may be seen. Bone invasion is often accompanied by hyperostosis {1749851; 7862283; 7998492; 10800982; 19934984; 20079153; 21600866; 22406780; 25681214}. Nuclear medicine radiopharmaceutical-labelled scans may identify incidental meningiomas {27399848; 31040748}.</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 112976,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 583,
+        "headingText": "\r\n<p>About 20% of intracranial meningiomas extend beyond the cranial cavity (orbit, middle ear, sinonasal tract, skin) {4752462; 25560515; 26881652}. Primary extracranial meningiomas are rare, accounting for 0.2% of primary sinonasal tract neoplasms {10800982} and 2% of all meningiomas. Sinonasal meningiomas account for about a quarter of all primary extracranial meningiomas {19644540}. Meningiomas within the head and neck show a slight female predominance (M:F&nbsp;ratio: 1:1.2), with a peak incidence in the fifth decade of life. However, there is a broad age range (9&ndash;90&nbsp;years), with women presenting about a decade later than men (49&nbsp;vs 37&nbsp;years) {8285520; 10800982; 10919384; 12640104; 19644540; 22078714; 23326015; 24650749; 25560515; 25744347}.</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 112977,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 584,
+        "headingText": "\r\n<p>Like for intracranial meningiomas, ionizing radiation exposure is a potential etiological factor {2104554; 8988089; 10800982}, with a long latency period, especially in patients who were very young at the time of exposure or had a high radiation dose {23816298; 28339329}. Hormones may play a role, given that there is a higher incidence in women of reproductive age and those who use hormone replacement therapy. Hormone receptors, especially PR, are expressed in the tumours; however, a causal role is difficult to prove {7861224; 8587697; 11108890; 25335165}. There are several genetic predispositions, most commonly neurofibromatosis type&nbsp;2.</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 112978,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 585,
+        "headingText": "\r\n<p>Meningiomas are derived from arachnoid cap cells. Extracranial meningiomas are postulated to develop from arachnoidal cells in the proximal sheaths of cranial/spinal nerves and blood vessels where they emerge through skull foramina, from displaced arachnoid cap cells that become detached or entrapped during embryological development in an extracranial location, from a traumatic event or cerebral hypertension that displaces cap cells, or from undifferentiated/multipotential mesenchymal cells {6478422; 10800982; 17690614; 19644540}.</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 112979,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 592,
+        "headingText": "\r\n<p>Meningiomas can be as large as 80&nbsp;mm, with an average size of 30&nbsp;mm. Tumours are often polypoid and covered by intact epithelium. Bone insinuation is usually present, whether ectopic or by direct extension from an intracranial primary. The tumours are firm to rubbery with granular, gritty cut surfaces related to either psammoma bodies or entrapped bone.</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 112980,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 586,
+        "headingText": "<p>Neoplastic cells are usually intimately blended with an intact respiratory or metaplastic squamous surface epithelium. Cells have an infiltrative appearance, meandering around native minor mucoserous glands and within bone interstices. Remodelled bone may show numerous osteoclasts at the junction with tumour. The cells are arranged in lobules, whorls, and fascicles of epithelioid to spindled cells. They have low to intermediate N:C&nbsp;ratios, with slightly eosinophilic to opaque cytoplasm surrounding round to oval, bland, regular nuclei. Nuclei have delicate nuclear chromatin, small nucleoli, and frequent intranuclear clear spaces and cytoplasmic pseudoinclusions {10800982}. Psammoma bodies are occasionally present and can be extensive. There are numerous histological subtypes of meningioma [[WHO Classification of Tumours Editorial Board. Central nervous system tumours. Lyon (France): International Agency for Research on Cancer; 2021. (WHO classification of tumours series, 5th ed.; vol. 6). https://publications.iarc.who.int/601.]], but meningothelial and psammomatous meningiomas account for the vast majority, while transitional, metaplastic, fibroblastic, and atypical subtypes are occasionally seen. Most tumours in the sinonasal tract correspond to CNS WHO grade&nbsp;1 lesions {9414189; 10223247; 10800982; 29682381}. The association of grade with prognosis is unclear in head and neck tumours.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Meningiomas are typically immunohistochemically reactive for EMA (often weak and focal), SSTR2A, and MUC4 {24393170; 26195322; 26722517; 30112770; 33014821}. Some subtypes may express cytokeratins, CD34, or S100 {2648875; 19644540; 23326015; 25724000; 25744347; 28340171}. Although variable, PR is usually positive in grade&nbsp;1 meningiomas {7861224; 10800982; 11079777}. Ki-67 proliferation index may aid in grading {9610708; 19644540}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>In small samples, the meningothelial and whorled quality of the proliferation may be difficult to detect, raising a differential diagnosis that includes epithelioid as well as spindled tumours. Psammoma body&ndash;containing lesions may also present a diagnostic challenge. <a style=\"cursor:pointer\" href=\"/attachment/52/24/24737\" target=\"_blank\">#24737</a>Table&nbsp;1.02 contains clinical, histological, and immunohistochemical features of entities that may be confused with meningioma.</p>",
+        "timestamp": "2023-10-16T11:29:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 112981,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 587,
+        "headingText": "\r\n<p>Smears show cohesive tissue fragments of large cells with abundant delicate cytoplasm that may be pulled out and broadly attached to adjacent cells, with oval nuclei showing fine to coarse chromatin, small nucleoli, and scattered intranuclear pseudoinclusions. Whorls may be prominent on intraoperative touch preparations, and psammoma calcifications can be seen. Degenerative changes, with larger nuclei with smudged chromatin and inclusions, and considerable cytoplasm can be seen [[Zarka MA, Moes GS. Chapter 11: Intraoperative cytology of central nervous system lesions: a diagnostic approach based on pattern recognition. In: Field AS, Zarka MA, editors. Practical cytopathology: a diagnostic approach to fine needle aspiration biopsy. Philadelphia (PA): Elsevier; 2017. pp. 483&ndash;533.]].</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 112982,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 588,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 112983,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> meningothelial or whorled epithelioid cells with low N:C&nbsp;ratios; delicate nuclear chromatin in round nuclei, often with intranuclear cytoplasmic inclusions.</p>\r\n<p><em>Desirable:</em> immunoreactivity for EMA and/or SSTR2A; lack of melanocytic and haematolymphoid markers.</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 112984,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 112985,
+        "bookId": 52,
+        "chapterId": 24,
+        "headingId": 590,
+        "headingText": "\r\n<p>Most meningiomas are slow-growing, indolent tumours. Given the difficulties in obtaining complete excision in this region, recurrences are common (~30%) {6478422; 10223247; 10800982}. Women and patients aged &gt;&nbsp;40&nbsp;years at presentation are more likely to develop recurrence and/or die with the disease. Tumours that have necrosis are associated with a shorter overall patient survival time than those without. Tumours with a higher proliferation index (&gt;&nbsp;4&nbsp;mitoses/2&nbsp;mm<sup>2</sup>) have a lower 10-year survival rate than tumours with a lower proliferation index. The best predictor of disease-specific survival is recurrence {10800982; 19644540}.</p>",
+        "timestamp": "2023-09-25T13:26:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

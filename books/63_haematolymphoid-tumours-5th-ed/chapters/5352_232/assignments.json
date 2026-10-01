@@ -1,0 +1,151 @@
+[
+  {
+    "pkroleId": 141,
+    "bookId": "63",
+    "roleid": 185,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4683,
+        "lastname": "Lim",
+        "firstname": "Megan ",
+        "initials": "",
+        "email": "",
+        "roleid": 185,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 142,
+    "bookId": "63",
+    "roleid": 186,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4470,
+        "lastname": "Dave",
+        "firstname": "Sandeep S.",
+        "initials": "",
+        "email": "",
+        "roleid": 186,
+        "position": 0
+      },
+      {
+        "contributorid": 4473,
+        "lastname": "Du",
+        "firstname": "Ming-Qinq",
+        "initials": "",
+        "email": "",
+        "roleid": 186,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 143,
+    "bookId": "63",
+    "roleid": 187,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3818,
+        "lastname": "Elenitoba-Johnson",
+        "firstname": "Kojo ",
+        "initials": "",
+        "email": "",
+        "roleid": 187,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 144,
+    "bookId": "63",
+    "roleid": 188,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2127,
+        "lastname": "Ott",
+        "firstname": "German",
+        "initials": "G",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 2140,
+        "lastname": "Takeuchi",
+        "firstname": "Kengo",
+        "initials": "K",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 3400,
+        "lastname": "Klapper",
+        "firstname": "Wolfram",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 3858,
+        "lastname": "Lamant-Rochaix",
+        "firstname": "Laurence",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 3953,
+        "lastname": "d'Amore",
+        "firstname": "Emanuele S.G.",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4016,
+        "lastname": "Nakazawa",
+        "firstname": "Atsuko",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4158,
+        "lastname": "Cozzolino",
+        "firstname": "Immacolata",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4642,
+        "lastname": "Nagai",
+        "firstname": "Hirokazu",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      },
+      {
+        "contributorid": 4885,
+        "lastname": "Mori",
+        "firstname": "Tetsuya ",
+        "initials": "",
+        "email": "",
+        "roleid": 188,
+        "position": 0
+      }
+    ]
+  }
+]

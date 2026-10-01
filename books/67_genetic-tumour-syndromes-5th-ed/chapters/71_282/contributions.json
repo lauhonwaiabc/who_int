@@ -1,0 +1,22 @@
+[
+  {
+    "pkheadingid": 1173,
+    "bookid": 67,
+    "headingType": 1,
+    "headingTitle": " ",
+    "headingPosition": 1,
+    "headingid": 794,
+    "contributions": [
+      {
+        "pkcontributionId": 159289,
+        "bookId": 67,
+        "chapterId": 282,
+        "headingId": 794,
+        "headingText": "<p>RNA regulation is achieved by several means. Small, single-stranded, non-coding RNA molecules containing 21&ndash;23 nucleotides known as microRNA are responsible for RNA silencing and post-transcriptional regulation of gene expression.</p>\r\n<p><em>DICER1</em> is important in the production of microRNA, as it encodes an enzyme which cleaves the hairpin-structured precursor microRNA to 5&prime; and 3&prime; single-stranded mature microRNAs. The lack of 5&prime; microRNAs leads to overexpression of their target mRNAs, which in the proper cellular context (i.e. embryonic growth, endocrine stimulation) can lead to hyperplasia/neoplasia.</p>\r\n<p>The microprocessor-related tumour predisposition syndromes are caused by heterozygous germline (or constitutional as preferred by some) pathogenic or likely pathogenic variants in either <em>DROSHA</em> or its partner, <em>DGCR8</em>, both of which are key elements of the microRNA processor. The microprocessor cleaves primary microRNAs to generate pre-microRNAs, and its pathogenic variants are associated with the formation of a number of different tumour types.</p>",
+        "timestamp": "2026-09-02T11:53:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

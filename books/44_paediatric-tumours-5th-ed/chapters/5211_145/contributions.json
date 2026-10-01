@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 105340,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 466,
+        "headingText": "\r\n<p>Lipomatosis is a broad term encompassing the infiltrative overgrowth of mature adipose tissue occurring in a wide spectrum of clinical contexts, sometimes in hamartomatous arrangements with other mesenchymal tissue types.</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 105341,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 467,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 105342,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 468,
+        "headingText": "\r\n<p>EF02.1 Subcutaneous lipomatosis</p>\r\n<p>LD2C Overgrowth syndromes</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 105343,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> Madelung disease; Launois&ndash;Bensaude syndrome; Haberland syndrome; Fishman syndrome.</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 105344,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 470,
+        "headingText": "\r\n<h5>Paediatric</h5>\r\n<p>Congenital infiltrating lipomatosis of the face (CILF); diffuse lipomatosis (DL); epiploic lipomatosis (EL); encephalocraniocutaneous lipomatosis (ECCL); Michelin tire baby syndrome (MTBS); <em>PTEN</em> hamartoma of soft tissue (PHOST); <em>PIK3CA</em>-related overgrowth spectrum (PROS); naevus lipomatosis superficialis (NLS); lipomatosis of nerve (LN)</p>\r\n<h5>Adult manifestation&nbsp;/ acquired (not fully discussed here)</h5>\r\n<p>Familial multiple lipomatosis (FML); multiple symmetrical lipomatosis (MSL); pelvic lipomatosis; steroid lipomatosis; HIV lipodystrophy</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 105345,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 471,
+        "headingText": "\r\n<p>CILF involves the face, unilaterally {20338773; 22241871; 31280031}; DL involves the trunk or extremities {3777976; 29441296; 32396651}; ECCL involves the scalp, paravertebral soft tissues, or extremities {28018467; 28707961; 29683947; 30143858}; MTBS diffusely involves the skin in a generalized, symmetrical fashion; PHOST occurs most commonly in the lower extremities, followed by the upper extremities, trunk, and head/neck; and PROS favours the lower extremities over the upper extremities, as does LN {24782230; 30850231}. MSL may occur multiply in the folds of the pelvic girdle or as a solitary lesion in any location {30850231}.</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 105346,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 472,
+        "headingText": "\r\n<p>Lipomatoses have previously been subclassified according to their clinical findings and anatomical distribution. Although molecular studies are transforming the way we think about these lesions, some of these clinicopathological terms remain useful in classification.</p>\r\n<p>CILF manifests at birth or in early childhood as unilateral facial swelling with hyperplasia of the underlying bone and (in some cases) the teeth, tongue, brain, and parotid gland {20338773; 22241871; 31280031}. DL is clinically characterized as a large, rapidly growing mass of mature fat involving the trunk or extremities in a segmental fashion. This pattern has been described in association with tuberous sclerosis, occurring in a segmental distribution on the trunk or extremities {3777976; 29441296; 32396651}. Thyroid and gastrointestinal or mesenteric lipomatosis has also been described {10214903}.</p>\r\n<p>ECCL (also known as Haberland syndrome or Fishman syndrome) is a sporadic neurocutaneous disorder involving tissue derived from the neural crest, with ocular, cutaneous, and CNS abnormalities including ocular choristomas, colobomas, aniridia, naevus psiloliparus, lipomatosis, alopecia, intracranial and spinal lipomas, midline pilocytic astrocytoma, dysembryoplastic neuroepithelial tumour, developmental delay, and seizures {28018467; 28707961; 29683947; 30143858}. FML involves autosomal dominant inheritance of a propensity to develop lipomatoses in adulthood, along with an increased risk of developing other types of cancer, but childhood manifestations are rare {32021365}. MTBS is a rare familial genodermatosis characterized by symmetrical excess skin folds that are present at birth and resolve with age. Other clinical features that may be associated with MTBS include facial dysmorphism (upslanting palpebral fissures, hypertelorism, a wide or depressed nasal bridge, epicanthic folds, auricular malformation), cleft palate, genital anomalies, developmental delay, ureterocoele, smooth muscle hamartoma, and naevus lipomatosus {25424205}.</p>\r\n<p>PHOST typically manifests with pain and swelling of the affected limb, usually with an intramuscular mass {22446940}. Many patients with PHOST also have Cowden syndrome (mucocutaneous, soft tissue, and visceral hamartomas; trichilemmomas; palmar/plantar keratoses; oral papillomatoses; gastrointestinal hamartomatous polyps; fibrocystic breast disease; lipomatous lesions; cerebellar dysplastic gangliocytomas&nbsp;/ Lhermitte&ndash;Duclos disease) or Bannayan&ndash;Riley&ndash;Ruvalcaba syndrome (macrocephaly, developmental delay, penile lentigines, benign mesodermal lesions like ganglioneuromatous polyps) {22446940}.</p>\r\n<p>PROS lesions arise congenitally; they are asymmetrical and disproportionate overgrowth lesions resulting in enlargement of the affected region. Macrodactyly, LN, hemihyperplasia, megalencephaly, and polymicrogyria are all manifestations of this overgrowth that occur in various constellations, including in fibroadipose overgrowth, CLOVES syndrome (congenital lipomatous overgrowth, vascular malformations, epidermal naevi, and scoliosis or skeletal/spinal anomalies), macrodactyly, megalencephaly&ndash;capillary malformation syndrome (MCAP), and hemihyperplasia&ndash;multiple lipomatosis syndrome (HHML) {28665924; 24782230}. PROS is associated with generalized adipose dysregulation; it can be static in some and progressive in others, it can be unilateral, and it can show a marked absence of adipose tissue in unaffected limbs {24782230; 25557259}. Fibroadipose vascular anomaly (FAVA) is a distinctive lesion associated with <em>PIK3CA</em> mutations occurring in the context of PROS, usually manifesting with pain and sometimes with contracture, atrophy, or phlebectasia {24322574}.</p>\r\n<p>NLS arises as one or more soft and non-tender papules, nodules, or pedunculated exophytic lesions. LN manifests with sensory loss and paraesthesia, pain, and muscle weakness in the distribution of the affected nerve (most frequently the median nerve, ulnar nerve, and plantar nerve) {31481664}.</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 105347,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 473,
+        "headingText": "\r\n<p>These features are summarized in <a style=\"cursor:pointer\" href=\"/attachment/44/145/19240\" target=\"_blank\">#19240</a>Table&nbsp;6.03 . Most of the paediatric lipomatoses are congenital (CILF, DL, ECCL, MTBS, PROS), although some arise later in childhood or in early adulthood (DL, PHOST, PROS, NLS) {30850231; 22420730}. FML and MSL manifest in adulthood but have an inherited or genetic pathogenesis {30850231}. Sex predilection is only definitively seen in MSL.</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 105348,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 474,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 105349,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 475,
+        "headingText": "\r\n<p><em>PTEN</em>, <em>PIK3CA</em>, and TSC genes are part of the PI3K/PTEN/AKT/TSC/mTORC1 pathway, and mutations of these genes are responsible for many of the lipomatosis entities described here. <em>PIK3CA</em> gene mutations have been identified in PROS, with a genotype&ndash;phenotype correlation between specific mutations and their physical manifestations, documented in cases of fibroadipose overgrowth, CLOVES syndrome, MCAP, and HHML {28665924; 24782230}. LN (with and without related overgrowth of surrounding tissues) and CILF have also been associated with <em>PIK3CA</em> mutations, suggesting they should be included in PROS {31481664}. Somatic mosaicism accounts for segmental distribution in these entities {27890237; 31585106}. <em>PTEN</em>-inactivating mutations are central to the development of PHOST {22446940}.</p>\r\n<p>Mosaic <em>FGFR1</em> activating mutations have been implicated in cases of ECCL {29683947}. <em>HMGA2</em> and <em>PALB2</em> mutations have been described in cases of FML, whereas MSL has shown a variety of genetic abnormalities, including alterations in mitochondrial genes (including <em>MT-TK</em>, previously called <em>MERRF</em>) and <em>MFN2</em> mutations {32021365; 26845227; 30158064; 19078716}.</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 105350,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 482,
+        "headingText": "\r\n<p>Most lipomatoses are infiltrative, but they can occasionally be lobulated and circumscribed. The cut surfaces show mature yellow fat intermixed with variable amounts of other mesenchymal tissue, depending on their location. NLS is a nodular or pedunculated, exophytic, skin-coloured to yellow, cerebriform or cauliflower-like growth.</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 105351,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 476,
+        "headingText": "\r\n<p>These tumours all show overgrowth of mature adipose tissue, typically infiltrating regional tissues, without lipoblasts or features of malignancy. CILF lesions are infiltrative and incorporate nerve, blood vessels, and hypertrophy of adjacent bone {31280031}. PHOST shows a distinctive multinodular combination of mature adipose tissue, fibrous tissue, vascular component (often with dilated, back-to-back clustered veins and thick-walled, tortuous arteries), lymphoid follicles, bone, and hypertrophic nerves with onion bulb&ndash;like features {22446940}. FAVA is characterized by abundant, dense, fibrous adipose tissue, vascular malformation, and lymphoplasmacytic aggregates in skeletal muscle {24322574}. In NLS, the mature adipose tissue is located in the superficial dermis. LN displays characteristic nerve expansion with perineurial thickening/hypertrophy, similar to perineurioma {31481664}.</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 105352,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 105353,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 478,
+        "headingText": "\r\n<p>Germline, mosaic, or somatic mutations in <em>PIK3CA</em>, <em>PTEN</em>, other genes in the PI3K/PTEN/AKT/TSC/mTORC1 pathway, and <em>FGFR1</em> are implicated in a subset of these lesions, as described above.</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 105354,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> mature adipose tissue infiltrating regional tissues, occasionally arising in specific, relevant clinical contexts or syndromes.</p>\r\n<p><em>Desirable:</em> alterations in <em>PIK3CA</em> (in CILF, PROS, FAVA, and LN), <em>PTEN</em> (in PHOST), related PI3K/PTEN/AKT/TSC/mTORC1 pathway genes, or <em>FGFR1</em> in relevant clinical contexts.</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 105355,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 105356,
+        "bookId": 44,
+        "chapterId": 145,
+        "headingId": 480,
+        "headingText": "\r\n<p>Continued growth or recurrence after incomplete resection is common and can lead to disrupted growth, malformation, and malfunction of affected regions in CILF, DL, ECCL, PHOST, or PROS {31280031}, sometimes requiring multiple surgeries. Otherwise, morbidity/mortality is related to mass effect or to the infiltration of vital structures or organs. Pharmacological inhibitors of genes in the PI3K/PTEN/AKT/TSC/mTORC1 pathway may be useful in preventing disease recurrence or progression {31280031; 25915946}. Other medical therapies, including sirolimus, have shown success in decreasing or stabilizing overgrowth. Lipomatous overgrowth in MTBS usually resolves with age, although associated clinical abnormalities can adversely affect patients. Surgical excision in NLS is usually adequate, with rare recurrences {30850231; 22984661}. Weight loss can reduce lipomatous overgrowth in FML {32021365}. Management of the consequences of associated vascular malformation can include treatment of thrombotic events and activity-related limb swelling, physical therapy for mobility issues, and pain management.</p>\r\n<p>ECCL, DL, FML, PROS, or PHOST may be the initial evidence that a patient has an associated tumour predisposition syndrome. Wilms tumour has been reported in patients with CLOVES syndrome {25557259}. Thyroid, breast, colon, ovarian, and endometrial cancers, as well as juvenile polyposis and retinoblastoma, are some of the tumour types observed in the context of <em>PTEN</em> mutations {22446940}.</p>",
+        "timestamp": "2023-03-15T11:12:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 104583,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 466,
+        "headingText": "\r\n<p>The multinodular and vacuolating neuronal tumour (MVNT) is composed of monomorphic neuronal elements distributed in discrete and coalescent nodules, with vacuolar changes in tumour cells and their matrix (CNS WHO grade&nbsp;1).</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 104584,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 467,
+        "headingText": "\r\n<p>9509/0 Multinodular and vacuolating neuronal tumour</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 104585,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A00.21 Mixed neuronal-glial tumours</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 104586,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> diffuse gangliocytoma.</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 104587,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 104588,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 471,
+        "headingText": "\r\n<p>MVNTs typically involve the deep cortical ribbon and superficial white matter, predominantly of the temporal lobes (75&ndash;80%), followed by the frontal lobes (10&ndash;15%), and then the parietal and occipital lobes {23324039; 28833756; 29428973; 30550736}. A case involving the basal ganglia has been reported {32140033}.</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 104589,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 472,
+        "headingText": "<p>Seizures, particularly of complex partial type with or without secondary generalization, are the most common manifestation (~60% of cases), followed by headache (10&ndash;15%), episodic confusion, and dizziness. MVNTs may be incidentally discovered {24444358; 29629230}.</p>\r\n<h5>Imaging</h5>\r\n<p>Highly characteristic on MRI, although not always apparent, is the clustering of discrete or coalescent T2-FLAIR&ndash;hyperintense nodules in deep cortex and superficial white matter, typically without associated mass effects, oedema, restricted diffusion, or contrast enhancement {23324039; 28833756; 29428973; 30550736}. Lesion stability on surveillance imaging is the rule.</p>",
+        "timestamp": "2022-09-30T17:58:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 104590,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 473,
+        "headingText": "\r\n<p>Population-based incidence data are not available. However, pathologically confirmed cases have been encountered mainly in adults (age range: 5&ndash;71&nbsp;years; median: 42&nbsp;years), with few paediatric examples recorded; the M:F&nbsp;ratio is 1.5:1 {23324039; 28833756; 29428973; 30550736}.</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 104591,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 474,
+        "headingText": "\r\n<p>Factors predisposing individuals to the development of MVNTs have not been identified. An isolated lesion having the typical neuroradiological features of MVNT, but not biopsied, has been reported in a patient with Klinefelter syndrome {29038865}.</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 104592,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 475,
+        "headingText": "\r\n<p>The clonal genetic abnormalities characterizing MVNTs indicate that these are neoplasms rather than malformations, but the precise role of MAPK pathway activation in this setting is not known. An origin from developmentally dysregulated, partially arrested neuronal or glioneuronal precursors destined for deep cortical layers could account for the characteristic localization {28833756}. Somatic gene abnormalities that activate RAS/RAF/MAPK signalling have been consistently identified, with <em>MAP2K1</em> and <em>BRAF</em> mutations (other than <em>BRAF</em> p.V600E) being recurrently identified {29428973}.</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 104593,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 482,
+        "headingText": "\r\n<p>MVNTs are characterized by multiple discrete or coalescent grey nodules involving the deep cortex, grey matter&ndash;white matter junction, and subcortical white matter {23324039; 24444358}.</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 104594,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 476,
+        "headingText": "<p>MVNTs are typically composed of pale, hypomyelinated nodules containing monomorphic neuronal elements that are most frequently of intermediate to large size (but generally not achieving ganglion cell proportions) with round and vesicular nuclei, distinct nucleoli, and amphophilic to eosinophilic cytoplasm {23324039; 24444358; 26073706; 28833756}. These lie in a delicate fibrillar matrix that usually exhibits conspicuous vacuolar change, with tumour cells often displaying cytoplasmic/pericellular vacuolization as well. A more diffuse distribution of neurons producing a band-like or gyriform expansion of the cortex or hippocampus may be evident, and some examples comprise small neuronal elements. Tumour cells are haphazardly distributed within nodules and some may align along capillary vessels. In select cases, small, oligodendrocyte-like cells are intermingled or clustered. Conspicuously dysmorphic and multinucleated neuronal forms are typically absent, as are Rosenthal fibres, eosinophilic granular bodies, myxoid microcysts and microcalcifications, although some tumours with MVNT-type and gangliogliomatous components have been described {28833756; 29428973}. Mitotic figures, vascular proliferation, and necrosis have not been identified. MVNTs can be associated with regional cortical disorganization {23324039} and hippocampal sclerosis {29476662}.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>Tumour cells consistently express OLIG2, HuC/HuD, non-phosphorylated 200-kDa NFP, and doublecortin on immunohistochemistry, and they often express MAP2 and synaptophysin (although weakly, with much less labelling of the nodular matrix than the cortex) {23324039; 26073706; 28833756; 30550736}. Strong matrix labelling for &alpha;-internexin is present {26073706; 28833756}, but tumour cells do not express phosphorylated NFPs or chromogranin, and they are negative or only weakly reactive for NeuN. Thus, they appear to have an incompletely matured neuronal immunophenotype. CD34 expression by ramified neural elements in associated cortex is common. GFAP labelling is restricted to reactive astrocytes.</p>",
+        "timestamp": "2022-09-30T17:59:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 104595,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 477,
+        "headingText": "\r\n<p>The identification of MVNTs requires examination of tissue sections. A characteristic profile in smear or squash preparations has not been described.</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 104596,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 478,
+        "headingText": "\r\n<p>MVNTs harbour MAPK pathway&ndash;activating abnormalities that most commonly involve small indels and hotspot mutations in <em>MAP2K1</em>, followed by pathogenic mutations in <em>BRAF</em> (excluding the common p.V600E mutations, which have not been documented in this tumour to date) and <em>FGFR2</em> fusions {29428973; 30550736}.</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 104597,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 481,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/44/404/22507\" target=\"_blank\">#22507</a>Box&nbsp;3.20 .</p>",
+        "timestamp": "2022-09-30T18:00:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 104598,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 104599,
+        "bookId": 44,
+        "chapterId": 404,
+        "headingId": 480,
+        "headingText": "\r\n<p>MVNTs are benign. Disease progression or recurrence have not been described after gross total excision, with subtotally resected tumours remaining stable {23324039; 28833756; 30550736}. The non-progressive nature of lesions exhibiting the characteristic neuroradiological features of MVNTs has prompted the suggestion that these can be safely followed without recourse to biopsy {28705817; 28752311}.</p>",
+        "timestamp": "2022-02-11T15:21:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

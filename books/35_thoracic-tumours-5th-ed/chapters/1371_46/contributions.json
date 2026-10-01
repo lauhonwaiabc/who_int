@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 66674,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 432,
+        "headingText": "<p>Large cell carcinoma (LCC) is an undifferentiated non-small cell carcinoma (NSCC) that lacks the cytological, architectural, immunohistochemical, and histochemical features of small cell carcinoma, adenocarcinoma, or squamous cell carcinoma (SCC), in addition to giant cell, spindle cell, or pleomorphic carcinoma. The diagnosis requires a thoroughly sampled resected tumour and cannot be made on non-surgical biopsy or cytology.</p>",
+        "timestamp": "2021-01-06T12:10:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 66675,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 433,
+        "headingText": "<p>8012/3 Large cell carcinoma</p>",
+        "timestamp": "2021-01-18T12:09:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 66676,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 434,
+        "headingText": "\r\n<p>2C25.3 Large cell carcinoma</p>\r\n",
+        "timestamp": "2020-11-11T11:05:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 66677,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Not recommended:</em> large cell anaplastic carcinoma; large cell undifferentiated carcinoma.</p>\r\n",
+        "timestamp": "2020-11-11T11:05:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 66678,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-11-11T11:05:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 66679,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 437,
+        "headingText": "\r\n<p>LCCs are typically peripheral masses.</p>\r\n",
+        "timestamp": "2020-11-11T11:05:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 66680,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 438,
+        "headingText": "\r\n<p>The symptoms, imaging, and tumour spread {25023633; 24811836; 29525405} of LCC are similar to those of other NSCCs (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/2\" target=\"_blank\">section </a><em>Tumours of the lung: Introduction</em>).</p>\r\n",
+        "timestamp": "2020-11-11T11:05:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 66681,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 439,
+        "headingText": "\r\n<p>In the 1990s, LCC accounted for approximately 10% of all lung cancers {8640694}, but according to data from the US National Cancer Institute (NCI)&rsquo;s SEER Program, in the USA the rate of LCC has since dropped precipitously, to about 1.5% of all lung carcinomas (see <a name=\"14742\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#14742</a>), which is probably due to the introduction of TTF1 immunohistochemistry around 1990, followed by immunostaining for p63/p40 and subsequently molecular testing, into clinical practice by pathologists {27956436; 25368400; 25113306; 25822850; 26329296; 24524818; 31757374; 31235033}. The average age at diagnosis is about 65&nbsp;years, and most patients are male.</p>\r\n",
+        "timestamp": "2020-11-11T11:05:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 66682,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 440,
+        "headingText": "\r\n<p>The etiology of LCC is similar to that of other NSCCs (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/2\" target=\"_blank\">section </a><em>Tumours of the lung: Introduction</em>). The majority of patients are current or former smokers.</p>\r\n",
+        "timestamp": "2020-11-11T11:05:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 66683,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 441,
+        "headingText": "<p>The pathogenesis of LCC is similar to that of other lung cancers (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/2\" target=\"_blank\">section </a><em>Tumours of the lung: Introduction</em>). About two&nbsp;thirds of all LCCs harbour alterations in oncogenic drivers, similar to adenocarcinoma {26898325; 23196793; 24221342; 29246019; 26124082; 28884744}.</p>\r\n<p>Genomic analyses have provided a basis for potential refinement of LCC, but these features are not yet disease-defining criteria. Of greatest relevance is the fact that genetic alterations commonly associated with adenocarcinoma (<em>KRAS</em>, <em>EGFR</em>, <em>BRAF</em> mutations and <em>ALK</em> rearrangements) may be observed in LCC with a null immunophenotype {26430808; 23196793; 25620799; 26317919; 24221342; 29246019; 22031317; 26898325; 26124082; 28884744; 30978501}. Gene expression profiling has also shown evidence of epithelial&ndash;mesenchymal transition as a frequent finding in LCCs, reflecting their poor differentiation compared with other NSCCs {26317919; 31824199}.</p>",
+        "timestamp": "2021-01-08T10:28:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 66684,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 448,
+        "headingText": "\r\n<p>LCCs are usually large, circumscribed, solid masses, often with necrosis and rarely with cavitation.</p>\r\n",
+        "timestamp": "2020-11-11T11:05:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 66685,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 442,
+        "headingText": "<p>LCC is a diagnosis of exclusion in a surgically resected NSCC with no clear-cut small cell carcinoma, SCC, or adenocarcinoma in addition to giant cell, spindle cell, or pleomorphic carcinoma on morphology or after immunohistochemistry and/or mucin stains. The tumour comprises sheets or nests of large polygonal cells with vesicular nuclei, prominent nucleoli, and moderate amounts of cytoplasm. Clear cell and/or rhabdoid cytological features may be present, and these should be documented in percentage increments within the LCC {15595193; 21500121; 25023633; 24811836; 25620799; 24221342; 32008630}.</p>\r\n<h5>Immunohistochemistry and histochemistry</h5>\r\n<p>Immunohistochemistry should be undertaken, unless not feasible for logistical reasons. In regard to sensitivity and specificity, the immunohistochemical markers of first choice to detect adenocarcinomatous and squamous cell differentiation are TTF1 and p40, respectively {15595193; 21246522; 26898325; 23196793; 24221342; 29246019; 26124082; 28884744; 29066508; 26960398; 27507618; 31085341}. The diagnosis also requires mucin staining to be negative or show &lt;&nbsp;5&nbsp;positive cells in two high-power fields (~0.4&nbsp;mm<sup>2</sup>).&nbsp;Cytokeratin staining should also be undertaken to confirm epithelial differentiation as required. Cases that are negative for TTF1 and p40 should be termed &ldquo;LCC (null immunophenotype)&rdquo;. If staining does not provide a clear answer (see <a style=\"cursor:pointer\" href=\"/attachment/35/46/14629\" target=\"_blank\">#14629</a>), then cases should be termed &ldquo;LCC (unclear immunophenotype)&rdquo;. If immunohistochemistry cannot be undertaken due to lack of available blocks or unstained slides, cases should be termed &ldquo;LCC (additional stains unavailable)&rdquo;.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The main differential diagnosis of LCC is presented in Table <a style=\"cursor:pointer\" href=\"/attachment/35/46/14437\" target=\"_blank\">#14437</a>. Adenocarcinomas with a solid pattern, which stain with TTF1 (and/or napsin&nbsp;A), and non-keratinizing SCC, which stains with p40 (and/or CK5/6), require exclusion. Negative mucin stains are also needed to exclude solid adenocarcinoma with mucin. Most cases of adenosquamous carcinoma show morphological evidence of both lines of differentiation, but rare cases may show separate areas of TTF1 and p40 expression in a morphologically undifferentiated NSCC. Large cell neuroendocrine carcinoma (LCNEC) is excluded through recognition of neuroendocrine morphology and positive immunohistochemical staining for neuroendocrine markers (chromogranin, synaptophysin, and/or CD56). Neuroendocrine markers are not recommended on cases lacking neuroendocrine morphology. However, if a morphologically undifferentiated NSCC is stained and shows a profile of cytokeratin+, TTF1&minus;, p40&minus;, and neuroendocrine marker+, it should be termed &ldquo;LCC with neuroendocrine differentiation (or LCC with neuroendocrine immunophenotype)&rdquo; (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/307\" target=\"_blank\">section </a><em>Lung neuroendocrine neoplasms: Introduction</em>) {26898325; 23196793; 24221342; 29246019; 26124082; 28884744; 29066508; 26960398; 27507618; 31085341}. Rhabdoid cells sometimes raise the possibility of a carcinosarcoma showing areas of rhabdomyosarcomatous differentiation, but LCC with rhabdoid cytology is positive for cytokeratins and negative for desmin and myogenin {8607442; 11422479; 14745719}. The presence of rhabdoid morphology in a tumour resembling LCC should raise the consideration of thoracic SMARCA4-deficient undifferentiated tumour (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/55\" target=\"_blank\">section </a><em>Thoracic SMARCA4-deficient undifferentiated tumour</em>). Cytokeratin positivity and other markers, as well as clinicoradiological correlation, are often needed, on a case-by-case basis, to exclude the possibility of extrathoracic unsuspected poorly differentiated carcinoma, lymphoma, melanoma, or mesothelioma. Metastatic carcinoma from elsewhere should be excluded, depending on patient sex and tumour morphology, on the basis of clinical correlation (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/322\" target=\"_blank\">section </a>Chapter&nbsp;9: <em>Metastases</em>). A tumour showing &gt;&nbsp;10% of pleomorphic features (spindle and/or giant cells) should be classified as a pleomorphic carcinoma.</p>",
+        "timestamp": "2021-02-26T12:12:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 66686,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 443,
+        "headingText": "<p>The diagnosis of LCC should not be rendered in cytological specimens. &ldquo;NSCC-NOS&rdquo; is the preferred terminology if clear-cut morphological or immunohistochemical differentiation is lacking. At cytology, the tumour cells have high-grade, overtly malignant cytological features, similar to those of other poorly differentiated NSCCs. Malignant cells with rhabdoid cytology show voluminous cytoplasm with eccentrically located nuclei and massive nucleoli. The presence of rhabdoid features on cytology is usually related to tumour cell discohesion {1709321; 14745719; 10931217; 21987503}.</p>",
+        "timestamp": "2020-12-18T17:59:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 66687,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 444,
+        "headingText": "\r\n<p>In tumours diagnosed as LCC on surgical resection but that relapse with advanced disease, molecular testing aimed at identification of targetable genetic therapy is recommended if it was not carried out at the time of initial surgical resection and diagnosis.</p>\r\n",
+        "timestamp": "2020-11-11T11:05:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 66688,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Undifferentiated NSCC, lacking any evidence of glandular, squamous cell, or neuroendocrine differentiation</li>\r\n<li>The diagnosis should only be rendered on surgical resection and cannot be made on small biopsy or cytology</li>\r\n<li>Negative immunohistochemistry with markers associated with adenocarcinoma (TTF1 or napsin&nbsp;A), SCC (p40 or CK5/6), and neuroendocrine carcinoma (NEC; only when there is neuroendocrine morphology as well as positive chromogranin, synaptophysin, CD56)</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>If available, molecular analysis to look for genetic alterations that may guide therapy</li>\r\n</ul>",
+        "timestamp": "2020-12-18T17:59:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 66689,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 445,
+        "headingText": "\r\n<p>Staging of LCC is similar to that of other NSCCs, according to the eighth-edition TNM classification [[Brierley JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley-Blackwell; 2017.]].</p>\r\n",
+        "timestamp": "2020-11-11T11:05:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 66690,
+        "bookId": 35,
+        "chapterId": 46,
+        "headingId": 446,
+        "headingText": "\r\n<p>Like in other NSCCs, the prognosis is based on performance status at diagnosis, and the disease extension reflected by the TNM stage. Histopathological marker&ndash;null LCCs may be associated with inferior disease-free and overall survival compared with solid-predominant adenocarcinomas and non-keratinizing SCCs that would previously have been classified as LCC {23196793}. Rhabdoid features are related to poorer prognosis (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/55\" target=\"_blank\">section </a><em>Thoracic SMARCA4-deficient undifferentiated tumour</em>) {1709321; 14745719; 10931217; 21987503}. Systemic therapy is similar to that used for other NSCCs. On the basis of the presence of predictive genetic abnormalities and PDL1 immunohistochemistry, tyrosine kinase inhibitors, single-agent immunotherapy, or chemoimmunotherapy combinations may be administered {25521399; 24326823}.</p>",
+        "timestamp": "2020-11-11T11:05:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

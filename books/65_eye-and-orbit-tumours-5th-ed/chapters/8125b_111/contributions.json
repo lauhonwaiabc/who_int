@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 138640,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 733,
+        "headingText": "\r\n<p>Orbital venous malformations (VMs) are defined as a vein-to-vein diversion of blood in the absence of an interceding arterial bed.</p>\r\n",
+        "timestamp": "2026-03-31T15:02:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 138641,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 734,
+        "headingText": "\r\n<p>9122/0 Orbital venous malformation</p>\r\n",
+        "timestamp": "2026-03-31T15:02:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 138642,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 735,
+        "headingText": "\r\n<p>LA90.2Z Peripheral venous malformations, unspecified</p>\r\n",
+        "timestamp": "2026-03-31T15:02:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 138643,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 736,
+        "headingText": "\r\n<p><em>Not recommended:</em> orbital varix; venous haemangioma.</p>\r\n",
+        "timestamp": "2026-03-31T15:02:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 138644,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 737,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T15:02:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 138645,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 738,
+        "headingText": "\r\n<p>Owing to developmental defects, VMs can affect any tissue and organ. Involvement of the skin and subcutis is frequently seen as well as deeper tissues within the orbit. They can be complex, crossing into associated anatomical regions including the intracranial space, the infratemporal fossa, and the temporalis fossa. Intraosseous components are not uncommon {34166070;26055853}. They are usually unifocal and infrequently multifocal.</p>\r\n",
+        "timestamp": "2026-03-31T15:02:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 138646,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 739,
+        "headingText": "\r\n<p>VMs can present as bluish subdermal lesions when superficial and, though they can be noted at birth, typically present later in life. Subcutaneous lesions are typically soft and can be emptied by digital pressure. If found deeper in the orbit, Valsalva manoeuvre may lead to expansion of the lesion, manifesting as proptosis, strabismus, and globe dystopia. As they are venous in nature, there is typically no thrill, bruit, or pulsation. Symptomatology relates to repeated cycles of filling and emptying, leading to Valsalva-induced pain and globe dystopia during filling and enophthalmos when emptying owing to chronic tissue atrophy. Acute intralesional thrombosis may occur and this can be painful, with associated signs of orbital compression including optic neuropathy and strabismus {20888460;32049943;26077629;33777625;12789590;34798656;20870869}.</p>\r\n",
+        "timestamp": "2026-03-31T15:02:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 138647,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 740,
+        "headingText": "\r\n<p>VMs affect as much as 1.5% of the population. They are the most common slow-flow vascular malformations and a common orbital disease {20870869;35047613}.</p>\r\n",
+        "timestamp": "2026-03-31T15:02:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 138648,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 741,
+        "headingText": "\r\n<p>Venous malformations arise during embryogenesis owing to mosaic mutations or, more rarely, germline mutations leading to developmental errors in the vascular system {34166070;31950476;26839221}. VMs are mainly sporadic and rarely inherited, and can be associated with lymphatic or other tissue in complex malformations (lymphatic-venous malformation, capillary lymphatic-venous malformations, etc.) {20870869}.</p>\r\n<p>VMs are associated with cutaneomucosal venous malformation (distensible and non-distensible; autosomal dominant inheritance), blue rubber bleb naevus (Bean syndrome; sporadic), and glomuvenous malformation (sporadic or autosomal dominant inheritance) {20870869;15313813}.</p>\r\n",
+        "timestamp": "2026-03-31T15:02:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 138649,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 742,
+        "headingText": "\r\n<p>Sporadic systemic cases show activating somatic mosaic mutations predominantly in <em>TEK</em>. Inherited malformations harbour a combination of a germline mutation with a postzygotic/somatic second hit leading also to overexpression and autophosphorylation of the corresponding endothelial receptor tyrosine kinase TIE2. TIE2 activates the PI3K/AKT/mTOR signalling pathway. In a few sporadic cases <em>PIK3CA</em> is an alternatively affected gene. Glomuvenous malformations harbour inactivating mutations in <em>GLMN</em> {34166070;26055853;33069286}. Orbital lesions have not been studied molecularly.</p>\r\n",
+        "timestamp": "2026-03-31T15:02:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 138650,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 749,
+        "headingText": "\r\n<p>These lesions show a vascular/haemorrhagic circumscribed or diffuse spongy lesion with variable fibrous tissue, although they often collapse after removal. The cavities are communicating, separated by septa. Thrombi (often calcified) may be observed.</p>\r\n",
+        "timestamp": "2026-03-31T15:02:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 138651,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 743,
+        "headingText": "\r\n<p>The lesions comprise an abnormal collection of enlarged veins that are superficial or deep, diffuse or localized, and solitary or multiple. Veins show a variable diameter and a variably thick smooth muscle layer, absence of an internal elastic lamina, and inconspicuous endothelium. Small venules and capillaries may also be present. Thrombi and phleboliths with signs of recanalization are relatively common. The presence of Masson lesions (intravascular papillary endothelial hyperplasia) can be confused with malignancy {31950476;26055853;26839221}.</p>\r\n<p>In glomuvenous malformations the media of the veins contain cuboidal glomus cells with relatively monomorphic round nuclei. The glomus cells can also be seen in the wall of arteries and capillaries. They are highlighted by SMA immunohistochemistry {26055853}.</p>\r\n",
+        "timestamp": "2026-03-31T15:02:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 138652,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 744,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-03-31T15:02:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 138653,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 745,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-03-31T15:02:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 138654,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 748,
+        "headingText": "\r\n<p><em>Essential:</em> slow-flow vascular lesion with characteristics described in <em>Clinical features</em>; histological features of a dilated venous channel.</p>\r\n<p><em>Desirable:</em> Valsalva-augmented CT can be useful in diagnosis and characterization; phleboliths common by imaging; MRI may be additionally helpful in cases of combined lymphatic-venous malformation.</p>\r\n",
+        "timestamp": "2026-03-31T15:02:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 138655,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 746,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2026-03-31T15:02:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 138656,
+        "bookId": 65,
+        "chapterId": 111,
+        "headingId": 747,
+        "headingText": "\r\n<p>Treatment is indicated for improvement of quality of life and to prevent or treat complications. Embolization, sclerotherapy, and targeted treatment (e.g. rapamycin) with or without surgery can be performed {10366093;24614549}. Recanalization and recurrence is common with intravascular therapy alone {20870869;34166070;34798656;33777625}.</p>",
+        "timestamp": "2026-03-31T15:02:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

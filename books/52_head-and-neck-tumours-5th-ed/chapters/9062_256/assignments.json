@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 137,
+    "bookId": "52",
+    "roleid": 156,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 4139,
+        "lastname": "Khoury",
+        "firstname": "Joseph D.",
+        "initials": "JD",
+        "email": "",
+        "roleid": 156,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 138,
+    "bookId": "52",
+    "roleid": 157,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 1998,
+        "lastname": "Chan",
+        "firstname": "John K.C.",
+        "initials": "JKC",
+        "email": "",
+        "roleid": 157,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 139,
+    "bookId": "52",
+    "roleid": 158,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3435,
+        "lastname": "Ozkaya",
+        "firstname": "Neval",
+        "initials": "",
+        "email": "",
+        "roleid": 158,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 140,
+    "bookId": "52",
+    "roleid": 159,
+    "roleTitle": "Co-Author(s)",
+    "contributors": [
+      {
+        "contributorid": 2486,
+        "lastname": "Demicco",
+        "firstname": "Elizabeth G.",
+        "initials": "EG",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 2548,
+        "lastname": "Emile",
+        "firstname": "Jean-François",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 3383,
+        "lastname": "Go",
+        "firstname": "Ronald S.",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      }
+    ]
+  }
+]

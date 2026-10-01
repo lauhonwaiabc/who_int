@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 104379,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 466,
+        "headingText": "\r\n<p>Diffuse paediatric-type high-grade glioma (pHGG), H3-wildtype and IDH-wildtype, is a diffuse glioma with histological features of malignancy, typically occurring in children, adolescents, or young adults, which is wildtype for histone H3, <em>IDH1</em>, and <em>IDH2</em> (CNS WHO grade&nbsp;4).</p>\r\n",
+        "timestamp": "2022-02-11T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 104380,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 467,
+        "headingText": "<p >9385/3 Diffuse paediatric-type high-grade glioma, H3-wildtype and IDH-wildtype</p>\r\n<p >9385/3 Diffuse paediatric-type high-grade glioma RTK2</p>\r\n<p >9385/3 Diffuse paediatric-type high-grade glioma RTK1</p>\r\n<p >9385/3 Diffuse paediatric-type high-grade glioma MYCN</p>",
+        "timestamp": "2023-02-23T11:40:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 104381,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A00.0Y Other specified gliomas of brain</p>\r\n",
+        "timestamp": "2022-02-11T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 104382,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> paediatric-type glioblastoma, H3-wildtype; paediatric glioblastoma, H3-wildtype; methylation class glioblastoma midline (MC GBM MID); diffuse high-grade glioma in childhood, H3-wildtype, group&nbsp;C (pHGG WT-C); methylation class glioblastoma RTK3 (MC GBM RTK&nbsp;III); diffuse high-grade glioma in childhood, H3-wildtype, group&nbsp;B (pHGG WT-B); methylation class glioblastoma MYCN (MC GBM MYCN).</p>\r\n",
+        "timestamp": "2022-02-11T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 104383,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 470,
+        "headingText": "\r\n<p>Diffuse paediatric-type high-grade glioma RTK2; diffuse paediatric-type high-grade glioma RTK1; diffuse paediatric-type high-grade glioma MYCN</p>\r\n",
+        "timestamp": "2022-02-11T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 104384,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 471,
+        "headingText": "\r\n<p>pHGGs, H3-wildtype and IDH-wildtype, have been reported to arise throughout the supratentorial brain, brainstem, and cerebellum {28401334}. The molecular subtypes have slightly different site predilections: pHGG RTK2 tumours mostly involve supratentorial structures (in 96% of cases), pHGG RTK1 tumours involve the supratentorial brain (in 82% of cases) and infratentorial/brainstem sites (in 18% of cases), and pHGG MYCN tumours involve the supratentorial brain (in 86% of cases) and infratentorial/brainstem structures (in 14% of cases) {28401334}.</p>\r\n",
+        "timestamp": "2022-02-11T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 104385,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 472,
+        "headingText": "<p>Like with other high-grade gliomas, patients develop clinical symptoms according to the anatomical structures involved. Symptoms can include seizures and motor or sensory deficits.</p>\r\n<h5>Imaging</h5>\r\n<p>The MRI characteristics of pHGGs, H3-wildtype and IDH-wildtype, are similar to those of other high-grade gliomas; MRI typically reveals a contrast-enhancing tumour with mass effect. pHGG MYCN tumours may be better circumscribed, with only slight perilesional oedema and homogeneous contrast enhancement {32646492; 31177990}. Imaging characteristics for the other subtypes have not been reported.</p>",
+        "timestamp": "2022-09-30T16:44:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 104386,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 473,
+        "headingText": "\r\n<p>Epidemiological data for pHGG, H3-wildtype and IDH-wildtype, do not yet exist. In a clinical trial of non-brainstem paediatric high-grade gliomas in children aged 3&ndash;18&nbsp;years, 32 (~40%) of 74&nbsp;tumours with DNA methylation data corresponded to pHGG, H3-wildtype and IDH-wildtype {29763623}. The median age of patients with pHGG, H3-wildtype and IDH-wildtype, is currently unclear because published series have focused on paediatric cases {28966033; 28401334} and the occurrence in the adult population may therefore be underestimated.</p>\r\n",
+        "timestamp": "2022-02-11T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 104387,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 474,
+        "headingText": "<p>Gliomas arising after therapeutic radiation, or, as described above, in the context of germline mismatch repair deficiency, typically harbour molecular characteristics compatible with pHGG, H3-wildtype and IDH-wildtype {30196423} and are predominantly of the pHGG RTK1 molecular subtype.</p>\r\n<p>Gliomas arising in the context of constitutional mismatch repair deficiency syndrome (CMMRD), Lynch syndrome, or Li&ndash;Fraumeni syndrome should be recognized as distinct from spontaneously arising diffuse paediatric-type high-grade gliomas. For more details, see <a style=\"cursor:pointer\" href=\"/chaptercontent/44/376\" target=\"_blank\">section </a>Chapter&nbsp;16: <em>Genetic tumour syndromes</em>.</p>",
+        "timestamp": "2022-09-30T16:45:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 104388,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 475,
+        "headingText": "\r\n<p>It is currently unclear why tumours arising subsequent to cranial irradiation and those occurring in the context of CMMRD and Lynch syndrome predominantly belong to the pHGG RTK1 subtype. It is likely that there are similarities in the cellular origins of these tumours and those of sporadically arising pHGG RTK1 tumours.</p>\r\n<p>pHGGs, H3-wildtype and IDH-wildtype, harbour somatic alterations of known oncogenic drivers that are expected to play a central role in pathogenesis. Frequently observed are alterations in <em>TP53</em> (in 30&ndash;50% of cases), in genes encoding members of the RAS/MAPK and PI3K pathways, in <em>MYCN</em>, and/or in <em>ID2</em> {24705254; 26919435; 25752754; 28966033}.</p>\r\n",
+        "timestamp": "2022-02-11T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 104389,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 482,
+        "headingText": "\r\n<p>Diffuse infiltration of the parenchyma causes enlargement and distortion of the brain structures, as well as softening and discolouration, with haemorrhagic/necrotic zones.</p>\r\n",
+        "timestamp": "2022-02-11T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 104390,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 476,
+        "headingText": "<p>Histopathology typically shows features of either a glioblastoma-like malignant tumour (with mitotic activity, vascular proliferation, and necrosis) or a primitive, undifferentiated morphology. Areas of glial differentiation and primitive differentiation can often be found in the same specimen. In some cases, vascular proliferation and necrosis may be absent.</p>\r\n<p>For the pHGG MYCN subtype, a biphasic pattern with areas of diffuse infiltration and highly cellular circumscribed nodules has been described {32646492}. Tumours are often composed of large cells with distinct nucleoli and may show a mix of spindle-shaped and epithelioid cells {32646492}.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>Data on the immunophenotype of pHGG, H3-wildtype and IDH-wildtype, have not been specifically reported. Most reported cases were identified molecularly among series of paediatric glioblastomas or high-grade gliomas, and an immunophenotype compatible with such a diagnosis can therefore be expected, including at least focal positivity for GFAP and/or OLIG2 {28966033; 25752754}. However, tumours of the pHGG MYCN molecular subtype may be largely negative for glial markers and instead express neuronal markers. All cases should have preserved expression of H3 p.K28me3 (K27me3) {32646492}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Depending on the age of the patient and the location of the tumour, a large number of differential diagnoses should be considered. In particular, for infants, infant-type hemispheric glioma and desmoplastic infantile ganglioglioma&nbsp;/ desmoplastic infantile astrocytoma should be excluded; these typically harbour alterations of <em>BRAF</em> or fusions involving NTRK genes, <em>ROS1</em>, <em>ALK</em>, or <em>MET</em>. H3 p.K28me3 (K27me3) is retained in pHGGs, H3-wildtype and IDH-wildtype, distinguishing them from diffuse midline gliomas. Tumours with glioblastoma morphology but the DNA methylation profile of pleomorphic xanthoastrocytoma or a combination of <em>BRAF</em> mutation and <em>CDKN2A</em> and/or <em>CDKN2B</em> deletion are more likely to be adult-type epithelioid glioblastomas {28966033; 25752754}. The chromosomal pattern of +7/&minus;10 and/or <em>EGFRvIII</em> mutations typical of adult-type glioblastoma are typically absent in pHGG, H3-wildtype and IDH-wildtype {30187121}. Other differentials to consider include CNS embryonal tumours {26919435} and, for posterior fossa tumours, medulloblastomas. Medulloblastomas are typically negative for OLIG2, whereas most pHGGs, H3-wildtype and IDH-wildtype, express this marker. CNS embryonal tumours should be considered less likely in older children and adults than in young children, and molecular alterations compatible with this diagnosis should be clearly demonstrated in these cases. In the postirradiation setting, the possibility of a pHGG versus relapse of an embryonal tumour should be considered {29644394}.</p>",
+        "timestamp": "2022-09-30T16:46:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 104391,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-11T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 104392,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 478,
+        "headingText": "\r\n<p>Initial testing should exclude alterations in histone H3 and in <em>IDH1</em> or <em>IDH2</em>. Alterations frequently encountered in these tumours include <em>PDGFRA</em> amplification or mutation, <em>TP53</em> mutation, <em>NF1</em> alterations, <em>EGFR</em> amplification or mutation, or <em>MYCN</em> amplification. DNA methylation profiling is used for the identification of pHGG, H3-wildtype and IDH-wildtype, and it may be useful in guiding additional molecular testing {28401334; 28966033; 29763623}. Three molecular subgroups may be recognized by their distinct DNA methylation profiles or enrichment for molecular alterations: pHGG RTK1, pHGG RTK2, and pHGG MYCN. pHGG RTK1 is enriched for <em>PDGFRA</em> amplifications (~33% of cases), pHGG RTK2 is enriched for <em>EGFR</em> amplifications (~50% of cases) and <em>TERT</em> promoter mutations (~64% of cases) {28401334}, and pHGG MYCN is enriched for <em>MYCN</em> amplifications (~50% of cases) {29539639; 28401334}. Tumours associated with CMMRD or Lynch syndrome are typically of the pHGG RTK1 subtype.</p>\r\n",
+        "timestamp": "2022-02-11T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 104393,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 481,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/44/99/22323\" target=\"_blank\">#22323</a>Box&nbsp;3.08 .</p>",
+        "timestamp": "2022-09-30T16:47:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 104394,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-11T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 104395,
+        "bookId": 44,
+        "chapterId": 99,
+        "headingId": 480,
+        "headingText": "<p>pHGGs, H3-wildtype and IDH-wildtype, are aggressive tumours, and they are considered CNS WHO grade&nbsp;4. Data from one multi-institutional series indicate a 2-year survival rate of 23.5% and a median overall survival (OS) of 17.2&nbsp;months {28966033}. Outcome was shown to be worst with pHGG MYCN (median OS: 14&nbsp;months), intermediate with pHGG RTK1 (median OS: 21&nbsp;months), and better with pHGG RTK2 (median OS: 44&nbsp;months) {28401334}. Unlike for adult high-grade gliomas, the finding of vascular endothelial proliferation and/or necrosis is not prognostic {31419298}. Few data exist on potentially targetable alterations in pHGG, H3-wildtype and IDH-wildtype; recurrent alterations of <em>PDGFRA</em> and <em>EGFR</em> may be the most frequent of such alterations, but their predictive ability is yet to be demonstrated. Hypermutant tumours, most frequently arising in the context of CMMRD, may respond to immunotherapy {29763623} (see <a style=\"cursor:pointer\" href=\"/chaptercontent/44/382\" target=\"_blank\">section </a><em>Constitutional mismatch repair deficiency syndrome</em>).</p>",
+        "timestamp": "2022-09-30T16:48:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

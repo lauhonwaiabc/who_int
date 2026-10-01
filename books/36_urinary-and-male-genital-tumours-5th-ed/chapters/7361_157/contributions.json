@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 70102,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 539,
+        "headingText": "\r\n<p>Gonadoblastoma is an in&nbsp;situ form of malignant germ cell tumour consisting of germ cell neoplasia in situ (GCNIS), seminoma, or dysgerminoma cells, and incompletely differentiated sex cord cells reminiscent of Sertoli or granulosa cells.</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 70103,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 540,
+        "headingText": "\r\n<p>9073/1 Gonadoblastoma</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 70104,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 541,
+        "headingText": "\r\n<p>2C73.Y &amp; XH0K61 Other specified malignant neoplasms of the ovary &amp; Gonadoblastoma</p>\r\n<p>2F76 &amp; XH0K61 Neoplasms of uncertain behaviour of female genital organs &amp; Gonadoblastoma</p>\r\n<p>2F77 &amp; XH0K61 Neoplasms of uncertain behaviour of male genital organs &amp; Gonadoblastoma</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 70105,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Not recommended:</em> dysgenetic gonadoma.</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 70106,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 70107,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 544,
+        "headingText": "\r\n<p>Gonads</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 70108,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 545,
+        "headingText": "\r\n<p>Most patients present as neonates with ambiguous genitalia in the setting of a disorder of sex development (DSD) {22423509; 16882833; 25129544}, although occasional patients do not present until their fourth decade of life {4193741}. Approximately half of all cases of gonadoblastoma appear in virilized female patients, 30% in non-virilized female patients, and 20% in male patients with hypospadias and an empty scrotum {4193741; 3548944}. A common initial presentation in young women is primary amenorrhoea {25129544}. Advanced presentations usually feature an abdominal mass.</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 70109,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 546,
+        "headingText": "\r\n<p>Although gonadoblastomas are almost always associated with DSDs {27626837; 25105336; 31805291}, a subset occur in patients with no apparent DSD and a normal peripheral blood karyotype {32616344}. As many as 60% of dysgenetic gonads develop gonadoblastoma {4193741; 16882833; 22423509; 25129544}. Frequent entities associated with gonadoblastoma include 46,XY pure gonadal dysgenesis (bilateral streak gonads), mixed gonadal dysgenesis, ovotesticular disorder of sex development, Turner syndrome (see below), and androgen insensitivity syndrome {27626837; 25105336}. Gonadoblastoma is bilateral in 30&ndash;40% of cases {4193741; 25129544; 30646821}.</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 70110,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 547,
+        "headingText": "\r\n<p>Mutations (many hereditary) leading to DSDs cause gonadoblastoma {19531589; 12793612; 20849656}. DSDs are caused by abnormalities in genes implicated in the 46,XY developmental pathway, including <em>SRY</em>, <em>SOX9</em>, <em>WT1</em>, and <em>NR5A1</em> (<em>SF1</em>) {16735607; 22423509; 20541153}. Multiple genes may be affected in a single patient {22815844}. An essential etiological element is the presence of the GBY region of the Y&nbsp;chromosome, including the candidate gene encoding testis-specific Y-encoded protein (<em>TSPY1</em>) {8533770; 19306348}. Abnormalities in this pathway result in immature sex cord cells instead of normal Sertoli cells. This undervirilized environment causes the delayed development of the embryonic germ cells, allowing coexpression of embryonal and early differentiation genes, particularly <em>POU5F1</em> (which encodes OCT3/4) and <em>TSPY1</em> {15998778; 15948118}. This, combined with enhanced KIT/KITLG signalling {18566970}, promotes the neoplastic transformation of germ cells into GCNIS-like cells. Concurrent GCNIS and gonadoblastoma have been reported within a single gonad, indicating an underlying DSD {22315593; 17349529}. Patients with germline or somatic mutations in <em>WT1</em> (Denys&ndash;Drash and Frasier syndromes) or <em>SRY</em> (Swyer syndrome) feature dysgenetic gonads and gonadoblastomas {17378674}. As many as 35% of patients with Turner syndrome who have Y&nbsp;chromosome material (which may be cryptic) develop gonadoblastomas {25535833; 27052295}, as do about 5% of patients with androgen insensitivity syndrome {27862157; 26608236}.</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 70111,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 548,
+        "headingText": "\r\n<p>Most patients with gonadoblastoma feature a female phenotype. However, their gonads carry Y&nbsp;chromosome material and show either a dysgenetic/dysplastic testicular histology (20%) or a streak gonad appearance (20%) {4193741}. Because the genetic male developmental pathway is faulty, or androgen effects are deficient, SOX9 expression is insufficient to support the normal formation of seminiferous cords and Sertoli cells, leading to a predominance of FOXL2 {18348162; 21682576} and causing a delay in germ cell maturation, with expression of OCT3/4 and TSPY, which combined with KIT/KITLG signalling seems to promote neoplastic transformation.</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 70112,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 555,
+        "headingText": "\r\n<p>Gonadoblastomas range from soft to firm; they are brown, yellow, or grey in appearance, and they can reach 80&nbsp;mm in size. They often show multifocal calcification. If they progress to invasive germ cell tumours, they show soft, grey nodules {25129544; 31805291}.</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 70113,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 549,
+        "headingText": "\r\n<p>Like all blastomas, gonadoblastoma recapitulates the developmental process of its organ of origin. Gonadoblastomas feature round nests and cords composed of germ cells, small sex cord cells, and globoid deposits of hyaline basement membrane material in variable proportions. The germ cells have large nuclei, one or more prominent nucleoli, and pale/clear cytoplasm. Many resemble GCNIS or seminoma/dysgerminoma cells; others appear as spermatogonia. Mitotic figures can be seen. The sex cord cells show angulated, sometimes grooved, nuclei; they are similar to Sertoli cells and may also show Charcot&ndash;B&ouml;ttcher crystals {1260688; 2707955}. The germ cells are scattered between the sex cord cells, which may form palisades at the periphery of nests, rosettes around the basement membrane deposits, or circular arrays around the germ cells. The basement membrane material frequently develops laminated calcifications, resembling psammoma bodies, with occasional coalescence to form mulberry-like structures. Rarely, calcifications can be so extensive as to obliterate the cellular detail (burnt-out or regressed gonadoblastoma). Scattered Leydig-like cells may be present in adjacent gonadal stroma.</p>\r\n<p>The morphological features of undifferentiated gonadal tissue overlap with what Scully called &ldquo;dissecting gonadoblastoma&rdquo;, which should be distinguished from the classic gonadoblastoma and is present in approximately 75% of cases. In these areas the neoplastic cells adopt a cord-like pattern {27454939}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>The immunophenotype includes PLAP, KIT (CD117), and podoplanin staining in the germ cells; inhibin, nuclear SOX9 (weak), and FOXL2 (strong) in the sex cord cells; and inhibin plus calretinin in the Leydig-like cells. Gonadoblastoma is a precursor of invasive germ cell tumours. Depending on the degree of development in the dysgenetic gonad, the lesion may develop into a GCNIS or gonadoblastoma. Infiltration by the neoplastic germ cells into the surrounding stroma may result in any of the usual types of germ cell tumour, most frequently seminoma/dysgerminoma.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>In fetuses and neonates the differential includes the lesion known as fetal gonadoblastoid testicular dysplasia {3699814; 9688764; 17638428}. In postpubertal patients, Sertoli cell nodules colonized by GCNIS should be excluded. Immunohistochemistry facilitates their distinction, because Sertoli cell nodules are negative for FOXL2 and strongly positive for SOX9 {24766183}. Gonadoblastoma seems to originate from surviving OCT3/4-positive germ cells within undifferentiated gonadal tissue {16608895} present in dysgenetic gonads, which may precede the development of fully recognizable gonadoblastoma. The existence of testicular mixed germ cell&ndash;sex cord stromal tumour has been challenged; some consider it a distinct neoplasm {28445692}, but mostly it is considered as a sex cord stromal tumour with entrapped germ cells {10757400}. Recently, it has been suggested that the germ cell component might be related to spermatocytic tumour, with multiple aneuploidies {32447491}. The germ cells are SALL4-positive but OCT4-negative {32447491}. These tumours almost always show indolent behaviour.</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 70114,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 70115,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 551,
+        "headingText": "\r\n<p>FISH analysis may be useful to demonstrate the Y&nbsp;chromosome in tissues or other materials (urine) of phenotypically female patients {30646821} (see also <em>Pathogenesis</em> and <em>Etiology</em>, above).</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 70116,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> nested to corded arrangement of germ cells (similar to GCNIS/seminoma) and small sex cord cells with deposits of basement membrane material.</p>\r\n<p><em>Desirable:</em> frequent background of a DSD; typical immunophenotype (in selected cases); marker positivity for germ cell and sex cord stromal tumours can be helpful.</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 70117,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 552,
+        "headingText": "\r\n<p>Gonadoblastoma is an in&nbsp;situ malignancy. It is staged as pTis using the Union for International Cancer Control (UICC) and American Joint Committee on Cancer (AJCC) TNM system.</p>\r\n",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 70118,
+        "bookId": 36,
+        "chapterId": 157,
+        "headingId": 553,
+        "headingText": "\r\n<p>Given the potential for gonadoblastoma to transform into an invasive germ cell tumour, gonadectomy is recommended in all cases. Surgical excision and bilateral gonadectomy result in cure of the tumour and prevention of contralateral gonadoblastoma. In cases that have progressed to an invasive tumour, staging and prognosis vary accordingly.</p>",
+        "timestamp": "2022-02-22T11:27:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

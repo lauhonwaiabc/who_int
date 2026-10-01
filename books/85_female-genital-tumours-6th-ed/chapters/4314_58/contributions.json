@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1070,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1086,
+    "contributions": [
+      {
+        "pkcontributionId": 151669,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1086,
+        "headingText": "\r\n<p>Adenocarcinoma, HPV-independent, gastric-type, is an invasive adenocarcinoma exhibiting gastric/gastrointestinal differentiation and arising through mechanisms not associated with HPV infection.</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1071,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1087,
+    "contributions": [
+      {
+        "pkcontributionId": 151670,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1087,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1072,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1088,
+    "contributions": [
+      {
+        "pkcontributionId": 151671,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1088,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1073,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1089,
+    "contributions": [
+      {
+        "pkcontributionId": 151672,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1089,
+        "headingText": "\r\n<p><em>Not recommended:</em> minimal deviation adenocarcinoma; adenoma malignum; mucinous adenocarcinoma of endocervix (HPV-negative).</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1074,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1090,
+    "contributions": [
+      {
+        "pkcontributionId": 151673,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1090,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1075,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1091,
+    "contributions": [
+      {
+        "pkcontributionId": 151674,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1091,
+        "headingText": "\r\n<p>This tumour occurs in the cervix, most commonly the upper endocervix, with frequent spread to the corpus { 18631191; 25188888}. These tumours may also occur as primary vaginal neoplasms { 38477341; 29664741}; before making a diagnosis of a primary vaginal gastric-type adenocarcinoma, spread from a primary cervical neoplasm should be excluded.</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1076,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1092,
+    "contributions": [
+      {
+        "pkcontributionId": 151675,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1092,
+        "headingText": "\r\n<p>Clinical features include bleeding and watery vaginal discharge.</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1077,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1093,
+    "contributions": [
+      {
+        "pkcontributionId": 151676,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1093,
+        "headingText": "\r\n<p>Gastric-type adenocarcinoma accounts for approximately 10&ndash;15% of all cervical adenocarcinomas in large case series worldwide {29135516; 30679193}, and for approximately 20&ndash;25% in Japan {17460448; 20829441; 28296678}. The mean patient age is 50&ndash;55&nbsp;years (range: 37&ndash;84&nbsp;years), which is significantly older than that for HPV-associated adenocarcinomas {17460448; 26457350; 29135516}.</p>\r\n<p>Gastric-type adenocarcinomas of the vagina are rare with few cases reported, although this is a relatively recently described entity {29664741}.</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1078,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1094,
+    "contributions": [
+      {
+        "pkcontributionId": 151677,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1094,
+        "headingText": "\r\n<p>These tumours are HPV independent. They can be associated with Peutz&ndash;Jeghers syndrome (germline <em>STK11</em> mutation) and with synchronous gastric-type lesions elsewhere in the female genital tract (endometrium, fallopian tube, ovary) {19207943}; in such cases, it may be difficult to distinguish between synchronous independent and metastatic lesions. Referral for genetic testing should be considered if there is any clinical suspicion of Peutz&ndash;Jeghers syndrome.</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1079,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1095,
+    "contributions": [
+      {
+        "pkcontributionId": 151678,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1095,
+        "headingText": "\r\n<p>These tumours may be associated with and arise from lobular endocervical glandular hyperplasia (complex gastric metaplasia). Atypical lobular endocervical glandular hyperplasia and gastric-type adenocarcinoma in&nbsp;situ appear to be precursor lesions {15143335; 17540439; 18779726; 24145653}. These tumours are negative for HPV DNA {20727021; 20829441; 21490443; 32474915}. <em>TP53</em> is the most frequently mutated gene, followed by <em>CDKN2A/B, KRAS, SLX4, ARID1A, PIK3CA, BRCA2</em>, <em>MSH2</em>, <em>MSH6</em>, <em>ATM, NTRK</em>, and <em>MSH2 </em>{31308508; 33318584; 31855952; 33817764; 36253302; 32641744}. <em>STK11</em> mutations can be found {12533684; 33318584; 33817764; 39025403}, and in some cases the mutations are germline in patients with Peutz&ndash;Jeghers syndrome {12533684; 31308508}. <em>ERBB2</em> (<em>HER2</em>) or <em>MDM2</em> gene amplification are detected in some tumours {31308508; 36253302}. Tumours have a low mutational burden {36253302}. Deficiencies in cell cycle, PI3K/AKT and MAPK signalling pathways, NOTCH signalling pathway, Fanconi anaemia pathway, mismatch repair pathway, or homologous recombination are implicated in a minority of cases, and they are potential therapeutic targets {31308508}.</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1086,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1102,
+    "contributions": [
+      {
+        "pkcontributionId": 151679,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1102,
+        "headingText": "\r\n<p>Tumours are typically large, and they can be polypoid or ulcerated. Circumferential involvement of the cervix imparting a barrel shape is common {23346318}.</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1080,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1096,
+    "contributions": [
+      {
+        "pkcontributionId": 151680,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1096,
+        "headingText": "\r\n<p>The morphology is of an adenocarcinoma composed of cells with abundant clear or pale eosinophilic cytoplasm and distinct cell borders {17460448; 20459563}. Apical mitoses and basal apoptoses may be present but are typically inconspicuous compared with HPV-associated adenocarcinomas, although there is overlap {29135516}. Cytoplasm contains neutral mucins, which stain pale pinkish-red on Alcian blue / PAS staining (in contrast to the dark purple of acid mucins of normal endocervix) {10757403; 17543073}. Morphology ranges from extremely well-differentiated adenocarcinoma (previously termed &ldquo;adenoma malignum&rdquo; or &ldquo;minimal deviation adenocarcinoma&rdquo;), with deep haphazardly arranged hairpin or claw-like glands with a limited desmoplastic stromal reaction, to poorly differentiated glands, clusters, and single mucin-containing cells, sometimes including signet-ring cells; a majority of cases are architecturally well differentiated {17460448}. Poorly differentiated glands are lined by cells with variable nuclear morphologies, including large vesicular nuclei with visible nucleoli. Other histological features include endometrioid-like glands {28296678; 30234500}, foamy cytoplasm {30234500; 26517626}, cuboidal cells with depleted cytoplasm {30234500}, and goblet cells {29135516}. Lymphovascular space invasion is frequent {26457350}, and there may be mucin extravasation. These tumours are not graded since there is no correlation between morphology and outcomes {17460448; 33570864}. Occasionally there is coexistence of lobular endocervical glandular hyperplasia (including atypical lobular endocervical glandular hyperplasia) or gastric-type HPV-independent adenocarcinoma in&nbsp;situ {15143335; 19167836}. Primary vaginal gastric-type adenocarcinoma may be associated with vaginal adenosis exhibiting gastric differentiation; the adenosis may be cytologically bland or exhibit nuclear atypia and may contain goblet cells {29664741}.</p>\r\n<p>By immunohistochemistry, gastric (pyloric) markers, including HIK1083 {15143335}, claudin-18 {34864774}, TFF2 {30324235; 32897966}, CAIX, and MUC6 {15143335} are frequently positive, although MUC6 and CAIX are less specific {15143335; 30324235; 31021421} and these markers are not necessary for diagnosis. These markers are typically more focally expressed in gastric-type adenocarcinoma, in contrast to the typically diffuse expression seen in lobular endocervical glandular hyperplasia {15143335; 28296678}. CEA and CK7 are usually positive, and PAX8 may be positive or negative {23391777; 31279344; 26685087}. CK20 and CDX2 may be focally or diffusely positive {31279344; 26685087}. HNF1&beta; is often positive { 26685087 }, and napsin&nbsp;A may be positive {29901522}. PAX2 expression is typically lost { 26685087 }. ER and PR are usually negative. p16 is usually negative/non&ndash;block-type; however, diffuse block-type expression is rarely seen {17460448; 21490443; 26685087; 28296678}. Mutation-type p53 staining is seen in as many as 70% of cases {17460448; 28296678; 26685087; 31279344}.</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1081,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1097,
+    "contributions": [
+      {
+        "pkcontributionId": 151681,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1097,
+        "headingText": "\r\n<p>Identification of two-toned mucin (yellow gastric-type and pink normal endocervical) on conventional cervical cytology specimens has been proposed as a diagnostic clue for lesions with gastric differentiation {29982289; 36128862; 33176300}, although this finding is less apparent on liquid-based preparations {33152741}. Other features of gastric-type adenocarcinoma include monolayered honeycomb-like sheets of glandular cells with foamy vacuolated cytoplasm, distinct cell borders, intracytoplasmic neutrophils, and vesicular nuclei with prominent nucleoli {26173165; 29750702; 33152741}. Because of the difficulty of diagnosing gastric-type adenocarcinomas, particularly in very well differentiated cases, the cytological diagnosis often falls short of a definitive diagnosis of malignancy and is instead categorized as atypical glandular cells { 29982289 }.</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1082,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1098,
+    "contributions": [
+      {
+        "pkcontributionId": 151682,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1098,
+        "headingText": "\r\n<p>HPV testing, if performed, should be negative.</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1085,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1101,
+    "contributions": [
+      {
+        "pkcontributionId": 151683,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1101,
+        "headingText": "\r\n<p><em>Essential:</em> primary cervical adenocarcinoma exhibiting gastric/gastrointestinal differentiation.</p>\r\n<p><em>Desirable:</em> immunohistochemical evidence of gastrointestinal differentiation; negative/non&ndash;block-type p16 staining and/or negative HPV testing.</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1083,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1099,
+    "contributions": [
+      {
+        "pkcontributionId": 151684,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1099,
+        "headingText": "\r\n<p>These neoplasms are staged using the FIGO and TNM staging systems.</p>\r\n",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1084,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1100,
+    "contributions": [
+      {
+        "pkcontributionId": 151685,
+        "bookId": 85,
+        "chapterId": 58,
+        "headingId": 1100,
+        "headingText": "\r\n<p>Gastric-type adenocarcinomas are clinically aggressive neoplasms. Compared with HPV-associated cervical adenocarcinomas, they have a higher prevalence of deep stromal invasion, extracervical and extrauterine spread, and advanced stage at presentation, with frequent ovarian metastasis (which can mimic a benign or borderline mucinous tumour) and/or intra-abdominal spread. Spread to other distant sites is also more common. Disease-free and overall survivals are significantly worse than those for HPV-associated adenocarcinomas {17460448; 17460448; 30679193; 33570864}. Prognosis is not related to the degree of differentiation {26457350; 30709650}. In addition to advanced stage, positive peritoneal cytology, positive surgical margins, and perineural invasion are indicative of high-risk disease {39981977}. Primary vaginal gastric-type adenocarcinomas are also clinically aggressive, but there are few reported cases with long-term follow-up { 29664741 }.</p>",
+        "timestamp": "2026-08-25T18:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

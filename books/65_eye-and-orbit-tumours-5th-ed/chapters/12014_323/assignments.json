@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 176,
+    "bookId": "65",
+    "roleid": 205,
+    "roleTitle": "Resp editor",
+    "contributors": [
+      {
+        "contributorid": 2173,
+        "lastname": "Cree",
+        "firstname": "Ian A.",
+        "initials": "",
+        "email": "",
+        "roleid": 205,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 177,
+    "bookId": "65",
+    "roleid": 206,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      },
+      {
+        "contributorid": 3294,
+        "lastname": "Grossniklaus",
+        "firstname": "Hans E.",
+        "initials": "",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      },
+      {
+        "contributorid": 4647,
+        "lastname": "Hodge",
+        "firstname": "Jennelle C.",
+        "initials": "JC",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 178,
+    "bookId": "65",
+    "roleid": 207,
+    "roleTitle": "Resp author",
+    "contributors": [
+      {
+        "contributorid": 3521,
+        "lastname": "Aldape",
+        "firstname": "Kenneth",
+        "initials": "",
+        "email": "",
+        "roleid": 207,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 179,
+    "bookId": "65",
+    "roleid": 208,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3264,
+        "lastname": "Singh",
+        "firstname": "Arun",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 5266,
+        "lastname": "Aronow",
+        "firstname": "Mary Elizabeth",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 5267,
+        "lastname": "Kilic",
+        "firstname": "Emine",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      }
+    ]
+  }
+]

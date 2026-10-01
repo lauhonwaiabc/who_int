@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 64581,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 370,
+        "headingText": "\r\n<p>Carcinosarcoma is a biphasic malignant neoplasm composed of epithelial and mesenchymal components.</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 64582,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 371,
+        "headingText": "\r\n<p>8980/3 Carcinosarcoma NOS</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 64583,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 372,
+        "headingText": "\r\n<p>2C77.Y &amp; XH2W45 Other specified malignant neoplasms of cervix uteri &amp; Carcinosarcoma NOS</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 64584,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 373,
+        "headingText": "<p><em>Not recommended:</em> malignant mesodermal mixed tumour; malignant mixed M&uuml;llerian tumour; metaplastic carcinoma</p>",
+        "timestamp": "2020-07-24T14:48:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 64585,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 64586,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 375,
+        "headingText": "\r\n<p>Uterine cervix</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 64587,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 376,
+        "headingText": "\r\n<p>Cervical carcinosarcoma occurs mostly in postmenopausal women and presents as a large polypoid mass protruding from the cervical os {9656116; 11224604; 11917230}.</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 64588,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 377,
+        "headingText": "\r\n<p>Primary cervical carcinosarcomas are much less frequent than tumours arising in the uterine corpus or ovary.</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 64589,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 378,
+        "headingText": "\r\n<p>Some tumours are associated with high-risk HPV infection (types 16 and 18) {11224604; 11917230; 23533892}.</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 64590,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 379,
+        "headingText": "\r\n<p>The pathogenesis is similar to that of the uterine counterpart. These tumours probably represent dedifferentiated (metaplastic) carcinomas.</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 64591,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 386,
+        "headingText": "\r\n<p>Carcinosarcoma of the uterine cervix presents as a large fleshy polypoid mass, often with necrosis and haemorrhage.</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 64592,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 380,
+        "headingText": "<p>The carcinomatous component can be represented by a subtype seen in primary cervical epithelial malignancy (squamous cell carcinoma, adenocarcinoma, adenoid basal carcinoma, mesonephric carcinoma, neuroendocrine carcinoma [NEC]). The mesenchymal component is often homologous (fibrosarcoma, endometrioid stromal sarcoma) but can occasionally show heterologous differentiation (rhabdomyosarcoma, osteosarcoma) {23533892; 25272303}. The epithelial component in tumours of mesonephric type is positive for CD10 and GATA3 {23651629; 30936330; 24020142; 25272303}. An osteosarcoma component can be confirmed with SATB2 {27294605}.</p>",
+        "timestamp": "2020-07-17T16:30:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 64593,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 381,
+        "headingText": "\r\n<p>Carcinosarcoma can be recognized by the presence of a malignant epithelial component plus a sarcoma component. However, the sarcoma component may be absent on Pap tests in 38&ndash;75% of cases {1312925}.</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 64594,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 64595,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> a biphasic admixture of sharply juxtaposed carcinomatous and sarcomatous components.</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 64596,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 383,
+        "headingText": "\r\n<p>This entity is staged as cervical carcinoma.</p>\r\n",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 64597,
+        "bookId": 34,
+        "chapterId": 322,
+        "headingId": 384,
+        "headingText": "\r\n<p>The prognosis is poor, with a 2-year overall survival rate of 60% {28708788}. Tumour stage is the single most important prognostic indicator. However, cervical carcinosarcomas usually present at an earlier stage (~50% of cervical carcinosarcomas are FIGO stage&nbsp;IB) than do uterine corpus tumours. Therefore, they may have a better prognosis {9656116; 28708788}.</p>",
+        "timestamp": "2020-04-28T15:12:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

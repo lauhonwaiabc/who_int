@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 678,
+    "bookid": 50,
+    "headingType": 5,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 682,
+    "contributions": [
+      {
+        "pkcontributionId": 94099,
+        "bookId": 50,
+        "chapterId": 109,
+        "headingId": 682,
+        "headingText": "\r\n<p>Biliary intraepithelial neoplasia, low-grade (BilIN-low) is a microscopic, non-invasive neoplasm with a flat, micropapillary, or pseudopapillary architecture with low-grade dysplasia.</p>\r\n",
+        "timestamp": "2022-11-29T18:00:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 679,
+    "bookid": 50,
+    "headingType": 5,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 683,
+    "contributions": [
+      {
+        "pkcontributionId": 94100,
+        "bookId": 50,
+        "chapterId": 109,
+        "headingId": 683,
+        "headingText": "\r\n<p>BilIN-low is often found in patients with chronic biliary disease such as hepatolithiasis, primary sclerosing cholangitis, IgG4-related sclerosing cholangitis, congenital biliary dilation, or anomalous union of pancreaticobiliary ducts. It can also be seen in patients with non-biliary disease such as chronic hepatitis&nbsp;B or&nbsp;C or alcoholic cirrhosis {27788047; 26580863; 23616173; 25123074}. The incidence of biliary intraepithelial neoplasia (BilIN) in the general population is unknown. BilIN-low lesions are asymptomatic and cannot be detected by current imaging modalities.</p>\r\n",
+        "timestamp": "2022-11-29T18:00:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 680,
+    "bookid": 50,
+    "headingType": 5,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 684,
+    "contributions": [
+      {
+        "pkcontributionId": 94101,
+        "bookId": 50,
+        "chapterId": 109,
+        "headingId": 684,
+        "headingText": "\r\n<p>The biliary tract mucosa with BilIN is macroscopically unremarkable or displays only subtle changes such as mild granularity or a thickened, velvety texture {27788047}.</p>\r\n<p>Microscopically, BilIN-low is a flat or micropapillary lesion with a mildly increased N:C&nbsp;ratio, focally distorted polarities, mild irregularities of the nuclear membrane, nuclear elongation, and variations in nuclear size and shape. Nuclear pseudostratification is sometimes observed, but reaching to the luminal surface is not common. Mitoses are rare. In addition to the biliary phenotype, gastric (foveolar, pseudopyloric gland) and intestinal (goblet cells) phenotypes can also be recognized. Multifocal lesions can be observed.</p>\r\n",
+        "timestamp": "2022-11-29T18:00:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 681,
+    "bookid": 50,
+    "headingType": 5,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 685,
+    "contributions": [
+      {
+        "pkcontributionId": 94102,
+        "bookId": 50,
+        "chapterId": 109,
+        "headingId": 685,
+        "headingText": "<p>BilIN-low does not have a defined cytopathological description and is found incidentally, rather than targeted. By analogy to low-grade pancreatic intraepithelial neoplasia, mild atypia and focally distorted nuclear polarity might be observed. Most cases will be interpreted as &ldquo;Atypical&rdquo;, owing to the low-grade atypia defined by mucinous cytoplasm and mild nuclear atypia.</p>",
+        "timestamp": "2022-12-16T16:23:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 682,
+    "bookid": 50,
+    "headingType": 5,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 686,
+    "contributions": [
+      {
+        "pkcontributionId": 94103,
+        "bookId": 50,
+        "chapterId": 109,
+        "headingId": 686,
+        "headingText": "<p>These premalignant lesions potentially progress to cholangiocarcinoma in a multistep manner. BilIN is divided into low and high grades on the basis of the highest degree of cytoarchitectural atypia.</p>\r\n<p>The main cytopathological differential diagnosis of BilIN-low includes reactive atypia. Intraductal papillary neoplasm of the bile duct and mucinous cystic neoplasm can display similar cytopathological features, but, unlike BilIN-low, they present with characteristic imaging abnormalities.</p>\r\n<p>Discrimination between reactive atypia and BilIN-low is virtually impossible, particularly in patients with chronic cholangiopathy. Reactive bile duct epithelium demonstrates nuclear enlargement and mild variation in nuclear size, but the nuclei are round to oval in shape, with a smooth nuclear membrane, fine chromatin, and visible nucleoli. Intraepithelial neutrophils are common in tissue fragments of reactive biliary epithelium.</p>\r\n<p>The cytopathological diagnosis of BilIN-low is not likely to be made, given the lack of defined criteria and imaging correlates.</p>",
+        "timestamp": "2023-02-06T17:17:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 683,
+    "bookid": 50,
+    "headingType": 5,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 687,
+    "contributions": [
+      {
+        "pkcontributionId": 94104,
+        "bookId": 50,
+        "chapterId": 109,
+        "headingId": 687,
+        "headingText": "\r\n<p>Diffuse expression of p53 or the loss of SMAD4 expression suggests cholangiocarcinoma over BilIN-low, given that mutations in <em>TP53</em> and <em>SMAD4</em> are late events in biliary carcinogenesis and absent in BilIN-low. The diffuse expression of maspin or nuclear expression of S100 can be observed in BilIN-low but not in reactive biliary epithelium {28074620; 21412073}.</p>\r\n<p>Aneuploidy detected by FISH probes targeting chromosomes&nbsp;3, 7, 9p21, and&nbsp;17 or the pancreaticobiliary-specific FISH probe directed against chromosomes 1q21, 7p12, 8q24, and 9p21 suggests high-grade BilIN (BilIN-high) or malignancy rather than BilIN-low {26327129}.</p>\r\n<p><em>KRAS</em> sequencing does not assist in the differential diagnosis between BilIN-low and BilIN-high or malignancy {23335286}.</p>\r\n<p>These ancillary tests help to define a low-risk and high-risk ductal lesion but are not specific for a diagnosis of BilIN.</p>",
+        "timestamp": "2022-11-29T18:00:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

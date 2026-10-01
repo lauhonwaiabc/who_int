@@ -1,0 +1,105 @@
+[
+  {
+    "pkroleId": 170,
+    "bookId": "84",
+    "roleid": 264,
+    "roleTitle": "Resp. editor",
+    "contributors": [
+      {
+        "contributorid": 2196,
+        "lastname": "Brogi",
+        "firstname": "Edi ",
+        "initials": "",
+        "email": "",
+        "roleid": 264,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 171,
+    "bookId": "84",
+    "roleid": 282,
+    "roleTitle": "1st Co-editor",
+    "contributors": [
+      {
+        "contributorid": 2013,
+        "lastname": "Tan",
+        "firstname": "Puay Hoon",
+        "initials": "",
+        "email": "",
+        "roleid": 282,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 172,
+    "bookId": "84",
+    "roleid": 283,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2003,
+        "lastname": "Lakhani",
+        "firstname": "Sunil R.",
+        "initials": "",
+        "email": "",
+        "roleid": 283,
+        "position": 0
+      },
+      {
+        "contributorid": 5504,
+        "lastname": "Adjei",
+        "firstname": "Ernest K.",
+        "initials": "",
+        "email": "",
+        "roleid": 283,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 173,
+    "bookId": "84",
+    "roleid": 284,
+    "roleTitle": "Resp. author",
+    "contributors": [
+      {
+        "contributorid": 2212,
+        "lastname": "Collins",
+        "firstname": "Laura C.",
+        "initials": "",
+        "email": "",
+        "roleid": 284,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 174,
+    "bookId": "84",
+    "roleid": 285,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2251,
+        "lastname": "Tse",
+        "firstname": "Gary ",
+        "initials": "G",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 2341,
+        "lastname": "Kulka",
+        "firstname": "Janina",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      }
+    ]
+  }
+]

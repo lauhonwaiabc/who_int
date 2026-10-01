@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 54933,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 159,
+        "headingText": "<p>Combined hepatocellular-cholangiocarcinoma (cHCC-CCA) is a primary liver carcinoma (PLC) defined by the unequivocal presence of both hepatocytic and cholangiocytic differentiation within the same tumour; collision tumours are not part of this entity. Undifferentiated PLC lacks evidence of any differentiation beyond epithelial nature.</p>",
+        "timestamp": "2019-03-04T11:57:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 54934,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 160,
+        "headingText": "<p>8020/3 Carcinoma, undifferentiated, NOS</p>\r\n<p>8180/3 Combined hepatocellular carcinoma and cholangiocarcinoma</p>",
+        "timestamp": "2021-11-22T15:24:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 54935,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 161,
+        "headingText": "<p>2C12.00 Combined hepatocellular-cholangiocarcinoma</p>\r\n<p>XH1YY4 Carcinoma, undifferentiated, NOS</p>",
+        "timestamp": "2019-03-04T11:57:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 54936,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 162,
+        "headingText": "<h5>cHCC-CCA</h5>\r\n<p><em>Acceptable:</em> mixed hepatocellular-cholangiocarcinoma; mixed hepatobiliary carcinoma; hepatocholangiocarcinoma.</p>",
+        "timestamp": "2019-04-24T12:10:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 54937,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 163,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-03-04T11:58:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 54938,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 164,
+        "headingText": "<p>cHCC-CCA and undifferentiated PLC have an intrahepatic localization.</p>",
+        "timestamp": "2019-04-24T12:10:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 54939,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 165,
+        "headingText": "<p>The age- and sex-specific incidence, variations in geographical distribution, and clinical features of cHCC-CCA (including the presence of underlying liver disease and cirrhosis) are similar to those of hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (iCCA) {29360137}. Transarterial chemoembolization (TACE) of PLC has been associated with a higher frequency of cHCC-CCA {21491582}. The imaging features overlap with those of HCC and iCCA, and they are often not specific {23883213; 29360137}.</p>",
+        "timestamp": "2019-03-04T11:58:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 54940,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 166,
+        "headingText": "<p>cHCC-CCA is a rare tumour, accounting for 2&ndash;5% of PLCs {29360137}. Undifferentiated carcinoma is even more rare, with no definite incidence available.</p>",
+        "timestamp": "2019-03-04T11:58:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 54941,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 167,
+        "headingText": "<p>The etiologies established for HCC and iCCA apply to cHCC-CCA {29360137}. The etiologies for undifferentiated carcinoma are unclear.</p>",
+        "timestamp": "2019-03-04T11:58:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 54942,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 168,
+        "headingText": "<p>The pathogenesis of cHCC-CCA is still debated. Plasticity or transdifferentiation of HCC, as demonstrated in several mouse models {29248454} and supported by the occurrence of cHCC-CCA after TACE, has been proposed {21491582}. Liver progenitor&nbsp;/ stem cell origin has also been discussed {22696594}. The pathogenesis of undifferentiated carcinoma remains unclear.</p>\r\n<p>Several molecular studies of cHCC-CCA have supported a common clonal origin of the HCC and iCCA components. The variability of the mutation spectrum in different studies probably reflects differences in collective composition. Some studies have shown a position of cHCC-CCA closer to iCCA than to HCC, while typical mutations of HCC (e.g. <em>CTNNB1</em>) and iCCA (e.g. <em>KRAS</em>, <em>IDH1</em>) have been found {15288479; 25636086; 29408647; 27634656}. cHCC-CCAs enriched in cells with stem/progenitor morphology are frequently positive for SALL4, fetal-type growth factors, and stem cell signatures {28126467}. Molecular data of undifferentiated carcinoma are limited.</p>",
+        "timestamp": "2019-04-24T12:10:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 54943,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 207,
+        "headingText": "<p>cHCC-CCA and undifferentiated carcinoma show no specific macroscopic features. In cHCC-CCA, the macroscopic appearance depends on the major component, and detailed sampling of each of the heterogeneous macroscopic regions should be performed for microscopic examination.</p>",
+        "timestamp": "2019-03-04T11:59:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 54944,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 169,
+        "headingText": "<p>In cHCC-CCA, the hepatocytic and cholangiocytic tumour areas may show all the architectural and cytological differentiation patterns described for HCC and iCCA, respectively. The two components are either close to each other or deeply intermingled, and the transition between them can be either poorly defined or sharp {29360137; 28256363}. There are no definite data at present to support the inclusion of minimum cut-off amounts of each component for the diagnosis of cHCC-CCA, and this diagnosis is made regardless of the percentage of each component, if they are unequivocal. The biphenotypic differentiation is based on the H&amp;E morphology and can be confirmed by hepatocytic and cholangiocytic immunohistochemical markers. However, immunohistochemistry alone is not sufficient for a diagnosis of cHCC-CCA without supportive histomorphology. Distant metastases can show either cHCC-CCA features or an individual component of the original tumour {28707055}.</p>\r\n<p>Small uniform tumour cells with scant cytoplasm and inconspicuous nucleoli (so-called cancer stem cells) can be identified in various proportions in the transitional zone between the two components, at the periphery of HCC trabeculae, or as small nests without specific location. Their presence and percentage can be mentioned in the pathology report but does not reflect the origin of the tumour {29360137}. A wide variety of immunohistochemical markers, such as CK19, EpCAM, CD56, KIT (CD117), and CD133, have been used to identify stem cell features. However, these markers are not specific for hepatic or cancer stem cells and can be present in both HCC and iCCA. In fact, CK19-positive HCC does not meet the diagnostic criteria for cHCC-CCA. Therefore, the use of the category &ldquo;cHCC-CCA with stem cell features&rdquo; is no longer recommended {29360137}. It should be emphasized that, so far, the established treatments for HCC and iCCA formally do not apply to cHCC-CCA. Therefore, the diagnosis of cHCC-CCA must be made carefully, to avoid preventing patients from benefiting from treatments specifically directed at HCC or iCCA.</p>\r\n<p>Some PLCs show monotonous morphological features that are intermediate between those of hepatocytes and cholangiocytes at the cellular level, and these cases are therefore better called intermediate cell carcinoma of the liver {29360137; 14739102}. At lower magnification, the tumour is homogeneous. At higher magnification, the tumour cells are small with scant cytoplasm, and they are arranged in cords, strands, trabeculae, and occasional gland-like structures in an abundant fibrous stroma. The dual expression of hepatocytic and cholangiocytic markers in the tumour cells supports the intermediate hepatobiliary cell nature. This diagnosis should be reserved for PLCs in which intermediate features are present in the entire tumour {24712771}. Focal presence of intermediate (hepatobiliary) tumour cells in a cHCC-CCA does not qualify for the diagnosis of intermediate cell carcinoma. There is no strong consensus as to whether intermediate cell carcinoma is a distinct entity or a histological pattern of cHCC-CCA, because of the limited data on molecular characteristics and clinical outcomes.</p>\r\n<p>Cholangiolocarcinoma can be a component of cHCC-CCA if an HCC component is present. However, if cholangiolocarcinoma is present alone or admixed with conventional iCCA, it is now considered to be a subtype of iCCA. In addition, molecular profiling studies support the clustering of cholangiolocarcinoma as part of iCCA {28126467}. The presence of a neuroendocrine component in HCC or iCCA is very rare, and such tumours belong to the group of mixed neuroendocrine&ndash;non-neuroendocrine neoplasms (MiNENs). Each component should be morphologically recognizable and confirmed by immunohistochemical markers {27169712}. Carcinosarcoma is a very rare PLC showing both carcinomatous (HCC and CCA) and sarcomatous components. The sarcomatous component must lack any sign of epithelial differentiation on morphology, and is even better identified when there is morphological and/or immunohistochemical evidence of specific sarcoma differentiation {28506370}.</p>\r\n<p>Undifferentiated carcinoma lacks definitive morphological and immunohistochemical features of any differentiation beyond epithelial nature. There is no evidence of specific carcinoma differentiation, including HCC and CCA.</p>",
+        "timestamp": "2019-04-24T12:10:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 54945,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 170,
+        "headingText": "<p>Cytological diagnosis of these entities is at best limited. The cytology of cHCC-CCA is variable and reflects the cytomorphology of the respective components {10097699}.</p>",
+        "timestamp": "2019-03-04T11:59:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 54946,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 171,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-03-04T11:59:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 54947,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 174,
+        "headingText": "<h5>cHCC-CCA</h5>\r\n<p><em>Essential:</em> a biphenotypic PLC showing unequivocal features of both hepatocytic and cholangiocytic differentiation based on H&amp;E morphology; expression of immunohistochemical markers alone without histomorphological features is not sufficient for diagnosis.</p>\r\n<h5>Undifferentiated carcinoma</h5>\r\n<p><em>Essential:</em> a PLC showing no specific differentiation, except for an epithelial nature based on H&amp;E morphology and immunohistochemistry.</p>",
+        "timestamp": "2019-03-04T11:59:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 54948,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 172,
+        "headingText": "<p>According to the eighth edition (2017) of the Union for International Cancer Control (UICC) TNM classification [[Brierly JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley Blackwell; 2017.]], the staging of cHCC-CCA is based on that of iCCA, and the staging of undifferentiated carcinoma is based on that of HCC.</p>",
+        "timestamp": "2019-03-04T12:00:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 54949,
+        "bookId": 31,
+        "chapterId": 91,
+        "headingId": 173,
+        "headingText": "<p>cHCC-CCA has been associated with a worse prognosis than that of HCC after resection {12170085; 22113592}. Resectability is a positive prognostic factor. There are no established predictive markers concerning locoregional or systemic treatments. The prognosis of undifferentiated carcinoma is worse than that of HCC.</p>",
+        "timestamp": "2019-03-04T12:00:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

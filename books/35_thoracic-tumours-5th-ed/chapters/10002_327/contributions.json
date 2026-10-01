@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 68678,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 432,
+        "headingText": "\r\n<p>Ectopic parathyroid tumours are those neoplasms of parathyroid origin that occur in sites other than their typical location in the neck.</p>\r\n",
+        "timestamp": "2020-10-05T14:18:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 68679,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 433,
+        "headingText": "<p>8140/0 Parathyroid adenoma</p>\r\n<p>8140/3 Parathyroid carcinoma</p>",
+        "timestamp": "2021-01-18T14:23:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 68680,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 434,
+        "headingText": "\r\n<p>2F9A Neoplasms of unknown behaviour of endocrine glands</p>\r\n",
+        "timestamp": "2020-10-05T14:18:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 68681,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 435,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-10-05T14:18:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 68682,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-10-05T14:18:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 68683,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 437,
+        "headingText": "<p>Most ectopic parathyroid lesions occur in the anterior (prevascular) and/or superior mediastinum close to the thymic gland or the great vessels. Posterior (paravertebral) mediastinal locations have also been described.</p>",
+        "timestamp": "2021-01-12T15:44:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 68684,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 438,
+        "headingText": "<p>The majority of mediastinal parathyroid neoplasms are functional tumours, and patients present with signs and symptoms of hyperparathyroidism (hypercalcaemia, weakness, nephrolithiasis, myalgia, polyuria, polydipsia, and osteoporosis). Patients with non-functional tumours are usually asymptomatic and the lesions are found incidentally {3751094; 16203274; 7247524; 6678542}.</p>",
+        "timestamp": "2020-11-16T12:18:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 68685,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 439,
+        "headingText": "<p>Ectopic parathyroid glands in the mediastinum are estimated to occur in 3&ndash;4% of the population, and parathyroid neoplasms have been reported in 1.2&ndash;14% of affected individuals {3751094; 13940962; 14119197}.</p>",
+        "timestamp": "2020-11-16T12:18:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 68686,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 440,
+        "headingText": "\r\n<p>The etiology is unknown, but it is likely to be similar to that of orthotopic parathyroid neoplasms.</p>\r\n",
+        "timestamp": "2020-10-05T14:18:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 68687,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 441,
+        "headingText": "<p>Ectopic parathyroid gland tissue is thought to be the result of misplacement of the inferior parathyroid glands during embryological development. The common origin of ectopic parathyroid tumours from the third branchial pouch is attributed to its close association with the thymic gland {17857905; 14039213; 5413453}. Ectopic parathyroid glands may also represent supernumerary glands that may remain clinically unsuspected.</p>",
+        "timestamp": "2020-11-23T10:15:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 68688,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 448,
+        "headingText": "<p>Mediastinal parathyroid adenomas are usually well-circumscribed tumours that range in size from 20 to 60 mm and have a tan-brown homogeneous cut surface without a demonstrable fatty component. Parathyroid carcinomas are typically larger tumours (up to 150 mm); show more invasive growth; and often contain areas of haemorrhage, calcification, and necrosis {16203274}.</p>",
+        "timestamp": "2021-02-03T11:02:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 68689,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 442,
+        "headingText": "<p>Mediastinal parathyroid adenomas generally consist of monotonous tumour cells arranged in solid sheets, cords, acini, follicles, or microcysts traversed by a delicate vascular network. Individual tumour cells are round and have uniform nuclei and eosinophilic (chief cells) to clear (water clear cells) or granular eosinophilic (oxyphilic cells) cytoplasm. In some cases, nuclear pleomorphism can be seen, but mitoses should be absent {16203274}. Mediastinal parathyroid carcinomas are usually infiltrative tumours characterized by fibrous bands, areas of necrosis, and mitotic activity. Nuclear atypia can be highly variable, ranging from minimal to significant {16203274}. Immunohistochemically, ectopic parathyroid neoplasms express pancytokeratin, synaptophysin, and chromogranin&nbsp;A {29626276}. In addition, staining for PTH is a valuable and important tool to confirm the diagnosis. Loss of staining for parafibromin favours a diagnosis of parathyroid carcinoma over parathyroid adenoma {29626276; 15475453}. The differential diagnosis primarily includes thymic neuroendocrine carcinomas and ectopic medullary thyroid carcinoma. Demonstration of PTH in the tumour by immunohistochemistry usually aids in confirming the diagnosis.</p>",
+        "timestamp": "2020-12-09T16:47:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 68690,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 443,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-10-05T14:18:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 68691,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 444,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-10-05T14:18:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 68692,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Parathyroid tumour ectopic to the normal location of the parathyroid glands</li>\r\n<li>Diagnosis according to WHO criteria for parathyroid adenoma and carcinoma (see the <em>WHO classification of tumours of endocrine organs</em> volume [[Lloyd RV, Osamura RY, Kl&ouml;ppel G, et al., editors. WHO classification of tumours of endocrine organs. Lyon (France): International Agency for Research on Cancer; 2017. (WHO classification of tumours series, 4th ed.; vol. 10). https://publications.iarc.fr/554.]])</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>PTH is a valuable and important tool to confirm the diagnosis</li>\r\n</ul>",
+        "timestamp": "2021-01-12T16:20:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 68693,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 445,
+        "headingText": "\r\n<p>Like other parathyroid tumours, ectopic parathyroid neoplasms should be staged according to the eighth-edition Union for International Cancer Control (UICC) TNM classification, when applicable (i.e. carcinoma).</p>\r\n",
+        "timestamp": "2020-10-05T14:18:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 68694,
+        "bookId": 35,
+        "chapterId": 327,
+        "headingId": 446,
+        "headingText": "<p>While ectopic parathyroid adenomas are benign tumours that are treated by complete surgical resection, ectopic parathyroid carcinomas have the potential to recur and metastasize {16203274; 20623135}.</p>",
+        "timestamp": "2020-10-05T14:18:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

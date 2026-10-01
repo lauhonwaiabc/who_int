@@ -1,0 +1,161 @@
+[
+  {
+    "pkroleId": 85,
+    "bookId": "35",
+    "roleid": 117,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2873,
+        "lastname": "Nicholson",
+        "firstname": "Andrew Gordon",
+        "initials": "",
+        "email": "",
+        "roleid": 117,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 87,
+    "bookId": "35",
+    "roleid": 119,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2015,
+        "lastname": "Tsao",
+        "firstname": "Ming Sound",
+        "initials": "",
+        "email": "",
+        "roleid": 119,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 88,
+    "bookId": "35",
+    "roleid": 120,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2351,
+        "lastname": "Znaor",
+        "firstname": "Ariana",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 2872,
+        "lastname": "Travis",
+        "firstname": "William D.",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 2874,
+        "lastname": "Yatabe",
+        "firstname": "Yasushi",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 2877,
+        "lastname": "Borczuk",
+        "firstname": "Alain C.",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 2878,
+        "lastname": "Kerr",
+        "firstname": "Keith M.",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 2879,
+        "lastname": "Dacic",
+        "firstname": "Sanja",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 2882,
+        "lastname": "Van Schil",
+        "firstname": "Paul E.Y.",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 2887,
+        "lastname": "Scagliotti",
+        "firstname": "Giorgio V.",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3331,
+        "lastname": "Asamura",
+        "firstname": "Hisao",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3364,
+        "lastname": "Devesa",
+        "firstname": "Susan S.",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3409,
+        "lastname": "MacMahon",
+        "firstname": "Heber",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3456,
+        "lastname": "Samet",
+        "firstname": "Jonathan M.",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3515,
+        "lastname": "Rusch",
+        "firstname": "Valerie Williams",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "pkroleId": 93,
+    "bookId": "45",
+    "roleid": 130,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2560,
+        "lastname": "Ellison",
+        "firstname": "David W.",
+        "initials": "",
+        "email": "",
+        "roleid": 130,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 94,
+    "bookId": "45",
+    "roleid": 138,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2756,
+        "lastname": "Figarella-Branger",
+        "firstname": "Dominique",
+        "initials": "",
+        "email": "",
+        "roleid": 138,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 95,
+    "bookId": "45",
+    "roleid": 139,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3710,
+        "lastname": "Pajtler",
+        "firstname": "Kristian W.",
+        "initials": "",
+        "email": "",
+        "roleid": 139,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 96,
+    "bookId": "45",
+    "roleid": 140,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3594,
+        "lastname": "Pietsch",
+        "firstname": "Torsten",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3656,
+        "lastname": "Aldape",
+        "firstname": "Kenneth D.",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3675,
+        "lastname": "Gilbertson",
+        "firstname": "Richard James",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3692,
+        "lastname": "Korshunov",
+        "firstname": "Andrey",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3712,
+        "lastname": "Rudà",
+        "firstname": "Roberta",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3725,
+        "lastname": "Taylor",
+        "firstname": "Michael D.",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3728,
+        "lastname": "Venneti",
+        "firstname": "Sriram",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      }
+    ]
+  }
+]

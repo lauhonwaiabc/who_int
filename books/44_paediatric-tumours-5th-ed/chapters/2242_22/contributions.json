@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 103663,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 466,
+        "headingText": "\r\n<p>Refractory cytopenia of childhood (RCC) is a myelodysplastic syndrome (MDS) characterized by persistent cytopenia, with &lt;&nbsp;5% blasts in the bone marrow and &lt;&nbsp;2% blasts in the peripheral blood. The presence of dysplasia is required for the diagnosis, but this constitutes only one aspect of the morphological diagnostic criteria for RCC.</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 103664,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 467,
+        "headingText": "\r\n<p>9985/3 Refractory cytopenia of childhood</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 103665,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A38 Refractory cytopenia of childhood</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 103666,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Acceptable:</em> childhood myelodysplastic neoplasm with low blasts.</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 103667,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 103668,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 471,
+        "headingText": "\r\n<p>Blood and bone marrow</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 103669,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 472,
+        "headingText": "\r\n<p>The most common symptoms are bleeding, fever, and malaise {12763938; 24894311}. Lymphadenopathy secondary to infection may be present, but hepatosplenomegaly is generally not a feature of RCC. Congenital abnormalities of different organ systems may indicate the presence of an underlying predisposing condition. Three&nbsp;quarters of patients have a platelet count of &lt;&nbsp;150&nbsp;&times;&nbsp;10<sup>9</sup>/L, and a haemoglobin concentration of &lt;&nbsp;10&nbsp;g/dL is noted in about half of all affected children {12763938}. Age-specific macrocytosis of red blood cells is seen in most patients {12763938; 24894311}. The white blood cell count is generally decreased, with severe neutropenia noted in as many as 25% of cases {12763938; 24894311}.</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 103670,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 473,
+        "headingText": "\r\n<p>RCC is the most common subtype of MDS in childhood, accounting for &gt;&nbsp;60% of all cases {12780790; 22160017; 26939774} with an annual incidence of 1&ndash;2&nbsp;cases per 1&nbsp;million children {10520007}. It is diagnosed in all age groups and affects boys and girls with equal frequency.</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 103671,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 474,
+        "headingText": "<p>The etiology is mostly unknown, but some cases have germline mutations associated with bone marrow failure syndromes {34304779; 7658725; 25682607} or predisposition to myeloid neoplasia {29146900; 26702063; 27876779; 29146883}.</p>",
+        "timestamp": "2023-05-09T14:24:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 103672,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 475,
+        "headingText": "\r\n<p>For some of the germline disorders predisposing to MDS, molecular evolution to RCC is beginning to be unravelled {26492932; 26702063; 30046003; 29535429}.</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 103673,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 482,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 103674,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 476,
+        "headingText": "\r\n<p>The evaluation of an adequate bone marrow trephine biopsy specimen is essential for diagnosis {29146883; 22160017}. In cases of RCC with normocellular or hypercellular bone marrow, there is a slight to moderate increase in erythropoiesis. About 80% of patients with RCC show a marked decrease of bone marrow cellularity (as low as 5&ndash;10% of the normal value) {22160017; 26939774}. Distribution of erythropoiesis is often patchy, with immature erythroid precursors forming one or several islands consisting of &ge;&nbsp;20&nbsp;cells. The percentage of erythroblasts containing haemoglobin&nbsp;F is often increased on immunohistochemical staining {18477214}. Granulopoiesis appears slightly to moderately decreased, and cells of the granulocytic lineage are often loosely scattered. Blasts account for &lt;&nbsp;5% of the bone marrow cells. Megakaryocytes may be normal, decreased, or increased in number and display dysplasia with small unilobed nuclei, abnormally separated nuclear lobes, and (infrequently) characteristic micromegakaryocytes. Immunohistochemistry for platelet glycoproteins such as CD61 (glycoprotein&nbsp;IIIa), CD41 (glycoprotein&nbsp;IIb/IIIa), or CD42b (platelet glycoprotein&nbsp;&alpha;-chain) to identify micromegakaryocytes is obligatory. Fatty tissue between the areas of haematopoiesis can mimic acquired immune-mediated aplastic anaemia. There is no increase in reticulin fibres.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>RCC can generally be well separated from a variety of childhood non-haematological disorders that can give rise to secondary dysplastic morphology (e.g. infections, nutritional deficiencies, and metabolic diseases). Unlike RCC, acquired immune-mediated aplastic anaemia manifests with adipocytosis of the bone marrow spaces or with sparsely scattered myeloid cells, an absence of dysplasia, and significant erythroid islands. The vast majority of cases of RCC and immune-mediated severe aplastic anaemia can be reliably differentiated by histomorphological means alone {29146883; 22562435}, and flow cytometry can be a relevant addition {25425683}. Like in other bone marrow failure disorders, paroxysmal nocturnal haemoglobinuria clones may be observed in the absence of haemolysis or thrombosis {2380776}.</p>\r\n<p>The morphological features of RCC are also present in some of the inherited bone marrow failure disorders (e.g. Fanconi anaemia), dyskeratosis congenita, Shwachman&ndash;Diamond syndrome, and amegakaryocytic thrombocytopenia, or pancytopenia with radioulnar synostosis), as well as in some DNA repair deficiency disorders (e.g. <em>LIG4</em> syndrome) {19951977; 23043447; 25239263}. In addition to morphology, diagnosis of these entities relies on medical history, physical examination, and appropriate laboratory and molecular investigations.</p>\r\n<p>With the discovery of an increasing number of germline conditions predisposing to myeloid neoplasms (e.g. <em>GATA2</em> deficiency, <em>SAMD9</em> and <em>SAMD9L</em> disorders, germline <em>RUNX1</em> mutation causing familial MDS-related acute myeloid leukaemia (AML), <em>ANKRD26</em>-related thrombocytopenia) (see <a style=\"cursor:pointer\" href=\"/chaptercontent/44/470\" target=\"_blank\">section </a><em>Myeloid neoplasms associated with germline predisposition</em>), it became apparent that children with these entities often present with tumours that have the morphological pattern of RCC {26702063; 29217778}. Because many patients lack overt syndromic features, genetic testing plays an important role in the diagnostic evaluation {29222262; 30670445}.</p>\r\n<p>The association between RCC with &ge;&nbsp;2&nbsp;dysplastic lineages and MDS with multilineage dysplasia has not been fully investigated {30062702}. It is currently recommended that cases that would fulfil the criteria for MDS with multilineage dysplasia be considered RCC until further studies clarify whether the number of lineages involved is an important prognostic discriminator in childhood MDS.</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 103675,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 477,
+        "headingText": "<p>The classic picture of RCC is a peripheral blood smear that shows red blood cell anisopoikilocytosis and macrocytosis. Anisochromasia and polychromasia may be present. Platelets often display anisocytosis, and giant platelets can occasionally be detected. Neutropenia, with pseudo&ndash;Pelger&ndash;Hu&euml;t nuclei and/or hypogranularity or agranularity of neutrophil cytoplasm, may be noted. Blasts are absent or account for &lt;&nbsp;2% of the white blood cells. On bone marrow aspirate smears, dysplastic changes should be present in two myeloid cell lineages or exceed 10% in one cell line (see <a style=\"cursor:pointer\" href=\"/attachment/44/22/22640\" target=\"_blank\">#22640</a>Table&nbsp;2.01, and <a style=\"cursor:pointer\" href=\"/attachment/44/22/22008\" target=\"_blank\">#22008</a>Table&nbsp;2.02). Erythroid abnormalities include nuclear budding, multinuclearity, karyorrhexis, internuclear bridging, cytoplasmic granules, and megaloblastic changes. Cells of the granulocytic lineage may exhibit nuclear hyposegmentation (with pseudo&ndash;Pelger&ndash;Hu&euml;t nuclei), hypogranularity or agranularity of the cytoplasm, macrocytic (giant) bands, and asynchronous nuclear&ndash;cytoplasmic maturation. Megakaryocytes are usually absent or very few in number. The detection of micromegakaryocytes is a strong indicator of RCC. Ring sideroblasts are not found.</p>",
+        "timestamp": "2022-07-13T11:53:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 103676,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 478,
+        "headingText": "\r\n<p>In most cases of RCC with normal karyotype, somatic mutations cannot be detected, whereas cases with monosomy&nbsp;7 may display somatic mutations in <em>SETBP1</em>, <em>ASXL1</em>, <em>RUNX1</em>, and the RAS oncogenes {27876779}. Somatic alterations commonly seen in adult MDS, such as mutations in <em>TET2</em>, <em>DNMT3A</em>, <em>TP53</em>, and the spliceosome complex, are generally absent in RCC {27876779; 22238327; 29146900}.</p>\r\n<p>Monosomy&nbsp;7 is the most common cytogenetic abnormality irrespective of bone marrow cellularity {2080202; 12763938; 25261124; 22160017}. Recent genomic discoveries have established <em>GATA2</em> deficiency and <em>SAMD9</em> and <em>SAMD9L</em> disorders as common germline causes of RCC with monosomy&nbsp;7, accounting for approximately half of patients with this particular cytogenetic abnormality {30047423}.</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 103677,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 481,
+        "headingText": "<p><em >Essential:</em></p>\r\n<ul>\r\n<li>Cytopenia involving &ge;1&nbsp;lineage</li>\r\n<li>&lt;&nbsp;5% bone marrow blasts and &lt;2% peripheral blood blasts</li>\r\n<li>Dysplasia in &ge;&nbsp;2&nbsp;lineages or in &ge;&nbsp;10% of cells in &ge;&nbsp;1&nbsp;lineage (peripheral blood or bone marrow) and/or one of the following two: cytogenetic or genetic mutations associated with RCC, <em>or</em> exclusion of other causes of cytopenia (non-neoplastic and some germline mutations)</li>\r\n<li>If the bone marrow is hypocellular, then the morphological bone marrow criteria for hypocellular RCC should be used (see <a style=\"cursor:pointer\" href=\"/attachment/44/22/22640\" target=\"_blank\">#22640</a>Table&nbsp;2.01, and <a style=\"cursor:pointer\" href=\"/attachment/44/22/22008\" target=\"_blank\">#22008</a>Table&nbsp;2.02)</li>\r\n</ul>",
+        "timestamp": "2023-05-09T14:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 103678,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-08T14:58:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 103679,
+        "bookId": 44,
+        "chapterId": 22,
+        "headingId": 480,
+        "headingText": "<p>Karyotype is the most important factor predicting progression to advanced MDS. Patients with monosomy&nbsp;7 or del(7q) have a significantly higher probability of progression to advanced MDS or AML than do patients with other chromosomal abnormalities or a normal karyotype {12763938}. Spontaneous disappearance of cytopenia with monosomy&nbsp;7 and del(7q) is a rare event, thus far only linked to <em>SAMD9</em> and <em>SAMD9L</em> germline disease in some infants {29146900; 29146883; 29217778}.</p>\r\n<p>Unlike patients with monosomy&nbsp;7, patients with trisomy&nbsp;8 or a normal karyotype may experience a long, stable course of disease. An RCC pattern can also be present in young adults with a history of longstanding cytopenia since childhood. Currently, haematopoietic stem cell transplantation is the only curative therapy available, and it is the treatment of choice for patients with monosomy&nbsp;7 or complex karyotypes early in the course of their disease {29438960; 26702063}. Given the low rate of transplant-related mortality, haematopoietic stem cell transplantation can also be recommended for patients with other karyotypes if a suitable donor is available {17589538; 25264233; 25498905; 32444864}. An expectant approach, with careful observation, is reasonable in the absence of transfusion requirements, severe cytopenia, and infections {26939774}. Because early bone marrow failure can be mediated at least in part by T-cell immunosuppression of haematopoiesis, and because T-cell receptor V&beta;&nbsp;skewing with expansion of effector cytotoxic T&nbsp;cells is noted in approximately 40% of RCC cases {24786393}, immunosuppressive therapy can be an effective therapeutic strategy in select patients {24162791; 26273061}.</p>",
+        "timestamp": "2022-07-19T07:54:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

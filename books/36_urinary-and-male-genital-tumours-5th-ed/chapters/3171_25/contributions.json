@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 69061,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 539,
+        "headingText": "\r\n<p><em>TFE3</em>-rearranged renal cell carcinomas (RCCs) harbour gene fusions involving <em>TFE3</em> with one of many different partner genes.</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 69062,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 540,
+        "headingText": "\r\n<p>8311/3 <em>TFE3</em>-rearranged renal cell carcinomas</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 69063,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 541,
+        "headingText": "\r\n<p>2C90.0 Renal cell carcinoma of kidney, except renal pelvis</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 69064,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Acceptable:</em> Xp11 translocation renal cell carcinoma.</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 69065,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 69066,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 544,
+        "headingText": "\r\n<p>Kidney</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 69067,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 545,
+        "headingText": "\r\n<p>The clinical presentation of a <em>TFE3</em>-rearranged RCC as a renal mass is not specific, although occasional cases are heavily calcified on imaging, which can mimic renal lithiasis {17667536}.</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 69068,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 546,
+        "headingText": "\r\n<p>Approximately 40% of paediatric RCCs and 1.6&ndash;4% of adult RCCs are <em>TFE3</em>-rearranged RCC {19228722}.</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 69069,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 547,
+        "headingText": "\r\n<p>Prior exposure to cytotoxic chemotherapy is a risk factor for MiT family translocation RCC {16575003}.</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 69070,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 548,
+        "headingText": "<p >Overexpressed <em>TFE3</em> fusion proteins act as aberrant transcription factors that activate the expression of multiple downstream targets, including those normally activated by the related MiT family transcription factor MITF, such as melanocytic markers or cathepsin&nbsp;K {12837690; 17283122; 23288701}.</p>",
+        "timestamp": "2022-04-26T14:02:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 69071,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 555,
+        "headingText": "\r\n<p><em>TFE3</em>-rearranged RCCs do not have a distinctive gross appearance.</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 69072,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 549,
+        "headingText": "\r\n<p>The usual histological pattern of the <em>TFE3</em>-rearranged RCC is that of a papillary neoplasm composed of epithelioid clear cells with abundant psammoma bodies {11438465; 12459622}. <em>TFE3</em>-rearranged RCCs can also mimic other renal neoplasms, including clear cell RCC, papillary RCC, clear cell papillary renal cell tumour, multilocular cystic renal cell neoplasm of low malignant potential, oncocytoma, and epithelioid angiomyolipoma {17667536; 23715164; 28840857}. Occasional <em>TFE3</em>-rearranged RCCs contain melanin pigment, creating an overlap with <em>TFE3</em>-rearranged pigmented perivascular epithelioid cell tumours (PEComas) {19065101; 20871214}. Unlike typical PEComas, <em>TFE3</em>-rearranged PEComas typically affect young patients, they almost always have an exclusively epithelioid clear cell morphology, they have minimal to no immunoreactivity for muscle markers, and they do not demonstrate inactivation of <em>TSC1</em> or <em>TSC2</em> genes or a clinical association with tuberous sclerosis.</p>\r\n<p>In contrast to most RCCs, <em>TFE3</em>-rearranged RCCs underexpress epithelial markers such as cytokeratins and EMA, but they do consistently express PAX8 {24618616; 20679884}. Occasional <em>TFE3</em>-rearranged RCCs express melanocytic markers (melan-A and HMB45) and approximately 60% label for cathepsin&nbsp;K {19396149; 21602817}. Strong nuclear <em>TFE3</em> immunoreactivity using an antibody against the C-terminal portion of <em>TFE3</em> is highly sensitive and specific for <em>TFE3</em>-rearranged RCCs {12766578}, but <em>TFE3</em> break-apart FISH assays have generally proved to be more useful because they suffer less from fixation issues {23715164; 20421778; 28840857}. The key exceptions are <em>TFE3</em>-rearranged RCCs resulting from paracentric inversions involving Xp11. These are often challenging to detect by conventional <em>TFE3</em> break-apart FISH, giving a false negative result. Such fusions include <em>RBM10</em>::<em>TFE3</em>, <em>GRIPAP1</em>::<em>TFE3</em>, <em>RBMX</em>::<em>TFE3</em>, and <em>NONO</em>::<em>TFE3</em>. The diagnosis can be suspected when a neoplasm demonstrates other typical features of <em>TFE3</em>-rearranged RCC (such as cathepsin&nbsp;K immunoreactivity and characteristic morphology) along with strong diffuse nuclear TFE3 labelling by immunohistochemistry. The diagnosis can then be confirmed by RNA sequencing, RT-PCR, or FISH using specialized fosmid break-apart probes {28296677; 30622287; 31408245; 28106924}.</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 69073,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 69074,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 551,
+        "headingText": "\r\n<p><em>TFE3</em>-rearranged RCCs harbour fusions of the <em>TFE3</em> transcription factor gene (on chromosome Xp11.23) with one of multiple reported genes, including <em>ASPSCR1</em> (<em>ASPL</em>), <em>PRCC</em>, <em>NONO</em> (<em>P54NRB</em>), <em>SFPQ</em> (<em>PSF</em>), <em>RBM10</em>, <em>MED15</em>, <em>CLTC</em>, <em>DVL2</em>, <em>PARP14</em>, <em>KAT6A</em>, <em>NEAT1</em>, <em>MATR3</em>, <em>FUBP1</em>, and <em>EWSR1</em> {11438465; 12459622; 9393982; 26975036; 26032162; 30622287; 30552521; 29713041}. The three most common fusions identified in <em>TFE3</em>-rearranged RCCs involve <em>PRCC</em>, <em>ASPSCR1</em> (the same gene fusion found in alveolar soft part sarcoma) {12917640}, and <em>SFPQ</em>. The <em>SFPQ</em>::<em>TFE3</em> fusion is also commonly found in the <em>TFE3</em>-rearranged PEComas and melanotic <em>TFE3</em>-rearranged renal cancers {26274027; 26975036}. Overexpressed <em>TFE3</em> fusion proteins act as aberrant transcription factors that activate the expression of multiple downstream targets, including those normally activated by the related MiT family transcription factor MITF (such as melanocytic markers and cathepsin&nbsp;K) {12837690; 17283122; 23288701}.</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 69075,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 554,
+        "headingText": "<p><em>Essential:</em> strong nuclear labelling for TFE3 by immunohistochemistry in a clean background, or <em>TFE3</em> rearrangement identified by break-apart FISH, or <em>TFE3</em> gene fusion identified by RNA sequencing.</p>\r\n<p><em>Desirable:</em> RCC with a mixed histological pattern, including clear cells, papillary architecture, and psammoma bodies.</p>",
+        "timestamp": "2022-04-26T14:08:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 69076,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 552,
+        "headingText": "\r\n<p><em>TFE3</em>-rearranged RCCs are staged using guidelines for adult RCC.</p>\r\n",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 69077,
+        "bookId": 36,
+        "chapterId": 25,
+        "headingId": 553,
+        "headingText": "\r\n<p>The survival of patients with Xp11 translocation RCCs is similar to that of patients with clear cell RCCs and significantly worse than that of patients with papillary RCCs {22498819}. In a multivariate analysis, only distant metastasis and older age at diagnosis independently predicted death {24309327}. Paediatric patients have a lower burden of genomic events than adult patients, which may explain their better prognosis {32220885}.</p>",
+        "timestamp": "2022-02-10T16:19:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

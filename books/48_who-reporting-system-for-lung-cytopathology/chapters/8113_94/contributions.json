@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 656,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 676,
+    "contributions": [
+      {
+        "pkcontributionId": 93831,
+        "bookId": 48,
+        "chapterId": 94,
+        "headingId": 676,
+        "headingText": "<p>The diagnosis of non-small cell carcinoma NOS (NSCC-NOS) is only used for small biopsies and cytopathological specimens that show poorly differentiated carcinoma, lack adenocarcinoma or squamous cell carcinoma differentiation by morphology and mucin staining, and have indeterminate or negative ICC&nbsp;&ndash; including negative thyroid transcription factor&nbsp;1 (TTF1) and p40.</p>",
+        "timestamp": "2023-01-10T16:21:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 657,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 677,
+    "contributions": [
+      {
+        "pkcontributionId": 93832,
+        "bookId": 48,
+        "chapterId": 94,
+        "headingId": 677,
+        "headingText": "\r\n<p>The signs and symptoms of NSCC-NOS are similar to those of other non-small cell lung carcinomas. Presenting symptoms include cough, pain, haemoptysis, and dyspnoea. Because &ldquo;NSCC-NOS&rdquo; is used for poorly differentiated forms of adenocarcinoma, squamous cell carcinoma, and less common histopathological subtypes, the imaging appearance varies according to the underlying histopathological subtype {25120650}. Imaging and clinical features should be consistent with a primary lung origin.</p>\r\n",
+        "timestamp": "2022-11-22T09:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 658,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 678,
+    "contributions": [
+      {
+        "pkcontributionId": 93833,
+        "bookId": 48,
+        "chapterId": 94,
+        "headingId": 678,
+        "headingText": "<p >NSCC-NOS is defined by a lack of morphological and ICC features of adenocarcinoma or squamous cell carcinoma. Histopathology shows poorly differentiated, solid or diffuse infiltrates of NSCC with a lack of unequivocal glandular or squamous differentiation and variable degrees of cellular pleomorphism and nuclear enlargement and atypia in cases with the clinical features and imaging of primary lung tumours.</p>",
+        "timestamp": "2022-11-22T09:31:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 659,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 679,
+    "contributions": [
+      {
+        "pkcontributionId": 93834,
+        "bookId": 48,
+        "chapterId": 94,
+        "headingId": 679,
+        "headingText": "<ul>\r\n<li>Highly cellular smears</li>\r\n<li>Mix of tissue fragments and dispersed large single cells</li>\r\n<li>Tissue fragments are crowded and lack diagnostic cytopathological features of glandular or squamous differentiation, including a lack of acinar, glandular, or papillary architecture; intracellular or extracellular mucin; delicate vacuolated cytoplasm or keratinization; intercellular bridges; and denser well-defined cytoplasm</li>\r\n<li>Dispersed single cells are highly pleomorphic and usually large, with enlarged pleomorphic nuclei, variable chromatin, and prominent nucleoli</li>\r\n<li>Often necrotic background lacking mucin or keratinous debris</li>\r\n</ul>",
+        "timestamp": "2023-01-10T16:21:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 660,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 680,
+    "contributions": [
+      {
+        "pkcontributionId": 93835,
+        "bookId": 48,
+        "chapterId": 94,
+        "headingId": 680,
+        "headingText": "<p>The appearance of the lung lesion on imaging should be that of a lung primary. The use of ICC for subtyping NSCC in small biopsies and cytopathological specimens has markedly reduced the proportion of unclassified NSCC-NOS, from 25&ndash;47% to 7&ndash;14% {20195168; 21246522; 25521399; 29168459}. It is important in such cases to perform an additional limited ICC workup to confirm that the tumour is a carcinoma, such as pankeratin and lymphoid markers, and to exclude common possible metastatic tumour types, if it can be done without compromising molecular testing. The choice of which stains to perform is dependent upon cytomorphology and clinical circumstances. If the diagnosis of carcinoma is confirmed and a metastatic tumour appears to be excluded, the diagnosis of NSCC-NOS can be made. It may be useful to mention in the report that although these findings are consistent with a primary carcinoma of the lung, they are not specific. In some cases, when poorly differentiated carcinomas are encountered without any cell block material or cytopathological slides for further workup, the diagnosis of NSCC-NOS can be made, but the report should state that this is being done only because material is not available for further workup {21252716}.</p>",
+        "timestamp": "2023-01-10T16:21:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 661,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 681,
+    "contributions": [
+      {
+        "pkcontributionId": 93836,
+        "bookId": 48,
+        "chapterId": 94,
+        "headingId": 681,
+        "headingText": "\r\n<p>If available, TTF1 and p40 ICC should be applied before diagnosing NSCC-NOS, along with napsin&nbsp;A if the TTF1 is negative. A PASD or mucicarmine stain can be used to demonstrate mucin production, but if molecular testing is available, then care should be taken to leave sufficient material for predictive molecular biomarker studies. Patients diagnosed with advanced NSCC-NOS should be tested for the same predictive molecular biomarkers as those tested for adenocarcinoma or non-small cell lung carcinoma, favour adenocarcinoma {33671873}.</p>",
+        "timestamp": "2022-11-22T09:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

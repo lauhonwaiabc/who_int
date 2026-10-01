@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 120132,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Diffuse large B-cell lymphoma&nbsp;/ high-grade B-cell lymphoma with <em>MYC</em> and <em>BCL2</em> rearrangements (DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em>) is an aggressive mature B-cell lymphoma with structural chromosomal aberrations with breakpoints at both <em>MYC</em> and <em>BCL2</em> loci.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:48:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 120133,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9680/3 Diffuse large B-cell lymphoma / high grade B-cell lymphoma with <em>MYC</em> and <em>BCL2</em> rearrangements</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:48:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 120134,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 703,
+        "headingText": "<p>2A81.Y &amp; XH23Z3 Other specified diffuse large B-cell lymphomas &amp; High-grade B-cell lymphoma with <em>MYC</em> and <em>BCL2</em>&nbsp;and/or <em>BCL6</em> rearrangements</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T11:38:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 120135,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Acceptable:</em> high-grade B-cell lymphoma with <em>MYC</em> and <em>BCL2</em> rearrangements; high-grade B-cell lymphoma with <em>MYC</em>, <em>BCL2</em>, and <em>BCL6</em> rearrangements.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:48:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 120136,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> without <em>BCL6</em> rearrangement; DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> with <em>BCL6</em> rearrangement; DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> (with or without <em>BCL6</em> rearrangement) with TdT expression</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:48:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 120137,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>Advanced-stage disease at diagnosis occurs in the majority of patients {24179151; 31498031}. Although the lymph nodes are most commonly involved, a high proportion (30&ndash;88%) of cases show in addition involvement of more than one extranodal site. Bone marrow and CNS dissemination is not infrequent.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:48:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 120138,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>A high proportion of patients present with a high International Prognostic Index (IPI) score due to advanced-stage disease (stage&nbsp;III&ndash;IV according to the Lugano system) {25113753}, a high LDH level, and extranodal involvement {22002575; 33306213}. Clinical features may reflect extranodal site involvement (e.g. bone marrow and CNS). Adoption of routine FISH testing for DLBCL/HGBCL at many institutes has identified increased numbers of patients with DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em>, including some with earlier stage and lower-risk disease who probably have a less adverse outcome {20498406; 22510149; 28776574; 31945157}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:48:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 120139,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>In European and North American cohorts, <em>MYC</em>-rearranged diffuse large B-cell lymphoma (DLBCL) represented 11&ndash;12% of DLBCL cases, of which 39% were DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> and 12&ndash;14% DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> with an additional <em>BCL6</em> rearrangement {29475959; 31498031}. DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> represents 3.5&ndash;9.9% of DLBCL cases {29475959; 24179151; 33168821; 31498031}. The relative frequency may differ in other populations, but evidence is limited {32991338; 33807449}. Most patients with DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> are in their seventh decade of life and beyond, and younger adults are affected less frequently. There is a male preponderance. The incidence is approximately 0.3&ndash;0.8&nbsp;cases per 100&nbsp;000&nbsp;person-years {22002575; 24179151; 31498031}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:48:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 120140,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>Unknown</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:48:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 120141,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 710,
+        "headingText": "<p>DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em>, by definition, harbours two oncogenic rearrangements: one targeting <em>MYC</em> and one targeting <em>BCL2</em>. Their often aggressive behaviour is postulated to be the result of aberrant expression of BCL2, leading to increased apoptotic resistance, and MYC activation, driving proliferation. The normal counterpart of DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> is postulated to be a mature germinal centre&ndash;experienced B&nbsp;cell, with a high IGHV mutation load {24179151}. <em>BCL2</em> (18q21) is primarily translocated to IGH (14q32) {24179151; 29713087; 30348671}. <em>MYC</em> (8q24) translocation is more diverse and is to IG loci in 55&ndash;58% of cases&nbsp;&ndash; predominantly IGH, alternatively IGL via t(8;22)(q24;q11), or, more rarely, IGK via t(2;8)(p11;q24) {29713087; 29902576; 30348671; 31498031}. <em>MYC</em> non-IG partners include <em>BCL6</em>, the <em>PAX5</em> enhancer region of <em>ZCCHC7</em>, and <em>RFTN1</em> {17230227; 29902576; 30348671}. <em>BCL6</em>::<em>MYC</em>&nbsp;reciprocal translocations are of note, because these represent a proportion of the cases previously designated as having triple-hit status (now considered pseudo&ndash;triple-hit) as well as some cases of DLBCL/HGBCL with <em>MYC</em> and <em>BCL6</em>&nbsp;rearrangements (pseudo&ndash;<em>MYC</em>/<em>BCL6</em> double-hit) {29902576}. However, the relative frequency of reciprocal <em>BCL6</em>::<em>MYC</em>&nbsp;translocations and the impact on <em>MYC</em> and <em>BCL6</em> locus regulation remain undetermined {38184753}. <em>MYC</em> translocation to IG or non-IG loci is secondary to <em>BCL2</em> translocation and is most likely acquired in the germinal-centre reaction, but evidence of established follicular lymphoma is reported in only 20&ndash;35% {22002575; 24179151; 30737994; 31844144; 32855278}.</p>\r\n<p>Complex karyotypes are common {18024371; 18923440; 20118770; 24179151; 33168821}. By sequencing, DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> shows frequent mutations of genes typically altered in follicular lymphoma, such as <em>BCL2</em>, <em>KMT2D</em>, <em>CREBBP</em>, <em>EZH2</em>, and <em>TNFRSF14</em>, as well as <em>MYC</em> {31844144}. Consequently, DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> is mostly concordant with the DLBCL molecular subgroups referred to as EZB cluster, C3 cluster, or BCL2 cluster in the respective molecular classification systems {29641966; 29713087; 32187361; 32289277}. DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em>&nbsp;mutation features are shared with follicular lymphoma and transformed follicular lymphoma {24362818; 31844144}.</p>\r\n<p>Related gene expression signatures such as the double-hit signature (DHITsig) and molecular high-grade (MHG) signature have been shown to identify DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> {16760442; 30523719; 30523716}. They are also expressed in Burkitt lymphoma, pointing to the fact that they capture particular biological features related to the dark zone of the germinal centre, recently also corroborated by single-cell transcriptomic analyses {32603407; 33083730}. Therefore, it was proposed that the DHIT signature be renamed the &ldquo;dark-zone signature&rdquo; {36302166}. Of interest, only 50% of dark-zone and MHG signature&ndash;positive cases harbour the <em>MYC</em>/<em>BCL2</em> double hit. In some of these cases, tumours with cryptic translocations have been identified, but in the majority a <em>MYC</em>/<em>BCL2</em> dual translocation or an evident surrogate thereof is absent {31527075; 31844144}.</p>\r\n\r\n<h5>Diffuse large B-cell lymphoma&nbsp;/ high-grade B-cell lymphoma NOS with MYC and BCL6 rearrangements</h5>\r\n\r\n<p>DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> represents a homogeneous pathological entity whose pathogenesis has a close relationship to that of follicular lymphoma and related molecular DLBCL subtypes {29475959; 30523716; 31844144; 32289277}. In contrast, DLBCL/HGBCL with <em>MYC</em> and <em>BCL6</em> translocations, but lacking <em>BCL2</em> translocation, diverges from DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> in patterns of presentation {23348205; 30113335; 29581544; 33548250}, frequent non&ndash;germinal-centre B-cell immunohistochemistry phenotypes, and activated B-cell&ndash;like gene expression profiles {24179151; 26565895; 29475959; 31844144}. In addition, it shows infrequent mutations of epigenetic regulators linking DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em>, follicular lymphoma, and the EZB DLBCL cluster, but instead shows a more varied pattern, including mutations in genes such as <em>PIM1</em> and <em>CD79B</em> that have been linked to the ABC-DLBCL subtype {29713087; 31844144}. Because the current evidence points to a heterogeneous biology with variable gene expression profiles and mutation spectra, these cases are excluded from the DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> entity and are included in DLBCL-NOS or HGBCL-NOS. Their presence, however, should be reported to allow for their inclusion into ongoing clinical trials. In addition, such cases have shown variable risk association in different series {26373676; 26426741; 26565895; 26573234; 27347428; 29903764; 31498031}.</p>\r\n\r\n<h5>Other double hits and copy-number aberrations without rearrangements</h5>\r\n\r\n<p><em>MYC</em> translocations in the absence of a <em>MYC</em>/<em>BCL2</em> double-hit context occur in various lymphoma entities in isolation or with other events, such as <em>CCND1</em> translocations in mantle cell lymphoma or gain of non-rearranged <em>BCL2</em> or mutation/deletion of <em>TP53</em> {27347428; 29475959; 31498031} in DLBCL-NOS. Multiple characteristics linked to <em>MYC</em>&nbsp;translocation, such as <em>MYC</em> hotspot mutations that enhance MYC protein stability, identify high-risk disease {31498031; 27347428; 29475959; 30523716; 30523719; 31844144}. Similarly, amplification of <em>BCL2</em> in the context of <em>MYC</em>&nbsp;translocation and low- or high-level amplifications of the <em>MYC</em> locus in cases with <em>BCL2</em> translocations enrich for high-risk DLBCL {25103070; 28776574; 33168821}. Nevertheless, neither single-nucleotide nor copy-number variants constitute oncogenic hits defining this entity in the absence of a bona&nbsp;fide chromosomal breakpoint, because, for example, <em>MYC</em> amplifications are not associated with equivalent mRNA or protein expression to that of <em>MYC</em>-translocated cases and therefore do not justify classification as DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> {33120427}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T11:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 120142,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not applicable</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:48:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 120143,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 711,
+        "headingText": "<p>The growth pattern is diffuse and the underlying tissue architecture is effaced. A DLBCL morphology is most frequent, and a starry-sky pattern is present in some cases. Mitotic figures and apoptosis are variable. Some cases show a morphology intermediate between that of DLBCL and Burkitt lymphoma, characterized by medium-sized to large cells showing prominent mitotic and apoptotic figures, often accompanied by starry-sky macrophages. Other cases represent the blastoid variant, which resemble lymphoblasts with medium-sized cells, scant cytoplasm, round nuclei with finely distributed chromatin, and occasional small nucleoli {34608246}. Relative to DLBCL morphology, a higher frequency of dual <em>MYC</em> and <em>BCL2</em> translocations has been reported in intermediate or blastoid morphologies (reported ranges: 23&ndash;50% and 64&ndash;75% of cases, respectively) {24179151; 25673238; 22804688; 28614202}. However, because the distinction between the intermediate and blastoid morphologies is not highly reproducible, these alternative morphologies can be grouped under the single term &ldquo;intermediate/blastoid&rdquo;. Reporting should be performed according to a layering strategy, with morphological classification as the root and genetic information added when this becomes available in the diagnostic process: diffuse large B-cell lymphoma with <em>MYC</em> and <em>BCL2</em> rearrangements or high-grade B-cell lymphoma with <em>MYC</em>&nbsp;and <em>BCL2</em> rearrangements.</p>\r\n\r\n<h5>Immunohistochemistry</h5>\r\n\r\n<p>DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> expresses the pan&ndash;B-cell antigens CD19, CD20, CD79a, and PAX5. CD10 is positive in 88&ndash;98%, BCL6 in 75&ndash;89%, and IRF4 (MUM1) in 17&ndash;42% {21119107}. Consequently, 91&ndash;99% of these tumours have a germinal-centre B-cell (GCB)-like phenotype, according to the Hans cell-of-origin classifier {14504078; 21119107; 29785017; 29903764}. Most express MYC (78&ndash;86%) and BCL2 (90&ndash;95%) proteins, with 71&ndash;81% expressing both (dual-expressers), based on thresholds of &ge;&nbsp;40% and &ge;&nbsp;50%, respectively, to define positivity {21119107; 25828389; 29785017; 29903764}. The Ki-67 (MIB1) proliferation index is high (range: 50&ndash;100%, median: 90%) {21119107}, but a low proliferation index does not exclude DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> {28614202}. EBV infection and varying amounts of EBER-positive tumour cells do not exclude the diagnosis, but they are rare {34637146}. Approximately 2% of DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> cases have been reported to contain TdT-positive tumour B&nbsp;cells ranging from rare positive cells to near-uniform expression. Such cases may be CD20-weak/negative and lack expression of BCL6 and/or light chains, indicating a more immature phenotype {26558423; 30282799; 34392269}.</p>\r\n\r\n<h5>Differential diagnosis</h5>\r\n\r\n<p>Cases of DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> may morphologically resemble Burkitt lymphoma, which is excluded by identification of a <em>MYC</em> and <em>BCL2</em> dual translocation.</p>\r\n<p>There are no reliable criteria for predicting DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> by DLBCL morphology. Therefore, evaluation of <em>MYC</em> and <em>BCL2</em> (and <em>BCL6</em>) translocation status is advocated in all aggressive B-cell lymphomas.</p>\r\n<p>Follicular lymphomas with coincident <em>MYC</em> and <em>BCL2</em> translocations are by definition excluded from this category, as are rare cases of other defined large B-cell lymphoma entities with incidental <em>MYC</em> and <em>BCL2</em> translocations {27544800; 28984304; 33964277}. Cases of DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> with antecedent or concurrent follicular lymphoma should be reported as &ldquo;DLBCL/HGBCL with <em>MYC</em> and <em>BCL2</em> rearrangements, transformed from follicular lymphoma&rdquo; {34392269}.</p>\r\n<p>Very rare B-lymphoblastic leukaemias/lymphomas (B-ALL/LBLs) have <em>MYC</em> and <em>BCL2</em> dual translocations and are seen particularly in the paediatric&nbsp;/ young adult setting {26558423; 30282799}. Young age is more suggestive of B-ALL/LBL, but the differentiation from DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> remains challenging. Distinction on immunohistochemistry phenotype alone is not advised, but flow cytometric phenotyping to distinguish between the precursor and mature B-cell states (e.g. CD34) may be helpful {30282799}. Molecular analysis may support the distinction, because <em>MYC</em>-rearranged B-ALL/LBL shows IG::<em>MYC</em> translocations, implicating V(D)J recombination at the IGH locus, and carries unmutated IGHV rearrangements and <em>NRAS</em> or <em>KRAS</em> mutations while lacking mutations observed in Burkitt lymphoma and DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> {30282799}. The blastoid variant may raise the differential diagnosis of mantle cell lymphoma, and immunostaining for CD5 and cyclin&nbsp;D1/SOX11 should be performed to exclude it.</p>\r\n<p>The occurrence of a dual <em>MYC</em> and <em>BCL2</em> translocation in primary CNS large B-cell lymphomas is extremely uncommon {30306208}. Therefore, exclusion of secondary involvement of the CNS from systemic disease is essential.</p>\r\n<p><em>MYC</em> translocations and MYC/BCL2 dual expression are reported in some cases of primary cutaneous DLBCL, leg type. However, those cases predominantly show dual <em>MYC</em> and <em>BCL6</em> translocations and therefore do not form part of the DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> {29581544; 30113335; 33548250}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T11:39:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 120144,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>There are no specific cytological features of DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> relative to DLBCL or HGBCL lacking translocations. Aspiration cytology, therefore, is not advised for diagnosis.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:48:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 120145,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 713,
+        "headingText": "<p>Because DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> is a genetically defined tumour, all B-cell lymphomas that could potentially fall within this category should be evaluated for gene rearrangement status. A sequential strategy starting with evaluation of <em>MYC</em> translocation is advised. If FISH is applied, a low (&lt;&nbsp;5%) false negative rate has to be acknowledged {29475959} (e.g. attributable to incomplete probe coverage of <em>MYC</em> breakpoints or cryptic rearrangements with variant molecular configurations) {23795946; 30348671}. The finding of a <em>MYC</em> rearrangement should then trigger the evaluation of: (1)&nbsp;<em>BCL2</em> (and <em>BCL6</em>) rearrangement status, (2)&nbsp;<em>MYC</em> translocation partner {31498031}.</p>\r\n\r\n<h5>Immunohistochemical pre-screening strategies</h5>\r\n\r\n<p>There is no current universally accepted and highly predictive immunohistochemical screening tool for determining which DLBCL/HGBCL cases should undergo <em>MYC</em> translocation analysis. Using GCB cell-of-origin immunohistochemistry testing would reduce <em>MYC</em> testing to about 52% of all DLBCLs while potentially detecting &ge;&nbsp;99% of DLBCL-<em>MYC</em>/<em>BCL2</em>&nbsp;cases {29475959}. Using GCB cell-of-origin immunohistochemistry testing together with MYC and BCL2 dual expression as a selection criterion for <em>MYC</em> FISH testing would reduce testing to 13% of DLBCL cases and achieve a 35% positive predictive value {29475959}. Moderate to strong MYC protein expression in &gt;&nbsp;70% of neoplastic cells has been reported to be highly predictive of presence of <em>MYC</em> translocation {29954940; 30737994; 33131258}. However, false negative immunohistochemistry can occur, due to weak MYC mRNA expression despite translocation or due to genetic polymorphisms {33120427}.</p>\r\n<p>Adverse risk in DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> has been linked to IG::<em>MYC</em> translocations {31498031}. Depending on the clinical consequences, testing for fusion of <em>MYC</em> to IGH, if negative, can be followed by testing of fusions to IGK or IGL loci. <em>MYC</em> translocation to a non-IG partner can be reported where all three IG loci have been excluded as fusion partners of <em>MYC</em>, with an optional statement that this may indicate a less adverse outcome.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T12:32:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 120146,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> morphology and phenotype consistent with an aggressive B-cell lymphoma; evidence of concurrent <em>MYC</em> and <em>BCL2</em> rearrangements (with or without <em>BCL6</em> rearrangement).</p>\r\n<p><em>Desirable:</em> GCB phenotype; TdT protein expression status; determination of <em>MYC</em> fusion partner.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:48:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 120147,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>The Lugano system is used to stage these lymphomas {25113753}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T10:48:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 120148,
+        "bookId": 63,
+        "chapterId": 161,
+        "headingId": 715,
+        "headingText": "<p>DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> is characterized by an aggressive clinical course. Immunochemotherapy with R-CHOP is associated with poor outcomes, with 4/5-year overall survival rates of about 40&ndash;50% {32187361; 33306213}. As a result, there are advocates for dose-intensified regimens, but there is a paucity of prospective and randomized studies to inform optimal approaches {25161267; 27203548; 28475457; 30501868; 31945157; 33256379; 33306213}. The <em>MYC</em>&nbsp;translocation partner (IG::<em>MYC</em>), TdT expression, and <em>MYC</em> hotspot mutation may select further for higher risk within DLBCL/HGBCL-<em>MYC</em>/<em>BCL2</em> {30523716; 30523719; 31498031; 31844144}, but their impact on treatment choice is unclear.</p>",
+        "timestamp": "2024-03-21T11:36:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "pkroleId": 85,
+    "bookId": "35",
+    "roleid": 117,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 1998,
+        "lastname": "Chan",
+        "firstname": "John K.C.",
+        "initials": "JKC",
+        "email": "",
+        "roleid": 117,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 86,
+    "bookId": "35",
+    "roleid": 118,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2885,
+        "lastname": "Marx",
+        "firstname": "Alexander",
+        "initials": "",
+        "email": "",
+        "roleid": 118,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 87,
+    "bookId": "35",
+    "roleid": 119,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3434,
+        "lastname": "Orazi",
+        "firstname": "Attilio",
+        "initials": "",
+        "email": "",
+        "roleid": 119,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 88,
+    "bookId": "35",
+    "roleid": 120,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 3138,
+        "lastname": "Pileri",
+        "firstname": "Stefano A.",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      }
+    ]
+  }
+]

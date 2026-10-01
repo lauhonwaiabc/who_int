@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 148391,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 951,
+        "headingText": "\r\n<p>Epidermoid metaplasia of the oesophagus is a sharply demarcated area of epithelial hyperplasia with a prominent granular cell layer, and hyperorthokeratosis.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 148392,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 952,
+        "headingText": "\r\n<p>8052F/0 Oesophageal epidermoid metaplasia</p>\r\n",
+        "timestamp": "2026-06-09T11:25:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 148393,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 953,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-06-09T11:25:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 148394,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 954,
+        "headingText": "\r\n<p><em>Not recommended:</em> oesophageal leukoplakia {4420581}.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 148395,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 955,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-06-09T11:25:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 148396,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 956,
+        "headingText": "\r\n<p>Epidermoid metaplasia can occur anywhere in the oesophagus. Approximately half the cases are identified in the lower third of the oesophagus; involvement limited to only the upper third of the oesophagus is uncommon {23765246;33734117}.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 148397,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 957,
+        "headingText": "\r\n<p>Approximately half of all patients present with dysphagia {23765246;33734117}. Other cases are detected incidentally on follow-up for Barrett oesophagus, gastro-oesophageal reflux disease, or oesophageal squamous cell carcinoma {33734117}.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 148398,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 958,
+        "headingText": "\r\n<p>Epidermoid metaplasia is found in 0.18% of routine oesophageal pathology specimens {26426946}. Among the case series reported, the prevalence of oesophageal squamous neoplasia found adjacent to epidermoid metaplasia is 3.5&ndash;17% {26426946;23765246}. The mean age of patients at diagnosis is in the seventh decade of life, and there is no sex predominance {23765246;26426946;33734117}.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 148399,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 959,
+        "headingText": "\r\n<p>Although the exact cause is unknown, tobacco smoking, alcohol consumption, gastro-oesophageal reflux disease, and (rarely) oesophageal lichen planus are associated with the development of oesophageal epidermoid metaplasia {21830395;23765246;23879628;26426946;28731047;33734117}.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 148400,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 960,
+        "headingText": "\r\n<p>Based on risk factors, it is postulated that epidermoid metaplasia is due to chronic oesophageal injury {16928229}. Recurrent damage to the oesophagus leads to its transformation into a keratinized, skin-like tissue as a mechanism of cellular adaptation to chronic stress. <em>TP53</em> mutations have been found in epidermoid metaplasia and both synchronous and metachronous squamous neoplasia {28731047}.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 148401,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 967,
+        "headingText": "\r\n<p>Endoscopically, abnormal areas present as well-demarcated white patches with a cobblestone appearance, involving the middle-to-distal oesophagus {26426946;23765246}.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 148402,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 961,
+        "headingText": "\r\n<p>At low magnification, these lesions are sharply demarcated from the normal squamous mucosa. The mucosa appears undulating with flattened epithelial rete pegs. A distinctive feature is the presence of a granular cell layer with overlying compact hyperorthokeratosis {26426946;23765246}. Additionally, there may be focal areas of parakeratosis between the hypergranulosis and hyperorthokeratosis. Squamous dysplasia and malignancy can be found adjacent to or in association with epidermoid metaplasia.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 148403,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 962,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2026-06-09T11:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 148404,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 963,
+        "headingText": "\r\n<p>Diagnostic molecular pathology is not clinically relevant to the diagnosis of oesophageal epidermoid metaplasia.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 148405,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 966,
+        "headingText": "\r\n<p><em>Essential:</em> an epithelial hyperplasia without atypia, a prominent granular cell layer, and superficial hyperorthokeratosis.</p>\r\n",
+        "timestamp": "2026-06-09T11:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 148406,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 964,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2026-06-09T11:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 148407,
+        "bookId": 72,
+        "chapterId": 9,
+        "headingId": 965,
+        "headingText": "\r\n<p>There is epidemiological evidence to suggest that epidermoid metaplasia is a premalignant condition for oesophageal squamous cell carcinoma, but the actual risk of progression is unknown. A high prevalence of associated squamous neoplasia has been detected {26426946;23765246;33734117}.</p>",
+        "timestamp": "2026-06-09T11:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 176,
+    "bookId": "65",
+    "roleid": 205,
+    "roleTitle": "Resp editor",
+    "contributors": [
+      {
+        "contributorid": 3275,
+        "lastname": "Mudhar",
+        "firstname": "Hardeep Singh",
+        "initials": "",
+        "email": "",
+        "roleid": 205,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 177,
+    "bookId": "65",
+    "roleid": 206,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3546,
+        "lastname": "Eberhart",
+        "firstname": "Charles G.",
+        "initials": "",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 178,
+    "bookId": "65",
+    "roleid": 207,
+    "roleTitle": "Resp author",
+    "contributors": [
+      {
+        "contributorid": 3290,
+        "lastname": "Herwig-Carl",
+        "firstname": "Martina C.",
+        "initials": "",
+        "email": "",
+        "roleid": 207,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 179,
+    "bookId": "65",
+    "roleid": 208,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3276,
+        "lastname": "Moulin",
+        "firstname": "Alexandre",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 3318,
+        "lastname": "Verdijk",
+        "firstname": "Robert M.",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      }
+    ]
+  }
+]

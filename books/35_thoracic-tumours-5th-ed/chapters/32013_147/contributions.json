@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 67890,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 432,
+        "headingText": "\r\n<p>Granular cell tumour is a Schwann cell neoplasm composed of large epithelioid cells with distinctive granular cytoplasm.</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 67891,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 433,
+        "headingText": "\r\n<p>9580/0 Granular cell tumour</p>\r\n<p>9580/3 Granular cell tumour, malignant</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 67892,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 434,
+        "headingText": "\r\n<p>2F01 &amp; XH09A9 Benign neoplasm of intrathoracic organs &amp; Granular cell tumour, NOS</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 67893,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Not recommended:</em> granular cell schwannoma; granular cell nerve sheath tumour; granular cell myoblastoma; Abrikossoff tumour.</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 67894,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 67895,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 437,
+        "headingText": "<p>Most granular cell tumours arise in the dermis or subcutis, but granular cell tumours can also arise in deep soft tissues and visceral organs. Pulmonary granular cell tumours typically arise in large airways {7755149}. Cardiac granular cell tumours are usually epicardial near the sinoatrial node {8430653}. Rarely, granular cell tumours can arise in the posterior (paravertebral) mediastinum {12636238}.</p>",
+        "timestamp": "2021-01-04T13:05:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 67896,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 438,
+        "headingText": "\r\n<p>Patients with pulmonary granular cell tumours may present with symptoms from airway obstruction (e.g. postobstructive pneumonia, atelectasis) in about half of cases or rarely with haemoptysis; other cases are asymptomatic {7755149}. Most cardiac granular cell tumours are discovered incidentally at autopsy or during surgery for other indications, and patients with mediastinal granular cell tumours may present with nonspecific cough or be asymptomatic {12636238}. Most granular cell tumours are solitary, but multicentric granular cell tumours have also been reported {7755149; 22215746}.</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 67897,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 439,
+        "headingText": "\r\n<p>Most granular cell tumours occur in the fourth to sixth decades of life, but they can be encountered at any age. Granular cell tumours are more prevalent in men (M:F&nbsp;ratio: 2&ndash;3:1) {6246310; 10089680}. Malignant granular cell tumours are rare and more common in women {9669341}.</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 67898,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 440,
+        "headingText": "\r\n<p>The precise etiology of most granular cell tumours is unknown. Multiple granular cell tumours have been reported in the context of LEOPARD syndrome (multiple lentigines, electrocardiographic conduction abnormalities, ocular hypertelorism, pulmonic stenosis, abnormal genitalia, retardation of growth, and sensorineural deafness), due to a mutation in the <em>PTPN11</em> gene {19054014}, as well as in neurofibromatosis type&nbsp;1 and Noonan syndrome {11045593; 20537083; 18577039}.</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 67899,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 441,
+        "headingText": "\r\n<p>Loss-of-function mutations affecting the V-ATPase accessory genes <em>ATP6AP1</em> and <em>ATP6AP2</em>, or other V-ATPase&ndash;related genes, occur in most granular cell tumours and appear to be pathognomonic for this entity {30166553; 30597645}. Mutations in <em>ASXL1</em>, <em>NOTCH2</em>, <em>PARP4</em>, and <em>ATM</em> have been reported in malignant granular cell tumours {26398830; 31180915}.</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 67900,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 448,
+        "headingText": "\r\n<p>Grossly, granular cell tumours are firm, well-circumscribed, yellowish to pale-grey masses.</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 67901,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 442,
+        "headingText": "\r\n<p>Granular cell tumours are composed of nests and sheets of large epithelioid cells with voluminous eosinophilic cytoplasm having a distinctive granular appearance. Current evidence indicates Schwannian differentiation. Despite their gross circumscription, granular cell tumours typically have ill-defined borders microscopically and appear to infiltrate adjacent tissue.</p>\r\n<p>Malignant granular cell tumours may be overtly sarcomatous or deceptively bland. Malignant granular cell tumours typically show three or more of the following features: increased cellularity, prominent spindling, high N:C&nbsp;ratio, vesicular nuclei with prominent nucleoli, marked pleomorphism, increased mitotic activity (&gt;&nbsp;2&nbsp;mitoses/2&nbsp;mm<sup>2</sup>), and/or geographical necrosis {9669341}.</p>\r\n<p>Granular cell tumours show immunoreactivity for S100, SOX10, and NSE but not for NFP or GFAP. Granular cell tumours are also strongly immunoreactive for CD68 due to abundant intracytoplasmic lysosomes, but the more specific lineage-restricted histiocytic marker CD163 is negative. Nuclear immunoreactivity for TFE3 is often present in granular cell tumour, a potential diagnostic pitfall that can cause confusion with <em>TFE3</em>-rearranged tumours such as perivascular epithelioid cell tumours (PEComas) and alveolar soft part sarcoma.</p>\r\n<p>The differential diagnosis of granular cell tumour includes tumefactive histiocytic proliferations such as juvenile xanthogranuloma and Rosai&ndash;Dorfman disease {24012116; 30447189; 19819734}. The absence of giant cells and emperipolesis and the presence of SOX10 and NSE immunoreactivity can help distinguish granular cell tumour from these disorders.</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 67902,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 443,
+        "headingText": "\r\n<p>In cytological specimens, granular cytoplasm and bland nuclei are usual features {11348331}, but carcinomas and histiocytic processes must be considered.</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 67903,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 444,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 67904,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 447,
+        "headingText": "\r\n<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Nests and sheets of epithelioid to polygonal cells</li>\r\n<li>Abundant, intensely eosinophilic, granular cytoplasm</li>\r\n<li>Positivity for S100 and SOX10 by immunohistochemistry</li>\r\n</ul>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 67905,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 445,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 67906,
+        "bookId": 35,
+        "chapterId": 147,
+        "headingId": 446,
+        "headingText": "\r\n<p>Granular cell tumours are usually benign, but they can recur locally if incompletely excised. Malignant granular cell tumour has a 50% rate of metastasis, with lungs and lymph nodes being the most common metastatic sites {9669341}. To date, no malignant primary cardiac granular cell tumours have been described; however, involvement of the heart and pericardium by metastases and disseminated congenital granular cell tumours has been reported {17670739; 31180915; 1929790}. Local recurrence, metastasis, larger tumour size, and older patient age are adverse prognostic factors for malignant granular cell tumour {9669341}.</p>",
+        "timestamp": "2020-12-03T17:05:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

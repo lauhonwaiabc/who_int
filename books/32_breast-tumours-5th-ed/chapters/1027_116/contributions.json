@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 377,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 176,
+    "contributions": [
+      {
+        "pkcontributionId": 57768,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 176,
+        "headingText": "<p><em>CDH1</em>-associated breast cancer is a cancer susceptibility syndrome characterized by lobular carcinoma of the breast, caused by inactivating germline mutations in <em>CDH1</em>, the gene encoding E-cadherin. Invasive lobular breast cancer can also occur in the setting of hereditary diffuse gastric cancer (HDGC), which is also caused by germline mutations in <em>CDH1</em>.</p>",
+        "timestamp": "2019-08-13T14:05:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 378,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 177,
+    "contributions": [
+      {
+        "pkcontributionId": 57769,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 177,
+        "headingText": "\r\n<p><strong>MIM numbering</strong></p>\r\n<p>192090 Cadherin&nbsp;1; <em>CDH1</em></p>\r\n",
+        "timestamp": "2019-07-30T15:47:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 379,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 178,
+    "contributions": [
+      {
+        "pkcontributionId": 57770,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 178,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-07-30T15:47:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 380,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 179,
+    "contributions": [
+      {
+        "pkcontributionId": 57771,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 179,
+        "headingText": "<p><em>Acceptable:</em> hereditary lobular breast cancer; hereditary diffuse gastric cancer (HDGC).</p>",
+        "timestamp": "2019-08-13T14:05:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 381,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 180,
+    "contributions": [
+      {
+        "pkcontributionId": 57772,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 180,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-07-30T15:47:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 382,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 181,
+    "contributions": [
+      {
+        "pkcontributionId": 57773,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 181,
+        "headingText": "<p>There is no specific localization of <em>CDH1</em>-associated breast cancer. HDGC can affect all topographical regions of the stomach.</p>",
+        "timestamp": "2019-08-20T12:25:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 383,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 182,
+    "contributions": [
+      {
+        "pkcontributionId": 57774,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 182,
+        "headingText": "<p>Female <em>CDH1</em> mutation carriers have a 40% lifetime risk of developing lobular breast carcinoma {26182300}. The clinical presentation of invasive lobular carcinoma (ILC) is described in detail in the section <a style=\"cursor:pointer\" href=\"/chaptercontent/32/19\" target=\"_blank\">section </a><em>Invasive lobular carcinoma</em> . There are no widely used clinical criteria for <em>CDH1</em> genetic screening with respect to lobular carcinoma predisposition not associated with gastric cancer. However, an international expert panel on hereditary lobular breast carcinoma suggested criteria for <em>CDH1</em> testing (see <em>Essential and desirable diagnostic criteria</em>, below).</p>",
+        "timestamp": "2019-07-30T15:48:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 384,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 183,
+    "contributions": [
+      {
+        "pkcontributionId": 57775,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 183,
+        "headingText": "\r\n<p>The frequency of a germline <em>CDH1</em> mutation is very low (~1%) in women with early-onset or familial lobular breast carcinoma without a family history of gastric carcinoma {20921021}. Pathogenic germline <em>CDH1</em> mutations have been identified in 4&nbsp;of 50&nbsp;patients with bilateral lobular carcinoma in situ or ILC {24366306}.</p>\r\n",
+        "timestamp": "2019-07-30T15:47:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 385,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 184,
+    "contributions": [
+      {
+        "pkcontributionId": 57776,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 184,
+        "headingText": "\r\n<p><em>CDH1</em> is located at 16q22.1, comprises 16&nbsp;exons, and encodes E-cadherin. E-cadherin is a transmembrane protein that is predominantly expressed at the basolateral membrane of epithelial cells and is involved in homophilic cell&ndash;cell adhesion and transduction of mechanical force {23127608; 25925582}. Its cytoplasmic domain interacts with numerous structural and regulatory proteins, including the catenin family {23127608}. These interactions influence cell survival signalling, the microtubule network, and the organization of the cortical actin cytoskeleton {23127608}, with a profound impact on cell shape, polarity, and motility {25925582}.</p>\r\n",
+        "timestamp": "2019-07-30T15:47:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 386,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 185,
+    "contributions": [
+      {
+        "pkcontributionId": 57777,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 185,
+        "headingText": "<p>Several <em>CDH1</em> germline alterations have been reported to be associated with an increased risk of lobular breast carcinoma. Classically, lobular breast carcinomas in patients with <em>CDH1</em> germline mutations are also associated with a predisposition for HDGC&nbsp;{26182300}. However, recent studies have identified <em>CDH1</em> variants with a potential pathogenic role in hereditary lobular breast cancer in the absence of a family history of gastric carcinoma {23709761; 24366306; 28993866}.&nbsp;The loss of E-cadherin expression identified in breast tumours occurs via various somatic mechanisms: somatic <em>CDH1</em> mutations, loss of heterozygosity, <em>CDH1</em> promoter hypermethylation, and allelic imbalance {11439345; 10973239; 18788075; 19269290}.</p>",
+        "timestamp": "2019-08-13T14:06:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 393,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 206,
+    "contributions": [
+      {
+        "pkcontributionId": 57778,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 206,
+        "headingText": "\r\n<p>There is no specific information on macroscopic findings in <em>CDH1</em> mutation carriers; however, ILCs often present as poorly defined masses that can be difficult to delineate macroscopically. There may be a vague area of increased firmness rather than a discrete mass, and the final tumour diameter often exceeds the macroscopic size estimate.</p>\r\n",
+        "timestamp": "2019-07-30T15:47:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 387,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 186,
+    "contributions": [
+      {
+        "pkcontributionId": 57779,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 186,
+        "headingText": "\r\n<p><em>CDH1</em> germline mutations have specifically been associated with ILCs. Most published series do not provide more-detailed histological information such as grade or size in <em>CDH1</em> mutation carriers.</p>\r\n<p>ILC is described in detail in the section <a style=\"cursor:pointer\" href=\"/chaptercontent/32/19\" target=\"_blank\">section </a><em>Invasive lobular carcinoma</em> , but in summary, it is characterized by diffuse infiltration by small round cells with monomorphic nuclei that invade individually or as single files and cords. There is minimal disruption of background breast architecture, and the tumour cells often surround existing structures, forming a targetoid arrangement. On occasion, the cells may have prominent intracytoplasmic mucin vacuoles or pale foamy cytoplasm imparting a histiocytoid appearance. There are subtypes with solid, alveolar, or tubulolobular growth patterns, as well as a pleomorphic subtype with marked nuclear pleomorphism that often has apocrine morphology with abundant eosinophilic cytoplasm. Classic ILCs are almost always ER-positive and ERBB2 (HER2)-negative, although the pleomorphic subtype may be ER-negative and is HER2-positive in approximately 15&ndash;40% of cases. Loss of E-cadherin membrane staining occurs in ILC irrespective of germline mutation {21271559}.</p>\r\n",
+        "timestamp": "2019-07-30T15:47:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 388,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 187,
+    "contributions": [
+      {
+        "pkcontributionId": 57780,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 187,
+        "headingText": "\r\n<p>Cytologically, aspirates of ILC contain small monomorphic cells with mild atypia, often with intracytoplasmic mucin vacuoles. The cells are present singly, as loose clusters, or forming cords. Some series have shown an increased false negative rate by FNA, with ILC largely related to low tumour cellularity, although the cells are sometimes so bland that they may be mistaken for lymphocytes {18300231}. A more detailed description is provided in the section <a style=\"cursor:pointer\" href=\"/chaptercontent/32/19\" target=\"_blank\">section </a><em>Invasive lobular carcinoma</em> .</p>\r\n",
+        "timestamp": "2019-07-30T15:47:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 389,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 188,
+    "contributions": [
+      {
+        "pkcontributionId": 57781,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 188,
+        "headingText": "<p>Genetic testing for <em>CDH1</em> germline mutations should be considered in two settings. In the absence of a family history of gastric cancer, the two criteria for genetic testing are (1)&nbsp;bilateral ILC with or without a family history of ILC, with patient age at onset of &lt;&nbsp;50&nbsp;years, and (2)&nbsp;unilateral ILC with a family history of ILC and patient age at onset of &lt;&nbsp;45&nbsp;years {29929997}. In the setting of HDGC, the criterion for genetic testing is a personal or family (first- or second-degree relative) history of diffuse gastric cancer and ILC, with one diagnosed at an age &lt;&nbsp;50&nbsp;years {25979631}.</p>",
+        "timestamp": "2019-08-13T14:06:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 392,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 191,
+    "contributions": [
+      {
+        "pkcontributionId": 57782,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 191,
+        "headingText": "\r\n<p><em>Essential:</em> pathogenic germline mutation in <em>CDH1</em>.</p>\r\n",
+        "timestamp": "2019-07-30T15:47:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 390,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 189,
+    "contributions": [
+      {
+        "pkcontributionId": 57783,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 189,
+        "headingText": "\r\n<p>The staging is the same as for other breast carcinomas.</p>\r\n",
+        "timestamp": "2019-07-30T15:47:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 391,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 190,
+    "contributions": [
+      {
+        "pkcontributionId": 57784,
+        "bookId": 32,
+        "chapterId": 116,
+        "headingId": 190,
+        "headingText": "<p>The estimated cumulative risk of gastric cancer is 70% for male and 56% for female <em>CDH1</em> mutation carriers {26182300; 25979631}. Female carriers have a 40% lifetime risk of developing ILC {26182300}. In the setting of HDGC, diffuse&nbsp;gastric cancer is the main cause of mortality in both sexes.</p>",
+        "timestamp": "2019-08-13T14:07:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

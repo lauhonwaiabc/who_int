@@ -1,0 +1,36 @@
+[
+  {
+    "pkroleId": 141,
+    "bookId": "63",
+    "roleid": 185,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4470,
+        "lastname": "Dave",
+        "firstname": "Sandeep S.",
+        "initials": "",
+        "email": "",
+        "roleid": 185,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 143,
+    "bookId": "63",
+    "roleid": 187,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3810,
+        "lastname": "de Jong",
+        "firstname": "Daphne",
+        "initials": "D",
+        "email": "",
+        "roleid": 187,
+        "position": 0
+      }
+    ]
+  }
+]

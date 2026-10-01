@@ -1,0 +1,36 @@
+[
+  {
+    "pkroleId": 185,
+    "bookId": "72",
+    "roleid": 266,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2023,
+        "lastname": "Nagtegaal",
+        "firstname": "Iris D.",
+        "initials": "ID",
+        "email": "",
+        "roleid": 266,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 187,
+    "bookId": "72",
+    "roleid": 280,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2023,
+        "lastname": "Nagtegaal",
+        "firstname": "Iris D.",
+        "initials": "ID",
+        "email": "",
+        "roleid": 280,
+        "position": 0
+      }
+    ]
+  }
+]

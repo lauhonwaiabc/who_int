@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 118656,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Acute myeloid leukaemia (AML) with <em>KMT2A</em> rearrangement is a myeloid neoplasm in which the <em>KMT2A</em> locus on chromosome 11q23.3 is fused with any of a number of partner genes.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 118657,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9897/3 Acute myeloid leukaemia with <em>KMT2A</em> rearrangement</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 118658,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A60.0 &amp; XH1E41 Acute myeloid leukaemia with recurrent genetic abnormalities &amp; Acute myeloid leukaemia, 11q23 abnormalities</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 118659,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Acceptable:</em> acute myeloid leukaemia with <em>KMT2A</em>::<em>MLLT3</em> or other exact fusion; acute myeloid leukaemia with t(9;11)(p21.3;q23.3) or other exact balanced translocation.</p>\r\n<p><em>Not recommended:</em> acute myeloid leukaemia with <em>MLL</em> rearrangement.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 118660,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 118661,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>The blood and bone marrow are always involved. Extramedullary involvement is relatively frequent and identified in one&nbsp;third of adult patients with AML with <em>KMT2A</em> rearrangement. Also in children, extramedullary involvement is common, with approximately half of patients presenting with liver and/or splenic involvement, and 15% presenting with CNS involvement {19528532}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 118662,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Patients presenting with this AML may have varying white blood cell counts. They can present with leukopenia or overt leukocytosis, with a white blood count as high as 200&nbsp;&times;&nbsp;10<sup>9</sup>/L. In adults, the white blood cell count does not differ significantly from that of age-matched AML patients with normal cytogenetics, and no significant differences have been reported between patients with different <em>KMT2A</em> fusion partners {33020282; 34588432}. Children often present with hyperleukocytosis {19528532}. Extramedullary involvement manifesting as gingival hypertrophy or skin lesions is common {15368330; 29806701; 34007418}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 118663,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p><em>KMT2A</em> rearrangements are detected at all ages, with their frequency showing an inverse relationship with age. In children, <em>KMT2A</em> rearrangement is the most common genetic abnormality, accounting for 20% of all AML cases {29227476}; the frequency exceeds 50% in infants and 10% in adolescents with AML {19528532; 29806701}. In adults, <em>KMT2A</em> rearrangements are found in 2&ndash;3% of patients with AML, with <em>KMT2A</em>::<em>MLLT3</em> being the most common {12805060; 33147338; 34588432}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 118664,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>The etiology of de&nbsp;novo <em>KMT2A</em> rearrangements is largely unknown in AML. In acute lymphoblastic leukaemia, they can occur in&nbsp;utero, and a prenatal origin has been validated by twin and backtracking studies. This has not been confirmed in AML, although fewer cases have been studied {33968846}.</p>\r\n<p>Rearrangement of <em>KMT2A</em> has been observed after treatment with topoisomerase&nbsp;II inhibitors, and such cases should be diagnosed as myeloid neoplasm post cytotoxic therapy. Specifically, the presence of the translocation t(11;16)(q23;p13) leading to <em>KMT2A</em>::<em>CREBBP</em> is considered presumptive evidence and should prompt a search for a history of malignancy and cytotoxic therapy {9226152; 32006151}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 118665,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 710,
+        "headingText": "<p><em>KMT2A</em> gene rearrangements result from deletions, duplications, inversions, and translocations at the 11q23 locus {10468849}. These rearrangements typically disrupt a 100&nbsp;kb region in exons&nbsp;5&ndash;11. The resulting derivative chromosome&nbsp;11 harbours the <em>KMT2A</em> promoter and coding regions 5&prime;&nbsp;to the breakpoint {10468849}. The rearrangement results in a chimeric protein with a <em>KMT2A</em>-encoded N-terminus and a C-terminus encoded by the partner gene {10468849}. <em>KMT2A</em>-rearranged leukaemias have a distinct gene expression profile resembling early haematopoietic progenitor cells and characterized by the overexpression of HOX genes {11731795}. Another common finding in <em>KMT2A</em>-rearranged AML is deregulated EVI1 protein overexpression, especially in cases with <em>KMT2A</em>::<em>MLLT3</em>&nbsp;{22553314; 23008312}.</p>\r\n<p>More than 80&nbsp;fusion partners have been described in <em>KMT2A</em>-rearranged AML {28701730} (see <a style=\"cursor:pointer\" href=\"/attachment/63/41/31198\" target=\"_blank\">#31198</a>Box&nbsp;2.23); they occur at different frequencies in paediatric and adult populations (see <a style=\"cursor:pointer\" href=\"/attachment/63/41/31424\" target=\"_blank\">#31424</a>Table&nbsp;2.15). Overall, <em>MLLT3</em>, <em>AFDN</em>, <em>ELL</em>, and <em>MLLT10</em> are most commonly implicated in <em>KMT2A</em>-rearranged AML, resulting from the translocations t(9;11)(p22;q23), t(6;11)(q27;q23), t(11;19)(p13.1;q23), and t(10;11)(p12;q23), respectively {9373264; 33020282; 28701730; 34588432}. As compared with AML with a normal karyotype, the presence of <em>KMT2A</em>rearrangement is associated with a lower mutation burden {34588432}. Adult patients predominantly have mutations in genes encoding the RAS pathway (<em>NRAS</em>, <em>KRAS</em>, and <em>PTPN11</em>). <em>FLT3</em> tyrosine kinase domain (TKD) mutations, as well as mutations in <em>RUNX1</em>, <em>TET2</em>, <em>PLCG2</em>, and <em>ZRSR2</em>, have also been described {33020282; 34588432}. Mutations in <em>NRAS</em>, <em>KRAS</em>, <em>PTPN11</em>, and <em>FLT3</em>-TKD often occur at low (&lt;&nbsp;20%) variant allele frequencies (VAFs), indicating a subclonal nature {23535558; 33020282}. <em>DNMT3A</em>, <em>NPM1</em>, <em>CEBPA</em>, and <em>FLT3</em> internal tandem duplication (ITD) mutations are uncommon {33020282; 34588432}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T15:31:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 118666,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 118667,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 711,
+        "headingText": "<p>AML with <em>KMT2A</em> rearrangement can be associated with a broad range of blast morphology and myeloid differentiation, with most cases having monocytic, monoblastic, or myelomonocytic features {12805060}. Blasts are usually large, with abundant basophilic cytoplasm, and they may include many promonocytes. Especially in children, a wide range of other cytomorphological features can be observed, and in this age group any morphology except acute promyelocytic and erythroid leukaemia morphology has been reported {19528532}.</p>\r\n\r\n<h5>Immunophenotype</h5>\r\n\r\n<p>The immunophenotype of leukaemic cells with a <em>KMT2A</em> rearrangement varies depending on cell lineage. Most often, the leukaemic cells are of the monocytic lineage and express CD33, CD65, CD4, CD15, HLA-DR, and lysozyme. Expression of CD34 and KIT (CD117) varies depending on subtype (most often negative in monocytic cases). Expression of CD13 and CD56 has been reported in some cases, but expression of CD7 is rare {7579404; 12529663; 34588432}. A very common finding, although not completely exclusive, for leukaemic cells with <em>KMT2A</em> rearrangement is expression of CSPG4 (NG2) {10914547}, which is often heterogeneous.</p>\r\n<p>In children especially, <em>KMT2A</em>::<em>MLLT3</em> and <em>KMT2A</em>::<em>MLLT10</em> can present as acute megakaryoblastic leukaemia {19528532; 28112737; 28063190}. In such cases, the blast percentage in aspirates may be &lt;&nbsp;20%, and in trephine biopsy samples immunohistochemical megakaryocytic markers are helpful to support the diagnosis.</p>\r\n\r\n<h5>Differential diagnosis</h5>\r\n\r\n<p>Cases with subpopulations of leukaemic cells fulfilling the criteria for mixed-phenotype acute leukaemia should be classified as such, and not as AML.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T15:31:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 118668,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>See above.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 118669,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>Detection of <em>KMT2A</em> rearrangements may be accomplished using conventional karyotyping. However, some <em>KMT2A</em>rearrangements can be cytogenetically cryptic and require alternative techniques for detection, such as FISH or RNA sequencing. In addition, some rearrangements such as <em>KMT2A</em>::<em>USP2</em> may be cryptic by FISH {32372024}.</p>\r\n<p>Determination of the fusion partner may have prognostic implications and can provide an opportunity for molecular monitoring. The finding of a partial tandem duplication (PTD) in <em>KMT2A</em>, which is common in adults with AML, should not lead to the diagnosis of AML with <em>KMT2A</em> rearrangement.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 118670,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> a myeloid neoplasm with increased peripheral blood and/or bone marrow blasts (may be &lt;&nbsp;20%), or the presence of a myeloid sarcoma; blasts express a myeloid immunophenotype, not fulfilling immunophenotypic criteria for mixed-phenotype acute leukaemia; presence of a <em>KMT2A</em> rearrangement; not fulfilling diagnostic criteria for myeloid neoplasm post cytotoxic therapy.</p>\r\n<p><em>Desirable:</em> identification of the <em>KMT2A</em> fusion partner.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 118671,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 118672,
+        "bookId": 63,
+        "chapterId": 41,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>For AML with <em>KMT2A</em> rearrangement, the prognostic impact depends on the fusion partner. In adults, clinical remission rates for intensively treated patients are similar across fusion partners, but patients with <em>KMT2A</em>::<em>MLLT3</em> fusion have an intermediate risk of relapse, whereas other <em>KMT2A</em> rearrangements are associated with a poor prognosis {9373264; 27895058; 33020282; 34588432}. In children, the prognostic impact of fusion partners is debated and might depend on the treatment given. The <em>KMT2A</em> fusion partners <em>ABI1</em>, <em>AFDN</em>, <em>AFF1</em>, <em>MLLT1</em>, and <em>MLLT10</em> have been associated with a high risk of relapse, and <em>ELL</em>, <em>MLLT3</em>, <em>MLLT11</em>, and <em>SEPTIN6</em> with a standard risk {19528532}.</p>",
+        "timestamp": "2024-03-01T12:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

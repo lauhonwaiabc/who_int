@@ -1,0 +1,362 @@
+[
+  {
+    "pkheadingid": 925,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1014,
+    "contributions": [
+      {
+        "pkcontributionId": 136599,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1014,
+        "headingText": "\r\n<p>Burkitt lymphoma (BL) is a mature aggressive B-cell neoplasm composed of monomorphic, medium-sized cells with a germinal-centre B-cell immunophenotype, a high proliferation index, and IG::<em>MYC</em> rearrangement.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 926,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1015,
+    "contributions": [
+      {
+        "pkcontributionId": 136600,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1015,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-03-20T10:16:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 927,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1016,
+    "contributions": [
+      {
+        "pkcontributionId": 136601,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1016,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-03-20T10:16:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 928,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1017,
+    "contributions": [
+      {
+        "pkcontributionId": 136602,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1017,
+        "headingText": "\r\n<p><em>Not recommended:</em> Burkitt cell leukaemia; atypical Burkitt lymphoma; Burkitt-like lymphoma.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 929,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1018,
+    "contributions": [
+      {
+        "pkcontributionId": 136603,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1018,
+        "headingText": "\r\n<h5>Recommended subtypes</h5>\r\n<p>EBV-associated Burkitt lymphoma; EBV-negative Burkitt lymphoma</p>\r\n<h5>Traditional subtypes</h5>\r\n<p>Endemic Burkitt lymphoma; sporadic Burkitt lymphoma; immunodeficiency-associated Burkitt lymphoma</p>\r\n",
+        "timestamp": "2026-03-20T10:16:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 930,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1019,
+    "contributions": [
+      {
+        "pkcontributionId": 136604,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1019,
+        "headingText": "\r\n<p>Extranodal sites are most often involved, with some variation according to the epidemiological subtype. Breast involvement (often bilateral and massive) has been associated with onset during puberty, pregnancy, or lactation.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 931,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1020,
+    "contributions": [
+      {
+        "pkcontributionId": 136605,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1020,
+        "headingText": "\r\n<p>Patients often present with rapidly growing bulky disease and a high tumour burden of both breasts or less commonly one breast, with or without axillary lymphadenopathy {38727411}.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 932,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1021,
+    "contributions": [
+      {
+        "pkcontributionId": 136606,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1021,
+        "headingText": "\r\n<p>Primary breast lymphoma is rare accounting in case series for &lt;&nbsp;1% of all non-Hodgkin lymphomas {31976067;11815954} with primary breast BL (PB-BL) accounting for only 2% of reported non-Hodgkin lymphomas {18636016}. Breast involvement has been associated with onset during puberty, with reported age range from 12 to 36&nbsp;years {31976067;26549090}, pregnancy {36653041}, or lactation {20799767}. PB-BL in male patients is very rare {33339535;33022090}. A role for hormonal alteration in the causation of PB-BL has been suggested {31976067}.</p>\r\n<p>Burkitt lymphoma is the most common childhood cancer in many countries in equatorial Africa and in Papua New Guinea, where it is considered endemic. Elsewhere, BL is less common in children and is considered sporadic. Immunodeficiency-associated BL is more common in the setting of HIV infection than in other forms of immunosuppression {7059918;18052871}.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 933,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1022,
+    "contributions": [
+      {
+        "pkcontributionId": 136607,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1022,
+        "headingText": "\r\n<p>Infectious agents (e.g. EBV, <em>Plasmodium falciparum</em>, and HIV), environmental factors, and genetic predispositions (e.g. germline mutations in <em>ATM</em>, <em>BLM</em>, or <em>SH2D1A</em>) are known cofactors. Familial BL clusters, including rare cases with germline variants in <em>TCF4</em> and <em>CHD8</em>, suggest a genetic contribution {33051549}.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 934,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1023,
+    "contributions": [
+      {
+        "pkcontributionId": 136608,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1023,
+        "headingText": "\r\n<p>In endemic BL, there is a strong epidemiological link with holoendemic malaria and EBV infection (&gt;&nbsp;95% of cases) {210392;2374749;24434689}, and recent data support polymicrobial disease pathogenesis {19897039;22333947;18767045;17019706;26276629}. This polymicrobial nature of endemic BL is further supported by the architecture of the B-cell receptor indicating features of antigen selection {26712879;21245480}. Children can be repeatedly infected with <em>P. falciparum</em>, resulting in chronic antigen stimulation of B&nbsp;cells, suppression of T-cell immunity, and induction of activation-induced cytidine deaminase (AID) associated with forming a <em>MYC</em> translocation {26276629}. Children who are exposed to mixed <em>P. falciparum</em> infection have a higher risk for BL than those exposed to a single <em>P. falciparum</em> strain {33918470}.</p>\r\n<p>In sporadic BL, EBV can be detected in 20&ndash;30% of cases {22260300;7059918}; more-sensitive tools identify EBV in a higher percentage {28298901}. The proportion of EBV-positive sporadic BL appears to be much higher in adults than in children {25321330}. In immunodeficiency-associated BL, EBV is identified in 25&ndash;40% of cases {8392401;1868025}. The variation in EBV association among the different forms of BL and different countries makes it difficult to determine the role of the virus in BL pathogenesis. EBV may affect host cell homeostasis in various ways by interfering with cellular microRNA expression {24731550;23269792;18802929;26325594;23503461}.</p>\r\n<p>However, recent studies have shown that the mutation and viral landscape of BL is more complex than previously reported {25827832;25463610}. Expression of the latency pattern in BL is heterogeneous from case to case and within a given case from cell to cell, suggesting selective pressure and alternative mechanisms to survive. Overall, the inverse correlation between the EBV viral load and the number of somatic mutations suggests that mutations may substitute for the virus in EBV-negative cases {23091298}.</p>\r\n<p>The molecular hallmark of BL is the translocation of <em>MYC</em> to one of the IG loci. Most breakpoints originate from class switching or aberrant somatic hypermutation mediated by AID. BL exhibits a stable karyotype with few chromosomal imbalances. Approximately 10% of classic BLs lack an identifiable <em>MYC</em> rearrangement {15034863;16760442;18802929}; however, cryptic translocations may occur {31073073}. The expression of <em>MYC</em> mRNA and MYC protein in these cases suggests alternative mechanisms to deregulate <em>MYC</em> {20930934;20823134}. Mutations of the transcription factor <em>TCF3</em> (<em>E2A</em>) or its negative regulator <em>ID3</em> have been reported in about 70% of sporadic BLs. These mutations activate B-cell receptor signalling, which sustains BL cell survival by engaging the PI3K pathway {23143597;23143595;22885699;22897848}. Mutations of <em>MYC</em>, <em>CCND3</em>, <em>TP53</em>, <em>RHOA</em>, <em>SMARCA4</em>, and <em>ARID1A</em> are recurrent, found in 5&ndash;40% of BLs {23091298}. The numbers of mutations overall and mutations in <em>TCF3</em> or <em>ID3</em> are lower in endemic BL than in sporadic BL {26468873}.</p>\r\n<p>Molecular analyses suggest that EBV status is a defining characteristic of BL subtypes, regardless of tumour epidemiology. EBV-positive cases show significantly higher levels of AID (<em>AICDA</em>) mRNA expression and somatic hypermutation activities than EBV-negative BL, particularly in non-coding sequences close to the transcription start site {30617194}. Despite this, EBV-positive BL harbours fewer driver mutations, particularly in the apoptosis pathway {30617194}. Thus, in-depth genetic analyses suggest a dual mechanism of BL pathogenesis: mutation driven versus virus driven {26468873}. A recent study identified three genetic BL subgroups pointing to molecular diversity of BL {36201743}. A methylome analysis of BL showed that changes in the methylation pattern and somatic mutations cooperate to deregulate key B-cell pathways {26437030}.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 941,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1030,
+    "contributions": [
+      {
+        "pkcontributionId": 136609,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1030,
+        "headingText": "\r\n<p>PB-BL appears as soft, tan, fleshy tumours with haemorrhage and necrosis, involving the breasts.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 935,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1024,
+    "contributions": [
+      {
+        "pkcontributionId": 136610,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1024,
+        "headingText": "\r\n<p>Breast parenchyma is diffusely infiltrated by a monotonous population of medium-sized lymphoid cells. The cells appear to be cohesive but often exhibit squared-off borders of retracted cytoplasm. The nuclei are round with finely clumped chromatin, and they contain multiple basophilic medium-sized paracentrally located nucleoli. The cytoplasm is deeply basophilic and usually contains lipid vacuoles, which are better seen in imprint preparations or FNA specimens. The characteristic lipid vacuoles can also be demonstrated by immunostaining for adipophilin {22952953}. The tumour has an extremely high proliferation rate, with many mitotic figures, as well as a high rate of spontaneous cell death (apoptosis). A starry-sky pattern is usually present, as a result of the presence of numerous tingible-body macrophages. Very few reactive lymphocytes are seen. There is associated coagulative necrosis. Some EBV-positive cases may have a florid granulomatous reaction obscuring the tumour. These cases are characterized by a proinflammatory microenvironment, typically present with limited-stage disease, and have an especially good prognosis, sometimes even with spontaneous remission {8447509;15104301;33948980}. Some BLs show greater nuclear pleomorphism despite clinical, immunophenotypic, and molecular features characteristic of typical BL. In these cases, the nucleoli may be more prominent and fewer in number. In other cases, particularly in adults with immune deficiency/dysregulation, the tumour cells may exhibit plasmacytoid differentiation with eccentric basophilic cytoplasm and often a single central nucleolus {1868025}. These morphological features are in line with gene expression profiling studies suggesting that the morphological spectrum of BL is broader than generally thought {16760442}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>The tumour cells typically express B-cell antigens (CD19, CD20, CD22, CD79a, and PAX5), moderate to strong membrane IgM with light chain restriction, and germinal-centre markers (CD10, BCL6, CD38, HGAL, and MEF2B) and are virtually negative for LMO2. CD77 and CD43 are also frequently positive {15258997;10191768;21718280}. Almost all BLs show strong expression of MYC in the majority (&gt;&nbsp;80%) of neoplastic cells {29954940}. The proliferation rate is very high, with nearly 100% of the cells positive for Ki-67. The neoplastic cells are usually negative for CD5, CD23, CD138, and BCL2. However, weak to moderate BCL2 expression in a variable number of cells may be observed in some cases. This immunophenotype may be more variable in sporadic BL in older patients and at extranodal sites {15258997}. TdT is negative, allowing for the differential diagnosis from pre-B acute lymphoblastic leukaemia with <em>MYC</em> translocation {21718280;27247372}. Strong expression of BCL2 and expression of cyclin D1 or TdT is not compatible with a diagnosis of BL; a lack of MYC expression would make the diagnosis of BL not very likely. However, cases with some variation in the size and shape of the nuclei can still be diagnosed as BL if they show a combination of an isolated IG::<em>MYC</em> translocation with a typical immunophenotype (CD10+, BCL6+, BCL2&minus;, Ki-67&nbsp;&gt;&nbsp;95%) {33655392}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The differential diagnosis includes B-lymphoblastic leukaemia/lymphoma, high-grade B-cell lymphoma with <em>MYC</em> and <em>BCL2</em> rearrangements (predominantly in adults), high-grade B-cell lymphoma of no special type (NOS), and high-grade B-cell lymphoma with 11q aberration.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 936,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1025,
+    "contributions": [
+      {
+        "pkcontributionId": 136611,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1025,
+        "headingText": "\r\n<p>FNAB can establish the diagnosis of BL, especially when combined with flow cytometry or immunohistochemistry. Highly cellular smears show a monotonous lymphoid population interspersed with tingible-body macrophages, and apoptosis may be prominent. The cells have round to more-irregular nuclei with granular clumped chromatin, multiple small nucleoli and mitotic figures, and a rim of basophilic (Giemsa) cytoplasm that contains numerous fine lipid vacuoles {20799767}.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 937,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1026,
+    "contributions": [
+      {
+        "pkcontributionId": 136612,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1026,
+        "headingText": "\r\n<p>Demonstration of <em>MYC</em> breakage or IG::<em>MYC</em> translocation, preferably with a demonstration of the absence of <em>BCL2</em> and <em>BCL6</em> translocations, may support the diagnosis of BL in the appropriate morphological and immunophenotypic context. The documented absence of an IG::<em>MYC</em> fusion argues against the diagnosis of typical BL.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 940,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1029,
+    "contributions": [
+      {
+        "pkcontributionId": 136613,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1029,
+        "headingText": "\r\n<h5>Classic features</h5>\r\n<p><em>Essential:</em> medium-sized, monomorphic lymphoma cells with basophilic cytoplasm and multiple small nucleoli; CD20 and CD10 positivity, absence or (rarely) weak expression of BCL2, Ki-67 index&nbsp;&gt;&nbsp;95%; usually strong expression of MYC (in &gt;&nbsp;80% of cells) and/or demonstration of <em>MYC</em> breakage or IG::<em>MYC</em> translocation.</p>\r\n<p><em>Desirable:</em> starry-sky pattern, cohesive growth pattern; BCL6 positivity, TdT negativity, CD38 positivity; exclusion of <em>BCL2</em> and <em>BCL6</em> rearrangements (mainly required in adult BL).</p>\r\n",
+        "timestamp": "2026-03-20T10:16:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 938,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1027,
+    "contributions": [
+      {
+        "pkcontributionId": 136614,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1027,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-20T10:16:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 939,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1028,
+    "contributions": [
+      {
+        "pkcontributionId": 136615,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1028,
+        "headingText": "\r\n<p>Bilateral mastectomy followed by dose-intensive multiagent adjuvant chemotherapy with CNS prophylaxis has been shown to have successful outcomes {23853639;26549090;24137791}, although intensive multiagent chemotherapy without the need for mastectomy may be as effective and is the current recommendation {37790899}. Relapses and death from PB-BL have been reported despite intensive chemotherapy regimens {36938187;39807738}. The 5-year survival may be improved through autologous stem cell transplantation during initial treatment remission. In relapsed or refractory PB-BL, CD19 chimeric antigen receptor T&nbsp;cells may be considered as second-line treatment {39282608}.</p>",
+        "timestamp": "2026-03-20T10:16:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 965,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Acknowledgement",
+    "headingPosition": 18,
+    "headingid": 1343,
+    "contributions": [
+      {
+        "pkcontributionId": 136616,
+        "bookId": 84,
+        "chapterId": 131,
+        "headingId": 1343,
+        "headingText": "<font color=\"red\">Updated from previous edition, citations in progress</font>",
+        "timestamp": "2026-03-20T11:14:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

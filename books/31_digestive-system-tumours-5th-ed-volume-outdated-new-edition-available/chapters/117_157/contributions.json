@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 55070,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 159,
+        "headingText": "\r\n<p>Neuroendocrine neoplasms (NENs) of the gallbladder and bile ducts are biliary tract epithelial neoplasms with neuroendocrine differentiation, including well-differentiated neuroendocrine tumours (NETs) and poorly differentiated neuroendocrine carcinomas (NECs).</p>\r\n",
+        "timestamp": "2019-03-11T11:43:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 55071,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 160,
+        "headingText": "<p>8240/3 Neuroendocrine tumour NOS</p>\r\n<p>8246/3 Neuroendocrine carcinoma NOS</p>\r\n<p>8154/3 Mixed neuroendocrine&ndash;non-neuroendocrine neoplasm (MiNEN)</p>",
+        "timestamp": "2021-11-22T15:33:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 55072,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 161,
+        "headingText": "\r\n<p>2C14.2 &amp; XH55D7 Neuroendocrine neoplasms of cystic duct &amp; Neuroendocrine carcinoma, well-differentiated</p>\r\n<p>2C14.2 &amp; XH9LV8 Neuroendocrine neoplasms of cystic duct &amp; Neuroendocrine tumour, grade&nbsp;I</p>\r\n<p>2C14.2 &amp; XH7F73 Neuroendocrine neoplasms of cystic duct &amp; Neuroendocrine carcinoma, moderately differentiated</p>\r\n<p>2C14.2 &amp; XH0U20 Neuroendocrine neoplasms of cystic duct &amp; Neuroendocrine carcinoma NOS</p>\r\n<p>2C14.2 &amp; XH9SY0 Neuroendocrine neoplasms of cystic duct &amp; Small cell neuroendocrine carcinoma</p>\r\n<p>2C14.2 &amp; XH0NL5 Neuroendocrine neoplasms of cystic duct &amp; Large cell neuroendocrine carcinoma</p>\r\n<p>2C14.2 &amp; XH6H10 Neuroendocrine neoplasms of cystic duct &amp; Mixed adenoneuroendocrine carcinoma</p>\r\n",
+        "timestamp": "2019-03-11T11:43:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 55073,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 162,
+        "headingText": "<h5>NET</h5>\r\n<p><em>Not recommended:</em> carcinoid; well-differentiated endocrine tumour/carcinoma.</p>\r\n<h5>NEC</h5>\r\n<p><em>Acceptable:</em> poorly differentiated endocrine carcinoma; high-grade neuroendocrine carcinoma; small cell endocrine carcinoma; large cell endocrine carcinoma.</p>",
+        "timestamp": "2019-03-11T11:49:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 55074,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 163,
+        "headingText": "<p>Neuroendocrine tumour, grade&nbsp;1 (8240/3); neuroendocrine tumour, grade&nbsp;2 (8249/3); neuroendocrine tumour, grade&nbsp;3 (8249/3); large cell neuroendocrine carcinoma (8013/3); small cell neuroendocrine carcinoma (8041/3)</p>",
+        "timestamp": "2021-11-22T15:34:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 55075,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 164,
+        "headingText": "\r\n<p>NENs are more common in the gallbladder than in the bile ducts. In the gallbladder, NECs seem to substantially outnumber NETs [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]] {26339390; 26208508; 25689921}. Both NETs and NECs can involve any portion of the gallbladder (fundus, body, or neck). Extrahepatic bile duct (EHBD) NENs may arise throughout, but are more common in the distal common bile duct {15362737; 19491075}, with a predilection for junctional/transitional areas of EHBD {16633759; 19669289; 12850675}.</p>\r\n",
+        "timestamp": "2019-03-11T11:43:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 55076,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 165,
+        "headingText": "\r\n<p>Gallbladder NETs are usually detected incidentally after cholecystectomy or because of nonspecific abdominal symptoms. EHBD NETs can produce bile duct obstruction {1497121}. Rare cases produce gastrin, leading to Zollinger&ndash;Ellison syndrome {10095161; 19491075}.</p>\r\n<p>The primary clinical symptom of NEC is abdominal pain. Other findings include abdominal distension or mass, jaundice, weight loss, and ascites {8311660; 26208508; 25689921}. Cushing syndrome {168130} or other paraneoplastic syndromes such as sensory neuropathy {19302962} and hyponatraemia {27225161} may be seen occasionally.</p>\r\n",
+        "timestamp": "2019-03-11T11:43:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 55077,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 166,
+        "headingText": "<p>NETs of the gallbladder and bile ducts are extremely rare, estimated to account for 0.2% and 0.01%, respectively, of all NETs {9024720; 25689921}. NETs are slightly more common in females and in the early to mid-seventh decade of life {19917473}. NECs account for 4% of all malignant gallbladder neoplasms [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]]. NECs also show female predominance and present at an average age in the early to mid-seventh decade of life (age range: 26&ndash;93&nbsp;years) [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]] {19917473; 26208508; 26339390}.</p>",
+        "timestamp": "2019-04-29T12:10:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 55078,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 167,
+        "headingText": "<p>The cause of NENs of the gallbladder and bile ducts is unknown. Some NETs are associated with von Hippel&ndash;Lindau syndrome (VHL) and multiple endocrine neoplasia type&nbsp;1. Gallbladder NEC etiology seems to be closer to that of adenocarcinomas and is therefore frequently associated with gallstones [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]] and to a lesser extent pancreatobiliary maljunction [[Muraki T, Pehlivanoglu B, Memis B, et al. Pancreatobiliary maljunction-associated gallbladder cancer is as common in the West as in the East, shows distinct clinicopathologic characteristics and offers an invaluable model for reflux-associated physio-chemical carcinogenesis [abstract]. Lab Invest. 2018 Mar;98(S1):670-94. Abstract no. 1903. Cited in: PubMed; PMID 29551802.]] {26247168}.</p>",
+        "timestamp": "2019-04-29T12:10:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 55079,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 168,
+        "headingText": "\r\n<p>Some gallbladder and EHBD NETs may be associated with VHL {18300362; 11688471} and multiple endocrine neoplasia type&nbsp;1 {19491075}. Microsatellite instability has been identified in occasional small cell NECs (SCNECs) of the gallbladder {28040546}.</p>\r\n<p>Few studies have addressed genetic alterations in NENs of the gallbladder and EHBDs {15706430; 28040546}. Mutations of <em>TP53</em>, <em>KRAS</em>, and <em>SMAD4</em> appear not to play a substantial role in the pathogenesis of NETs {11075851}. Accumulation of p53 and inactivation of the RB1/p16 pathway have been found in most NECs of the gallbladder [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]] {12692194}. Expression of SMAD4 protein is usually retained, and <em>KRAS</em> mutations are rare {11342770; 12692194}. Somatic alterations in <em>ERBB4</em>, <em>HRAS</em>, <em>NRG1</em>, <em>HMCN1</em>, and <em>CDH10</em>; fusions (<em>NCAM2</em>-<em>SGCZ</em> and <em>BTG3</em>-<em>CCDC40</em>); and genome-wide copy-number variations and microsatellite instability have also been identified in SCNECs of the gallbladder {28040546}.</p>\r\n",
+        "timestamp": "2019-03-11T11:43:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 55080,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 207,
+        "headingText": "\r\n<p>NETs are usually small (generally &lt;&nbsp;2&nbsp;cm), greyish-white or yellow submucosal nodules [[Albores-Saavedra J, Henson DE, Klimstra DS. Tumors of the gallbladder, extrahepatic bile ducts, and Vaterian system. Washington, DC: American Registry of Pathology; 2015. (AFIP atlas of tumor pathology, series 4; fascicle 23).]] {15362737; 18332605; 17660084}. Tumours are pedunculated {10521965; 18332605} or polypoid, mimicking papillary bile duct neoplasms {16001626; 17227590}. Multifocality has been rarely reported {14560997}.</p>\r\n",
+        "timestamp": "2019-03-11T11:43:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 55081,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 169,
+        "headingText": "<p>Tumours appear nodular {8311660}, often have a substantial polypoid component {11020854; 14629756; 2648878}, and tend to be associated with an intraepithelial papillary neoplasm {22895264} [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]] [[Muraki T, Pehlivanoglu B, Memis B, et al. Pancreatobiliary maljunction-associated gallbladder cancer is as common in the West as in the East, shows distinct clinicopathologic characteristics and offers an invaluable model for reflux-associated physio-chemical carcinogenesis [abstract]. Lab Invest. 2018 Mar;98(S1):670-94. Abstract no. 1903. Cited in: PubMed; PMID 29551802.]]. These neoplasms can be quite large and may extensively involve the duct system and invade the liver and adjacent tissues {11342770; 18580314}.</p>\r\n<p>NET tumour cells are arranged in nests, trabeculae, and occasionally tubules {12725316}; they have uniform round to oval nuclei, inconspicuous nucleoli, and a fair amount of cytoplasm on cytology {25689921}.</p>\r\n<p>Tumour cells are immunoreactive for synaptophysin {11075851}, chromogranin&nbsp;A {1877530; 2804054}, and keratins {11688471}, as well as hormones to a variable degree {1877530; 11075851; 10095161; 12741904}. Clear cell NETs of the gallbladder are characterized by foamy non-glycogenated, non-mucinous cytoplasm. Some clear cell NETs are associated with VHL {12741904; 11688471; 17227590}. NENs associated with VHL may be positive for inhibin, unlike sporadic cases {12741904; 17227590}.</p>\r\n<p>NECs encompass small cell and large cell subtypes as defined in the lungs [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]] {26208508; 14629756; 11342770}. Small cell carcinomas are composed of moulded round or fusiform cells with hyperchromatic nuclei and inconspicuous nucleoli, arranged in sheets, nests, cords, and festoons [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]] {25689921}. Rosette-like structures and tubules are occasionally present. Large cell NEC (LCNEC) displays organoid growth with rosette formation and is composed of large, monotonous or pleomorphic cells with vesicular nuclei, prominent nucleoli, and variable amounts of cytoplasm {16845291; 11023106; 25689921}. NECs show a characteristically high proliferation index, with brisk mitotic activity and single-cell and confluent necrosis [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]] {26208508}. Occasionally, tumour giant cells are observed [[Albores-Saavedra J, Henson DE, Klimstra DS. Tumors of the gallbladder, extrahepatic bile ducts, and Vaterian system. Washington, DC: American Registry of Pathology; 2015. (AFIP atlas of tumor pathology, series 4; fascicle 23).]] [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]] {11342770}. NEC shows diffuse positivity for epithelial markers (AE1/AE3) and variable positivity for neuroendocrine markers (synaptophysin staining is often diffuse and strong, and chromogranin&nbsp;A staining is often patchy) [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]]. Overexpression of p53 and loss of RB1 are common findings {12692194}. TTF1 staining may be seen, particularly in SCNEC. Loss of ATRX or DAXX is uncommon [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]].</p>\r\n<p>More than a third of NECs are accompanied by an adenocarcinoma component (mixed neuroendocrine&ndash;non-neuroendocrine neoplasm [MiNEN]) {29435905; 26208508; 25689921}. The presence and extent of the NEC component should be acknowledged, because this component is the primary driver of behaviour and clinical management {29435905; 26208508}.</p>",
+        "timestamp": "2019-04-29T12:10:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 55082,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 170,
+        "headingText": "\r\n<p>NENs of the gallbladder and bile ducts are seldom aspirated, because of the inaccessibility of these sites and the rarity of these tumours. Their cytological characteristics are similar to those in other organs {25689921}. In NECs, moulding, smudge cells, and high cellular turnover (due to mitotic activity, necrosis, and apoptosis) are common.</p>\r\n",
+        "timestamp": "2019-03-11T11:43:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 55083,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 171,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-03-11T11:43:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 55084,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 174,
+        "headingText": "\r\n<p>The diagnostic criteria are similar to those of NETs and NECs elsewhere in the GI tract.</p>\r\n",
+        "timestamp": "2019-03-11T11:43:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 55085,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 172,
+        "headingText": "<p>NENs of the gallbladder and bile ducts are generally staged like other gallbladder carcinomas.</p>",
+        "timestamp": "2019-04-29T12:11:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 55086,
+        "bookId": 31,
+        "chapterId": 157,
+        "headingId": 173,
+        "headingText": "\r\n<p>The data on prognosis of NETs of the gallbladder and bile ducts is highly limited because of the rarity of these tumours; however, their prognosis seems to be similar to that of NETs in the GI tract. Metastases and locally invasive progression can occur {1877530; 1661701; 17349570}. The risk of malignant behaviour largely depends on tumour size [[Albores-Saavedra J, Henson DE, Klimstra DS. Tumors of the gallbladder, extrahepatic bile ducts, and Vaterian system. Washington, DC: American Registry of Pathology; 2015. (AFIP atlas of tumor pathology, series 4; fascicle 23).]]. NETs &gt;&nbsp;2&nbsp;cm often extend into the liver and/or metastasize {15362737}. Approximately one&nbsp;third of patients with bile duct NETs exhibit metastases at diagnosis {15362737}. Aggressive surgical therapy offers the only chance for cure and should be considered whenever possible {18274439; 19417172; 15599742}. In one study analysing a national database, the 10-year survival rates were 36% for gallbladder NETs and 80% for EHBD NETs {19917473}.</p>\r\n<p>NECs have a poor prognosis {16845291; 26208508}. More than half of all patients have disseminated disease at diagnosis [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]] {26208508; 11813580}. SCNEC appears to be highly responsive to cisplatinum-based chemotherapy as well as radiotherapy, and survival times of &gt;&nbsp;1&nbsp;year have been reported by some, using regimens similar to those for small cell carcinoma of lung {11813580}. The median survival time is &lt;&nbsp;1&nbsp;year {26208508}, and the 5-year and 10-year survival rates are 20% and 0%, respectively [[Reid MD, Roa JC, Memis B, et al. Neuroendocrine neoplasms of the gallbladder. An immunohistochemical and clinicopathologic analysis of 29 cases [abstract]. Mod Pathol. 2017 Feb;30(S2):157-210. Abstract no. 784. Cited in: PubMed; PMID 28134903.]] {26823665; 26208508; 19917473}.</p>",
+        "timestamp": "2019-03-11T11:43:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

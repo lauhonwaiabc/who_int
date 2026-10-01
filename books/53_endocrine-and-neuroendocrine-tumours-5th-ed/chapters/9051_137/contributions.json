@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123601,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 607,
+        "headingText": "\r\n<p>Rhabdomyosarcomas are a group of malignant mesenchymal tumours with skeletal muscle differentiation.</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123602,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 608,
+        "headingText": "\r\n<p>8900/3 Rhabdomyosarcoma, NOS</p>\r\n<p>8910/3 Embryonal rhabdomyosarcoma</p>\r\n<p>8920/3 Alveolar rhabdomyosarcoma</p>\r\n<p>8901/3 Pleomorphic rhabdomyosarcoma</p>\r\n<p>8912/3 Spindle cell / sclerosing rhabdomyosarcoma</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123603,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 609,
+        "headingText": "\r\n<p>2D12.Y &amp; XH0GA1 Other specified malignant neoplasms of other endocrine glands or related structures &amp; Rhabdomyosarcoma, NOS</p>\r\n<p>2B55.Z &amp; XH83G1 Rhabdomyosarcoma, unspecified primary site &amp; Embryonal rhabdomyosarcoma, NOS</p>\r\n<p>2B55.Z &amp; XH7099 Rhabdomyosarcoma, unspecified primary site &amp; Alveolar rhabdomyosarcoma</p>\r\n<p>2B55.Z &amp; XH5SX9 Rhabdomyosarcoma, unspecified primary site &amp; Pleomorphic rhabdomyosarcoma, NOS</p>\r\n<p>2B55.Z &amp; XH7NM2 Rhabdomyosarcoma, unspecified primary site &amp; Spindle cell rhabdomyosarcoma</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123604,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Not recommended:</em> myosarcoma; malignant rhabdomyoma.</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123605,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 611,
+        "headingText": "\r\n<p>Embryonal rhabdomyosarcoma (ERMS); alveolar rhabdomyosarcoma (ARMS); pleomorphic rhabdomyosarcoma; spindle cell&nbsp;/ sclerosing rhabdomyosarcoma (SCSRMS)</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123606,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 612,
+        "headingText": "\r\n<p>Rhabdomyosarcoma has been reported arising as a primary tumour in the pituitary {16239205; 18037040; 26462864; 27422470}, adrenal {21412240; 23480948; 24348835} and thyroid glands {6870584; 15656963; 22642938; 23625578; 27595524}, and (rarely) in the pancreas {15332041; 19231522; 26092712}.</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123607,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 613,
+        "headingText": "\r\n<p>Rhabdomyosarcoma arising at endocrine sites is reported in both adult and paediatric populations. Patients with tumours may present with palpable masses (e.g. anterior neck&nbsp;/ thyroid) or mass effect symptoms (e.g. visual disorders or headache from pituitary primary tumours, hypertension from adrenal tumours, or epigastric pain from pancreatic tumours) {15332041; 23480948; 32785833}. Rhabdomyosarcomas at endocrine sites are infrequently associated with prior irradiation {16239205}.</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123608,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 614,
+        "headingText": "\r\n<p>Rhabdomyosarcoma is extremely rare within endocrine organ sites. In several reports, rhabdomyosarcoma coexisted with another endocrine tumour (e.g. pituitary neuroendocrine tumour [PitNET]) {22343339; 26462864; 27422470}. More commonly, however, rhabdomyosarcoma may present synchronously or metachronously with other endocrine tumours in some cancer predisposition syndromes. For instance, Li&ndash;Fraumeni syndrome (<em>TP53</em> mutations) is associated with rhabdomyosarcoma and adrenal cortical carcinoma, and <em>DICER1</em> syndrome is associated with rhabdomyosarcoma of the uterine cervix in addition to thyroid nodules or pituitary blastoma {29395683; 32539319; 32682898}.</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123609,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 615,
+        "headingText": "\r\n<p>ERMS is associated with radiation and several tumour predisposition syndromes, including Li&ndash;Fraumeni syndrome (associated with an inactivating mutation of <em>TP53</em>), Costello syndrome (also called faciocutaneoskeletal syndrome; <em>HRAS</em> mutation), neurofibromatosis type&nbsp;1 (inactivating mutation of one allele of <em>NF1</em>), and Beckwith&ndash;Wiedemann syndrome (mutation or deletion of the 11p15.5 chromosomal region) {20186103; 27345568; 27617148; 31697451; 33372952}. Such associations are not reported for other rhabdomyosarcoma subtypes.</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123610,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 616,
+        "headingText": "\r\n<p>ARMS harbours a <em>PAX3/7</em>::<em>FOXO1</em> fusion in most tumours {8098985; 8187070; 8275086}. PAX3 and PAX7 are transcription factors with essential roles in myogenesis {26424495}, with fusion proteins activating many downstream target genes, including <em>MET</em>, <em>ALK</em>, <em>MYCN</em>, and <em>MYOD1</em>, among others {8643596; 15688035; 20663909; 28446439; 30617281}. Less common fusions include <em>PAX3</em> with <em>FOXO4</em>, <em>NCOA1</em>, and <em>FGFR1</em> {12183429; 19953635; 21666686; 24436047}. SCSRMS separates into three genetic groups: <em>NCOA2</em>::<em>VGLL2</em> rearrangement; <em>MYOD1</em> mutation; and no identifiable genetic alteration {23463663; 30181563}. Skull/mandibular intraosseous SCSRMS shows <em>EWSR1</em>::<em>FUS-TFCP2</em> {33382123}. As many as 50% of ERMS cases have RAS pathway mutations {30617281}.</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123611,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 623,
+        "headingText": "\r\n<p>Rhabdomyosarcoma is soft, fleshy, and grey, with variable amounts of fibrous tissue and occasional necrotic areas and haemorrhage. Deep-seated tumours commonly infiltrate surrounding tissues.</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123612,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 617,
+        "headingText": "<p>ERMS consists of primitive round to spindle cells, with scant cytoplasm and hyperchromatic nuclei. There may be scattered rhabdomyoblasts. Botryoid ERMS typically shows linear aggregates of tumour cells close to the mucosa (cambium layer), with a cellularity gradient {666648; 9724344; 17443282; 18985676; 26646016}.</p>\r\n<p>ARMS typically shows fibrovascular septa separating cellular nests of small monomorphic round cells with scant cytoplasm, which tend to coalesce in the centre and are dyscohesive at the periphery. The solid pattern lacks fibrovascular septa and forms sheets of tumour cells {16006807; 24113309; 25186315; 28521080; 28875443}.</p>\r\n<p>SCSRMS consists of a fasciculated proliferation of spindle cells with elongated nuclei and pale, indistinct cytoplasm, with interspersed spindled or polygonal rhabdomyoblasts with abundant, brightly eosinophilic cytoplasm {31950473}.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>The skeletal muscle&ndash;specific proteins myogenin (MYF4) and MYOD1 are variably expressed both within and between tumours, the proportion of positive cells reflecting the degree of differentiation {16861966}. Occasional expression of keratin, neuroendocrine markers, S100, and ALK may also be observed {2455782; 16006807; 18973919; 23307059; 28875443; 33382123}, informing a panel approach to avoid misdiagnosis.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>The major differential diagnoses depend on the pattern of tumour, and metastatic tumours must be excluded {18606509}. Fetal rhabdomyoma, dedifferentiated liposarcoma, malignant peripheral nerve sheath tumour with rhabdomyoblastic differentiation (formerly malignant triton tumour), Ewing sarcoma, haematolymphoid tumours, melanoma, carcinoma, and neuroendocrine tumours (NETs) must be actively excluded.</p>",
+        "timestamp": "2024-12-03T14:34:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123613,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 618,
+        "headingText": "\r\n<p>Smears are highly cellular, with primitive uniform round, spindled, and stellate cells with scattered rhabdomyoblasts, sometimes in a tigroid background {16680771; 17636492; 24599626}.</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123614,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 619,
+        "headingText": "\r\n<p><em>PAX3</em>::<em>FOXO1</em>, <em>PAX7</em>::<em>FOXO1</em>, or <em>NCOA2</em>::<em>VGLL2</em> rearrangement or <em>MYOD1</em> mutation can aid diagnosis.</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123615,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> for all rhabdomyosarcoma subtypes, a malignant skeletal muscle tumour showing:</p>\r\n\r\nERMS: primitive round to spindle cell morphology\r\nARMS: monomorphic, primitive-appearing round cells, usually dyscohesively arranged in a nested to solid pattern\r\nSCSRMS: spindled morphology with/without sclerotic collagenous matrix\r\n\r\n<p><em>Desirable (in selected cases):</em> rhabdomyoblasts; myogenin/MYOD1 immunohistochemistry; detection of supporting genetic alterations.</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123616,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 620,
+        "headingText": "\r\n<p>Rhabdomyosarcoma may be staged according to the site of origin, using the Union for International Cancer Control (UICC) system for soft tissue sarcomas, with the exception of head and neck tumours, which are excluded. In paediatric rhabdomyosarcoma, modified TNM staging (the Intergroup Rhabdomyosarcoma Study Group [IRSG] grouping system) is used. This system relies on the site of origin, with risk stratification based on favourable site (e.g. bile ducts, orbit, head and neck, or genitourinary tract [excluding bladder, prostate, or parameningeal]) or unfavourable (other) site. The IRSG grouping system is used for surgicopathological evaluation, including assessment of margins and residual disease {22378628}.</p>\r\n",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123617,
+        "bookId": 53,
+        "chapterId": 137,
+        "headingId": 621,
+        "headingText": "\r\n<p>Risk stratification predictive of outcome has been addressed with surgicopathological staging and fusion-based classification (IRSG grouping system) {24326270; 30373318; 30617281}. Overall, rhabdomyosarcomas are considered systemic diseases, with specific sites showing a relatively poor prognosis (5-year survival rate: 40&ndash;45%) {16025051; 22777866; 25186315; 28875443}. Age and tumour stage (most adult patients have stage&nbsp;IV disease at presentation) are the most important risk factors, with children and female patients having a better outcome than adults or male patients {23424037; 23743294; 31456361}. Patients with fusion-positive ARMS have a worse outcome than those with fusion-negative ARMS and ERMS, with a worse prognosis for <em>PAX3</em>::<em>FOXO1</em> versus <em>PAX7</em>::<em>FOXO1</em> fusions {20351326; 22447499; 22454413; 23526739; 24326270; 28035744; 30373318; 30617281; 31456361}. SCSRMS with <em>MYOD1</em> mutations has a poor prognosis, whereas infants with <em>VGLL2</em>::<em>NCOA2</em>-positive SCSRMS have an excellent outcome {26501226; 30181563}.</p>",
+        "timestamp": "2024-10-09T15:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

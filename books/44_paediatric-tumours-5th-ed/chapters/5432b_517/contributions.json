@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 106870,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 466,
+        "headingText": "\r\n<p>Giant cell tumour of bone (GCTB) is a locally aggressive, rarely metastasizing neoplasm composed of neoplastic mononuclear stromal cells admixed with macrophages and osteoclast-like giant cells.</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 106871,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 467,
+        "headingText": "\r\n<p>9250/1 Giant cell tumour of bone, NOS</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 106872,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 468,
+        "headingText": "\r\n<p>2F7B &amp; XH4TC2 Neoplasms of uncertain behaviour of bone or articular cartilage &amp; Giant cell tumour of bone, NOS</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 106873,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> benign fibrous histiocytoma; osteoclastoma.</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 106874,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 106875,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 471,
+        "headingText": "\r\n<p>GCTB affects the ends of long bones (distal femur, proximal tibia, distal radius, proximal humerus) in the mature skeleton, and occasionally the metaphysis {28505000; 27526293}, particularly in skeletally immature individuals. GCTB in the axial skeleton arises most commonly in the sacrum and vertebral body {8421014; 21045974}.</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 106876,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 472,
+        "headingText": "\r\n<p>GCTB manifests with pain, swelling, and occasionally restricted joint movement, lasting weeks to months {3805057}.</p>\r\n<h5>Imaging</h5>\r\n<p>GCTB is typically lytic and eccentric and extends to the articular cartilage {3514036}. The lesion shows a narrow zone of transition, with a well-defined, non-sclerotic border, and no matrix mineralization. Periosteal reaction is unusual and may indicate a pathological fracture {9714386}.</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 106877,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 473,
+        "headingText": "\r\n<p>GCTB represents 4&ndash;5% of all primary bone tumours and 20% of benign bone tumours {27060625; 30148063; 29987945}. Although the peak incidence is between the ages of 20&nbsp;and 45&nbsp;years, approximately 10% of cases occur in the second decade of life {27526293}. A slight female predominance is reported.</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 106878,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 474,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 106879,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 475,
+        "headingText": "\r\n<p>Neoplastic stromal cells are of osteoblastic lineage and express preosteoblast and osteoblast markers (alkaline phosphatase, RUNX2, SP7 transcription factor, SATB2) {28477388}. An osteoclast-like growth factor might suppress stromal cell differentiation, resulting in proliferation. About 95% of GCTBs harbour pathogenic <em>H3-3A</em> (<em>H3F3A</em>) gene mutations, of which 90% are <em>H3-3A</em>:c.103G&gt;T p.G35W (G34W) {24162739; 28505000; 28545165; 29241742}. Owing to early cleavage of the N-terminal methionine in most histones, the legacy description of histone sequence alterations follows its own nomenclature and differs from Human Genome Variation Society (HGVS)-compliant numbering by omitting this first amino acid {33779999}.</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 106880,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 482,
+        "headingText": "\r\n<p>GCTB is well defined and eccentrically located within the end of a long bone, which is typically asymmetrically expanded. The surrounding cortex is often thinned and in areas may be focally destroyed, but it is generally contained by the periosteum. The lesion rarely penetrates the articular cavity. Tumours have a soft, friable, tan-red, haemorrhagic appearance. Areas of haemorrhage and blood-filled cystic spaces corresponding to aneurysmal changes may be seen.</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 106881,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 476,
+        "headingText": "\r\n<p>GCTB is a highly cellular lesion dominated by numerous non-neoplastic, osteoclast-like giant cells with intermingled mononuclear cells. The giant cells have a variable number of nuclei, some with &gt;&nbsp;50 per cell. The neoplastic mononuclear cells have a variety of morphological appearances, including round to oval cells in a non-fibrotic background and spindled cells associated with a fibrous matrix. Atypical mitoses should raise suspicion for malignancy. Extensive necrosis, haemorrhage, haemosiderin deposition, aneurysmal change, collections of foamy macrophages, and reactive/reparative fibrous tissue can be present. Exceptionally, an otherwise typical giant cell tumour contains benign-appearing hyaline cartilaginous nodules {28059095; 27526293}. Degenerative (symplastic) change in the form of marked nuclear pleomorphism, smudged nuclear chromatin, and nuclear pseudoinclusions can be seen in a small subset of cases {27020452; 15365783}. Vascular invasion may be present, especially after previous curettage {26730686; 24162739; 3056645}. The malignant component of a GCTB is nonspecific and may be either an undifferentiated sarcoma or an osteosarcoma with telangiectatic or osteoblastic features {28505000; 3745247; 2554283}.</p>\r\n<p>GCTBs treated with denosumab for several months show substantial new bone formation, associated with bland neoplastic mutant spindle cells and depletion of osteoclast-like giant cells {22711702; 26338802; 29241742; 29206281; 31651524}.</p>\r\n<p>Histone H3 G34W immunohistochemistry is a reliable surrogate marker for underlying <em>H3-3A</em>:c.103G&gt;T p.G35W (G34W) mutation {28505000; 29241742; 33779999}.</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 106882,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 106883,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 478,
+        "headingText": "\r\n<p><em>H3-3A</em> gene mutation is detected in the neoplastic stromal cells in about 96% of GCTBs {28505000; 24162739; 28545165; 26457357; 28059095; 29241742}; 90% of these are the <em>H3-3A</em>:c.103G&gt;T p.G35W (G34W) mutation.</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 106884,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> compatible imaging; an osteolytic circumscribed tumour involving the epiphysis, generally in a skeletally mature individual; numerous large osteoclasts with a mononuclear cell neoplastic component without atypia.</p>\r\n<p><em>Desirable:</em> detection of <em>H3-3A</em>:c.103G&gt;T p.G35W (G34W)&ndash;mutated cells.</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 106885,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 106886,
+        "bookId": 44,
+        "chapterId": 517,
+        "headingId": 480,
+        "headingText": "\r\n<p>The recurrence rate after curettage in paediatric GCTB is reported to be lower than or similar to that in the adult population (31% in a recent study); recurrence is usually within 2&nbsp;years {27526293}. Lung metastases occur in 2&ndash;4% of cases {20012988; 26730686; 28650536}. Unresectable GCTBs are treated with the RANK ligand inhibitor, denosumab. The prognosis for patients with secondary malignant GCTB is similar to that for patients with a high-grade sarcoma and appears to be worse than that for patients with primary malignant GCTB {12733152; 19902306}.</p>",
+        "timestamp": "2023-03-15T15:53:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

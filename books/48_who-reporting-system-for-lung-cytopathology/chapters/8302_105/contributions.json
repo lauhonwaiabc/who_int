@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 656,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 676,
+    "contributions": [
+      {
+        "pkcontributionId": 93903,
+        "bookId": 48,
+        "chapterId": 105,
+        "headingId": 676,
+        "headingText": "\r\n<p>Langerhans cell histiocytosis (LCH) is a clonal neoplasm of myeloid dendritic cells expressing a Langerhans cell phenotype (positive for CD1a and CD207) occurring in the lung interstitium.</p>\r\n",
+        "timestamp": "2022-11-22T09:51:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 657,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 677,
+    "contributions": [
+      {
+        "pkcontributionId": 93904,
+        "bookId": 48,
+        "chapterId": 105,
+        "headingId": 677,
+        "headingText": "\r\n<p>LCH affects both sexes equally, presenting in patients aged 18&ndash;70&nbsp;years (mean: 40&nbsp;years). LCH is mostly seen in smokers {33763431}. If it presents in the lungs in adults, only 15% of cases are associated with extrapulmonary involvement, whereas the disseminated type of LCH can involve the lungs in paediatric cases. Patients may present with pulmonary symptoms including cough, shortness of breath, or chest pain, or with systemic symptoms including fever, weight loss, and malaise. Occasionally patients develop pleural effusions. Pulmonary function tests are abnormal in 85% of cases, with evidence of restrictive deficits, obstructive deficits, mixed restrictive/obstructive deficits, and isolated decreased diffusing capacity.</p>\r\n<p>CXR show interstitial lung disease. CT scans show bilateral nodules, or nodules with cystic changes with a predilection for the mid and upper lung zones {15143231}.</p>\r\n<p>The prognosis is generally good, but a subset of patients develop pulmonary insufficiency due to subsequent fibrosis and cystic change.</p>\r\n",
+        "timestamp": "2022-11-22T09:51:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 658,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 678,
+    "contributions": [
+      {
+        "pkcontributionId": 93905,
+        "bookId": 48,
+        "chapterId": 105,
+        "headingId": 678,
+        "headingText": "<p >LCH nodules show a highly cellular proliferation of Langerhans cells around small airways, primarily bronchioles and alveolar ducts. Langerhans cells are large, with pale eosinophilic cytoplasm and with nuclei that show prominent folding of the nuclear membrane. Interspersed eosinophils and pigmented alveolar macrophages are common.</p>",
+        "timestamp": "2022-11-22T09:52:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 659,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 679,
+    "contributions": [
+      {
+        "pkcontributionId": 93906,
+        "bookId": 48,
+        "chapterId": 105,
+        "headingId": 679,
+        "headingText": "<ul>\r\n<li>Moderate to high cellularity</li>\r\n<li>Dispersed Langerhans cells characterized by their large size; abundant finely granular, delicate cytoplasm; and elongated pale nuclei with plentiful nuclear grooves and folded nuclear membrane</li>\r\n<li>Langerhans cells may be variable in size, with anisonucleosis, binucleation, and multinucleation</li>\r\n<li>Plentiful eosinophils admixed with other inflammatory cells, including lymphocytes, in the background</li>\r\n<li>No evidence of phagocytosis</li>\r\n<li>Charcot&ndash;Leyden crystals may occasionally be seen</li>\r\n</ul>",
+        "timestamp": "2022-11-22T09:52:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 660,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 680,
+    "contributions": [
+      {
+        "pkcontributionId": 93907,
+        "bookId": 48,
+        "chapterId": 105,
+        "headingId": 680,
+        "headingText": "<p>Hodgkin lymphoma is the most important differential diagnosis from LCH, because both have large cells in a mixed inflammatory cell background. However, Langerhans cells are large, with abundant clear to finely granular cytoplasm, nuclear grooves, and folded nuclear membrane. Reed&ndash;Sternberg cells in Hodgkin lymphoma are characterized by abundant cytoplasm, large twin nuclei, fine chromatin, and prominent large single nucleoli in each nucleus. Eosinophils in LCH are more abundant than in Hodgkin disease, which usually shows more abundant lymphocytes {32279297}.</p>",
+        "timestamp": "2022-11-22T09:52:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 661,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 681,
+    "contributions": [
+      {
+        "pkcontributionId": 93908,
+        "bookId": 48,
+        "chapterId": 105,
+        "headingId": 681,
+        "headingText": "<p>Langerhans cells are characterized by the expression of CD1a, CD207, and S100 by ICC and Birbeck granules by electron microscopy. Hodgkin and Reed&ndash;Sternberg cells are positive for CD30 and (in most cases) CD15. In bronchoalveolar lavage (BAL), &gt;&nbsp;5% of cells must be positive for CD1a to make the diagnosis.</p>",
+        "timestamp": "2023-01-10T16:35:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

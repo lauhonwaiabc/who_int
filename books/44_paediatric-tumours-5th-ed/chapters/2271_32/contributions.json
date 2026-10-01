@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 103765,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 466,
+        "headingText": "\r\n<p>Mastocytosis is a group of conditions caused by clonal proliferation of mast cells, which accumulate in various organs/tissues. In children, the skin is the primarily affected site and may be the only organ involved. Systemic mastocytosis is assumed to be rare in children, but the true incidence of systemic involvement in children with skin lesions is unknown.</p>\r\n",
+        "timestamp": "2022-07-12T12:55:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 103766,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 467,
+        "headingText": "\r\n<p>9740/1 Cutaneous mastocytosis</p>\r\n<p>9741/1 Indolent systemic mastocytosis</p>\r\n<p>9741/3 Aggressive systemic mastocytosis</p>\r\n<p>9742/3 Mast cell leukaemia</p>\r\n<p>9740/3 Mast cell sarcoma</p>\r\n<p>9741/3 Systemic mastocytosis with an associated haematological neoplasm</p>\r\n",
+        "timestamp": "2022-07-12T12:55:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 103767,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A21.Z Mastocytosis, unspecified</p>\r\n<p>2A21.1Y Other specified cutaneous mastocytosis</p>\r\n<p>2A21.00 Mast cell leukaemia</p>\r\n<p>2A21.2 Mast cell sarcoma</p>\r\n<p>2A21.0Z Systemic mastocytosis, unspecified</p>\r\n<p>2A21.0Y Other specified systemic mastocytosis</p>\r\n",
+        "timestamp": "2022-07-12T12:55:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 103768,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> systemic mast cell disease; urticaria pigmentosa.</p>\r\n",
+        "timestamp": "2022-07-12T12:55:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 103769,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 470,
+        "headingText": "<p>Cutaneous mastocytosis; systemic mastocytosis; mast cell sarcoma</p>\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/44/32/21571\" target=\"_blank\">#21571</a>Box&nbsp;2.03 .</p>",
+        "timestamp": "2023-03-24T17:27:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 103770,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 471,
+        "headingText": "<p>The localization of skin lesions depends on the subtype {26476479; 26152315}. In patients with maculopapular cutaneous mastocytosis (MPCM), lesions favour the trunk and proximal extremities. In the polymorphic form of MPCM, the lesions can be widespread and involve the extremities, head, and neck. The palms, soles, and central face are usually spared. In diffuse cutaneous mastocytosis (DCM), there is erythroderma and diffuse involvement of the skin of the whole body. Mastocytomas may occur anywhere in the skin.</p>\r\n<p>Systemic mastocytosis in children most commonly involves the bone marrow. All parts of the gastrointestinal tract, as well as the spleen, liver, lymph nodes, and kidneys, may also be affected {32831156}. Mast cell sarcoma may arise in a broad spectrum of anatomical locations {23196796}.</p>",
+        "timestamp": "2023-05-09T15:19:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 103771,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 472,
+        "headingText": "<h5>Skin manifestations</h5>\r\n<p>Cutaneous involvement is the presenting sign in most cases of childhood mastocytosis. Swelling, reddening, pruritus, or blistering can occur when mast cells are activated, usually by stroking (Darier sign) or temperature changes. The classification of skin lesions in mastocytosis is based on the number of lesions and morphological features.</p>\r\n<p><em>Maculopapular cutaneous mastocytosis (MPCM):</em> Two clinical forms occur in children {26476479}. The polymorphic form, which is the more common, is so named because of the heterogeneous shape, size, margination, and degree of confluence of the lesions; it is characterized by brown, yellow, or pale red papules, plaques, and/or nodules. The monomorphic form is less frequent and is characterized by small, round, and pigmented macules and papules, thus resembling MPCM seen in adults.</p>\r\n<p><em>Diffuse cutaneous mastocytosis (DCM):</em> DCM manifests as a generalized distribution of erythematous, thickened skin, with a leathery texture {22092511}. Massive mast cell mediator release causes dermographism, blistering (sometimes haemorrhagic), flushing, and gastrointestinal symptoms, as well as potentially fatal complications such as severe mast cell mediator release symptoms, electrolyte imbalances, and gastrointestinal bleeding.</p>\r\n<p><em>Mastocytoma:</em> Solitary lesions of mastocytosis are named mastocytomas. This term is also used for cases in which the patient has &le;&nbsp;3&nbsp;skin lesions, but this figure is arbitrary. They often appear as yellow to brown papules, nodules, or plaques, often with a leathery texture and a diameter as large as 50&nbsp;mm {26525106}, or (less frequently) as small, isolated, pigmented macules. After gentle rubbing, mastocytomas readily weal and blister, and mast cell degranulation occasionally results in flushing and hypotension.</p>\r\n<h5>Systemic involvement</h5>\r\n<p>Systemic signs of mastocytosis may be related to organ infiltration or to mast cell degranulation. Organ infiltration is very rare in children; bone marrow involvement, if present, is usually not clinically relevant. Systemic symptoms originating from mast cell mediator release include flushing, headache, attention deficit hyperactivity disorder (ADHD), nausea, vomiting, diarrhoea,&nbsp; abdominal pain, and cramping. These are more frequently seen in children with extensive skin involvement, regardless of the demonstration of systemic mastocytosis. Children with hepatosplenomegaly are more likely to have systemic disease {26044856}.</p>\r\n<p>Baseline serum tryptase level is a marker for the extent of mast cell disease {22458675}. Serum tryptase levels &gt;&nbsp;20&nbsp;ng/mL are a minor criterion for diagnosing systemic mastocytosis, but most children with elevated tryptase levels have disease limited to the skin, and elevated tryptase is not a reliable marker for systemic mastocytosis {26044856}. Tryptase levels are not always elevated in patients with severe mast cell mediator&ndash;related symptoms.</p>\r\n<p>Somatic <em>KIT</em> p.D816V mutations were detected in peripheral blood in 21&nbsp;(75%) of 28&nbsp;children with systemic mastocytosis, but not in children with only cutaneous disease {30488427}.</p>",
+        "timestamp": "2023-05-09T15:23:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 103772,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 473,
+        "headingText": "\r\n<p>Mastocytosis is more common in children than in adults, but the real incidence and prevalence of paediatric mastocytosis is unknown. It has been estimated that mastocytosis accounts for &lt;&nbsp;1% of all skin diseases in childhood. There is a male predilection (M:F&nbsp;ratio: 1.4:1) {25662299}. The most common type of mastocytosis in children is MPCM, followed by mastocytoma and then DCM. The polymorphic form of MPCM most often manifests during the first 6&nbsp;months of life {26152315}, but it is not commonly seen at birth. Less frequently, mastocytosis onset occurs in patients aged 2&ndash;15&nbsp;years, with &gt;&nbsp;50% of such cases belonging to the monomorphic from of MPCM. It is therefore likely that cases of typical adult mastocytosis had their onset in childhood or adolescence. Mastocytomas and DCM usually develop within the first months of life and are frequently congenital {26525106; 25662299}. Familial aggregation has been reported in 4% of cases of paediatric cutaneous mastocytosis {25662299}.</p>\r\n",
+        "timestamp": "2022-07-12T12:55:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 103773,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 474,
+        "headingText": "\r\n<p>Somatic activating mutations in the <em>KIT</em> gene are the cause of mastocytosis {9990072}. The <em>KIT</em> p.D816V mutation, in the second catalytic domain in exon&nbsp;17, is present in &gt;&nbsp;80% of adult cases and in 35&ndash;40% of childhood cases {16741248; 12598308}. A high frequency (35&ndash;40%) of <em>KIT</em> mutations in exons&nbsp;8&ndash;11 is observed in paediatric mastocytosis, although in 15&ndash;20% of children no mutation can be detected {19865100}. Germline <em>KIT</em> mutations have been reported in familial forms of mastocytosis {16183119}. It is not known whether other mutations found in adult advanced mastocytosis play a role in childhood mastocytosis {26158763}.</p>\r\n",
+        "timestamp": "2022-07-12T12:55:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 103774,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 475,
+        "headingText": "\r\n<p>All mutations in the <em>KIT</em> gene related to mastocytosis cause constitutional, ligand-independent hyperactivation of the KIT protein {26158763}. Downstream mediators of oncogenic <em>KIT</em> p.D816V signalling include PI3K, STAT5, NF-&kappa;B, mTORC2, and PKC&delta;. They induce proliferation and increased growth and survival of mast cells, thus leading to a pathological accumulation of neoplastic mast cells in the skin and other organs.</p>\r\n",
+        "timestamp": "2022-07-12T12:55:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 103775,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 482,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-07-12T12:55:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 103776,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 476,
+        "headingText": "<p>Skin biopsies show variable increased numbers of mast cells in the dermis {10224380; 3170991; 26476479; 11377676}. Mast cells can be loosely scattered throughout the dermis, forming groups or small clusters in the perivascular and periadnexal spaces, or they can be organized in larger compact nodular infiltrates. Mast cells are particularly numerous in DCM and mastocytomas. The infiltrating mast cells may be round or spindle-shaped {26476479; 11377676}. Increased numbers of mast cells showing striking nuclear pleomorphism with bilobed and multilobed nuclei (promastocytes) are seen in some cases; this finding does not seem to represent a malignant phenotype in children with cutaneous mastocytosis {30252695}. Eosinophils are frequently observed intermixed with the mast cells. The epidermis may be hyperpigmented in MPCM and DCM, but usually not in mastocytoma. Dilated capillaries are seen in the papillary dermis in some cases.</p>\r\n<p>Multifocal dense infiltrates of mast cells (&gt;&nbsp;15&nbsp;mast cells in aggregates) are detected in sections of bone marrow and/or other extracutaneous organs in systemic mastocytosis cases. A variable proportion of infiltrating mast cells are spindle-shaped or show atypical morphology, except in well-differentiated cases. Diagnostic criteria for systemic mastocytosis are listed in <a style=\"cursor:pointer\" href=\"/attachment/44/32/21572\" target=\"_blank\">#21572</a>Box&nbsp;2.04 .</p>\r\n<p>KIT (CD117) and mast cell tryptase immunohistochemistry is recommended to best recognize the infiltrating mast cells, but tryptase expression is typically dim to negative in systemic mastocytosis involving the gastrointestinal tract {24618605}. Aberrant expression of CD2, CD25, or CD30 {26486787; 9531582; 18162781; 25402852; 24111625; 21186345; 29794740} supports the diagnosis of mastocytosis. Expression of these markers is not specific to any particular form of mastocytosis.</p>\r\n<p>Well-differentiated mastocytosis is a morphological form that can be seen in almost any mastocytosis subtype {16505282; 26100086}. It is characterized by round and well-granulated mast cells lacking CD25 and CD2, but frequently expressing CD30. Most cases of well-differentiated mastocytosis do not carry a <em>KIT</em> c.2447A&gt;T (p.D816V) mutation {27741105; 22370312}.</p>\r\n<p>Mast cell infiltrates in mast cell sarcoma are often highly anaplastic, bearing little resemblance to their normal counterpart. Immunohistochemical demonstration of tryptase and KIT (CD117) is critical {11377686; 24745677}.</p>",
+        "timestamp": "2023-05-09T15:46:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 103777,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 477,
+        "headingText": "<p>Cytological preparations obtained from bone marrow aspiration of systemic mastocytosis typically show small numbers of neoplastic mast cells, except in the rare case of mast cell leukaemia where mast cells constitute &gt;&nbsp;20% of nucleated cells in bone marrow or peripheral blood. Neoplastic mast cells may be spindle-shaped, immature (including promastocytes and metachromatic blasts), or well differentiated. Although well-differentiated mast cells resemble normal or reactive mast cells with a round shape and well-granulated cytoplasm, they are larger than normal mast cells. In contrast, spindle-shaped and immature mast cells contain hypogranular cytoplasm, with the former showing elongated cytoplasmic projections and the latter being round in shape with smooth chromatin resembling blasts (e.g. metachromatic blasts) or indented and bilobed nuclei (e.g. promastocytes).</p>",
+        "timestamp": "2023-05-09T15:47:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 103778,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 478,
+        "headingText": "<p>Detection of an activating point mutation at codon&nbsp;816 of <em>KIT</em> in the bone marrow, blood, or another extracutaneous organ is a minor criterion for systemic mastocytosis. <em>KIT</em> mutation analysis is not usually performed in skin biopsies, but the demonstration of <em>KIT</em> mutations can help in difficult cases. A highly sensitive PCR method is required for the detection of the KIT p.D816 mutation in blood or in bone marrow with minimal involvement by mastocytosis {29237714; 21354053}. In bone marrow, detection of additional myeloid gene mutations is also recommended in selected cases, using a myeloid gene panel by next-generation sequencing.</p>",
+        "timestamp": "2023-05-09T15:47:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 103779,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 481,
+        "headingText": "<h5>Cutaneous mastocytosis</h5>\r\n<p><em>Essential:</em> skin lesions typical of mastocytosis; increased numbers of mast cells in biopsies of lesional skin (or other organs); immunoreactivity for KIT (CD117) and tryptase.</p>\r\n<p><em>Desirable:</em> demonstration of aberrant immunophenotype (CD2+, CD25+, or CD30+ mast cells); detection of <em>KIT</em> p.D816V mutation.</p>",
+        "timestamp": "2023-05-09T15:48:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 103780,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 479,
+        "headingText": "\r\n<p>Invasive staging tests are not routinely required in children with mastocytosis. If organomegaly or severe symptoms are present, bone marrow testing may be indicated, but the result will probably not alter disease management {30488427}. A bone marrow examination should be performed only in situations in which there is significant concern for the health of the child and the findings might change how the case is managed and how it evolves over time.</p>\r\n",
+        "timestamp": "2022-07-12T12:55:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 103781,
+        "bookId": 44,
+        "chapterId": 32,
+        "headingId": 480,
+        "headingText": "<p>Whereas in adult patients all mastocytosis lesions usually persist, cutaneous lesions in children often improve or resolve around puberty {29787623}. It has been suggested that regression occurs more frequently in children with polymorphic MPCM than in those with the monomorphic form. Despite a severe course in infancy, DCM most often resolves spontaneously, leaving normal-coloured, pebbly, pachydermic skin. Spontaneous resolution occurs in virtually all cases of mastocytoma.</p>\r\n<p>Life expectancy is usually not affected in children with mastocytosis. Anaphylaxis to Hymenoptera venom is rare in these children {28133781}. Rarely, DCM can be associated with severe anaphylaxis and a fatal outcome. Fatality has occurred in exceptional cases of massive cutaneous and systemic involvement. Well-differentiated systemic mastocytosis has prognostic and therapeutic implications because patients often respond to imatinib {27741105; 22370312}. <em>KIT</em> mutations are not correlated with cutaneous mastocytosis subtype or prognosis {29787623}.</p>",
+        "timestamp": "2023-05-09T15:48:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

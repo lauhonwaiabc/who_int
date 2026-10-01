@@ -1,0 +1,36 @@
+[
+  {
+    "pkroleId": 190,
+    "bookId": "85",
+    "roleid": 265,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2393,
+        "lastname": "Ellenson",
+        "firstname": "Lora Hedrick",
+        "initials": "",
+        "email": "",
+        "roleid": 265,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 192,
+    "bookId": "85",
+    "roleid": 291,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2377,
+        "lastname": "Soslow",
+        "firstname": "Robert A.",
+        "initials": "",
+        "email": "",
+        "roleid": 291,
+        "position": 0
+      }
+    ]
+  }
+]

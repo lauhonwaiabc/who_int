@@ -1,0 +1,47 @@
+[
+  {
+    "pkattachmentId": 79595,
+    "bookid": 87,
+    "chapterId": 302,
+    "fileId": 56004,
+    "type": "Figure",
+    "diagnosis": "SDH-deficient gastrointestinal stromal tumour",
+    "title": "",
+    "legend": "SDH-deficient gastrointestinal stromal tumours commonly demonstrate a multinodular, multilobulated, or plexiform growth pattern. Often lobules of tumour are separated by fibrous bands or non-neoplastic smooth muscle.",
+    "source": "Anthony J. Gill",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/87/302/56004.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/87/302/thumb_56004.jpg"
+  },
+  {
+    "pkattachmentId": 80003,
+    "bookid": 87,
+    "chapterId": 302,
+    "fileId": 56007,
+    "type": "WSI",
+    "diagnosis": "SDH Deficient GIST",
+    "title": "",
+    "legend": "SDHB IHC shows negative staining. It is emphasized that for SDHB immunohistochemistry to be considered interpretable there should be granular cytoplasmic expression in the non-neoplastic cells which act as internal postive controls",
+    "source": "",
+    "copyright": "Used in WHO GIT96",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/56007.dzi",
+    "thumbnail": null
+  },
+  {
+    "pkattachmentId": 80004,
+    "bookid": 87,
+    "chapterId": 302,
+    "fileId": 56008,
+    "type": "WSI",
+    "diagnosis": "SDH deficient GIST",
+    "title": "",
+    "legend": "Commonly demonstrate a multinodular, multilobulated or plexiform growth pattern. Often lobules of tumour are separate by fibrous bands or non-neoplastic smooth muscle. The tumour is&nbsp;composed predominantly of epithelioid cells within a rich capillary network.",
+    "source": "Anthony J. Gill",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/56008.dzi",
+    "thumbnail": null
+  }
+]

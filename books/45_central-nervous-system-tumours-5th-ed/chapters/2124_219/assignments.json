@@ -1,0 +1,97 @@
+[
+  {
+    "pkroleId": 93,
+    "bookId": "45",
+    "roleid": 130,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 3493,
+        "lastname": "Hawkins",
+        "firstname": "Cynthia E.",
+        "initials": "",
+        "email": "",
+        "roleid": 130,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 94,
+    "bookId": "45",
+    "roleid": 138,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2443,
+        "lastname": "Pfister",
+        "firstname": "Stefan M.",
+        "initials": "",
+        "email": "",
+        "roleid": 138,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 95,
+    "bookId": "45",
+    "roleid": 139,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3490,
+        "lastname": "Jacques",
+        "firstname": "Thomas S.",
+        "initials": "",
+        "email": "",
+        "roleid": 139,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 96,
+    "bookId": "45",
+    "roleid": 140,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3616,
+        "lastname": "Tabori",
+        "firstname": "Uri",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3629,
+        "lastname": "Varlet",
+        "firstname": "Pascale",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3660,
+        "lastname": "Bandopadhayay",
+        "firstname": "Pratiti",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3686,
+        "lastname": "Jones",
+        "firstname": "Chris",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 121979,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 607,
+        "headingText": "\r\n<p>Mammosomatotroph pituitary neuroendocrine tumour (PitNET)/adenoma is a well-differentiated PitNET composed of PIT1-lineage adenohypophysial cells with mammosomatotroph differentiation.</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 121980,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 608,
+        "headingText": "\r\n<p>8280/3 Mammosomatotroph PitNET/adenoma</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 121981,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 609,
+        "headingText": "\r\n<p>2D12.Y Other specified malignant neoplasms of other endocrine glands or related structures</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 121982,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> mammosomatotroph tumour.</p>\r\n<p><em>Not recommended:</em> growth hormone and prolactin&ndash;positive PitNET/adenoma; growth hormone and prolactin&ndash;producing PitNET/adenoma; growth hormone and prolactin&ndash;producing tumour/adenoma.</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 121983,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 611,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 121984,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 612,
+        "headingText": "\r\n<p>These tumours are located in the sellar region and show variable extension into adjacent structures, including but not limited to the cavernous sinuses {31368083}.</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 121985,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 613,
+        "headingText": "\r\n<p>With the exception of hyperprolactinaemia, mammosomatotroph tumours often show similar clinical features to densely granulated somatotroph tumours; they manifest with macrotumours and elevated growth hormone (GH)&nbsp;/ IGF1 levels {17047379; 31368083; 31766255}. Serum prolactin levels are often lower than in mixed lactotroph and somatotroph tumours {31368083}. Cystic changes may occur {32870441}. Patients with mammosomatotroph tumours are significantly less likely to present with abnormal glucose metabolism than those with pure somatotroph tumours, independent of GH/IGF1 levels or tumour invasiveness {24039977}.</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 121986,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 614,
+        "headingText": "\r\n<p>Mammosomatotroph tumours account for 1.1&ndash;2% of surgically resected PitNETs {17287410; 29434339} and represent about 7% of PIT1-lineage tumours {29434339}. These tumours are more frequent in young adults and children than other PitNETs {28849339; 31766255}. The median age at diagnosis is 44&nbsp;years, and there is no sex predilection {31368083}.</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 121987,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 615,
+        "headingText": "\r\n<p>The etiology is unknown, except for those associated with genetic syndromes {33433883; 33805450}. Mammosomatotroph tumours can occur in patients with Carney complex, familial isolated pituitary adenoma (FIPA; including patients positive for <em>AIP</em> mutation), X-linked acrogigantism, McCune&ndash;Albright syndrome, and multiple endocrine neoplasia type&nbsp;1 {33433883; 33805450}.</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 121988,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 616,
+        "headingText": "\r\n<p>Synchronous GH/prolactin-producing tumours were clustered together with somatotroph tumours in genomic studies where the distinction of mammosomatotroph tumour was not made {31883967}.</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 121989,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 623,
+        "headingText": "\r\n<p>These tumours are soft and white to grey.</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 121990,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 617,
+        "headingText": "<p>Mammosomatotroph tumours consist of a monomorphic population of cells with densely eosinophilic (acidophilic) cytoplasm packed with secretory granules containing both GH and prolactin. Ultrastructurally, these tumours show pleomorphic and heterogeneous secretory granules ranging from 150&nbsp;to 1000&nbsp;nm, and misplaced exocytosis [[Asa SL, Perry A. Tumors of the pituitary gland. Rockville (MD): American Registry of Pathology; 2020. (AFIP atlas of tumor and non-tumor pathology, series 5; fascicle 1).]].</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>These tumours are positive for PIT1, ER, GH, prolactin, and &alpha;-subunit, and negative for TSH, GATA3, TPIT, SF1 and other pituitary hormones {22697380; 26177314; 29434339; 29453601; 30390035; 34067494}. The extent of prolactin immunoreactivity is usually less than that of GH {17287410; 28766057}. CAM5.2 and CK18 typically show perinuclear staining {29434339; 33098891}. The Ki-67 labelling index is variable {31368083}.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>Acidophilic cytoplasm and coexpression of GH and prolactin in the same tumour cell distinguish mammosomatotroph tumours from mixed lactotroph and somatotroph tumours that are composed of two distinct tumour populations. Absence of TSH and/or GATA3 expression in mammosomatotroph tumours distinguishes these tumours from mature plurihormonal PIT1-lineage PitNETs. The cytomorphology and extent of PIT1-lineage hormone expression also distinguishes these tumours from immature plurihormonal PIT1-lineage PitNETs {26743473; 28766057; 32813227}. The lack of oncocytic cytomorphology, absence of cytoplasmic vacuoles, lack of fibrous bodies, and predominance of GH expression distinguish mammosomatotroph tumours from acidophil stem cell tumours {28766057}.</p>",
+        "timestamp": "2024-10-09T09:34:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 121991,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 618,
+        "headingText": "\r\n<p>Cytologically, these tumours are indistinguishable from densely granulated somatotroph tumours and mature plurihormonal PIT1-lineage tumours.</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 121992,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 619,
+        "headingText": "\r\n<p>Molecular testing is not required for the diagnosis of mammosomatotroph tumours. Germline screening should be considered on the basis of clinicopathological findings.</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 121993,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> PIT1 positivity and coexpression of GH and prolactin in the same tumour cell; monomorphic tumour cell population with acidophilic cytoplasm.</p>\r\n<p><em>Desirable:</em> ER and &alpha;-subunit expression; perinuclear CAM5.2 positivity.</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 121994,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 620,
+        "headingText": "\r\n<p>There is no formal staging system that has been universally applied for pituitary/sellar neoplasms. A CT-era approach based on tumour size and patterns of invasion was proposed in 1973 by Hardy [[Hardy J. Transsphenoidal surgery of hypersecreting pituitary tumours. In: Kohler PO, Ross GT, editors. Diagnosis and treatment of pituitary tumors. International Congress Series No. 303. Amsterdam (Netherlands): Exerpta Medica; 1973. pp. 179&ndash;98.]]. Subsequently, a standardized assessment of parasellar tumour extension based on MRI was published by Knosp in 1993 {8232800}.</p>\r\n<p>There are no pathology-standardized reporting templates yet endorsed by international pathology organizations. A pathology reporting template for pituitary tumours was introduced in 2011 {21526962}, followed by the European Pituitary Pathology Group (EPPG) proposal in 2019 {31578606}.</p>\r\n",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 121995,
+        "bookId": 53,
+        "chapterId": 200,
+        "headingId": 621,
+        "headingText": "\r\n<p>Limited available data underscore that these tumours are associated with a lower frequency of Knosp grade&nbsp;3&ndash;4 disease {28849339; 31368083} and a higher frequency of gross total resection and remission {28849339; 31368083}, especially when compared with mixed lactotroph and somatotroph tumours {31368083}. The Ki-67 labelling index showed no impact on long-term remission in 1&nbsp;study {31368083}. Therefore, the completeness of tumour resection and response to medical therapies may be considered prognostic factors for these tumours.</p>",
+        "timestamp": "2024-10-09T09:33:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

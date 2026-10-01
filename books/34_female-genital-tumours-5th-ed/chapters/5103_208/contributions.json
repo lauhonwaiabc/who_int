@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 63401,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 370,
+        "headingText": "\r\n<p>Adenosarcoma is a biphasic tumour composed of benign epithelium and malignant stroma.</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 63402,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 371,
+        "headingText": "\r\n<p>8933/3 Adenosarcoma</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 63403,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 372,
+        "headingText": "\r\n<p>2B5D.1 &amp; XH5544 Malignant mixed epithelial and mesenchymal tumour of corpus uteri &amp; Adenosarcoma</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 63404,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 373,
+        "headingText": "\r\n<p><em>Not recommended:</em> extrauterine mixed mesodermal tumour</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 63405,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 63406,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 375,
+        "headingText": "\r\n<p>Broad ligament</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 63407,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 376,
+        "headingText": "\r\n<p>Patients usually present with pelvic pain.</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 63408,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 377,
+        "headingText": "\r\n<p>Patients are of reproductive age (much younger than patients with uterine adenosarcoma) and often have endometriosis. Extrauterine adenosarcoma rarely involves the broad ligaments {523189; 2536914; 698918}; most cases arise in the pelvic peritoneum, pouch of Douglas, or retroperitoneum {205129; 12801272}.</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 63409,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 378,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 63410,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 379,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 63411,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 386,
+        "headingText": "\r\n<p>There is a mass lesion of uterine ligaments.</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 63412,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 380,
+        "headingText": "<p>The tumour grows in a leaf-like papillary branching pattern or in a periglandular pattern in which the glands are haphazardly distributed in the sarcomatous stroma. The epithelium is benign and is usually of endometrioid type or tubal type. The stromal component is typically low-grade. Stromal overgrowth, heterologous elements, or sex cord elements may be present {10849323; 2536914}. Endometriosis is often present.</p>",
+        "timestamp": "2020-06-25T12:47:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 63413,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 381,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 63414,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 63415,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> proliferation of malignant M&uuml;llerian stroma accompanied by non-neoplastic M&uuml;llerian epithelium usually forming broad, leaf-life structures projecting into cystic spaces resembling phyllodes tumour of breast; periglandular cuffing of hypercellular stroma; stromal mitotic activity.</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 63416,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 383,
+        "headingText": "\r\n<p>This entity is staged according to the Union for International Cancer Control (UICC) TNM schema for uterine sarcomas.</p>\r\n",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 63417,
+        "bookId": 34,
+        "chapterId": 208,
+        "headingId": 384,
+        "headingText": "\r\n<p>Tumours may recur, particularly if sarcomatous overgrowth is present {523189; 2536914; 698918}.</p>",
+        "timestamp": "2020-05-25T15:42:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

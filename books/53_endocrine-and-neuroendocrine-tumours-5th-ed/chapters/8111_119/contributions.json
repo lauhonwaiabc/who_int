@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123345,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 607,
+        "headingText": "\r\n<p>Neuroendocrine tumours (NETs) are malignant, well-differentiated epithelial neuroendocrine neoplasms (NENs).</p>\r\n",
+        "timestamp": "2024-10-09T15:10:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123346,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 608,
+        "headingText": "\r\n<p>8240/3 Neuroendocrine tumour, NOS</p>\r\n<p>8240/3 Neuroendocrine tumour, grade 1</p>\r\n<p>8249/3 Neuroendocrine tumour, grade 2</p>\r\n<p>8249/3 Neuroendocrine tumour, grade 3</p>\r\n<p>8242/3 ECL-cell neuroendocrine tumour</p>\r\n<p>8156/3 D-cell neuroendocrine tumour</p>\r\n<p>8153/3 G-cell neuroendocrine tumour</p>\r\n<p>8241/3 EC-cell neuroendocrine tumour</p>\r\n<p>8152/3 L-cell neuroendocrine tumour</p>\r\n<p>9091/1 Ovarian neuroendocrine tumour</p>\r\n",
+        "timestamp": "2024-10-09T15:10:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123347,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 609,
+        "headingText": "\r\n<p>2C6Y &amp; XH9LV8 Other specified malignant neoplasms of breast &amp; Neuroendocrine tumour, grade&nbsp;1</p>\r\n<p>2C7Y &amp; XH9LV8 Other specified malignant neoplasms of female genital organs &amp; Neuroendocrine tumour, grade&nbsp;1</p>\r\n<p>2C25.4 &amp; XH9LV8 Carcinoid or other malignant neuroendocrine neoplasms of bronchus or lung &amp; Neuroendocrine tumour, grade&nbsp;1</p>\r\n<p>2C25.4 &amp; XH51K1 Carcinoid or other malignant neuroendocrine neoplasms of bronchus or lung &amp; Neuroendocrine tumour, grade&nbsp;2</p>\r\n",
+        "timestamp": "2024-10-09T15:10:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123348,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> well-differentiated NET; carcinoid; typical carcinoid; atypical carcinoid (see <a style=\"cursor:pointer\" href=\"/chaptercontent/53/173\" target=\"_blank\">section </a><em>Neuroendocrine neoplasms in non-endocrine organs: Introduction</em>).</p>\r\n<p><em>Not recommended:</em> well-differentiated neuroendocrine carcinoma (NEC).</p>\r\n",
+        "timestamp": "2024-10-09T15:10:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123349,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 611,
+        "headingText": "<p>There are no subtypes at most anatomical sites except for the digestive tract (see Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27718\" target=\"_blank\">#27718</a>).</p>",
+        "timestamp": "2024-11-20T15:59:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123350,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 612,
+        "headingText": "<p>NETs may occur in the upper and lower airways {29557536}, the digestive and urological tracts, the male and female genital tracts, the breast, and the skin {30732641; 27334654; 28169866; 28559773}. The most common sites are the digestive tract and the lung {28448665; 33078908; 31842791}. Preferential localizations are the larynx for the head and neck {29557536}; for the thorax, the lung; for the digestive tract, the colorectum, small intestine, and pancreas; for the urogenital tract, the kidney {33613455}; and for the gynaecological tract, the ovary. See Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27718\" target=\"_blank\">#27718</a>.</p>",
+        "timestamp": "2024-11-20T16:01:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123351,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 613,
+        "headingText": "<p>The majority of NETs do not manifest with signs and symptoms of active hormone secretion; typically, patients present with nonspecific, site-dependent, mass-related symptoms. They may also be discovered during screening or investigation for unrelated clinical reasons. Fewer than one&nbsp;third are associated with hormonal manifestations that include carcinoid syndrome, gastrinoma-associated Zollinger&ndash;Ellison syndrome, insulinoma syndrome, and other (rarer) syndromes {32839579}. Ovarian tumours are usually incidental findings in mature teratomas. See Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27718\" target=\"_blank\">#27718</a>&nbsp;for details.</p>",
+        "timestamp": "2024-11-20T16:02:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123352,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 614,
+        "headingText": "<p>The incidence is approximately 7&nbsp;new cases per 100&nbsp;000&nbsp;person-years and has been steadily increasing over the last 20&nbsp;years {28448665; 33078908; 31842791; 33189127}. Both sexes are equally affected, with a slight male prevalence in the digestive tract {31842791; 33189127}. Most patients are in their sixth to eighth decade of life, but younger patients can be affected in conjunction with hereditary conditions and in ovarian neoplasms (given the association with mature teratomas). NETs rarely occur in infancy and childhood {31384627; 33549297}. See Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27718\" target=\"_blank\">#27718</a>.</p>",
+        "timestamp": "2024-11-20T16:02:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123353,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 615,
+        "headingText": "<p>The etiology is unknown. Hereditary genetic defects including multiple endocrine neoplasia type&nbsp;1, von Hippel&ndash;Lindau syndrome, and neurofibromatosis type&nbsp;1 are associated with NETs in the thorax and upper digestive tract [[WHO Classification of Tumours Editorial Board. Thoracic tumours. Lyon (France): International Agency for Research on Cancer; 2021. (WHO classification of tumours series, 5th ed.; vol. 5). https://publications.iarc.who.int/595.]] [[WHO Classification of Tumours Editorial Board. Digestive system tumours. Lyon (France): International Agency for Research on Cancer; 2019. (WHO classification of tumours series, 5th ed.; vol. 1). https://publications.iarc.who.int/579.]]. Known risk factors are a family history of cancer; old age; a high body mass index; and site-specific risk factors shared with non-neuroendocrine cancer, including smoking and alcohol consumption {30519851; 31300994; 32869113}. See Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27718\" target=\"_blank\">#27718</a>.</p>",
+        "timestamp": "2024-11-20T16:03:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123354,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 616,
+        "headingText": "<p>The pathogenesis is unknown, except for enterochromaffin-like cell (ECL-cell) NET of the stomach, for which hypergastrinaemia is the obligate promoting factor. The related settings include chronic atrophic gastritis (autoimmune or <em>Helicobacter pylori</em> infection&ndash;related), and multiple endocrine neoplasia type&nbsp;1&nbsp;(Zollinger&ndash;Ellison syndrome) may be involved. See Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27718\" target=\"_blank\">#27718</a>.</p>",
+        "timestamp": "2024-11-20T16:04:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123355,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 623,
+        "headingText": "<p>In tubular structures (airways, digestive and urinary tracts), NETs are often polypoid lesions a few millimetres in size, projecting into the lumen, sometimes with an ulcerated surface. In clinically silent organs (lung, thymus, kidney, female genital organs, and the right colon), NETs may be much larger {30732641; 32725474}. NETs are usually expansive, highly vascularized, reddish nodules. See Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27719\" target=\"_blank\">#27719</a>.</p>",
+        "timestamp": "2024-11-20T16:05:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123356,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 617,
+        "headingText": "<p>Classic patterns include islets and nests (solid islet structure); anastomosing trabeculae and ribbons (trabecular structure); and tubules, acini, and rosette-like structures (glandular structure) {4106849}. Patterns may be site-specific {33032264}. Mixed patterns are often observed. Necrosis is usually absent, and when present it is spotty and may be associated with atypia. Cells are monomorphic, polygonal, and of medium size, with abundant eosinophilic, sometimes granular cytoplasm and round, regular nuclei with dispersed granular salt-and-pepper chromatin, usually with inconspicuous nucleoli. Mitoses are uncommon and when increased indicate a higher-grade NET. Minor mucin production may be observed in NETs of the digestive tract {4106849} and middle ear. See Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27719\" target=\"_blank\">#27719</a>.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>The majority of NETs are diffusely and intensely positive for cytokeratin(s) (e.g. AE1/AE3 cocktail) and for neuroendocrine markers including chromogranin&nbsp;A, synaptophysin, and INSM1. Expression of SSTR2 or SSTR5 is often observed. Ki-67 staining (MIB1 clone) is recommended for grading when required and for clinical decision-making. Immunohistochemistry for hormones and transcription factors is often site-specific and recommended in metastatic settings and in the presence of hormonal syndromes. See Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27719\" target=\"_blank\">#27719</a>.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>Paraganglioma is usually negative for cytokeratin(s) and positive for GATA3 and tyrosine hydroxylase {32668278}. Other than in the lung and liver, metastases of NET from other sites including the thyroid (calcitonin-positive) are, rarely, also seen in the breast {4106849} and skin {30405324} and should be considered. Different anatomical sites may call for site-specific differential diagnoses (e.g. low-grade adenocarcinoma in the lung and breast, sex cord tumours in the ovary).</p>\r\n<h6><em>Grading</em></h6>\r\n<p>Grading is recommended in some sites and performed by measuring proliferation either by mitotic count and/or Ki-67 index assessment. The presence of necrosis is also a marker of aggressive behaviour and is included in grading definitions at some sites. The vast majority of NETs are low-grade&nbsp;(G1&ndash;G2). High-grade (G3) NETs are uncommon (&lt;&nbsp;10%) and occur mainly in the thymus, stomach, and colon. In the lung and thymus, high-grade NETs are recognized, although they are still classified with large cell neuroendocrine carcinoma (LCNEC). See Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27719\" target=\"_blank\">#27719</a>.</p>",
+        "timestamp": "2024-11-20T16:06:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123357,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 618,
+        "headingText": "<p>FNA smears usually display a clean background and small to medium-sized round to oval cells (either isolated or in groups) with evident cytoplasm, regular nuclei, and granular chromatin. A cytological diagnosis of NET requires immunohistochemistry and, when possible, histological confirmation is advised. See Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27719\" target=\"_blank\">#27719</a>.</p>",
+        "timestamp": "2024-11-20T16:07:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123358,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 619,
+        "headingText": "\r\n<p>There is no diagnostic molecular pathology.</p>\r\n",
+        "timestamp": "2024-10-09T15:10:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123359,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 622,
+        "headingText": "<p><em>Essential:</em> neuroendocrine morphology; diffuse and intense expression of cytokeratin(s) and chromogranin&nbsp;A or two other neuroendocrine markers; Ki-67.</p>\r\n<p><em>Desirable:</em> SSTR2; see Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27719\" target=\"_blank\">#27719</a>&nbsp;for details.</p>",
+        "timestamp": "2024-11-20T16:08:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123360,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 620,
+        "headingText": "<p>Staging is performed using a NET-specific system for the digestive tract only [[WHO Classification of Tumours Editorial Board. Digestive system tumours. Lyon (France): International Agency for Research on Cancer; 2019. (WHO classification of tumours series, 5th ed.; vol. 1). https://publications.iarc.who.int/579.]]. The other sites adopt the staging systems of non-neuroendocrine cancer. See Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27719\" target=\"_blank\">#27719</a>.</p>",
+        "timestamp": "2024-11-20T16:08:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123361,
+        "bookId": 53,
+        "chapterId": 119,
+        "headingId": 621,
+        "headingText": "<p>The prognosis depends on the tumour site, grade, and stage. Low-grade (G1&ndash;G2) NETs typically have an indolent course, with 5-year survival rates as high as 90%, depending on the site. High-grade (G3) NETs display aggressive behaviour, similar to that of non-neuroendocrine carcinomas in the digestive tract. See Table <a style=\"cursor:pointer\" href=\"/attachment/53/119/27719\" target=\"_blank\">#27719</a>.</p>",
+        "timestamp": "2024-11-20T16:09:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

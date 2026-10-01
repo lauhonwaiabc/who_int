@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 185,
+    "bookId": "72",
+    "roleid": 266,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2090,
+        "lastname": "Hruban",
+        "firstname": "Ralph H",
+        "initials": "RH",
+        "email": "",
+        "roleid": 266,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 186,
+    "bookId": "72",
+    "roleid": 279,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 5497,
+        "lastname": "Kojima",
+        "firstname": "Motohiro",
+        "initials": "M",
+        "email": "",
+        "roleid": 279,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "pkroleId": 187,
+    "bookId": "72",
+    "roleid": 280,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 5566,
+        "lastname": "Omori",
+        "firstname": "Yuko",
+        "initials": "Y",
+        "email": "",
+        "roleid": 280,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 188,
+    "bookId": "72",
+    "roleid": 281,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2036,
+        "lastname": "Singhi",
+        "firstname": "Aatur D.",
+        "initials": "AD",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 5530,
+        "lastname": "Verbeke",
+        "firstname": "Caroline Sophie",
+        "initials": "CS",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      }
+    ]
+  }
+]

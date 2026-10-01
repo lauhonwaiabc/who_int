@@ -1,0 +1,22 @@
+[
+  {
+    "pkheadingid": 1173,
+    "bookid": 67,
+    "headingType": 1,
+    "headingTitle": " ",
+    "headingPosition": 1,
+    "headingid": 794,
+    "contributions": [
+      {
+        "pkcontributionId": 158923,
+        "bookId": 67,
+        "chapterId": 142,
+        "headingId": 794,
+        "headingText": "<p>Nucleotide excision repair (NER) removes DNA damage induced by ultraviolet (UV) light, which results in large DNA adducts, mostly thymine dimers and 6,4-photoproducts. Recognition of the damage leads to removal of a short single-stranded DNA segment that contains the lesion. The undamaged single-stranded DNA remains and DNA polymerase uses it as a template to synthesize a short complementary sequence. Final ligation by DNA ligase occurs to complete NER and form double-stranded DNA. NER can be divided into two subpathways: global genomic NER and transcription-coupled NER. The two subpathways differ in how they recognize DNA damage, but they share the same processes for lesion incision, repair, and ligation. Xeroderma pigmentosum results from germline pathogenic variants of seven NER genes&nbsp;&ndash; <em>XPA</em>, <em>ERCC3</em> (XPB), <em>XPC</em>, <em>ERCC2</em> (XPD), <em>DDB2</em> (XPE), <em>ERCC4</em> (XPF), and <em>ERCC5</em> (XPG) {22217736}&nbsp;&ndash; and the <em>POLH</em> gene, encoding the translesion DNA polymerase POLH (XP variant) {24130121}.</p>",
+        "timestamp": "2026-09-02T11:51:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

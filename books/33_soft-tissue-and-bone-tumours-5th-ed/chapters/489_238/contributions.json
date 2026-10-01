@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 395,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 228,
+    "contributions": [
+      {
+        "pkcontributionId": 60684,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 228,
+        "headingText": "<p>Leiomyosarcoma (LMS) of bone is a primary malignant neoplasm of bone showing smooth muscle differentiation.</p>",
+        "timestamp": "2020-01-20T09:57:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 396,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 229,
+    "contributions": [
+      {
+        "pkcontributionId": 60685,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 229,
+        "headingText": "<p>8890/3 Leiomyosarcoma NOS</p>",
+        "timestamp": "2020-02-26T11:47:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 397,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 230,
+    "contributions": [
+      {
+        "pkcontributionId": 60686,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 230,
+        "headingText": "\r\n<p>2B58 &amp; XH7ED4 Leiomyosarcoma &amp; Leiomyosarcoma NOS</p>\r\n<p>2B58 &amp; XA5GG8 Leiomyosarcoma &amp; Bones</p>\r\n",
+        "timestamp": "2019-11-26T16:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 398,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 231,
+    "contributions": [
+      {
+        "pkcontributionId": 60687,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 231,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-11-26T16:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 399,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 232,
+    "contributions": [
+      {
+        "pkcontributionId": 60688,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 232,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-11-26T16:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 400,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 233,
+    "contributions": [
+      {
+        "pkcontributionId": 60689,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 233,
+        "headingText": "\r\n<p>Most lesions occur in the lower extremity around the knee (distal femoral or proximal tibial metaphysis), followed by the craniofacial skeleton {9351566; 11956991; 21393038}.</p>\r\n",
+        "timestamp": "2019-11-26T16:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 401,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 234,
+    "contributions": [
+      {
+        "pkcontributionId": 60690,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 234,
+        "headingText": "<h5><em>Signs and symptoms</em></h5>\r\n<p>Patients typically report pain and occasionally present with pathological fracture. Metastatic disease from extraosseous primary lesions (uterus, bowel, soft tissue) should be excluded, because this is much more common than primary LMS of bone.</p>\r\n<h5><em>Imaging</em></h5>\r\n<p>There are no specific imaging features. Radiographically, they are lytic, aggressive lesions, with a permeative growth pattern and cortical destruction. MRI shows soft tissue extension, and signal intensities are nonspecific {11685485; 18603190}.</p>",
+        "timestamp": "2019-12-09T11:28:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 402,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 235,
+    "contributions": [
+      {
+        "pkcontributionId": 60691,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 235,
+        "headingText": "\r\n<p>There is a wide age distribution (9&ndash;87&nbsp;years), with a peak incidence in the fifth decade of life and a slight male predominance.</p>\r\n",
+        "timestamp": "2019-11-26T16:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 403,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 236,
+    "contributions": [
+      {
+        "pkcontributionId": 60692,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 236,
+        "headingText": "\r\n<p>A small subset of LMSs of bone are associated with prior exposure to radiation therapy or with bone infarcts {9872562; 18521345}. LMS of bone related to EBV infection in immunocompromised patients has been reported {16330945}.</p>\r\n",
+        "timestamp": "2019-11-26T16:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 404,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 237,
+    "contributions": [
+      {
+        "pkcontributionId": 60693,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 237,
+        "headingText": "\r\n<p>Similar to deep soft tissue LMSs, intraosseous lesions show genomic losses and absence of phosphorylated RB1 {15668899}.</p>\r\n",
+        "timestamp": "2019-11-26T16:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 411,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 244,
+    "contributions": [
+      {
+        "pkcontributionId": 60694,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 244,
+        "headingText": "\r\n<p>The lesions vary widely in size. On cut surface, they show a tan, fleshy, creamy appearance, with obvious areas of necrosis.</p>\r\n",
+        "timestamp": "2019-11-26T16:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 405,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 238,
+    "contributions": [
+      {
+        "pkcontributionId": 60695,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 238,
+        "headingText": "<p>The lesions resemble LMSs from other locations, with cells arranged in long, intersecting fascicles, growing in an infiltrative pattern. The tumour cells have fibrillary, eosinophilic cytoplasm and elongated, cigar-shaped nuclei with blunted ends. The tumours are associated with variable degrees of necrosis, nuclear pleomorphism, and mitotic activity.</p>\r\n<h5><em>Immunohistochemistry</em></h5>\r\n<p>Smooth muscle differentiation is demonstrated by diffuse staining with desmin and/or h-caldesmon, as well as SMA {21393038}. LMP1 immunohistochemistry can be used to document the EBV protein {16330945}. Positivity for ER or PR in female patients strongly suggests a primary uterine origin.</p>",
+        "timestamp": "2019-11-29T16:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 406,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 239,
+    "contributions": [
+      {
+        "pkcontributionId": 60696,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 239,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-11-26T16:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 407,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 240,
+    "contributions": [
+      {
+        "pkcontributionId": 60697,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 240,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-11-26T16:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 410,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 243,
+    "contributions": [
+      {
+        "pkcontributionId": 60698,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 243,
+        "headingText": "\r\n<p><em>Essential:</em> bone tumour with compatible imaging; exclusion of other primary sites; intersecting fascicles of fusiform cells with eosinophilic fibrillary cytoplasm and elongated cigar-shaped nuclei, with variable nuclear pleomorphism; SMA and desmin and/or h-caldesmon immunoreactivity.</p>\r\n",
+        "timestamp": "2019-11-26T16:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 408,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 241,
+    "contributions": [
+      {
+        "pkcontributionId": 60699,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 241,
+        "headingText": "<p>Staging is according to bone sarcoma protocols (see &lt;&lt;TNM-Bone&gt;&gt;<em>TNM staging of tumours of bone</em>). See also the information on staging in <a style=\"cursor:pointer\" href=\"/chaptercontent/33/261\" target=\"_blank\">section </a><em>Bone tumours: Introduction</em>.</p>",
+        "timestamp": "2020-02-19T16:37:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 409,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 242,
+    "contributions": [
+      {
+        "pkcontributionId": 60700,
+        "bookId": 33,
+        "chapterId": 238,
+        "headingId": 242,
+        "headingText": "\r\n<p>Histological grade correlates with clinical outcome {9351566}. High-grade lesions are highly aggressive, with a high index of distant spread (often to the lung) and a 5-year disease-free survival rate of &lt;&nbsp;50% {19722754; 27302734}.</p>",
+        "timestamp": "2019-11-26T16:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

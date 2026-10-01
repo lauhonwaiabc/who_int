@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 656,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 676,
+    "contributions": [
+      {
+        "pkcontributionId": 93786,
+        "bookId": 48,
+        "chapterId": 62,
+        "headingId": 676,
+        "headingText": "\r\n<p>Pulmonary meningiomas are meningothelial (arachnoid cell) neoplasms identical to those that arise from the dura mater of the CNS, but in patients without a demonstrable CNS lesion.</p>\r\n",
+        "timestamp": "2022-11-22T09:02:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 657,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 677,
+    "contributions": [
+      {
+        "pkcontributionId": 93787,
+        "bookId": 48,
+        "chapterId": 62,
+        "headingId": 677,
+        "headingText": "<p>Most pulmonary meningiomas produce no symptoms and are discovered incidentally on CXR, whereas some patients present with respiratory symptoms including cough and haemoptysis {31361249; 18486986; 8941002}. Imaging shows a single or (rarely) multiple slow-growing, round, well-circumscribed nodule(s) with lobulated margins on CT, and soft tissue attenuation and high metabolic activity on FDG PET {9850654; 18486986}. Most lesions are peripheral and localized to the lung, with no predilection for any lobe {8941002; 19660266}.</p>",
+        "timestamp": "2023-01-10T15:33:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 658,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 678,
+    "contributions": [
+      {
+        "pkcontributionId": 93788,
+        "bookId": 48,
+        "chapterId": 62,
+        "headingId": 678,
+        "headingText": "<p >Most tumours are low-grade, well circumscribed, solid proliferations of bland tumour cells growing in whorls and lobular nests in the meningothelial tumour, or showing spindle architecture in the fibroblastic tumour. Rare examples of high-grade meningiomas with anaplastic (grade&nbsp;3) {23443940; 10366156} and chordoid (grade&nbsp;2) features have been reported {20634760; 15714337}. CNS surgical pathology criteria can be used for grading from grade&nbsp;1 to grade&nbsp;3.</p>",
+        "timestamp": "2022-11-22T09:02:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 659,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 679,
+    "contributions": [
+      {
+        "pkcontributionId": 93789,
+        "bookId": 48,
+        "chapterId": 62,
+        "headingId": 679,
+        "headingText": "<ul>\r\n<li>Hypercellular</li>\r\n<li>Cohesive small sheets and tissue fragments sometimes showing a whorled pattern</li>\r\n<li>Spindle or epithelioid cells with elongated or fusiform nuclei, and when seen singly the cytoplasm may be wispy</li>\r\n<li>Fine nuclear chromatin and small, inconspicuous nucleoli with scattered intranuclear pseudoinclusions; degenerative changes can produce nuclear hyperchromasia, enlargement, and atypia</li>\r\n<li>Psammoma bodies may be present</li>\r\n<li>Mitotic figures and necrosis are absent but may be present in high-grade tumours</li>\r\n</ul>\r\n<p><em>Reference(s):</em> {9850654; 30548187; 31361249; 8941002}</p>",
+        "timestamp": "2022-11-22T15:41:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 660,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 680,
+    "contributions": [
+      {
+        "pkcontributionId": 93790,
+        "bookId": 48,
+        "chapterId": 62,
+        "headingId": 680,
+        "headingText": "<p>The primary differential diagnosis is metastatic meningioma, which should be excluded clinically. Other tumours in the differential diagnosis include spindle cell thymoma, solitary fibrous tumour, and monophasic synovial sarcoma. Meningothelioid nodules are only distinguished on resection by their poorly defined borders and interstitial and frequently perivenular pattern of growth. The presence of intranuclear pseudoinclusions and psammoma bodies can create confusion with metastatic thyroid carcinoma {30548187}.</p>",
+        "timestamp": "2022-11-22T09:03:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 661,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 681,
+    "contributions": [
+      {
+        "pkcontributionId": 93791,
+        "bookId": 48,
+        "chapterId": 62,
+        "headingId": 681,
+        "headingText": "<p>Meningiomas label strongly for vimentin and variably for EMA, progesterone receptor (PR), SSTR2A, CD56, and S100 {30548187}. Pancytokeratin, melanoma markers (HMB45 and melan-A [MART1]), neuroendocrine markers (synaptophysin and chromogranin), GFAP, and OCT4 are negative {26291511; 28340171}. Most meningiomas in the CNS show allelic loss on chromosome&nbsp;22 and <em>NF2</em> mutations {26291511}.</p>",
+        "timestamp": "2023-01-10T15:36:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

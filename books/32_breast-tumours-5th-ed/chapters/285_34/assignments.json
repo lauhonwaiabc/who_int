@@ -1,0 +1,97 @@
+[
+  {
+    "pkroleId": 65,
+    "bookId": "32",
+    "roleid": 15,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2200,
+        "lastname": "Sahin",
+        "firstname": "Aysegul",
+        "initials": "",
+        "email": "",
+        "roleid": 15,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 66,
+    "bookId": "32",
+    "roleid": 16,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2014,
+        "lastname": "Thompson",
+        "firstname": "Lester D.R.",
+        "initials": "",
+        "email": "",
+        "roleid": 16,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 67,
+    "bookId": "32",
+    "roleid": 17,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2280,
+        "lastname": "Foschini",
+        "firstname": "Maria Pia",
+        "initials": "",
+        "email": "",
+        "roleid": 17,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 68,
+    "bookId": "32",
+    "roleid": 18,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2270,
+        "lastname": "Marchiò",
+        "firstname": "Caterina",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2281,
+        "lastname": "Geyer",
+        "firstname": "Felipe",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2282,
+        "lastname": "Nishimura",
+        "firstname": "Rieko",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2338,
+        "lastname": "Hayes",
+        "firstname": "Malcolm M.",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      }
+    ]
+  }
+]

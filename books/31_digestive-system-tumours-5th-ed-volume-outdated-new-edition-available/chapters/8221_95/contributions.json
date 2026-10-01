@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 56111,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 159,
+        "headingText": "\r\n<p>PEComa is a mesenchymal neoplasm composed of distinctive, predominantly epithelioid cells showing variable expression of smooth muscle and melanocytic markers. Angiomyolipoma is a PEComa subtype that also contains adipocytes and thick-walled, tortuous blood vessels.</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 56112,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 160,
+        "headingText": "<p>8714/0 PEComa, benign</p>\r\n<p>8714/3 PEComa, malignant</p>\r\n<p>8860/0 Angiomyolipoma</p>",
+        "timestamp": "2021-11-22T17:40:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 56113,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 161,
+        "headingText": "<p>2E92.Z &amp; XH4CC6 Benign neoplasm of digestive organs &amp; Perivascular epithelioid tumour, benign</p>\r\n<p>2B90.Z Malignant neoplasms of colon</p>\r\n<p>2C12.0Y Malignant neoplasm of liver</p>\r\n<p>2B80.Z Malignant neoplasms of small intestine</p>\r\n<p>2C10.Z Malignant neoplasm of pancreas</p>\r\n<p>XH9WD1 Perivascular epithelioid tumour, malignant</p>\r\n<p>XH4VB4 Angiomyolipoma</p>",
+        "timestamp": "2019-12-16T15:20:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 56114,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 162,
+        "headingText": "\r\n<p>PEComa</p>\r\n<p><em>Acceptable:</em> monotypic epithelioid angiomyolipoma.</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 56115,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 163,
+        "headingText": "\r\n<p>Sclerosing PEComa; inflammatory subtype of angiomyolipoma</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 56116,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 164,
+        "headingText": "\r\n<p>PEComas of the digestive tract most commonly arise in the colon, liver, small intestine, and pancreas; origin in the stomach and other gastrointestinal sites is particularly rare {24061520; 27428182; 23786777}. PEComas may also involve the mesenteries and peritoneum (in the peritoneum most often as metastases).</p>\r\n<p>Angiomyolipoma is nearly exclusive to the kidney, liver, and pancreas. Some patients present with both hepatic and renal angiomyolipomas, most with tuberous sclerosis {9888702}.</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 56117,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 165,
+        "headingText": "\r\n<p>In the intestines and stomach, PEComas form a mural mass that may contain or entirely consist of a polypoid mucosal component. Tumours can become symptomatic, with abdominal pain or bleeding. In the mesenteries and liver, PEComas can form pedunculated nodular masses. Malignant PEComas of the GI tract often metastasize to the liver, peritoneum, lymph nodes, and lungs {24061520}.</p>\r\n<p>Hepatic angiomyolipoma is usually discovered incidentally {23292871}. Some patients present with vague abdominal symptoms or right upper quadrant pain. Most lesions are solitary; multifocal disease may be associated with tuberous sclerosis. Rarely, patients present with hepatic rupture and haemoperitoneum {21283992}.</p>\r\n<p>On CT, hepatic angiomyolipomas are hypodense, with peripheral enhancement in the arterial phase; on MRI, the tumours are typically hypointense on T1-weighted images and hyperintense on T2-weighted images {18516533}.</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 56118,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 166,
+        "headingText": "\r\n<p>Gastrointestinal and hepatic PEComas and angiomyolipomas are rare. PEComas in the GI tract affect children and adults over a wide age range, with a mean age of 35&ndash;40&nbsp;years and a female predominance (M:F&nbsp;ratio: 1:1.5) {24061520; 27428182}. Hepatic angiomyolipoma shows a marked female predominance and a peak incidence in middle-aged adults {6496843; 9888702; 23292871}.</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 56119,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 167,
+        "headingText": "\r\n<p>Most hepatic angiomyolipomas are sporadic; 5&ndash;10% of patients have tuberous sclerosis {9888702; 22251200}. Other gastrointestinal PEComas are rarely associated with tuberous sclerosis {24061520}.</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 56120,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 168,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 56121,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 207,
+        "headingText": "\r\n<p>Most gastrointestinal PEComas are circumscribed, unencapsulated masses that can extend into the adjacent mesenteric tissue. Tumour size ranges from &lt;&nbsp;1&nbsp;cm to &gt;&nbsp;20&nbsp;cm, with a median size of 6&nbsp;cm {24061520}. The cut surface varies from pale tan to greyish-brown.</p>\r\n<p>Hepatic angiomyolipomas also show a large range in size, from small lesions to large masses occupying much of the liver {6496843; 9888702}. The cut surface is yellow or tan and often fleshy, with variable necrosis and haemorrhage.</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 56122,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 169,
+        "headingText": "<p>The architecture of PEComas is often nested, alveolar, or trabecular, with a delicate capillary vascular network, although it can also be sheet-like. Most cases are dominated by epithelioid cells, with a spindle cell component seen in a minority of cases, rarely as a dominant feature. The cytoplasm ranges from granular eosinophilic to clear. Occasional pleomorphic cells are a common finding. Mitotic activity is usually low (&lt;&nbsp;1&nbsp;mitosis/mm<sup>2</sup>). In the sclerosing subtype, tumour cells are arranged in cords within a dense collagenous stroma.</p>\r\n<p>Most hepatic angiomyolipomas contain an admixture of adipocytes, epithelioid cells, and thick-walled blood vessels; the relative proportions of these components vary considerably, although epithelioid cells are often a dominant component. The epithelioid cells are often intimately associated with the blood vessel walls. Some tumours contain a spindle cell component. The cytological features of the epithelioid and spindle cells are similar to those in other PEComas. Some tumours are dominated by adipocytes with a minor component of epithelioid cells; others contain a limited adipocytic component. Extramedullary haematopoiesis is frequently observed. The inflammatory subtype may be obscured by prominent chronic inflammatory cells {20637427}. Necrosis and foci of haemorrhage are commonly found in large tumours. The mitotic count is usually low.</p>\r\n<p>By immunohistochemistry, PEComas (including angiomyolipomas) are positive for both smooth muscle markers (desmin and/or SMA, each 60&ndash;75%) and melanocytic markers (HMB45, melan-A, PNL2, MITF, tyrosinase), with variable extent of staining {16327428; 24061520; 10846546; 9888702; 11800647}. Epithelioid cells show more-extensive expression of melanocytic markers than the spindle cell component. Occasional KIT positivity should not lead to confusion with gastrointestinal stromal tumour {24061520; 11914628}. TFE3 positivity may be encountered {24061520}, especially in <em>TFE3</em>-rearranged subtypes {20871214}. These tumours are typically negative for keratins, S100, and SOX10.</p>\r\n<p>Apparent lipomas in the liver should be stained with HMB45, because these lesions are often in fact angiomyolipomas. Positive staining for glutamine synthetase (GS) or negative staining for liver fatty-acid binding protein should not be mistaken for evidence of hepatic adenoma {29512829}; Hep&nbsp;Par-1 (CPS1) and arginase-1 (ARG1) are negative.</p>",
+        "timestamp": "2019-10-15T17:32:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 56123,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 170,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 56124,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 171,
+        "headingText": "\r\n<p>Specific molecular genetic information on GI tract PEComas is limited. PEComas (including hepatic angiomyolipomas) are known to harbour <em>TSC2</em> mutations (biallelic inactivation), resulting in activation of the mTOR signalling pathway; <em>TSC1</em> is rarely mutated {25651471; 18085521; 25234729; 29512829}. A minority of PEComas contain <em>TFE3</em> gene rearrangements {20871214; 25651471}.</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 56125,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 174,
+        "headingText": "\r\n<p><em>Essential:</em> epithelioid and/or spindle cells with granular eosinophilic to clear cytoplasm; nested, trabecular, or sheet-like architecture; variable coexpression of melanocytic and smooth muscle markers; angiomyolipoma: variable admixture of adipocytes, thick-walled blood vessels, and epithelioid cells.</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 56126,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 172,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 56127,
+        "bookId": 31,
+        "chapterId": 95,
+        "headingId": 173,
+        "headingText": "\r\n<p>For GI tract PEComas, marked nuclear atypia, diffuse pleomorphism, and mitotic activity (&gt;&nbsp;1&nbsp;mitosis/mm<sup>2</sup>) are the strongest risk factors for metastatic behaviour {24061520}, but quantification of risk remains problematic due to the rarity of this entity.</p>\r\n<p>Nearly all hepatic angiomyolipomas are benign {6496843; 9888702; 23292871}. Rare primary malignant hepatic PEComas have been reported, some with adipocytic and vascular components {18391749; 18723294}. Histological atypia is not a reliable criterion for malignancy in hepatic angiomyolipomas {29512829}; some borderline cases should be classified as angiomyolipoma of uncertain malignant potential, pending follow-up.</p>",
+        "timestamp": "2019-04-15T16:37:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

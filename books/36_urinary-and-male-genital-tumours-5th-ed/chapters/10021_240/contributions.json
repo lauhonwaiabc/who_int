@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 71177,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 539,
+        "headingText": "\r\n<p>Haemangiomas are benign vascular neoplasms or malformations.</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 71178,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 540,
+        "headingText": "<p>9120/0 Haemangioma, NOS</p>\r\n<p>9121/0 Cavernous haemangioma</p>\r\n<p>9131/0 Capillary haemangioma</p>\r\n<p>9120/0 Anastomosing haemangioma</p>\r\n<p>9125/0 Epithelioid haemangioma</p>",
+        "timestamp": "2022-04-12T15:08:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 71179,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 541,
+        "headingText": "\r\n<p>2F35 &amp; XH5AW4 Benign neoplasm of urinary organs &amp; Haemangioma, NOS</p>\r\n<p>2F35 &amp; XH3U29 Benign neoplasm of urinary organs &amp; Capillary haemangioma</p>\r\n<p>2F35 &amp; XH1GU2 Benign neoplasm of urinary organs &amp; Cavernous haemangioma</p>\r\n<p>2F35 &amp; XH10T4 Benign neoplasm of urinary organs &amp; Epithelioid haemangioma</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 71180,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Acceptable:</em> arteriovenous malformation; venous malformation.</p>\r\n<p><em>Not recommended:</em> angioma.</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 71181,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 543,
+        "headingText": "\r\n<p>Cavernous haemangioma; capillary haemangioma; anastomosing haemangioma; epithelioid haemangioma</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 71182,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 544,
+        "headingText": "\r\n<p>Haemangiomas involving essentially all of the genitourinary organs, especially the kidney, testis, spermatic cord, and urinary bladder, have been reported. These include various subtypes, but the more recently recognized anastomosing subtype features prominently {23665824; 26893881; 21846922}. Anastomosing haemangioma has been most frequently reported in the kidney, especially the medulla {19606014; 20534992; 28118845}. The cortex, renal sinus, and perirenal tissues may be involved. Haemangiomas of the urinary bladder appear to be most often of the cavernous type {10430259; 18580491}. Haemangiomas of the testis may include the epithelioid, anastomosing, cavernous, and capillary types {23665824; 2186645}. Haemangioma of the prostate is extremely rare.</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 71183,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 545,
+        "headingText": "\r\n<p>Involvement of the genitourinary system may occur in the setting of systemic angiomatosis, such as in Sturge&ndash;Weber and Klippel&ndash;Tr&eacute;naunay syndromes. Patients with urinary bladder haemangiomas may present with macroscopic haematuria or irritative urinary symptoms {10430259; 18580491}. Most anastomosing haemangiomas are asymptomatic {19606014}. About two&nbsp;thirds of renal cases are incidental imaging findings, associated with compromised renal function including end-stage renal disease {30958692; 23020314; 24548339}. However, haematuria and back pain have also been reported for renal tumours {21846922}. Testicular haemangiomas may manifest as self-detected palpable masses or with pain {23665824}.</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 71184,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 546,
+        "headingText": "\r\n<p>Haemangiomas affect people of all ages, predominantly adults (mean age: ~50&nbsp;years for renal cases) {28118845}. A male predominance has been reported for renal cases {28118845; 26244138}.</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 71185,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 547,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 71186,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 548,
+        "headingText": "\r\n<p>Activating point mutations of <em>GNAQ</em>, <em>GNA11</em>, or <em>GNA14</em>, resulting in the upregulation of the MAPK signalling pathway, have been reported in the majority of anastomosing haemangiomas {28084343; 29574926; 31707589}.</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 71187,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 555,
+        "headingText": "\r\n<p>The mean size of renal lesions is about 20&nbsp;mm. Tumours as large as 75&nbsp;mm, as well as bilateral and multifocal renal lesions, have been reported {28118845}. Testicular haemangiomas range from approximately 5&nbsp;to 30&nbsp;mm (mean: 17&nbsp;mm) {23665824}. Urinary bladder haemangiomas are usually &lt;&nbsp;10&nbsp;mm {10430259}. Capillary haemangiomas may appear solid, whereas cavernous and anastomosing haemangiomas appear more spongy with a red-brown and mahogany-like colour.</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 71188,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 549,
+        "headingText": "\r\n<p>Cavernous and capillary haemangiomas with typical histological features have been reported in the kidney, urinary bladder, and testis. Many genitourinary haemangiomas are now recognized to be of the anastomosing subtype, which appears diffuse or vaguely lobulated and well circumscribed, but usually not encapsulated at low magnification. Infiltration into the surrounding renal parenchyma, with entrapment of renal tubules, as well as intravascular and perirenal fat tissue extension, may be observed. These lesions form irregular, anastomosing, sinusoidal, capillary-sized spaces lined by a single layer of endothelial cells with frequent hobnail morphology. There is minimal or no nuclear atypia, and mitoses are rare {19606014}. Moderate lymphocytic inflammation, vascular thrombi, fibrotic and myxoid areas, foci of extramedullary haematopoiesis, and PAS-positive hyaline globules are common {21846922}. Cavernous-like vascular spaces associated with larger vessels at the border of the lesion may be observed. Renal lesions associated with end-stage renal disease frequently exhibit features of acquired cystic disease in the surrounding parenchyma. Immunohistochemistry highlights the vascular channels with CD31, CD34, and ERG (but not D2-40) in the endothelial cells and with SMA in the regular pericytic layer. The Ki-67 index is low.</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 71189,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 71190,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 551,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 71191,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> a single layer of benign-appearing endothelial cells with minimal nuclear atypia lining cavernous, capillary, or anastomosing channels.</p>\r\n<p><em>Desirable:</em> extramedullary haematopoiesis and hyaline globules in the anastomosing subtype.</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 71192,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 552,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 71193,
+        "bookId": 36,
+        "chapterId": 240,
+        "headingId": 553,
+        "headingText": "\r\n<p>Haemangiomas behave in a benign fashion, even when an infiltrative or multicentric growth pattern is present.</p>",
+        "timestamp": "2022-02-25T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

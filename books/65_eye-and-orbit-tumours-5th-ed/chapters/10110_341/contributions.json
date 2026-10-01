@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 139101,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 733,
+        "headingText": "\r\n<p>Conjunctival stromal tumour (COST) is a benign lesion composed of spindle-shaped cells with pseudonuclear inclusions and multinucleated cells, in a variably myxoid stroma, with scattered mast cells.</p>\r\n<p>Ocular surface fibroma (OSF) is a benign tumour composed of a collagen-rich stroma, bland spindle cells, and scattered mast cells.</p>\r\n",
+        "timestamp": "2026-03-31T15:04:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 139102,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 734,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T15:04:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 139103,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 735,
+        "headingText": "\r\n<p>2F36.Y &amp; XH2E97 Other specified benign neoplasm of eye or ocular adnexa &amp; Stromal tumour, benign</p>\r\n<p>2F36.Y &amp; XH8E66 Other specified benign neoplasm of eye or ocular adnexa &amp; Fibroma, NOS</p>\r\n",
+        "timestamp": "2026-03-31T15:04:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 139104,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 736,
+        "headingText": "\r\n<p><em>Acceptable:</em> for OSF: epibulbar subconjunctival fibroma; epibulbar fibroma; tarsal fibroma.</p>\r\n",
+        "timestamp": "2026-03-31T15:04:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 139105,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 737,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T15:04:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 139106,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 738,
+        "headingText": "\r\n<p>COST and OSF typically involve the bulbar conjunctiva and less frequently the palpebral conjunctiva {22200094;35243164;32509765}.</p>\r\n",
+        "timestamp": "2026-03-31T15:04:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 139107,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 739,
+        "headingText": "\r\n<p>Patients with COST and OSF may report a foreign body sensation and mild ocular injection {22200094;32509765}. COST and OSF are typically well circumscribed. Both tumours can be white, yellow, pink, or reddish in colour. COST is typically soft, cystoid, or gelatinous in appearance {22200094}.</p>\r\n",
+        "timestamp": "2026-03-31T15:04:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 139108,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 740,
+        "headingText": "\r\n<p>COST and OSF have been observed in patients between the second and eighth decades of life. Patients with COST are younger than those with OSF (mean: 47&nbsp;vs 78&nbsp;years). COST has no sex predilection, while OSF has a male predilection {22200094;26778331;31078543}.</p>\r\n",
+        "timestamp": "2026-03-31T15:04:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 139109,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 741,
+        "headingText": "\r\n<p>The etiology of OSF and COST is unknown, but appears to be reactive in nature {22200094;32509765}.</p>\r\n",
+        "timestamp": "2026-03-31T15:04:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 139110,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 742,
+        "headingText": "\r\n<p>The conjunctival substantia propria, Tenon capsule, and tarsal plate contain CD34-positive resident fibroblasts and factor&nbsp;XIIIa&ndash;positive dendritic cells that are the mucosal equivalent of dermal-skin dermal dendrocytes. It is speculated that in a likely inflammatory setting, these resident CD34-positive and factor XIIIa&ndash;positive cells undergo reactive proliferation with elaboration of the associated stromal response {32509765}.</p>\r\n",
+        "timestamp": "2026-03-31T15:04:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 139111,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 749,
+        "headingText": "\r\n<p>See <em>Clinical features</em>.</p>\r\n",
+        "timestamp": "2026-03-31T15:04:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 139112,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 743,
+        "headingText": "\r\n<p>COST is composed of variably myxoid stroma and can contain variable wiry to ropy collagen, with loosely arranged spindle-shaped cells. The spindle cells exhibit pseudonuclear inclusions. Multinucleated cells in a floret-like configuration are present {22200094;26778331}. There are usually no mitotic figures. Scattered aggregates of lymphocytes and histiocytes may be present. Scattered mast cells may be seen.</p>\r\n<p><em>COST histochemistry:</em> The stroma in most cases stains positively with Alcian blue&nbsp;/ colloidal iron {22200094;26778331}.</p>\r\n<p><em>COST immunohistochemistry:</em> The spindle cells are positive for CD34 {22200094}, PRKAR1A {31078543}, factor&nbsp;XIIIa {31078543}, and RB1 {31078543}. There may be scattered CD68-positive histiocytes.</p>\r\n<p>OSF is composed of evenly distributed, similar-appearing spindle cells and dendritic cells, with delicate, basophilic cytoplasm, in a collagen-rich matrix that is wiry/ropy to keloid-like {6677850;3358733;17519675;32509765}. In some cases, the spindle cells are plumper and can occasionally harbour pseudonuclear inclusions {32509765}. The spindle cells show no to minimal nuclear pleomorphism. No mitotic figures are present and multinucleated cells are not present. There are scattered evenly distributed mast cells. Occasional aggregates of chronic inflammatory cells are present at the periphery of the lesion.</p>\r\n<p><em>OSF histochemistry: </em>The stroma is negative for Alcian blue.</p>\r\n<p><em>OSF immunohistochemistry:</em> The spindle cells (including the plumper ones) are CD34-positive. There are scattered factor&nbsp;XIIIa&ndash;positive dendritic cells and some cases can show scattered CD68-positive histiocytes {32509765}.</p>\r\n<p>The spindle cells of COST and OSF are negative for S100, SMA, and desmin {22200094;32509765}.</p>\r\n<p>It is likely, given some histological similarity (presence of pseudonuclear inclusions) and immunohistochemical overlap (CD34+, factor&nbsp;XIIIa+), that COST and OSF may represent a continuum, with COST being myxoid paucicollagenous and OSF being collagen rich {32509765}.</p>\r\n<h6>Differential diagnosis</h6>\r\n<p>For the histological differential diagnosis, see <a style=\"cursor:pointer\" href=\"/attachment/65/341/32511\" target=\"_blank\">#32511</a>Table&nbsp;11.06.</p>\r\n",
+        "timestamp": "2026-03-31T15:04:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 139113,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 744,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2026-03-31T15:04:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 139114,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 745,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2026-03-31T15:04:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 139115,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 748,
+        "headingText": "\r\n<h6>Conjunctival stromal tumour</h6>\r\n<p><em>Essential:</em> bland spindle cells with pseudonuclear inclusions, multinucleated cells in floret-like configuration, and myxoid stroma with wiry or ropy non-compact collagen.</p>\r\n<p><em>Desirable:</em> stroma that stains positive with Alcian blue&nbsp;/ colloidal iron; factor&nbsp;XIIIa+ dendritic cells; CD34 positivity.</p>\r\n<h6>Ocular surface fibroma</h6>\r\n<p><em>Essential:</em> bland spindle cells, collagen-rich matrix, and scattered mast cells.</p>\r\n<p><em>Desirable:</em> presence of factor&nbsp;XIIIa+ dendritic cells; CD34 positivity.</p>\r\n",
+        "timestamp": "2026-03-31T15:04:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 139116,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 746,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2026-03-31T15:04:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 139117,
+        "bookId": 65,
+        "chapterId": 341,
+        "headingId": 747,
+        "headingText": "\r\n<p>There are no reported cases of malignant change or metastasis. Recurrence has been described rarely {26778331;32509765}.</p>",
+        "timestamp": "2026-03-31T15:04:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 69129,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 539,
+        "headingText": "\r\n<p>Succinate dehydrogenase (SDH)-deficient renal cell carcinoma (RCC) is a malignant renal epithelial tumour composed of bland cells with eosinophilic cytoplasm characterized by a loss of immunohistochemical expression of SDHB.</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 69130,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 540,
+        "headingText": "\r\n<p>8311/3 Succinate dehydrogenase&ndash;deficient renal cell carcinoma</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 69131,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 541,
+        "headingText": "\r\n<p>2C90.0 &amp; XH8EN1 Renal cell carcinoma of kidney, except renal pelvis &amp; Succinate dehydrogenase&ndash;deficient renal cell carcinoma</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 69132,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 542,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 69133,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 69134,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 544,
+        "headingText": "\r\n<p>SDH-deficient RCCs arise in the renal parenchyma, only rarely with extension into fat, veins, or sinuses {25025441}.</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 69135,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 545,
+        "headingText": "\r\n<p>Patients with SDH-deficient RCC may present with vague flank pain or metastasis. However, it is more commonly asymptomatic and identified as an incidental finding on imaging. A personal or family history of germline mutation in one of the SDH genes or associated syndromic neoplasms (SDH-deficient RCC, phaeochromocytoma&ndash;paraganglioma, SDH-deficient gastrointestinal stromal tumour, or pituitary adenoma) may be an important clue to the diagnosis but is often absent {29239034; 22544211}.</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 69136,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 546,
+        "headingText": "\r\n<p>SDH-deficient RCC accounts for &lt;&nbsp;0.05&ndash;0.2% of all renal carcinomas {25025441}. Presentation in young adulthood is usual (median age: 35&nbsp;years; range: 14&ndash;76&nbsp;years {25025441; 25034258}. There is a slight male predominance (M:F&nbsp;ratio: 1.8:1) {25025441; 25034258}.</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 69137,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 547,
+        "headingText": "\r\n<p>The overwhelming majority of patients reported to date have been found to have pathogenic germline variants in one of the SDH genes&nbsp;&ndash; most commonly <em>SDHB</em>, followed by <em>SDHA</em> and <em>SDHC</em> {21366490; 21934479; 25025441; 24150194}. <em>SDHD</em> mutation is rarely, if ever, associated with RCC {25025441; 29239034}.</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 69138,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 548,
+        "headingText": "\r\n<p>Inactivation of any one of the SDH genes, usually due to germline mutation with the addition of a somatic second hit, leads to dysfunction of the SDH complex, a key respiratory enzyme on the inner mitochondrial membrane that links the Krebs cycle and the electron transport chain {29239034; 22544211}. The subsequent accumulation of oncometabolites causes tumorigenesis by activating the pseudohypoxic pathway {32234487}.</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 69139,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 555,
+        "headingText": "\r\n<p>The tumours are usually well circumscribed with a tan-brown to red cut surface. Although they are mostly solid, cystic change is not uncommon {21934479; 25025441; 25034258}. Multifocal or bilateral tumours are found in as many as 30% of cases at long-term follow-up {25025441; 25034258}.</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 69140,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 549,
+        "headingText": "\r\n<p>The majority of SDH-deficient RCCs are well-circumscribed or lobulated and show distinctive morphological features at least focally, demonstrating sheets or compact nests of bland cells with eosinophilic cytoplasm. The eosinophilic cytoplasm, which may have a pale, bubbly appearance, lacks the fine homogeneous granularity of oncocytoma. The cells also lack prominent cell borders, like in chromophobe RCC. The tumours commonly contain microcysts filled with pale eosinophilic fluid {21934479; 25025441; 25034258}. Normal renal tubules are frequently entrapped at the periphery. A characteristic but inconstant feature is the presence of cytoplasmic inclusions containing eosinophilic or pale flocculent material. Higher-grade transformation may occur, heralded by denser cytoplasm, increased nuclear atypia with prominent nucleoli, coagulative necrosis, and occasionally sarcomatoid change. Other morphologies, sometimes with a papillary or sarcomatoid architecture, are increasingly recognized {21934479; 25025441}.</p>\r\n<p>Loss of immunohistochemical expression of SDHB is a prerequisite for the diagnosis of SDH-deficient RCC. Care is required when performing and interpreting SDHB immunohistochemistry. An internal positive control displaying strong mitochondrial (i.e. granular and cytoplasmic) reactivity in non-neoplastic cells is always required before a stain is considered negative. Furthermore, weak diffuse cytoplasmic expression of SDHB should also be considered negative if it contrasts the strong granular mitochondrial expression in internal positive controls. Tumours associated with biallelic inactivation of <em>SDHA</em> also show a loss of SDHA (as well as SDHB) expression, whereas tumours driven by <em>SDHB</em>, <em>SDHC</em>, or <em>SDHD</em> mutation show preserved SDHA expression {21752896; 23060355}. Although no other immunohistochemical stains are definitive, these tumours usually show negative staining for KIT (CD117) (scattered mast cells are typically highlighted), and they are frequently negative for cytokeratins including CK7 {25025441; 25034258}. Fumarate hydratase expression is consistently preserved.</p>\r\n<p>High-grade SDH-deficient RCCs or cases with other morphologies may be unrecognizable; in some cases, the high-grade foci may be admixed with foci of typical low-grade morphology. Therefore, a low threshold for SDHB immunohistochemistry is recommended in any unusual or difficult-to-classify renal tumour, particularly one with eosinophilic cytoplasm or occurring in a young patient {28165631; 25025441}. Cases associated with <em>SDHA</em> mutation more commonly show other morphologies, often with a higher nuclear grade and demonstrating papillary, solid, cribriform, or desmoplastic architecture {25724004; 26476567; 26722403; 29872718}.</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 69141,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 550,
+        "headingText": "\r\n<p>The diagnosis is not normally made cytologically. SDHB immunohistochemistry may be difficult to interpret on cell block preparations {29239034}.</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 69142,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 551,
+        "headingText": "\r\n<p>The diagnosis of SDH-deficient RCC is considered an indication for genetic counselling and for testing for germline mutation in the SDH genes (most commonly <em>SDHB</em>, followed by <em>SDHC</em>, <em>SDHA</em>, and <em>SDHD</em>). Large-scale deletions are not uncommon and should be considered before SDH mutation is excluded. Immunohistochemistry can be useful to assess the pathogenicity of genetic variants of uncertain significance. Germline pathogenic variants in <em>SDHA</em> are both relatively common (estimated to occur in up to 0.3% of the population) {21752896} and demonstrate an extremely low lifetime penetrance (recently estimated as 1.7%) {30201732}. Therefore, <em>SDHA</em> mutation identified by large panel sequencing commonly represents an incidental finding unrelated to renal neoplasia {21752896; 23060355}.</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 69143,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> loss of expression of SDHB in the presence of an internal positive control in non-neoplastic cells; cases associated with <em>SDHA</em> mutation also show loss of expression of SDHA.</p>\r\n<p><em>Desirable:</em> typical morphology, characterized by bland cells with eosinophilic (but not oncocytic) cytoplasm and occasional cytoplasmic inclusions, is usually present at least focally, but other morphologies are increasingly being recognized.</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 69144,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 552,
+        "headingText": "\r\n<p>The Union for International Cancer Control (UICC) or American Joint Committee on Cancer (AJCC) staging system is used.</p>\r\n",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 69145,
+        "bookId": 36,
+        "chapterId": 19,
+        "headingId": 553,
+        "headingText": "\r\n<p>The majority of SDH-deficient RCCs demonstrate uniform low-grade morphology and have a favourable prognosis, with a metastatic rate of 11% on long-term follow-up {25025441; 25034258}. However, in the presence of high-grade features (coagulative necrosis and sarcomatoid transformation), the risk of metastasis is as high as 70% {25025441}. Late recurrences, as long as 30&nbsp;years after primary excision, have been reported; however, some of these late metastases may originate from unsampled metachronous tumours {25025441; 25034258}. Long-term follow-up with surveillance for other SDH-deficient neoplasms (i.e. paraganglioma, SDH-deficient gastrointestinal stromal tumour, and pituitary adenoma) is indicated for cases associated with germline mutation {29239034; 33664427}.</p>",
+        "timestamp": "2022-02-10T16:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

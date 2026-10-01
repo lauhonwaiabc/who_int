@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 149266,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 951,
+        "headingText": "\r\n<p>Intraductal papillary neoplasm of the bile duct (IPNB) is a grossly visible non-invasive neoplasm characterized by intraluminal finger-like and sometimes tubular growth of columnar, often mucin-producing, epithelial cells.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 149267,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 952,
+        "headingText": "\r\n<p>85034/0 Intraductal papillary neoplasm with low-grade intraepithelial neoplasia</p>\r\n<p>85034/2 Intraductal papillary neoplasm with high-grade intraepithelial neoplasia</p>\r\n",
+        "timestamp": "2026-06-09T11:28:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 149268,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 953,
+        "headingText": "\r\n<p>2E92.6 &amp; XA6R80 &amp; XH5ZH7 Intraductal papillary neoplasm with low-grade intraepithelial neoplasia of the bile duct, NOS</p>\r\n<p>2E61.3 &amp; XA6R80 &amp; XH6AH7 Intraductal papillary neoplasm with high-grade intraepithelial neoplasia of the bile duct, NOS</p>\r\n",
+        "timestamp": "2026-06-09T11:28:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 149269,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 954,
+        "headingText": "\r\n<p><em>Not recommended:</em> papillary (villous) adenoma; tubulopapillary (tubulovillous) adenoma; non-invasive papillary neoplasm/carcinoma; papillary carcinoma.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 149270,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 955,
+        "headingText": "\r\n<p>Gastric intraductal papillary neoplasm of the bile duct (low-grade, 85039/0; high-grade, 85039/2); intestinal intraductal papillary neoplasm of the bile duct (low-grade, 8503A/0; high-grade, 8503A/2); pancreatobiliary intraductal papillary neoplasm of the bile duct (low-grade, 8503B/0; high-grade, 8503B/2)</p>\r\n<p>Note: Intraductal oncocytic papillary neoplasms (IOPNs) and intraductal tubulopapillary neoplasms (ITPNs), which were previously considered subtypes of IPNBs, are now regarded as distinct tumour types and are described separately (see corresponding sections).</p>\r\n",
+        "timestamp": "2026-06-09T11:28:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 149271,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 956,
+        "headingText": "\r\n<p>By definition, these neoplasms involve the extrahepatic and large intrahepatic bile ducts and grow within ductal lumina. The prevalent location of IPNBs is highly variable across studies, with approximately 80% of tumours located in the intrahepatic bile ducts in some studies and up to 70% in the extrahepatic bile ducts in others {29272078;36821179}.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 149272,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 957,
+        "headingText": "\r\n<p>Symptoms and signs include recurrent and intermittent abdominal pain, jaundice, and cholangitis {27356284;28240521;22504729;36821179}.</p>\r\n<p>Cholangiography typically shows filling defects in the biliary tract, caused by polypoid tumours and/or aggregated intraluminal mucin, although the tumour itself may be undetectable radiologically {26694060;27356284}. As filling defects, they often give the impression of calculi (see <a style=\"cursor:pointer\" href=\"/attachment/72/103/43855\" target=\"_blank\">#43855</a>Table&nbsp;10.02).</p>\r\n",
+        "timestamp": "2026-06-09T11:28:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 149273,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 958,
+        "headingText": "\r\n<p>IPNBs show wide geographical differences in its prevalence, accounting for 10&ndash;38% of all bile duct tumours in eastern Asia but only 7&ndash;11% of all bile duct tumours in North American and European countries {24379576;24949206;29629808;37900587}. Current reports describe predominantly sporadic cases without a tendency for familial aggregation {24379576;24949206;39311283}. The age range of patients with IPNBs is 42&ndash;80&nbsp;years, with a slight male predominance (approximately 60%) {32100878;36821179}.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 149274,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 959,
+        "headingText": "\r\n<p>The etiology is unclear in most cases. Known risk factors are primary sclerosing cholangitis {34141973}, hepatolithiasis, and, in eastern Asian countries, liver fluke infection (clonorchiasis and opisthorchiasis) {27067788;22634127;20592891}. Patients with pancreaticobiliary maljunction and concurrent choledochal cysts, referred to as dilated pancreaticobiliary maljunction, also appear to be prone to develop IPNBs with an associated carcinoma {32336556;33481384}.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 149275,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 960,
+        "headingText": "\r\n<p>IPNBs appear to progress from low-grade dysplasia to high-grade dysplasia (HGD), and subsequently some progress to invasive adenocarcinoma {22634127;23828315;36821179}.</p>\r\n<p>Molecularly, the development of IPNBs follows a sequential progression, associated with the stepwise acquisition of somatic alterations affecting common oncogenic pathways, such as <em>KRAS</em> mutations, loss of p16, and inactivating <em>TP53</em> mutations {23828315;12481012;33468537}. Somatic <em>GNAS</em> mutations are detected in less than half of all IPNB cases; to date all cases with <em>GNAS</em> mutations have had intestinal differentiation with villous architecture and mucus hypersecretion {27864998;24312577;24061513;33468537}. Mutations of <em>RNF43</em>, a tumour suppressor gene, are more prevalent in the intestinal type of IPNBs {27864998}.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 149276,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 967,
+        "headingText": "\r\n<p>IPNBs appear as a polypoid mass in a dilated bile duct, which may show cystic, cylindrical, or fusiform dilatation {20623279;22504729;33468537}. The reported size of these dilated duct lumina is 41&nbsp;&plusmn;&nbsp;22&nbsp;mm. The height of the intraluminal polypoid or papillary structures usually is in the 5&ndash;20&nbsp;mm range. Some IPNBs appear as multiple contiguous papillary or polypoid lesions, some present as multiple discontinuous lesions, and others are isolated papillary lesions. IPNBs may present with mucus hypersecretion, more commonly in Asian patients than in European or North American patients {15104295;22504729}. Progression of IPNB to carcinoma with invasion into the periductal tissue is typically limited, though it can occasionally be nodular or mass-forming.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 149277,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 961,
+        "headingText": "\r\n<p>Papillary/villous structures with fine fibrovascular cores covered by neoplastic epithelial cells are predominant, although tubular or glandular components may also be present {23828315;33468537}. The fibrous cores of the papillary structures may be widened by oedema or inflammatory cell infiltrates.</p>\r\n<p>Based on the highest degree of cytoarchitectural atypia in the epithelium, IPNBs are classified as low-grade or high-grade. Most IPNBs arising in the extrahepatic bile ducts exhibit HGD {29272078;33468537}.</p>\r\n<p>The epithelia of IPNBs can be classified as having intestinal, pancreatobiliary, or gastric-type differentiation on the basis of their cytological appearance and immunophenotype {17058219;21946282;33468537}. The neoplastic epithelium of approximately half of all IPNBs has two or more directions of differentiation, and these tumours are classified according to the most prevalent morphological pattern. MUC5AC and MUC6 expression support gastric-type differentiation, and MUC2 and CDX2, intestinal. MUC1 is commonly expressed by the pancreatobiliary-type epithelium {33468537}. Intestinal and gastric-type differentiation are most common in Asian countries, whereas the pancreatobiliary subtype is most frequent in European and North American patients {33468537}.</p>\r\n<p>Recently, a novel classification system was proposed, dividing IPNBs into type&nbsp;1 and type&nbsp;2 categories on the basis of their similarity to their counterparts in the pancreas {22504729;28550497;27067788}. Type&nbsp;1 IPNBs are histologically similar to intraductal papillary mucinous neoplasm of the pancreas, whereas type&nbsp;2 IPNBs correspond to the preinvasive (tumoural intraepithelial neoplasm) forms of what was previously referred to as papillary cholangiocarcinomas, characterized by HGD, irregular structures, and complex lesions. Type&nbsp;1 is more frequent in the intrahepatic bile ducts, whereas type&nbsp;2 is more common in the extrahepatic bile ducts. Invasive carcinoma is more prevalent in type&nbsp;2 than in type&nbsp;1 IPNMs (see <a style=\"cursor:pointer\" href=\"/attachment/72/103/43854\" target=\"_blank\">#43854</a>Table&nbsp;10.03) {29272078;32511838;32100878;33508254}.</p>\r\n<p>The differential diagnosis of IPNBs is summarized in <a style=\"cursor:pointer\" href=\"/attachment/72/103/43856\" target=\"_blank\">#43856</a>Box&nbsp;10.01 {27984121;26111977;25818370}.</p>\r\n<p>At presentation, approximately 40&ndash;80% of IPNBs have already progressed to minimally invasive carcinoma, usually consisting of tubular adenocarcinoma and occasionally colloid carcinoma {23828315;22634127;33468537}. An association of IPNBs with intrahepatic cholangiocarcinoma of small duct&ndash;type is very rare {33468537}.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 149278,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 962,
+        "headingText": "\r\n<p>In FNA specimens, the hypercellular aspirates often consist of broad, double-cell&ndash;layered sheets of ductal columnar epithelium with distinctive, three-dimensional, complex, and branching papillary configurations with fibrovascular cores {10790236;28664934;29582676} [[International Academy of Cytology &ndash; International Agency for Research on Cancer &ndash; World Health Organization Joint Editorial Board. WHO Reporting System for Pancreaticobiliary Cytopathology. Lyon (France): International Agency for Research on Cancer; 2022. (IAC-IARC-WHO cytopathology reporting systems series, 1st ed.; vol. 2). https://publications.iarc.who.int/621. Bookref]]. It can be difficult to determine whether a cluster of severely atypical cells represents HGD or an invasive carcinoma.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 149279,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 963,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-06-09T11:28:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 149280,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 966,
+        "headingText": "\r\n<p><em>Essential:</em> non-invasive grossly visible papillary, villous, or polypoid lesion(s) predominantly growing in a bile duct lumen; fine fibrovascular cores covered by papillary, predominantly cuboidal or columnar, neoplastic epithelia; exclusion of ovarian-like stroma.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 149281,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 964,
+        "headingText": "\r\n<p>IPNBs with high-grade intraepithelial neoplasia are classified as Tis. The staging of invasive carcinoma (cholangiocarcinoma) derived from IPNBs follows the TNM classification for intrahepatic or extrahepatic cholangiocarcinoma depending on localization [[Brierley JD, Giuliani M, O&rsquo;Sullivan B, et al., editors. TNM Classification of Malignant Tumours. 9th ed. Oxford (UK): John Wiley &amp; Sons; 2025. Bookref]].</p>\r\n",
+        "timestamp": "2026-06-09T11:28:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 149282,
+        "bookId": 72,
+        "chapterId": 103,
+        "headingId": 965,
+        "headingText": "\r\n<p>IPNBs with low-grade dysplasia are typically not associated with tumour-related recurrence or death, provided that invasion has been definitively ruled out and there is no multifocality. In contrast, carcinomas that have developed out of IPNBs have higher rates of tumour recurrence and lower overall survival. Therefore, meticulous exclusion of an invasive carcinoma in IPNB with high-grade dysplasia is required. The 5-year survival is 80% for patients with non-invasive IPNBs, compared with 60% for those with invasive carcinoma developed from IPNBs when complete resection is achieved {36821179}. The prognosis for invasive carcinomas arising in association with an IPNB is better than that of conventional intrahepatic and extrahepatic cholangiocarcinomas {27067788;22634127;32100878}.</p>\r\n<p>Invasive cholangiocarcinomas derived from IPNBs with pancreatobiliary differentiation exhibit higher histological grades, more lymph node metastases, more frequent postoperative recurrences, and worse clinical outcomes than invasive cholangiocarcinomas associated with IPNBs with gastric and intestinal differentiation {27356284;26873016}. MUC1-expressing cholangiocarcinomas associated with IPNBs show a shorter recurrence-free survival time compared with the MUC1&ndash;non-expressing group. In addition, colloid carcinomas derived from IPNBs have a better prognosis than tubular adenocarcinomas {15104295;22634127}.</p>",
+        "timestamp": "2026-06-09T11:28:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

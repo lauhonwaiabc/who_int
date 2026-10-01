@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 68542,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 432,
+        "headingText": "\r\n<p>Primary mediastinal (thymic) large B-cell lymphoma (PMBCL) is a mature aggressive large B-cell lymphoma of putative thymic B-cell origin, arising in the mediastinum, with distinctive clinical, immunophenotypic, genotypic, and molecular features.</p>\r\n",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 68543,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 433,
+        "headingText": "\r\n<p>9679/3 Mediastinal large B-cell lymphoma</p>\r\n",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 68544,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 434,
+        "headingText": "\r\n<p>2A81.0 Primary mediastinal large B-cell lymphoma</p>\r\n",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 68545,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 435,
+        "headingText": "<p><em>Not recommended:</em> primary mediastinal clear cell lymphoma of B-cell type (obsolete); mediastinal diffuse large cell lymphoma with sclerosis (obsolete).</p>",
+        "timestamp": "2022-10-07T14:18:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 68546,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 68547,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 437,
+        "headingText": "\r\n<p>PMBCL involves the anterior-superior mediastinum (thymus) {2423430}. Infiltration of the lung, chest wall, pleura, and pericardium is frequent. Regional involvement of supraclavicular and cervical lymph nodes may occur {18603558}. At progression, dissemination to extranodal sites including kidney, adrenal, liver, or CNS is common, contrasting with the low frequency of bone marrow involvement {9193365; 8669537}.</p>\r\n",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 68548,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 438,
+        "headingText": "\r\n<p>The commonest symptom is superior vena cava syndrome, followed by airway obstruction and pleural and pericardial effusions. B&nbsp;symptoms may be present.</p>\r\n<h5>Imaging</h5>\r\n<p>A characteristic feature of PMBCL at first diagnosis is the regular contour of the primary tumour and the (near) absence of lymphadenopathy {15538151}.</p>\r\n",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 68549,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 439,
+        "headingText": "\r\n<p>PMBCL accounts for 2&ndash;3% of non-Hodgkin lymphomas and occurs predominantly in young adults (third and fourth decades of life), with a female predominance {9166827; 8669537; 8246020; 18603558; 8068936}.</p>\r\n",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 68550,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 440,
+        "headingText": "\r\n<p>The etiology is unknown. Rare familial clustering suggests <em>KMT2A</em> (previously called <em>MLL</em>) as a candidate predisposition gene {23457195}.</p>\r\n",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 68551,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 441,
+        "headingText": "<p>PMBCL is thought to be derived from thymic B&nbsp;cells. IG genes are clonally rearranged {11675349}. Rearrangements of <em>BCL2</em>, <em>BCL6</em>, and <em>MYC</em> are absent or rare {8669486}. Breaks in the MHC class&nbsp;II transactivator <em>CIITA</em> at 16p13.13 result in downregulated expression of MHC class&nbsp;II molecules and overexpression of PDL1 (CD274) and PDL2 (PDCD1LG2) {21368758}. The genomic profile typically contains gains including amplified regions in chromosome 9p24.1, including the <em>JAK2</em>/<em>PDCD1LG2</em> (<em>PD-L2</em>) locus, and 2p16.1, including the <em>REL</em>/<em>BCL11A</em> locus, but also in chromosomes Xp11.4-p21 and Xq24-q26 {8608249; 11241792; 17728785}. Among lymphomas, copy-number gains and high-level amplification, as well as rearrangements of <em>CD274</em> (<em>PD-L1</em>) or <em>PDCD1LG2</em> (<em>PD-L2</em>), occur almost exclusively in PMBCL {26549456; 20628145; 24497532}. PMBCL has a unique transcriptional signature that is distinct from that of other forms of diffuse large B-cell lymphoma, but it shares similarities with classic Hodgkin lymphoma (CHL) {12933571; 12975453}. PMBCL has constitutively activated NF-&kappa;B {15870177} due to deleterious mutations in the <em>TNFAIP3</em> gene {19380639}. Recurrent mutations of <em>STAT6</em> (or <em>PTPN1</em>) and <em>SOCS1</em> are found {24531327}. Comprehensive molecular profiling emphasizes immune evasion and interferon response factor, as well as mutations in XPO1 pathways, as relevant pathogenic mechanisms {31292115; 31697821; 26819451; 27312795}.</p>",
+        "timestamp": "2021-02-09T14:38:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 68552,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 448,
+        "headingText": "\r\n<p>PMBCL occurs as a solid mass lesion, tan to light brown, sometimes with central necrosis.</p>\r\n",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 68553,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 442,
+        "headingText": "<p>The growth pattern is diffuse and the large tumour cells usually form clusters or sheets. The centre of the lesion contains predominantly neoplastic cells, while a variable number of admixed reactive lymphocytes, macrophages, and granulocytes may be present at the periphery. A frequent feature is distinctive stromal fibrosis made up of irregular collagen bands, compartmentalizing the lymphomatous infiltrate into variably sized aggregates {3491784; 10029446; 3923821}. This stromal component is frequently absent in involved lymph nodes. The pattern of involvement in lymph nodes is carcinoma-like, starting from marginal sinuses, followed by infiltration and replacement of the nodal parenchyma.</p>\r\n<p>PMBCL has a broad range of cytomorphology. The cells range from medium-sized to large (2&ndash;5&nbsp;times the size of a small lymphocyte) and have abundant, frequently clear cytoplasm and irregularly round or ovoid (occasionally multilobated) nuclei, usually with small nucleoli {10029446}. Some cases contain cells with pleomorphic nuclei and abundant amphophilic cytoplasm, resembling Hodgkin lymphoma or non-lymphoid tumours {10029446; 16224207}.</p>\r\n<p>Rarely, there are grey zone (borderline) lesions combining features of PMBCL and CHL {29296913}. Examples of composite PMBCL and nodular sclerosis CHL have been described, and PMBCL may occur before, concurrent with, or at relapse of nodular sclerosis CHL {16224207}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>PMBCL expresses B-cell lineage antigens such as CD19 and CD20. It lacks immunoglobulin expression despite a functional IG gene rearrangement and expression of relevant transcription factors {7887454; 12507907; 14694522}. CD30 is present in &gt;&nbsp;80% of cases, but unlike in CHL, it is usually weak and heterogeneous and often without membranous staining {10439805; 12507907}. Tumour cells frequently express IRF4 (MUM1; 75%) and CD23 (70%), and variably BCL2 and BCL6. CD10 expression is uncommon {15569053; 11688462; 12507907}. PMBCL often lacks HLA class&nbsp;I and/or class&nbsp;II molecules {3103712; 3491784}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Diffuse large B-cell lymphoma involving the mediastinum often shows involvement of mediastinal lymph nodes rather than the thymic area, as well as widespread extramediastinal involvement including extrathoracic lymph nodes and bone marrow. Expression of CD30, CD23, MAL, and PDL1; rearrangements/mutations of <em>CIITA</em>; and copy-number gains of the <em>CD274</em> (<em>PD-L1</em>) or <em>PDCD1LG2</em> (<em>PD-L2</em>) locus in PMBCL are helpful to exclude diffuse large B-cell lymphoma but not CHL, which shares these features with PMBCL {26549456; 20628145; 24497532; 10552968}.</p>\r\n<p>CHL can be ruled out by detection of surface B-cell antigens such as CD79a and CD19, as well as CD45. However, grey zone lymphomas sharing features of CHL and PMBCL have been described {16224207} (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/279\" target=\"_blank\">section </a><em>Classic Hodgkin lymphoma of the mediastinum</em>).</p>\r\n<p>PMBCLs arising outside the mediastinum lacking the typical clinical presentation are uncommon. Extramediastinal PMBCLs may be identified by genomic or transcriptional analysis, but not by current clinical practice {30257882; 31471540}.</p>",
+        "timestamp": "2021-02-26T11:17:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 68554,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 443,
+        "headingText": "\r\n<p>FNA can be used successfully in most cases to differentiate between lymphoma and other malignant tumours, but further subclassification of lymphoma is not advised on FNA alone.</p>\r\n",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 68555,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 444,
+        "headingText": "\r\n<p>Usually not required</p>\r\n",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 68556,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Large B-cell lymphoma in the anterior (prevascular) mediastinum with no or only minor extramediastinal spread</li>\r\n<li>Mature B-cell phenotype, accompanied by at least partial expression of CD23 and/or CD30</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Distinctive sclerosis</li>\r\n<li>Absence of <em>MYC</em>, <em>BCL2</em>, and <em>BCL6</em> rearrangements and copy gain of <em>CD274</em> (<em>PD-L1</em>) or <em>PDCD1LG2</em> (<em>PD-L2</em>) locus</li>\r\n</ul>",
+        "timestamp": "2021-02-09T14:38:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 68557,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 445,
+        "headingText": "\r\n<p>Staging is performed according to the Lugano modification of the Ann Arbor scheme for lymphomas (Union for International Cancer Control [UICC]). Staging is established using both standard radiological procedures and PET, which is helpful in assessing response to treatment {29748435}.</p>\r\n",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 68558,
+        "bookId": 35,
+        "chapterId": 276,
+        "headingId": 446,
+        "headingText": "\r\n<p>Histopathological patterns of PMBCL are not associated with outcome {10029446}. Extension into adjacent thoracic viscera, pleural or pericardial effusion, and poor performance status are associated with inferior outcome {8669537; 8246020; 9193365; 12933571}. Positive interim or end-of-treatment PET is associated with inferior outcome {29748435; 30610279}. Patients with PMBCL treated with immunochemotherapy show a 5-year progression-free survival rate of approximately 80% {27477167; 20724576; 30610279}.</p>",
+        "timestamp": "2020-12-04T09:43:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 93,
+    "bookId": "45",
+    "roleid": 130,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2754,
+        "lastname": "von Deimling",
+        "firstname": "Andreas",
+        "initials": "",
+        "email": "",
+        "roleid": 130,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 94,
+    "bookId": "45",
+    "roleid": 138,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2756,
+        "lastname": "Figarella-Branger",
+        "firstname": "Dominique",
+        "initials": "",
+        "email": "",
+        "roleid": 138,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 95,
+    "bookId": "45",
+    "roleid": 139,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3598,
+        "lastname": "Rosenblum",
+        "firstname": "Marc K.",
+        "initials": "",
+        "email": "",
+        "roleid": 139,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 96,
+    "bookId": "45",
+    "roleid": 140,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2396,
+        "lastname": "Giannini",
+        "firstname": "Caterina",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3550,
+        "lastname": "Giangaspero",
+        "firstname": "Felice",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3570,
+        "lastname": "Huse",
+        "firstname": "Jason T.",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3575,
+        "lastname": "Komori",
+        "firstname": "Takashi",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      },
+      {
+        "contributorid": 3752,
+        "lastname": "Pekmezci",
+        "firstname": "Melike",
+        "initials": "",
+        "email": "",
+        "roleid": 140,
+        "position": 0
+      }
+    ]
+  }
+]

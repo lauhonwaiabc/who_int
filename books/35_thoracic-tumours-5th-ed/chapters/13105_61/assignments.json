@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 85,
+    "bookId": "35",
+    "roleid": 117,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2879,
+        "lastname": "Dacic",
+        "firstname": "Sanja",
+        "initials": "",
+        "email": "",
+        "roleid": 117,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 86,
+    "bookId": "35",
+    "roleid": 118,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2872,
+        "lastname": "Travis",
+        "firstname": "William D.",
+        "initials": "",
+        "email": "",
+        "roleid": 118,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 87,
+    "bookId": "35",
+    "roleid": 119,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3497,
+        "lastname": "Husain",
+        "firstname": "Aliya Noor",
+        "initials": "",
+        "email": "",
+        "roleid": 119,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 88,
+    "bookId": "35",
+    "roleid": 120,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2873,
+        "lastname": "Nicholson",
+        "firstname": "Andrew Gordon",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      },
+      {
+        "contributorid": 3372,
+        "lastname": "Farver",
+        "firstname": "Carol F.",
+        "initials": "",
+        "email": "",
+        "roleid": 120,
+        "position": 0
+      }
+    ]
+  }
+]

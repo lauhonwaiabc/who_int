@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 918,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 694,
+    "contributions": [
+      {
+        "pkcontributionId": 135402,
+        "bookId": 51,
+        "chapterId": 194,
+        "headingId": 694,
+        "headingText": "\r\n<p>Extraskeletal myxoid chondrosarcoma (EMC) is a malignant mesenchymal neoplasm of uncertain differentiation characterized by abundant myxoid matrix, multilobular architecture, and uniform cells arranged in cords, clusters, and reticular networks, and by an <em>NR4A3</em> rearrangement, with no evidence of cartilaginous differentiation.</p>\r\n",
+        "timestamp": "2025-10-14T14:26:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 919,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 695,
+    "contributions": [
+      {
+        "pkcontributionId": 135403,
+        "bookId": 51,
+        "chapterId": 194,
+        "headingId": 695,
+        "headingText": "\r\n<p>EMC presents in middle-aged adults (mean age: 50&nbsp;years; range: 4&ndash;92&nbsp;years), as a slowly enlarging, deep-seated soft tissue mass. Despite high recurrence and metastatic rates, cases usually have a prolonged clinical course. EMC occurs most commonly in the lower extremities, with the thigh as the most common location, followed by the popliteal fossa, buttock, trunk, head and neck, paraspinal soft tissue, abdomen, pelvis, and foot {4261659; 10366145}. Unusual locations include finger, pleura, and bone {11679947; 1553915; 9149016; 28249774}. MRI shows a well-circumscribed lobulated mass, which is isointense to muscles on T1-weighted images and hyperintense on T2-weighted and short-tau inversion recovery (STIR) images with peripheral/septal enhancement {25177237}.</p>\r\n",
+        "timestamp": "2025-10-14T14:26:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 920,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 696,
+    "contributions": [
+      {
+        "pkcontributionId": 135404,
+        "bookId": 51,
+        "chapterId": 194,
+        "headingId": 696,
+        "headingText": "\r\n<p>EMC is characterized by a lobular architecture and a reticular arrangement of uniform tumour cells with oval to spindle nuclei and eosinophilic cytoplasm in a chondromyxoid stroma. A subset of high-grade tumours shows hypercellularity and prominent epithelioid to rhabdoid cytomorphology {4261659; 10469211; 10366145}.</p>\r\n",
+        "timestamp": "2025-10-14T14:26:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 921,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 697,
+    "contributions": [
+      {
+        "pkcontributionId": 135405,
+        "bookId": 51,
+        "chapterId": 194,
+        "headingId": 697,
+        "headingText": "\r\n\r\nModerate to high cellularity\r\nBright magenta chondromyxoid stroma (Giemsa)\r\nDispersed, corded, lace-like, and occasional perivascular arrangement of uniform cells\r\nVariable polygonal and epithelioid to rhabdoid to spindle cells\r\nOval to spindle nuclei with small nucleoli, frequent intranuclear pseudoinclusions, and grooves\r\nVacuolated cytoplasm and unipolar or bipolar cytoplasmic processes of variable length\r\n\r\n<p><em>Reference(s):</em> {18925568; 30353688; 17676582; 32828707}</p>\r\n",
+        "timestamp": "2025-10-14T14:26:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 922,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 698,
+    "contributions": [
+      {
+        "pkcontributionId": 135406,
+        "bookId": 51,
+        "chapterId": 194,
+        "headingId": 698,
+        "headingText": "\r\n<p>The differential diagnosis of EMC includes other myxoid tumours with a monotonous appearance, including low-grade fibromyxoid sarcoma, high-grade myxoid liposarcoma, myoepithelial tumour of soft tissue, and ossifying fibromyxoid tumour. Myxoid liposarcoma displays complex and plexiform vascular networks and a variable number of univacuolated lipoblasts. NGS assists in the diagnosis. Low-grade fibromyxoid sarcoma has a more fibrillary matrix and expresses MUC4 on ICC. Myoepithelial tumour and EMC have significant morphological overlap, and NGS is required for differentiation. Despite the name &ldquo;extraskeletal myxoid chondrosarcoma&rdquo;, there is no cartilaginous differentiated material present in EMC.</p>\r\n",
+        "timestamp": "2025-10-14T14:26:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 923,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 699,
+    "contributions": [
+      {
+        "pkcontributionId": 135407,
+        "bookId": 51,
+        "chapterId": 194,
+        "headingId": 699,
+        "headingText": "\r\n<p>EMC variably expresses nonspecific ICC markers such as S100, NSE, and KIT (CD117). SMARCB1 (INI1) loss has been reported in a subset of tumours with rhabdoid morphology. Detection of <em>NR4A3</em> arrangement by FISH or <em>EWSR1</em>::<em>NR4A3</em> fusion by RT-PCR or NGS can help in confirming a diagnosis of EMC {32646614; 22569967}. Myxoid liposarcoma harbours <em>DDIT3</em> rearrangement, which is negative in EMC {9951599; 31042519}. Both EMC and myoepithelial tumours harbour <em>EWSR1</em> rearrangement, but <em>NR4A3</em> rearrangement is specific for EMC. Ossifying fibromyxoid tumour often expresses S100 and desmin and demonstrates <em>PHF1</em> and/or <em>TFE3</em> rearrangement {18637810; 31042519; 22569967; 27028395}.</p>",
+        "timestamp": "2025-10-14T14:26:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

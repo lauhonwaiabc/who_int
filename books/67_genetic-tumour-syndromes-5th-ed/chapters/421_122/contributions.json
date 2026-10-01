@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1174,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 795,
+    "contributions": [
+      {
+        "pkcontributionId": 158803,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 795,
+        "headingText": "\r\n<p>BRCA-related cancer predisposition syndromes are inherited autosomal dominant disorders of germline mutation (pathogenic variants) of <em>BRCA1</em> or <em>BRCA2</em>, in which there is an increased risk of breast cancer (especially before the age of 50&nbsp;years), tubo-ovarian carcinoma, prostatic carcinoma, pancreatic carcinoma, and other cancer types.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1175,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "MIM numbering",
+    "headingPosition": 2,
+    "headingid": 796,
+    "contributions": [
+      {
+        "pkcontributionId": 158804,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 796,
+        "headingText": "\r\n<p>604370 Familial breast-ovarian cancer&nbsp;1; BROVCA1 (<em>BRCA1</em>)</p>\r\n<p>612555 Familial breast-ovarian cancer&nbsp;2; BROVCA2 (<em>BRCA2</em>)</p>\r\n",
+        "timestamp": "2026-09-02T11:51:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1176,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 797,
+    "contributions": [
+      {
+        "pkcontributionId": 158805,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 797,
+        "headingText": "\r\n<p>2C65 Hereditary breast and ovarian cancer syndrome</p>\r\n",
+        "timestamp": "2026-09-02T11:51:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1177,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 798,
+    "contributions": [
+      {
+        "pkcontributionId": 158806,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 798,
+        "headingText": "\r\n<p><em>Acceptable:</em> hereditary breast and ovarian cancer syndrome.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1178,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 799,
+    "contributions": [
+      {
+        "pkcontributionId": 158807,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 799,
+        "headingText": "\r\n<p><em>BRCA1</em>-related hereditary cancer syndrome; <em>BRCA2</em>-related hereditary cancer syndrome</p>\r\n",
+        "timestamp": "2026-09-02T11:51:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1179,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 800,
+    "contributions": [
+      {
+        "pkcontributionId": 158808,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 800,
+        "headingText": "\r\n<p><em>BRCA1</em>- and<em> BRCA2</em>-related hereditary breast and ovarian cancer syndromes are associated with carcinomas of the male and female breast, ovary&nbsp;/ fallopian tube, peritoneum, and prostate, as well as biliary tract cancer and oesophageal, gastric, and pancreatic cancers {35420638}.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1180,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 801,
+    "contributions": [
+      {
+        "pkcontributionId": 158809,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 801,
+        "headingText": "\r\n<p>The clinical features are related to site-specific disease.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1181,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 802,
+    "contributions": [
+      {
+        "pkcontributionId": 158810,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 802,
+        "headingText": "<p>In an unselected predominantly European-origin US population, germline pathogenic variants were identified in about 1&nbsp;in 200 individuals {30646163}. Germline pathogenic variants in <em>BRCA1</em> and <em>BRCA2 </em>carry a high lifetime risk of breast and tubo-ovarian cancer {17416853;23628597}. There is variation in germline pathogenic variant type and frequency by geographical region and race/ethnicity {29446198} with different founder germline pathogenic variants present in different population groups {28918466}, suggesting that population-specific mutation screening might be an efficient strategy for genetic testing in low-income regions {29446198}. Breast and tubo-ovarian cancer risk varies by type and location of <em>BRCA1 </em>and<em> BRCA2</em> germline pathogenic variants {25849179}. From a large prospective cohort study, the point estimate for the cumulative breast cancer risk to age 80&nbsp;years was 72% for carriers of <em>BRCA1</em> pathogenic variants and 69% for carriers of <em>BRCA2</em> pathogenic variants. The corresponding tubo-ovarian cancer risks were 44% (<em>BRCA1</em>) and 17% (<em>BRCA2</em>) {28632866}. Between 10% and 15% of ovarian cancer is associated with inherited <em>BRCA1 </em>or<em> BRCA</em>2 germline pathogenic variants {21324516} and 8&ndash;12% of unselected triple-negative breast cancers are associated with <em>BRCA1 </em>or<em> BRCA2</em> germline pathogenic variants {30099541;28724667}.</p>\r\n<p>Male breast cancer risks to age 80&nbsp;years are increased for carriers of germline pathogenic variants in <em>BRCA1</em> (~0.5%) and <em>BRCA2</em> (~4%) {35077220}. <em>BRCA2</em> germline pathogenic variants also increase prostate cancer risk (~25% risk to age 80&nbsp;years) but the risk for <em>BRCA1</em> germline pathogenic variant carriers may be minimally raised or not increased {30900310;35077220}. The risks for pancreas cancer are approximately 3% for both <em>BRCA1</em> and <em>BRCA2</em> germline pathogenic variant carriers {35077220}, but earlier studies have suggested higher risks for <em>BRCA2</em> germline pathogenic variant carriers {29922827;12237281;28767289}.</p>\r\n<p>Outside of the traditionally associated cancers, germline pathogenic variants in <em>BRCA1 </em>and <em>BRCA2</em> have additionally been associated with biliary tract cancer and gastric and colorectal cancer for <em>BRCA1 </em>(all odds ratio: &lt;&nbsp;3.5), and gastric cancer for <em>BRCA2</em> (odds ratio: 3.7) {35077220}. Other studies have found slightly different results, but the consistent pattern is that gastric cancer is a <em>BRCA1</em>- or<em> BRCA2</em>-associated tumour {35077220;35420638}. A very large recent study from Japan suggests the associated cancers may be broader than in European countries {35420638} (see <a style=\"cursor:pointer\" href=\"/attachment/67/122/37382\" target=\"_blank\">#37382</a>Table&nbsp;5.09).</p>",
+        "timestamp": "2026-09-02T11:51:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1182,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 803,
+    "contributions": [
+      {
+        "pkcontributionId": 158811,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 803,
+        "headingText": "\r\n<p><em>BRCA1</em> and <em>BRCA2</em> encode proteins that are key regulators of homologous recombination repair (HRR) of DNA double-strand breaks and prevent cell-cycle arrest, apoptosis, and/or genomic instability {29414795}.</p>\r\n<p><em>BRCA1</em> is located at 17q21.31 and encodes a nuclear protein of 1863 amino acids (see <a style=\"cursor:pointer\" href=\"/attachment/67/122/37383\" target=\"_blank\">#37383</a>Table&nbsp;5.10). A RING finger domain at the N-terminus mediates interactions with other proteins. <em>BRCA1</em> is often mutated in the RING domain, between exons&nbsp;11 and&nbsp;13, and in the <em>BRCA1</em> C-terminal domain {22737296}. <em>BRCA2</em> maps to chromosome 13q13.1 and encodes a protein of 3418 amino acids. The BRCA1 and BRCA2 proteins share no structural homology with any other protein {21336636}.</p>\r\n<p>The BRCA proteins are engaged in the highly conserved HRR pathway to accurately repair DNA breaks using the sister chromatid during S phase as a template, which is essential for cell survival {15546503;8589730}. If not repaired, these breaks promote genomic instability and can lead to the development of cancer.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1183,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 804,
+    "contributions": [
+      {
+        "pkcontributionId": 158812,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 804,
+        "headingText": "\r\n<p>During replication, double-strand breaks at replication forks lead to loss of segments of the genome with rearrangements. BRCA1 and BRCA2 proteins play a critical role in maintaining genomic stability by promoting error-free DNA repair {16998501}. <em>BRCA1 </em>and<em> BRCA2</em> germline pathogenic variants predispose individuals to a two-hit biallelic inactivation, involving the inherited pathogenic variant of one BRCA allele and then the somatic inactivation of the second wildtype allele, together with homologous recombination {31090900}.</p>\r\n<p>Patients with <em>BRCA1</em> or <em>BRCA2 </em>germline pathogenic variants or somatic inactivation (of one or usually both alleles) can benefit from targeted treatments, such as the poly (ADP-ribose) polymerase (PARP) inhibitors (PARPis). PARPis interfere with the single strand&ndash;break repair enzyme PARP, which results in accumulation of unrepaired double-strand breaks that destabilize the genome and lead to cell death through synthetic lethality {29660759}. For breast cancer, patients with locally advanced or metastatic ERBB2 (HER2)-negative BRCA germline-mutated breast cancer, PARPis offer an improvement in progression-free survival, and probably improve overall survival {33886122}. In tubo-ovarian cancer, <em>BRCA1</em> or <em>BRCA2</em> mutation predicts the sensitivity to platinum-based chemotherapy and PARPis, leading to an increased overall survival {31362850}. Nevertheless, reversion mutations in <em>BRCA1</em> and/or <em>BRCA2</em> that lead to PARPi resistance occur not uncommonly {33091561}.</p>\r\n<h5>BRCA-like syndromes</h5>\r\n<p>An additional subset of cancers exhibit so-called BRCAness, harbouring repair defects stemming from mutations in non-BRCA HRR genes. Thus, BRCAness may lie in aberration of <em>BARD1</em>,<em> PALB2</em>,<em> RAD51C</em>, and <em>RAD51D</em>, which are all genes involved in HRR (see <a style=\"cursor:pointer\" href=\"/chaptercontent/67/125\" target=\"_blank\">section </a><em>PALB2-related cancer predisposition syndrome</em> and <a style=\"cursor:pointer\" href=\"/chaptercontent/67/318\" target=\"_blank\">section </a><em>RAD51-related cancer predisposition syndrome</em>). Both <em>BRCA1</em>- and<em> BRCA2</em>-mutant cancers and cancers with a BRCAness phenotype are variably sensitive to PARPis. Studies of new combination strategies using small molecule agents that can induce BRCAness are being explored in order to expand the use of PARPis to a larger group of patients who could be repeatedly screened for DNA repair gene alterations {35681619;34712892}.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1190,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 811,
+    "contributions": [
+      {
+        "pkcontributionId": 158813,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 811,
+        "headingText": "\r\n<p>Solid tumours have the same appearance as their sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1184,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 805,
+    "contributions": [
+      {
+        "pkcontributionId": 158814,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 805,
+        "headingText": "\r\n<p>Histopathology is as per individual cancer types.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1185,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 806,
+    "contributions": [
+      {
+        "pkcontributionId": 158815,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 806,
+        "headingText": "\r\n<p>Cytologically, individual tumours are indistinguishable from their sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1186,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 807,
+    "contributions": [
+      {
+        "pkcontributionId": 158816,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 807,
+        "headingText": "\r\n<p>BRCA-related cancer predisposition syndrome is an autosomal dominant inherited disorder with germline pathogenic variants in <em>BRCA1</em> or <em>BRCA2</em>.</p>\r\n<p>Genetic testing of <em>BRCA1 </em>and<em> BRCA2</em> germline pathogenic variants using peripheral blood or other normal cells is generally based on family history and clinicopathological characteristics. Criteria for genetic testing, risk assessment, counselling, and management have been proposed by the National Comprehensive Cancer Network (NCCN) {33406487} and the UK National Institute for Health and Care Excellence (NICE) [[Familial breast cancer: classification, care and managing breast cancer and related risks in people with a family history of breast cancer. (2019). National Institute for Health and Care Excellence (NICE). Bookref]]. In contrast, the American College of Breast Surgeons has suggested that all women with breast cancer be offered <em>BRCA1 </em>and<em> BRCA2</em> genetic testing {31342359}. Most practitioners now consider that all women with tubo-ovarian carcinoma should be offered germline <em>BRCA1 </em>and<em> BRCA2</em> testing {27209246}. Moreover, with genetic testing being widely implemented, several studies have shown that as many as half of all <em>BRCA1 </em>and<em> BRCA2</em> germline pathogenic variants carriers have no relevant family history {26439132;29248130;32245629;32053139}. This argues for more-widespread <em>BRCA1 </em>and<em> BRCA2</em> genetic testing. In particular, individuals with somatic <em>BRCA1</em> and <em>BRCA2</em> pathogenic variants in an appropriate tumour type should be offered germline <em>BRCA1</em> and <em>BRCA2</em> testing {29248130}.</p>\r\n<p><em>BRCA1</em> and <em>BRCA2</em> variant interpretation should be evaluated synthetically with the use of information from population- and disease-related databases, patient medical histories, and literature, according to the guidelines from the American College of Medical Genetics and Genomics (ACMG) (updated in 2015) {25741868}. Only variants considered pathogenic or likely pathogenic have clinical significance. ClinVar has currently registered &gt;&nbsp;3500 variants of <em>BRCA1</em> and &gt;&nbsp;4200 variants of <em>BRCA2</em> as pathogenic&nbsp;/ likely pathogenic germline variants. The most frequent variants encountered are SNVs and indels, which produce premature stop codons, reduce expression via nonsense-mediated mRNA decay, and occasionally produce a truncated protein {32862296}. The SNVs and indels of <em>BRCA1</em> and <em>BRCA2</em> account for 10&ndash;50% of the germline variants encountered in families with hereditary breast and ovarian cancer {21637503;16199546;17561994}. In addition, the frequency of <em>BRCA1</em> and <em>BRCA2</em> large genomic rearrangements in families with hereditary breast and ovarian cancer varies from 0% to 23% among different populations {21637503}. The Locus Reference Genomic (LRG) system should be included in the scope of <em>BRCA1</em> and <em>BRCA2</em> genetic testing in the clinic setting.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1189,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 810,
+    "contributions": [
+      {
+        "pkcontributionId": 158817,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 810,
+        "headingText": "\r\n<p><em>Essential:</em> identification of germline <em>BRCA1 </em>and <em>BRCA2</em> pathogenic variants.</p>\r\n<p>&nbsp;</p>\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/67/122/37383\" target=\"_blank\">#37383</a>Table&nbsp;5.10.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1187,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 808,
+    "contributions": [
+      {
+        "pkcontributionId": 158818,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 808,
+        "headingText": "\r\n<p>Staging of <em>BRCA1</em>- and<em> BRCA2</em>-related hereditary breast and ovarian cancer syndrome cancers is similar to that of non-BRCA cancers.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1188,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 809,
+    "contributions": [
+      {
+        "pkcontributionId": 158819,
+        "bookId": 67,
+        "chapterId": 122,
+        "headingId": 809,
+        "headingText": "\r\n<p>Studies on prognosis for cancers arising in <em>BRCA1</em> and <em>BRCA2</em> germline pathogenic variant carriers compared with cancers arising in non-genetic forms can be confounded by age and biomarker status. With these limitations, male <em>BRCA1</em> and <em>BRCA2</em> germline pathogenic variant carriers do not seem to have a prognostic impact in pooled pancancer analyses {33054725}, although for many organs information is derived from low numbers of male patients and there are not enough data available. <em>BRCA1 </em>and<em> BRCA2</em> germline pathogenic variants lead to a greater sensitivity for platinum chemotherapy and PARP inhibition, and this could be one reason why women with fallopian tube cancer and <em>BRCA1 </em>and<em> BRCA2</em> germline pathogenic variants have better prognoses in the short term {35444210;35710751}. Compared with non&ndash;BRCA related breast cancer, women under 40&nbsp;years of age with <em>BRCA1 </em>and<em> BRCA2 </em>germline pathogenic variants experience a better outcome, while older women are more likely to have worse outcomes {27749552;35444210}. Men with prostate cancer and <em>BRCA2 </em>pathogenic variants have a worse prognosis than those with non-hereditary forms of prostate cancer {25101567;32875559}. The prognosis for other tumours, such as melanoma and oesophageal and cervical cancer, arising on a background of <em>BRCA1 </em>and<em> BRCA2</em> germline pathogenic variants, compared with the non-hereditary neoplasms, is unknown.</p>",
+        "timestamp": "2026-09-02T11:51:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

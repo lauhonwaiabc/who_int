@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 66,
+    "bookId": "32",
+    "roleid": 16,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2003,
+        "lastname": "Lakhani",
+        "firstname": "Sunil R.",
+        "initials": "",
+        "email": "",
+        "roleid": 16,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 67,
+    "bookId": "32",
+    "roleid": 17,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2183,
+        "lastname": "Jansen",
+        "firstname": "Marnix",
+        "initials": "M",
+        "email": "",
+        "roleid": 17,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 68,
+    "bookId": "32",
+    "roleid": 18,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2170,
+        "lastname": "Brosens",
+        "firstname": "Lodewijk A.A.",
+        "initials": "LAA",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      }
+    ]
+  }
+]

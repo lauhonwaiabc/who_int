@@ -1,0 +1,142 @@
+[
+  {
+    "pkheadingid": 671,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Introduction",
+    "headingPosition": 1,
+    "headingid": 637,
+    "contributions": [
+      {
+        "pkcontributionId": 93994,
+        "bookId": 50,
+        "chapterId": 266,
+        "headingId": 637,
+        "headingText": "\r\n<p>Biochemical analysis is a component of pancreatic cyst fluid ancillary testing that is useful in the differential diagnosis of mucinous cysts from non-mucinous cysts. CEA and amylase are the two proteins routinely measured.</p>\r\n",
+        "timestamp": "2022-11-29T17:24:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 672,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Technical requirements",
+    "headingPosition": 2,
+    "headingid": 638,
+    "contributions": [
+      {
+        "pkcontributionId": 93995,
+        "bookId": 50,
+        "chapterId": 266,
+        "headingId": 638,
+        "headingText": "\r\n<p>A minimum of 0.3&nbsp;mL is required for each test, but 0.5&ndash;1.0&nbsp;mL is the optimum volume for each test. Viscous specimens are generally rejected for analysis, and dilution is not recommended because of required adjustments for the final laboratory result. Thick, viscous, white, opaque fluids correlate with a mucinous cyst, and CEA analysis does not add to this assessment [[Tanaka M, editor. Intraductal papillary mucinous neoplasm of the pancreas. Tokyo (Japan): Springer; 2014.]].</p>\r\n",
+        "timestamp": "2022-11-29T17:24:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 673,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Management of types of cytopathological specimens",
+    "headingPosition": 3,
+    "headingid": 639,
+    "contributions": [
+      {
+        "pkcontributionId": 93996,
+        "bookId": 50,
+        "chapterId": 266,
+        "headingId": 639,
+        "headingText": "\r\n<p>Biochemical analysis is indicated for the analysis of pancreatic cyst fluid and not for the analysis of needle rinsings of solid tumour FNAB. It is performed on the supernatant fluid after cytospin.</p>\r\n",
+        "timestamp": "2022-11-29T17:24:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 674,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Fixation",
+    "headingPosition": 4,
+    "headingid": 640,
+    "contributions": [
+      {
+        "pkcontributionId": 93997,
+        "bookId": 50,
+        "chapterId": 266,
+        "headingId": 640,
+        "headingText": "\r\n<p>The pancreatic cyst fluid should be kept fresh and not placed into saline, preservative, or fixative. The cyst fluid is centrifuged, and the supernatant fluid is submitted fresh and undiluted to the chemistry laboratory for testing. The cell button is processed for cytopathology.</p>\r\n",
+        "timestamp": "2022-11-29T17:24:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 675,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Controls",
+    "headingPosition": 5,
+    "headingid": 641,
+    "contributions": [
+      {
+        "pkcontributionId": 93998,
+        "bookId": 50,
+        "chapterId": 266,
+        "headingId": 641,
+        "headingText": "\r\n<p>Each laboratory must validate the assays and establish its own normal and abnormal ranges. The measured CEA and amylase values of a patient&rsquo;s sample can vary depending on the testing procedure used.</p>\r\n",
+        "timestamp": "2022-11-29T17:24:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 676,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Procedures",
+    "headingPosition": 6,
+    "headingid": 642,
+    "contributions": [
+      {
+        "pkcontributionId": 93999,
+        "bookId": 50,
+        "chapterId": 266,
+        "headingId": 642,
+        "headingText": "<h5>CEA</h5>\r\n<p>The CEA immunoassay uses the sandwich antibody method. CEA values determined on patient samples by different testing procedures cannot be directly compared with one another and could be the cause of erroneous medical interpretations. It is recommended that each laboratory establish its own cut-off level {21775920}.</p>\r\n<h5>Amylase</h5>\r\n<p>Amylase testing uses an enzymatic colorimetric assay to quantify &alpha;-amylase by measuring the formation of degradation products saccharogenically or kinetically with the aid of enzyme-catalysed reactions. An increase in absorbance is directly related to the colour intensity of the degradation product, which is proportional to the &alpha;-amylase activity {3875297}.</p>",
+        "timestamp": "2022-11-29T17:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 677,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Diagnostic applications",
+    "headingPosition": 7,
+    "headingid": 643,
+    "contributions": [
+      {
+        "pkcontributionId": 94000,
+        "bookId": 50,
+        "chapterId": 266,
+        "headingId": 643,
+        "headingText": "\r\n<p>CEA is measured in the pancreatic cyst fluid to establish a mucinous etiology. A multi-institutional study established a cut-off value of 192&nbsp;ng/mL as the most sensitive and specific level for the diagnosis of a mucinous cyst {15131794}. Subsequent studies reported optimal cyst fluid CEA levels ranging from 48.6&nbsp;ng/mL to 800&nbsp;ng/mL {16111956; 28072692; 26646270; 17446847; 34783970}. As the CEA level is increased to achieve higher specificity, the sensitivity is decreased. Of note, a low level of CEA does not exclude a mucinous cyst, because pancreatic mucinous cysts may have very low CEA levels&nbsp;&ndash; even as low as 1.6&nbsp;ng/mL {20966811}. A prospective study of patients with pancreatic cysts showed ranges in CEA values of 0.2&ndash;91&nbsp;000&nbsp;ng/mL in intraductal papillary mucinous neoplasm (IPMN) and 0&ndash;549&nbsp;ng/mL in mucinous cystic neoplasm. CEA remains low in cystic pancreatic neuroendocrine tumours (PanNETs) {23296363}, solid pseudopapillary neoplasm, and serous cystadenoma {32122771}.</p>\r\n<p>Cyst fluid amylase levels are very useful for differentiating a pseudocyst from other cyst types. An amylase level of &lt;&nbsp;250&nbsp;U/L has a very high specificity for excluding a pseudocyst {16111956}. Elevated pancreatic cyst amylase fluid levels cannot be used to differentiate IPMN from mucinous cystic neoplasm {23395570}. In a prospective study, IPMN and mucinous cystic neoplasm showed a range of amylase levels of 0&ndash;280&nbsp;000&nbsp;U/L {32122771}.</p>\r\n<p>Other recently identified markers that are promising include VEGF, the monoclonal antibody Das-1, and glucose. Measurement of VEGF in cyst fluids may detect serous cystadenomas {16517478; 24491241; 31316009}. Das-1 is a monoclonal antibody reactive to premalignant conditions of the gastrointestinal tract that can be measured in pancreatic cyst fluid to detect high-risk IPMN {24277729}. Measurement of glucose in pancreatic cyst fluids may be used as a supplement to CEA, because it is low in mucinous cysts and elevated in serous cystadenomas {25986360; 29241991; 31148899; 32675041; 32919884; 33731599}.</p>",
+        "timestamp": "2022-11-29T17:24:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

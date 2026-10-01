@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 115953,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 576,
+        "headingText": "\r\n<p>Reactive lymphoid hyperplasia is a non-neoplastic proliferation of lymphoid tissue in nodal or extranodal sites.</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 115954,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 577,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 115955,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 578,
+        "headingText": "\r\n<p>MA01.Z Enlarged lymph nodes, unspecified</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 115956,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 579,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 115957,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 115958,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 581,
+        "headingText": "\r\n<p>Reactive lymphoid hyperplasia may involve the cervical lymph nodes, Waldeyer ring, salivary glands, and/or mucosal surfaces. Localization may vary by etiology.</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 115959,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients present with lymphadenopathy, enlarged tonsils or salivary glands, and/or mucosal ulceration. Symptoms vary by cause. Manifestations may be more severe in immunodeficient patients.</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 115960,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 583,
+        "headingText": "\r\n<p>The epidemiology varies according to the underlying disease (see <a style=\"cursor:pointer\" href=\"/attachment/52/235/24644\" target=\"_blank\">#24644</a>Table&nbsp;10.01).</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 115961,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 584,
+        "headingText": "\r\n<p>Reactive lymphoid hyperplasia and lymphadenitis in the head and neck can be caused by viruses (EBV {31347374; 30773381; 20154586}, CMV {30773381; 26857321}, herpes simplex virus {27905140}, HIV {31060959; 32171271}), bacteria (<em>Bartonella henselae</em> {26551620}, pyogenic bacteria {29594802; 30626342; 26857321}), mycobacteria {31060959; 32171271; 31002716; 29594802}, autoimmune diseases (systemic lupus erythematosus {8853165}, Sj&ouml;gren syndrome {11130833}, rheumatoid arthritis {17064872}), and diseases of unknown etiology (e.g. IgG4-related disease {20061932}, histiocytic necrotizing lymphadenitis [Kikuchi&ndash;Fujimoto disease] {3217625}, Kawasaki disease {25882057; 23020240}, Kimura disease {8936520; 15087670}, and atypical marginal zone hyperplasia of mucosa-associated lymphoid tissue {15256428; 26794707; 21956819}).</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 115962,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 585,
+        "headingText": "\r\n<p>Exposure to the inciting agent causes reactive changes in lymphoid tissue or the mucosa.</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 115963,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 592,
+        "headingText": "\r\n<p>Reactive lymphoid hyperplasia produces enlarged lymph nodes, expanded extranodal lymphoid tissue, or ulceration. In salivary glands, small or large cysts may form due to ductal obstruction.</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 115964,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 586,
+        "headingText": "\r\n<p>Depending on the etiology and disease phase, lymphoid tissue may show follicular hyperplasia, paracortical hyperplasia, monocytoid B-cell hyperplasia, immunoblastic reaction, granuloma formation (caseous or non-necrotizing), and/or suppurative inflammation. Certain reactive conditions, especially infectious mononucleosis {22627742}, Kikuchi&ndash;Fujimoto disease {3217625}, and atypical marginal zone hyperplasia {15256428}, can mimic lymphoma. EBV+ mucocutaneous ulcer is a neoplastic rather than reactive lesion, but it is an important differential diagnosis for reactive lymphoid hyperplasia and lymphoma {20154586}.</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 115965,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 587,
+        "headingText": "\r\n<p>Aspiration biopsies of reactive lymphoid proliferations show a mixture of lymphoid cells, mimicking the reactive germinal centre, including immunoblasts and normal-appearing lymphocytes. Tingible-body macrophages may also be present. Occasional reactive lymphoid proliferations may show clonal B-cell populations by flow cytometry and should be interpreted with caution {15080297}.</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 115966,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 588,
+        "headingText": "\r\n<p>Occasional cases may show such distortion of normal architecture or cytological atypia as to raise the question of lymphoma. In such cases, gene rearrangement studies can be useful to show the absence of a clonal B- or T-cell population. EBV+ mucocutaneous ulcer can show B- and/or T-cell gene rearrangements, and the results should be interpreted in the context of other clinicopathological features.</p>\r\n<p>Genetic techniques can assist with the identification of certain infectious agents {29594802}.</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 115967,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> reactive lymphoid tissue changes with no evidence of lymphoma or other neoplasm.</p>\r\n<p><em>Desirable: </em>identification of an infectious agent by immunohistochemistry, special stains, microbiology culture, or molecular techniques; recognition of an underlying autoimmune disease, immunodeficiency, or other disease by clinical or laboratory criteria.</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 115968,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 115969,
+        "bookId": 52,
+        "chapterId": 235,
+        "headingId": 590,
+        "headingText": "\r\n<p>Outcome is dependent on the underlying disease and available therapy, but most cases due to infection resolve spontaneously or respond to antibiotics. Outcome in patients with autoimmune diseases or immunodeficiency is variable.</p>",
+        "timestamp": "2023-10-02T12:02:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

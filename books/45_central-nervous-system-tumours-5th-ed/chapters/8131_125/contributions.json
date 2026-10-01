@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 518,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 497,
+    "contributions": [
+      {
+        "pkcontributionId": 72911,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 497,
+        "headingText": "\r\n<p>Haemangiomas are benign neoplastic vascular lesions with multiple tightly packed capillary-sized and cavernous vessels. They may be isolated, multiple, or part of a <em>PIK3CA</em>-related overgrowth syndrome.</p>\r\n<p>Cavernous malformations (CMs) are angiographically occult solitary or (rarely) multifocal vascular anomalies. Histologically, they comprise multiple tightly packed sinusoidal vessels with fibrotic walls lacking arterial or venous features, and they contain little or no interposed CNS tissue. Familial and some sporadic CMs are associated with a mutation in <em>KRIT1</em> (<em>CCM1</em>), <em>CCM2</em>, or <em>PDCD10</em> (<em>CCM3</em>).</p>\r\n<p>Cerebral arteriovenous malformation (AVM) is a fast-flow vascular anomaly consisting of arteriovenous connections through a nidus or fistula of malformed arteries and veins instead of a normal capillary bed. AVMs are typically sporadic; they show intervening brain parenchyma with gliosis between malformed vessels, and they have frequent somatic <em>KRAS</em> or <em>BRAF</em> mutations.</p>\r\n<p>Capillary telangiectasia is an aggregation of individually dispersed dilated capillary-type vessels with interposed normal brain parenchyma.</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 519,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 498,
+    "contributions": [
+      {
+        "pkcontributionId": 72912,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 498,
+        "headingText": "<p>9121/0 Cavernous haemangioma</p>\r\n<p>9131/0 Capillary haemangioma</p>\r\n<p>9123/0 Arteriovenous malformation</p>",
+        "timestamp": "2021-11-09T09:22:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 520,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 499,
+    "contributions": [
+      {
+        "pkcontributionId": 72913,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 499,
+        "headingText": "\r\n<p>2E81.0Y Other specified neoplastic haemangioma</p>\r\n<p>LA90.3Y Other specified peripheral arteriovenous malformations</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 521,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 500,
+    "contributions": [
+      {
+        "pkcontributionId": 72914,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 500,
+        "headingText": "\r\n<p><em>Acceptable:</em> cavernous angioma; cerebral cavernous malformation; cavernoma.</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 522,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 501,
+    "contributions": [
+      {
+        "pkcontributionId": 72915,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 501,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 523,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 502,
+    "contributions": [
+      {
+        "pkcontributionId": 72916,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 502,
+        "headingText": "\r\n<p>Haemangiomas arise preferentially in the spine; less frequently in the skull; and exceptionally in the CNS parenchyma, nerve roots, and cauda equina {31225522; 32049625; 32322449; 32335778}. Spinal haemangiomas favour the thoracic and lumbar vertebrae. They are often multiple, and they may involve vertebral bodies, pedicles, arches, and spinous processes {32097829}.</p>\r\n<p>CMs favour supratentorial locations, including the optic nerve or chiasm, pineal gland, and cavernous sinus. Rare locations include the cerebellopontine angle, pons, cerebellum, and spinal cord {32335778}. Spinal cord CMs are usually intramedullary.</p>\r\n<p>Cerebral AVMs can involve the meninges, cortical regions, and deep brain (insular region, basal ganglia, thalamus, corpus callosum, brainstem, and cerebellum) {32335778}. In the spinal cord, AVMs can be extradural, intradural, or intramedullary, or they can occur in the conus medullaris {28552136}.</p>\r\n<p>Cerebral capillary telangiectasia shows a predilection for the pons and may extend into the middle cerebellar peduncle. The basal ganglia, cerebral hemispheres, and spinal cord may also be affected {32335778}.</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 524,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 503,
+    "contributions": [
+      {
+        "pkcontributionId": 72917,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 503,
+        "headingText": "\r\n<p>Vertebral haemangiomas occur predominantly in male patients. They are usually asymptomatic, but they may also lead to vertebral compression fracture, inducing compressive myelopathy {32097829}. Pregnancy may induce progression {31852104}.</p>\r\n<p>Patients with cerebral CMs more commonly present with seizures than with acute haemorrhage. The age range is wide. Male patients are affected in the second to third decades of life, and female patients often in the fourth to sixth decades. Intralesional or perilesional haemorrhage may cause acute focal neurological deficits that may improve without neurosurgical intervention {32605781}. Most CMs remain asymptomatic, and they can be incidental findings on MRI or autopsy {28552149}.</p>\r\n<p>Patients with spinal CMs may present with pain, myelopathy, or radiculopathy; patients often also have intracranial lesions {28552146}.</p>\r\n<p>AVMs can occur at any age, with no sex predilection. Patients with cerebral AVM most frequently present with acute intracerebral, intraventricular, or subarachnoid haemorrhage, typically in the third to fourth decades of life. Other frequent manifestations are seizure, chronic headache, and progressive neurological deficit. AVMs may also be asymptomatic and discovered incidentally on imaging. AVMs most commonly come to clinical attention in the second to fourth decades of life {28552137; 32335778}.</p>\r\n<h5>Imaging</h5>\r\n<p>On CT, vertebral haemangiomas show a typical polka-dot, honeycomb, or corduroy pattern. On MRI, they are hyperintense on T1- and T2-weighted images, and they show postcontrast enhancement {32097829}.</p>\r\n<p>On CT, calcifications are frequently visible in CMs. On MRI, T2-weighted images show mixed signal intensities centrally and a surrounding hypointense/low signal rim with blooming (haemosiderin ring). T1-weighted imaging with contrast shows the associated developmental venous anomaly, if present. On angiography, CMs are occult, because they lack feeding arteries and draining veins. CMs are dynamic lesions that may arise de&nbsp;novo and may grow, contract, or remain the same size. In sporadic cases, single isolated lesions with or without associated developmental venous anomaly are seen on MRI; in familial cases, multiple CMs are seen {30909834; 32335778}.</p>\r\n<p>On CT, vessels in AVMs are isodense and strongly enhancing with contrast. Calcifications may be present, and haemorrhage visible, with a nidus in the region. On T2-weighted MRI, AVMs appear as honeycomb flow voids due to rapid signal loss from lesional high flow. T2-weighted and FLAIR images show hyperintensity in surrounding CNS parenchyma because of gliosis due to ischaemia from the vascular steal phenomenon of the AVM shunt. Angiography visualizes AVMs as conglomerates of tortuous vessels with early venous drainage. AVMs are usually solitary, but they may be multiple {32335778}.</p>\r\n<p>On MRI with contrast, ectatic capillaries in cerebral capillary telangiectasias show mild to moderate enhancement with an irregular border. T1-weighted postcontrast imaging may show a draining vein from the capillary telangiectasia. Susceptibility-weighted imaging shows signal intensity loss due to deoxyhaemoglobin loss in stagnant vessels {32335778}.</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 525,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 504,
+    "contributions": [
+      {
+        "pkcontributionId": 72918,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 504,
+        "headingText": "\r\n<p>Vertebral haemangiomas have a prevalence of 10&ndash;12% in the general population {31852104}.</p>\r\n<p>For CM, the estimated population-based prevalence ranges from 0.16% to 0.9%. The estimated population prevalence of familial CM ranges from 0.01% to 0.03% {30909834}.</p>\r\n<p>For AVM, population-based studies approximate the incidence to be about 1&nbsp;case per 100&nbsp;000&nbsp;person-years {28552148}.</p>\r\n<p>The prevalence of capillary telangiectasia is 0.4&ndash;0.7% in the general population {32335778}.</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 526,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 505,
+    "contributions": [
+      {
+        "pkcontributionId": 72919,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 505,
+        "headingText": "\r\n<p>Intraosseous haemangioma can be congenital or can develop de&nbsp;novo (e.g. due to trauma) {31225522}. Haemangiomas may also be part of a <em>PIK3CA</em>-related overgrowth syndrome (e.g. Klippel&ndash;Tr&eacute;naunay syndrome) {28151489}.</p>\r\n<p>Most CM lesions are sporadic, and they can be congenital or acquired. CMs can develop years after brain or spinal irradiation {32605781}. The molecular basis of inherited CMs (and of a proportion of sporadic CMs) is an autosomal dominant loss-of-function mutation in <em>KRIT1</em> (<em>CCM1</em>) (common in the Hispanic population), <em>CCM2</em> (which encodes malcavernin), or <em>PDCD10</em> (<em>CCM3</em>) {30909834}. The mutations most commonly result in a truncated protein; rarely, missense mutations lead to protein misfolding {26356566}.</p>\r\n<p>Most sporadic AVMs have somatic <em>KRAS</em> mutations or, less frequently, a <em>BRAF</em> mutation {31891627}.</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 527,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 506,
+    "contributions": [
+      {
+        "pkcontributionId": 72920,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 506,
+        "headingText": "\r\n<p>The development of CM is thought to be a phenomenon of venous hypertension leading to erythrocyte extravasation and the release of angiogenic growth factors. CMs may also be associated with developmental venous anomalies {32335778}.</p>\r\n<p>Familial CMs are associated with a mutation in <em>KRIT1</em> (<em>CCM1</em>), <em>CCM2</em>, or <em>PDCD10</em> (<em>CCM3</em>). These genes are part of a signalling pathway that regulates cell proliferation, network formation, and endothelial layer growth {30909834; 31261134}.</p>\r\n<p>In AVM, dysregulation of angiogenesis, vasculogenesis, and inflammation seems to be involved in pathogenesis {28552137}. Sporadic AVMs may relate to abnormalities in cerebral vascular autoregulation or in venous architecture. AVMs can also occur in association with hereditary genetic syndromes, such as hereditary haemorrhagic telangiectasia syndrome (Osler&ndash;Weber&ndash;Rendu disease) {31891627}.</p>\r\n<p>Cerebral capillary telangiectasias may be congenital in origin (caused by a failure of capillary involution during development) or acquired due to reactive angiogenesis after insults such as venous hypertension or irradiation {32335778}.</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 534,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 513,
+    "contributions": [
+      {
+        "pkcontributionId": 72921,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 513,
+        "headingText": "\r\n<p>Macroscopically, haemangiomas are soft, red, and lobular, and they are associated with many small feeder and drainer vessels {32322449}.</p>\r\n<p>CMs are macroscopically circumscribed and lobulated, with a reddish-purple raspberry appearance. The surrounding brain tissue contains haemosiderin {32605781}.</p>\r\n<p>AVMs macroscopically show dilated surface draining veins, a nidus located deep to these, and feeding arteries {28552158}.</p>\r\n<p>Cerebral capillary telangiectasias are vascular lesions without mass effect and are usually small (ranging from only a few millimetres up to ~20&nbsp;mm).</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 528,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 507,
+    "contributions": [
+      {
+        "pkcontributionId": 72922,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 507,
+        "headingText": "\r\n<p>Haemangiomas show a lobular pattern separated by fibrous septa. Each lobule is fed by a separate artery and consists of multiple capillary-sized vessels lined by single layers of bland endothelial cells with very rare mitotic activity. Rare cases with high mitotic activity may be seen. Vessels vary in size from small, poorly canalized channels lined by plump endothelial cells (giving a highly cellular solid appearance) to dilated vessels lined with flattened endothelium. Blood-filled cavernous spaces and fibroendothelial papillae mimicking papillary endothelial hyperplasia may be observed. The stroma displays haemorrhage, haemosiderin, fibroblasts, and oedema, but foamy macrophages are absent. Reticulin stain shows a delicate network of reticulin fibres surrounding vessels. Immunohistochemically, the endothelial cells express ERG, CD31, and CD34. Single SMA-immunostaining cells may be present in the subendothelial layer. VEGF-positive cells are seen in the solid, immature-appearing areas without vessel lumen formation. The Ki-67 (MIB1) index is usually &lt;&nbsp;10% {15365728; 32322449; 32049625}.</p>\r\n<p>CMs are histologically well circumscribed, showing sinusoidal congested vessels (caverns) without intervening arteries, capillaries, or veins. The vessels comprise a single layer of attenuated endothelium and fibrotic walls, without arterial or venous features and without smooth muscle cells. Electron microscopy shows defects in tight junctions between endothelial cells, permitting leakage of blood components. The vessels are arranged back to back with little or no interposed brain tissue. There may be hyalinization, calcification, cholesterol crystals, and microhaemorrhages. The brain parenchyma abutting the lesion shows haemosiderin deposition and gliosis. Macrophages and chronic inflammation may be present {28552149}.</p>\r\n<p>Histologically, AVMs are composed of variably sized abnormal arteries and veins with direct fistulous connections and without normal intervening capillary beds. Between vessels, there is CNS tissue with gliosis.</p>\r\n<p>Cerebral capillary telangiectasias are localized aggregations of thin-walled, dilated vessels without elastic fibres or smooth muscle cells. They occur within brain parenchyma without adjacent gliosis, calcification, or haemosiderin-laden macrophages.</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 529,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 508,
+    "contributions": [
+      {
+        "pkcontributionId": 72923,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 508,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 530,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 509,
+    "contributions": [
+      {
+        "pkcontributionId": 72924,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 509,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 533,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 512,
+    "contributions": [
+      {
+        "pkcontributionId": 72925,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 512,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/45/125/22787\" target=\"_blank\">#22787</a>Box&nbsp;8.02 .</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 531,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 510,
+    "contributions": [
+      {
+        "pkcontributionId": 72926,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 510,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 532,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 511,
+    "contributions": [
+      {
+        "pkcontributionId": 72927,
+        "bookId": 45,
+        "chapterId": 125,
+        "headingId": 511,
+        "headingText": "\r\n<p>Haemangiomas of the neuraxis usually do not recur after complete resection {32322449}.</p>\r\n<p>In CMs, the annual risk of clinically significant haemorrhage is 1.6&ndash;4.6%. Previous haemorrhage and brainstem location are associated with increased risk. Female sex, larger lesion size, and greater number of lesions are also associated with increased risk of haemorrhage {32335778}.</p>\r\n<p>In AVM, the risk of haemorrhage is 2&ndash;5% per year. In AVM haemorrhage, 5&ndash;25% of cases are fatal. Age, hypertension, and previous intracranial haemorrhage are associated with an increased risk of haemorrhage {28552137}.</p>\r\n<p>Capillary telangiectasia is most often an incidental finding, with only a minor risk of bleeding or progressive course.</p>",
+        "timestamp": "2021-09-29T11:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

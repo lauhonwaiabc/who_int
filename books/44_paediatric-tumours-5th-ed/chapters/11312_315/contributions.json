@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 108017,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 466,
+        "headingText": "\r\n<p>Papillary thyroid carcinoma (PTC) is a malignant epithelial neoplasm derived from thyroid follicular cells showing characteristic nuclear features identified in diverse growth patterns.</p>\r\n",
+        "timestamp": "2023-03-10T13:29:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 108018,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 467,
+        "headingText": "<p>8260/3 Papillary thyroid carcinoma</p>\r\n<p>8340/3 Follicular variant of papillary thyroid carcinoma</p>\r\n<p>8350/3 Diffuse sclerosing papillary thyroid carcinoma</p>\r\n<p>8260/3 Solid/trabecular papillary thyroid carcinoma</p>\r\n<p>8344/3 Tall cell papillary thyroid carcinoma</p>\r\n<p>8342/3 Oncocytic papillary thyroid carcinoma</p>\r\n<p>8341/3 Papillary thyroid microcarcinoma</p>\r\n<p>&nbsp;</p>",
+        "timestamp": "2023-05-19T11:55:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 108019,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 468,
+        "headingText": "\r\n<p>2D10.1 Papillary carcinoma of thyroid gland</p>\r\n",
+        "timestamp": "2023-03-10T13:29:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 108020,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> papillary thyroid adenocarcinoma.</p>\r\n",
+        "timestamp": "2023-03-10T13:29:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 108021,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 470,
+        "headingText": "<p>Follicular variant of papillary thyroid carcinoma; diffuse sclerosing papillary thyroid carcinoma; solid/trabecular papillary thyroid carcinoma; tall cell papillary thyroid carcinoma; oncocytic papillary thyroid carcinoma</p>",
+        "timestamp": "2023-05-10T14:30:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 108022,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 471,
+        "headingText": "<p>PTC can arise anywhere in the thyroid gland. Rare cases develop in association with ectopic thyroid tissue (such as struma ovarii or lingual tissue) or within thyroglossal duct cysts {31790949; 17721188; 26374222; 28293858; 26691539}.</p>",
+        "timestamp": "2023-05-10T14:30:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 108023,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 472,
+        "headingText": "\r\n<p>PTC typically manifests as an asymptomatic nodule in the thyroid gland or as cervical lymphadenopathy detected by palpation of an enlarged lymph node {25900731; 10197078}. In some cases, PTCs are first detected as incidental nodules after imaging or surgery {10197078}. In rare cases, there may be tracheal compression by a large tumour or extrathyroidal invasion with involvement of the recurrent laryngeal nerve, leading to hoarseness and dysphagia.</p>\r\n<h5>Imaging</h5>\r\n<p>Ultrasound examination is the standard imaging protocol for the evaluation of a paediatric thyroid nodule, with ultrasonographic features such as composition, echogenicity, shape, margin, and echogenic foci (standardized into a number of reporting systems, such as the Thyroid Imaging Reporting and Data System [TI-RADS]) {28372962; 30474824; 30299457} and the presence of abnormal lymph nodes in the central or lateral neck determining which nodules warrant an ultrasound-guided FNAB {32166365}.</p>\r\n",
+        "timestamp": "2023-03-10T13:29:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 108024,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 473,
+        "headingText": "\r\n<p>Thyroid nodules are uncommon in children, but approximately 25% are malignant {31540418; 28688588}. Most paediatric thyroid cancers occur in the second decade of life, accounting for &gt;&nbsp;6% of all paediatric cancers {27956436; 31540418}. PTC is the leading type of thyroid cancer, accounting for 90% of cases {23737541; 16085168}. Its incidence has been increasing over the past four decades {24630354}. There is a female predominance in adolescents (M:F&nbsp;ratio: 1:5), unlike in younger children {19631341; 12782451; 25900731}.</p>\r\n",
+        "timestamp": "2023-03-10T13:29:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 108025,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 474,
+        "headingText": "\r\n<p>In the past 60&nbsp;years, the incidence of PTC in children has shown two specific peaks {7871153; 14982478; 15166190; 15295858; 15139340; 15150580}. The first occurred in about 1950 and was mostly due to the use of external radiation for treating <em>Tinea capitis</em>, acne, chronic tonsillitis, and thymus hyperplasia, with an average of 10&ndash;20&nbsp;years between the radiation therapy and the development of PTC {7871153; 14982478}. The second peak occurred in the mid-1990s in Eastern Europe, due mostly to the Chernobyl nuclear power plant meltdown on 26&nbsp;April 1986 {15166190; 15295858; 15139340; 15150580}. The first cases of PTC were diagnosed approximately 4&ndash;5&nbsp;years after the nuclear event in children who had been &lt;&nbsp;5&nbsp;years of age at the time of the incident. The Chernobyl accident demonstrated the higher sensitivity of the paediatric population to radiation effects as compared to the adult population.</p>\r\n<p>Several reported risk factors are associated with the development of PTC in children, including thyroid disease (e.g. autoimmune thyroid disorders), nutritional (iodine) deficiency, prior radiation exposure, and familial tumour predisposition syndromes {16919778; 16670159; 28096684; 25900731; 32535641; 22411092}. One group at risk for developing PTC are childhood cancer survivors who had been treated with radiation therapy for Hodgkin lymphoma, leukaemia, and CNS tumours {18812481; 16086425; 10999813; 19255307}. In children with Hashimoto thyroiditis, the prevalence of PTC ranges from 0.67% to about 3%, well above the background risk of about 0.02% in the general paediatric population {18524742; 22622023}. Rarely, genetic predisposition syndromes including <em>APC</em>-associated polyposis, <em>DICER1</em> syndrome, Carney complex, <em>PTEN</em> hamartoma tumour syndrome&nbsp;/ Cowden syndrome, and Werner syndrome are associated with PTC and follicular thyroid carcinoma, accounting for approximately 5% of cases (see <a style=\"cursor:pointer\" href=\"/attachment/44/315/19266\" target=\"_blank\">#19266</a>Table&nbsp;12.03) {22654876; 23652677; 24093640; 20962022; 21956414; 24136893; 23573208}. In addition, PTC has also been reported in children with the following syndromes: Beckwith&ndash;Wiedemann, succinate dehydrogenase (SDH)-deficient tumour syndrome, Li&ndash;Fraumeni, McCune&ndash;Albright, and Peutz&ndash;Jeghers {16010678; 24096523; 18349092; 12970318; 21877933}.</p>\r\n",
+        "timestamp": "2023-03-10T13:29:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 108026,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 475,
+        "headingText": "<p>The molecular mechanisms of PTC development involve activation of the RAS/RAF/MEK/ERK (MAPK) pathway and other intracellular signalling pathways via point mutations, gene fusions, and somatic copy-number alterations {25417114; 28476228; 18502330; 19218279; 17452969; 23429735}. The oncogenic driver alterations in paediatric PTC are the same as those found in adults. However, gene fusions occur more frequently in thyroid cancers in children (60&ndash;70%) than those in adults (~15%) {31540418; 28476228}. Thus, point mutations of RAS and <em>BRAF</em> genes account for as many as 70% of genetic abnormalities in adult PTCs {21526955; 28476228; 15781663; 10951588; 31540418} but are seen in about 30% of paediatric patients (<em>BRAF</em> p.V600E mutations are the most common) {31540418; 28476228; 15876153} and are virtually absent in the youngest patients {15876153}. <em>RET</em> proto-oncogene fusions are the most commonly observed alteration, reported in approximately 25&ndash;30% of sporadic paediatric PTC cases, with an increase to 35&ndash;50% in paediatric patients with a history of radiation exposure {10720057; 31540418; 28476228}. <em>RET</em>::<em>CCDC6</em> and <em>RET</em>::<em>NCOA4</em> (paracentric intrachromosomal inversions) are the most commonly observed <em>RET</em> fusions. These rearrangements are not linked with genomic instability, possibly influencing the improved response to radioiodine therapy in children with PTC and the rare progression to less differentiated tumours {10720057; 12409522}. Additional oncogenic fusions involve <em>NTRK1</em> or <em>NTRK3</em>, <em>BRAF</em>, <em>ALK</em>, the transcription factor gene <em>PAX8</em>, and the receptor tyrosine kinase gene <em>MET</em> {31540418; 28476228; 32495721}; less frequently there are mutations in <em>PTEN</em>, <em>RAS</em>, <em>DICER1</em>, and <em>PIK3CA</em> {31540418; 28476228}. These alterations are seen in 10&ndash;15% of PTCs in children and adolescents exposed to ionizing radiation {29165687; 31540418}, as well as in sporadic PTC {32495721}. The mechanism involved in the association between Hashimoto thyroiditis and PTC seems to be based on the overproduction of TSH or chronic inflammation leading to proliferation, angiogenesis, and/or reduced apoptosis {30356680}.</p>\r\n<p>In children and adolescents, the presence of thyroid oncogene mutations (<em>BRAF</em> p.V600E) or rearrangements (e.g. <em>RET</em>, NTRK, <em>BRAF</em>, <em>ALK</em>, or other fusions) in a nodule with indeterminate cytology is associated with a very high likelihood of PTC {32571505; 31540418; 28476228}. In contrast, mutations in <em>PTEN</em>, RAS genes, and <em>DICER1</em> have a lower specificity for PTC and may be found in both benign and malignant thyroid nodules. There are few to no data on the presence and role of alterations in <em>TERT</em>, <em>EIF1AX</em>, <em>CHEK2</em>, <em>GNAS</em>, or <em>TSHR</em>, or of several other oncogenic alterations that have been previously detected in adults with PTC {25417114}. Until additional molecular markers are available, diagnostic lobectomy for unilateral nodules with indeterminate oncogenes is still the best approach to assessing malignant potential.</p>",
+        "timestamp": "2023-05-10T14:31:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 108027,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 482,
+        "headingText": "\r\n<p>Grossly, PTCs may be solitary, multifocal (same lobe or isthmus), or multicentric (different lobes or isthmus). They form firm, off-white to tan, irregular masses that may feel gritty on sectioning because of the presence of microcalcifications. The median tumour size is 12&ndash;30&nbsp;mm (range: 1&ndash;110&nbsp;mm) {17063083; 16627919; 25802237; 25841866; 29030676}. Cystic change and multifocality/multicentricity are not uncommon. Close examination may reveal a somewhat granular cut surface, reflecting the presence of microscopic papillary structures. Some PTCs may appear grossly encapsulated, with thorough sampling of the capsule necessary to assess for the presence of capsular and/or lymphovascular invasion. Extrathyroidal extension, when grossly present, may be recognized as tumour infiltrating into adherent skeletal muscle. Lymph node metastases may be solid or cystic, sometimes with extranodal extension.</p>\r\n",
+        "timestamp": "2023-03-10T13:29:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 108028,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 476,
+        "headingText": "<h5>Classic PTC</h5>\r\n<p>Classic PTC is among the three most frequent forms of paediatric PTC, both among sporadic and radiation-associated cohorts {17063083; 7669594; 27619041; 21333507; 22947350}. It is characterized by the presence of well-formed papillary structures composed of a central fibrovascular stalk covered by cuboidal to low columnar epithelial cells. Papillary structures are often seen in cystic areas, sometimes with background histiocytes. Follicular structures may be intermingled with the papillary areas. Psammoma bodies may be present. Sclerotic fibrosis, correlating with the off-white gross appearance, may be seen. Lymphatic invasion is frequently present, reflecting the most common route of metastatic spread by PTC {17063083; 25841866; 29030676}.</p>\r\n<p>Tumour cells exhibit the classic nuclear features of PTC, which include nuclear enlargement and elongation; pale, open, ground-glass chromatin; small, marginated nucleoli; longitudinal nuclear grooves; and variable numbers of intranuclear cytoplasmic inclusions. The nuclei are often crowded and overlapping. Multinucleated histiocytic giant cells with small nuclei and abundant eosinophilic cytoplasm may be seen between papillary structures and within neoplastic follicular lumina.</p>\r\n<p>The diagnosis of PTC is typically made based upon histomorphology alone. Nevertheless, some cases may benefit from the application of immunohistochemical markers, either to support the diagnosis or to confirm the follicular cell origin of primary or metastatic thyroid tumours {11301350; 25549145; 18043257; 22605559; 28581673}. PTCs are positive for thyroglobulin, thyroid transcription factor&nbsp;1 (TTF1), PAX8, and cytokeratins (pancytokeratin, CK7, CAM5.2, and AE1/AE3) {10981870; 12051643; 18084247; 21317881}. Galectin-3 and HBME1 are expressed in the majority of classic PTCs {18495537; 12746563; 20198455; 16722927; 9237176; 24474727} and at a lower frequency in the follicular variant of PTC (FVPTC) {16722927}; their expression is sometimes used to support a diagnosis of PTC over one of benign papillary hyperplasia {16722927}. Pertinent negative immunohistochemical stains include calcitonin, CEA, neuroendocrine markers, and CK20 {14974863}. CK19 is usually not helpful in differentiating between benign and malignant thyroid lesions {12746563; 20198455; 2479256; 11710686; 12708901}. Loss of CD56 expression is noted in almost 100% of classic PTC cases and in two&nbsp;thirds of FVPTC cases {19153015; 26503236; 26186733; 31838728}. Nuclear and cytoplasmic overexpression of CITED1 is seen in two&nbsp;thirds of classic PTCs and in 50% of cases of FVPTC {17050067; 15272279}. The BRAF p.V600E mutation&ndash;specific antibody VE1 in thyroid tumours shows 90&ndash;100% sensitivity and nearly 100% specificity for <em>BRAF</em> p.V600E mutation&ndash;positive PTC {19895341; 21526955; 23775351; 22592144; 24639117; 27256275}. The diagnostic utility of other markers (thyroperoxidase, fibronectin, S100A4, cyclin&nbsp;D1, p27) has not been defined.</p>\r\n<h5>Follicular variant of PTC</h5>\r\n<p>FVPTC is relatively common in the paediatric population, making up 10&ndash;33% of non&ndash;radiation-induced PTCs {17063083; 7669594; 27619041; 22947350}. Grossly, FVPTC, particularly when encapsulated, may have a more homogeneous, pale tan, fleshy appearance, reminiscent of follicular neoplasms. These tumours may be infiltrative or encapsulated and are composed exclusively of follicular structures, without well-formed papillary structures, while exhibiting many of the classic nuclear features of PTC. The follicles may be round or elongated, and they contain small amounts of brightly hypereosinophilic colloid. Multifocality has been reported in 28&ndash;39% of FVPTC cases {26131690; 29438531}.</p>\r\n<p>Infiltrative forms of FVPTC can be associated with nodal and sometimes distant metastases, as well as with extrathyroidal extension {21333507; 22947350}. Encapsulation has been documented in 50&ndash;67% of paediatric FVPTCs {29438531; 29380524}. Like in adults, encapsulated tumours with capsular or lymphovascular invasion in children have been shown to be associated with nodal metastases {29380524}. In the absence of capsular or angioinvasion (after completely examining the tumour periphery), metastasis or recurrence is rare to absent {29438531; 29380524; 29024469; 29974337; 31483741}, so the same nomenclature as in adults can be applied, i.e. non-invasive follicular thyroid neoplasm with papillary-like nuclear features (NIFTP).</p>\r\n<h5>Diffuse sclerosing PTC</h5>\r\n<p>Diffuse sclerosing PTC (DSPTC) most commonly occurs in adolescents and young adults, in both sporadic and radiation-associated settings {17063083; 25841866; 7669594; 21333507; 22947350; 26854950}. It has a striking female predominance, with female patients making up &gt;&nbsp;80% of patient cohorts {27349273; 16411146; 16627920; 21309722}. Grossly, there may not be a discernible dominant mass, and microscopic tumour foci may not be grossly appreciated. It is characterized by the diffuse involvement of one or both thyroid lobes by numerous foci of PTC including papillary structures with psammoma bodies. The psammoma bodies are characterized by a concentrically lamellated pattern of calcification, often associated with the fibrovascular papillary cores of the tumour. There is associated stromal fibrosis and a prominent chronic lymphocytic thyroiditis {16627920; 16411146; 21309722}. Another characteristic feature is the presence of squamous morules, which appear as solid whorls or nests of cells with dense eosinophilic cytoplasm. Lymphatic invasion is extensively present, and DSPTC has a greater predilection than classic PTC for extrathyroidal extension, nodal and distant metastases, and persistent or residual disease, with &gt;&nbsp;50% of cases showing documented nodal metastases at presentation {27349273; 16411146; 16627920}.</p>\r\n<h5>Solid/trabecular PTC</h5>\r\n<p>Solid/trabecular PTC accounts for 10&ndash;35% of paediatric PTCs {17684395} in both radiation-associated and sporadic cases {17063083; 7669594; 21333507; 22947350; 8033057}. An association with younger age (&le;&nbsp;10&nbsp;years) has been suggested but not universally confirmed {17063083; 7669594; 22947350}. Histologically, there is a predominant solid, nested, insular, or trabecular pattern with a prominent fine vascular network. The defining amount of solid/trabecular areas can vary from about 50% to virtually 100% {27882585; 11717536}. However, even solid areas constituting &lt;&nbsp;50% have been associated with disease recurrence or higher stage {27882585; 3967175}. Within the nests, the cells may be arranged in sheets or in follicular structures with minimal colloid, or they may form compressed papillary structures. Classic nuclear features of PTC are present. The main differential diagnosis is poorly differentiated thyroid carcinoma, which lacks classic PTC nuclei and shows necrosis and elevated mitotic activity (unlike solid/trabecular PTC) {17667551}.</p>\r\n<p>By immunohistochemistry, solid areas exhibit diminished reactivity with CK19 and HBME1, as well as a somewhat elevated Ki-67 nuclear labelling index (although it is still lower than that seen in poorly differentiated thyroid carcinoma) {28411177; 31983699}. Nuclear reactivity with TTF1 and PAX8 is usually retained. Molecular alterations include the presence of <em>RET</em>/PTC and <em>NTRK1</em> and/or <em>NTRK3</em> gene fusions, but this subtype has a relative rarity of <em>BRAF</em> mutations compared with classic PTC {11717536; 29509280}.</p>\r\n<h5>Tall cell PTC</h5>\r\n<p>Tall cell PTC (TCPTC) may be diagnosed when &ge;&nbsp;30% of the tumour is composed of cells whose height is at least two to three times their width [[Lloyd RV, Osamura RY, Kl&ouml;ppel G, et al., editors. WHO classification of tumours of endocrine organs. Lyon (France): International Agency for Research on Cancer; 2017. (WHO classification of tumours series, 4th ed.; vol. 10). https://publications.iarc.fr/554.]] {10229505}. TCPTCs are composed of prominent papillary fronds with delicate thin fibrovascular cores, or of elongated, compressed follicular structures. The elongate cells contain abundant eosinophilic cytoplasm and usually intranuclear cytoplasmic inclusions. Mitoses and apoptotic cells can be seen. TCPTC should be distinguished from Warthin-like PTC, which features broad papillae expanded by lymphoplasmacytic cells, which are in turn lined by oncocytic cells. Another differential diagnosis is the oncocytic subtype of PTC, in which the cells are not as tall. <em>BRAF</em> mutations (particularly <em>BRAF</em> p.V600E) are found in as many as 80% of TCPTCs {28529577; 29662643; 20174895}.</p>\r\n<h5>Oncocytic PTC</h5>\r\n<p>Pure oncocytic PTC is very rare in paediatric patients {25841866; 7669594}. The cells may form follicular or papillary structures and are polygonal with abundant granular to dense eosinophilic cytoplasm surrounding nuclei, with classic nuclear features of PTC. The main differential diagnoses include oncocytic cell neoplasms, which lack the characteristic nuclear features of PTC and TCPTC as described previously.</p>\r\n<h5>Papillary microcarcinoma</h5>\r\n<p>See the forthcoming <em>Endocrine and neuroendocrine tumours</em> volume [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International Agency for Research on Cancer; forthcoming. (WHO classification of tumours series, 5th ed.). https://publications.iarc.fr/.]].</p>",
+        "timestamp": "2023-05-10T14:32:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 108029,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 477,
+        "headingText": "<p>FNAB is the key first-line diagnostic tool for the evaluation of clinically significant thyroid nodules in the paediatric age group. All FNAs in children should be performed under ultrasound guidance, with the six-category Bethesda System for Reporting Thyroid Cytopathology (BSRTC) applied {25900731} [[Ali SZ, Cibas ES, editors. The Bethesda system for reporting thyroid cytopathology: definitions, criteria, and explanatory notes. 2nd ed. New York (NY): Springer; 2018.]]. Within the paediatric population, there is a wide variation in the risk of malignancy in nodules with indeterminate cytology (BSRTC categories&nbsp;3, 4, and&nbsp;5), and, in general, the risk in each category appears to be higher than in adults {31361657; 3129618}. Classic PTC and most PTC subtypes (with the exception of FVPTC and NIFTP) can be accurately diagnosed by FNAB, although subclassification into a particular subtype of PTC may not be possible from cytological samples. FNAB samples of classic PTC are cellular and show syncytial and branching sheets of neoplastic cells as well as intact papillary structures with fibrovascular cores. Nuclei are enlarged, oval to elongated, and often overlapping. The chromatin is fine and evenly distributed, and most nuclei exhibit longitudinal nuclear grooves. Small eccentric nucleoli are present, as well as occasional intranuclear cytoplasmic pseudoinclusions. The amount of colloid is variable, and it often has a thickened, hypereosinophilic appearance in air-dried preparations. Multinucleated giant cells are also encountered. A definitive cytological diagnosis of PTC requires, in addition to classic nuclear features, architectural features such as papillary structures or flat syncytial monolayered sheets and psammoma bodies [[Ali SZ, Cibas ES, editors. The Bethesda system for reporting thyroid cytopathology: definitions, criteria, and explanatory notes. 2nd ed. New York (NY): Springer; 2018.]] {27564464}. Strict cytological criteria should be applied to avoid overdiagnosis of indolent follicular-patterned lesions, such as NIFTP.</p>\r\n<p>The cytological diagnosis of FVPTC is more challenging, because of its substantial cytomorphological overlap with NIFTP {28914983; 29638022}. Cytological features of both entities include a predominantly follicular microarchitecture, with variable nuclear enlargement, pallor, and grooves [[Ali SZ, Cibas ES, editors. The Bethesda system for reporting thyroid cytopathology: definitions, criteria, and explanatory notes. 2nd ed. New York (NY): Springer; 2018.]] {27564464; 28914983; 29638022}. Notably, papillary structures and psammoma bodies are absent, and intranuclear pseudoinclusions are uncommon. In these instances, cytological classification in the BSRTC usually falls into categories 3, 4, or 5 [[Ali SZ, Cibas ES, editors. The Bethesda system for reporting thyroid cytopathology: definitions, criteria, and explanatory notes. 2nd ed. New York (NY): Springer; 2018.]] {26457584}.</p>\r\n<p>The specific cytological diagnosis of PTC subtypes is not required, because a diagnosis of PTC is usually sufficient to direct appropriate management. However, there are some cytological clues that may suggest the presence of non-classic PTC. DSPTC, in addition to classic nuclear features, has rounded groups of cells with outer scalloped borders, distinct cytoplasmic vacuoles, frequent psammoma bodies, squamoid-appearing cells, and background lymphocytes {23781895}. TCPTC smears exhibit typical PTC nuclear features, with the additional findings of nuclear palisading with basally located nuclei, tall columnar-shaped cells with tapering cytoplasm, and (occasionally) spindle-shaped tumour cells {30582297}. Mitoses, apoptosis, and necrosis are sometimes seen. The cytological distinction between oncocytic PTC and oncocytic cell neoplasms is important, albeit very challenging. Nuclear features are the key discriminators: chromatin pallor, grooves, and pseudoinclusions favour oncocytic PTC, whereas large round hyperchromatic nuclei with prominent central nucleoli favour oncocytic cell neoplasm {15085743}.</p>",
+        "timestamp": "2023-05-10T14:32:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 108030,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 478,
+        "headingText": "\r\n<p>Oncogene panels, gene expression classifier panels, and microRNA panels have been incorporated into clinical practice (see <a style=\"cursor:pointer\" href=\"/attachment/44/315/19268\" target=\"_blank\">#19268</a>Table&nbsp;12.04) within the adult population to improve the accuracy and reliability of pathological diagnosis {32436637}; however, data in the paediatric population are primarily limited to somatic oncogenic alterations {32196952; 31540418; 28476228}, which are used to predict an increased risk of malignancy in a patient aged &lt;&nbsp;19&nbsp;years with a nodule with indeterminate cytology on FNAB {31361657}. In addition, there are no data in children to support using the results of oncogenic profiling to identify the likelihood of a benign lesion.</p>\r\n",
+        "timestamp": "2023-03-10T13:29:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 108031,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> PTC nuclear features (including nuclear enlargement and elongation; crowding and overlap; pale, open, ground-glass chromatin; small marginated nucleoli; longitudinal nuclear grooves; and variable numbers of intranuclear pseudoinclusions); papillary or follicular-patterned growth.</p>\r\n<p><em>Desirable:</em> demonstration of a molecular alteration with a high specificity for PTC (in selected cases).</p>\r\n",
+        "timestamp": "2023-03-10T13:29:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 108032,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 479,
+        "headingText": "\r\n<p>PTCs are staged using the TNM system as published by the Union for International Cancer Control (UICC), although it is not specific for paediatric patients {31120475}.</p>\r\n",
+        "timestamp": "2023-03-10T13:29:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 108033,
+        "bookId": 44,
+        "chapterId": 315,
+        "headingId": 480,
+        "headingText": "<p>PTC in paediatric patients is associated with an excellent prognosis, with &gt;&nbsp;98% of patients surviving for &ge;&nbsp;30&nbsp;years after initial treatment. Some PTC subtypes (including classic PTC, DSPTC, solid PTC, and widely invasive FVPTC), as well as the presence of extrathyroidal extension and lymphatic invasion, are associated with an increased risk of regional and distant metastasis, most commonly to the lungs {27896825; 29438531; 31361657}. Encapsulated FVPTC and PTC associated with <em>PTEN</em> hamartoma tumour syndrome and <em>DICER1</em> syndrome appear to have a more indolent course, with a reduced risk of regional and distant metastasis. Pathological classification to predict tumour behaviour includes cytological, histological, biochemical, and oncogenic driver data {25417114}. Preliminary paediatric data suggest that a similar approach, i.e. identification of the oncogenic driver mutation, may provide improved diagnostic accuracy as well as an opportunity to stratify surgery and optimize medical care.</p>",
+        "timestamp": "2023-05-10T14:33:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

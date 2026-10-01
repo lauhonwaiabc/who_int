@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 113993,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 576,
+        "headingText": "<p>Proliferative verrucous leukoplakia (PVL) is a clinicopathological subtype&nbsp;of oral leukoplakia that is multifocal, persistent, and progressive, with a high rate of recurrence and a high risk of progression to squamous cell carcinoma.</p>",
+        "timestamp": "2023-11-07T12:10:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 113994,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 577,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 113995,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 578,
+        "headingText": "\r\n<p>DA01.00 Leukoplakia</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 113996,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Acceptable:</em> proliferative leukoplakia, proliferative multifocal leukoplakia.</p>\r\n<p><em>Not recommended:</em> atypical verrucoid epithelial proliferation; atypical verrucous hyperplasia; papillary or verrucous hyperkeratosis with dysplasia.</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 113997,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 113998,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 581,
+        "headingText": "\r\n<p>The gingiva and alveolar ridge are the most frequently involved sites, followed by the buccal mucosa, tongue {28209441; 31990082; 33185900}, and hard palate {24471527; 31630872}.</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 113999,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 582,
+        "headingText": "\r\n<p>Initial lesions in patients with PVL are often indistinguishable from oral lichen planus and homogeneous oral leukoplakias, forming smooth to fissured/verruciform or verrucous white or mixed white-and-red patches, usually without ulceration {31630872; 33415517}. Multiple non-contiguous lesions or a single lesion &gt;&nbsp;40&nbsp;mm involving one site, or a single lesion &gt;&nbsp;30&nbsp;mm involving contiguous sites, are characteristic {29337414}. Thick, verrucoid marginal gingival leukoplakias that encircle the tooth, especially when multifocal, are characteristic of PVL {32725623}.</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 114000,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 583,
+        "headingText": "\r\n<p>PVL occurs predominantly in elderly women, with no racial predilection and a mean age of 66.8&nbsp;years {28209441; 29337414}.</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 114001,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 584,
+        "headingText": "\r\n<p>The etiology is unknown. PVL does not seem to be correlated with the major risk factors for oral carcinoma, including tobacco (smoked and smokeless), alcohol abuse, and areca nut&nbsp;/ betel quid chewing {24471527}. There is no apparent etiological association between PVL and HPV, EBV, or <em>Candida albicans</em> {24115154; 29427033; 30190088}.</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 114002,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 585,
+        "headingText": "\r\n<p>The pathogenesis is unknown. Like tissue in other dysplastic lesions, tissue in PVL lesions shows a loss of heterozygosity and DNA ploidy anomalies {30190088}.</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 114003,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 592,
+        "headingText": "\r\n<p>PVL appears macroscopically as white mucosa, ranging from flat to thickened, sometimes with a corrugated surface or exophytic nodules.</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 114004,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 586,
+        "headingText": "<p>Early lesions of PVL are unremarkable flat keratoses with architectural features that may be atypical, possibly premature keratinization, sharp lateral margins, increased keratin, and no cytological atypia. They are readily misdiagnosed as hyperkeratosis without dysplasia or lichen planus but gradually develop the typical verrucous morphology.</p>\r\n<p>Corrugated hyperkeratotic lesions exhibit verrucopapillary or disproportionate flat hyperorthokeratosis/hyperparakeratosis with minimal or no dysplasia. Skip areas of normal to abnormal to normal tissue are a common finding. A sharp, abrupt transition from adjacent unaffected normal epithelium is usually seen.</p>\r\n<p>Proliferative bulky epithelial lesions demonstrate atypical, hyperkeratotic epithelial architecture with/without dysplasia. Both an exophytic and an endophytic growth pattern can be present, and the epithelium shows bulbous rete pegs that sometimes coalesce.</p>\r\n<p>At all stages of PVL, lymphocytic infiltration in the epithelial&ndash;stromal interface can be mistaken for lichen planus; intact basal cells and/or dysplasia preclude(s) that diagnosis {29606637; 30887394}. A strict, stepwise histopathological continuum from the corrugated hyperkeratotic stage to the proliferative epithelial stage and progression to malignancy does not always occur (see <a style=\"cursor:pointer\" href=\"/attachment/52/104/24428\" target=\"_blank\">#24428</a>Box&nbsp;5.02) {29606637; 33415517}.</p>",
+        "timestamp": "2023-11-07T12:11:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 114005,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 587,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 114006,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 588,
+        "headingText": "<p >Not relevant</p>",
+        "timestamp": "2023-11-07T12:11:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 114007,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> a clinical presentation consistent with PVL; for early lesions: premature keratinization and minimal cytological atypia; for later lesions: verrucous, nodular, or bulky architecture and variable dysplasia.</p>\r\n<p><em>Desirable:</em> lichenoid host response.</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 114008,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 114009,
+        "bookId": 52,
+        "chapterId": 104,
+        "headingId": 590,
+        "headingText": "\r\n<p>PVL is best managed by active patient surveillance, with biopsy when clinically indicated {26044786; 29606637; 31074011}. Laser ablation, surgical excision, and radiotherapy are associated with a high recurrence rate and are often ineffective {26044786; 28209441}. Disease progression is unpredictable. A systematic review of 17&nbsp;studies reported progression to malignancy in 43.87% (95%&nbsp;CI: 31.93&ndash;56.13%) of PVL cases {34009718}.</p>",
+        "timestamp": "2023-09-26T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

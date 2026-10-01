@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 112697,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 576,
+        "headingText": "\r\n<p>Sinonasal keratinizing squamous cell carcinoma (KSCC) is an epithelial malignancy originating from surface epithelium with squamous differentiation and keratin production.</p>\r\n",
+        "timestamp": "2023-09-25T11:47:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 112698,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 577,
+        "headingText": "<p>8071/3 Squamous cell carcinoma, keratinizing, NOS</p>\r\n<p>8086/3 HPV-independent squamous cell carcinoma</p>\r\n<p>8052/3 Papillary squamous cell carcinoma</p>\r\n<p>8051/3 Verrucous carcinoma</p>\r\n<p>8074/3 Spindle cell squamous cell carcinoma</p>\r\n<p>8075/3 Acantholytic squamous cell carcinoma</p>\r\n<p>8560/3 Adenosquamous carcinoma</p>\r\n<p>8051/3 Carcinoma cuniculatum</p>",
+        "timestamp": "2023-10-12T16:40:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 112699,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 578,
+        "headingText": "\r\n<p>2C20.4 &amp; XH4CR9 Squamous cell carcinoma of nasal cavity &amp; Squamous cell carcinoma, keratinizing, NOS</p>\r\n<p>2C22.1 &amp; XH4CR9 Squamous cell carcinoma of accessory sinuses &amp; Squamous cell carcinoma, keratinizing, NOS</p>\r\n",
+        "timestamp": "2023-09-25T11:47:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 112700,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> squamous cell carcinoma NOS; conventional squamous cell carcinoma; epidermoid carcinoma.</p>\r\n",
+        "timestamp": "2023-09-25T11:47:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 112701,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 580,
+        "headingText": "<p>HPV-independent squamous cell carcinoma; papillary squamous cell carcinoma; verrucous carcinoma; spindle cell squamous cell carcinoma; acantholytic squamous cell carcinoma; adenosquamous carcinoma; carcinoma cuniculatum</p>",
+        "timestamp": "2023-10-12T16:42:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 112702,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 581,
+        "headingText": "\r\n<p>The maxillary antrum, lateral nasal wall, and sphenoid sinuses are the most commonly affected sites, whereas the nasal septum, nasal floor, and frontal and sphenoid sinuses are less frequently involved. KSCC is the most common malignancy of the nasal vestibule {19475548}.</p>\r\n",
+        "timestamp": "2023-09-25T11:47:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 112703,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 582,
+        "headingText": "<p>Patients present with nonspecific nasal obstruction, facial pain, rhinorrhoea, and epistaxis {26830402}. Tumours grow by local extension, infiltrating the neighbouring structures {26830402}. Lymph node metastases are rare.</p>\r\n<h5>Imaging</h5>\r\n<p>Imaging studies demonstrate an aggressive soft tissue&ndash;density mass with poorly defined, irregular to spiculated margins, often with bone destruction, and documentation of distant metastatic disease or multifocal primaries {17893591; 23777920; 24393570; 24929443; 26054571}.</p>",
+        "timestamp": "2023-10-09T11:19:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 112704,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 583,
+        "headingText": "\r\n<p>KSCC represents as many as 45&ndash;50% of sinonasal tract malignancies {22127982; 26228792; 31143568; 32582473}. The M:F&nbsp;ratio is 2:1, and the majority arise in patients aged &gt;&nbsp;50&nbsp;years {22127982; 26228792; 31143568; 32582473}.</p>\r\n",
+        "timestamp": "2023-09-25T11:47:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 112705,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 584,
+        "headingText": "\r\n<p>Occupational hazards explain some KSCC risk as well as the male predominance. Long exposures to nickel, chrome, arsenic, formaldehyde, welding fumes, leather dust, glues, and various textile-related compounds are attributed to tumorigenesis in as many as 30% of cases {32582473}. A clear association between KSCC and cigarette smoking has been documented {26830402}. Chronic sinonasal inflammation is considered a predisposing factor.</p>\r\n",
+        "timestamp": "2023-09-25T11:47:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 112706,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 585,
+        "headingText": "\r\n<p>KSCC originates in the sinonasal mucosa from areas of pre-existing squamous metaplasia. About 60% of KSCCs arising from inverted papillomas present synchronously {24519376; 26830402}. Aside from KSCC ex sinonasal papilloma, squamous dysplasia&nbsp;/ carcinoma in&nbsp;situ is uncommon in adjacent mucosa.</p>\r\n<p>The genomic landscape of KSCC is poorly defined, with reports of <em>TP53</em> mutations, p53 expression alterations, microsatellite instability, chromosomal aberrations {32490686}, <em>EGFR</em> mutations {30117182}, and alterations in <em>PTEN</em>, <em>CDKN2A</em>, and <em>KMT2D</em> {28572459}. Approximately 20% of sinonasal KSCCs harbour an <em>EGFR</em> mutation, and most of them are associated with inverted papilloma {29145573; 30117182; 32868526}. High microsatellite instability is very rare. Sinonasal KSCC is much less likely to harbour high-risk HPV infection than non-keratinizing squamous cell carcinoma {31743130}.</p>\r\n",
+        "timestamp": "2023-09-25T11:47:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 112707,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 592,
+        "headingText": "\r\n<p>Nonspecific, similar to KSCC at other sites</p>\r\n",
+        "timestamp": "2023-09-25T11:47:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 112708,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 586,
+        "headingText": "<p>KSCC shows infiltrative proliferations of malignant epithelial cells with squamous differentiation in the form of glassy eosinophilic cytoplasm, intercellular bridges, and frequent keratin production. Differentiation degree, cellular pleomorphism, and mitotic activity account for three grades (well-/moderately/poorly differentiated). Well-differentiated KSCC is uncommon. Moderately or poorly differentiated KSCCs constitute the majority. Special types, such as papillary, verrucous, spindle cell, acantholytic, and adenosquamous carcinomas, as well as carcinoma cuniculatum, each constitute a small percentage of tumours (and are more extensively discussed in the larynx and oral sections).</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Immunohistochemistry is seldom required, but pancytokeratin, p40, p63, and CK5/6 are usually identified.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The primary differential diagnosis is with sinonasal papilloma, necrotizing sialometaplasia, pseudoepitheliomatous hyperplasia, and verrucous hyperplasia; other spindled cell neoplasms would be considered in the spindle cell squamous cell carcinoma category.</p>",
+        "timestamp": "2023-10-09T11:19:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 112709,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 587,
+        "headingText": "\r\n<p>Smears show plentiful dispersed spindle, polygonal, and tadpole cells, showing varying degrees of keratinization with dense light-blue (Giemsa stain) or orangeophilic (Pap) cytoplasm, as well as relatively cohesive tissue fragments of similar cells with well-defined dense cytoplasm. Nuclei vary from various stages of pyknosis in the keratinized cells to more open, large, often centrally placed nuclei with coarse chromatin and prominent nucleoli. There is often a large amount of keratinous debris in the background, with or without a granulomatous reaction {12704690}.</p>\r\n",
+        "timestamp": "2023-09-25T11:47:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 112710,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 588,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-25T11:47:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 112711,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> malignant epithelial cells with squamous differentiation and keratinization.</p>\r\n<p><em>Desirable:</em> positivity for p40 immunostain (in selected cases).</p>\r\n",
+        "timestamp": "2023-09-25T11:47:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 112712,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 589,
+        "headingText": "<p>Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2023-10-09T11:19:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 112713,
+        "bookId": 52,
+        "chapterId": 13,
+        "headingId": 590,
+        "headingText": "\r\n<p>Although the incidence is decreasing, 5-year overall survival rates are about 50% {23674262; 23775607; 32582473}. The 5-year relative survival rate for patients with nasal cavity KSCC is 74.5%, compared with 35% for maxillary and ethmoid sinus KSCC and &lt;&nbsp;30% for frontal and sphenoid KSCC {32582473}. Although tumours with PDL1 expression show improved outcomes for the oropharynx, oral cavity, and larynx {32490686}, studies in sinonasal KSCC are still ongoing {29356178; 31190998}.</p>",
+        "timestamp": "2023-09-25T11:47:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

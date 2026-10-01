@@ -1,0 +1,62 @@
+[
+  {
+    "pkattachmentId": 36121,
+    "bookid": 34,
+    "chapterId": 21,
+    "fileId": 13019,
+    "type": "Figure",
+    "diagnosis": "Mucinous carcinoma",
+    "title": "",
+    "legend": "The tumour exhibits expansile/confluent growth, with anastomosing/labyrinthine architecture and minimal to absent stroma.",
+    "source": "Surapan Khunamornpong",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/34/21/13019.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/34/21/thumb_13019.jpg"
+  },
+  {
+    "pkattachmentId": 36122,
+    "bookid": 34,
+    "chapterId": 21,
+    "fileId": 13020,
+    "type": "Figure",
+    "diagnosis": "Mucinous carcinoma",
+    "title": "",
+    "legend": "The tumour exhibits infiltrative/destructive growth, with irregularly shaped glands arranged haphazardly within altered stroma.",
+    "source": "Preetha Ramalingam",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/34/21/13020.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/34/21/thumb_13020.jpg"
+  },
+  {
+    "pkattachmentId": 36698,
+    "bookid": 34,
+    "chapterId": 21,
+    "fileId": 10941,
+    "type": "WSI",
+    "diagnosis": "Mucinous carcinoma of the ovary",
+    "title": "",
+    "legend": "Mucinous carcinoma characterized by infiltrative malignant glands and surrounding desmoplastic stroma.",
+    "source": "Preetha Ramalingam",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/10941.dzi",
+    "thumbnail": null
+  },
+  {
+    "pkattachmentId": 36701,
+    "bookid": 34,
+    "chapterId": 21,
+    "fileId": 10944,
+    "type": "WSI",
+    "diagnosis": "Mucinous carcinoma of the ovary",
+    "title": "",
+    "legend": "Mucinous carcinoma with complex glands showing a confluent or expansile pattern of inavasion&nbsp;measuring at least 5.0mm. No stromal reaction is present.",
+    "source": "Preetha Ramalingam",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/10944.dzi",
+    "thumbnail": null
+  }
+]

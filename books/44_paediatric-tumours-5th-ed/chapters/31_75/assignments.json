@@ -1,0 +1,46 @@
+[
+  {
+    "pkroleId": 131,
+    "bookId": "44",
+    "roleid": 133,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2443,
+        "lastname": "Pfister",
+        "firstname": "Stefan M.",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 2559,
+        "lastname": "Wesseling",
+        "firstname": "Pieter",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3490,
+        "lastname": "Jacques",
+        "firstname": "Thomas S.",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      },
+      {
+        "contributorid": 3725,
+        "lastname": "Taylor",
+        "firstname": "Michael D.",
+        "initials": "",
+        "email": "",
+        "roleid": 133,
+        "position": 0
+      }
+    ]
+  }
+]

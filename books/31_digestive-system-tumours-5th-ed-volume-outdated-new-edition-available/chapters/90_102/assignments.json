@@ -1,0 +1,70 @@
+[
+  {
+    "pkroleId": 58,
+    "bookId": "31",
+    "roleid": 9,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2025,
+        "lastname": "Paradis",
+        "firstname": "Valerie",
+        "initials": "V",
+        "email": "",
+        "roleid": 9,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 59,
+    "bookId": "31",
+    "roleid": 10,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2021,
+        "lastname": "Klimstra",
+        "firstname": "David S.",
+        "initials": "DS",
+        "email": "",
+        "roleid": 10,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 60,
+    "bookId": "31",
+    "roleid": 11,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2025,
+        "lastname": "Paradis",
+        "firstname": "Valerie",
+        "initials": "V",
+        "email": "",
+        "roleid": 11,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 61,
+    "bookId": "31",
+    "roleid": 12,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2021,
+        "lastname": "Klimstra",
+        "firstname": "David S.",
+        "initials": "DS",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      }
+    ]
+  }
+]

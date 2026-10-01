@@ -1,0 +1,151 @@
+[
+  {
+    "pkroleId": 176,
+    "bookId": "65",
+    "roleid": 205,
+    "roleTitle": "Resp editor",
+    "contributors": [
+      {
+        "contributorid": 3294,
+        "lastname": "Grossniklaus",
+        "firstname": "Hans E.",
+        "initials": "",
+        "email": "",
+        "roleid": 205,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 177,
+    "bookId": "65",
+    "roleid": 206,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3317,
+        "lastname": "Vemuganti",
+        "firstname": "Geeta K.",
+        "initials": "",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      },
+      {
+        "contributorid": 4647,
+        "lastname": "Hodge",
+        "firstname": "Jennelle C.",
+        "initials": "JC",
+        "email": "",
+        "roleid": 206,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 178,
+    "bookId": "65",
+    "roleid": 207,
+    "roleTitle": "Resp author",
+    "contributors": [
+      {
+        "contributorid": 3304,
+        "lastname": "Chevez-Barrios",
+        "firstname": "Patricia",
+        "initials": "",
+        "email": "",
+        "roleid": 207,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 179,
+    "bookId": "65",
+    "roleid": 208,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2599,
+        "lastname": "Eagle Jr",
+        "firstname": "Ralph C. ",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 3262,
+        "lastname": "Al Hussaini",
+        "firstname": "Maysa ",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 3281,
+        "lastname": "Mendoza",
+        "firstname": "Pia",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 5158,
+        "lastname": "Kaliki",
+        "firstname": "Swathi",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 5220,
+        "lastname": "Gallie",
+        "firstname": "Brenda L.",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 5252,
+        "lastname": "Moll",
+        "firstname": "Annette",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 5253,
+        "lastname": "Radvanyi",
+        "firstname": "Francois",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 5254,
+        "lastname": "de Graaf",
+        "firstname": "Pim",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      },
+      {
+        "contributorid": 5255,
+        "lastname": "Dorsman",
+        "firstname": "Josephine",
+        "initials": "",
+        "email": "",
+        "roleid": 208,
+        "position": 0
+      }
+    ]
+  }
+]

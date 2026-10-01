@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 54657,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 159,
+        "headingText": "<p>Colorectal adenocarcinoma is a malignant epithelial tumour originating in the large bowel, showing glandular or mucinous differentiation.</p>",
+        "timestamp": "2019-04-03T14:34:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 54658,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 160,
+        "headingText": "<p>8140/3 Adenocarcinoma NOS</p>",
+        "timestamp": "2021-11-22T15:04:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 54659,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 161,
+        "headingText": "<p>2B90.Y &amp; XH74S1 Other specified malignant neoplasms of colon &amp; Adenocarcinoma NOS</p>",
+        "timestamp": "2019-02-21T10:36:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 54660,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 162,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-02-21T10:36:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 54661,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 163,
+        "headingText": "<p>Serrated adenocarcinoma (8213/3); adenoma-like adenocarcinoma (8262/3); micropapillary adenocarcinoma (8265/3); mucinous adenocarcinoma (8480/3); poorly cohesive carcinoma (8490/3); signet-ring cell carcinoma (8490/3); medullary adenocarcinoma (8510/3); adenosquamous carcinoma (8560/3); carcinoma, undifferentiated, NOS (8020/3); carcinoma with sarcomatoid component (8033/3)</p>",
+        "timestamp": "2021-11-22T15:04:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 54662,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 164,
+        "headingText": "<p>For practical purposes, colorectal carcinomas are divided into three groups by location: right-sided or proximal colon carcinomas (including those in the caecum, ascending colon, and transverse colon), left-sided colon carcinomas (located anywhere from the splenic flexure up to the sigmoid), and rectal carcinomas. Most colorectal cancers (CRCs) are left-sided or rectal {18759825}. There has been a relative decrease in the incidence of left-sided CRC {2053677}, probably due to increased uptake of endoscopy.</p>\r\n<p>Screening strategies, including faecal occult blood testing, are more sensitive for left-sided neoplasia {21745014}. The molecular background of CRC also shows location-specific features (see <em>Pathogenesis</em>, below). Treatment is different, with a prominent role for neoadjuvant radiotherapy or radiochemotherapy for rectal carcinomas. Surgical complications are more often observed in the treatment of right-sided colon cancer {28204867}. Tumour location is also related to the outcome of metastatic CRC {29181680}, and it has an association with the success of systemic treatment {28407110; 28449055}.</p>",
+        "timestamp": "2019-04-03T14:34:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 54663,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 165,
+        "headingText": "<p>Common symptoms include persistent changes in bowel habits, anaemia and haematochezia, and abdominal pain. With the widespread introduction of population screening {29580179}, the clinical spectrum of CRC is changing, with increasing numbers of patients without symptoms. Depending on the accepted screening strategy, these patients&rsquo; tumours are detected after selection by various types of faecal occult blood tests or during endoscopy {29580179}.</p>\r\n<p>Endoscopic evaluation allows visualization of CRC and precursor lesions on the mucosal surface of the large bowel. Therapeutic removal of early lesions can also be performed, by snare polypectomy, endoscopic mucosal resection, or submucosal dissection {25592748}. Advanced techniques, such as narrow-band imaging and magnifying chromoendoscopy, improve endoscopic detection and evaluation of CRC {27644737}.</p>\r\n<p>Imaging can be applied for non-invasive detection of CRC with the use of CT colonography, but definite diagnosis is made on biopsy or resection. The main use of clinical imaging is for staging of CRC. Various techniques are applied. To determine invasion depth in early rectal cancers, endorectal ultrasonography is applied {25693944}. For more-advanced lesions, MRI investigation is essential, in particular in the determination of the relation of the tumour with the mesorectal fascia {27384098}. The evaluation of nodal status remains difficult {16152740}. To identify distant metastases before extensive surgery is performed, CT or PET-CT can be used. Recently, the evaluation of tumour response (restaging) using imaging has become more important {23801777; 26001237}.</p>",
+        "timestamp": "2019-02-21T10:37:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 54664,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 166,
+        "headingText": "<p>CRC, with an estimated 1&nbsp;849&nbsp;518&nbsp;new cases worldwide in 2018, is the second most common cancer in women and the third most common cancer in men. The incidence varies widely, with the highest rates seen in the highest-income countries {30207593}. In many low- and middle-income countries, the incidence of CRC is rapidly increasing, whereas stabilizing or decreasing rates have been observed in high-income, high-incidence countries {26818619}. Trends of increasing incidence in young adults have been reported recently in Australia, Canada, and the USA {28376186; 27060626; 25251195}.</p>",
+        "timestamp": "2019-02-21T10:37:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 54665,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 167,
+        "headingText": "<p>A high incidence of CRC is consistently observed in populations with diets typical of high-income countries combined with a sedentary lifestyle. Established risk factors include consumption of processed and red meat {26514947}, consumption of alcohol {28407090}, and excess body fat {27557308}. The relation of smoking with CRC is controversial; some studies include smoking as a risk factor and others do not {27321059}. Consumption of dietary fibre and dairy products {28407090} and increased levels of physical activity {27510511} decrease the risk, as do prolonged use of NSAIDS and hormone replacement therapy in women {23563998; 21671473}. The molecular pathways underlying these epidemiological associations are poorly understood, probably because of complex interactions. Indeed, the effects of dietary interventions in CRC prevention seem minimal, and effective forms of chemoprevention are limited to NSAIDS {27919915}.</p>\r\n<p>Genetic predisposition is an important risk factor for CRC, depending on the type of mutation. The risk can increase to 100% lifetime risk in patients with familial adenomatous polyposis. Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/62/0690\" target=\"_blank\">#0690</a> provides an overview of hereditary cancer syndromes that involve CRC. Hereditary cancer syndromes are discussed in more detail in <a style=\"cursor:pointer\" href=\"/chaptercontent/31/225\" target=\"_blank\">section </a>Chapter&nbsp;14: <em >Genetic tumour syndromes of the digestive system</em>.</p>\r\n<p>Chronic bowel inflammation is an established risk factor for CRC. Inflammatory bowel diseases (Crohn disease and ulcerative colitis) are discussed in the section <a style=\"cursor:pointer\" href=\"/chaptercontent/31/60\" target=\"_blank\">section </a><em>Inflammatory bowel disease&ndash;associated dysplasia of the colorectum</em>. Other rare but well-established risk factors are pelvic irradiation {29957373}, cystic fibrosis {29289528}, ureterosigmoidostomy {10613486}, and acromegaly {18567075}.</p>",
+        "timestamp": "2019-08-23T11:27:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 54666,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 168,
+        "headingText": "<p>Most CRCs&nbsp;develop via the conventional pathway through the classic adenoma&ndash;carcinoma sequence of pathogenesis, and the remainder evolve via either the hypermutant pathway or the ultramutant pathway. This involves transition from normal mucosal epithelial stem cells through adenomas to carcinomas, with stepwise accumulation of genetic and epigenetic abnormalities in highly variable patterns in the evolving tumour cells. Cancers show underlying molecular changes associated with three main mechanisms of genetic instability: (1) chromosomal instability resulting in high levels of DNA somatic copy-number alterations (SCNAs), with DNA gains/amplifications and losses/deletions affecting a smaller group of genes {19911421; 23417071}; (2) microsatellite instability (MSI) with a high mutation rate (hypermutant) due to defective DNA mismatch repair affecting a large number of genes; or (3) defective proofreading polymerase with a very high mutation rate (ultramutant) affecting very large numbers of genes (mostly passenger mutations with few driver mutations) {22810696; 27325016}.</p>\r\n<p>The most frequent and characteristic genetic changes in the conventional colorectal adenoma&ndash;carcinoma pathway include alterations to <em>APC</em>, <em>KRAS</em>, <em>TP53</em>, <em>SMAD4</em>, or <em>PIK3CA</em> (84%, chromosomal instability pathway); the mismatch repair genes <em>MLH1</em> and <em>MSH2</em> (13%, MSI hypermutant pathway); and <em>POLE</em> (3%, ultramutant pathway). <em>APC</em> alterations are mostly inactivating mutations, found in about 80% of both adenomas and carcinomas, which occur very early in the sequence and appear to initiate adenoma formation {23417071; 21068132}. These mutations usually lead to truncation of the APC protein, with reduced ability to direct degradation of &beta;-catenin resulting in its accumulation and causing abnormal signalling through the WNT pathway {2188735; 9065402}. <em>KRAS</em> mutations, found in about 40% of both adenomas and cancers at specific sites (codons&nbsp;12, 13, 61, and others), activate the KRAS oncoprotein by reducing or inactivating its intrinsic GTPase enzymatic activity, thus locking the protein into its GTP-bound active state. This sends constitutive signals through the RAS-RAF-MEK-ERK (MAPK) proliferative signalling pathway, as can <em>BRAF</em> activating mutations {27325016; 20233436}. Additionally, KRAS feeds into the PI3K apoptosis-suppressing pathway, which can also be activated by mutations in <em>PIK3CA</em> or <em>PTEN</em> {21473780}. The <em>SMAD4</em> gene is usually inactivated by deletion (in ~60% cancers) of a large part of chromosome&nbsp;18q or less often by mutation, reducing signalling through the TGF-&beta; inhibitory pathway. The <em>TP53</em> tumour suppressor gene, which encodes p53, is sometimes called the guardian of the genome, because it responds to DNA damage and other stresses by either inducing cell-cycle arrest via p21, allowing an opportunity to repair small amounts of DNA damage, or inducing apoptotic cell death via BAX (and other proteins) when the DNA damage is more severe. Mutations that inactivate or subvert p53 function are found in about 60% of cancers, and this mutational event often maps to the late stage of adenoma&ndash;carcinoma transition in sporadic cancers, although it occurs earlier in inflammatory bowel disease&ndash;associated carcinogenesis, see also <a style=\"cursor:pointer\" href=\"/chaptercontent/31/60\" target=\"_blank\">section </a><em>Inflammatory bowel disease&ndash;associated dysplasia of the colorectum</em>.</p>\r\n<p>Serrated and other adenocarcinomas associated with defective mismatch repair account for about 13% of all CRCs and follow an alternative pathway in which the precursor lesions are serrated polyps (including hyperplastic polyps, sessile serrated lesions, traditional serrated adenomas, and mixed polyps) rather than conventional adenomas. Serrated polyps often have <em>BRAF</em> and (less often) <em>KRAS</em> activating mutations and the CpG island methylator phenotype, in which a range of susceptible genes develop epigenetic promoter hypermethylation that silences their expression, frequently including <em>MLH1</em>, leading to defective mismatch repair and MSI. About 3% of adenocarcinomas have mutations affecting the proofreading domain of POLE that confer very high mutation rates (ultramutant) {24627599; 25856207}.</p>",
+        "timestamp": "2019-06-04T19:02:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 54667,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 207,
+        "headingText": "<p>The appearances are variable, with endophytic and exophytic types and variable degrees of fibrosis. The usual type is an ulcer with rolled edges extending around the circumference of the colon.</p>",
+        "timestamp": "2019-04-03T14:35:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 54668,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 169,
+        "headingText": "<p>The majority (90%) of all CRCs are adenocarcinomas. Their defining feature is invasion through the muscularis mucosae into the submucosa. Although most cases are diagnosed as adenocarcinoma NOS, several histopathological subtypes can be distinguished, with specific clinical and molecular characteristics.</p>\r\n<h5>Mucinous adenocarcinoma</h5>\r\n<p>A tumour is designated as mucinous adenocarcinoma if &gt;&nbsp;50% of the lesion is composed of pools of extracellular mucin that contain overt malignant epithelium as clumps, layers, or individual tumour cells including signet-ring cells. This is the most common subtype, with a prevalence ranging from 5% to 20% {24728741}. There is no prognostic difference compared with adenocarcinoma NOS {22259177}, although there is a relatively poor response to systemic treatment in the metastatic setting {26323388}. The proportion of cases with MSI is increased compared with adenocarcinoma NOS. The presence of MSI does not have independent prognostic value {15017435; 26769140}; therefore, grading should be based on glandular formation and epithelial maturation. Carcinomas with mucinous areas of &lt;&nbsp;50% are categorized as having a mucinous component.</p>\r\n<h5>Signet-ring cell carcinoma</h5>\r\n<p>A tumour is designated as signet-ring cell carcinoma if &gt;&nbsp;50% of the tumour cells have prominent intracytoplasmic mucin, typically with displacement and moulding of the nucleus. This subtype has a low prevalence rate, approximately 1% {22476818}, and a predilection for the right colon. Tumours often present at advanced stages, but stage-corrected outcome is worse compared with adenocarcinoma NOS and mucinous carcinoma {24841868}. Metastases develop rapidly and in multiple locations that are not typical for CRC {24504447}. There is a high incidence of MSI, a strong association with Lynch syndrome {22522845}, and possibly an enrichment of the MSI/PDL1 druggable phenotype {28595259}. Carcinomas with signet-ring cells in &lt;&nbsp;50% of the tumour are categorized as having a signet-ring cell component.</p>\r\n<h5>Medullary carcinoma</h5>\r\n<p>This subtype is characterized by sheets of malignant cells with vesicular nuclei, prominent nucleoli, and abundant eosinophilic cytoplasm, exhibiting prominent infiltration by lymphocytes and neutrophilic granulocytes. Single-centre studies estimate its prevalence at 4% {25572685; 10561306}. In cancer registries, this subtype is underreported {20811712}. It frequently contains&nbsp;MSI, most frequently in combination with <em>BRAF</em> mutations {25572685}, and it is associated with a good prognosis {10561306}. Of note, this type of CRC shows an aberrant immunohistochemical pattern, with loss of CDX2 and CK20 {11733373}. Neuroendocrine markers are negative on immunohistochemistry.</p>\r\n<h5>Serrated adenocarcinoma</h5>\r\n<p>This subtype is defined by morphological similarities with serrated polyps, with glandular serration that can be accompanied by mucinous areas. The tumour cells have a low N:C&nbsp;ratio. Approximately 10&ndash;15% of all CRCs can be classified as serrated adenocarcinoma {20594582}.</p>\r\n<h5>Micropapillary adenocarcinoma</h5>\r\n<p>This subtype is characterized by small clusters of tumour cells within stromal spaces mimicking vascular channels; &ge;&nbsp;5% of the tumour should present with this aspect for this diagnosis. Its incidence ranges from 5% to 20% in single-centre series {21336262; 23060121; 17464318}. This subtype has a high risk of lymph node metastasis, and poor prognostic factors such as lymphatic invasion, extramural vascular invasion (EMVI), and perineural invasion are frequently present.</p>\r\n<h5>Adenoma-like adenocarcinoma</h5>\r\n<p>This subtype {25913616}, previously described as &ldquo;villous adenocarcinoma&rdquo; {15489649} and &ldquo;invasive papillary adenocarcinoma&rdquo; {11979380}, is defined as an invasive adenocarcinoma in which &ge;&nbsp;50% of the invasive areas have an adenoma-like aspect with villous structures, with a low-grade aspect. Minimal desmoplastic reaction is observed, and there is a pushing growth pattern. Its incidence ranges from 3% to 9% {25913616; 15489649}. This subtype is characterized by difficulties in establishing a diagnosis of the invasive component on biopsies, a high <em>KRAS</em> mutation rate, and a favourable prognosis {25913616}.</p>\r\n<h5>Adenosquamous carcinoma</h5>\r\n<p>This rare subtype has an incidence of &lt;&nbsp;0.1% {22513428; 10211505} and features of both adenocarcinoma and squamous cell carcinoma, similar to adenosquamous carcinomas seen elsewhere in the GI tract; see <a style=\"cursor:pointer\" href=\"/chaptercontent/31/13\" target=\"_blank\">section </a><em>Oesophageal adenosquamous and mucoepidermoid carcinomas</em>&nbsp;and <a style=\"cursor:pointer\" href=\"/chaptercontent/31/31\" target=\"_blank\">section </a><em>Gastric adenosquamous carcinoma</em>.</p>\r\n<h5>Carcinomas with sarcomatoid components</h5>\r\n<p>A small subgroup of CRCs is characterized by partly undifferentiated histology and sarcomatoid aspects such as spindle cell components or rhabdoid features {22066078; 26064731; 26551623}. In general, patients have a poor outcome {26064731}. The tumours are typically large and show characteristic rhabdoid cells with abundant intracytoplasmic, eosinophilic rhabdoid bodies. The tumour cells are often dyscohesive and embedded in myxoid matrix. Pleomorphic giant or spindle cells, as well as areas of glandular differentiation, may also be seen. Loss of nuclear immunostaining for SMARCB1 (INI1), a core subunit of the SWI/SNF chromatin-remodelling complex, is characteristic {26551623}. These tumours appear to have loss/coactivation of multiple members of the SWI/SNF family of proteins, including SMARCA4, SMARCA2, and/or SMARCB1 (indicating an association between SWI/SNF deficiency and rhabdoid phenotype), and some have ARID1A abnormalities.</p>\r\n<h5>Undifferentiated carcinoma</h5>\r\n<p>These carcinomas lack morphological, immunohistochemical, and molecular evidence of differentiation beyond that of an epithelial tumour. They differ from medullary carcinomas in their lack of pushing borders, syncytial growth pattern, and prominent lymphoplasmacytic infiltrates. They only infrequently show MSI.</p>\r\n<h5>Grading</h5>\r\n<p>Grading of CRC is based on gland formation: low-grade (formerly well- to moderately differentiated) and high-grade (formerly poorly differentiated) tumours. Grading is based on the least differentiated component. The invasive front, where formation of tumour budding and poorly differentiated clusters occurs as a sign of epithelial&ndash;mesenchymal transition {27151745}, should not be taken into account when grading the tumour, but should be reported separately.</p>\r\n<h5>Important histological features</h5>\r\n<p>See Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/62/0818\" target=\"_blank\">#0818</a>.</p>\r\n<h6>Lymphatic invasion</h6>\r\n<p>Lymphatic invasion, i.e. the presence of single cells or groups of tumour cells in lymphatic channels (often defined as channels covered with endothelial cells devoid of erythrocytes) is a morphological risk factor for the presence of lymph node metastases in pT1 CRC. Additional immunohistochemistry can be helpful {19387662}.</p>\r\n<h6>Intramural and extramural vascular invasion</h6>\r\n<p>Vascular invasion can be subclassified according to localization: within the bowel wall (intramural vascular invasion [IMVI]) versus outside the bowel wall (EMVI). IMVI is reported to have an incidence of 4&ndash;40% (12.5% overall reported incidence), and it is associated with poor outcome {28960400}. The incidence of EMVI is higher than that of IMVI, but this feature is still considered to be underreported. The negative prognostic impact of EMVI is higher than that of IMVI {28960400; 26819536}. Features that are helpful in the recognition of EMVI are the orphan artery sign (a tumour nodule identified adjacent to an artery in a presumed vein) and the protruding tongue sign (a tongue of tumour protruding beyond the tumour border into a vein in the surrounding fat) {23108018}. Elastin staining or immunohistochemistry is sometimes used to improve detection.</p>\r\n<h6>Perineural invasion</h6>\r\n<p>Growth along the nerve is called perineural invasion. Tumour cells should by definition surround at least one&nbsp;third of the nerve circumference {19484787} and can be present in any of the three layers of the nerves (epineurium, perineurium, and endoneurium). The incidence is reported to be about 20%, with increased incidence in the rectum, in higher tumour stages, and in the presence of other risk factors (e.g. vascular and lymphatic invasion) {26426380}. Perineural invasion is associated with local recurrence, distant recurrence, and decreased survival {26426380}.</p>\r\n<h6>Tumour budding, poorly differentiated clusters, and growth pattern</h6>\r\n<p>Tumour budding is defined as single cells or clusters of as many as 4&nbsp;tumour cells at the invasive margin of the tumour {28548122}, which is determined on H&amp;E staining in a hotspot at the invasive front using a three-tiered scoring system according to international consensus. The presence of high-grade budding is associated with poor outcome in various subgroups of CRC. Budding is considered to be the morphological manifestation of epithelial&ndash;mesenchymal transition {21317460}. Poorly differentiated clusters are groups of &ge;&nbsp;5&nbsp;tumour cells, in the absence of glandular formation {18438118}, and are an adverse prognostic feature {27444718}. Two types of growth patterns can be distinguished: infiltrative growth and pushing borders {3721406}. Pushing borders are associated with improved outcome and lower stage.</p>\r\n<h6>Immune response</h6>\r\n<p>The relation of an immune response to outcome has been proven. Intratumoural lymphocytes {27172903} and a Crohn-like reaction {27172903} are associated with better outcome. Both features are associated with MSI {11413533; 17631130}; however, the relation to outcome seems independent of MSI status. More recently, a standardized examination of the presence of lymphocytes at the invasive front of the tumour, using immunohistochemistry for CD3 and CD8, showed that this feature has significant prognostic power {29754777}.</p>\r\n<h5>Resection margins and completeness of resection</h5>\r\n<p>The term &ldquo;margin&rdquo; refers to the areas of the resection or excision specimen that have been cut by the surgeon or endoscopist. Margins are not natural structures such as the serosal surface. Various margins can be defined: the proximal and distal margins are the easiest to distinguish. Those margins are rarely positive, but when the tumour is located close to these longitudinal margins, the risk of local recurrence is increased, particularly in rectal cancer when no radiotherapy is administered before surgery {23331717}. The circumferential resection margin (considered positive if the distance between tumour and edge of resection is &le;&nbsp;1&nbsp;mm) is more important, with a strong impact on local recurrence and overall survival {18182672}. For caecal carcinomas, the circumferential or mesocolic margin is also important, but less evidence is available {17764533}. The strongest association with outcome is present when the margin is involved due to the primary tumour. Involvement due to positive lymph nodes, tumour deposits, vascular invasion, and perineural growth is less common and seems to have less impact on outcome {18182672}. For a local excision specimen, the most important margin is the basal margin. Lateral resection margin positivity does not influence local recurrence rates {29532207}.</p>\r\n<p>In close correlation with the assessment of resection margins, the macroscopic evaluation of the completeness of the resection specimen and the achieved surgical plane of resection has been established as an important prognostic factor and as a quality indicator. The optimal planes of surgery are the mesorectal fascia {11919228; 16361623} and the mesocolic plane {18667357} for rectal and colonic tumours, respectively. Achievement of suboptimal planes of resection is associated with poor outcome.</p>\r\n<h5>Response to therapy</h5>\r\n<p>The application of neoadjuvant therapy, i.e. radiotherapy or radiochemotherapy for rectal carcinoma or systemic treatment for CRC, interferes with the histopathology. A spectrum of tumour response can be observed, varying from complete pathological response to no detectable effects. Classification can be performed by assessment of downstaging (dependent on reliable pretreatment imaging) or evaluation of tumour regression grade (TRG). Various classification systems have been proposed, but all suffer from lack of reproducibility, although they have some features in common (see Table <a style=\"cursor:pointer\" href=\"/attachment/31/62/0689\" target=\"_blank\">#0689</a>) {25249540}.</p>",
+        "timestamp": "2019-08-23T11:29:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 54669,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 170,
+        "headingText": "<p>Cytology is not clinically relevant, except in the metastatic setting, where FNA may be helpful.</p>",
+        "timestamp": "2019-02-21T10:41:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 54670,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 171,
+        "headingText": "<p>Two different approaches to the molecular pathological classification of CRC have been used: genomic (DNA-based) classification, supported by an integrated molecular analysis performed by The Cancer Genome Atlas (TCGA) network, and transcriptomic (RNA-based) profiling that characterizes CRC using RNA sequencing or array-based technologies {22810696; 27325016}.</p>\r\n<h5>Genomic classification</h5>\r\n<p>This approach classifies CRC into two main groups by mutation rate: hypermutated and non-hypermutated cancers, which match well with the MSI and chromosomal instability pathways and are consistent with previous DNA-based classification systems.</p>\r\n<p>Hypermutated cases (~15% of CRCs) have a high frequency of mutations, and most show MSI due to defective DNA mismatch repair. This includes both sporadic hypermutated microsatellite-unstable&nbsp;cancers with <em>MLH1</em> promoter hypermethylation causing loss of MLH1 expression and inactivation of DNA mismatch repair (~13%). Almost all of these tumours have the CpG island methylator phenotype, with many other genes silenced by promoter hypermethylation. A small number of cancers show either inherited (Lynch syndrome) or somatic mismatch repair gene mutations. A further approximately 2&ndash;3% are ultramutated cancers, with extremely high mutation rates with a characteristic nucleotide base change spectrum (increased C&rarr;A transversions), resulting from the presence of a mutation that inactivates the proofreading function within the exonuclease domain of the DNA-replicating enzyme POLE, or rarely of POLD1 {23447401}. This results in failure to correct the misincorporation of nucleotides during DNA replication or repair by mutant POLE (or POLD1). Ultramutated and hypermutated cancers are usually combined into a single group with many more significantly recurrently mutated genes than the non-hypermutated CRCs, and these are shown in Table <a style=\"cursor:pointer\" href=\"/attachment/31/62/0688\" target=\"_blank\">#0688</a>. Hypermutated microsatellite-unstable&nbsp;cancers have far fewer DNA SCNAs than do non-hypermutated CRCs, but they show the same pattern of affected chromosome arms and sub-arms {22810696}.</p>\r\n<p>Non-hypermutated cases (~85% of CRCs) have a low frequency of mutations and are microsatellite-stable (MSS), but they have a high frequency of DNA SCNAs, often as chromosomal segment (arm and sub-arm) gains and losses, shown in Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/62/0688\" target=\"_blank\">#0688</a>). The genes that are significantly recurrently mutated in the non-hypermutated MSS CRC include <em >APC</em> (80%), <em >TP53</em> (60%), and <em >KRAS</em> (45%), among many others at lower frequencies, as shown in&nbsp;Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/62/0688\" target=\"_blank\">#0688</a> {22810696}.</p>\r\n<p>The most frequent alterations of signalling pathways by gene mutations, deletions, amplifications, and translocations are activation of the WNT, MAPK, and PI3K growth signalling pathways and inactivation of the TGF-&beta; and p53 inhibitory pathways, which are relevant for targeted therapies {27325016}. The WNT signalling pathway is activated in 93% of non-hypermutated and 97% of hypermutated cancers, involving biallelic inactivation of <em>APC</em> or activation of <em>CTNNB1</em> in &gt;&nbsp;80% of CRCs, together with changes to many other genes involved in regulation of the WNT pathway {22810696}.</p>\r\n<h5>Transcriptomic profiling</h5>\r\n<p>The Colorectal Cancer Subtyping Consortium (CRCSC) compiled RNA expression profiling data from multiple studies and produced a consensus identifying four main consensus molecular subtype (CMS) groups {26457759}. Almost all hypermutated microsatellite-unstable&nbsp;cancers fell into the first category: CMS1 (MSI-immune, 14%). The remaining MSS cancers are subcategorized into three main groups: CMS2 (canonical, 37%), CMS3 (metabolic, 13%), and CMS4 (mesenchymal, 23%), with a residual unclassified group (mixed features, 13%) that may represent either a transition phenotype or intratumoural heterogeneity. CMS1 CRCs were hypermutated microsatellite-unstable&nbsp;due to <em>MLH1</em> silencing and accordingly CpG island methylator phenotype with frequent <em>BRAF</em> mutations, with a low number of SCNAs. This equates with the previously well-characterized sporadic microsatellite-unstable&nbsp;CRC subgroup. Gene expression profiling furthermore revealed evidence of strong immune activation in CMS1, consistent with pathological descriptions of prominent tumour-infiltrating CD8+ cytotoxic T&nbsp;lymphocytes, and this indicates potential responsiveness to immune checkpoint inhibitors {27325016}. The CMS classification system is based on biological processes indicated by gene expression patterns and is suggested as a basis for future clinical stratification in trials and other studies with potential for subtype-based targeted interventions, although further studies are required to validate this {29242316}.</p>\r\n<p>An alternative system is the CRC intrinsic signature (CRIS), focused on cancer cell intrinsic expression signatures in order to avoid stromal-derived intratumoural heterogeneity {28561046}. This enabled concordant clustering of tumour samples regardless of region of origin, but it requires validation.</p>",
+        "timestamp": "2019-10-15T14:55:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 54671,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 174,
+        "headingText": "<p>See Box&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/62/1530\" target=\"_blank\">#1530</a>.</p>",
+        "timestamp": "2019-08-23T11:30:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 54672,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 172,
+        "headingText": "<p>In staging, subdivision of T3 tumours and T1 tumours has been advocated for improved prognostication. Subdivision of T1 CRC has gained increased attention, with the increased case load observed after the introduction of population screening. After local resection of these tumours, the risk of lymph node metastasis can be estimated on the basis of various factors, including invasion depth (for sessile polyps the submucosal subdivision sm1&ndash;3 {8261988}, for stalked polyps the Haggitt classification {4007423}), in combination with differentiation grade, presence of lymphatic invasion, and tumour budding {23884793}. Alternatively, the submucosal invasion depth can be reported in mm {23884793}.</p>\r\n<p>Nodal status depends on the number of positive lymph nodes in the region of the primary tumour: no positive lymph nodes (N0), 1&ndash;3&nbsp;nodes (N1), or &ge;&nbsp;4&nbsp;nodes (N2). There has been a lot of discussion about the position of tumour deposits. In the current TNM classification (eighth edition) [[Brierly JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley Blackwell; 2017.]], tumour deposits are only considered in the absence of nodal metastases and categorized as N1c, despite the evidence that their prognostic value is independent of nodal status {28029327}. When only micrometastases are present (no metastasis &gt;&nbsp;2&nbsp;mm), this is indicated by the addition of &ldquo;(mi)&rdquo;. Isolated tumour cells are single cells or small clusters of cells &le;&nbsp;0.2&nbsp;mm in greatest extent; these are not considered lymph node metastases [[Brierly JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley Blackwell; 2017.]].</p>\r\n<p>The presence of distant metastases can be classified as M1a (metastases confined to one organ, without peritoneal metastases), M1b (metastases in more than one organ), and M1c (metastases to the peritoneum with or without other organs involved).</p>",
+        "timestamp": "2019-02-21T10:42:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 54673,
+        "bookId": 31,
+        "chapterId": 62,
+        "headingId": 173,
+        "headingText": "<p>CRC is arguably the most studied cancer historically, resulting in very large numbers of potential prognostic and predictive biomarkers. Here, we aim to present the biomarkers routinely used as standard of care with clear-cut predictive value and those in which prognosis and prediction are intimately related, along with an indication of their level of acceptance in the diagnostic community. See also Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/62/0924\" target=\"_blank\">#0924</a>.</p>\r\n<h5>Established predictive biomarkers</h5>\r\n<h6>RAS genes</h6>\r\n<p>RAS-encoded proteins are a family of small GTPase-related proteins involved in cell signal transduction {10394594}. Mutations in RAS oncogenes are among the most common mutations in human cancers, and they are of biological significance in CRC. There are three RAS genes, two of which (<em>KRAS</em> and <em>NRAS</em>) have therapeutic significance. International guidelines {28350513; 24996433} recommend the analysis of codons 12, 13, 59, 61, 117, and 146 in the <em>KRAS</em> and <em>NRAS</em> genes, because these codons generally correlate with resistance to monoclonal antibodies directed to the extracellular domain of EGFR (HER1) {16618717; 25605843}. These antibodies (of which cetuximab and panitumumab are leading examples) prevent EGFR dimerization and subsequent downstream oncogenic signalling pathways. Almost 50% of CRCs harbour a clinically relevant RAS mutation and should not be treated with anti-EGFR antibody therapy. However, only 40&ndash;60% of RAS-wildtype cases show response to this therapy {20526105}, suggesting a more complex biology in relation to this treatment option.</p>\r\n<h6><em>BRAF</em></h6>\r\n<p><em>BRAF</em> is an oncogene of the family of RAF threonine kinases. <em>BRAF</em> is a super-biomarker relevant in the treatment and diagnosis of melanoma {20818844}, hairy cell leukaemia {22072557}, lung adenocarcinoma, and thyroid cancer {21147872}. In CRC, <em>BRAF</em> is a biomarker of paramount importance. <em>BRAF</em> mutations in and around amino acid 600 (most frequently p.V600E) carry an adverse prognosis. Mutations of <em>BRAF</em> are of use for the exclusion of Lynch syndrome. <em>BRAF</em> mutations are overrepresented in some of the morphological subtypes {28595259}. In addition, <em>BRAF</em> may also have a predictive/therapeutic value: RAS and <em>BRAF</em> mutations are generally mutually exclusive, and although the evidence is less conclusive at present, due in part to the low prevalence of <em>BRAF</em> mutations in CRC, several studies have reported that patients with <em>BRAF</em> p.V600E mutations do not benefit from anti-EGFR therapy {26989027}, and oncologists may use them in the therapeutic decision-making process.</p>\r\n<h6>Microsatellite instability</h6>\r\n<p>MSI results from the defective mismatch repair mechanism leading to predisposition to mutations. MSI drives one of the key mechanisms of oncogenesis in CRC, and it is one of the tests of reference in the diagnosis of Lynch syndrome. From a therapeutic decision-making standpoint, the presence of MSI is important in two main scenarios {26880610}. Firstly, in <em>BRAF</em>-wildtype cases, MSI confers a good prognosis, and regardless of <em>BRAF</em> status, MSI reduces the benefit of fluorouracil-based chemotherapy. CRCs that are MSS, in the context of <em>BRAF</em> mutation, generally carry a poor prognosis. Secondly, the presence of MSI is important in the context of cancer immunotherapy. More recently, studies have reported significant responses of microsatellite-unstable&nbsp;cancers (CRCs and others) to PDL1 inhibitors in patients who failed conventional therapy {26028255; 28596308}. This test may serve in CRC as a surrogate for the tumour mutation burden test applicable in other cancer types.</p>\r\n<h5>Biomarkers partly established and/or under development</h5>\r\n<h6>Cancer immunotherapy</h6>\r\n<p>The success of PD1/PDL1 inhibition in microsatellite-unstable CRC has been very encouraging, but it is limited by biology and disease stage to date. Important work is ongoing in the space of MSS CRCs and earlier disease presentation {28492495}, which makes this one of the most likely areas of development in the future for biomarker analysis in CRC. Pathologists have been at the forefront of the analysis of adaptive immunity in CRC and have validated the reproducibility of scoring systems in multicentre studies {29754777}, but this represents today a disease classification and a prognostic tool rather than a predictive one. As such, it is more likely to complement our traditional staging procedures in the near future.</p>\r\n<h6>Other predictive biomarkers</h6>\r\n<p>The analysis of the transcriptome represents one of the most important classification systems in CRC. In addition, there are specific gene expression signatures that are able to predict recurrence after surgery. Both the Oncotype&nbsp;DX test {27325854} and the ColDx test {22067406} provide a score for recurrence in intermediate-stage CRC and are used in patient stratification. However, the central laboratory nature of these tests may diminish their applicability, particularly in universal health care systems.</p>\r\n<p><em>PIK3CA</em>, encoding the catalytic subunit of PI3K, is mutated in 10&ndash;20% of CRCs, mainly in exons 9 and 20. In RAS-wildtype CRC, <em>PIK3CA</em> mutations may be associated with a worse clinical outcome and with a negative prediction of response to targeted therapy by anti-EGFR monoclonal antibodies {19223544; 19366826}. In addition, mutations in <em>PIK3CA</em> may predict successful adjuvant therapy with acetylsalicylic acid in CRC patients {23094721}.</p>\r\n<p>c-Met, a receptor tyrosine kinase, is frequently overexpressed in gastrointestinal tumours; in general, aberrant expression, activation, amplification, and mutation of c-Met has been reported in subgroups of patients with CRC, and <em>MET</em> copy-number gains or <em>MET</em> exon&nbsp;14 skipping mutations may represent potential predictive biomarkers for c-Met inhibitors {29358775}.</p>\r\n<p>Liquid biopsy, i.e. analysis of the patient&rsquo;s peripheral blood, has been used to diagnose metastatic CRC and to detect predictive markers of response. Among all the potential tests performed in blood (detecting circulating tumour cells, exosomes, or cell-free DNA), the detection of <em>(K)RAS</em> and <em>BRAF</em> mutations in the latter {24658074; 28885658} is currently applicable in some centres and is likely to become widely acceptable in the near future.</p>",
+        "timestamp": "2019-10-15T14:59:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

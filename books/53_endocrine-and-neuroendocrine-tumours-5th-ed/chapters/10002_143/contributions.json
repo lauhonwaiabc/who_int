@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123704,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 607,
+        "headingText": "\r\n<p>Extranodal marginal zone lymphoma (EMZL) of mucosa-associated lymphoid tissue (MALT) is an indolent primary extranodal B-cell lymphoma with cytological and architectural features reminiscent of Peyer patch lymphoid tissue, the prototypical MALT. EMZL typically arises from marginal zone B cells of acquired MALT and is often associated with an underlying chronic inflammatory disorder.</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123705,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 608,
+        "headingText": "\r\n<p>9699/3 Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123706,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 609,
+        "headingText": "\r\n<p>2A85.3 Extranodal marginal zone B-cell lymphoma, primary site excluding stomach or skin</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123707,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> extranodal marginal zone lymphoma; mucosa-associated lymphoid tissue (MALT) lymphoma.</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123708,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 611,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123709,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 612,
+        "headingText": "\r\n<p>About 5% of EMZLs occur in the thyroid, and EMZLs account for about 2% of all malignant thyroid tumours {9193362; 10561186; 10800981}. EMZLs of the adrenal and pituitary glands are very rare (&lt;&nbsp;0.5% of all pituitary or adrenal tumours), and those of the parathyroid gland are even rarer {11600505; 17287410; 19525926; 23771429; 25716633}.</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123710,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 613,
+        "headingText": "\r\n<p>The typical presentation in the thyroid is an enlarging mass that is markedly hypoechoic on ultrasound and cold on scintigraphy {33489895}. EMZL in the pituitary usually manifests as a sellar mass {20146099}. With EMZL in the adrenal there may be endocrine insufficiency {23771429}.</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123711,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 614,
+        "headingText": "\r\n<p>The median age is 60&ndash;70&nbsp;years, and the M:F&nbsp;ratio is 1:4&ndash;5 {21371004}. Concomitant thyroid EMZL and papillary thyroid carcinoma may rarely occur in the setting of Hashimoto thyroiditis {22568399}.</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123712,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 615,
+        "headingText": "\r\n<p>EMZL usually occurs in the setting of autoimmune disorders or other causes of longstanding chronic inflammation {17119030; 11600505}. Patients with Hashimoto thyroiditis have a 9- to 17-fold increased risk of developing lymphoma, particularly EMZL {23687261; 24899571; 28443243; 3936828}. The role of Hashimoto thyroiditis is supported by a clonal relationship between the lymphoma and the associated thyroiditis as demonstrated by identical IGH gene rearrangements {18006670; 34021249; 29674500}.</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123713,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 616,
+        "headingText": "\r\n<p>An accumulation of extranodal lymphoid tissue (acquired MALT) due to chronic inflammation such as in autoimmune disorders results in clonal B-cell proliferation and acquisition of successive genetic alterations {17119030; 11600505}.</p>\r\n<p>The t(3;14)(p14;q32) translocation with the <em>FOXP1</em>::IGH gene fusion has been described in thyroid EMZL {32534365}. It may also be seen in diffuse large B-cell lymphomas that have an EMZL component {32534365}. FOXP1 is a repressor of proapoptotic genes, and its overexpression caused by the <em>FOXP1</em>::IGH fusion promotes B-cell survival by inhibiting caspase-dependent apoptosis, in cooperation with the NF-&kappa;B pathway, the latter having been implicated in the pathogenesis of EMZL at various locations {25267198}. Thyroid EMZL commonly shows trisomy&nbsp;3 (~20% of cases) and mutations in <em>TET2</em> (62%), <em>TNFRSF14</em> (46%), and <em>PIK3CD</em> (23%), whereas <em>TNFAIP3</em> and <em>MYD88</em> mutations are rare {14760068; 17122510; 15703784; 29674500}.</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123714,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 623,
+        "headingText": "\r\n<p>EMZL is a solid infiltrative mass with a bulging white cut surface.</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123715,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 617,
+        "headingText": "<p>The histopathology shows a heterogeneous infiltrate predominantly composed of small B&nbsp;cells including marginal zone&ndash;like cells and small lymphocytes, with scattered plasma cells, immunoblasts, and centroblast-like cells replacing the glandular parenchyma. The marginal zone&ndash;like cells (also called centrocyte-like cells) are small to medium-sized, with pale cytoplasm, slightly irregular or indented nuclei, dispersed chromatin, and inconspicuous nucleoli. The presence of sheets of large cells unassociated with follicular dendritic cell meshworks is indicative of transformation to diffuse large B-cell lymphoma {31169238}.</p>\r\n<p>In the thyroid, EMZL accounts for 30&ndash;45% of all lymphomas. Thyroid follicles are commonly expanded by neoplastic lymphoid cells, forming lymphoepithelial lesions. Lymphoma cells may form expansile nodular aggregates within the thyroid follicular lumina, forming MALT balls. Hashimoto thyroiditis is identified in the background in virtually all cases {8838117; 10931213; 10800981; 21371004}.</p>\r\n<h6><em>Immunophenotype</em></h6>\r\n<p>The neoplastic cells are immunopositive for the B-lineage markers CD20, CD79a, and PAX5. They often express IgM, and less frequently, IgA or IgG. BCL2 is often positive, and the marginal zone marker IRTA1 is variably expressed. CD5, CD23, CD10, BCL6, cyclin&nbsp;D1, and SOX11 are usually negative, helping to distinguish from small lymphocytic lymphoma, follicular lymphoma, and mantle cell lymphoma.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>The differential diagnosis includes Hashimoto thyroiditis and chronic lymphocytic thyroiditis, which typically do not obliterate the thyroid parenchyma but may show destruction of the parenchyma, reminiscent of lymphoepithelial lesions. In difficult cases, immunohistochemical markers may be helpful, and keratin may be useful in highlighting destroyed follicles.</p>",
+        "timestamp": "2024-10-15T14:29:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123716,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 618,
+        "headingText": "\r\n<p>Cytological specimens of EMZL often comprise a polymorphous proliferation of intermediate-sized lymphoid cells with centrocyte-like or monocytoid features and variable plasma cells.</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123717,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 619,
+        "headingText": "\r\n<p>Molecular studies are usually not required for diagnosis.</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123718,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> lymphoma composed predominantly of small to medium-sized centrocyte-like cells and monocytoid cells; effacement or distortion of organ tissue architecture; B-cell immunophenotype compatible with EMZL; absence of sheets of large cells unassociated with follicular dendritic cell meshworks.</p>\r\n<p><em>Desirable:</em> monotypic lymphoid and/or plasma cells, or clonal IG gene rearrangement.</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123719,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 620,
+        "headingText": "\r\n<p>Lugano modification of the Ann Arbor staging system {25113753}</p>\r\n",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123720,
+        "bookId": 53,
+        "chapterId": 143,
+        "headingId": 621,
+        "headingText": "\r\n<p>The prognosis is excellent {9193362; 10561186}. For cases in the thyroid, the median survival time is about 15&nbsp;years {33849490}, with a 5-year survival rate of about 90% {10800981; 21371004; 33849490}. Poor prognostic factors include age &gt;&nbsp;70&nbsp;years, high stage, elevated LDH as also incorporated into the MALT Lymphoma International Prognostic Index (MALT-IPI) {28720586}.</p>",
+        "timestamp": "2024-10-09T15:45:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

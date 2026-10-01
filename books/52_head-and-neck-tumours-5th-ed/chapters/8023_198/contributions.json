@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 115442,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 576,
+        "headingText": "\r\n<p>Nodular fasciitis (NF) is a transient neoplasm typically found in subcutaneous tissue, composed of bland myofibroblasts and usually harbouring <em>USP6</em> rearrangements.</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 115443,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 577,
+        "headingText": "\r\n<p>8828/0 Nodular fasciitis</p>\r\n<p>8828/0 Intravascular fasciitis</p>\r\n<p>8828/0 Cranial fasciitis</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 115444,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 578,
+        "headingText": "\r\n<p>FB51.2 &amp; XH5LM1 Pseudosarcomatous fibromatosis &amp; Nodular fasciitis</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 115445,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> pseudosarcomatous fasciitis.</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 115446,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 580,
+        "headingText": "\r\n<p>Intravascular fasciitis; cranial fasciitis</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 115447,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 581,
+        "headingText": "<p >NF typically develops in the subcutis; dermal and deep localization is rare. Any anatomical site can be involved, including the face, neck, oral cavity, orbit, parotid, and ear. Intravascular fasciitis occurs in small to medium-sized vessels {6462780; 11510001; 20716998; 19469872; 31950474; 27686647; 33000481}.</p>",
+        "timestamp": "2023-11-24T11:18:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 115448,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 582,
+        "headingText": "\r\n<p>Nodular fasciitis grows rapidly and usually has a preoperative duration of &le;&nbsp;2&ndash;3&nbsp;months. It usually measures &le;&nbsp;30&nbsp;mm on excision {31950474}. Extension into adjacent structures does not exclude the diagnosis {32192385; 9923933; 27686647; 31950474}.</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 115449,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 583,
+        "headingText": "\r\n<p>As many as 25% of NFs occur in the head and neck region, affecting all age groups, with a peak incidence in the third and fourth decades of life. There is no sex predilection. Intravascular and cranial fasciitis are rare. Cranial fasciitis develops predominantly in infants aged &lt;&nbsp;2&nbsp;years, more commonly in boys {31950474; 6462780}.</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 115450,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 115451,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 585,
+        "headingText": "\r\n<p>The identification of recurrent <em>USP6</em> gene rearrangements as driver mutations has established the clonal neoplastic nature {12550774; 21826056; 28752842}. Several fusion partners lead by promoter switch to transcriptional activation of USP6. Activated pathways include NF-&kappa;B, WNT/&beta;-catenin, and JAK-1/STAT3 {32635781}.</p>\r\n<p>See the <em>Soft tissue and bone tumours</em> volume of this series for additional information.</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 115452,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 592,
+        "headingText": "\r\n<p>NF is unencapsulated and circumscribed or infiltrative. The cut surface varies from myxoid to fibrous, occasionally with central cystic change {31950474}.</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 115453,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 586,
+        "headingText": "\r\n<p>NF (including subtypes) is composed of plump, spindle-shaped cells lacking nuclear pleomorphism. Mitotic figures may be plentiful, without atypical forms. There is typically a tissue culture&ndash;like architecture. Cellular areas often show a storiform growth pattern. The stroma may be variably myxoid with microcystic stromal changes or fibrous, sometimes with keloidal collagen. There are extravasated erythrocytes, lymphocytes, and osteoclast-like giant cells. Small vessels may be numerous, occasionally resembling granulation tissue. Extension into adjacent structures may be present {1928550; 6462780; 31950474}.</p>\r\n<p>Lesional cells express SMA and MSA; focal desmin positivity is occasionally found {1928550; 31950474}.</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 115454,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 587,
+        "headingText": "\r\n<p>Bland spindle cells with unipolar curved&nbsp;/ bipolar processes, lacking relevant atypia. A tissue culture&ndash;like appearance and myxoid stroma can be appreciated {30311731}.</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 115455,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 588,
+        "headingText": "\r\n<p>In selected cases, <em>USP6</em> rearrangement may confirm the diagnosis {28752842}.</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 115456,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> a bland myofibroblastic proliferation with a tissue culture&ndash;like growth pattern.</p>\r\n<p><em>Desirable:</em> assessment of <em>USP6</em> rearrangement in selected cases.</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 115457,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 115458,
+        "bookId": 52,
+        "chapterId": 198,
+        "headingId": 590,
+        "headingText": "\r\n<p>Recurrence is rare. Metastatic disease is exceptional {31950474; 27113271}.</p>",
+        "timestamp": "2023-09-29T15:39:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

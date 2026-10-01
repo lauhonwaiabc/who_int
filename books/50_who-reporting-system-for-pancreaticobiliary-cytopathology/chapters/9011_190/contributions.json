@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 678,
+    "bookid": 50,
+    "headingType": 5,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 682,
+    "contributions": [
+      {
+        "pkcontributionId": 94181,
+        "bookId": 50,
+        "chapterId": 190,
+        "headingId": 682,
+        "headingText": "\r\n<p>Cholangiocarcinoma is a primary malignant epithelial neoplasm arising from bile duct epithelium.</p>\r\n",
+        "timestamp": "2022-11-30T12:27:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 679,
+    "bookid": 50,
+    "headingType": 5,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 683,
+    "contributions": [
+      {
+        "pkcontributionId": 94182,
+        "bookId": 50,
+        "chapterId": 190,
+        "headingId": 683,
+        "headingText": "\r\n<p>For the purposes of this discussion of the clinical and imaging features, the focus here is on large duct biliary adenocarcinoma involving ducts most accessible to biliary brushing, including the large intrahepatic ducts near the hepatic hilum, which are proximal to the right and left hepatic ducts, and the extrahepatic bile ducts, which include the common bile duct between the cystic duct and ampulla. However, the cytopathological features, discussion, and ancillary testing are also applicable to the diagnosis of intrahepatic and perihilar cholangiocarcinoma.</p>\r\n<p>The incidence of large duct cholangiocarcinoma is generally rare, at 1&nbsp;case per 100&nbsp;000&nbsp;person-years, but there is significant geographical variation. The disease develops mostly in the sixth to seventh decade of life, with almost equal sex distribution, and jaundice accounts for most clinical presentations. Other symptoms are malaise, abdominal pain, and weight loss. Elevated serum CA19-9 (&gt;&nbsp;129&nbsp;U/mL) is helpful in detecting carcinoma {16133981}. Risk factors include primary sclerosing cholangitis, bile duct cysts, hepatolithiasis, Caroli disease, and biliary flukes, but in many patients there is no identifiable etiology {21488076}. The prognosis is very poor, with a 1% 5-year survival rate.</p>\r\n<p>Upon presentation, most patients are first evaluated by transabdominal ultrasound, which detects biliary dilatation. Imaging features of large duct cholangiocarcinoma include biliary stricture, wall thickening, dilatation, and filling defects. CT and magnetic resonance cholangiopancreatography are non-invasive means of assessing tumour extent and local staging {25447417; 26448940}. With few exceptions, definitive pathological diagnosis must be obtained before treatment, and tumour sampling is usually done via endoscopic retrograde cholangiopancreatography, during which bile fluid, brushings, FNAB, and small tissue biopsies can be obtained {27095655}.</p>\r\n",
+        "timestamp": "2022-11-30T12:27:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 680,
+    "bookid": 50,
+    "headingType": 5,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 684,
+    "contributions": [
+      {
+        "pkcontributionId": 94183,
+        "bookId": 50,
+        "chapterId": 190,
+        "headingId": 684,
+        "headingText": "<p>Large duct cholangiocarcinoma precursors include biliary intraepithelial neoplasia, intraductal papillary neoplasm, and intraductal tubular neoplasm {23616173; 23828315; 26111977; 25181580}. Infiltrating cholangiocarcinomas form tubules and glands of columnar cells interspersed with desmoplastic stroma and have good, moderate, or poor differentiation [[WHO Classification of Tumours Editorial Board. Digestive system tumours. Lyon (France): International Agency for Research on Cancer; 2019. (WHO classification of tumours series, 5th ed.; vol. 1). https://publications.iarc.fr/579.]]. Because the origin is most commonly large-calibre bile ducts or peribiliary ducts, the most common patterns of differentiation are ductal, intestinal, or gastric foveolar; other (rare) appearances include squamous, adenosquamous, mucinous, signet-ring cell, clear cell, undifferentiated, and sarcomatoid. Extrahepatic cholangiocarcinomas tend to infiltrate along the bile duct with conspicuous lymphovascular and perineural invasion.</p>",
+        "timestamp": "2023-01-11T16:21:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 681,
+    "bookid": 50,
+    "headingType": 5,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 685,
+    "contributions": [
+      {
+        "pkcontributionId": 94184,
+        "bookId": 50,
+        "chapterId": 190,
+        "headingId": 685,
+        "headingText": "<ul>\r\n<li>Loss of honeycomb pattern (drunken honeycomb)</li>\r\n<li>3D architecture</li>\r\n<li>Hypercellularity with two-cell population</li>\r\n<li>Hypochromasia/hyperchromasia</li>\r\n<li>Nuclear pleomorphism</li>\r\n<li>Anisonucleosis (threefold to fourfold variability, or greater, in nuclear size in a single cell group)</li>\r\n<li>Increased N:C&nbsp;ratio (&ge;&nbsp;0.6)</li>\r\n<li>Cytoplasmic mucin</li>\r\n<li>Cellular discohesion with atypical single cells</li>\r\n<li>Prominent nucleoli</li>\r\n<li>Enlarged nuclei</li>\r\n<li>Loss of polarity</li>\r\n<li>Bloody background</li>\r\n<li>Flat nuclei</li>\r\n<li>Cell-in-cell arrangement</li>\r\n<li>Nuclear moulding</li>\r\n<li>Chromatin clumping</li>\r\n</ul>\r\n<p><em>Reference(s):</em> {7675767; 8291355; 9802349; 25564796; 28664934}</p>",
+        "timestamp": "2023-02-06T17:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 682,
+    "bookid": 50,
+    "headingType": 5,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 686,
+    "contributions": [
+      {
+        "pkcontributionId": 94185,
+        "bookId": 50,
+        "chapterId": 190,
+        "headingId": 686,
+        "headingText": "<p>Cholangiocarcinoma requires distinction from reactive atypia of bile ducts due to inflammation, stones, and stents. Primary sclerosing cholangitis also represents a differential diagnostic challenge because of reactive atypia associated with primary sclerosing cholangitis.</p>\r\n<p>Bile duct brushing cytology has a low sensitivity for the detection of carcinoma {7846997; 7675767; 9802349; 11992366}. An indeterminate categorization of &ldquo;Atypical&rdquo; or &ldquo;Suspicious for malignancy&rdquo; is common, because of the high threshold for a definitive &ldquo;Malignant&rdquo; categorization by morphology alone {9802349}. A high threshold for a &ldquo;Malignant&rdquo; categorization is warranted because of the underlying injury and reactive/reparative changes that result from indwelling stents, stones, and inflammation from conditions such as primary sclerosing cholangitis.</p>\r\n<p>Multivariate regression analysis has documented cytological features useful in the recognition of cholangiocarcinoma {8291355; 7675767; 9802349; 25564796; 28664934}, and other studies have focused on cytological features useful for the diagnosis of cholangiocarcinoma in the setting of stent placements {30144340; 31051766}. Cytological features of adenocarcinoma include 3D groups, nuclear enlargement (&gt;&nbsp;3&times;&nbsp;normal), pleomorphism, two-cell population, chromatin pattern changes (hypochromasia/hyperchromasia), high N:C&nbsp;ratio, cytoplasmic vacuoles, nuclear irregularity, cellular dyscohesion, hypercellularity, nuclear moulding, prominent nucleoli, single vacuolated cells, and anisonucleosis (&ge;&nbsp;1:6) {8291355; 7675767; 9802349; 25564796; 28664934; 30144340; 31051766}. The presence of a minimum of three criteria is recommended for definitive diagnosis {8291355; 28664934}. The overall gestalt may be just as effective as systematically using criteria {9802349}.</p>\r\n<p>Ancillary studies including ICC stains and molecular testing can aid in the differential diagnosis of cholangiocarcinoma from reactive processes, hepatocellular carcinoma, and a variety of metastatic malignancies of the biliary system (see ancillary testing).</p>",
+        "timestamp": "2023-02-06T17:41:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 683,
+    "bookid": 50,
+    "headingType": 5,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 687,
+    "contributions": [
+      {
+        "pkcontributionId": 94186,
+        "bookId": 50,
+        "chapterId": 190,
+        "headingId": 687,
+        "headingText": "<p>When cytomorphological features supportive of adenocarcinoma are encountered in bile duct brushing or fine-needle aspiration, immunocytochemical techniques are rarely necessary for clarification unless the morphology and/or clinical history raises concern for a neoplasm of non-pancreaticobiliary glandular differentiation (e.g. neuroendocrine carcinoma [NEC], mesenchymal neoplasm) or metastasis. ICC study aids in the separation of cholangiocarcinoma from hepatocellular carcinoma and a variety of metastatic malignancies to the pancreas and peripancreatic tissues. A caveat is that antibodies to distinguish pancreatic ductal adenocarcinoma from extrahepatic cholangiocarcinoma are lacking.</p>\r\n<p>However, because of background reactive changes and low tumour proportion in brushing samples, ancillary techniques to aid in the detection of cholangiocarcinoma from reactive changes are often desired.</p>\r\n<p>If the atypical cells of interest are present in a cell block, ICC&nbsp;for p53 (overexpression or absence) and/or SMAD4 (loss of expression) may be of value because these stains are abnormal in roughly half of large duct cholangiocarcinomas {15573254; 11283934}. Other panels that have been studied to distinguish benign from malignant biliary brushings include S100, VHL&nbsp;protein, IMP3, and maspin {26362203; 20382408}.</p>\r\n<p>FISH is the most relevant ancillary technique used to detect polysomies associated with cholangiocarcinoma. When FISH is combined with biliary brushings, the sensitivity of detecting cholangiocarcinoma is increased (from 20% to 43%) {19232347}. A pancreaticobiliary-specific probe set that detects both cholangiocarcinoma and pancreatic ductal adenocarcinoma increased the rate of cancer detection by 19%, as compared with the probes in the UroVysion kit (Abbott Molecular, Abbott Park, Illinois, USA) {26327129}.</p>\r\n<p>Recent studies have shown that next-generation sequencing performs comparably to FISH {26596524}, with a sensitivity and specificity when combined with cytology of 85% and 96%, respectively. Next-generation sequencing has several advantages over FISH, including decreasing costs, the ability to batch multiple specimens in a single run, and solid tumour genotyping with the identification of targetable mutations {26596524; 30971436}.</p>",
+        "timestamp": "2023-02-06T17:42:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

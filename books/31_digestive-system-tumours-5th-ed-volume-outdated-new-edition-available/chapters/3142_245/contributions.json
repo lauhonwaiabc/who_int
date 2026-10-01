@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 54280,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 159,
+        "headingText": "<p>Foveolar-type adenoma is an epithelial polyp consisting of neoplastic foveolar epithelium.</p>",
+        "timestamp": "2019-01-29T15:34:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 54281,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 160,
+        "headingText": "<p>8210/0 Adenomatous polyp, low-grade dysplasia</p>\r\n<p>8210/2 Adenomatous polyp, high-grade dysplasia</p>",
+        "timestamp": "2021-11-22T12:09:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 54282,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 161,
+        "headingText": "<p>2E92.1 &amp; XH3DV3 Benign neoplasm of stomach &amp; Adenoma&nbsp;NOS</p>",
+        "timestamp": "2019-02-12T11:58:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 54283,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 162,
+        "headingText": "<p><em>Acceptable:</em> foveolar-type gastric adenoma.</p>",
+        "timestamp": "2019-01-29T15:35:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 54284,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 163,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-01-29T15:35:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 54285,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 164,
+        "headingText": "<p>Foveolar-type adenomas mostly occur in the oxyntic gastric compartment (body/fundus) {12360042}.</p>",
+        "timestamp": "2019-01-29T15:35:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 54286,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 165,
+        "headingText": "<p>Foveolar-type adenomas usually develop in otherwise healthy gastric mucosa (with no inflammation or atrophy/metaplasia) {12360042}. Sporadic cases are extremely rare and they have never been reported to progress to gastric cancer {24525509}. The (more frequent) syndromic foveolar-type adenoma may occur in familial adenomatous polyposis (FAP) and gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS); in both syndromes, foveolar-type adenomas may coexist with fundic gland polyposis, and their rate of cancer progression is consistently low {24525509}.</p>",
+        "timestamp": "2019-01-29T15:35:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 54287,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 166,
+        "headingText": "<p>Sporadic foveolar-type adenomas are extremely rare. In a population studied in the USA, the ratio of sporadic foveolar-type adenoma to intestinal-type adenoma was &lt;&nbsp;0.25:1 {12360042}.</p>",
+        "timestamp": "2019-01-29T15:36:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 54288,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 167,
+        "headingText": "<p>The etiology of sporadic lesions is unknown. For more information about syndromic foveolar-type adenoma, see the associated genetic disorders (e.g. <a style=\"cursor:pointer\" href=\"/chaptercontent/31/232\" target=\"_blank\">section </a><em>Familial adenomatous polyposis&nbsp;1</em>&nbsp;and <a style=\"cursor:pointer\" href=\"/chaptercontent/31/229\" target=\"_blank\">section </a><em>GAPPS and other fundic gland polyposes</em>).</p>",
+        "timestamp": "2019-06-04T15:22:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 54289,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 168,
+        "headingText": "<p>Foveolar-type adenomas prevail in FAP, through biallelic <em>APC</em> inactivation. Limited data are available on the molecular underpinnings. Sporadic adenomas infrequently harbour mutations of <em>APC</em> and <em>KRAS</em>; mutations of <em>CTNNB1</em> (which encodes &beta;-catenin) have never been reported {12920223; 23208952}. Conflicting results are available on the mismatch repair status {12920223; 23208952}. FAP-associated lesions show both somatic and germline <em>APC</em> mutations {10980114; 25832318}.</p>",
+        "timestamp": "2019-01-29T15:36:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 54290,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 207,
+        "headingText": "<p>Sporadic foveolar-type adenomas are small, solitary polyps. In patients with FAP, foveolar-type adenomas usually coexist with multiple fundic gland polyps.</p>",
+        "timestamp": "2019-01-29T15:36:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 54291,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 169,
+        "headingText": "<p>Both sporadic and syndromic foveolar-type adenomas consist of dysplastic columnar (foveolar-type) epithelia, with stratified/elongated nuclei. A distinctive apical cap of neutral (PAS-positive) mucins differentiates foveolar-type from pyloric gland adenomas. Most lesions show low-grade atypia. High-grade adenomas should be differentiated from invasive gastric cancer (cancer lesions feature more-pronounced superficial papillary architecture and more-severe glandular disarrangement) {16952035}. Neoplastic cells feature strong/diffuse MUC5AC expression {18830123}, weak/focal MUC6 immunoreaction, and no expression of MUC2 or CDX2. However, the histological diagnosis primarily relies on H&amp;E/PAS features rather than on immunophenotyping. Syndromic foveolar-type adenoma (FAP, in particular) is frequently associated with fundic gland polyps and pyloric gland adenomas {24525509}. Foveolar-type adenomas may exhibit both intestinal and gastric-type differentiation; this hybrid phenotype carries a higher risk of cancer progression {18300795; 25146833}.</p>",
+        "timestamp": "2019-01-29T15:36:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 54292,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 170,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-01-29T15:36:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 54293,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 171,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-01-29T15:37:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 54294,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 174,
+        "headingText": "<p><em>Essential:</em> polypoid growth of dysplastic columnar epithelia with a foveolar-cell phenotype, with a distinctive apical cap of neutral mucins.</p>",
+        "timestamp": "2019-01-29T15:37:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 54295,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 172,
+        "headingText": "<p>If high-grade dysplasia is present, this is staged as pTis.</p>",
+        "timestamp": "2019-03-25T10:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 54296,
+        "bookId": 31,
+        "chapterId": 245,
+        "headingId": 173,
+        "headingText": "<p>Sporadic foveolar-type adenomas are usually solitary and low-grade, and they rarely coexist with longstanding gastritis. They convey negligible risk of malignant progression or of synchronous or metachronous gastric cancers {12360042; 18830123}. A low risk of invasive cancer is associated with syndromic (FAP-associated) foveolar-type adenomas {18830123}.</p>",
+        "timestamp": "2019-01-29T15:37:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

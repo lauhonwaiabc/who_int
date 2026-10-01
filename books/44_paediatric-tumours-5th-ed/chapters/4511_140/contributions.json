@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 105322,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 466,
+        "headingText": "\r\n<p>Most optic pathway gliomas (OPGs) in children are pilocytic astrocytomas (PAs), typically slow-growing CNS WHO grade&nbsp;1 neoplasms. Occasional gliomas of other types, notably pilomyxoid astrocytoma (PMA) and ganglioglioma, may occur.</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 105323,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 467,
+        "headingText": "\r\n<p>9421/1 Pilocytic astrocytoma</p>\r\n<p>9425/3 Pilomyxoid astrocytoma</p>\r\n<p>9505/1 Ganglioglioma</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 105324,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A02.12 &amp; XH29Q5 Malignant neoplasm of the optic nerve &amp; Pilomyxoid astrocytoma</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 105325,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> juvenile pilocytic astrocytoma.</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 105326,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 105327,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 471,
+        "headingText": "\r\n<p>OPGs occur in the optic nerve, chiasm, tracts, and radiations. PA and PMA can arise throughout the neuraxis.</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 105328,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 472,
+        "headingText": "\r\n<p>OPGs can produce visual loss {5386369; 8021787}, cause endocrinopathies and hypothalamic dysfunction, and result in disfiguring proptosis when contained within the optic nerve. OPGs are typically isointense to hypointense on T1-weighted images, hyperintense on T2-weighted images, and often enhancing on postgadolinium images.</p>\r\n<p>PMAs have been described in the optic pathway and have a higher rate of recurrence and cerebrospinal dissemination than OPGs.</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 105329,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 473,
+        "headingText": "\r\n<p>OPGs account for approximately 3&ndash;5% of childhood brain tumours {2112186}. The median age at diagnosis is 4.9&nbsp;years for neurofibromatosis type&nbsp;1 (NF1)-associated OPGs, whereas sporadic OPGs arise during the first two decades of life {8021787; 19621457; 12089128}.</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 105330,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 474,
+        "headingText": "\r\n<p>OPGs can be sporadic or associated with NF1.</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 105331,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 475,
+        "headingText": "\r\n<p>OPGs are associated with genetic abnormalities in the MAPK pathway and with <em>NF1</em> mutations. The most frequent sporadic change is a tandem duplication of the <em>BRAF</em> gene, resulting in a fusion between <em>KIAA1549</em> and <em>BRAF</em> {22892521}.</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 105332,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 482,
+        "headingText": "\r\n<p>OPGs can thicken the neural parenchyma of the optic nerve, and they often circumferentially infiltrate the optic nerve sheath {7066671}.</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 105333,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 476,
+        "headingText": "\r\n<p>PAs have variable proportions of piloid and oligodendrocyte-like cells. Within the optic nerve, the septal architecture may be diffusely expanded. Nuclei are round to elongated. In some cases, hyperchromasia and pleomorphism are obvious, but mitotic figures are rare. In rare cases, brisk mitotic activity may imply aggressive behaviour {20061938}. Rosenthal fibres are frequent, and eosinophilic granular bodies are occasionally seen. A myxoid background with microcystic change is common, as are degenerative changes (calcification, hyalinized vessels, and haemorrhages) {25792358}. Various histological patterns have been reported, including (1)&nbsp;a biphasic pattern, with compact areas rich in bipolar cells and Rosenthal fibres alternating with loose, microcystic regions rich in oligodendrocyte-like cells; (2)&nbsp;a predominantly compact, piloid pattern with abundant Rosenthal fibres; and (3)&nbsp;a more dispersed pattern rich in oligodendrocyte-like cells, mimicking oligodendroglioma.</p>\r\n<p>PMAs exhibit a monomorphic piloid histology and a diffusely myxoid background, and they are typically more cellular than PAs {10515229}.</p>\r\n<p>OPGs can occasionally contain a well-defined ganglion cell component, consistent with ganglioglioma.</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 105334,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 477,
+        "headingText": "\r\n<p>Intraoperative smears of PA are characterized by cells with long, fine, hair-like processes. The cells usually show uniform, round to spindle-shaped nuclei with minimal atypia. Rosenthal fibres, eosinophilic granular bodies, and glomeruloid vessels can be present. In some cases, there may be degenerative atypia with multinucleated cells.</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 105335,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 478,
+        "headingText": "\r\n<p>Most OPGs have MAPK-activating mutations. In NF1, loss or mutation of the second <em>NF1</em> allele is associated with tumour development {15665300}. In sporadic PA, the most frequent abnormality (~60% of all cases) is a tandem duplication of about 2&nbsp;Mb on chromosome 7q34, encompassing the <em>BRAF</em> gene {18716556; 21745356; 18398503; 32289278}, which results in a transforming fusion between <em>KIAA1549</em> and <em>BRAF</em> {18974108}. In small numbers of cases, additional gene partners for <em>BRAF</em> fusions have also been identified, all resulting in the loss of the N-terminal regulatory region of the BRAF protein, with retention of the kinase domain {23817572; 23583981; 29141672; 28448514}. Activating point mutations in <em>BRAF</em> (p.V600E) have been reported in 10&ndash;15% of cases {21274720}.</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 105336,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> a tumour expanding the parenchyma of the optic nerve or tract in a child or young adult.</p>\r\n<p><em>Desirable:</em> a predominantly circumscribed glioma composed of astrocytic cells with bipolar, spindled cytology; variably biphasic architecture with loose, partially myxoid, and compact areas; Rosenthal fibres (frequently present) and eosinophilic granular bodies (less common); a radiologically solid or solid-cystic intra-axial lesion that demonstrates a single MAPK pathway alteration.</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 105337,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 105338,
+        "bookId": 44,
+        "chapterId": 140,
+        "headingId": 480,
+        "headingText": "\r\n<p>The clinical course is unpredictable. Most OPGs are slow-growing or stable. At least half of NF1-associated OPGs do not require therapy {28577031}, whereas about 90% of sporadic OPGs will require treatment for clinical or imaging progression {27311725}. Tissue diagnosis is rarely indicated, unless the clinical presentation or MRI appearance is atypical. Biopsy for diagnosis is more common in sporadic OPG but should be undertaken with caution when the tumour is located within the optic nerve, because of the risk of further optic nerve injury. OPGs associated with vision loss may require treatment, but identifying which OPG to treat is often not straightforward. Malignant change is uncommon. Overall survival is excellent {27061921}, but OPGs frequently cause long-term vision loss; thus, the main goal of treatment is to preserve vision.</p>",
+        "timestamp": "2022-07-13T17:04:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

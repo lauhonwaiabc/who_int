@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 377,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 176,
+    "contributions": [
+      {
+        "pkcontributionId": 57785,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 176,
+        "headingText": "\r\n<p><em>PALB2</em>-associated cancers occur due to germline mutations in the <em>PALB2</em> gene, which is a partner of <em>BRCA2</em> {16793542; 19268590; 19423707}.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 378,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 177,
+    "contributions": [
+      {
+        "pkcontributionId": 57786,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 177,
+        "headingText": "\r\n<p><strong>MIM numbering</strong></p>\r\n<p>610355 Partner and localizer of BRCA2; <em>PALB2</em></p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 379,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 178,
+    "contributions": [
+      {
+        "pkcontributionId": 57787,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 178,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 380,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 179,
+    "contributions": [
+      {
+        "pkcontributionId": 57788,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 179,
+        "headingText": "\r\n<p><em>Acceptable:</em> DNA double-strand break repair; homologous recombination repair; pancreatic cancer&nbsp;3; Fanconi anaemia, complementation group&nbsp;N.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 381,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 180,
+    "contributions": [
+      {
+        "pkcontributionId": 57789,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 180,
+        "headingText": "\r\n<p>Germline monoallelic mutations are associated with increased cancer risk. Germline biallelic mutations are associated with the genetic syndrome Fanconi anaemia, complementation group&nbsp;2.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 382,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 181,
+    "contributions": [
+      {
+        "pkcontributionId": 57790,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 181,
+        "headingText": "\r\n<p><em>PALB2</em> mutations are associated with cancers of the breast and the pancreas.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 383,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 182,
+    "contributions": [
+      {
+        "pkcontributionId": 57791,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 182,
+        "headingText": "\r\n<p>Patients with monoallelic germline <em>PALB2</em> mutations have increased susceptibility to breast and pancreatic cancers {25099575; 21285249; 25356972; 17200668; 19264984}. <em>PALB2</em> was originally considered to be a moderate-risk gene for breast cancer; however, subsequent work has led to its reclassification as high-risk: <em>PALB2</em> mutations are associated with a breast cancer risk as much as 9-fold higher than average, with an average lifetime risk of about 14% {25099575}. The risk imparted by the loss-of-function gene mutation appears to synergize with uncharacterized additional genetic factors, because the mean risk for carriers varies with family history {25099575}. For example, a 70-year-old carrier with no immediate family history of breast cancer bears only a 33% risk, but that risk nearly doubles, to 58%, when two first-degree relatives have a history of breast cancer {25099575}.</p>\r\n<p>Biallelic mutations in <em>PALB2</em> lead to the autosomal recessive genetic syndrome Fanconi anaemia, complementation group&nbsp;2 {16793542; 20858716}. Patients with Fanconi anaemia demonstrate hypersensitivity to DNA crosslinking agents, short stature, microcephaly, hypertelorism, bone marrow failure, and developmental abnormalities in major organ systems. Furthermore, Fanconi anaemia is associated with early onset of a variety of childhood malignancies, including acute leukaemias, neuroblastoma, Wilms tumour, and medulloblastoma {20858716}. Somatic mutations of <em>PALB2</em> in breast cancer tissues are infrequently observed. In a whole-genome analysis of breast cancer tissues, somatic mutations of <em>PALB2</em> were found in 8&nbsp;of 560&nbsp;samples (1.4%) {27135926}. According to the Catalogue Of Somatic Mutations In Cancer (COSMIC), somatic mutations of <em>PALB2</em> were found in 52&nbsp;of 4060 breast cancer samples (~1.3%) [[Wellcome Sanger Institute [Internet]. Hinxton (UK): Wellcome Sanger Institute, Genome Research Limited; 2018. Catalogue Of Somatic Mutations In Cancer (COSMIC); cited 2018 Oct 18. Available from: https://cancer.sanger.ac.uk/cosmic.]].</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 384,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 183,
+    "contributions": [
+      {
+        "pkcontributionId": 57792,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 183,
+        "headingText": "\r\n<p>Although rare in the general population (&lt;&nbsp;1%), monoallelic germline <em>PALB2</em> mutations are identified in 1&ndash;5% of familial breast cancer patients {21285249; 24136930}. Unlike BRCA mutations, <em>PALB2</em> mutations do not appear to be strongly associated with either Ashkenazi Jewish heritage or ethnically diverse Jewish ancestry {21285249; 22692731}. Fanconi anaemia has a prevalence of about 1&nbsp;case per 130&nbsp;000&nbsp;live births in the USA, and only a subset of these cases are attributable to biallelic <em>PALB2</em> mutations {17200671; 17200672}.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 385,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 184,
+    "contributions": [
+      {
+        "pkcontributionId": 57793,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 184,
+        "headingText": "\r\n<p>Patients with <em>PALB2</em>-associated familial breast cancers inherit a monoallelic germline mutation in the gene. The acquisition of a second hit, whether through somatic point mutations or loss of heterozygosity, causes biallelic inactivation in the majority of cancers, leading to <em>PALB2</em> loss of function {29431189}.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 386,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 185,
+    "contributions": [
+      {
+        "pkcontributionId": 57794,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 185,
+        "headingText": "\r\n<p><em>PALB2</em> is a 38&nbsp;kb gene located on chromosome 16p12.2 that spans 13&nbsp;exons and encodes the tumour suppressor protein PALB2, which is involved in DNA double-strand break repair by homologous recombination. One of its critical roles is the binding to and stabilization of BRCA2, permitting nuclear BRCA2 accumulation {16793542; 19268590; 19423707}. PALB2 also promotes the incorporation of the tumour suppressor protein RAD51 into the processed single-stranded DNA end for strand exchange in homologous recombination repair {16793542; 19268590; 19423707}. Impairments in PALB2 function therefore lead to defective double-strand break repair, which facilitates non-homologous end joining of DNA breaks and accumulation of mutations.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 393,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 206,
+    "contributions": [
+      {
+        "pkcontributionId": 57795,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 206,
+        "headingText": "\r\n<p>The macroscopic appearance is not known to be at variance with that of sporadic breast cancer.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 387,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 186,
+    "contributions": [
+      {
+        "pkcontributionId": 57796,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 186,
+        "headingText": "\r\n<p>There has been limited morphological study of breast cancers associated with <em>PALB2</em> mutations. One study of a series of 28&nbsp;cases compared cancers from patients with <em>PALB2</em> mutations to BRCA-associated and non-familial cancers, and found that the only morphological feature characteristic of the <em>PALB2</em> group was minimal stromal sclerosis. Despite the functional relationship between the PALB2 and BRCA2 proteins, features more typically associated with BRCA-affiliated cancers, such as high-grade histology and robust lymphoid infiltration, were not predictive of <em>PALB2</em> mutations in this small series {23787919}.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 388,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 187,
+    "contributions": [
+      {
+        "pkcontributionId": 57797,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 187,
+        "headingText": "\r\n<p>The cytology is not known to be at variance with that of sporadic breast cancer.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 389,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 188,
+    "contributions": [
+      {
+        "pkcontributionId": 57798,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 188,
+        "headingText": "\r\n<p><em>PALB2</em> mutations are most often identified by next-generation sequencing performed on patient blood samples. Increasingly, these tests use multigene panels that assess for a large number of genes affiliated with familial breast cancer risk.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 392,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 191,
+    "contributions": [
+      {
+        "pkcontributionId": 57799,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 191,
+        "headingText": "\r\n<p><em>Essential:</em> pathogenic germline mutation in <em>PALB2</em>.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 390,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 189,
+    "contributions": [
+      {
+        "pkcontributionId": 57800,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 189,
+        "headingText": "\r\n<p>The staging is the same as for sporadic breast cancer.</p>\r\n",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 391,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 190,
+    "contributions": [
+      {
+        "pkcontributionId": 57801,
+        "bookId": 32,
+        "chapterId": 117,
+        "headingId": 190,
+        "headingText": "\r\n<p>Breast cancer patients with <em>PALB2</em> mutations are at an increased risk not only for secondary breast cancers, but also for pancreatic cancers. Increased screening may therefore be warranted in this population {25099575; 21285249; 25356972}. Recent studies suggest that <em>PALB2</em> pathogenic germline variants are associated with functional BRCA deficiency, raising the possibility of therapeutic intervention with poly (ADP-ribose) polymerase (PARP) inhibitors {28288110; 31090900}.</p>",
+        "timestamp": "2019-07-30T15:50:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

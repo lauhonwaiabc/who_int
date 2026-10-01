@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123465,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 607,
+        "headingText": "\r\n<p>Lipoma is a benign neoplasm of mature adipocytes.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123466,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 608,
+        "headingText": "\r\n<p>8850/0 Lipoma, NOS</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123467,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 609,
+        "headingText": "\r\n<p>2E80.0Z Lipoma</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123468,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 610,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123469,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 611,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123470,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 612,
+        "headingText": "\r\n<p>Lipomas may arise in the adrenal gland and pancreas {24678351; 11533079; 28143811; 31531331; 22229078; 2753287}. Pancreatic lipomas most commonly arise in the head, followed by the body and tail {26682506; 31531331}. Lipomas have not been described in the thyroid. The term &ldquo;thyroid lipoadenoma&rdquo; (thyrolipoma; adenolipoma) indicates a subtype of follicular adenoma containing a variable amount of mature adipose tissue (see <a style=\"cursor:pointer\" href=\"/chaptercontent/53/38\" target=\"_blank\">section </a><em>Follicular thyroid adenoma</em>). Rare cases of diffuse fat infiltration throughout the thyroid parenchyma, i.e. thyrolipomatosis, have been also reported {19917474; 28588784}. For parathyroid lipoadenomas, see <a style=\"cursor:pointer\" href=\"/chaptercontent/53/69\" target=\"_blank\">section </a><em>Parathyroid lipoadenoma</em> .</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123471,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 613,
+        "headingText": "\r\n<p>Most lipomas of the pancreas and adrenal gland are usually asymptomatic and incidentally discovered; a small subset of patients may report abdominal pain {11533079; 26682506}. Rare cases of pancreatic lipoma result in pancreatitis. CT shows a well-circumscribed, lobulated, purely fat-density mass.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123472,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 614,
+        "headingText": "\r\n<p>Adrenal lipomas are rare, accounting for &lt;&nbsp;1% of primary adrenal neoplasms {11533079}. The proportion of pancreatic lipomas is even rarer (~0.01%) {26682506}. Both sexes are affected equally, and these tumours typically present in the sixth and seventh decades of life.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123473,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 615,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123474,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 616,
+        "headingText": "\r\n<p>Most lipomas harbour translocations involving 12q13-q15, resulting in the fusion of <em>HMGA2</em> with a variety of gene partners, driving the pathogenesis of these tumours {9530339}.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123475,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 623,
+        "headingText": "\r\n<p>Gross examination reveals a circumscribed mass with a homogeneous yellow cut surface. Most adrenal lipomas measure 50&ndash;100&nbsp;mm but may reach sizes as large as 200&nbsp;mm, whereas the average size of pancreatic lipomas is approximately 20&nbsp;mm {28143811; 26682506}.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123476,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 617,
+        "headingText": "\r\n<p>Histological review shows a sheet-like proliferation of mature adipocytes without atypical hyperchromatic stromal cells. Fat necrosis and dystrophic calcification may be present.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123477,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 618,
+        "headingText": "\r\n<p>Aspiration specimens show adipocytes containing a single large lipid droplet with a compressed rim of cytoplasm and a flattened, inconspicuous nucleus.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123478,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 619,
+        "headingText": "\r\n<p>FISH studies for <em>MDM2</em> amplification may be helpful in excluding well-differentiated liposarcoma {17895748; 18500263; 26146760}.</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123479,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> a circumscribed yellow mass; a uniform proliferation of mature adipose tissue; no atypical hyperchromatic stromal cells.</p>\r\n<p><em>Desirable:</em> an absence of <em>MDM2</em> amplification by FISH (in selected cases).</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123480,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 620,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123481,
+        "bookId": 53,
+        "chapterId": 183,
+        "headingId": 621,
+        "headingText": "\r\n<p>Lipomas are benign. Surgical excision is generally reserved for symptomatic lesions.</p>",
+        "timestamp": "2024-10-09T15:25:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

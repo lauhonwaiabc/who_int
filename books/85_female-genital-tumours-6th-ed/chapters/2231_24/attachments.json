@@ -1,0 +1,47 @@
+[
+  {
+    "pkattachmentId": 78054,
+    "bookid": 85,
+    "chapterId": 24,
+    "fileId": 56614,
+    "type": "Figure",
+    "diagnosis": "Vulvar Paget disease",
+    "title": "",
+    "legend": " Atypical epithelial cells with abundant vacuolated cytoplasm are present in the basal layer of the epidermis, with upward spread.",
+    "source": "Jaume Ordi",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/85/24/56614.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/85/24/thumb_56614.jpg"
+  },
+  {
+    "pkattachmentId": 78055,
+    "bookid": 85,
+    "chapterId": 24,
+    "fileId": 56615,
+    "type": "Figure",
+    "diagnosis": "Vulvar Paget disease",
+    "title": "",
+    "legend": "The neoplastic cells show consistent strong CK7 expression (CK7 immunostain).",
+    "source": "Jaume Ordi",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/85/24/56615.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/85/24/thumb_56615.jpg"
+  },
+  {
+    "pkattachmentId": 78283,
+    "bookid": 85,
+    "chapterId": 24,
+    "fileId": 59154,
+    "type": "WSI",
+    "diagnosis": "Paget disease",
+    "title": "",
+    "legend": "Cell clusters and single Paget cells with abundant cytoplasm and large nuclei are present in the basal layer of the epidermis, with upward (&quot;pagetoid&quot;) spread. There is no invasion into the dermis.",
+    "source": "Dr. Somayah Alsolami",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/59154.dzi",
+    "thumbnail": null
+  }
+]

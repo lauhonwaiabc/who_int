@@ -1,0 +1,62 @@
+[
+  {
+    "pkheadingid": 1104,
+    "bookid": 85,
+    "headingType": 4,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1421,
+    "contributions": [
+      {
+        "pkcontributionId": 151233,
+        "bookId": 85,
+        "chapterId": 11,
+        "headingId": 1421,
+        "headingText": "\r\n<p>Squamous cell carcinoma, HPV status undetermined, is a malignant squamous tumour with stromal invasion, where p16 or HPV testing are either unavailable or uninterpretable, and subclassification into HPV-associated or HPV-independent types cannot be performed.</p>\r\n",
+        "timestamp": "2026-08-25T16:04:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1105,
+    "bookid": 85,
+    "headingType": 4,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1422,
+    "contributions": [
+      {
+        "pkcontributionId": 151234,
+        "bookId": 85,
+        "chapterId": 11,
+        "headingId": 1422,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T16:04:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1106,
+    "bookid": 85,
+    "headingType": 4,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 3,
+    "headingid": 1423,
+    "contributions": [
+      {
+        "pkcontributionId": 151235,
+        "bookId": 85,
+        "chapterId": 11,
+        "headingId": 1423,
+        "headingText": "\r\n<p>Although there is currently no difference in treatment between HPV-associated and HPV-independent tumours, it is recommended that the type of vulvar SCC (HPV-associated or HPV-independent) be documented in the pathology report. Using p16 (+/-&nbsp;p53) immunohistochemistry, approximately 97% of vulvar SCC can be readily stratified into HPV-associated and HPV-independent types {36828360}, which provides superior accuracy than using morphological assessment alone {26171917; 28815579; 26630231}. However, in cases where p16 (+/- p53) immunohistochemistry or HPV testing are not available or not interpretable, a morphological diagnosis of SCC HPV status undetermined is an acceptable alternative. The percentages of HPV-associated and HPV-independent squamous cell carcinomas (SCCs) in the vulva are highly variable, depending on geographical area {23886586; 28590952; 23190170; 32410226}; overall, approximately two&nbsp;thirds of vulvar SCCs arise via an HPV-independent pathway {23886586}, but the percentage of HPV-associated SCC may be as high as 95% in sub-Saharan African countries and lower than 20% in several European countries {36214794}.</p>",
+        "timestamp": "2026-08-25T16:04:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

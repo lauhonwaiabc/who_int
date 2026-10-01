@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 145,
+    "bookId": "49",
+    "roleid": 181,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2269,
+        "lastname": "Schmitt",
+        "firstname": "Fernando",
+        "initials": "",
+        "email": "",
+        "roleid": 181,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 146,
+    "bookId": "49",
+    "roleid": 182,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2093,
+        "lastname": "Pitman",
+        "firstname": "Martha Bishop",
+        "initials": "MB",
+        "email": "",
+        "roleid": 182,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 147,
+    "bookId": "49",
+    "roleid": 183,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4155,
+        "lastname": "Barroca",
+        "firstname": "Helena",
+        "initials": "",
+        "email": "",
+        "roleid": 183,
+        "position": 0
+      }
+    ]
+  }
+]

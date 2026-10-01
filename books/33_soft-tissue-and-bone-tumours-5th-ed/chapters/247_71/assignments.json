@@ -1,0 +1,45 @@
+[
+  {
+    "pkroleId": 70,
+    "bookId": "33",
+    "roleid": 28,
+    "roleTitle": "Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2301,
+        "lastname": "Antonescu",
+        "firstname": "Cristina R.",
+        "initials": "",
+        "email": "",
+        "roleid": 28,
+        "position": 0
+      },
+      {
+        "contributorid": 2312,
+        "lastname": "Folpe",
+        "firstname": "Andrew L.",
+        "initials": "AL",
+        "email": "",
+        "roleid": 28,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 71,
+    "bookId": "33",
+    "roleid": 29,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2296,
+        "lastname": "Calonje",
+        "firstname": "Jaime E.",
+        "initials": "",
+        "email": "",
+        "roleid": 29,
+        "position": 0
+      }
+    ]
+  }
+]

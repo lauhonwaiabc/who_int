@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 185,
+    "bookId": "72",
+    "roleid": 266,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 5496,
+        "lastname": "Srivastava",
+        "firstname": "Amitabh",
+        "initials": "A",
+        "email": "",
+        "roleid": 266,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 186,
+    "bookId": "72",
+    "roleid": 279,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2023,
+        "lastname": "Nagtegaal",
+        "firstname": "Iris D.",
+        "initials": "ID",
+        "email": "",
+        "roleid": 279,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "pkroleId": 187,
+    "bookId": "72",
+    "roleid": 280,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2049,
+        "lastname": "Rosty",
+        "firstname": "Christophe",
+        "initials": "CN",
+        "email": "",
+        "roleid": 280,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 188,
+    "bookId": "72",
+    "roleid": 281,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2037,
+        "lastname": "Sekine",
+        "firstname": "Shigeki",
+        "initials": "S",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 2182,
+        "lastname": "Makinen",
+        "firstname": "Markus",
+        "initials": "MJ",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 5489,
+        "lastname": "Yantiss",
+        "firstname": "Rhonda K.",
+        "initials": "RK",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      }
+    ]
+  }
+]

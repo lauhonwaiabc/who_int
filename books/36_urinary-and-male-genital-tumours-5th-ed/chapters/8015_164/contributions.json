@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 70630,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 539,
+        "headingText": "\r\n<p>Mucinous borderline tumour is a non-invasive neoplasm with gastrointestinal-type or endocervical-type epithelium, characterized by complex architecture and cytological atypia.</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 70631,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 540,
+        "headingText": "\r\n<p>8472/1 Mucinous borderline tumour</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 70632,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 541,
+        "headingText": "\r\n<p>2F77 &amp; XH2FF0 Neoplasm of uncertain behaviour of male genital organs &amp; Mucinous cystic tumour of borderline malignancy</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 70633,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 542,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 70634,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 70635,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 544,
+        "headingText": "\r\n<p>Testis and paratestis</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 70636,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 545,
+        "headingText": "\r\n<p>Patients usually present with painless or occasionally painful swelling of the testis {25821618; 30287624}.</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 70637,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 546,
+        "headingText": "\r\n<p>Intraparenchymal testicular or paratesticular mucinous borderline tumours are very rare. Cases have been reported in middle-aged and elderly men (age range: 42&ndash;69&nbsp;years) {12960806}.</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 70638,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 547,
+        "headingText": "\r\n<p>The tumours may derive from mesothelium by a process of M&uuml;llerian metaplasia, or from M&uuml;llerian rests.</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 70639,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 548,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 70640,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 555,
+        "headingText": "\r\n<p>The rare cases reported are unilateral cystic and solid tumours measuring 13&ndash;145&nbsp;mm {12960806; 25821618}. The external surface is described as smooth, whereas the cut surface can show fibrotic, haemorrhagic, and mucoid areas {22919149; 25821618}.</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 70641,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 549,
+        "headingText": "\r\n<p>The tumour is mostly characterized by cystic areas with papillary projections lined by gastrointestinal-type epithelium, usually showing mild to moderate atypia {20694089}. Occasionally, severe atypia is identified. Scattered goblet cells can be present. Complex papillary architecture and stratification of the nuclei can be seen. There is often a surrounding fibrotic wall with inflammation and occasionally dystrophic calcification or metaplastic ossification. Extravasation of mucin into the surrounding tissue can be seen {12960806; 22919149; 9762558; 20694089}. Severe cytological and architectural atypia warrants a diagnosis of intraepithelial carcinoma {12960806}. Occasional borderline tumours can show microinvasion. This is defined as small foci of stromal invasion, each measuring &lt;&nbsp;5&nbsp;mm in linear extent and showing the same degree of cellular atypia as the borderline tumour {12960806}. The few reported cases showed CK20 positivity with variable expression of CK7 and CDX2 {22919149; 25821618; 10086514}.</p>\r\n<p>Primary mucinous borderline tumour of the testicular adnexa should be distinguished from metastasis from a distant primary tumour and also from a somatic tumour arising from a testicular germ cell tumour. Because metastasis from a gastrointestinal primary can show a similar immunohistochemical phenotype to that of a primary testicular mucinous tumour, imaging and/or endoscopy is often required to help differentiate between these diagnoses {30287624}. A lack of 12p&nbsp;gain (which is typically seen in postpubertal teratoma) and an absence of background germ cell neoplasia in&nbsp;situ can be used to exclude postpubertal monodermal teratoma {30287624}.</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 70642,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 70643,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 551,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 70644,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> a non-invasive mucinous tumour with cellular atypia and architectural complexity; tumours with invasive foci are classified as microinvasive mucinous borderline tumour when each focus measures &lt;&nbsp;5&nbsp;mm in linear extent; the background testis has no invasive or intratubular germ cell neoplasia.</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 70645,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 552,
+        "headingText": "\r\n<p>There is no American Joint Committee on Cancer (AJCC) staging system for these tumours.</p>\r\n",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 70646,
+        "bookId": 36,
+        "chapterId": 164,
+        "headingId": 553,
+        "headingText": "\r\n<p>Mucinous borderline tumours are reported to have an excellent prognosis, even when foci of microinvasion or intraepithelial carcinoma are present. No malignant behaviour has been reported in the well-documented cases {12960806; 20694089}.</p>",
+        "timestamp": "2022-02-22T15:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

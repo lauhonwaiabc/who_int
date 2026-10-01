@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1119,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1158,
+    "contributions": [
+      {
+        "pkcontributionId": 155473,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1158,
+        "headingText": "\r\n<p>Fusion-associated spindle cell rhabdomyosarcomas are a heterogeneous group of sarcomas with skeletal muscle differentiation and fascicular spindle cell morphology, defined by a recurrent pathognomonic fusion.</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1120,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1159,
+    "contributions": [
+      {
+        "pkcontributionId": 155474,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1159,
+        "headingText": "\r\n<p>8912/3 Spindle cell rhabdomyosarcoma</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1121,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1160,
+    "contributions": [
+      {
+        "pkcontributionId": 155475,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1160,
+        "headingText": "\r\n<p>2B55.Z &amp; XH7NM2 Rhabdomyosarcoma, primary site &amp; Spindle cell rhabdomyosarcoma</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1122,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1161,
+    "contributions": [
+      {
+        "pkcontributionId": 155476,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1161,
+        "headingText": "\r\n<p><em>Acceptable:</em> fusion-driven spindle cell rhabdomyosarcoma.</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1123,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1162,
+    "contributions": [
+      {
+        "pkcontributionId": 155477,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1162,
+        "headingText": "\r\n<p>Congenital/infantile spindle cell rhabdomyosarcoma</p>\r\n<p>Spindle cell rhabdomyosarcoma with <em>ZFP64</em>::<em>NCOA2</em>/<em>3</em> fusion</p>\r\n<p>Spindle cell rhabdomyosarcoma with <em>VGLL3</em> gene rearrangements</p>\r\n<p>Fusion-associated spindle cell rhabdomyosarcoma, other</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1124,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1163,
+    "contributions": [
+      {
+        "pkcontributionId": 155478,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1163,
+        "headingText": "\r\n<p>Congenital/infantile spindle cell rhabdomyosarcomas preferentially involve the trunk and head and neck {23463663; 26501226; 32187044}. Spindle cell rhabdomyosarcomas with <em>ZFP64</em>::<em>NCOA2</em>/<em>3</em> fusions show a predilection for the soft tissues of the lower extremities and trunk {35521817; 37422156;41075874}, but other sites can be involved. Spindle cell rhabdomyosarcomas with <em>VGLL3</em> fusions have been reported to date exclusively in the head and neck region, with a predilection for the tongue {35766997; 36504272; 37422156}. Fusion-driven spindle cell rhabdomyosarcomas harbouring other fusions such as <em>MEIS1</em>::<em>FOXO1</em>, <em>DCTN1</em>::<em>ALK</em>, etc. have been reported at various sites, including the viscera, and require further investigation {37422156; 35229187; 33574497}.</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1125,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1164,
+    "contributions": [
+      {
+        "pkcontributionId": 155479,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1164,
+        "headingText": "\r\n<p>Fusion-associated spindle cell rhabdomyosarcomas present as rapidly growing, localized, and usually deep-seated masses. Symptoms such as pain may arise due to local compression at the tumour site.</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1126,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1165,
+    "contributions": [
+      {
+        "pkcontributionId": 155480,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1165,
+        "headingText": "\r\n<p>Fusion-associated rhabdomyosarcomas are rare, accounting for &lt;&nbsp;5&ndash;10% of rhabdomyosarcomas {26501226; 35452896}. Congenital/infantile spindle cell rhabdomyosarcoma presents at birth or within the first year of life {35452896}. Spindle cell rhabdomyosarcomas associated with variant fusions, such as <em>ZFP64</em>::<em>NCOA2</em>/<em>3</em> or <em>VGLL3</em>-types, present in middle-aged to older adults, with a male predilection {35521817; 35766997}.</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1127,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1166,
+    "contributions": [
+      {
+        "pkcontributionId": 155481,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1166,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1128,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1167,
+    "contributions": [
+      {
+        "pkcontributionId": 155482,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1167,
+        "headingText": "\r\n<p>Fusion-associated spindle cell rhabdomyosarcomas can be provisionally categorized into several molecular groups. The first group is represented by congenital/infantile spindle cell rhabdomyosarcoma, characterized by <em>NCOA2</em> or <em>CITED2</em> fusions, with various partners. The most common fusions are <em>SRF</em>::<em>NCOA2</em>, <em>VGLL2</em>::<em>NCOA2</em>, and <em>VGLL2</em>::<em>CITED2</em> {23463663; 26501226; 32187044}, with less frequent examples of <em>TEAD1</em>::<em>NCOA2</em> {23463663; 31999033}. The second group is characterized by <em>ZFP64</em> rearrangements, involving either <em>NCOA2</em> or <em>NCOA3</em> gene partners {35521817; 37905771; 37422156; 39324699; 41075874}. The third group harbours <em>VGLL3</em> fusions with either <em>TCF12</em>, <em>EP300</em>, or <em>PPARGC1A</em> partners {35766997; 37422156; 36504272}. Other less commonly reported fusions to date include <em>MEIS1</em>::<em>NCOA2</em>, <em>MEIS1</em>::<em>FOXO1</em>, <em>DCTN1</em>::<em>ALK</em>, <em>EWSR1</em>::<em>NF2</em> {33574497; 37422156; 35229187; 39873201}. Of note, spindle cell rhabdomyosarcoma with <em>EWSR1</em>::<em>TFCP2</em>, <em>FUS</em>::<em>TFCP2</em>, or <em>MEIS1</em>::<em>NCOA2</em> rearrangements is discussed separately in <a style=\"cursor:pointer\" href=\"/chaptercontent/87/291\" target=\"_blank\">section </a><em>TFCP2</em>-<em>rearranged rhabdomyosarcoma</em>.</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1135,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1174,
+    "contributions": [
+      {
+        "pkcontributionId": 155483,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1174,
+        "headingText": "\r\n<p>Spindle cell rhabdomyosarcomas harbouring <em>ZFP64</em>::<em>NCOA2</em>/<em>3</em> fusions are usually large solid masses involving the skeletal muscle and may rarely arise on the surface of the bone. <em>VGLL3</em>-rearranged spindle cell rhabdomyosarcoma presents as a small submucosal mass. Other fusion-associated spindle cell rhabdomyosarcomas are usually large, solid masses and often show tumour necrosis.</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1129,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1168,
+    "contributions": [
+      {
+        "pkcontributionId": 155484,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1168,
+        "headingText": "\r\n<p>Congenital/infantile spindle cell rhabdomyosarcoma is characterized by cellular fascicles of monomorphic spindle cells with an intersecting or herringbone growth pattern, resembling leiomyosarcoma or infantile fibrosarcoma. The degree of cellularity may vary, with hypocellular areas that may mimic myofibromatosis {26501226}. The spindled neoplastic cells have pale eosinophilic cytoplasm and blunted, ovoid or fusiform, centrally located nuclei with small inconspicuous nucleoli {26501226; 23463663; 32187044}. Immunohistochemically, congenital/infantile rhabdomyosarcoma shows diffuse expression of desmin, with heterogeneous expression of MYOD1 and myogenin {32187044}.</p>\r\n<p>Spindle cell rhabdomyosarcoma with <em>ZFP64</em>::<em>NCOA2</em>/<em>3&ndash;</em>related fusions are characterized by monomorphic spindled cells growing in long fascicles with a herringbone growth pattern. Occasionally, extensive chondro-osseous differentiation may be seen. The tumours are variably positive for MYOD1 and desmin, whereas myogenin is usually negative {35521817; 37905771; 39324699; 41075874}.</p>\r\n<p>Spindle cell rhabdomyosarcoma with <em>VGLL3</em> gene rearrangement is characterized by bland spindle cells diffusely infiltrating skeletal muscle, lacking significant mitotic activity or necrosis {35766997; 36504272; 37422156}. By immunohistochemistry, these tumours are diffusely positive for desmin, with scattered myogenin and MYOD1 expression. Patchy SMA expression may be seen.</p>\r\n<p>The morphological features of rhabdomyosarcomas with rarer fusions are variable.</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1130,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1169,
+    "contributions": [
+      {
+        "pkcontributionId": 155485,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1169,
+        "headingText": "\r\n<p>Insufficient data</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1131,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1170,
+    "contributions": [
+      {
+        "pkcontributionId": 155486,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1170,
+        "headingText": "\r\n<p>Pathognomonic gene fusions can be detected by various molecular methods, including RNA-based targeted sequencing or FISH.</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1134,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1173,
+    "contributions": [
+      {
+        "pkcontributionId": 155487,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1173,
+        "headingText": "\r\n<p><em>Essential:</em> monomorphic spindle cell morphology; expression of at least two skeletal muscle markers such as desmin and MYOD1/myogenin; confirmation of the characteristic gene fusion (see above).</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1132,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1171,
+    "contributions": [
+      {
+        "pkcontributionId": 155488,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1171,
+        "headingText": "\r\n<p>Rhabdomyosarcoma can be staged on the basis of site of origin using the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) system for soft tissue sarcomas. Congenital/infantile rhabdomyosarcoma may be staged using the Intergroup Rhabdomyosarcoma Study Group (IRSG) grouping system {33306276; 34582098}.</p>\r\n",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1133,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1172,
+    "contributions": [
+      {
+        "pkcontributionId": 155489,
+        "bookId": 87,
+        "chapterId": 281,
+        "headingId": 1172,
+        "headingText": "\r\n<p>Congenital/infantile rhabdomyosarcoma behaves indolently, with exceptional cases of distant metastases or fatalities {23463663; 26501226; 35452896; 33949344}. Similarly, most <em>VGLL3</em>-rearranged spindle cell rhabdomyosarcomas follow an indolent course {35766997; 36504272}. In contrast, spindle cell rhabdomyosarcoma with <em>ZFP64</em>::<em>NCOA2</em>/<em>3</em> fusions has a high potential for local recurrence, distant metastasis, and death from disease {35521817; 41075874}. Outcome data for other less common fusion-associated spindle cell rhabdomyosarcomas are too limited.</p>",
+        "timestamp": "2026-08-31T16:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "pkheadingid": 671,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Introduction",
+    "headingPosition": 1,
+    "headingid": 637,
+    "contributions": [
+      {
+        "pkcontributionId": 93980,
+        "bookId": 50,
+        "chapterId": 256,
+        "headingId": 637,
+        "headingText": "\r\n<p>FISH is a well-established method for visualizing and diagnosing numerical and structural abnormalities in chromosomal DNA. It is widely used to identify aneuploidy, deletions, amplifications, and rearrangements of selected chromosomes and genes {27479335; 33489824}. The advantages of FISH include the fact that only a small number of cells are required for analysis and that alterations within cells of interest can be detected directly on the cytopathological specimen. Because chromosomal alterations are a hallmark of malignant cells, FISH can improve the accuracy of pancreaticobiliary cytopathology and may select patients for targeted therapies {25191518; 28543841; 32447492; 32105622; 33658799}.</p>\r\n",
+        "timestamp": "2022-11-29T17:22:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 672,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Technical requirements",
+    "headingPosition": 2,
+    "headingid": 638,
+    "contributions": [
+      {
+        "pkcontributionId": 93981,
+        "bookId": 50,
+        "chapterId": 256,
+        "headingId": 638,
+        "headingText": "\r\n<p>FISH analysis requires a fluorescence microscope with appropriate filters, ideally equipped with an automated stage and coupled with relocation software. Recording the location of photodocumented target cells on the Pap-stained cytopathology specimen enables rapid identification of these cells after hybridization and greatly facilitates FISH evaluation {27479335; 24753508}. The use of adhesive slides with electrostatic positive charge is recommended to prevent cell loss during pretreatment and DNA denaturation {27479335; 29494220}.</p>\r\n<p>FISH scoring is ideally supervised by an experienced cytotechnologist or cytopathologist, in order to correlate FISH findings with cytomorphology. Scoring FISH signals can be done directly at the fluorescence microscope or at the computer screen after high-quality z-stack scanning, which facilitates signal evaluation and allows for the documentation of FISH findings {27479335}.</p>\r\n",
+        "timestamp": "2022-11-29T17:22:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 673,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Management of types of cytopathological specimens",
+    "headingPosition": 3,
+    "headingid": 639,
+    "contributions": [
+      {
+        "pkcontributionId": 93982,
+        "bookId": 50,
+        "chapterId": 256,
+        "headingId": 639,
+        "headingText": "<p>Most cytopathological preparations are suitable for FISH analysis, including Pap- or Giemsa-stained smears; unstained smears; cytospins; liquid-based preparations (liquid-based cytopathology); specimens after ICC; and unstained tissue in formalin-fixed, paraffin-embedded cell blocks {27479335; 28743163; 30600323; 23536384; 29494220}. FISH applies well to specimens stained by ICC if 3-amino-9-ethylcarbazole is used as a chromogen [[Schmitt F, editor. Molecular applications in cytology. Cham (Switzerland): Springer; 2018.]]. If using cell blocks, the cell blocks are handled in a similar way to histopathological specimens, and the same protocols for FISH are applied [[Roy-Chowdhuri S, VanderLaan PA, Stewart JM, et al., editors. Molecular diagnostics in cytopathology: a practical handbook for the practicing pathologist. Cham (Switzerland): Springer; 2019.]] {29494220}. The thickness of the paraffin sections can affect FISH results, owing to truncation artefact. Sections 5&nbsp;&plusmn;&nbsp;1&nbsp;&micro;m thick are recommended {31101839}.</p>\r\n<p>The major advantages and disadvantages of different cytopathological samples for FISH analysis are shown in <a style=\"cursor:pointer\" href=\"/attachment/50/256/24141\" target=\"_blank\">#24141</a>Table&nbsp;2.04 .</p>",
+        "timestamp": "2023-01-12T15:28:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 674,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Fixation",
+    "headingPosition": 4,
+    "headingid": 640,
+    "contributions": [
+      {
+        "pkcontributionId": 93983,
+        "bookId": 50,
+        "chapterId": 256,
+        "headingId": 640,
+        "headingText": "\r\n<p>Although formalin fixation is standard for tissues, alcohol fixatives are mostly used for non&ndash;cell block cytopathological preparations including smears or liquid-based cytopathology. However, the quality of DNA in air-dried or alcohol-fixed cytopathological samples is better than that after formaldehyde fixation {27479335; 28743163; 29494220; 23536384; 24648382}.</p>\r\n",
+        "timestamp": "2022-11-29T17:22:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 675,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Controls",
+    "headingPosition": 5,
+    "headingid": 641,
+    "contributions": [
+      {
+        "pkcontributionId": 93984,
+        "bookId": 50,
+        "chapterId": 256,
+        "headingId": 641,
+        "headingText": "\r\n<p>Benign cells with a regular FISH signal pattern serve as internal controls for good hybridization efficiency and a negative FISH result. Running external or on-slide control specimens is not required for FISH.</p>\r\n",
+        "timestamp": "2022-11-29T17:22:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 676,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Procedures",
+    "headingPosition": 6,
+    "headingid": 642,
+    "contributions": [
+      {
+        "pkcontributionId": 93985,
+        "bookId": 50,
+        "chapterId": 256,
+        "headingId": 642,
+        "headingText": "<p>After an appropriate area for FISH analysis is selected and marked on the stained diagnostic cytopathology specimen, the general steps involved in FISH {23633236; 27479335; 31236139} [[Roy-Chowdhuri S, VanderLaan PA, Stewart JM, et al., editors. Molecular diagnostics in cytopathology: a practical handbook for the practicing pathologist. Cham (Switzerland): Springer; 2019.]] include the following:</p>\r\n<ul>\r\n<li>Slide pretreatment: uncovering the coverslip, denaturing the cells using protease, applying the DNA probe</li>\r\n<li>Denaturation: heating the slide to obtain single-stranded DNA of the probe and cell</li>\r\n<li>Hybridization of the probe to the target DNA sequence</li>\r\n<li>Post-hybridization washing to remove excess probe</li>\r\n<li>Nuclear DNA counterstaining with DAPI</li>\r\n<li>FISH signal scoring and interpretation</li>\r\n</ul>\r\n<p>Commercially available probes with protocols optimized for formalin-fixed, paraffin-embedded material need to be adapted for conventional cytopathology {27479335}. Any deviation of the protocol requires separate validation. Internal validation of FISH assays is needed and external quality assurance is advised {29396253; 25170637; 29755669}.</p>\r\n<p>Scoring and interpretation of FISH signals is dependent on the FISH assay and probe design {27479335}. Although a few studies have developed probe sets of their own, based on known chromosomal alterations in genes associated with pancreatic carcinoma, including <em>TP53</em>, <em>CDKN2A</em> (<em>P16</em>), and <em>EGFR</em>, the most common approach is based on the multicolour UroVysion probe set (Abbott Molecular Inc.), originally developed for bladder cancer detection in urine {25191518}. This kit contains a probe directed at the <em>CDKN2A</em> gene located at 9p21 and chromosome enumeration probes (CEPs) directed to chromosomes&nbsp;3, 7, and&nbsp;17. Neoplastic cells with chromosomal alterations can be detected using the UroVysion assay {28543841; 25191518}. The 9p21 FISH signal is commonly weaker than the CEP signal. Care must be taken to ensure that very weak or failed hybridization is not misinterpreted as 9p21 deletion {23633236; 24753508}.</p>",
+        "timestamp": "2023-02-06T16:43:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 677,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Diagnostic applications",
+    "headingPosition": 7,
+    "headingid": 643,
+    "contributions": [
+      {
+        "pkcontributionId": 93986,
+        "bookId": 50,
+        "chapterId": 256,
+        "headingId": 643,
+        "headingText": "<p>The diagnostic challenges of routine cytopathology or small biopsy are several-fold. The pancreaticobiliary duct system is hard to access, leading to paucicellular or non-representative specimens. There can be morphological overlap between reactive conditions and malignancy {9802349; 21846921}. Despite the morphological overlap, 80% of pancreaticobiliary malignancies have chromosomal abnormalities that may be detected by UroVysion FISH analysis {18477350}. The addition of ancillary studies to pancreaticobiliary cytopathology has the potential to improve diagnostic efficacy, with an impact on diagnostic and surveillance screening procedures for pancreaticobiliary neoplasia {26431597; 29034764; 23866788; 17030177; 19232347; 22100297; 22078103; 26051390}.</p>\r\n<p>Several clinical scenarios have benefited from FISH analysis in pancreaticobiliary cytopathology. Confirmation of clinically suspected malignancies, in which the cytopathology diagnosis may be equivocal because of scant cellularity or overlapping cytopathological features, was the first recognized benefit {21846921}.</p>\r\n<p>It is also important in the setting of biliary stricture, which is difficult to recognize as benign or malignant on imaging findings alone {26431597; 29034764; 18477350}. Cytopathology and/or FISH abnormality may be the key factor in distinguishing early malignancy from a benign stricture. Finally, FISH is very useful in the setting of surveillance screening. Patients with primary sclerosing cholangitis are at increased risk for developing cholangiocarcinoma and are screened to detect early evidence of neoplasia {26051390; 21844920}. The addition of FISH analysis on cytopathology brush specimens may allow early detection, with improved survival, particularly when the decision to proceed with liver transplantation is a consideration. Overall, the application of FISH on biliary brush specimens has significantly improved the diagnostic sensitivity for the detection of malignancy, which is 47&ndash;84%, while also maintaining a very high specificity (&gt;&nbsp;90%) {26431597; 29034764; 23866788; 17030177; 19232347; 22100297; 22078103; 18477350}.</p>\r\n<p>Trisomy abnormalities or single-locus gains or losses (e.g. 9p21 loss) can be seen in both reactive and neoplastic conditions and are often viewed as equivocal findings, although 9p21 loss has been correlated with malignancy in some studies {17030177; 18477350}.</p>\r\n<p>More recently, FISH has also acquired theragnostic significance, as clinical trials evaluated crizotinib safety and efficacy in patients with locally advanced cancers with <em>ALK</em>, <em>MET</em>, and <em>ROS1</em> rearrangements. The efficacy of trastuzumab and varlitinib in ERBB2-amplified biliary tract adenocarcinomas has also been investigated {32447492}. NTRK fusions have been detected in pancreaticobiliary malignancies, predicting a response to NTRK inhibitors {32105622; 33658799}.</p>",
+        "timestamp": "2023-01-23T15:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

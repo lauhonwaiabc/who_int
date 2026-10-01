@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1070,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1086,
+    "contributions": [
+      {
+        "pkcontributionId": 153698,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1086,
+        "headingText": "\r\n<p>Desmoplastic small round cell tumour (DSRCT) is a malignant mesenchymal neoplasm composed of small round tumour cells associated with prominent stromal desmoplasia, polyphenotypic differentiation, and <em>EWSR1</em><em>::WT1</em> gene fusion.</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1071,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1087,
+    "contributions": [
+      {
+        "pkcontributionId": 153699,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1087,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1072,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1088,
+    "contributions": [
+      {
+        "pkcontributionId": 153700,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1088,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1073,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1089,
+    "contributions": [
+      {
+        "pkcontributionId": 153701,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1089,
+        "headingText": "\r\n<p><em>Acceptable:</em> intra-abdominal desmoplastic round cell tumour.</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1074,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1090,
+    "contributions": [
+      {
+        "pkcontributionId": 153702,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1090,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1075,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1091,
+    "contributions": [
+      {
+        "pkcontributionId": 153703,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1091,
+        "headingText": "\r\n<p>This tumour most commonly involves the pelvic/abdominal cavity, frequently including the retroperitoneum, pelvis, omentum, and mesentery. Multiple serosal/peritoneal deposits to diffuse studding are common. In the gynaecological tract, ovary is the most common site {1563748; 32483810; 24624323; 19851210; 20492402; 18091312; 8600079}, with rare cases reported in the uterus and cervix {35626339; 36249904}. The ovarian involvement is frequently bilateral {32483810}.</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1076,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1092,
+    "contributions": [
+      {
+        "pkcontributionId": 153704,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1092,
+        "headingText": "\r\n<p>Patients usually present with abdominal pain and distension, a palpable mass, ascites, or symptoms of bowel obstruction. In female patients, DSRCT often mimics an ovarian neoplasm with pelvic/abdominal metastasis, both clinically and on imaging {1563748}.</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1077,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1093,
+    "contributions": [
+      {
+        "pkcontributionId": 153705,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1093,
+        "headingText": "\r\n<p>DSRCT primarily affects children and young adults, and patients usually present with widespread abdominal/peritoneal involvement {1709557}. Most cases (&gt;&nbsp;85%) occur in male individuals, with case series reporting mean ages of around 25&nbsp;years {18191563; 34193155}.</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1078,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1094,
+    "contributions": [
+      {
+        "pkcontributionId": 153706,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1094,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1079,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1095,
+    "contributions": [
+      {
+        "pkcontributionId": 153707,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1095,
+        "headingText": "\r\n<p>DSRCT is characterized by a recurrent chromosomal translocation, t(11;22)(p13;q12) {1314522; 7687454; 8374894}, resulting in the fusion of the <em>EWSR1</em> gene on 22q12 and the Wilms tumour gene, <em>WT1</em>, on 11p13 {8187063; 7495283; 7862627}. The most common chimeric transcript is an in-frame fusion of exons&nbsp;1&ndash;7 of <em>EWSR1</em> and exons&nbsp;8&ndash;10 of <em>WT1</em>.</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1086,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1102,
+    "contributions": [
+      {
+        "pkcontributionId": 153708,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1102,
+        "headingText": "\r\n<p>There are typically multiple tumour nodules to diffuse studding of the peritoneal surfaces, including the ovaries. There is often a dominant tumour mass accompanied by smaller satellite nodules. The cut surface is firm and greyish white, with foci of haemorrhage and necrosis.</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1080,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1096,
+    "contributions": [
+      {
+        "pkcontributionId": 153709,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1096,
+        "headingText": "\r\n<p>DSRCT is characterized by variably sized and shaped, sharply demarcated nests of small round cells (or much more uncommonly, epithelioid or spindled cells) surrounded by a prominent desmoplastic stroma. The nests may be small to quite large irregular confluent sheets, and uncommonly there is minimal associated desmoplastic stroma. Central necrosis is common, and cystic degeneration can also be seen. Some tumours focally exhibit pseudoglandular or rosette-like formation. Cells are typically uniform, with small hyperchromatic nuclei, scant cytoplasm, and indistinct cytoplasmic borders. Some tumours have larger cells with greater pleomorphism. Mitoses are frequent. Prominent stromal vascularity is sometimes present. Rare cases in the gynaecological tract with the <em>EWSR1</em>::<em>WT1</em> gene fusion have been reported to show a more sarcomatoid morphology, raising speculation of a distinctive tumour {34099870}.</p>\r\n<p>DSRCT exhibits multiphenotypic differentiation, expressing epithelial, muscle, and neural markers. Most tumours are immunoreactive for cytokeratins, EMA, and desmin. A distinctive dot-like cytoplasmic localization is seen with desmin and occasionally with other intermediate filaments. Myogenin and MYOD1 are consistently negative. Nuclear expression of WT1 (using antibodies to the C-terminus but not the N-terminus) is usually seen {10843285; 10989634}.</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1081,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1097,
+    "contributions": [
+      {
+        "pkcontributionId": 153710,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1097,
+        "headingText": "\r\n<p>Highly cellular smears show loosely cohesive, hyperchromatic round cells with scant to moderate cytoplasm and variable nuclear moulding. Metachromatic stromal material is seen in the background of smears and cell block material but is rare in body fluids and liquid-based preparations {24639098}. Ascitic fluid is typically cellular and shows malignant cells with a high N:C&nbsp;ratio {11836699}. However, the diagnostic value of cytology is limited.</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1082,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1098,
+    "contributions": [
+      {
+        "pkcontributionId": 153711,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1098,
+        "headingText": "\r\n<p>The presence of <em>EWSR1</em> and <em>WT1</em> gene rearrangements or alternatively of the <em>EWSR1</em>::<em>WT1</em> chimeric transcript is a useful diagnostic tool.</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1085,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1101,
+    "contributions": [
+      {
+        "pkcontributionId": 153712,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1101,
+        "headingText": "\r\n<p><em>Essential:</em> nests of small round cells in a desmoplastic stroma; immunohistochemical positivity for cytokeratin, desmin (dot-like cytoplasmic pattern), and WT1 (antibody to the C-terminus).</p>\r\n<p><em>Desirable:</em> molecular studies to demonstrate <em>EWSR1</em> gene rearrangement or <em>EWSR1</em><em>::WT1</em> fusion transcript.</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1083,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1099,
+    "contributions": [
+      {
+        "pkcontributionId": 153713,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1099,
+        "headingText": "\r\n<p>In female genital tract DSRCT, no validated location-specific staging system exists.</p>\r\n",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1084,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1100,
+    "contributions": [
+      {
+        "pkcontributionId": 153714,
+        "bookId": 85,
+        "chapterId": 240,
+        "headingId": 1100,
+        "headingText": "\r\n<p>Overall survival is poor, despite multimodality therapy {22162435; 15868593; 29871905; 32483810}. The 5-year overall survival rate is approximately 10&ndash;15%.</p>",
+        "timestamp": "2026-08-26T15:26:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

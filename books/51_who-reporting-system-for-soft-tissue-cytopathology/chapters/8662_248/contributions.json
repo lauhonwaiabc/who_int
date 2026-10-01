@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 918,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 694,
+    "contributions": [
+      {
+        "pkcontributionId": 135510,
+        "bookId": 51,
+        "chapterId": 248,
+        "headingId": 694,
+        "headingText": "\r\n<p>Intimal sarcoma (IS) is a malignant mesenchymal neoplasm arising in large blood vessels of the systemic and pulmonary circulation and also in the heart, defined by predominantly intraluminal growth with obstruction of the lumen of the vessel of origin and seeding of emboli to peripheral organs.</p>\r\n",
+        "timestamp": "2025-10-14T14:48:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 919,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 695,
+    "contributions": [
+      {
+        "pkcontributionId": 135511,
+        "bookId": 51,
+        "chapterId": 248,
+        "headingId": 695,
+        "headingText": "\r\n<p>Clinical symptoms vary based on the site of origin but are often secondary to vascular occlusion or tumour emboli. Neoplasms occurring in the pulmonary artery may cause symptoms similar to those of acute or chronic pulmonary embolism {8989065}. Imaging features suggestive of malignancy rather than thromboembolic disease include extravascular spread of the lesion {14716229}, as well as higher FDG uptake on PET {19680740}. Prognosis is poor, with a rapidly progressive clinical course.</p>\r\n",
+        "timestamp": "2025-10-14T14:48:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 920,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 696,
+    "contributions": [
+      {
+        "pkcontributionId": 135512,
+        "bookId": 51,
+        "chapterId": 248,
+        "headingId": 696,
+        "headingText": "\r\n<p>IS is a poorly differentiated malignant spindle cell neoplasm of possible fibroblastic or myofibroblastic derivation. The tumour generally does not have distinctive morphological features, with cytopathological atypia ranging from mild to severe and variable degrees of mitotic activity and necrosis. A myxoid background may be seen. Tumours may demonstrate a wide spectrum of heterologous differentiation, including rhabdomyosarcomatous, chondrosarcomatous, osteosarcomatous, and angiosarcomatous differentiation. Epithelioid morphology may also be seen.</p>\r\n",
+        "timestamp": "2025-10-14T14:48:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 921,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 697,
+    "contributions": [
+      {
+        "pkcontributionId": 135513,
+        "bookId": 51,
+        "chapterId": 248,
+        "headingId": 697,
+        "headingText": "\r\nVariable cellularity\r\nLoosely cohesive tissue fragments and single cells\r\nLarge pleomorphic spindle and epithelioid cells\r\nVarying amounts of delicate cytoplasm with ill-defined cell borders (best seen on Giemsa stain)\r\nOvoid to spindle nuclei with significant anisonucleosis, irregular nuclear contours, and variably prominent nucleoli (best seen on Pap stain)\r\nOccasional binucleated and multinucleated cells\r\n\r\n<p><em>Reference(s):</em> {25745502}</p>",
+        "timestamp": "2026-01-06T08:48:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 922,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 698,
+    "contributions": [
+      {
+        "pkcontributionId": 135514,
+        "bookId": 51,
+        "chapterId": 248,
+        "headingId": 698,
+        "headingText": "\r\n<p>The clinical presentation may be very similar to that of chronic pulmonary embolism or right heart failure, and diagnosis is often delayed or made at postmortem {8633981}. The cytomorphological differential is wide and includes primary and metastatic sarcoma, carcinoma, and melanoma. Collection of sufficient material for cell block preparation and ancillary studies is necessary.</p>\r\n<p>IS is not expected to be positive for keratins or melanocytic markers, which helps in the distinction from carcinoma and melanoma. However, if cytokeratin positivity is seen, additional epithelial markers should be performed to exclude a poorly differentiated carcinoma. Angiosarcoma and leiomyosarcoma are primary sarcomas of vascular tissue origin, and their features may significantly overlap with those of IS demonstrating heterologous differentiation. Molecular analysis is critical in this situation, because demonstration of cytogenetic abnormalities commonly seen in IS (i.e. <em>MDM2</em> amplification) aids in the correct classification. Clinical and imaging correlation is required to confirm vascular origin of the tumour, as well as to exclude metastatic disease.</p>\r\n",
+        "timestamp": "2025-10-14T14:48:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 923,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 699,
+    "contributions": [
+      {
+        "pkcontributionId": 135515,
+        "bookId": 51,
+        "chapterId": 248,
+        "headingId": 699,
+        "headingText": "\r\n<p>The most consistent cytogenetic aberrations include gains or amplifications of 12q13-q15 (<em>MDM2</em>, <em>CDK4</em>, <em>GLI1</em>) and 4q12 (<em>PDGFRA</em>) {11213836; 20685895; 23628153}. Frequent amplifications of receptor tyrosine kinase genes (<em>PDGFRA</em>, <em>PDGFRB</em>, <em>EGFR</em>, <em>KIT</em>) may provide rationale for targeted therapies {17471466}. IS tumour cells demonstrate variable positivity for SMA and vimentin {11764388}. Vascular markers tend to be negative. Myogenin and MYOD1 staining may be seen in areas of heterologous rhabdomyosarcomatous differentiation {24625414}. <em>MDM2</em> amplification, which can be detected by FISH and/or NGS, is often reflected by ICC MDM2 positivity {11213836}. Other <em>MDM2</em>-amplified sarcomas include atypical lipomatous tumour&nbsp;/ well-differentiated liposarcoma, dedifferentiated liposarcoma, and low-grade osteosarcoma; their distinction may be difficult in a small biopsy specimen given the protean cytomorphology of IS.</p>",
+        "timestamp": "2025-10-14T14:48:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

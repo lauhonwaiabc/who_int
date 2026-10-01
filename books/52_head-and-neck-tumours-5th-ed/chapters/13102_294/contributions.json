@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 115237,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 576,
+        "headingText": "\r\n<p>Ceruminous adenocarcinoma is a malignant epithelial neoplasm derived from ceruminous apocrine-type glands of the external auditory canal.</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 115238,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 577,
+        "headingText": "\r\n<p>8420/3 Ceruminous adenocarcinoma</p>\r\n<p>8420/3 Ceruminous adenoid cystic carcinoma</p>\r\n<p>8420/3 Ceruminous mucoepidermoid carcinoma</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 115239,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 578,
+        "headingText": "\r\n<p>2D40 Adenocarcinoma of unspecified site</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 115240,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> ceruminoma; cylindroma.</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 115241,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 580,
+        "headingText": "\r\n<p>Ceruminous adenoid cystic carcinoma (CerAdCC); ceruminous mucoepidermoid carcinoma (CerMEC)</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 115242,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 581,
+        "headingText": "\r\n<p>Tumours are unilateral, identified lateral to the bony&ndash;cartilaginous junction of the external auditory canal, although temporal bone invasion may be seen {20596983}. Direct extension from adjacent organs (parotid gland) must be excluded.</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 115243,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients present with otalgia, an external auditory canal mass, and hearing changes most commonly, with fullness, discharge, and bleeding less frequently {1328435; 5021609; 6096419; 6243462; 6291744; 6300574; 14102073; 20596983; 23453117; 26954854}. Perineural invasion is common in CerAdCC but is not uniformly associated with otalgia {32389593}.</p>\r\n<h5>Imaging</h5>\r\n<p>Imaging studies are encouraged, to exclude direct extension from adjacent sites and help define the extent of the tumour {6291744; 20596983}.</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 115244,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 583,
+        "headingText": "\r\n<p>Representing &lt;&nbsp;1% of all ear neoplasms {6291744; 20596983}, ceruminous adenocarcinomas are more common than ceruminous adenomas {6291744; 198620; 6243462; 6300574; 5021609; 1328435; 15104293} and present on average about a decade earlier. Overall, there is a slight female predominance, and most patients present in their sixth decade of life (age range: 21&ndash;92&nbsp;years) {6243462; 6291744; 6300574; 14102073; 20596983; 23453117; 26954854; 32389593}.</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 115245,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 115246,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 585,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 115247,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 592,
+        "headingText": "\r\n<p>Tumours are polypoid, firm, solid, nodular masses often with superficial ulceration. Overall, tumours are small (mean: 15&nbsp;mm) {20596983}.</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 115248,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 586,
+        "headingText": "<p>Histologically, tumours are separated into ceruminous adenocarcinoma NOS, adenoid cystic carcinoma (CerAdCC), and mucoepidermoid carcinoma (CerMEC) {1328435; 6291744; 20596983}, with CerAdCC being the most common {198620; 6096419; 6291744; 6300574; 7745330; 20596983}. Tumours show destructive infiltration into the surrounding soft tissues, whereas bone and cartilage invasion is less common. Pagetoid spread into the surface epithelium may be seen. Perineural and lymphovascular invasion and comedonecrosis are exclusive to carcinoma. The tumours are cellular, with tumour subtype determined by architectural and cytological features.</p>\r\n<p>Ceruminous adenocarcinoma NOS shows solid and cystic patterns, with easily identified pleomorphism in cells arranged in back-to-back gland formations with irregular lumina. Papillary structures are uncommon. The neoplastic cells are low columnar to cuboidal with an increased N:C&nbsp;ratio; variable amounts of eosinophilic to clear cytoplasm; and frequent cytoplasmic extensions, snouts, or blebs (apocrine differentiation). The nuclei are oval and hyperchromatic to vesicular, with easily identified nucleoli. Ceroid pigment granules are absent in carcinoma {5021609; 6243462; 20596983}. There may be desmoplastic stroma at the advancing edge. Mitotic figures, including atypical forms, are frequent.</p>\r\n<h5>Subtypes</h5>\r\n<p>CerAdCC demonstrates a perforated or cribriform, sieve-like, tubular-trabecular (cylindrical), and solid architecture. The cribriform pattern has ovoid spaces filled with blue glycosaminoglycan material or eosinophilic replicated basement membrane material. An epithelial-stromal clefting artefact aids in the diagnosis {20596983}. The neoplastic basaloid cells contain roughly peg-shaped nuclei with coarse to heavy granular chromatin. The cytoplasm is scant {198620; 4371368; 6243462; 6291744}. Small, duct-like lumina lined by small cuboidal cells are noted.</p>\r\n<p>CerMEC is histologically identical to mucoepidermoid carcinoma, showing intermingled epidermoid and transitional cells with mucocytes {1328435; 20596983; 23318008}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p >Immunohistochemistry may aid in highlighting the biphasic nature of the tumours, which at least focally have inner luminal epithelial cells subtended by basal/myoepithelial cells {1789146; 7690238; 20596983; 22623086}. CerMEC will also show CEA in the glandular component. Neuroendocrine markers are non-reactive. CD117 highlights the luminal cells in CerAdCC.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>It is imperative to exclude direct extension from salivary gland primary tumours, because management and outcome will be different. Generally, separation from benign ceruminous neoplasms is most significant, but selected skin adnexal primaries and metastatic neoplasms may occasionally enter the differential.</p>",
+        "timestamp": "2023-12-19T14:35:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 115249,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 587,
+        "headingText": "\r\n<p>The cytology is not clinically relevant, with only rare single cases reported.</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 115250,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 588,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 115251,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> EAC origin; destructive infiltration by malignant glandular cells associated with benign ceruminous glands.</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 115252,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 589,
+        "headingText": "\r\n<p>Without standardized staging, International Collaboration on Cancer Reporting (ICCR) minimum data set reporting is encouraged {30500288} [[Thompson LDR, Gupta R, Sandison A, et al. Ear and temporal bone tumours: histopathology reporting guide. 1st ed. Sydney (Australia): International Collaboration on Cancer Reporting; 2018.]].</p>\r\n",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 115253,
+        "bookId": 52,
+        "chapterId": 294,
+        "headingId": 590,
+        "headingText": "\r\n<p>There is a significant recurrence risk (as high as 50%, usually within 3&nbsp;years) and distant metastatic disease potential {6300574; 20596983; 23318008; 23453117; 26954854; 27040415; 32389593}. Tumours with positive margins, skull base or brain invasion, solid pattern CerAdCC, and distant metastases behave poorly {1328435; 6291744; 6243462; 6300574; 7745330; 18677277; 20596983; 23318008; 26954854}. Overall survival is about 50% at 5&nbsp;years {1328435; 20596983; 23453117; 26954854}. Higher-stage tumours {30500288} have a much lower overall survival rate (5-year survival rate: 30%) than stage&nbsp;I tumours (5-year survival rate: 85%) {23453117}. Regional metastatic disease is low {27040415}. When metastatic disease develops, it is usually to the lungs and liver {198620; 6096419; 6291744; 6300574; 7745330}.</p>",
+        "timestamp": "2023-09-28T13:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

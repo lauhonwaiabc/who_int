@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 67941,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 432,
+        "headingText": "\r\n<p>Peripheral neuroblastic tumours are a group of embryonal tumours arising from neural crest and include neuroblastoma; ganglioneuroblastoma, intermixed; ganglioneuroblastoma, nodular; and ganglioneuroma.</p>\r\n",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 67942,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 433,
+        "headingText": "<p>9490/0 Ganglioneuroma</p>\r\n<p>9490/3 Ganglioneuroblastoma</p>\r\n<p>9500/3 Neuroblastoma</p>",
+        "timestamp": "2021-02-12T16:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 67943,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 434,
+        "headingText": "\r\n<p>2F01 &amp; XH03L9 Benign neoplasm of intrathoracic organs &amp; Ganglioneuroma</p>\r\n<p>2C29.1 &amp; XH77W7 Other specified malignant neoplasms of other or ill-defined sites in the respiratory system or intrathoracic organs &amp; Ganglioneuroblastoma</p>\r\n<p>2C29.1 &amp; XH85Z0 Other specified malignant neoplasms of other or ill-defined sites in the respiratory system or intrathoracic organs &amp; Neuroblastoma, NOS</p>\r\n",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 67944,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 435,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 67945,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 436,
+        "headingText": "\r\n<p>Neuroblastoma: undifferentiated; poorly differentiated; differentiating</p>\r\n",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 67946,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 437,
+        "headingText": "<p>Tumours are located in the posterior (paravertebral) mediastinum. Some cases show tumour extension into both mediastinal and abdominal cavities. Rarely, neuroblastoma and ganglioneuroma are diagnosed in the thymic gland of adults presenting with the syndrome of inappropriate antidiuretic hormone secretion (SIADH) {8621190; 9353092; 19661118; 22956963} or with a thymic cyst {23109922}.</p>",
+        "timestamp": "2021-01-04T13:06:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 67947,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 438,
+        "headingText": "<p>Symptoms are often associated with mass effects caused by a large posterior (paravertebral) mediastinal tumour. Dumbbell-shaped tumour growth extending into the extradural space through intervertebral foramina may cause spinal cord compression leading to neurological emergency and laminectomy {20049935}. Unique paraneoplastic syndromes associated with this disease include Horner syndrome {17011859}, opsoclonus-myoclonus-ataxia syndrome (likely immune-mediated mechanism) {30169194}, Kerner&ndash;Morrison syndrome (due to the tumour secreting VIP) {26167095}, and neurocristopathy syndromes (neuroblastoma associated with other neural crest disorders, e.g. congenital hypoventilation syndrome and Hirschsprung disease, due to <em>PHOX2B</em> gene mutations) {26375764}. It is reported that only 3.6% of stage&nbsp;IV neuroblastoma cases had lung metastases at the time of initial diagnosis {18649370}.</p>",
+        "timestamp": "2021-02-08T09:36:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 67948,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 439,
+        "headingText": "\r\n<p>Peripheral neuroblastic tumours are the most common neoplasms in the first year of life and the most common extracranial solid tumours during the first 2&nbsp;years of life. In the USA, 650&ndash;800&nbsp;new cases are diagnosed each year (1&nbsp;case per 7000&nbsp;live births) [[Brodeur GM, Hogarty MD, Moose YP, et al. Neuroblastoma. In: Pizzo PA, Poplack DG, editors. Principles and practice of pediatric oncology. 6th ed. Philadelphia (PA): Lippincott Williams &amp; Wilkins; 2011. pp. 886&ndash;922.]] {8697401; 9329464}. Tumours in this group are diagnosed in the adrenal gland or sympathetic chain, and about 20% of them are found in the mediastinum.</p>\r\n",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 67949,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 440,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 67950,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 441,
+        "headingText": "<p>The drivers for the development of these tumours are thought to be the molecular/genetic events taking place in the neural crest cells during pre-migratory, migratory, and/or postmigratory stages and leading to overexpression of MYC-family oncogenes (<em>MYCN</em>, <em>MYC</em>) {26035700}, abnormal telomere maintenance/elongation (<em>TERT</em> rearrangement, <em>ATRX</em> mutation) {26653081; 28452859}, and overexpression of <em>ALK</em> gene due to mutation or amplification {30793172; 18923524}.</p>\r\n<p>Important chromosomal changes include whole-chromosome gains without structural abnormalities, indicating a good prognosis {6738617}, whereas diploid pattern and the presence of segmental chromosomal aberrations (1p deletion, 11q deletion, and/or 17q gain) indicate a poor prognosis {6738617; 22976801}.</p>",
+        "timestamp": "2021-02-08T09:36:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 67951,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 448,
+        "headingText": "\r\n<p>Neuroblastoma forms a soft, greyish-tan mass, which is often haemorrhagic, with or without foci of necrosis and calcification. Ganglioneuroblastoma and ganglioneuroma have firmer or elastic consistency and tannish-white cut surfaces. Complete resection of the primary tumour, even ganglioneuroma, is often difficult in this anatomical location, because the tumour firmly attaches to the vertebral column.</p>\r\n",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 67952,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 442,
+        "headingText": "\r\n<p>The histological appearances of the peripheral neuroblastic tumours are the same in various primary locations (e.g. adrenal gland and thoracic cavity) that are the destinations of neural crest cell migration. Neuroblastoma is composed of variably sized groups of primitive tumour cells irregularly demarcated by thin fibrovascular septal tissue. Neuroblastoma cells are characterized by their ability to produce neurites with or without Homer Wright rosette formation. During the maturation steps from neuroblastoma to ganglioneuroblastoma to ganglioneuroma, tumour cells show continuous differentiation from neuroblasts to ganglion cells, and the tumour tissues gradually become replaced by Schwannian stroma. It is believed that all ganglioneuromas were once neuroblastomas in their early stages of tumour development.</p>\r\n<p>Immunohistochemically, neuronal markers (NSE, PGP9.5, synaptophysin, chromogranin, CD56, etc.) have been used to support the diagnosis of this disease. Because tumour cells in this group are of neural crest origin with neuronal differentiation, immunohistochemical detection of nuclear POX2B expression is one of the most reliable criteria for the diagnosis of this disease in routine practice. Tyrosine hydroxylase is another marker of neural crest cells with neuronal/neuroendocrine differentiation. However, tyrosine hydroxylase positivity is often lost after decalcification in metastatic neuroblastoma cells of bone marrow biopsy samples.</p>\r\n<p>The International Neuroblastoma Pathology Committee defines four categories of peripheral neuroblastic tumours {10421272}: neuroblastoma (Schwannian stroma&ndash;poor); ganglioneuroblastoma, intermixed (Schwannian stroma&ndash;rich); ganglioneuroma (Schwannian stroma&ndash;dominant); and ganglioneuroblastoma, nodular (composite, Schwannian stroma&ndash;rich/dominant and Schwannian stroma&ndash;poor). Within the neuroblastoma category, three subtypes are distinguished: undifferentiated, poorly differentiated, and differentiating. The committee also recommends determining the mitosis-karyorrhexis index (low: &lt;&nbsp;100/5000&nbsp;cells; intermediate: 100&ndash;200/5000&nbsp;cells; or high &gt;&nbsp;200/5000&nbsp;cells) for each tumour in the neuroblastoma category and for neuroblastoma nodules in the ganglioneuroblastoma, nodular, category. The committee also established the International Neuroblastoma Pathology Classification for distinguishing favourable and unfavourable histology groups {10421273; 14601099}.</p>\r\n",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 67953,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 443,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 67954,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 444,
+        "headingText": "\r\n<p>Recurrent genetic aberrations indicating aggressive tumour behaviour of this disease include <em>MYCN</em> amplification {6719137; 4047115}, <em>ALK</em> mutation/amplification {26503946}, <em>TERT</em> rearrangement {31900258}, and <em>ATRX</em> mutation {22416102}. Important chromosomal changes include whole-chromosome gain without structural abnormalities, indicating a good prognosis {6738617}, whereas diploid pattern and the presence of segmental chromosomal aberrations (1p deletion, 11q deletion, and/or 17q gain) indicate a poor prognosis {6738617; 22976801}. Detecting these molecular/genetic abnormalities at the time of diagnosis is critical for patient stratification and protocol assignment in clinical trials.</p>\r\n",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 67955,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 447,
+        "headingText": "\r\n<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Histological findings (grade of neuroblastic differentiation, mitosis-karyorrhexis index, Schwannian stromal development) for diagnosis and prognostic distinction (favourable vs unfavourable histology) according to the International Neuroblastoma Pathology Classification</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Molecular/genomic testing for <em>MYCN</em> oncogene status, <em>ALK</em> oncogene status, telomere maintenance gene (<em>TERT</em> and <em>ATRX</em>) status, DNA index, and segmental chromosomal aberrations for predicting clinical behaviours</li>\r\n</ul>\r\n",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 67956,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 445,
+        "headingText": "\r\n<p>There have been two major and widely used clinical staging systems: the International Neuroblastoma Staging System (INSS) {8336186} and the International Neuroblastoma Risk Group Staging System (INRGSS) {19047290}. The former is a postsurgical staging system based on the surgical and pathological findings, and the latter is a presurgical staging system based on the presence or absence of image-defined risk factors.</p>\r\n",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 67957,
+        "bookId": 35,
+        "chapterId": 294,
+        "headingId": 446,
+        "headingText": "\r\n<p>Peripheral neuroblastic tumours are heterogeneous and classified into a biologically favourable group and a biologically unfavourable group. Practically, patients with this disease are stratified into different risk groups. There are two major risk-grouping systems: the Children&rsquo;s Oncology Group (COG) risk classification system {23255319; 30652588} and the International Neuroblastoma Risk Group (INRG) classification system {19047291}. Both systems use a combination of various prognostic factors, such as clinical stage, age at diagnosis, histopathology, and molecular/genetic abnormalities {31840131}.</p>\r\n<p>Historically, the COG risk classification system (distinguishing low-risk, intermediate-risk, and high-risk groups) has contributed to actual patient stratification and protocol assignment. In contrast, the primary purpose of the INRG classification system (distinguishing very low, low-intermediate, and high risk) is to facilitate the comparison of risk-based clinical trials conducted in different regions and countries {14601099; 19047290; 19047291}.</p>",
+        "timestamp": "2020-12-03T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

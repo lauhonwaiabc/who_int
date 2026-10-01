@@ -1,0 +1,115 @@
+[
+  {
+    "pkroleId": 145,
+    "bookId": "49",
+    "roleid": 181,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2269,
+        "lastname": "Schmitt",
+        "firstname": "Fernando",
+        "initials": "",
+        "email": "",
+        "roleid": 181,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 146,
+    "bookId": "49",
+    "roleid": 182,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4161,
+        "lastname": "Lin",
+        "firstname": "Oscar",
+        "initials": "",
+        "email": "",
+        "roleid": 182,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 147,
+    "bookId": "49",
+    "roleid": 183,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4404,
+        "lastname": "Sewell",
+        "firstname": "William Arthur",
+        "initials": "",
+        "email": "",
+        "roleid": 183,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 148,
+    "bookId": "49",
+    "roleid": 184,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3892,
+        "lastname": "Porwit",
+        "firstname": "Anna",
+        "initials": "",
+        "email": "",
+        "roleid": 184,
+        "position": 0
+      },
+      {
+        "contributorid": 4182,
+        "lastname": "Geddie",
+        "firstname": "William Robert",
+        "initials": "",
+        "email": "",
+        "roleid": 184,
+        "position": 0
+      },
+      {
+        "contributorid": 4154,
+        "lastname": "Al-Abbadi",
+        "firstname": "Mousa A.",
+        "initials": "",
+        "email": "",
+        "roleid": 184,
+        "position": 0
+      },
+      {
+        "contributorid": 4633,
+        "lastname": "Mansour",
+        "firstname": "Ahmad T.",
+        "initials": "",
+        "email": "",
+        "roleid": 184,
+        "position": 0
+      },
+      {
+        "contributorid": 4634,
+        "lastname": "Kloboves-Prevodnik",
+        "firstname": "Veronika",
+        "initials": "",
+        "email": "",
+        "roleid": 184,
+        "position": 0
+      },
+      {
+        "contributorid": 4635,
+        "lastname": "Jorgensen",
+        "firstname": "Jeffrey L.",
+        "initials": "",
+        "email": "",
+        "roleid": 184,
+        "position": 0
+      }
+    ]
+  }
+]

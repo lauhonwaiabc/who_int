@@ -1,0 +1,45 @@
+[
+  {
+    "pkroleId": 166,
+    "bookId": "51",
+    "roleid": 189,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2269,
+        "lastname": "Schmitt",
+        "firstname": "Fernando",
+        "initials": "",
+        "email": "",
+        "roleid": 189,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 168,
+    "bookId": "51",
+    "roleid": 191,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3644,
+        "lastname": "Field",
+        "firstname": "Andrew S.",
+        "initials": "AS",
+        "email": "",
+        "roleid": 191,
+        "position": 0
+      },
+      {
+        "contributorid": 4180,
+        "lastname": "Qian",
+        "firstname": "Xiaohua",
+        "initials": "",
+        "email": "",
+        "roleid": 191,
+        "position": 0
+      }
+    ]
+  }
+]

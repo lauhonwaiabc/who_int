@@ -1,0 +1,70 @@
+[
+  {
+    "pkroleId": 194,
+    "bookId": "87",
+    "roleid": 295,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2609,
+        "lastname": "Fisher",
+        "firstname": "Cyril",
+        "initials": "",
+        "email": "",
+        "roleid": 295,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 195,
+    "bookId": "87",
+    "roleid": 296,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2406,
+        "lastname": "Wang",
+        "firstname": "Jian",
+        "initials": "",
+        "email": "",
+        "roleid": 296,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 196,
+    "bookId": "87",
+    "roleid": 297,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2408,
+        "lastname": "Hisaoka",
+        "firstname": "Masanori",
+        "initials": "",
+        "email": "",
+        "roleid": 297,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 197,
+    "bookId": "87",
+    "roleid": 298,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2421,
+        "lastname": "Mentzel",
+        "firstname": "Thomas D.W.",
+        "initials": "",
+        "email": "",
+        "roleid": 298,
+        "position": 0
+      }
+    ]
+  }
+]

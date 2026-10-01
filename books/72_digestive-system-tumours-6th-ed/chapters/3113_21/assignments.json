@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 185,
+    "bookId": "72",
+    "roleid": 266,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2038,
+        "lastname": "Montgomery",
+        "firstname": "Elizabeth A.",
+        "initials": "EA",
+        "email": "",
+        "roleid": 266,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 186,
+    "bookId": "72",
+    "roleid": 279,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2027,
+        "lastname": "Rugge",
+        "firstname": "Massimo",
+        "initials": "M",
+        "email": "",
+        "roleid": 279,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "pkroleId": 187,
+    "bookId": "72",
+    "roleid": 280,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2035,
+        "lastname": "Lauwers",
+        "firstname": "Gregory",
+        "initials": "GY",
+        "email": "",
+        "roleid": 280,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 188,
+    "bookId": "72",
+    "roleid": 281,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2037,
+        "lastname": "Sekine",
+        "firstname": "Shigeki",
+        "initials": "S",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 2161,
+        "lastname": "van der Post",
+        "firstname": "Rachel ",
+        "initials": "RS",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 5533,
+        "lastname": "Langner",
+        "firstname": "Cord",
+        "initials": "C",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 5539,
+        "lastname": "Gullo",
+        "firstname": "Irene",
+        "initials": "I",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 5563,
+        "lastname": "Ushiku",
+        "firstname": "Tetsuo",
+        "initials": "T",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      }
+    ]
+  }
+]

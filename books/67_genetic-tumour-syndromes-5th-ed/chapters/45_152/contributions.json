@@ -1,0 +1,22 @@
+[
+  {
+    "pkheadingid": 1173,
+    "bookid": 67,
+    "headingType": 1,
+    "headingTitle": " ",
+    "headingPosition": 1,
+    "headingid": 794,
+    "contributions": [
+      {
+        "pkcontributionId": 158941,
+        "bookId": 67,
+        "chapterId": 152,
+        "headingId": 794,
+        "headingText": "<p>Non-homologous end joining (NHEJ) repairs double-strand breaks in DNA. It is called non-homologous because the ends of the DNA are directly ligated without the need for a homologous template, in contrast to homologous recombination repair, which needs a homologous sequence to guide repair. In NHEJ, the guide is provided by short overhanging DNA sequences (microhomologies), but if these are insufficient, imprecise repair leading to loss of nucleotides may occur, leading to DNA alterations such as deletions, translocations, and telomere fusion, hallmarks of carcinogenesis. NHEJ is active in both non-dividing and proliferating cells, whereas homologous recombination repair is active mostly in dividing cells.</p>\r\n<p>NHEJ-mediated tumour predisposition syndromes are therefore well recognized. Ataxia&ndash;telangiectasia is caused by biallelic loss-of-function <em>ATM</em> variants {9887333;10817650}. ATM phosphorylates critical protein substrates including p53 and BRCA1 {9733514;9733515} and plays a major role in controlling genome stability, cell cycle&ndash;checkpoint signalling, and apoptosis. Loss of ATM function leads to defective DNA repair, chromosomal instability {1196376}, and sensitivity to ionizing radiation and agents that cause DNA double-strand breaks, producing deregulation of multiple pathways.</p>\r\n<p>Initially recognized as a breast cancer susceptibility syndrome, <em>CHEK2</em>-related hereditary cancer predisposition syndrome results in a general dislocation of NHEJ owing to disruption of DNA repair and consequent accumulation of genetic events that contribute to carcinogenesis in the breast and other sites.</p>\r\n<p>Nijmegen breakage syndrome is caused by biallelic variants in <em>NBN</em>, encoding the NBN protein, a non-catalytic component of the MRN complex, involved in ATM-dependent DNA damage signalling regulation, thereby affecting critical processes such as DNA damage&ndash;induced apoptosis and cell cycle&ndash;checkpoint activation as well as the replication stress response {15279770;35164800}. This leads to lymphoma and other solid tumour formation.</p>",
+        "timestamp": "2026-09-02T11:51:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

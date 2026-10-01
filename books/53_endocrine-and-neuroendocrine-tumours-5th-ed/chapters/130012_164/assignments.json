@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 149,
+    "bookId": "53",
+    "roleid": 173,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 173,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 150,
+    "bookId": "53",
+    "roleid": 174,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2004,
+        "lastname": "Lax",
+        "firstname": "Sigurd F.",
+        "initials": "",
+        "email": "",
+        "roleid": 174,
+        "position": 0
+      },
+      {
+        "contributorid": 3029,
+        "lastname": "Sobrinho-Simoes",
+        "firstname": "Manuel",
+        "initials": "",
+        "email": "",
+        "roleid": 174,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 151,
+    "bookId": "53",
+    "roleid": 175,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3762,
+        "lastname": "de Kock",
+        "firstname": "Leanne",
+        "initials": "",
+        "email": "",
+        "roleid": 175,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 152,
+    "bookId": "53",
+    "roleid": 176,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2001,
+        "lastname": "Gill",
+        "firstname": "Anthony J.",
+        "initials": "AJ",
+        "email": "",
+        "roleid": 176,
+        "position": 0
+      },
+      {
+        "contributorid": 2816,
+        "lastname": "Mete",
+        "firstname": "Ozgur",
+        "initials": "",
+        "email": "",
+        "roleid": 176,
+        "position": 0
+      },
+      {
+        "contributorid": 2862,
+        "lastname": "Foulkes",
+        "firstname": "William D.",
+        "initials": "WD",
+        "email": "",
+        "roleid": 176,
+        "position": 0
+      },
+      {
+        "contributorid": 2997,
+        "lastname": "Nosé",
+        "firstname": "Vania",
+        "initials": "V",
+        "email": "",
+        "roleid": 176,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "pkroleId": 121,
+    "bookId": "50",
+    "roleid": 164,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4172,
+        "lastname": "Weynand",
+        "firstname": "Birgit",
+        "initials": "",
+        "email": "",
+        "roleid": 164,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 123,
+    "bookId": "50",
+    "roleid": 166,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4394,
+        "lastname": "Tanaka",
+        "firstname": "Mariko",
+        "initials": "M",
+        "email": "",
+        "roleid": 166,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 124,
+    "bookId": "50",
+    "roleid": 167,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2069,
+        "lastname": "Zen",
+        "firstname": "Yoh",
+        "initials": "Y",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      },
+      {
+        "contributorid": 4144,
+        "lastname": "Layfield",
+        "firstname": "Lester",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      }
+    ]
+  }
+]

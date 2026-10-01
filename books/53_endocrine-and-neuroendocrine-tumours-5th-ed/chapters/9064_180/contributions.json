@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123652,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 607,
+        "headingText": "\r\n<p>Granular cell tumour is most probably of Schwannian origin and is composed of epithelioid to polygonal cells with abundant granular cytoplasm due to lysosomal accumulation.</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123653,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 608,
+        "headingText": "\r\n<p>9580/0 Granular cell tumour, NOS</p>\r\n<p>9580/3 Granular cell tumour, malignant</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123654,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 609,
+        "headingText": "\r\n<p>2F37.Y &amp; XH09A9 Other specified benign neoplasm of endocrine glands &amp; Granular cell tumour, NOS</p>\r\n<p>2D12.Y &amp; XH90D3 Other specified malignant neoplasms of other endocrine glands or related structures &amp; Granular cell tumour, malignant</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123655,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Not recommended:</em> granular cell schwannoma; granular cell nerve sheath tumour; granular cell myoblastoma; Abrikossoff tumour.</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123656,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 611,
+        "headingText": "\r\n<p>Malignant granular cell tumour (see the <em>Soft tissue and bone tumours</em> volume of this series [[WHO Classification of Tumours Editorial Board. Soft tissue and bone tumours. Lyon (France): International Agency for Research on Cancer; 2020. (WHO classification of tumours series, 5th ed.; vol. 3). https://publications.iarc.who.int/588.]])</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123657,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 612,
+        "headingText": "\r\n<p>Granular cell tumours within endocrine organs are extremely rare. Roughly a dozen cases have been reported in the thyroid gland {32669088}, with even fewer cases in the pancreas {30036783}.</p>\r\n<p>For granular cell tumour of the sellar region, which arises from pituicytes, please refer to <a style=\"cursor:pointer\" href=\"/chaptercontent/53/22\" target=\"_blank\">section </a><em>Pituicytomas</em> .</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123658,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 613,
+        "headingText": "\r\n<p>Although usually asymptomatic, clinically and on imaging they may mimic malignancies within the thyroid and pancreas, including neuroendocrine tumours (NETs). A single thyroid case has recurred {32669088}, and 1&nbsp;pancreatic example was multicentric, with a second tumour found in the caecum {30036783}.</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123659,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 614,
+        "headingText": "\r\n<p>Nearly all reported cases of granular cell tumour of the thyroid have occurred in young women {32669088}. Pancreatic examples show a similar female predominance {29380119}.</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123660,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 615,
+        "headingText": "\r\n<p>Multiple granular cell tumours have been reported in association with various RASopathy syndromes, such as neurofibromatosis type&nbsp;1, Noonan syndrome, and LEOPARD syndrome (multiple lentigines, electrocardiographic conduction abnormalities, ocular hypertelorism, pulmonic stenosis, abnormal genitalia, retardation of growth, and sensorineural deafness) {11045593; 19054014; 20537083; 18577039}.</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123661,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 616,
+        "headingText": "\r\n<p>Pathognomonic loss-of-function mutations affecting the V-ATPase accessory genes, <em>ATP6AP1</em> (61%) and <em>ATP6AP2</em> (11%), are found in 72% of granular cell tumours collectively {30166553; 30597645}. These genes play pivotal roles in endosomal pH regulation {30166553}. Granular cell tumours lacking mutations in these genes have been reported to harbour mutations affecting other V-ATPase&ndash;related genes {30597645}. Inactivation of either <em>ATP6AP1</em> or <em>ATP6AP2</em> in Schwann cells leads to the accumulation of intracytoplasmic granules that are characteristic of granular cell tumour.</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123662,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 623,
+        "headingText": "\r\n<p>Granular cell tumours are unencapsulated, uninodular, firm masses with a yellowish, finely granular texture on cut surface.</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123663,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 617,
+        "headingText": "<p>Granular cell tumour has poorly defined borders with sheets, nests, and trabeculae of large, monotonous epithelioid to polygonal cells with intensely eosinophilic, granular cytoplasm due to massive lysosomal accumulation. They often infiltrate retained normal structures, including those of the thyroid and pancreas. A syncytial appearance may be seen, due to indistinct cell borders. Nuclei are usually centrally situated and range from uniformly small and mildly hyperchromatic to larger and vesicular with distinct nucleoli. Mitoses are typically inconspicuous.</p>\r\n<p>Histological features associated with malignancy include increased cellularity, prominent spindling, high N:C&nbsp;ratios, vesicular nuclei with prominent nucleoli, marked pleomorphism, increased mitotic activity (&gt;&nbsp;2&nbsp;mitoses/2&nbsp;mm<sup>2</sup>), and geographical necrosis {9669341; 21815590; 15634442}.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>Granular cell tumours are generally immunoreactive for S100, SOX10, nestin, inhibin, and calretinin {16487364; 24746209}. Tumours are also positive for CD68, CD63 (NKI/C3 clone), and NSE {8878020}.</p>",
+        "timestamp": "2024-10-09T15:40:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123664,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 618,
+        "headingText": "\r\n<p>In FNA samples, the characteristic granular cytoplasm and bland nuclei are useful, although carcinomas and histiocytic processes remain in the differential.</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123665,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 619,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123666,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> nests and sheets of epithelioid to polygonal cells with abundant, intensely eosinophilic, granular cytoplasm; positivity for S100 and SOX10 by immunohistochemistry.</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123667,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 620,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123668,
+        "bookId": 53,
+        "chapterId": 180,
+        "headingId": 621,
+        "headingText": "\r\n<p>All of the reported granular cell tumours of the thyroid and pancreas have been both pathologically and clinically benign. Recurrences are exceedingly rare {32669088}.</p>",
+        "timestamp": "2024-10-09T15:39:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

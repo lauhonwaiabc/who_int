@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 118450,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Childhood myelodysplastic neoplasm with low blasts (cMDS-LB) is a myeloid neoplasm with cytopenia and dysplasia arising in children and adolescents (&le;&nbsp;18&nbsp;years of age), defined by &lt;&nbsp;5% bone marrow blasts and &lt;&nbsp;2% peripheral blood blasts.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 118451,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 702,
+        "headingText": "<p>9985/3 Childhood myelodysplastic neoplasm with low blasts</p>\r\n<p>9985/3 Childhood myelodysplastic neoplasm with low blasts, hypocellular</p>\r\n&nbsp;",
+        "timestamp": "2024-03-18T16:41:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 118452,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A38 Refractory cytopenia of childhood</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 118453,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Acceptable:</em> refractory cytopenia of childhood.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 118454,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>cMDS-LB-NOS; cMDS-LB, hypocellular</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 118455,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>Bone marrow and peripheral blood</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 118456,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 707,
+        "headingText": "<p>The clinical symptoms of a myelodysplastic neoplasm (MDS) in children are similar to those in adults, typically reflecting the underlying cytopenia(s), including anaemia, infections, and bleeding tendency.</p>\r\n<p>Some cases of cMDS-LB represent dysplastic progression in inherited bone marrow failure syndromes (BMFSs) (Fanconi anaemia, dyskeratosis congenita, amegakaryocytic thrombocytopenia, thrombocytopenia with absent radii, Seckel syndrome) or genetic germline predisposition syndromes such as those related to germline <em>RUNX1</em>, <em>ETV6</em>, <em>GATA2</em>, <em>SAMD9</em>, or <em>SAMD9L</em> mutations {7658725; 25682607; 29146900; 26702063; 27876779; 29146883; 28659335}. Thus, congenital malformations and familial aggregation may be present and point to a constitutional origin, such as Fanconi anaemia, but some children with apparent de&nbsp;novo MDS may actually have a constitutional haemopathy, with absent or inconspicuous extra-haematological signs.</p>\r\n&nbsp;",
+        "timestamp": "2024-05-07T15:54:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 118457,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>cMDS-LB is the most common type of childhood MDS, accounting for &gt;&nbsp;60% of all cases {12780790; 22160017; 26939774}, with an annual incidence of 1&ndash;2&nbsp;cases per 1&nbsp;million children {10520007; 7658725}. cMDS-LB occurs in both sexes with similar frequency.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 118458,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>Although the etiology is mostly unknown, some cases have germline mutations associated with BMFSs {34304779; 7658725; 25682607} or a predisposition to myeloid neoplasia {29146900; 26702063; 27876779; 29146883}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 118459,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 710,
+        "headingText": "\r\n\r\n<p>Many cases arise from genetic predisposition conditions (see <a style=\"cursor:pointer\" href=\"/chaptercontent/63/28\" target=\"_blank\">section </a><em>Myeloid neoplasms associated with germline predisposition</em>) and immune dysregulation disorders such as aplastic anaemia. These conditions cause bone marrow insufficiency and chromosomal instability, and they impart a selective advantage to haematopoietic clones harbouring somatic genetic alterations that promote cell proliferation. Myelodysplastic clones suppress normal haematopoiesis, leading to cytopenias, and acquire additional somatic genetic abnormalities over a variable time period, with eventual development of acute myeloid leukaemia (AML) {26492932; 26702063; 28659335; 30046003; 29535429}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 118460,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 118461,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 711,
+        "headingText": "<p>Dysplastic features manifesting in peripheral blood and bone marrow smears are similar to those seen in other MDS types.</p>\r\n<p>Approximately 80% of cMDS-LB cases present with hypocellular bone marrow (often as low as 5&ndash;10% of the age-appropriate cellularity) and show morphological overlap with severe aplastic anaemia (SAA) {22458667; 22562435}. The European Working Group of Myelodysplastic Syndrome (EWOG-MDS) proposed that careful morphological bone marrow examination of erythroid precursors, myeloid cells, and megakaryocytes (the latter using immunohistochemistry for CD41 or CD61) can distinguish hypocellular cMDS-LB from SAA (see <a style=\"cursor:pointer\" href=\"/attachment/63/272/33784\" target=\"_blank\">#33784</a>Table&nbsp;2.12) {22458667}. Cases with hypercellular and normocellular bone marrow show a slight to moderate increase in erythropoiesis, with frequent multilineage dysplasia {30062702; 34729770}. Reticulin fibrosis is usually absent. Abnormal localization of immature haematopoietic precursors can be also seen in cMDS-LB but appears to be more frequent in hypercellular and normocellular cases {29998978}. The bone marrow of children with BMFS and recovering SAA can be difficult to distinguish from that of children with hypocellular cMDS-LB.</p>\r\n\r\n<h5>Immunophenotype</h5>\r\n\r\n<p>Flow cytometry analysis shows asynchronous maturation of antigen expression and lineage infidelity antigen expression on blasts, but many of the abnormalities can be seen in SAA, albeit at lower frequencies. Aberrant expression of CD56 or CD7 is usually absent in SAA {25425683} and, combined with a higher number of immunophenotype abnormalities, may aid in supporting a diagnosis of cMDS-LB {25425683; 27748021; 29659673}. However, aberrant flow cytometry parameters that are useful for identifying adult MDS and cMDS with increased blasts {19546439; 22307178; 19061215} have not been found to be as useful in cMDS-LB, because of an overlap with age-dependent changes and other conditions such as SAA and predisposing germline mutations without MDS or AML {2542568; 26800764; 25402872; 23493026; 28659335}.</p>\r\n<p>A subset of patients with cMDS-LB have immunophenotypic abnormalities associated with the presence of small paroxysmal nocturnal haemoglobinuria clones {23807769; 34301409}.</p>\r\n\r\n<h5>Differential diagnosis</h5>\r\n\r\n<p>The diagnosis of cMDS-LB may be difficult, and additional tools to refine the diagnosis of this disease are still needed. Bone marrow changes seen in children with BMFS and recovering SAA can be difficult to distinguish from hypocellular cMDS-LB. Some cMDS-LB cases have MDS-associated cytogenetic abnormalities (e.g. 7q&nbsp;deletion, monosomy&nbsp;7, or less commonly, 5q&nbsp;deletion), but the majority have a normal karyotype or abnormalities not diagnostic for progression to MDS {12763938; 22160017}.</p>\r\n<p>A set of bone marrow morphological features was proposed by EWOG-MDS to distinguish hypocellular cMDS-LB from SAA (see <a style=\"cursor:pointer\" href=\"/attachment/63/272/33784\" target=\"_blank\">#33784</a>Table&nbsp;2.12) {22458667}. Using these criteria, diagnostic concordance was 76% among seven pathologists. A similar or lower concordance {32000075} and an inconsistent clinical course were seen by others {32000075; 25580823; 26273061; 24894311}.</p>\r\n<p>Some BMFSs, such as Fanconi anaemia, may show morphological alterations in haematopoiesis, complicating the differential diagnosis between changes resulting from only the germline mutation and those resulting from subsequent MDS development. Thus, interpretation of morphological changes may be integrated with the germline mutation to establish a diagnosis of cMDS-LB. For example, patients with <em>GATA2</em>-related MDS have hypocellular marrow with increased dysplastic megakaryocytes and frequent reticulin fibrosis, whereas asymptomatic family members with <em>GATA2</em>&nbsp;mutation have normal marrow {25359990}. In contrast, Fanconi anaemia can show cMDS-LB bone marrow findings and can acquire an additional chromosome&nbsp;1q without fulfilling the diagnostic criteria for MDS {21325596}.</p>\r\n<p>Without MDS-defining chromosomal or genetic abnormalities, exclusion of non-neoplastic causes of cytopenia (e.g. infections, nutritional deficiencies, metabolic diseases, BMFSs, and germline mutations) remains an essential diagnostic criterion for both subtypes of cMDS-LB, hypoplastic and NOS {12592323; 19951977; 23043447; 29998978}. Criteria have been proposed for diagnosing MDS in individuals with familial platelet disorder with a propensity for myeloid malignancy and germline <em>RUNX1</em> mutations {28659335}. Additional studies are needed to validate these criteria and establish minimum diagnostic criteria for cMDS-LB in individuals with germline predisposition to myeloid neoplasia.</p>\r\n<p>cMDS-LBs arising after exposure to cytotoxic therapy for unrelated conditions are classified as myeloid neoplasms post cytotoxic therapy (see <a style=\"cursor:pointer\" href=\"/chaptercontent/63/27\" target=\"_blank\">section </a><em>Myeloid neoplasm post cytotoxic therapy</em>).</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T15:25:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 118462,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>See <em>Histopathology</em>, above.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 118463,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>Monosomy&nbsp;7 is the most common cytogenetic abnormality in cMDS-LB across the bone marrow cellularity spectrum {12763938; 22160017}. Trisomy&nbsp;8, complex karyotype, and other chromosomal alterations can also be present {24894311; 29146900}, with karyotype evolution suggestive of disease progression {12763938}.</p>\r\n<p>Recurrent somatic alterations such as in <em>SETBP1</em> may co-occur with monosomy&nbsp;7. Somatic variants typically associated with MDS in older patients (spliceosome complex genes, <em>TET2</em>, <em>DNMT3A</em>, or <em>TP53</em>) are usually absent {27876779; 22238327; 29146900}. Molecular germline analysis can detect <em>GATA2</em> deficiency and <em>SAMD9</em> or <em>SAMD9L</em> disorders, which are mutually exclusive and frequently cause cMDS-LB, often with monosomy&nbsp;7 {34621053; 29146900}. Other germline predispositions (BMFSs, germline predisposition syndromes) can be detected.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 118464,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> cytopenia involving one or more lineages; dysplasia involving one or more lineages; &lt;&nbsp;5% bone marrow blasts and &lt;&nbsp;2% peripheral blood blasts; meeting at least one of the following two criteria: (1)&nbsp;detection of clonal cytogenetic and/or molecular abnormality, (2)&nbsp;exclusion of other causes of cytopenia (non-neoplastic and some germline mutations); in cases with hypocellular bone marrow: meeting morphological criteria for cMDS-LB, hypocellular (see <a style=\"cursor:pointer\" href=\"/attachment/63/272/33784\" target=\"_blank\">#33784</a>Table&nbsp;2.12).</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 118465,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 118466,
+        "bookId": 63,
+        "chapterId": 272,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>Currently, karyotype is the best prognostic indicator of progression to advanced MDS/AML. Monosomy&nbsp;7 MDSs arising in children aged &lt;&nbsp;5&nbsp;years with <em>SAMD9L</em> germline mutations may exhibit spontaneous resolution {34621053}. However, in general, cMDS-LB and monosomy&nbsp;7, 7q&nbsp;deletion, or complex karyotype are expected to progress to AML and are typically treated with haematopoietic stem cell transplantation {29438960; 26702063}. Patients with normal karyotype or trisomy&nbsp;8 can have stable disease {21554264}. Bone marrow morphology findings, particularly increasing blast percentage, dysgranulopoiesis, or dysmegakaryopoiesis, are harbingers of disease progression in some cases {20023263; 29998978}.</p>\r\n<p>The prognostic impact of bone marrow cellularity and the number of dysplastic lineages remains unclear, but recent publications suggest that there is an increased incidence of progression in cases with multilineage dysplasia {30062702; 24894311; 26273061; 34729770}.</p>",
+        "timestamp": "2024-03-01T12:14:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

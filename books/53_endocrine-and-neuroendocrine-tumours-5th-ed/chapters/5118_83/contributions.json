@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123276,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 607,
+        "headingText": "\r\n<p>Other pancreatic neuroendocrine tumours (PanNETs) with ectopic hormone production are defined as well-differentiated PanNETs producing hormones that are not eutopic to the pancreas.</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123277,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 608,
+        "headingText": "\r\n<p>8158/3 ACTH-producing tumour</p>\r\n<p>8158/3 Calcitonin-producing pancreatic neuroendocrine tumour</p>\r\n<p>8158/3 CRH-producing pancreatic neuroendocrine tumour</p>\r\n<p>8158/3 Cholecystokinin-producing pancreatic neuroendocrine tumour</p>\r\n<p>8158/3 Erythropoietin-producing pancreatic neuroendocrine tumour</p>\r\n<p>8272/3 GH-producing tumour</p>\r\n<p>8158/3 GHRH-producing pancreatic neuroendocrine tumour</p>\r\n<p>8158/3 Ghrelin-producing pancreatic neuroendocrine tumour</p>\r\n<p>8272/3 Gonadotropin-producing tumour</p>\r\n<p>8158/3 PTH/PTHrP-producing pancreatic neuroendocrine tumour</p>\r\n<p>8158/3 Vasopressin-producing pancreatic neuroendocrine tumour</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123278,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 609,
+        "headingText": "\r\n<p>2C10.1 &amp; XH7AG8 Neuroendocrine neoplasms of pancreas &amp; ACTH-producing tumour</p>\r\n<p>(No ICD-11 codes for the other subtypes)</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123279,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> ectopic hormone&ndash;producing PanNET.</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123280,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 611,
+        "headingText": "\r\n<p>ACTH-producing tumour; calcitonin-producing PanNET; CRH-producing PanNET; CCK-producing PanNET; erythropoietin-producing PanNET; growth hormone&ndash;producing tumour; GHRH-producing PanNET; ghrelin-producing PanNET; gonadotropin-producing tumour; PTH/PTHrP-producing PanNET; vasopressin-producing PanNET</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123281,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 612,
+        "headingText": "\r\n<p>There is no site predilection.</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123282,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 613,
+        "headingText": "\r\n<p>Rare PanNETs with ectopic hormone secretion produce endocrine syndromes that are not expected from the pancreas. Patients may develop some or all of the symptoms of the syndrome. In the commonest scenario, PanNETs producing ACTH and/or CRH cause Cushing syndrome {17286228; 25291050; 25353285; 26202047}; approximately 40% of patients develop Zollinger&ndash;Ellison syndrome and 5% may develop inappropriate insulin secretion [[WHO Classification of Tumours Editorial Board. Digestive system tumours. Lyon (France): International Agency for Research on Cancer; 2019. (WHO classification of tumours series, 5th ed.; vol. 1). https://publications.iarc.who.int/579.]] {2872593; 6097131}. PanNETs expressing and secreting PTH or PTHrP may cause hypercalcaemia {3082066; 12509695; 17188588; 22319031; 23358529; 24905065}. PTH is ectopic, whereas PTHrP is not {2691879}; however, clinical manifestation of hormone excess is unusual, because it requires gene de-repression to cause clinically relevant hypersecretion. PanNETs with growth hormone or GHRH production cause acromegaly {2981107; 8416728; 9253362; 20713338; 21963237; 23542451; 34156350}. Although calcitonin expression in PanNETs is common {29063495}, it is often not associated with a well-defined endocrine syndrome; rare patients may present with diarrhoea and hypercalcaemia {9598818; 21178652; 26671974; 31900071}, but the presentation may be complicated by plurihormonal ectopic secretion with other causes of diarrhoea such as carcinoid syndrome or Zollinger&ndash;Ellison syndrome, and it is often associated with Cushing syndrome {6107042; 9598818; 17188588; 21178652; 22406608; 26671974}.</p>\r\n<p>Even more rare endocrine syndromes attributed to PanNETs include only a few reported cases. These include persistent steatorrhoea, weight loss, and gallstones combined with peptic ulcer disease due to CCK excess in the absence of other elevated hormones (cholecystokininoma syndrome) {27191542; 25905295}; hyponatraemia due to vasopressin excess (syndrome of inappropriate antidiuresis [SIAD]) {28718084}; erythroblastosis due to erythropoietin secretion {15169813}; ovarian hyperstimulation due to FSH excess {25706853}; and masculinization due to LH excess {15233557; 15687346}. An exceptional case of a ghrelin-secreting PanNET manifesting with a 50-fold increase of circulating ghrelin levels and no associated growth hormone&nbsp;/ IGF1 abnormality has also been reported {12843152}.</p>\r\n<p>Ectopic hormone production may evolve during progression of the PanNET {10076790; 17286228; 28718084}; it may even be seen in recurrences or metastases after an initial diagnosis of non-functioning PanNET {27746436; 28718084}.</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123283,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 614,
+        "headingText": "\r\n<p>The most common ectopic hormone&ndash;producing PanNET is the ACTH-secreting PanNET, and pancreatic primaries account for 10&ndash;15% of ectopic (i.e. non-pituitary, non-adrenal) Cushing syndrome cases {20032567; 21390554; 25353285; 26202047}. The tumours occur most frequently in young or middle-aged female patients (M:F&nbsp;ratio: 0.5:1). They can also occur in children {25291050}.</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123284,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 615,
+        "headingText": "\r\n<p>Except for extremely rare cases related to genetically transmitted syndromes, including multiple endocrine neoplasia type&nbsp;1 {6309881; 15251731; 23542451} and von Hippel&ndash;Lindau syndrome {25353285}, the etiology of these functioning PanNETs is unknown.</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123285,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 616,
+        "headingText": "\r\n<p>The pathogenesis is unknown. The factors involved in de-repression with aberrant hormone expression and secretion remain to be determined.</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123286,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 623,
+        "headingText": "\r\n<p>The gross features of these ectopic hormone&ndash;producing PanNETs are not distinctive.</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123287,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 617,
+        "headingText": "<p>PanNETs with ectopic hormone production are often indistinguishable from other PanNETs.</p>\r\n<h6><em>Grading</em></h6>\r\n<p>They are well differentiated {25353285}, and most are G2&nbsp;tumours.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>Immunolabelling for the neuroendocrine biomarkers and hormones can be focal or diffuse, and other related or diverse peptide hormones may also be detected. For example, all ACTH-producing PanNETs label for chromogranin&nbsp;A and synaptophysin, as well as for the ACTH precursor protein POMC and the various hormones that are cleaved from POMC, such as MSH (melanotropin), &beta;-endorphin, and met-enkephalin {14971736; 20544290; 25353285; 32903471}. These tumours may also be positive for SSTR2A {6257006; 10448463; 10987254; 22406608; 31714276}.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>PanNETs with ectopic hormone production should be distinguished from pancreatic paragangliomas with aberrant hormone expression and from metastatic neuroendocrine tumours (NETs). A lack of reactivity for keratins (AE1/AE3, CAM5.2) and reactivity for GATA3 and tyrosine hydroxylase can help distinguish paragangliomas. Metastatic NETs are distinguished using anatomical site and/or cell lineage&ndash;specific transcription factors and hormones, like in other organs.</p>",
+        "timestamp": "2024-10-09T14:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123288,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 618,
+        "headingText": "\r\n<p>The cytology is the same as that of other PanNETs.</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123289,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 619,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123290,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> a keratin-positive PanNEN (PanNET); immunohistochemical expression of keratin, neuroendocrine markers, and ectopic hormones; Ki-67 immunohistochemistry.</p>\r\n<p><em>Desirable:</em> elevated circulating levels of the ectopic hormone and symptoms of the related endocrine syndrome.</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123291,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 620,
+        "headingText": "\r\n<p>The pathological staging of PanNETs with ectopic hormone production, like that of all PanNETs, is based on the eighth edition (2017) of the Union for International Cancer Control (UICC) and American Joint Committee on Cancer (AJCC) TNM classification.</p>\r\n",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123292,
+        "bookId": 53,
+        "chapterId": 83,
+        "headingId": 621,
+        "headingText": "\r\n<p>The prognosis of PanNETs with ectopic hormone production depends on the grading and staging of the tumour. However, most patients present with metastases at the time of diagnosis or develop distant metastases during follow-up, and their prognosis is poor {32785672}. For example, the 5- and 10-year survival rates of ectopic ACTH-producing PanNETs are 35% and 16%, respectively {25353285}. Cases positive for SSTR2 may respond to somatostatin analogue therapy and peptide receptor radionuclide therapy (PRRT) {12803233; 20032567; 22406608; 27635672; 31714276}.</p>\r\n<p>(Poly)functioning PanNETs with multiple clinical endocrine syndromes can be particularly aggressive {20544290; 25353285; 28718084}. The mean survival time after the appearance of the second endocrine syndrome is only 5&ndash;7&nbsp;months.</p>",
+        "timestamp": "2024-10-09T14:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

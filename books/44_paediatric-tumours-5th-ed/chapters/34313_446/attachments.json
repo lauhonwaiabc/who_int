@@ -1,0 +1,62 @@
+[
+  {
+    "pkattachmentId": 51253,
+    "bookid": 44,
+    "chapterId": 446,
+    "fileId": 36359,
+    "type": "Figure",
+    "diagnosis": "CNS embryonal tumour",
+    "title": "",
+    "legend": "Postcontrast, T1-weighted MRI showing a large, partly solid, partly cystic tumour in the left frontal lobe of an infant. This is the same patient of whom the histology and copy-number variation profile are shown in Fig.&nbsp;&lt;&lt;#36360&gt;&gt; and Fig.&nbsp;&lt;&lt;#36361&gt;&gt;.",
+    "source": "",
+    "copyright": "Wesseling&nbsp;P",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/44/446/19717.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/44/446/thumb_19717.jpg"
+  },
+  {
+    "pkattachmentId": 51254,
+    "bookid": 44,
+    "chapterId": 446,
+    "fileId": 36360,
+    "type": "Figure",
+    "diagnosis": "CNS embryonal tumour",
+    "title": "",
+    "legend": "CNS embryonal tumour (from the same patient shown in Fig.&nbsp;&lt;&lt;#36359&gt;&gt;) consisting of densely packed, small, poorly differentiated cells with a high mitotic count. RNA sequencing revealed a <em>BRD4</em>::<em>CREBBP</em> fusion gene. Methylation profiling did not result in a match using the brain tumour classifier available at https://www.molecularneuropathology.org.",
+    "source": "",
+    "copyright": "Wesseling&nbsp;P",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/44/446/19718.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/44/446/thumb_19718.jpg"
+  },
+  {
+    "pkattachmentId": 51255,
+    "bookid": 44,
+    "chapterId": 446,
+    "fileId": 36361,
+    "type": "Figure",
+    "diagnosis": "CNS embryonal tumour",
+    "title": "",
+    "legend": "The copy-number variation profile of the tumour in Fig.&nbsp;&lt;&lt;#36359&gt;&gt; and Fig.&nbsp;&lt;&lt;#36360&gt;&gt; (derived from genome-wide methylome analysis) did not reveal large chromosomal gains or losses. The tumour was classified as CNS embryonal tumour not elsewhere classified (NEC).",
+    "source": "",
+    "copyright": "Wesseling&nbsp;P",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/44/446/19719.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/44/446/thumb_19719.jpg"
+  },
+  {
+    "pkattachmentId": 51487,
+    "bookid": 44,
+    "chapterId": 446,
+    "fileId": 23061,
+    "type": "Table",
+    "diagnosis": "",
+    "title": "<p>Diagnostic criteria for CNS embryonal tumour NEC/NOS</p>",
+    "legend": "",
+    "source": "",
+    "copyright": "Not necessary",
+    "tablehtml": "<table class=\"MsoTableGridLight\" style=\"width: 17.0cm; background: #DAEEF3; border-collapse: collapse; border: none; \" border=\"0\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr style=\" page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 17.0cm; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"643\">\r\n<p class=\"TableText\" style=\"margin: 2.25pt 0cm 2.25pt 0cm;\"><strong style=\"\"><em style=\"\">Essential:</em></strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\" page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 17.0cm; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"643\">\r\n<p class=\"TableText\" style=\"margin: 2.25pt 0cm 2.25pt 0cm;\">An embryonal tumour originating in the CNS</p>\r\n</td>\r\n</tr>\r\n<tr style=\" page-break-inside: avoid; height: 17.2pt;\">\r\n<td style=\"width: 17.0cm; padding: 0cm 5.4pt 0cm 5.4pt; height: 17.2pt;\" valign=\"top\" width=\"643\">\r\n<p class=\"TableText\" style=\"margin: 2.25pt 0cm 2.25pt 0cm;\"><strong style=\"\">AND</strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\" page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 17.0cm; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"643\">\r\n<p class=\"TableText\" style=\"margin: 2.25pt 0cm 2.25pt 0cm;\">Absence of criteria qualifying for the diagnosis of a more specific type of embryonal CNS tumour</p>\r\n</td>\r\n</tr>\r\n<tr style=\" page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 17.0cm; background: #EFF6FC; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"643\">\r\n<p class=\"TableText\" style=\"margin: 2.25pt 0cm 2.25pt 0cm;\"><strong style=\"\"><em style=\"\">Desirable:</em></strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\" page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 17.0cm; background: #EFF6FC; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"643\">\r\n<p class=\"TableText\" style=\"margin: 2.25pt 0cm 2.25pt 0cm;\">Focal expression of neuronal markers and absence of glial markers</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+    "imageUrl": null,
+    "thumbnail": null
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 103714,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 466,
+        "headingText": "<p>Acute myeloid leukaemias (AMLs) with defining genetic abnormalities are AMLs characterized by defined genetic alterations (gene fusions, gene rearrangements, and mutations).</p>",
+        "timestamp": "2023-05-09T15:27:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 103715,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 467,
+        "headingText": "<p>9866/3 Acute promyelocytic leukaemia with <em>PML</em>::<em>RARA</em> fusion</p>\r\n<p>9896/3 AML with <em>RUNX1</em>::<em>RUNX1T1</em> fusion</p>\r\n<p>9871/3 AML with <em>CBFB</em>::<em>MYH11</em> fusion</p>\r\n<p>9897/3 AML with <em>KMT2A</em> rearrangement</p>\r\n<p>9877/3 AML with <em>NPM1</em> mutation</p>\r\n<p>9869/3 AML with <em>MECOM</em> rearrangement</p>\r\n<p>9865/3 AML with <em>DEK</em>::<em>NUP214</em> fusion</p>\r\n<p>9911/3 AML with <em>RBM15</em>::<em>MRTFA</em> fusion</p>\r\n<p>9912/3 AML with <em>BCR</em>::<em>ABL1</em> fusion</p>\r\n<p>9861/3 AML with <em>NUP98</em> rearrangement</p>\r\n<p>9878/3 AML with <em>CEBPA</em> mutation</p>\r\n<p>9861/3 AML with&nbsp;<em>MNX1</em>::<em>ETV6</em> fusion</p>\r\n<p>9861/3 AML with <em>KAT6A</em>::<em>CREBBP</em> fusion</p>\r\n<p>9861/3 AML with <em>CBFA2T3</em>::<em>GLIS2</em> fusion</p>",
+        "timestamp": "2023-05-19T11:22:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 103716,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A60.0 Acute myeloid leukaemia with recurrent genetic abnormalities</p>\r\n",
+        "timestamp": "2022-07-08T15:08:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 103717,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Acceptable:</em> acute myelogenous leukaemia; acute myeloid leukaemia with recurrent genetic abnormalities.</p>\r\n",
+        "timestamp": "2022-07-08T15:08:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 103718,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 470,
+        "headingText": "<p>All the subtypes of AML with defining genetic abnormalities applicable to paediatric AML are summarized in <a style=\"cursor:pointer\" href=\"/attachment/44/468/19439\" target=\"_blank\">#19439</a>Table&nbsp;2.04 .</p>",
+        "timestamp": "2022-07-13T11:55:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 103719,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 471,
+        "headingText": "\r\n<p>Blood and bone marrow</p>\r\n",
+        "timestamp": "2022-07-08T15:08:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 103720,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 472,
+        "headingText": "\r\n<p>Patients present with acute leukaemia.</p>\r\n",
+        "timestamp": "2022-07-08T15:08:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 103721,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 473,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/chaptercontent/44/469\" target=\"_blank\">section </a><em>Acute myeloid leukaemias (AMLs) defined by differentiation</em> .</p>\r\n",
+        "timestamp": "2022-07-08T15:08:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 103722,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 474,
+        "headingText": "\r\n<p>Unlike in adult AML, where multiple cooperating mutations are required for malignant transformation, fusions may be sufficient for malignant transformation in paediatric AML (especially in infants). Evolution of somatic mutations in the background of fusions may impact disease pathogenesis and clinical outcome. See also <a style=\"cursor:pointer\" href=\"/chaptercontent/44/469\" target=\"_blank\">section </a><em>Acute myeloid leukaemias (AMLs) defined by differentiation</em> .</p>\r\n",
+        "timestamp": "2022-07-08T15:08:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 103723,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 475,
+        "headingText": "<p>Recurrent genetic alterations in paediatric AML may lead to differentiation arrest and/or induce cell proliferation. In addition, many of these alterations may impact epigenetic states.</p>\r\n<h5>AML with defining gene fusions</h5>\r\n<p>Balanced translocations and the resultant fusion transcripts are the defining genomic event in the pathogenesis of AML in these types. Because these fusions are considered disease-defining alterations, patients with AML-associated fusions should be diagnosed with AML regardless of the blast count in the bone marrow.</p>\r\n<h5>AML with KMT2A rearrangement</h5>\r\n<p>In children, this entity encompasses all AMLs with a verified rearrangement of <em>KMT2A</em> (<em>MLL</em>; located at 11q23), which is the most common genetic abnormality in childhood AML. <em>KMT2A</em> can have a variety of fusion partners, most commonly <em>MLLT3</em> and <em>MLLT10</em>, resulting from the translocations t(9;11)(p22;q23) and t(10;11)(p12;q23), respectively (see <a style=\"cursor:pointer\" href=\"/attachment/44/468/19440\" target=\"_blank\">#19440</a>Table&nbsp;2.05). Determination of the fusion partner can have prognostic implications and provides an opportunity for molecular monitoring. Patients with AML with <em>KMT2A</em> fusion often present with hyperleukocytosis, especially in cases with t(6;11)(q27;q23), t(11;17)(q23;q21), and t(11;19)(q23;p13) alterations. There is a marked age-based variation in <em>KMT2A</em> fusions, with &gt;&nbsp;50% prevalence in infants and 10% in adolescents, and some rare variants are uniquely observed in infants. Among <em>KMT2A</em> fusions, the median age of onset is higher in t(6;11)(q27;q23) cases (12.4&nbsp;years) and in t(11;17)(q23;q21) cases (9.0&nbsp;years) {19528532; 29806701}. For AML with <em>KMT2A</em> fusion, the prognostic impact depends on the fusion partner (see <a style=\"cursor:pointer\" href=\"/attachment/44/468/19440\" target=\"_blank\">#19440</a>Table&nbsp;2.05).</p>\r\n<h5>AML with ETV6 fusion</h5>\r\n<p>This is a rare recurrent entity that is primarily seen in infants and young children. <em>MNX1</em>::<em>ETV6</em> resulting from the translocation t(7;12)(q36;p13) is the most frequently diagnosed fusion, but a number of other fusion partners have been implicated in AML. Some can be cryptic and the frequency of this abnormality may therefore be underestimated. The translocation t(7;12), but not other <em>ETV6</em> fusions, is almost always associated with trisomy&nbsp;19, and detection of this abnormality should raise its suspicion. Although the prognostic significance of <em>ETV6</em> fusions has not been definitively established, Children&rsquo;s Oncology Group (COG) studies have demonstrated adverse outcomes in patients with <em>ETV6</em> fusions and other 12p abnormalities {29569294; 29227476}.</p>\r\n<h5>AML with KAT6A::CREBBP fusion</h5>\r\n<p>This rare entity with t(8;16)(p11.2;p13.3) constitutes 0.5% of paediatric AML cases. It can occur at any age, but the peak incidence is in the neonatal period. It manifests as acute monoblastic/monocytic leukaemia and is frequently associated with erythrophagocytosis (70% of cases), leukaemia cutis (58%), and disseminated intravascular coagulation (39%). Like in transient abnormal myelopoiesis in Down syndrome, spontaneous remission may occur in children diagnosed in the early neonatal period. Some cases with spontaneous remission subsequently relapse. Other fusion partners to <em>KAT6A</em> have been reported, including <em>EP300</em> in translocation t(8;22)(p11.1;q13) {23974201}.</p>\r\n<h5>AML with RBM15::MRTFA fusion</h5>\r\n<p>This subtype of AML is described in the WHO classification of haematolymphoid tumours. Cases are defined by karyotype-based evidence of t(1;22)(p13.3;q13.1) or molecular confirmation of in-frame fusion between <em>RBM15</em> (alias: one twenty-two or <em>OTT</em>) at 1p13.3 and <em>MRTFA</em> (formerly <em>MKL1</em>) at 22q13.1.</p>\r\n<h5>AML with CBFA2T3::GLIS2 fusion</h5>\r\n<p>This form of AML constitutes 3% of paediatric AML cases and 8% of cytogenetically normal AML cases. It is always diagnosed before 5&nbsp;years of age, and the highest incidence is during infancy (mostly as acute megakaryoblastic leukaemia, but all morphological subtypes are represented and associated with an adverse outcome). In non&ndash;Down syndrome acute megakaryoblastic leukaemia, the cryptic inv(16)(p13q24) is present in 16&ndash;30% of cases. The leukaemic cells commonly show the RAM phenotype with overexpression of CD56 (NCAM1) and underexpression of HLA-DR and CD38 {27133823; 30592296}. Concomitant cytogenetic abnormalities are uncommon, and cases usually have few somatic mutations {31294507; 23045605; 23153540; 28112737}.</p>\r\n<h5>AML with NUP98 rearrangement</h5>\r\n<p><em>NUP98</em> is involved in several recurring cryptic fusions in AML at a frequency of 5&ndash;9% (see <a style=\"cursor:pointer\" href=\"/attachment/44/468/19440\" target=\"_blank\">#19440</a>Table&nbsp;2.05). The most common fusions are <em>NUP98</em>::<em>NSD1</em> t(5;11)(q35;p15) and <em>NUP98</em>::<em>KDM5A</em> t(11;12)(p15;p13). <em>NUP98</em>::<em>KDM5A</em> is one of the most common genetic abnormalities in non&ndash;Down syndrome acute megakaryoblastic leukaemia, but it also occurs in other FAB classes. <em>NUP98</em>::<em>NSD1</em> fusion, on the other hand, results in a monocytic leukaemia. The <em>NUP98</em> fusions result from balanced translocations or inversions that are almost always cryptic and therefore need to be detected using FISH and/or genomic analyses. <em>NUP98</em>::<em>NSD1</em> is highly associated with <em>FLT3</em> internal tandem duplication (ITD) and/or <em>WT1</em> mutation, with &gt;&nbsp;70% of cases also harbouring <em>FLT3</em> ITD. Irrespective of fusion partner, <em>NUP98</em> fusions are associated with a poor outcome, and allogeneic stem cell transplantation is effective in at least a proportion of cases {29227476; 31467532}.</p>\r\n<h5>AML with FUS::ERG fusion</h5>\r\n<p>This entity&nbsp;with t(16;21)(p11;q22) constitutes 0.5% of paediatric AML and has only been reported in patients aged &gt;&nbsp;2&nbsp;years. There is no association to a particular FAB class or immunophenotype. In about one&nbsp;third of cases, this translocation is part of a complex karyotype, and it can be overlooked with conventional cytogenetics. Several different <em>FUS</em>::<em>ERG</em> transcripts have been described in AML; some of these are also found in Ewing sarcoma, and one is found in pre&ndash;B-lymphoblastic leukaemia {24068373; 30150206}.</p>\r\n<h5>AML with defining mutations</h5>\r\n<p>The criterion of &ge;&nbsp;20% blasts is required for the diagnosis of AML in these types. In addition to AML with <em>CEBPA</em>&nbsp;mutation (see below), AML with <em>NPM1</em> mutation is described in the WHO classification of haematolymphoid tumours.</p>\r\n<h5>AML with CEBPA mutation</h5>\r\n<p>In the paediatric classification, this type only requires mutation in the C-terminal part (the bZIP DNA-binding domain [DBD] or leucine zipper domain [LZD]) of <em>CEBPA</em>, with or without concomitant mutation in the N-terminal topologically associating domains (TAD1, TAD2). The rationale is that the presence of <em>CEBPA</em> bZIP mutation (whether single or double) is associated with a good prognosis. If the bZIP mutation is accompanied by a TAD mutation, germline predisposition should be considered. AML with <em>CEBPA</em> mutation is associated with a good prognosis unless there is a concomitant mutation in <em>CSF3R</em> {27143256; 33951732}.</p>",
+        "timestamp": "2023-05-09T14:39:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 103724,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 482,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/chaptercontent/44/469\" target=\"_blank\">section </a><em>Acute myeloid leukaemias (AMLs) defined by differentiation</em> .</p>\r\n",
+        "timestamp": "2022-07-08T15:08:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 103725,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 476,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/44/468/19439\" target=\"_blank\">#19439</a>Table&nbsp;2.04 .</p>",
+        "timestamp": "2022-07-13T11:56:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 103726,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 477,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/44/468/19439\" target=\"_blank\">#19439</a>Table&nbsp;2.04 .</p>",
+        "timestamp": "2022-07-13T11:56:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 103727,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 478,
+        "headingText": "<p>For diagnosis, G-banding complemented with FISH or next-generation sequencing may be used to identify&nbsp;cytogenetically cryptic fusions, and PCR or next-generation sequencing for mutations. For identification of the fusion partner in cases with <em>KMT2A</em> or <em>NUP98</em> rearrangement, quantitative RT-PCR or RNA sequencing may be used. Quantitative RT-PCR can be used for monitoring during and after treatment. Next-generation sequencing may eventually replace all the above methods.</p>",
+        "timestamp": "2023-05-09T15:30:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 103728,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 481,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Increased blasts of a myeloid lineage (&ge;&nbsp;20%) in the bone marrow or blood; in cases with AML-defining gene fusions and &lt;&nbsp;20% blasts, the diagnosis can be made if there are cells with an atypical immunophenotype of any of the myeloid lineages detected by flow cytometry, or infiltration of blasts of a myeloid lineage in trephine biopsy (with or without fibrosis), or the presence of a myeloid sarcoma</li>\r\n<li>Presence of one of the genetic abnormalities listed in <a style=\"cursor:pointer\" href=\"/attachment/44/468/19439\" target=\"_blank\">#19439</a>Table&nbsp;2.04 </li>\r\n<li>Absence of features that allow classification into myeloid neoplasms associated with germline predisposition</li>\r\n</ul>",
+        "timestamp": "2023-05-09T15:31:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 103729,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-08T15:08:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 103730,
+        "bookId": 44,
+        "chapterId": 468,
+        "headingId": 480,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/44/468/19439\" target=\"_blank\">#19439</a>Table&nbsp;2.04 and <a style=\"cursor:pointer\" href=\"/attachment/44/468/19440\" target=\"_blank\">#19440</a>Table&nbsp;2.05 . Numerous fusions and somatic mutations have been shown to be associated with outcome. Variation in fusion transcript partners (like in AML with <em>KMT2A</em> rearrangement) or cooperating mutations (like in AML with <em>CEBPA</em> mutation) may impact the prognosis.</p>",
+        "timestamp": "2022-07-13T11:56:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

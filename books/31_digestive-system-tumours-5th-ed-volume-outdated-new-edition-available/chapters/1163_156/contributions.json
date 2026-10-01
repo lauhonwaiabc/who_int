@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 55429,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 159,
+        "headingText": "\r\n<p>Pancreatic mixed neuroendocrine&ndash;non-neuroendocrine neoplasms (MiNENs) are neoplasms composed of morphologically recognizable neuroendocrine and non-neuroendocrine components, each constituting &ge;&nbsp;30% of the tumour volume. Poorly differentiated neuroendocrine components should display immunoreactivity for specific neuroendocrine markers (synaptophysin or chromogranin). MiNENs include a range of specific diagnostic entities in the pancreas.</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 55430,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 160,
+        "headingText": "<p>8154/3 Mixed neuroendocrine&ndash;non-neuroendocrine neoplasm (MiNEN)</p>",
+        "timestamp": "2021-11-22T16:54:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 55431,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 161,
+        "headingText": "\r\n<p>2C10.1 &amp; XH6H10 Neuroendocrine neoplasms of pancreas &amp; Mixed adenoneuroendocrine carcinoma</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 55432,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 162,
+        "headingText": "\r\n<p><em>Acceptable:</em> mixed adenoneuroendocrine carcinoma.</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 55433,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 163,
+        "headingText": "<p>Mixed acinar-endocrine carcinoma (8154/3); mixed acinar-neuroendocrine carcinoma (8154/3); mixed acinar-endocrine-ductal carcinoma (8154/3)</p>",
+        "timestamp": "2021-11-22T16:54:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 55434,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 164,
+        "headingText": "\r\n<p>Pancreatic MiNENs can arise anywhere in the pancreas, although mixed ductal-neuroendocrine carcinomas are more frequently located in the pancreatic head.</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 55435,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 165,
+        "headingText": "\r\n<p>The symptoms are usually nonspecific and related to tumour growth and/or metastatic dissemination. One patient with mixed ductal-neuroendocrine carcinoma presenting with Zollinger&ndash;Ellison syndrome has been reported {10628803}.</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 55436,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 166,
+        "headingText": "\r\n<p>Mixed ductal-neuroendocrine carcinomas account for about 0.5&ndash;2% of all ductal adenocarcinomas {10839610; 12647216}. About 18% of poorly differentiated neuroendocrine carcinomas (NECs) have components of adenocarcinoma {24503751}. There is no sex predilection. The average patient age at presentation is 68&nbsp;years (range: 21&ndash;84&nbsp;years).</p>\r\n<p>Mixed acinar-neuroendocrine carcinomas are rare and account for 15&ndash;20% of all acinar cell carcinomas {8037290; 23026929}. Both carcinomas have a similar age distribution. However, a male predominance is noted only in acinar cell carcinoma and not the mixed carcinomas {8037290; 23026929; 15517367}. Mixed acinar-neuroendocrine carcinomas rarely display morphologically distinguishable acinar and neuroendocrine components {8037290}.</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 55437,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 167,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 55438,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 168,
+        "headingText": "\r\n<p>Limited molecular investigations have been performed, but the available evidence points to clonal selection within cells capable of giving rise to cells with glandular or neuroendocrine differentiation. These tumours may therefore represent a subtype of adenocarcinoma, but their unique characteristics warrant separate classification at present. Collision tumours may also occur and can theoretically result in similar appearances.</p>\r\n<p>For mixed ductal-neuroendocrine carcinoma, no definitive molecular data are yet available, and no association with genetic syndromes has been documented. The genetic alterations in these tumours may be extrapolated from information about ordinary ductal carcinomas and neuroendocrine neoplasms (NENs) and include a variety of somatic mutations involving <em>KRAS</em>, <em>CDKN2A</em> (<em>P16</em>), <em>TP53</em>, and <em>SMAD4</em> (<em>DPC4</em>) for the ductal adenocarcinoma component and <em>TP53</em> and <em>RB1</em> for the NEC component. Data from gastrointestinal mixed adenoneuroendocrine carcinomas (MANECs) suggest a monoclonal origin of the two components. However, this has not been tested in pancreatic mixed ductal-neuroendocrine carcinoma.</p>\r\n<p>For mixed acinar-neuroendocrine carcinoma, no association with genetic syndromes has been documented. The tumours seem to share the genetic changes of acinar cell carcinomas, including APC/&beta;-catenin pathway alterations and <em>BRAF</em> fusions {24590585; 25266736}. Mutations found in pancreatic neuroendocrine tumours (PanNETs), such as <em>DAXX</em>, <em>ATRX</em>, and <em>MEN1</em> mutations, are not typically observed. <em>MYC</em> amplification may be a mechanism involved in the neuroendocrine differentiation of acinar cell carcinomas {29721608}.</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 55439,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 207,
+        "headingText": "\r\n<p>Mixed ductal-neuroendocrine carcinomas are solid tumours measuring 2&ndash;10&nbsp;cm in diameter. Mixed acinar-neuroendocrine carcinomas are large (4&ndash;8&nbsp;cm) nodular neoplasms with a fleshy, focally necrotic cut surface.</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 55440,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 169,
+        "headingText": "<p>In some mixed ductal-neuroendocrine carcinomas, the two components are intermingled and characterized by neoplastic ductal and neuroendocrine cells forming glandular, cribriform, solid, and/or trabecular structures. In other cases, the two components are distinct and consist of a ductal adenocarcinoma usually combined with a NEC. In very rare cases, the neuroendocrine component is well differentiated, although it is possible that such cases in fact represent collision tumours, in which the two components are not clonally related. The ductal adenocarcinoma component is positive for CEA, EMA (MUC1), and/or MUC2, and the neuroendocrine component is positive for synaptophysin and chromogranin&nbsp;A. Mixed ductal-neuroendocrine carcinomas must be distinguished from ductal adenocarcinomas with entrapped islets, which can be intimately attached to well-differentiated neoplastic glands. Conversely, mixed ductal-neuroendocrine carcinomas must be distinguished from PanNETs with entrapped ductules, which are biologically similar to other PanNETs.</p>\r\n<p>Most mixed acinar-neuroendocrine carcinomas resemble pure acinar cell carcinomas, with the neuroendocrine differentiation only demonstrated using immunohistochemistry. Such cases do not fit the definition of MiNEN and are discussed in the <a style=\"cursor:pointer\" href=\"/chaptercontent/31/130\" target=\"_blank\">section </a><em>Pancreatic acinar cell carcinoma</em> section. A few mixed acinar-neuroendocrine carcinomas show histologically separate acinar and neuroendocrine components, which form closely connected sheets and nests. In such cases, the neuroendocrine component can be graded. Immunohistochemistry for acinar and neuroendocrine cell markers demonstrates distinct compartments in the tumour tissue. Carcinomas with only scattered neuroendocrine cells (&lt;&nbsp;30% of the tumour cells) do not qualify as mixed carcinomas and should be diagnosed as acinar cell carcinoma with a neuroendocrine component.</p>",
+        "timestamp": "2019-06-07T15:16:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 55441,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 170,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 55442,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 171,
+        "headingText": "\r\n<p>Diagnostic molecular pathology is not yet required for diagnosis. However, molecular investigation may be helpful in distinguishing the components of these tumours in small biopsies.</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 55443,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 174,
+        "headingText": "\r\n<p><em>Essential:</em> a mixed tumour composed of at least two components; &ge;&nbsp;30% of the neoplasm should be composed of each type; the neuroendocrine component must be substantiated by immunohistochemistry.</p>\r\n<p><em>Desirable:</em> usually composed of carcinomas but occasionally includes a well-differentiated neuroendocrine tumour (NET).</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 55444,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 172,
+        "headingText": "\r\n<p>Pancreatic MiNENs are staged using the Union for International Cancer Control (UICC) or American Joint Committee on Cancer (AJCC) staging system for pancreatic carcinoma.</p>\r\n",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 55445,
+        "bookId": 31,
+        "chapterId": 156,
+        "headingId": 173,
+        "headingText": "\r\n<p>Mixed ductal-neuroendocrine carcinomas usually metastasize to lymph nodes and liver. Resectability of the carcinoma is the most important prognostic factor. Patients rarely survive &gt;&nbsp;3&nbsp;years. The 2-year and 5-year survival rates are 25% and 0%, respectively. However, the few prognostic data available seem to suggest that mixed ductal-neuroendocrine carcinomas have a slightly longer median survival time than pure NECs (20&nbsp;months vs 12&nbsp;months) {24503751}.</p>\r\n<p>After surgery, patients with mixed acinar-neuroendocrine carcinomas show the same 5-year survival rate (30&ndash;50%) as patients with pure acinar cell carcinomas.</p>",
+        "timestamp": "2019-04-01T10:13:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 69078,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 539,
+        "headingText": "\r\n<p><em>TFEB</em>-rearranged renal cell carcinomas (RCCs) harbour fusions involving the gene encoding the TFEB transcription factor, typically via a t(6;11)(p21;q12) translocation resulting in a <em>MALAT1</em>::<em>TFEB</em> fusion. <em>TFEB</em>-amplified RCCs demonstrate amplification of the 6p21 locus harbouring <em>TFEB</em>, resulting in TFEB overexpression and its downstream effects.</p>\r\n",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 69079,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 540,
+        "headingText": "<p>8311/3 <em>TFEB</em>-altered renal cell carcinomas</p>",
+        "timestamp": "2022-04-12T12:34:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 69080,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 541,
+        "headingText": "\r\n<p>2C90.0 Renal cell carcinoma of kidney, except renal pelvis</p>\r\n",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 69081,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Acceptable:</em> t(6;11) renal cell carcinoma.</p>\r\n",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 69082,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 69083,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 544,
+        "headingText": "\r\n<p>Kidney</p>\r\n",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 69084,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 545,
+        "headingText": "<p>The clinical presentation of a <em>TFEB</em>-altered RCC as a renal mass is not specific.</p>",
+        "timestamp": "2022-04-12T12:35:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 69085,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 546,
+        "headingText": "\r\n<p><em>TFEB</em>-rearranged RCCs are less common than <em>TFE3</em>-rearranged RCCs; only about 100&nbsp;cases have been reported in the global literature. The mean and median patient age is 31&nbsp;years {24618616}. <em>TFEB</em>-amplified RCCs occur in older patients (median age: 65&nbsp;years); approximately 50&nbsp;<em>TFEB</em>-amplified RCCs have been documented in the literature {27565001; 28840857; 28009604; 28338654}.</p>\r\n",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 69086,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 547,
+        "headingText": "<p>Past exposure to cytotoxic chemotherapy is a risk factor for <em>TFEB</em>-rearranged RCC.</p>",
+        "timestamp": "2022-04-26T14:12:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 69087,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 548,
+        "headingText": "\r\n<p><em>TFEB</em> gene fusion or amplification in RCC results in the overexpression of native TFEB {27565001; 28840857; 28338654; 28009604}. Overexpressed native TFEB acts as an aberrant transcription factor that activates the expression of multiple downstream targets, including those normally activated by the related MiT family transcription factor MITF (such as melanocytic markers and cathepsin&nbsp;K) {12837690; 17283122; 31600176}. Recent work showed that <em>TFEB</em> gene expression is increased in <em>TFEB</em>-amplified RCC, although not as much as in <em>TFEB</em>-rearranged RCC, raising the possibility that other genes at the 6p21.1 locus, such as <em>VEGFA</em>, <em>CCND3</em>, or others, may be responsible for the aggressive behaviour {31600176}.</p>\r\n",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 69088,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 555,
+        "headingText": "\r\n<p><em>TFEB</em>-rearranged RCCs and <em>TFEB</em>-amplified RCCs do not have a distinctive gross appearance.</p>\r\n",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 69089,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 549,
+        "headingText": "\r\n<p>The most distinctive pattern of the <em>TFEB</em>-rearranged RCC is that of a biphasic neoplasm, comprising nests of larger epithelioid cells and smaller cells clustered around basement membrane material {11395386; 22892601; 15644781}. The <em>TFEB</em>-rearranged RCC characteristically entraps single native renal tubules at their periphery. <em>TFEB</em>-rearranged RCC can overlap morphologically with <em>TFE3</em>-rearranged RCC. When the population of smaller cells is small or absent, the differential diagnosis of the <em>TFEB</em>-rearranged renal cell carcinoma is broader and includes clear cell RCC, oncocytic renal neoplasms, and epithelioid angiomyolipoma {29052596}.</p>\r\n<p>The morphology of the <em>TFEB</em>-amplified RCC is less distinctive than that of the <em>TFEB</em>-rearranged RCC, and it frequently demonstrates high-grade, poorly differentiated RCC morphology and frequent oncocytic and papillary features.</p>\r\n<p>In contrast to most RCCs, <em>TFEB</em>-rearranged RCCs underexpress epithelial markers such as cytokeratins and EMA, but they do consistently express PAX8 and other renal tubular markers {24618616; 20679884}. <em>TFEB</em>-rearranged RCCs consistently express the melanoma markers melan-A and HMB45 and the cysteine protease cathepsin&nbsp;K.</p>\r\n<p>Nuclear immunoreactivity for TFEB protein is highly specific for the <em>TFEB</em>-rearranged RCC {15644781}, but a <em>TFEB</em> break-apart FISH assay is less affected by variable fixation than is immunohistochemistry, so it is the preferred diagnostic test for establishing the diagnosis in formalin-fixed, paraffin embedded material {22892601}. Aberrant melanocytic marker expression and cathepsin&nbsp;K labelling or <em>TFEB</em> overexpression are less consistently seen in <em>TFEB</em>-amplified RCC (present in about half of all cases).</p>\r\n",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 69090,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 69091,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 551,
+        "headingText": "\r\n<p>The t(6;11) translocation fuses <em>TFEB</em> with <em>MALAT1</em> (Alpha), an untranslated gene of unknown function, resulting in the overexpression of native TFEB {11244503; 12719541}. Alterative <em>TFEB</em> fusion partners have also been reported, including <em>COL21A1</em>, <em>CADM2</em>, <em>EWSR1</em>, <em>CLTC</em>, <em>PPP1R10</em>, <em>ACTB</em>, <em>NEAT1</em>, and <em>KHDRBS2</em> {26536169; 31764220; 33208882}. Precise diagnostic criteria for <em>TFEB</em>-amplified RCC remain to be defined {28840857}. Although the initial study required high-level amplification and downstream effects of <em>TFEB</em> amplification (aberrant melanocytic marker expression) to make this diagnosis {27565001}, other studies have included low-level <em>TFEB</em>-amplified cases {28338654}; the significance of these cases is currently unclear.</p>\r\n",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 69092,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> <em>TFEB</em> rearrangement or amplification identified by break-apart FISH, or <em>TFEB</em> gene fusion identified by RNA sequencing.</p>\r\n",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 69093,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 552,
+        "headingText": "<p><em>TFEB</em>-altered RCCs are staged using guidelines for adult RCC.</p>",
+        "timestamp": "2022-04-12T12:35:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 69094,
+        "bookId": 36,
+        "chapterId": 26,
+        "headingId": 553,
+        "headingText": "\r\n<p><em>TFEB</em>-rearranged RCCs are more indolent than <em>TFE3</em>-rearranged RCCs, with &lt;&nbsp;10% of cases resulting in patient death {26536169}. Of the approximately 60&nbsp;evaluable cases in the published literature, only 11&nbsp;have developed metastases, leading to patient death in 4&nbsp;cases. Most neoplasms have come to clinical attention at low stage (pT1 or pT2) and have had benign follow-up. Necrosis has been found to correlate with aggressive behaviour {31764220}. <em>TFEB</em>-rearranged RCCs have the potential to metastasize late &ndash; as long as 20&nbsp;or 30&nbsp;years after diagnosis. <em>TFEB</em>-amplified RCCs appear to be more aggressive, frequently presenting at an advanced local stage or with metastatic disease {27565001; 28840857; 28009604; 28338654}.</p>",
+        "timestamp": "2022-02-10T16:23:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

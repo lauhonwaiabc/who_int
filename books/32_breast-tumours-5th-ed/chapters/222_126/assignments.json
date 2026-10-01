@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 65,
+    "bookId": "32",
+    "roleid": 15,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2204,
+        "lastname": "Schnitt",
+        "firstname": "Stuart",
+        "initials": "",
+        "email": "",
+        "roleid": 15,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 66,
+    "bookId": "32",
+    "roleid": 16,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2206,
+        "lastname": "van Diest",
+        "firstname": "Paul J.",
+        "initials": "",
+        "email": "",
+        "roleid": 16,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 67,
+    "bookId": "32",
+    "roleid": 17,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2200,
+        "lastname": "Sahin",
+        "firstname": "Aysegul",
+        "initials": "",
+        "email": "",
+        "roleid": 17,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 68,
+    "bookId": "32",
+    "roleid": 18,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2212,
+        "lastname": "Collins",
+        "firstname": "Laura C.",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2235,
+        "lastname": "Silva",
+        "firstname": "Leonard",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2246,
+        "lastname": "Jaffer",
+        "firstname": "Shabnam",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2247,
+        "lastname": "Moritani",
+        "firstname": "Suzuko",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2344,
+        "lastname": "Waitzberg",
+        "firstname": "Angela Flávia Logullo",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      }
+    ]
+  }
+]

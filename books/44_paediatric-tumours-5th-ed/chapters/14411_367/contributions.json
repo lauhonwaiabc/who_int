@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 105595,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 466,
+        "headingText": "\r\n<p>Dermatofibrosarcoma protuberans (DFSP) and giant cell fibroblastoma (GCF) are superficial fibrohistiocytic, locally aggressive, rarely metastasizing tumours harbouring a specific fusion gene involving <em>PDGFB</em> or (less often) <em>PDGFD</em>.</p>\r\n",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 105596,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 467,
+        "headingText": "<p>8832/1 Dermatofibrosarcoma protuberans, NOS</p>\r\n<p>8834/1 Giant cell fibroblastoma</p>\r\n<p>8833/1 Pigmented dermatofibrosarcoma protuberans</p>\r\n<p>8832/3 Dermatofibrosarcoma protuberans, fibrosarcomatous</p>\r\n<p>8832/1 Myxoid dermatofibrosarcoma protuberans</p>\r\n<p>8832/1 Dermatofibrosarcoma protuberans with myoid differentiation</p>\r\n<p>8832/1 Plaque-like dermatofibrosarcoma protuberans</p>",
+        "timestamp": "2023-05-19T11:43:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 105597,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 468,
+        "headingText": "\r\n<p>2B53.Y &amp; XH4QZ8 Other specified fibroblastic or myofibroblastic tumour, primary site &amp; Dermatofibrosarcoma, NOS</p>\r\n<p>2B53.Y &amp; XH5CT4 Other specified fibroblastic or myofibroblastic tumour, primary site &amp; Pigmented dermatofibrosarcoma protuberans</p>\r\n",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 105598,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> for pigmented dermatofibrosarcoma protuberans: Bednar tumour.</p>\r\n",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 105599,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 470,
+        "headingText": "<p>Giant cell fibroblastoma; pigmented dermatofibrosarcoma protuberans; fibrosarcomatous dermatofibrosarcoma protuberans; myxoid dermatofibrosarcoma protuberans; dermatofibrosarcoma protuberans with myoid differentiation; plaque-like dermatofibrosarcoma protuberans</p>",
+        "timestamp": "2023-05-19T11:44:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 105600,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 471,
+        "headingText": "\r\n<p>DFSP and GCF are preferentially located in the trunk and the extremities. In children, a tendency for acral sites is known {32558231; 12502925; 25424208; 21429521; 29240584; 3565673; 24800706}.</p>\r\n",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 105601,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 472,
+        "headingText": "\r\n<p>DFSP and GCF typically occur as painless, single, red-blue, slowly growing skin plaques or nodules. Other forms exist, including atrophic plaques and morpheaform lesions. The lesion rarely extends beyond 50&nbsp;mm {12502925; 3565673; 18577035; 10025975; 12588227}.</p>\r\n",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 105602,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 473,
+        "headingText": "\r\n<p>DFSP and GCF are very rare tumours in childhood (incidence: ~1&nbsp;case per 1&nbsp;billion person-years). The median patient age is about 7&ndash;8&nbsp;years, but DFSP, GCF, and other subtypes can be present at birth {27922973; 32558231; 25424208; 32430916}.</p>\r\n",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 105603,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 474,
+        "headingText": "\r\n<p>The etiology is unknown. There is a recently described association of DFSP in children affected with adenosine deaminase&ndash;deficient severe combined immunodeficiency {22153773}.</p>\r\n",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 105604,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 475,
+        "headingText": "<p>DFSP and GCF are characterized by a rearrangement involving chromosomes&nbsp;17 and&nbsp;22 {8978765; 7757993; 8824728; 8988177}. In GCF and paediatric DFSP, this rearrangement is related to balanced or unbalanced translocations, although in adult cases it is preferentially related to the formation of a ring chromosome {16843106; 9283602; 7697628; 18069662}. This rearrangement generates a chimeric gene fusing <em>COL1A1</em> (17q21.33) with <em>PDGFB</em> (22q13.1). The breakpoint in <em>COL1A1</em> is variable and there is no correlation between the type of fusion gene and the clinicohistopathological features of DFSP {9739023; 19890351}. In the chimeric transcript, all but exon&nbsp;1 of <em>PDGFB</em> are placed under the control of the <em>COL1A1</em> promoter, retaining its tyrosine kinase receptor binding function and removing all elements negatively controlling <em>PDGFB</em> transcription and translation. This molecular anomaly is responsible for the activation of the <em>PDGFB</em> pathway driving the tumorigenesis {12550751; 12661001}. Hence, tyrosine kinase inhibitors can be used as a treatment in aggressive DFSP {20582941; 15503291}. Recently, other fusion genes involving <em>PDGFD</em> and <em>EMILIN2</em> or <em>COL6A3</em> have been reported {29955147}.</p>",
+        "timestamp": "2023-03-17T10:59:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 105605,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 482,
+        "headingText": "\r\n<p>DFSP and GCF are dermal and hypodermal nodular and firm lesions composed of grey to white fibrous tissue {12502925; 3565673}.</p>\r\n",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 105606,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 476,
+        "headingText": "<h5>Classic DFSP</h5>\r\n<p>Classic DFSPs are poorly defined tumours invading the dermis and the hypodermis. In the subcutis, the tumour cells entrap fat cells, forming a classic honeycomb pattern. The overlying epidermis can be normal, acanthotic, or ulcerated. DFSP consists of non-atypical spindle cells arranged in a storiform pattern. The spindle cells are monotonous and have oval vesicular nuclei with inconspicuous nucleoli. The number of mitotic figures is low (~1.5&nbsp;mitoses/mm<sup>2</sup>) and necrosis is absent {12502925; 1939782; 19635106}. Some cases manifesting as a subcutaneous tumour infiltrating deep soft tissue have been reported {18645303}.</p>\r\n<h5>GCF</h5>\r\n<p>GCFs are dermal and subcutaneous tumours, rarely involving skeletal muscle. They infiltrate the subcutaneous fat with a classic honeycomb pattern. They are formed of varying proportions of solid areas and pseudovascular areas with sinusoidal spaces. GCF consists of hypocellular fascicles of wavy spindle cells set in a myxoid to collagenous stroma. Numerous pleomorphic mononucleated and multinucleated giant cells are also present. The tumour cells have an amphophilic cytoplasm and oval hyperchromatic nuclei. Mitotic activity can be present. GCF can display myoid whorls {12502925; 17349565; 2804904; 3565673}.</p>\r\n<p>Hybrid GCF/DFSPs show areas of pure GCF and areas of pure DFSP, as well as areas in which both morphological aspects are combined; the transition from one tumour type to the other can be gradual or abrupt {12502925}.</p>\r\n<h5>Histological subtypes of DFSP</h5>\r\n<p>Different subtypes of DFSP have been described. Myxoid DFSP is characterized by a prominent loose and myxoid stroma {17721193}; pigmented DFSP (Bednar tumour) is characterized by the presence of pigmented dendritic cells {3901787}; atrophic/plaque-like DFSP is defined by atrophy of the dermal part of the lesion, mimicking plaque-like dermal fibroma {20061935; 19016705}; myoid DFSP displays focal myoid/myofibroblastic differentiation {8720984}; and vascular DFSP shows prominent vessels {22257899}.</p>\r\n<h5>Fibrosarcomatous DFSP</h5>\r\n<p>DFSP can show high-grade histopathological features. Fibrosarcomatous DFSP is associated with a high recurrence rate and potential for metastasis {25582537}. Morphologically, fibrosarcomatous DFSP shows hypercellular areas composed of atypical cells, arranged in intersecting fascicles producing a herringbone pattern, with increased mitotic activity {16625088; 21570152}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>CD34 is positive in a majority of DFSPs and frequently negative in fibrosarcomatous areas {21570152; 19635106}.</p>",
+        "timestamp": "2023-05-10T15:28:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 105607,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 105608,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 478,
+        "headingText": "\r\n<p>The identification of the translocation involving <em>PDGFB</em> or <em>PDGFD</em> is useful in non-classic cases {26970672; 25081750; 23774173}.</p>\r\n",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 105609,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> for classic DFSP: a dermal-hypodermal tumour; monotonous spindle cells arranged in a storiform pattern; infiltration of the subcutaneous fat with a honeycomb pattern; CD34 expression; for fibrosarcomatous DFSP: atypical cells with increased mitotic activity arranged in intersecting fascicles producing a herringbone pattern.</p>\r\n<p><em>Desirable:</em> one of the following translocations: <em>COL1A1</em>::<em> PDGFB</em>, <em>COL6A3</em>::<em>PDGFD</em>, or <em>EMILIN2</em>::<em>PDGFD</em>.</p>\r\n",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 105610,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 479,
+        "headingText": "\r\n<p>The American Joint Committee on Cancer (AJCC) or Union for International Cancer Control (UICC) eighth-edition TNM system can be applied for fibrosarcomatous DFSP.</p>\r\n",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 105611,
+        "bookId": 44,
+        "chapterId": 367,
+        "headingId": 480,
+        "headingText": "\r\n<p>DFSP and GCF have a good prognosis in children, with a very low rate of recurrence after complete resection. Fibrosarcomatous transformation, which increases the risk of metastasis, is very rare in children {32558231; 32430916; 16625088; 25582537}.</p>",
+        "timestamp": "2023-03-15T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

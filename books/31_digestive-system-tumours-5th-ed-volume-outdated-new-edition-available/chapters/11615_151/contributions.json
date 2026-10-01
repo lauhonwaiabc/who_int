@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 55310,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 159,
+        "headingText": "\r\n<p>Gastrinoma of the pancreas is a functioning well-differentiated pancreatic neuroendocrine neoplasm (PanNEN) composed of gastrin-producing cells (G&nbsp;cells), with uncontrolled gastrin secretion causing Zollinger&ndash;Ellison syndrome (ZES).</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 55311,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 160,
+        "headingText": "<p>8153/3 Gastrinoma</p>",
+        "timestamp": "2021-11-22T16:50:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 55312,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 161,
+        "headingText": "<p>2C10.1 &amp; XH0GY2 Neuroendocrine neoplasms of pancreas &amp; Gastrinoma, malignant</p>",
+        "timestamp": "2019-04-29T19:24:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 55313,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 162,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 55314,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 163,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 55315,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 164,
+        "headingText": "\r\n<p>Gastrinomas have no preferential localization in the pancreas {17972563; 22261919; 24298844}. In the duodenum, where gastrinomas are much more common {17985091}, especially in patients with multiple endocrine neoplasia type&nbsp;1 (MEN1), they occur mainly in the proximal part {17006979; 17985091}. Extrapancreatic and extraduodenal gastrinomas have been reported in the stomach, liver, and lymph node {22261919}. The diagnosis of primary lymph node gastrinoma requires careful exclusion of metastatic disease from occult duodenal gastrinoma {18520436}.</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 55316,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 165,
+        "headingText": "\r\n<p>The typical clinical features of ZES are duodenal ulcer and/or gastro-oesophageal reflux disease {26784901}. These symptoms are caused by marked gastric acid hypersecretion associated with inappropriately elevated fasting serum gastrin. ZES may also lead to fundic enterochromaffin-like&ndash;cell (ECL cell) hyperplasia, and in the setting of MEN1 to fundic neuroendocrine tumours (NETs) of type&nbsp;2.</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 55317,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 166,
+        "headingText": "\r\n<p>Gastrinomas account for 4&ndash;8% of all pancreatic NETs (PanNETs) {17006979; 24499825}. ZES is the second most common hormonal syndrome associated with functioning PanNETs {24121170; 24499825}. Patients with sporadic pancreatic gastrinomas are usually younger than those with non-functioning PanNETs, often in their fifth or sixth decade of life, with no sex predilection {22261919; 22525418}. Patients with MEN1-associated gastrinomas are usually a decade younger {15527675; 22261919}.</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 55318,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 167,
+        "headingText": "\r\n<p>There are no known etiological factors specific to sporadic pancreatic gastrinomas. Approximately 25% of all gastrinomas are associated with MEN1, but almost all of them arise in the duodenum {26742109}. Gastrinomas associated with neurofibromatosis (neurofibromatosis type&nbsp;1 or&nbsp;2) {16042772; 25022420} or tuberous sclerosis {8161496} are extremely rare.</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 55319,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 168,
+        "headingText": "\r\n<p>The pathogenesis of pancreatic gastrinoma is unknown. Multicentric preneoplastic gastrin-cell proliferation has only been identified in association with MEN1-related duodenal gastrinomas {15887103}.</p>\r\n<p>Sporadic gastrinomas may harbour somatic <em>MEN1</em> mutations, which are identified in 33% of cases {9354421}. <em>MEN1</em> mutations lead to abnormal menin that interacts with FOXN3 (CHES1). This may lead to the aggressive behaviour of the tumours noted in patients with MEN1 {25210877}.</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 55320,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 207,
+        "headingText": "\r\n<p>Pancreatic gastrinomas are generally large (mean: 3.8&nbsp;cm; only 6% &lt;&nbsp;1&nbsp;cm), but their macroscopic appearance does not otherwise differ from that of the other PanNETs.</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 55321,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 169,
+        "headingText": "\r\n<p>Gastrinomas often display trabecular or glandular structures. The margin of the tumour can be expansive or focally infiltrative. The stroma is normally delicate and may only be prominent in large tumours. The tumour cells express synaptophysin, chromogranin&nbsp;A, SSTR2, and gastrin (often focal). Other hormones that may be expressed include insulin, glucagon, PP, and somatostatin. Rarely, a switch in hormone hypersecretion from gastrin to another hormone, with consequent change in the associated clinical syndrome, has been reported {6878103; 25353285}.</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 55322,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 170,
+        "headingText": "\r\n<p>The cytology is the same as that of other PanNETs.</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 55323,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 171,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 55324,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 174,
+        "headingText": "\r\n<p><em>Essential:</em> clinical syndrome; NET histology.</p>\r\n",
+        "timestamp": "2019-03-27T15:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 55325,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 172,
+        "headingText": "<p>The staging of gastrinomas, like that of all PanNENs, follows the eighth editions (2017) of the Union for International Cancer Control (UICC) TNM classification [[Brierly JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley Blackwell; 2017.]] and the American Joint Committee on Cancer (AJCC) cancer staging manual [[Amin MB, Edge S, Greene F, et al., editors. AJCC cancer staging manual. 8th ed. New York (NY): Springer; 2017.]] {28752469}, which rely on macroscopic assessment of site, tumour size, and metastases. This approach largely corresponds to that of the European Neuroendocrine Tumor Society (ENETS) classification {22525418}. The staging of well-differentiated PanNENs is presented in <a style=\"cursor:pointer\" href=\"/chaptercontent/31/1\" target=\"_blank\">section </a>Chapter&nbsp;1.</p>",
+        "timestamp": "2019-06-07T15:13:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 55326,
+        "bookId": 31,
+        "chapterId": 151,
+        "headingId": 173,
+        "headingText": "<p>Ki-67 proliferation index and mitotic counts of the tumour determine the grading of pancreatic gastrinoma. TNM staging is the most important prognostic factor (see <a style=\"cursor:pointer\" href=\"/chaptercontent/31/276\" target=\"_blank\">section </a><em>Pancreatic neuroendocrine neoplasms: Introduction</em>). Approximately 60% of patients with pancreatic gastrinoma show lymph node metastases {3421754; 22864882}. Liver metastasis occurs more frequently in patients with pancreatic gastrinoma than in those with duodenal gastrinoma, leading to a lower overall survival in the former {9683758; 22864882}.</p>",
+        "timestamp": "2019-06-07T15:13:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

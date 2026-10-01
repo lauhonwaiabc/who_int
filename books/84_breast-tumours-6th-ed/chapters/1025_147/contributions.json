@@ -1,0 +1,362 @@
+[
+  {
+    "pkheadingid": 942,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1031,
+    "contributions": [
+      {
+        "pkcontributionId": 136781,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1031,
+        "headingText": "\r\n<p><em>CHEK2</em>-related hereditary (breast) cancer predisposition syndrome is an autosomal dominant disorder caused by germline pathogenic variants in <em>CHEK2</em> and is associated with breast cancer susceptibility.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 943,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "MIM numbering",
+    "headingPosition": 2,
+    "headingid": 1032,
+    "contributions": [
+      {
+        "pkcontributionId": 136782,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1032,
+        "headingText": "\r\n<p>609265 Tumor predisposition syndrome&nbsp;4; TPDS4</p>\r\n",
+        "timestamp": "2026-03-20T10:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 944,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1033,
+    "contributions": [
+      {
+        "pkcontributionId": 136783,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1033,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-03-20T10:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 945,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1034,
+    "contributions": [
+      {
+        "pkcontributionId": 136784,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1034,
+        "headingText": "\r\n<p><em>Not recommended:</em> Li&ndash;Fraumeni syndrome&nbsp;2, <em>CHEK2</em>-associated.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 946,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1035,
+    "contributions": [
+      {
+        "pkcontributionId": 136785,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1035,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-20T10:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 947,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1036,
+    "contributions": [
+      {
+        "pkcontributionId": 136786,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1036,
+        "headingText": "\r\n<p>In addition to breast cancer, germline NM_007194.4:c.1100del p.(Thr367fs) heterozygosity has also been associated with an increased risk of gastric, colon, thyroid, kidney, and prostate cancers, as well as sarcoma {15492928;26884562;21807500;25583358} and non-Hodgkin lymphoma {26506619;28553140}.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 948,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1037,
+    "contributions": [
+      {
+        "pkcontributionId": 136787,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1037,
+        "headingText": "\r\n<p><em>CHEK2</em> is a moderately penetrant breast cancer predisposition gene, with an estimated lifetime risk of 20&ndash;30% for women {27269948;26014596;18172190;33471991}. The strongest association is for ER-positive disease, with a cumulative lifetime risk of 20%, versus a cumulative lifetime risk of 3% for ER-negative disease {27269948;33471991;19021634}. <em>CHEK2</em> c.1100del&ndash;associated breast cancer seems to be associated with a higher contralateral breast cancer rate for women {24918820;23109706;19124502;17132695;17250914}.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 949,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1038,
+    "contributions": [
+      {
+        "pkcontributionId": 136788,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1038,
+        "headingText": "\r\n<p>Breast cancers associated with an underlying <em>CHEK2</em> germline variant account for 1&ndash;2% of all breast cancer cases in female patients {28418444;29522266} and 4&ndash;5% in male patients {28008555;11967536;15122511;14648718}. The c.1100del variant is the most prevalent, with an overall odds ratio of 2.89 (95% CI: 2.63&ndash;3.16) that stratifies to 2.88 (95% CI: 2.63&ndash;3.16) for female breast cancer and 3.13 (95% CI: 1.94&ndash;5.07) for male breast cancer {29909568}. The frequency of c.1100del varies among regional breast cancer populations, albeit with differences in the mode of ascertainment, from 0% (in Spain and Malaysia) to 2.7% (in the Russian Federation) {28553140}.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 950,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1039,
+    "contributions": [
+      {
+        "pkcontributionId": 136789,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1039,
+        "headingText": "\r\n<p><em>CHEK2</em> is a 54.6&nbsp;kb gene located at chromosome 22q12.1. <em>CHEK2</em> pathogenic variants produce malfunctioning proteins, resulting in a disruption of DNA repair and consequent accumulation of genetic events that contribute to carcinogenesis. No external factors are known to influence carcinogenesis in patients with <em>CHEK2</em> germline variants.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 951,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1040,
+    "contributions": [
+      {
+        "pkcontributionId": 136790,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1040,
+        "headingText": "\r\n<p><em>CHEK2</em> is a tumour suppressor gene that encodes the serine/threonine cell-cycle checkpoint kinase CHK2 {11967536}. CHK2 is activated by double-strand DNA breaks and in turn activates downstream repair proteins including BRCA1 and p53, playing an important role in DNA damage response by regulating cell-cycle checkpoints and triggering DNA repair by homologous recombination {19473886;10673500}. The most common genetic alteration is the c.1100del truncating loss-of-function variant that yields an unstable CHK2 protein incapable of kinase activity {16998506;28553140}. For female <em>CHEK2</em> c.1100del carriers, there is currently no evidence that risk varies by PR or ERBB2 (HER2) status after adjustment for ER status, nor any evidence for variation in relative risk by grade or morphology {17132695}.</p>\r\n<p>In gene expression analysis, 26 <em>CHEK2</em> c.1100del&ndash;mutant tumours clustered with hormone receptor&ndash;positive breast cancers as luminal&nbsp;A (n&nbsp;=&nbsp;8) or luminal&nbsp;B (n&nbsp;=&nbsp;18) intrinsic subtype breast cancers {21614566}. Another study pointed to <em>CLCA1</em> on 1p22 and <em>CALCOCO1</em>, <em>MUCL1</em> (<em>SBEM</em>), and <em>LRP1</em> on 12q13 as candidates for <em>CHEK2</em> c.1100del&ndash;associated tumour-progression drivers {21542898}.</p>\r\n<p>Most of the data on <em>CHEK2</em> relate to the c.1100del variant, which is found frequently in northern European populations {11967536;27269948}. The risk of breast cancer is probably higher in homozygous c.1100del carriers than in heterozygous females {23652375;22058428}. <em>CHEK2</em> missense variants such as NM_007194.4:c.470T&gt;C p.(Ile157Thr) may confer a lower risk of female breast cancer than the <em>CHEK2</em> c.1100del truncating variant {26014596;15239132}. The p.(Ile157Thr) variant corrupts proper dimerization of CHK2, resulting in a dysfunctional protein that affects interactions at the interface of forkhead-associated and kinase domains {19782031}. The p.(Ile157Thr) variant was found to be associated with a luminal&nbsp;A phenotype and lower E-cadherin (<em>CDH1</em>) expression {15803365;21701879;27716369}, and <em>CHEK2</em> truncating variants appear to be associated with a luminal&nbsp;B phenotype {15803365}. More than 900 pathogenic or likely pathogenic <em>CHEK2</em> germline alterations have been reported (according to the ClinVar database as of February 2025), of which the c.1100del and c.470T&gt;C p.(Ile157Thr) missense variants appear to be most prevalent.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 958,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1047,
+    "contributions": [
+      {
+        "pkcontributionId": 136791,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1047,
+        "headingText": "\r\n<p>The macroscopic appearance is not known to be at variance with that of sporadic breast cancer.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 952,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1041,
+    "contributions": [
+      {
+        "pkcontributionId": 136792,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1041,
+        "headingText": "\r\n<p>Collective reports of the morphological and biomarker immunophenotypic features of <em>CHEK2</em>-associated breast carcinoma are conflicting. Some studies have identified a propensity for high-grade tumours, whereas others have described an increased frequency of low-grade carcinomas {19021634;15466005;21701879;27716369;16998506;28709830}. All combinations of ER, PR, and HER2 expression have also been identified, but c.1100del carriers tend to develop hormone receptor&ndash;positive tumours {19021634;21701879;15466005;27716369;28709830}. A strong link to a lobular phenotype has been reported in carriers of the p.(Ile157Thr) variant {15803365;27716369}. When parsed by variant, the c.1100del variant is associated with a luminal&nbsp;B phenotype, whereas the p.(Ile157Thr) variant is associated with a luminal&nbsp;A phenotype {27716369;21701879}. Differences in tumour pathology may be related to the type of <em>CHEK2</em> variant.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 953,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1042,
+    "contributions": [
+      {
+        "pkcontributionId": 136793,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1042,
+        "headingText": "\r\n<p>The cytology is not known to be at variance with that of sporadic breast cancer.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 954,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1043,
+    "contributions": [
+      {
+        "pkcontributionId": 136794,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1043,
+        "headingText": "\r\n<p>Demonstration of a germline pathogenic variant in <em>CHEK2 </em>is required for diagnosis.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 957,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1046,
+    "contributions": [
+      {
+        "pkcontributionId": 136795,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1046,
+        "headingText": "\r\n<p><em>Essential:</em> germline pathogenic variants in <em>CHEK2</em>.</p>\r\n<p>&nbsp;</p>\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/84/147/50766\" target=\"_blank\">#50766</a>Table&nbsp;10.09.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 955,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1044,
+    "contributions": [
+      {
+        "pkcontributionId": 136796,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1044,
+        "headingText": "\r\n<p>The staging is not at variance with that of sporadic breast cancer.</p>\r\n",
+        "timestamp": "2026-03-20T10:16:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 956,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1045,
+    "contributions": [
+      {
+        "pkcontributionId": 136797,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1045,
+        "headingText": "\r\n<p>Patients with c.1100del-associated breast cancer experience decreased survival {24918820;15466005;27716369}. Furthermore, no significant difference in response to adjuvant chemotherapy has been reported in these patients {24918820}. <em>CHEK2</em> p.(Ile157Thr) carriers have survival comparable to that of non-carriers {27716369;24557336}.</p>",
+        "timestamp": "2026-03-20T10:16:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 966,
+    "bookid": 84,
+    "headingType": 3,
+    "headingTitle": "Acknowledgement",
+    "headingPosition": 18,
+    "headingid": 1344,
+    "contributions": [
+      {
+        "pkcontributionId": 136798,
+        "bookId": 84,
+        "chapterId": 147,
+        "headingId": 1344,
+        "headingText": "<font color=\"red\">Updated from previous edition, citations in progress</font>",
+        "timestamp": "2026-03-20T11:14:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

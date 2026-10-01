@@ -1,0 +1,116 @@
+[
+  {
+    "pkroleId": 137,
+    "bookId": "52",
+    "roleid": 156,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 3116,
+        "lastname": "Lewis Jr.",
+        "firstname": "James S.",
+        "initials": "",
+        "email": "",
+        "roleid": 156,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 139,
+    "bookId": "52",
+    "roleid": 158,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 3049,
+        "lastname": "Westra",
+        "firstname": "William",
+        "initials": "",
+        "email": "",
+        "roleid": 158,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 140,
+    "bookId": "52",
+    "roleid": 159,
+    "roleTitle": "Co-Author(s)",
+    "contributors": [
+      {
+        "contributorid": 2177,
+        "lastname": "Fujii",
+        "firstname": "Satoshi",
+        "initials": "S",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 2217,
+        "lastname": "Bishop",
+        "firstname": "Justin A.",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 2523,
+        "lastname": "Yamamoto",
+        "firstname": "Hidetaka",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 2916,
+        "lastname": "Chernock",
+        "firstname": "Rebecca",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 2939,
+        "lastname": "Faquin",
+        "firstname": "William C.",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 4456,
+        "lastname": "Rooper",
+        "firstname": "Lisa M.",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 4479,
+        "lastname": "Badoual",
+        "firstname": "Cécile",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 4572,
+        "lastname": "Robinson",
+        "firstname": "Max",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      }
+    ]
+  }
+]

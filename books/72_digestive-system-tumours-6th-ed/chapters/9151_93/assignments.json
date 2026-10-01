@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 185,
+    "bookId": "72",
+    "roleid": 266,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2077,
+        "lastname": "Esposito",
+        "firstname": "Irene",
+        "initials": "I",
+        "email": "",
+        "roleid": 266,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 186,
+    "bookId": "72",
+    "roleid": 279,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2029,
+        "lastname": "Schirmacher",
+        "firstname": "Peter",
+        "initials": "P",
+        "email": "",
+        "roleid": 279,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "pkroleId": 187,
+    "bookId": "72",
+    "roleid": 280,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2059,
+        "lastname": "Torbenson",
+        "firstname": "Mickael ",
+        "initials": "MS",
+        "email": "",
+        "roleid": 280,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 188,
+    "bookId": "72",
+    "roleid": 281,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2026,
+        "lastname": "Park",
+        "firstname": "Young Nyun",
+        "initials": "YN",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 2057,
+        "lastname": "Kakar",
+        "firstname": "Sanjay ",
+        "initials": "S",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 2071,
+        "lastname": "Sempoux",
+        "firstname": "Christine",
+        "initials": "C",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      }
+    ]
+  }
+]

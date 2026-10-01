@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 54588,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 159,
+        "headingText": "<p>Neuroendocrine neoplasms (NENs) of the appendix are appendiceal epithelial neoplasms with neuroendocrine differentiation, including well-differentiated neuroendocrine tumours (NETs) and poorly differentiated neuroendocrine carcinomas (NECs). Mixed neuroendocrine&ndash;non-neuroendocrine neoplasms (MiNENs) are mixed epithelial neoplasms with a neuroendocrine component combined with a non-neuroendocrine component, each of which is morphologically and immunohistochemically recognizable as a discrete component and constitutes at least 30% of the neoplasm.</p>\r\n<p>This section excludes goblet cell adenocarcinoma, which is no longer considered to be a subtype of NEN and is therefore discussed separately (see <a style=\"cursor:pointer\" href=\"/chaptercontent/31/52\" target=\"_blank\">section </a><em>Appendiceal goblet cell adenocarcinoma</em>).</p>",
+        "timestamp": "2019-06-04T18:54:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 54589,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 160,
+        "headingText": "<p>8240/3 Neuroendocrine tumour NOS</p>\r\n<p>8246/3 Neuroendocrine carcinoma NOS</p>\r\n<p>8154/3 Mixed neuroendocrine&ndash;non-neuroendocrine neoplasm (MiNEN)</p>",
+        "timestamp": "2021-11-22T14:59:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 54590,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 161,
+        "headingText": "<p>2B81.2 &amp; XH55D7 Neuroendocrine neoplasms of appendix &amp; Neuroendocrine carcinoma, well-differentiated</p>\r\n<p>2B81.2 &amp; XH9LV8 Neuroendocrine neoplasms of appendix &amp; Neuroendocrine tumour, grade&nbsp;I</p>\r\n<p>2B81.2 &amp; XH7F73 Neuroendocrine neoplasms of appendix &amp; Neuroendocrine carcinoma, moderately differentiated</p>\r\n<p>2B81.2 &amp; XH0U20 Neuroendocrine neoplasms of appendix &amp; Neuroendocrine carcinoma NOS</p>\r\n<p>2B81.2 &amp; XH9SY0 Neuroendocrine neoplasms of appendix &amp; Small cell neuroendocrine carcinoma</p>\r\n<p>2B81.2 &amp; XH0NL5 Neuroendocrine neoplasms of appendix &amp; Large cell neuroendocrine carcinoma</p>\r\n<p>2B81.2 &amp; XH6H10 Neuroendocrine neoplasms of appendix &amp; Mixed adenoneuroendocrine carcinoma</p>\r\n<p>2B81.2 &amp; XH7NM1 Neuroendocrine neoplasms of appendix &amp; Enterochromaffin cell carcinoid</p>\r\n<p>2B81.2 &amp; XH7LW9 Neuroendocrine neoplasms of appendix &amp; L-cell tumour</p>\r\n<p>2B81.2 &amp; XH7152 Neuroendocrine neoplasms of appendix &amp; Glucagon-like peptide-producing tumour</p>\r\n<p>2B81.2 &amp; XH9ZS8 Neuroendocrine neoplasms of appendix &amp; Pancreatic peptide and pancreatic peptide-like peptide within terminal tyrosine amide-producing tumour</p>\r\n<p>2B81.2 Neuroendocrine neoplasms of appendix</p>",
+        "timestamp": "2019-02-15T12:29:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 54591,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 162,
+        "headingText": "<h5>NEN</h5>\r\n<p><em>Acceptable:</em> carcinoid; well-differentiated endocrine tumour/carcinoma.</p>\r\n<h5>MiNEN</h5>\r\n<p><em>Acceptable:</em> mixed adenoneuroendocrine carcinoma.</p>",
+        "timestamp": "2019-03-27T16:59:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 54592,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 163,
+        "headingText": "<p>Neuroendocrine tumour, grade&nbsp;1 (8240/3); neuroendocrine tumour, grade&nbsp;2 (8249/3); neuroendocrine tumour, grade&nbsp;3 (8249/3); L-cell tumour (8152/3); glucagon-like peptide-producing tumour (8152/3); PP/PYY-producing tumour (8152/3); enterochromaffin-cell carcinoid (8241/3); serotonin-producing carcinoid (8241/3); large cell neuroendocrine carcinoma (8013/3); small cell neuroendocrine carcinoma (8041/3)</p>",
+        "timestamp": "2021-11-22T14:59:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 54593,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 164,
+        "headingText": "<p>Appendiceal NETs mainly occur in the tip of the appendix (in 67% of adult patients and 73% of paediatric patients) {29557879; 25280658}. Appendiceal NECs have no specific preferential localization.</p>",
+        "timestamp": "2019-02-15T12:29:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 54594,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 165,
+        "headingText": "<p>There are no specific symptoms attributed to appendiceal NETs, which in 80% of cases are found incidentally after surgery for acute appendicitis {29557879}. The association with carcinoid syndrome is extremely rare and is indicative of metastatic disease {22262080; 26483424; 29374682}. NECs often present with advanced disease, similar to other appendiceal carcinomas.</p>",
+        "timestamp": "2019-02-15T12:29:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 54595,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 166,
+        "headingText": "<p>A recent SEER Program database analysis classified appendiceal NET as the fifth most frequent gastrointestinal NET, after small intestine, rectum, pancreas, and stomach locations {28448665}. Appendiceal NETs present with an incidence of 0.15&ndash;0.6&nbsp;cases per 100&nbsp;000&nbsp;person-years, with a slight female predominance and the highest incidence before the age of 40&nbsp;years {28448665; 22262080; 29374682; 29245922}. However, epidemiological data may have some limitations, because some registries and databases have regarded these neoplasms to be benign and therefore not included, whereas others include goblet cell adenocarcinoma with the NETs {22767417}. In a large recent review, appendiceal NETs were diagnosed in 1.86% of appendectomies between 2001 and 2015 {28641291}. Appendiceal NETs frequently occur in children, and they have an excellent long-term outcome in this age group {25280658; 26663900}.</p>",
+        "timestamp": "2019-03-27T17:00:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 54596,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 167,
+        "headingText": "<p>Unknown</p>",
+        "timestamp": "2019-02-15T12:30:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 54597,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 168,
+        "headingText": "<p>The pathogenesis of appendiceal NETs is largely unknown. They may arise from neuroendocrine cells within the mucosal crypts, but some evidence also suggests an origin from subepithelial neuroendocrine cells, particularly for enterochromaffin-cell (EC-cell) NETs, which commonly display S100-positive sustentacular-like cells surrounding the nests of neoplastic cells {1577412}. Although molecular data are still limited, appendiceal NETs appear to lack mutational changes in common cancer-associated genes {29634977}. Unlike in ileal NETs, chromosome&nbsp;18 deletions are rare, although appendiceal NETs do show non-recurrent large copy-number changes in several other chromosomes.</p>",
+        "timestamp": "2019-02-15T12:30:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 54598,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 207,
+        "headingText": "<p>Macroscopically, appendiceal NETs appear as well-demarcated yellowish (after formalin fixation) nodules. Because many small incidental NETs are not visible macroscopically, embedding of the entire tip of the appendix in two longitudinal pieces is recommended. Most appendiceal NETs are &lt;&nbsp;2&nbsp;cm in diameter (52&ndash;62% are &lt;&nbsp;1&nbsp;cm, 28&ndash;30% are 1&ndash;2&nbsp;cm, and 8&ndash;19% are &gt;&nbsp;2&nbsp;cm) {29557879; 29245922}.</p>",
+        "timestamp": "2019-02-15T12:30:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 54599,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 169,
+        "headingText": "<p><strong>NET:</strong> Microscopically, EC-cell NETs are most common and consist of uniform polygonal tumour cells frequently arranged in large nests, often with peripheral palisading and glandular formations, similar to ileal EC-cell NETs. Mitoses are infrequent to absent and necrosis is uncommon. The tumours are associated with a fibrotic stromal response in most cases. The bulk of the tumour (even in small tumours) often lies in the deep muscular wall and subserosa {16253897}. In the muscular wall, the nests can be replaced by small tumour cell ribbons. About one&nbsp;third of appendiceal NETs infiltrate the mesoappendix, including 50&ndash;82% that infiltrate the mesoappendix with a thickness of &lt;&nbsp;3&nbsp;mm {29557879; 23426123}. L-cell NET is a subtype of appendiceal NET composed of a different cell type. Incidental L-cell NETs show a distinct trabecular or glandular growth pattern. Similar to rectal L-cell NETs, they are formed by cells producing GLP-1 and other proglucagon-derived peptides. A rare subtype is tubular NET (formerly called tubular carcinoid), which must be distinguished from adenocarcinoma and goblet cell adenocarcinoma. Care must be taken not to misinterpret stromal retraction artefact as vascular invasion. The vast majority of both EC-cell and L-cell appendiceal NETs are G1 (86&ndash;91%) or G2 (9&ndash;14%) {29557879; 23426123}. It is not required or mandatory to specify L-cell NET or EC-cell NET in pathological reports, because this has no prognostic value and no treatment consequences.</p>\r\n<p><strong>NEC:</strong> Appendiceal NECs are exceedingly rare and are morphologically identical to colonic NECs of either small cell or large cell type {23749920; 29557879; 23426123}. They may arise in association with a glandular mucosal precursor lesion.</p>\r\n<p><strong>MANEC/MiNEN:</strong> The term &ldquo;mixed adenoneuroendocrine carcinoma (MANEC)&rdquo; has been previously used in the appendix to refer to goblet cell adenocarcinoma. These neoplasms are no longer considered to be a type of appendiceal NEN, but rather an adenocarcinoma subtype. True MiNENs of the appendix are rare and comparable to colonic MiNENs, showing a combination of a NEC and adenocarcinoma; they are diagnosed as mixed adenocarcinoma&ndash;large (or small) cell NEC.</p>\r\n<p><strong>Immunohistochemistry:</strong> Production of serotonin can be demonstrated by immunohistochemistry in EC-cell NETs, along with staining for chromogranin&nbsp;A and synaptophysin, and there are often S100-positive spindle cells surrounding the nests. L-cell NETs express chromogranin&nbsp;B rather than chromogranin&nbsp;A.</p>\r\n<p><strong>Grading:</strong> Appendiceal NENs are graded using the same system used for other gastroenteropancreatic NENs.</p>",
+        "timestamp": "2019-03-27T17:00:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 54600,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 170,
+        "headingText": "<p>Cytological evaluation of appendiceal NETs is not performed, because most cases are incidental findings at appendectomy.</p>",
+        "timestamp": "2019-02-15T12:31:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 54601,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 171,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-02-15T12:31:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 54602,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 174,
+        "headingText": "<h5>NET</h5>\r\n<p><em>Essential:</em> a uniform population of cells with round nuclei and finely stippled chromatin; architectural patterns include trabeculae, acini, nests, and ribbons; expression of synaptophysin and chromogranin&nbsp;A or chromogranin&nbsp;B.</p>\r\n<h5>NEC</h5>\r\n<p><em>Essential:</em> a small cell carcinoma or large cell carcinoma pattern; sheets or trabeculae of poorly differentiated cells; a high mitotic count and Ki-67 proliferation index.</p>",
+        "timestamp": "2019-10-15T17:15:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 54603,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 172,
+        "headingText": "<p>The staging of appendiceal NETs, which is presented in <a style=\"cursor:pointer\" href=\"/chaptercontent/31/1\" target=\"_blank\">section </a>Chapter&nbsp;1, has been modified in the eighth editions (2017) of the Union for International Cancer Control (UICC) TNM classification [[Brierly JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley Blackwell; 2017.]] and the American Joint Committee on Cancer (AJCC) cancer staging manual [[Amin MB, Edge S, Greene F, et al., editors. AJCC cancer staging manual. 8th ed. New York (NY): Springer; 2017.]]. It is based mainly on tumour size and infiltration of serosa/mesoappendix. In this classification, the great majority of NETs are classified as pT3 due to invasion of the subserosa or mesoappendix. NECs, MiNENs, and goblet cell adenocarcinomas are staged using the parameters for appendiceal adenocarcinomas.</p>",
+        "timestamp": "2019-06-04T18:55:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 54604,
+        "bookId": 31,
+        "chapterId": 143,
+        "headingId": 173,
+        "headingText": "<p>The value of follow-up data for appendiceal NETs is still a matter of debate for several reasons: most registry-based studies dated before 2010 are compromised by inconsistent coding of the neoplasms; also, institutional retrospective studies were small and provided limited long-term survival data. Most patients with appendiceal NET have an excellent outcome, the majority being cured by appendectomy. A recent SEER Program database study including 658&nbsp;NETs found a 10-year survival rate of 92% {29245922}, and institutional series show an even better prognosis of 97&ndash;99% {28641291; 23426123}. Metastases occur in 1.4&ndash;8.8% of cases {6650751}, typically involving only regional lymph nodes. Liver and other distant metastases are rare. There is no clear evidence that microscopic lymph node metastases lead to decreased survival {26663900; 25039014}. The 5-year survival rate is 34% when there are distant metastases {9024720}. Size is the most reliable indicator of metastatic potential. The risk of lymph node metastases is 0&ndash;11% in tumours &lt;&nbsp;1&nbsp;cm, 18&ndash;44% in tumours 1&ndash;2&nbsp;cm, and 30&ndash;86% in tumours &gt;&nbsp;2&nbsp;cm {24393285; 3696178; 29245922; 23051855; 21294132; 29557879}. The predictive size cut-off point for tumours considered to be at high risk of lymph node metastasis ranges from 1&nbsp;cm {29245922} to 2&nbsp;cm {29557879; 22262080}. Lymphatic invasion seems to be a weak risk factor for nodal metastasis {29557879}. Data regarding mesoappendiceal fat invasion are contradictory. In the most recent European Neuroendocrine Tumor Society (ENETS) classification {17674042}, invasion depth &gt;&nbsp;3&nbsp;mm was considered an indication to perform an extended resection, but without clear data in the literature that validate this 3&nbsp;mm limit as predictive of lymph node metastasis {29557879}. However, both invasion of mesoappendix and invasion &gt;&nbsp;3&nbsp;mm were reported to be associated with lower survival rates {23426123}. Lastly, a grade of G1 or G2 was not reported to be a predictor of adverse outcome or lymph node metastasis {23426123; 29557879}. There are therefore no established prognostic factors for survival of appendiceal NETs, and even the survival benefit of right hemicolectomy is unclear {29245922; 29557879}.</p>\r\n<p>Appendiceal NECs and MiNENs are high-grade malignant neoplasms, with a poor survival similar to that of their counterparts elsewhere in the GI tract.</p>",
+        "timestamp": "2019-02-15T12:31:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

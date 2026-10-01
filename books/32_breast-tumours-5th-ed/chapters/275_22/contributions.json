@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 377,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 176,
+    "contributions": [
+      {
+        "pkcontributionId": 56893,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 176,
+        "headingText": "\r\n<p>Mucinous carcinoma (MC) of the breast is an invasive breast carcinoma (IBC) characterized by clusters of epithelial tumour cells suspended in pools of extracellular mucin.</p>\r\n",
+        "timestamp": "2019-08-29T16:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 378,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 177,
+    "contributions": [
+      {
+        "pkcontributionId": 56894,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 177,
+        "headingText": "\r\n<p>8480/3 Mucinous adenocarcinoma</p>\r\n",
+        "timestamp": "2019-08-29T16:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 379,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 178,
+    "contributions": [
+      {
+        "pkcontributionId": 56895,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 178,
+        "headingText": "\r\n<p>2C60 &amp; XH1S75 Carcinoma of breast, specialized type &amp; Mucinous carcinoma</p>\r\n",
+        "timestamp": "2019-08-29T16:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 380,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 179,
+    "contributions": [
+      {
+        "pkcontributionId": 56896,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 179,
+        "headingText": "\r\n<p><em>Acceptable:</em> colloid carcinoma; mucinoid carcinoma; gelatinous carcinoma; mucoid carcinoma; mucinous adenocarcinoma; carcinoma with mucin production.</p>\r\n",
+        "timestamp": "2019-08-29T16:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 381,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 180,
+    "contributions": [
+      {
+        "pkcontributionId": 56897,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 180,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-08-29T16:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 382,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 181,
+    "contributions": [
+      {
+        "pkcontributionId": 56898,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 181,
+        "headingText": "\r\n<p>The localization of MC is similar to that of other types of breast carcinoma.</p>\r\n",
+        "timestamp": "2019-08-29T16:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 383,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 182,
+    "contributions": [
+      {
+        "pkcontributionId": 56899,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 182,
+        "headingText": "\r\n<p>MC appears mammographically as a well-circumscribed or lobulated mass, and it may mimic a benign process. Sonographically, most tumours are hypoechoic {20615642}. MRI reveals a persistent enhancement pattern and hyperintensity on T2-weighted images {21071383}.</p>\r\n",
+        "timestamp": "2019-08-29T16:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 384,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 183,
+    "contributions": [
+      {
+        "pkcontributionId": 56900,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 183,
+        "headingText": "\r\n<p>MC accounts for approximately 2% of all breast carcinomas {18026874; 2416216; 8017565; 9120527}. It often occurs in older women {18026874; 18809061}, with a median patient age of 71&nbsp;years {18026874; 10334529}.</p>\r\n",
+        "timestamp": "2019-08-29T16:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 385,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 184,
+    "contributions": [
+      {
+        "pkcontributionId": 56901,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 184,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/chaptercontent/32/18\" target=\"_blank\">section </a><em>Invasive breast carcinoma: General overview</em> .</p>\r\n",
+        "timestamp": "2019-08-29T16:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 386,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 185,
+    "contributions": [
+      {
+        "pkcontributionId": 56902,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 185,
+        "headingText": "\r\n<p>MCs are of the luminal&nbsp;A molecular subtype {18720457}, and they are transcriptionally distinct from grade- and molecular subtype&ndash;matched IBCs of no special type (NST) {19633645}. The transcriptomic features of type&nbsp;A MC differ from those of type&nbsp;B MC, with the latter showing a pattern of gene expression that is similar to that of neuroendocrine carcinomas (NECs) {19633645}. Pure MCs show a low level of genetic instability, less frequently harbour concurrent 1p gains and 16q losses and somatic mutations of <em>PIK3CA</em> and <em>AKT1</em> (hallmark genomic alterations of low-grade ER-positive IBC-NSTs) {20815046; 22705004; 16353168; 30649385; 30789657}, and exhibit aberrant DNA methylation of <em>MUC2</em> {30789657}. The different morphological components of mixed MCs are clonal and display genomic profiles remarkably similar to those of pure MCs {20815046}. Microsatellite instability, a common feature of colorectal MC, is exceedingly uncommon in mammary MC {21228925}.</p>\r\n",
+        "timestamp": "2019-08-29T16:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 393,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 206,
+    "contributions": [
+      {
+        "pkcontributionId": 56903,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 206,
+        "headingText": "<p>Gross examination shows a glistening and gelatinous nodule with pushing margins and a soft, viscous consistency. The tumour size ranges from &lt;&nbsp;1&nbsp;cm to &gt;&nbsp;20&nbsp;cm {18026874; 18809061}.</p>",
+        "timestamp": "2019-09-06T14:43:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 387,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 186,
+    "contributions": [
+      {
+        "pkcontributionId": 56904,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 186,
+        "headingText": "<p >MC consists of clusters or sheets of neoplastic cells suspended in abundant extracellular mucin, partitioned by delicate fibrous septa containing capillary blood vessels. The tumour clusters vary in size and shape. Nuclear grade is low or intermediate. Tumours with high nuclear grade have been described {17873114}, but they are best classified as IBC-NST with mucin production. As described by Capella et al. {6254868}, type&nbsp;A MCs are relatively hypocellular, with a large amount of extracellular mucin, whereas type&nbsp;B MCs tend to be hypercellular and consist of large epithelial clumps or sheets that often show neuroendocrine differentiation {6254868}. Pure MC requires a mucinous component of &gt;&nbsp;90%; mixed MC has 10&ndash;90%. A mucinous component of &lt;&nbsp;10% should be mentioned.</p>\r\n<p >Occasionally, pure MCs may have foci with a micropapillary pattern consisting of morula-like clusters suspended in tight mucin pools, reminiscent of invasive micropapillary carcinoma {12378595; 20962055; 23517923; 25953688; 18387988}. They usually exhibit more nuclear atypia than conventional MCs, and they may have hobnail cells; psammomatous calcifications may be present {12378595; 23517923}. Compared with conventional pure MC, MC with micropapillary pattern tends to occur at a younger age and has more-frequent lymphovascular invasion and lymph node metastasis {20962055; 23517923; 25953688}. One group reported significantly worse outcome for MC with &gt;&nbsp;50% micropapillary pattern compared with pure MC {25953688}, but another group found no differences, although the case series was smaller {30066338}.</p>\r\n<p>Invasive lobular carcinoma (ILC) with abundant extracellular mucin has been described {19490472; 20550696; 22867429; 26023557; 27315432; 28528509; 29850340; 30032676}. A non-mucinous ILC component was present in all cases. It is unknown whether these tumours represent a subtype of ILC or MC.</p>\r\n<p >Carcinoma with signet-ring cell differentiation consists of cells with abundant intracellular mucin that pushes the nucleus aside, creating the characteristic signet-ring cytomorphology. Carcinomas with signet-ring cells without extracellular mucin are not classified as MCs. Signet-ring cytomorphology is most common in ILC but may also be present in IBC-NST and rarely in other special histological subtypes. Therefore, carcinomas with signet-ring cell differentiation do not represent a distinct entity, and no specific clinical or molecular features have been described. Primary carcinomas of the breast with signet-ring cell differentiation must be distinguished from metastases to the breast of signet-ring cell carcinomas from other organs, in particular from the gastrointestinal tract.</p>\r\n<p>The differential diagnosis of MC includes non-neoplastic mucocoele-like lesions (MLLs) with stromal mucin and may be challenging {17873114}, especially in core biopsy material {19912367; 23534893; 17873114}. The absence of cytological atypia in the epithelium lining the mucin-filled ducts and the presence of myoepithelial cells adherent to the detached epithelial strips present in the mucin pools favour a non-atypical MLL over MC {17873114}. The upgrade rate at excision of radiology&ndash;pathology&ndash;concordant non-atypical MLLs in a core biopsy targeting calcifications is &lt;&nbsp;3% {19912367; 23534893; 25539258; 23402386; 23161710}. Some MLLs are associated with atypical ductal hyperplasia, ductal carcinoma in situ, or MC {8764744; 8302709; 26826407; 29024198}; however, MLLs without atypia do not significantly increase the risk of subsequent carcinoma {26826407; 29024198}.</p>\r\n<p>MC is usually positive for ER and PR {18026874; 18809061; 10334529}, and it is positive for AR in 80% of cases {21552212}. ERBB2 (HER2) overexpression and/or amplification is rare in MC but is found in &gt;&nbsp;10% of MCs with micropapillary pattern {23517923; 25953688}. Pure and mixed MCs express WT1 {18469795; 20815046} and GATA3 {25544392}.</p>",
+        "timestamp": "2019-09-06T15:42:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 388,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 187,
+    "contributions": [
+      {
+        "pkcontributionId": 56905,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 187,
+        "headingText": "<p>The cytological findings include 3D&nbsp;epithelial clusters and single cells of small to medium size, with mild to moderate nuclear atypia and occasional intracytoplasmic vacuoles, suspended within abundant extracellular mucin containing few branching capillary vessels {12931549; 16329537; 22129179}.</p>",
+        "timestamp": "2019-09-06T15:42:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 389,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 188,
+    "contributions": [
+      {
+        "pkcontributionId": 56906,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 188,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-08-29T16:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 392,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 191,
+    "contributions": [
+      {
+        "pkcontributionId": 56907,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 191,
+        "headingText": "<p><em>Essential:</em>&nbsp;Pure MC is characterized by a &gt;&nbsp;90% mucinous component, with clusters of epithelial tumour cells of low to intermediate nuclear grade, suspended in pools of extracellular mucin; usually ER/PR-positive; HER2-negative.</p>",
+        "timestamp": "2019-09-06T15:42:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 390,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 189,
+    "contributions": [
+      {
+        "pkcontributionId": 56908,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 189,
+        "headingText": "\r\n<p>MCs are staged similarly to other types of IBCs (see <a style=\"cursor:pointer\" href=\"/chaptercontent/32/18\" target=\"_blank\">section </a><em>Invasive breast carcinoma: General overview</em>).</p>\r\n",
+        "timestamp": "2019-08-29T16:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 391,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 190,
+    "contributions": [
+      {
+        "pkcontributionId": 56909,
+        "bookId": 32,
+        "chapterId": 22,
+        "headingId": 190,
+        "headingText": "<p>Pure MC is generally associated with low rates of local and distant recurrence and excellent 5-year disease-free survival {18026874; 18809061; 10334529; 17330844}. Late distant metastases may develop {2416216; 2545592}. In a retrospective analysis of 11&nbsp;422&nbsp;pure MCs in the SEER Program database {18026874}, the breast cancer&ndash;specific survival rates at 5, 10, 15, and 20&nbsp;years were 94%, 89%, 85%, and 81%, respectively. There is no prognostic difference between type&nbsp;A and type&nbsp;B MCs {8017565; 3028120}. In one retrospective series, MCs with a &gt;&nbsp;50% micropapillary component had significantly worse prognosis {25953688}. Mixed MCs do not have the same favourable prognosis as pure MCs {2827884; 3028120; 14308235}. Most pure MCs have a low or intermediate recurrence score (RS) by the 21-gene assay. In a series of 33&nbsp;pure MCs from a single institution, the median RS was 13 (range: 3&ndash;28) {28577081}, and all but one case had an RS of &lt;&nbsp;25 {28577081}. In a retrospective analysis of the 21-gene assay central database, 90.6% of 16&nbsp;116&nbsp;carcinomas classified as mucinous had an RS of &le;&nbsp;25, with a mean score of 15 {30094484}.</p>",
+        "timestamp": "2019-09-06T15:42:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

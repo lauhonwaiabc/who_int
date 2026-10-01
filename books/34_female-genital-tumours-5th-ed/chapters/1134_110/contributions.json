@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 62530,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 370,
+        "headingText": "\r\n<p>Wilms tumour is a tumour composed of a variable mixture of blastemal, epithelial, and mesenchymal elements mimicking its renal counterpart.</p>\r\n",
+        "timestamp": "2020-05-14T11:34:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 62531,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 371,
+        "headingText": "\r\n<p>8960/3 Wilms tumour</p>\r\n",
+        "timestamp": "2020-05-14T11:34:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 62532,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 372,
+        "headingText": "\r\n<p>2C73.Y &amp; XH5QN3 Other specified malignant neoplasms of the ovary &amp; Nephroblastoma NOS</p>\r\n",
+        "timestamp": "2020-05-14T11:34:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 62533,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 373,
+        "headingText": "\r\n<p><em>Acceptable:</em> nephroblastoma</p>\r\n",
+        "timestamp": "2020-05-14T11:34:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 62534,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-05-14T11:34:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 62535,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 375,
+        "headingText": "<p>Ovary {31815892; 28018955; 30701637}</p>",
+        "timestamp": "2020-08-06T16:22:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 62536,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 376,
+        "headingText": "<p>The usual presentation is abdominal pain/mass or menorrhagia {31815892}. Rare cases have presented either with calf pain due to deep venous thrombosis or with fever {31815892}.</p>",
+        "timestamp": "2020-08-06T16:23:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 62537,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 377,
+        "headingText": "<p>Three cases have been reported: one in a 16-year-old, one in a 36-year-old, and one in which the patient&rsquo;s age was not specified {31815892; 30701637}.</p>",
+        "timestamp": "2020-08-06T16:23:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 62538,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 378,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-05-14T11:34:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 62539,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 379,
+        "headingText": "\r\n<p>Ovarian pure Wilms tumour may arise from persistent mesonephric duct remnants or cells with persistent embryogenic potential; teratoid Wilms tumour (a combination of Wilms tumour and teratoma in which the heterologous elements represent &gt;&nbsp;50% of the neoplasm {2853218}) appears to arise from misplaced totipotent nephrogenic blastemal elements {28018955}.</p>\r\n",
+        "timestamp": "2020-05-14T11:34:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 62540,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 386,
+        "headingText": "<p>Pure Wilms tumour occurs as a unilateral, cystic, and solid mass that tends to be &gt;&nbsp;10&nbsp;cm; teratoid Wilms tumour can occur as a small component in a teratoma {31815892; 28018955}.</p>",
+        "timestamp": "2020-08-06T16:23:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 62541,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 380,
+        "headingText": "<p>Wilms tumour typically shows a combination of blastemal, epithelial, and mesenchymal elements; however, some tumours only show one or two of these elements. The blastemal component consists of densely packed, small to medium-sized cells with scant cytoplasm, nuclei with coarse chromatin, numerous mitoses, and apoptotic bodies arranged in different patterns (solid, serpentine, nodular, or basaloid). The epithelial component includes rosette-like and glomerulus-like structures, variably differentiated tubules, and cystic spaces or papillary structures lined by columnar or cuboidal cells with hyperchromatic nuclei. The mesenchymal component is represented by spindle cells, skeletal or smooth muscle, cartilage, fat, or bone. In addition, ganglion cells or neuroglia can be seen {24713986; 31815892; 10872672}. Immunohistochemically, the blastemal and epithelial components are positive for WT1, PAX8, CAM5.2, and CD56, and the epithelial cells are positive for cytokeratins. Blastemal cells may stain with desmin but do not stain with myogenin or MYOD1. Wilms tumour is negative for synaptophysin, chromogranin, calretinin, and inhibin {31815892}.</p>",
+        "timestamp": "2020-08-06T16:24:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 62542,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 381,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-14T11:34:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 62543,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-14T11:34:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 62544,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> an ovarian tumour with a variable mixture of blastemal and epithelial and mesenchymal elements, without a renal mass.</p>\r\n",
+        "timestamp": "2020-05-14T11:34:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 62545,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 383,
+        "headingText": "<p>The US National Wilms Tumor Study considers all extrarenal Wilms tumours to be at least stage&nbsp;II; therefore, all cases require chemotherapy {31815892}.</p>",
+        "timestamp": "2020-08-06T16:24:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 62546,
+        "bookId": 34,
+        "chapterId": 110,
+        "headingId": 384,
+        "headingText": "<p>Experience is limited; however, no documented deaths of disease have been reported after a follow-up ranging from 3 to 108&nbsp;months, even in those patients who had advanced-stage disease or recurrence shortly after surgery {31815892; 30701637}.</p>",
+        "timestamp": "2020-08-06T16:24:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

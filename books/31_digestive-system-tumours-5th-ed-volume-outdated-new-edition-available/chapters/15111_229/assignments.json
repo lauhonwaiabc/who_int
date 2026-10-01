@@ -1,0 +1,115 @@
+[
+  {
+    "pkroleId": 58,
+    "bookId": "31",
+    "roleid": 9,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2004,
+        "lastname": "Lax",
+        "firstname": "Sigurd F.",
+        "initials": "",
+        "email": "",
+        "roleid": 9,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 59,
+    "bookId": "31",
+    "roleid": 10,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 10,
+        "position": 0
+      },
+      {
+        "contributorid": 2019,
+        "lastname": "Arends",
+        "firstname": "Mark J.",
+        "initials": "MJ",
+        "email": "",
+        "roleid": 10,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 60,
+    "bookId": "31",
+    "roleid": 11,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 1997,
+        "lastname": "Carneiro",
+        "firstname": "Fátima",
+        "initials": "F",
+        "email": "",
+        "roleid": 11,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 61,
+    "bookId": "31",
+    "roleid": 12,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2145,
+        "lastname": "Kumarasinghe",
+        "firstname": "M Priyanthi",
+        "initials": "MP",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2157,
+        "lastname": "Wen",
+        "firstname": "Xiogang",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2158,
+        "lastname": "de Boer",
+        "firstname": "Willem Bastiaan",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2160,
+        "lastname": "Chenevix-Trench",
+        "firstname": "Georgia",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2207,
+        "lastname": "Worthley",
+        "firstname": "Daniel",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      }
+    ]
+  }
+]

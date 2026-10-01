@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 149625,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 951,
+        "headingText": "\r\n<p>Mantle cell lymphoma (MCL) is a mature B-cell neoplasm derived from the mantle zone of lymphoid follicles and typically composed of small to medium-sized monomorphic cells positive for CD5, SOX11, and cyclin&nbsp;D1. It is associated with CCND-family rearrangements, usually <em>CCND1</em>.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 149626,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 952,
+        "headingText": "\r\n<p>96730/3 Mantle cell lymphoma, NOS</p>\r\n",
+        "timestamp": "2026-06-09T11:29:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 149627,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 953,
+        "headingText": "\r\n<p>2A85.5 &amp; XA03U9 Mantle cell lymphoma of colon</p>\r\n<p>2A85.5 &amp; XA7MC7 Mantle cell lymphoma of stomach</p>\r\n<p>2A85.5 &amp; XA6452 Mantle cell lymphoma of small intestine</p>\r\n",
+        "timestamp": "2026-06-09T11:29:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 149628,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 954,
+        "headingText": "\r\n<p><em>Not recommended:</em> centrocytic lymphoma.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 149629,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 955,
+        "headingText": "\r\n<h5>Molecular subtypes</h5>\r\n<p>Cyclin D1&ndash;positive mantle cell lymphoma (96731/3); cyclin D1&ndash;negative mantle cell lymphoma (96732/3)</p>\r\n<h5>Morphological subtypes</h5>\r\n<p>Blastoid mantle cell lymphoma; pleomorphic mantle cell lymphoma; small cell mantle cell lymphoma; marginal zone&ndash;like mantle cell lymphoma</p>\r\n",
+        "timestamp": "2026-06-09T11:29:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 149630,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 956,
+        "headingText": "\r\n<p>MCL frequently involves the GI tract; as many as 80&ndash;90% of patients have subclinical disease {12548600;17001159;32072136}. Primary GI tract MCL is rare (&lt;&nbsp;5% of patients) {33414416}. Colon is the most common site, followed by stomach and small intestine {35475204}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 149631,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 957,
+        "headingText": "\r\n<p>Patients with MCL often present with widespread lymphadenopathy and involvement of spleen, liver, and bone marrow {16173960;34114641}. Patients with GI tract involvement are often asymptomatic with disease detected by (screening) endoscopy. About 10&ndash;20% of patients with GI tract disease can present with bleeding, diarrhoea, or rarely GI tract obstruction {12548600;17001159;33414416}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 149632,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 958,
+        "headingText": "\r\n<p>MCL accounts for 2&ndash;10% of all lymphoid neoplasms worldwide {25174028;24763513}. The incidence of MCL is 1.1&nbsp;cases per 100&nbsp;000&nbsp;person-years in men and 0.26 in women in Europe {24763513}, and 0.13&nbsp;cases per 100&nbsp;000&nbsp;person-years for both sexes in the Republic of Korea {28361523}. The median age at diagnosis is the sixth or seventh decade of life, and MCL is more common in men than in women (&gt;&nbsp;3:1) {25174028;24763513}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 149633,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 959,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-06-09T11:29:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 149634,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 960,
+        "headingText": "\r\n<p>t(11;14)(q13;q32) (IGH::<em>CCND1</em>) is present in &ge;&nbsp;90% of cases {32584970;34114641}. Occasionally, <em>IGK</em> or <em>IGL</em> is the <em>CCND1</em> translocation partner. <em>CCND1</em> rearrangement results in overexpression of cyclin&nbsp;D1, which activates the cyclin&nbsp;D1&ndash;dependent kinase pathway {27582569;28466437}. A small subset of MCL cases lack <em>CCND1</em> rearrangements and cyclin&nbsp;D1 expression; these cases often carry <em>CCND2</em> or rarely <em>CCND3</em> rearrangements {23255553}.</p>\r\n<p>Secondary genomic alterations are present in &gt;&nbsp;90% of cases, and MCL displays a complex mutation landscape {32598477;32584970;34114641;39571691}. Secondary copy-number alterations and mutations affect key signalling pathways in MCL pathogenesis, including cell-cycle regulation (<em>CCND1</em>, <em>RB1</em>), DNA damage response (<em>ATM</em>, <em>TP53</em>), cell proliferation and apoptosis (<em>BCL2</em>, <em>MYC</em>), B-cell receptor&nbsp;/ NF-&kappa;B signalling (<em>CARD11</em>/<em>BIRC3</em>/<em>MAP3K14</em>), and epigenetic modifiers (<em>KMT2D</em>, <em>NSD2</em>, <em>SMARCA4</em>). <em>ATM</em> is frequently mutated (40&ndash;60% of cases).</p>\r\n<p>Expression of homing receptor &alpha;4&beta;7 by MCL cells has been associated with GI tract involvement {9846960}. Specific genetic characteristics associated with GI tract involvement are unknown.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 149635,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 967,
+        "headingText": "\r\n<p>The GI tract may be involved by superficial ulcers, large tumours, or diffuse thickening of mucosa {17001159;33414416}. In some patients, gross lesions may not be identified {12548600}. Presentation as multiple intestinal polyps is distinctive but not specific {16241994;20206107}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 149636,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 961,
+        "headingText": "\r\n<h5>Morphology</h5>\r\n<p>Classic MCL is a monomorphic proliferation of small to medium-sized cells with scant cytoplasm, irregular nuclear contours, condensed chromatin, and inconspicuous nucleoli. The neoplasm may exhibit mantle zone (&lt;&nbsp;5%), nodular, or diffuse growth patterns {26926679;34114641}. Small cell subtype is characterized by small round cells that overlap with chronic lymphocytic leukaemia. Blastoid subtype is characterized by intermediate-sized cells with finely dispersed chromatin mimicking lymphoblasts. Pleomorphic subtype shows large cells with irregular nuclei and nucleoli overlapping with large B-cell lymphoma. Mitotic figures are increased in the blastoid and pleomorphic subtypes.</p>\r\n<p>In&nbsp;situ mantle cell neoplasm is characterized by the presence of cyclin&nbsp;D1&ndash;positive cells restricted to mantle zones of otherwise reactive follicles. When found incidentally, progression to overt MCL is uncommon {22790016}.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>MCL cells are positive for pan B-cell markers and are negative for CD3 {34114641;34767860}. Nuclear cyclin&nbsp;D1 is expressed in &gt;&nbsp;95% of MCL cases, and SOX11 is usually positive. MCL cells are usually CD5 positive, often CD43 positive, and usually negative for CD10, CD23, CD200, BCL6, and LEF1 {34114641}. Blastoid and pleomorphic cases can uncommonly express CD10 and/or BCL6.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>In the GI tract, the differential diagnosis includes extranodal marginal zone lymphoma (mucosa-associated lymphoid tissue lymphoma), the most prevalent small B-cell lymphoma at these sites; duodenal-type follicular lymphoma; and systemic involvement by small to medium-sized B-cell lymphomas. Pleomorphic and blastoid subtypes of MCL must be distinguished from large B-cell lymphoma (particularly cyclin&nbsp;D1&ndash;positive), B-lymphoblastic leukaemia/lymphoma, and Burkitt lymphoma {22642745;39313500;33528622}. Immunohistochemistry for SOX11 and molecular data are helpful in differential diagnosis.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 149637,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 962,
+        "headingText": "\r\n<p>FNAB combined with immunophenotypic analysis can be helpful to detect MCL in the liver or spleen, and it is helpful in the setting of relapsed/residual disease.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 149638,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 963,
+        "headingText": "\r\n<p>In a neoplasm with appropriate morphological and immunophenotypic findings, uniform cyclin&nbsp;D1 expression is sufficient to confirm the diagnosis. In cases of cyclin&nbsp;D1&ndash;negative MCL, demonstration of SOX11 expression and presence of <em>CCND2</em> rearrangement are helpful to support the diagnosis. <em>MYC</em> rearrangement and/or <em>TP53</em> mutation are associated with disease progression {29196411;32273477;38748869}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 149639,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 966,
+        "headingText": "\r\n<h5>Cyclin&nbsp;D1&ndash;positive MCL</h5>\r\n<p><em>Essential:</em> lymphoma cells of B&nbsp;lineage (positive for CD19 or CD20 and usually CD5); monomorphic, centrocyte-like cells or (less often) variant cytology of subtypes (blastoid, pleomorphic, etc.); cyclin&nbsp;D1 positivity and/or <em>CCND1</em> rearrangement.</p>\r\n<p><em>Desirable:</em> SOX11 expression.</p>\r\n<h5>Cyclin&nbsp;D1&ndash;negative MCL</h5>\r\n<p><em>Essential:</em> lymphoma cells of B&nbsp;lineage (positive for CD19 or CD20 and usually CD5); monomorphic, centrocyte-like cells or (less often) variant cytology of subtypes (blastoid, pleomorphic, etc.); immunophenotype consistent with MCL with SOX11 expression; absence of cyclin&nbsp;D1 expression or <em>CCND1</em> rearrangement.</p>\r\n<p><em>Desirable:</em> <em>CCND2</em> rearrangement.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 149640,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 964,
+        "headingText": "\r\n<p>Lymphoid neoplasms are staged according to the Lugano classification, which has been adopted by the ninth edition of the Union for International Cancer Control (UICC) TNM classification {25113753} [[Brierley JD, Giuliani M, O&rsquo;Sullivan B, et al., editors. TNM Classification of Malignant Tumours. 9th ed. Oxford (UK): John Wiley &amp; Sons; 2025. Bookref]].</p>\r\n",
+        "timestamp": "2026-06-09T11:29:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 149641,
+        "bookId": 72,
+        "chapterId": 134,
+        "headingId": 965,
+        "headingText": "\r\n<p>Median overall survival time of patients with MCL is 5&ndash;10&nbsp;years. Patients who present with isolated or predominantly extranodal manifestations have a more favourable outcome than patients with nodal MCL {32072136}. Prognostic biomarkers have been established for patients with conventional MCL. Cytomorphology (classic vs blastoid/pleomorphic), Ki-67 (&gt;&nbsp;30%) and p53 staining (&gt;&nbsp;50%), and/or <em>TP53</em> mutation help define a high-risk MCL cohort {26926679;29196411;38104096;39284897}. The MCL International Prognostic Index (MIPI) {24687837} defines risk groups but currently does not govern treatment approaches for individual patients. Treatment can vary from watchful waiting to immunochemotherapy dependent on clinical and tumour risk factors {30132080;38104096;38748869}.</p>",
+        "timestamp": "2026-06-09T11:29:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

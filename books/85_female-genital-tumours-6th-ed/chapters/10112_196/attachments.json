@@ -1,0 +1,47 @@
+[
+  {
+    "pkattachmentId": 77361,
+    "bookid": 85,
+    "chapterId": 196,
+    "fileId": 52754,
+    "type": "Figure",
+    "diagnosis": "Smooth muscle tumour of uncertain malignant potential",
+    "title": "",
+    "legend": "The tumour shows significant nuclear atypia, 2.37 mitoses/mm<sup>2</sup> (7 mitoses/10 HPF), and lacks tumour cell necrosis. Circle dots indicate the mitotic figures in low-power (upper) and high-power (lower) fields.",
+    "source": "Jian-Jun Wei",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/85/196/52754.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/85/196/thumb_52754.jpg"
+  },
+  {
+    "pkattachmentId": 78121,
+    "bookid": 85,
+    "chapterId": 196,
+    "fileId": 52068,
+    "type": "WSI",
+    "diagnosis": "STUMP",
+    "title": "",
+    "legend": "A smooth muscle tumour with 20 mitoses per 10 high power fields, and without significant nuclear atypia or tumour cell necrosis.",
+    "source": "Jian-Jun Wei",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/52068.dzi",
+    "thumbnail": null
+  },
+  {
+    "pkattachmentId": 78138,
+    "bookid": 85,
+    "chapterId": 196,
+    "fileId": 52631,
+    "type": "WSI",
+    "diagnosis": "STUMP",
+    "title": "",
+    "legend": "A smooth muscle tumour with significant nuclear atypia, 7 mitoses per 10 high power fields, and without tumour cell necrosis. ",
+    "source": "Jian-Jun Wei",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/52631.dzi",
+    "thumbnail": null
+  }
+]

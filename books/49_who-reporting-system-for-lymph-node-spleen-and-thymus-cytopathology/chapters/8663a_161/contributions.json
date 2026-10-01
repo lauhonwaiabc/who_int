@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 796,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 688,
+    "contributions": [
+      {
+        "pkcontributionId": 121854,
+        "bookId": 49,
+        "chapterId": 161,
+        "headingId": 688,
+        "headingText": "\r\n<p>Lymphomatoid granulomatosis (LYG) is an EBV-associated angiocentric and angiodestructive B-cell lymphoproliferative disorder involving extranodal sites, composed of EBV-positive atypical large B&nbsp;cells usually admixed with a large number of reactive T&nbsp;cells, in patients lacking evidence of inborn or acquired immunodeficiency/dysregulation other than immunosenescence.</p>\r\n",
+        "timestamp": "2024-09-24T16:47:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 797,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 689,
+    "contributions": [
+      {
+        "pkcontributionId": 121855,
+        "bookId": 49,
+        "chapterId": 161,
+        "headingId": 689,
+        "headingText": "\r\n<p>LYG always involves the lung, although not all patients present with respiratory symptoms&nbsp;&ndash; in these cases, lung involvement may only be demonstrated by imaging. Other sites of involvement include the CNS, skin, kidneys, and liver. Involvement of lymph nodes and/or bone marrow is extremely rare, and if the cytopathological features raise the possibility of LYG, it is usually in the context of a differential diagnosis {32107539}.</p>\r\n",
+        "timestamp": "2024-09-24T16:47:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 798,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 690,
+    "contributions": [
+      {
+        "pkcontributionId": 121856,
+        "bookId": 49,
+        "chapterId": 161,
+        "headingId": 690,
+        "headingText": "\r\n<p>LYG is characterized by an angiocentric and angiodestructive lymphoid infiltrate affecting small to large blood vessels. Central necrosis is often present. Despite the name, well-formed granulomas are typically absent, except in the skin. Grading is based on the density of EBV-positive B&nbsp;cells relative to the reactive lymphocyte background, but grading is poorly reproducible {25321327; 32107539}.</p>\r\n",
+        "timestamp": "2024-09-24T16:47:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 799,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 691,
+    "contributions": [
+      {
+        "pkcontributionId": 121857,
+        "bookId": 49,
+        "chapterId": 161,
+        "headingId": 691,
+        "headingText": "\r\n\r\nMixed lymphoid infiltrate of lymphocytes and varying numbers of plasma cells and histiocytes with a usually small number of large atypical lymphoid cells\r\nLarge atypical lymphoid cells may resemble immunoblasts or less frequently Hodgkin cells, with single large nuclei, reticular chromatin, and large light-blue (Giemsa) nucleoli.\r\n\r\n",
+        "timestamp": "2024-09-24T16:47:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 800,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 692,
+    "contributions": [
+      {
+        "pkcontributionId": 121858,
+        "bookId": 49,
+        "chapterId": 161,
+        "headingId": 692,
+        "headingText": "\r\n<p>The diagnosis of LYG requires demonstration of angiocentricity of the lymphoid infiltrate. The role of FNAB is to demonstrate the mix of large atypical lymphoid cells in a background of reactive lymphocytes and raise the differential diagnosis of LYG and other EBV-positive disorders and Hodgkin lymphoma, while a specific diagnosis cannot be made on cytopathology alone. If there is a uniform population of large atypical EBV-positive B&nbsp;cells, EBV-positive diffuse large B-cell lymphoma should be diagnosed.</p>\r\n",
+        "timestamp": "2024-09-24T16:47:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 801,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 693,
+    "contributions": [
+      {
+        "pkcontributionId": 121859,
+        "bookId": 49,
+        "chapterId": 161,
+        "headingId": 693,
+        "headingText": "<p>The presence of EBV-positive B&nbsp;cells is essential, as assessed by FISH for EBV-encoded small RNA (EBER). Immunoglobulin gene rearrangement by PCR shows infrequent clonality in low-grade lesions, with increased likelihood of clonality in high-grade lesions. By immunocytochemistry, the B&nbsp;cells are positive for CD20 and may be positive for CD30. Most background cells are CD3-positive T&nbsp;cells, most of which are CD4-positive {25321327}.</p>",
+        "timestamp": "2024-11-21T16:31:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1174,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 795,
+    "contributions": [
+      {
+        "pkcontributionId": 159012,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 795,
+        "headingText": "\r\n<p>Bloom syndrome is an autosomal recessive disorder due to loss-of-function variants in the <em>BLM</em> gene encoding a RECQ helicase. It is characterized by prenatal and postnatal growth deficiency, skin photosensitivity, typical facial appearances, insulin resistance, and immune deficiency leading to a marked increase in risk of early-onset cancer and development of myeloid and lymphoid neoplasms.</p>\r\n",
+        "timestamp": "2026-09-02T11:52:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1175,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "MIM numbering",
+    "headingPosition": 2,
+    "headingid": 796,
+    "contributions": [
+      {
+        "pkcontributionId": 159013,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 796,
+        "headingText": "\r\n<p>210900 Bloom syndrome; BLM</p>\r\n",
+        "timestamp": "2026-09-02T11:52:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1176,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 797,
+    "contributions": [
+      {
+        "pkcontributionId": 159014,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 797,
+        "headingText": "\r\n<p>4A01.31 DNA repair defects other than combined T-cell or B-cell immunodeficiencies</p>\r\n",
+        "timestamp": "2026-09-02T11:52:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1177,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 798,
+    "contributions": [
+      {
+        "pkcontributionId": 159015,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 798,
+        "headingText": "\r\n<p><em>Not recommended:</em> autosomal recessive cancer predisposition syndrome associated with chromosome instability.</p>\r\n",
+        "timestamp": "2026-09-02T11:52:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1178,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 799,
+    "contributions": [
+      {
+        "pkcontributionId": 159016,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 799,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-09-02T11:52:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1179,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 800,
+    "contributions": [
+      {
+        "pkcontributionId": 159017,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 800,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2026-09-02T11:52:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1180,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 801,
+    "contributions": [
+      {
+        "pkcontributionId": 159018,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 801,
+        "headingText": "\r\n<p>Affected individuals show abnormal growth with very severe short stature, feeding difficulties, skin changes particularly on the face, immune deficiency, increased risk of diabetes, and increased risk of a variety of cancer types at a young age. The most commonly diagnosed haematological malignancies include acute myeloid leukaemia, acute lymphoblastic leukaemia, and lymphoma {28232778}. The high incidence of acute myeloid leukaemia is potentially due to preceding treated myelodysplastic syndrome. In approximately 75% of cases, lymphoma is the first neoplasm and in 25% it represents a second malignancy {28232778}. Solid tumours (Wilms tumour, breast cancer, and colon cancer) of varying histological profiles are common. In one large series, by the age of 25&nbsp;years, 33% of individuals had developed cancer, and by the age of 40&nbsp;years this increased to 80.9% {30055079}.</p>\r\n",
+        "timestamp": "2026-09-02T11:52:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1181,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 802,
+    "contributions": [
+      {
+        "pkcontributionId": 159019,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 802,
+        "headingText": "\r\n<p>Bloom syndrome is extremely rare {31537806}. In certain populations it is higher in frequency, and the estimated carrier frequency is 1:107 in the Ashkenazi Jewish population, owing to the NM_000057.4:c.2207_2212delins p.(Tyr736Leufs*S) variant in <em>BLM</em> {9758720}; a second, rarer, recurrent variant in this population is NM_000057.4:c.2407dup p.(Trp803Leufs*4) {17407155}.</p>\r\n",
+        "timestamp": "2026-09-02T11:52:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1182,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 803,
+    "contributions": [
+      {
+        "pkcontributionId": 159020,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 803,
+        "headingText": "\r\n<p>Germline (constitutional) homozygous or compound heterozygous loss-of-function variants of <em>BLM </em>(also known as <em>RECQL3</em>) result in absence of the functional BLM protein, which encodes a RECQ helicase, leading to chromosome instability, excessive homologous recombination, and an increased number of sister chromatid exchanges {1518822;14263770;4140506}.</p>\r\n",
+        "timestamp": "2026-09-02T11:52:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1183,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 804,
+    "contributions": [
+      {
+        "pkcontributionId": 159021,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 804,
+        "headingText": "\r\n<p>BLM is a component of a multisubunit complex of proteins together with the Fanconi anaemia core complex {29089570}. It functions as a 3&prime; to 5&prime; DNA helicase and is critical for maintenance of genomic integrity and resolving stalled replication forks, which relates to cancer predisposition {16914751}. BLM plays a critical role in T- and B-cell development {17210642} and immune integrity {19109166}. In Bloom syndrome, there are normal numbers of T&nbsp;cells and B&nbsp;cells but significant impairments of T-cell function {6980748}, as well as deficiencies of serum immunoglobulin class {16763388}.</p>\r\n",
+        "timestamp": "2026-09-02T11:52:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1190,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 811,
+    "contributions": [
+      {
+        "pkcontributionId": 159022,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 811,
+        "headingText": "\r\n<p>Solid tumours related to Bloom syndrome have the same appearance as their sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-09-02T11:52:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1184,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 805,
+    "contributions": [
+      {
+        "pkcontributionId": 159023,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 805,
+        "headingText": "\r\n<p>A variety of haematopoietic neoplasms, including acute myeloid leukaemia, acute lymphoblastic leukaemia, and lymphoma, are observed. The histological and immunophenotypic features are characteristic of the representative lineage and subtype. Carcinomas from diverse sites, including skin, head and neck, lung, uterus, breast, and gastrointestinal tract, have no specific morphological findings distinguishing them from their sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-09-02T11:52:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1185,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 806,
+    "contributions": [
+      {
+        "pkcontributionId": 159024,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 806,
+        "headingText": "\r\n<p>Cytologically, individual tumours are indistinguishable from their sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-09-02T11:52:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1186,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 807,
+    "contributions": [
+      {
+        "pkcontributionId": 159025,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 807,
+        "headingText": "\r\n<p>DNA sequencing analysis and evaluation for deletion/duplication may both be needed to effectively assess the <em>BLM</em> gene for biallelic pathogenic variants {20301572}. For patients of Ashkenazi ancestry, direct testing for population-specific variants is sometimes undertaken first. Before the discovery of the <em>BLM </em>gene, cytogenetic testing for increased sister chromatid exchange was used to detect the associated chromosome instability. However, patients who are compound heterozygous can show corrected alleles owing to the high recombination rate and have normal sister chromatid exchange analysis {7485150}.</p>\r\n",
+        "timestamp": "2026-09-02T11:52:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1189,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 810,
+    "contributions": [
+      {
+        "pkcontributionId": 159026,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 810,
+        "headingText": "\r\n<p><em>Essential:</em> the diagnosis is made after recognition of a suggestive pattern of growth and medical problems; demonstration of biallelic variants in <em>BLM</em> by DNA sequencing.</p>\r\n<p><em>Desirable:</em> a small percentage of pathogenic variants require gene-targeted deletion/duplication analysis for detection.</p>\r\n<p>&nbsp;</p>\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/67/161/37917\" target=\"_blank\">#37917</a>Table&nbsp;5.23.</p>\r\n",
+        "timestamp": "2026-09-02T11:52:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1187,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 808,
+    "contributions": [
+      {
+        "pkcontributionId": 159027,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 808,
+        "headingText": "\r\n<p>Staging is as for sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-09-02T11:52:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1188,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 809,
+    "contributions": [
+      {
+        "pkcontributionId": 159028,
+        "bookId": 67,
+        "chapterId": 161,
+        "headingId": 809,
+        "headingText": "\r\n<p>Affected individuals have many medical and health issues and major concerns are related to skin abnormalities, problems with growth retardation, endocrinological disease, and risk of malignancies. Surveillance guidelines including early imaging for Wilms tumour risk, whole body MRI for lymphoma, colonoscopy, and breast MRI in young adults have been developed {30055079}. Use of therapeutic radiation and some chemotherapeutic agents such as alkylating drugs may increase the risk of secondary malignancies and should be avoided if possible. Patients are especially prone to experience treatment-related toxicity and may need special vigilance when receiving standard or modified/reduced-intensity chemotherapy {28232778}. Nevertheless, as cure of leukaemias and lymphomas is possible in these patients, up-front de-escalation of chemotherapy with successive adaptations is currently recommended to reduce the risk of therapy-related fatalities</p>",
+        "timestamp": "2026-09-02T11:52:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

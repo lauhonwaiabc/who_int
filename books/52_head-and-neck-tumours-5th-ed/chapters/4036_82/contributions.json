@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 113652,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 576,
+        "headingText": "\r\n<p>Basal cell adenocarcinoma (BCAC) is a malignant infiltrative basaloid salivary gland tumour composed of a mixture of basal and ductal cells.</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 113653,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 577,
+        "headingText": "\r\n<p>8147/3 Basal cell adenocarcinoma</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 113654,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 578,
+        "headingText": "\r\n<p>2B67.Z &amp; XH9SA7 Malignant neoplasms of parotid gland, unspecified &amp; Basal cell adenocarcinoma</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 113655,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> carcinoma ex monomorphic adenoma; malignant dermal analogue tumour.</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 113656,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 113657,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 581,
+        "headingText": "\r\n<p>Most BCACs occur in the parotid gland (&gt;&nbsp;90%) {2326038; 8734419; 17178498; 25555241}.</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 113658,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 582,
+        "headingText": "\r\n<p>BCAC usually presents as a slow-growing nodule in the parotid gland. Patients with syndromic BCAC may also have multiple skin adnexal tumours {2326038; 2827601; 9726688; 19455704}.</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 113659,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 583,
+        "headingText": "\r\n<p>BCAC accounts for &lt;&nbsp;3% of malignant salivary tumours {8734419; 17178498; 25555241}. Most affected patients are in their sixth or seventh decade of life {8734419; 33526221; 17178498; 25555241}. There is no sex predilection.</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 113660,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 584,
+        "headingText": "<p >Some BCACs (~15%) occur in the setting of Brooke&ndash;Spiegler syndrome {19455704}. Most BCACs arise de&nbsp;novo, but a few develop from pre-existing basal cell adenoma (BCA) {2769045; 3977010; 9198102; 27327192}.</p>",
+        "timestamp": "2023-10-18T15:38:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 113661,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 585,
+        "headingText": "\r\n<p>BCAC may show a complex genetic profile {27259009; 27224988}. A subset of cases show <em>CYLD</em> or <em>CTNNB1</em> alterations {12023583; 29496310; 29463883; 30053869}.</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 113662,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 592,
+        "headingText": "\r\n<p>BCACs typically range in size from 20&nbsp;to 40&nbsp;mm {26451535; 33526221} and present as a firm, unencapsulated, tan mass.</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 113663,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 586,
+        "headingText": "\r\n<p>BCACs show tubulotrabecular, membranous, or solid growth, with the latter two patterns predominating. Tumour nests show peripheral palisading of dark cells with paler cells and centrally located ducts. Squamous and sebaceous elements may be seen. Nuclei are vesicular. About 25% show perineural and vascular invasion; anaplasia is rare.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Epithelial and myoepithelial markers highlight the dual cell composition of BCAC. Nuclear &beta;-catenin immunoexpression is present in a subset of BCACs {24143938; 27259009; 29224720; 29496310; 30053869}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The presence of peripheral palisading and focal squamous metaplasia can help to separate BCAC from adenoid cystic carcinoma. BCAC is distinguished from BCA by infiltration, necrosis, and mitoses (especially when &gt;&nbsp;4&nbsp;mitoses/2&nbsp;mm<sup>2</sup>) {9452259}.</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 113664,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 587,
+        "headingText": "\r\n<p>BCAC shows very similar cytopathological features to those of BCA (see <a style=\"cursor:pointer\" href=\"/chaptercontent/52/65\" target=\"_blank\">section </a><em>Basal cell adenoma</em>). Squamoid and sebaceous features may be seen focally, helping to distinguish BCAC from adenoid cystic carcinoma {8701930}; however, differentiating BCA from BCAC and from adenoid cystic carcinoma is not always possible, and the term &ldquo;basaloid neoplasm&rdquo; is often appropriate.</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 113665,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 588,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 113666,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em> a salivary gland malignancy with invasive growth; basaloid morphology; peripheral palisading with paler inner cells and ducts; dual population immunophenotype.</p>",
+        "timestamp": "2023-10-18T15:38:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 113667,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 589,
+        "headingText": "<p>Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2023-10-09T16:59:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 113668,
+        "bookId": 52,
+        "chapterId": 82,
+        "headingId": 590,
+        "headingText": "\r\n<p>Local recurrence rates are about 37% {8952553}, but complete surgical excision with clear margins is curative in &gt;&nbsp;90% of cases. Regional lymph node and distant metastasis and disease-related death are rare (&lt;&nbsp;10%). Age and T&nbsp;categorization are key prognosticators {26451535}.</p>",
+        "timestamp": "2023-09-26T13:31:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 69146,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 539,
+        "headingText": "<p><em>ALK</em>-rearranged renal cell carcinomas (RCCs) harbour chromosome translocations resulting in gene fusions involving the anaplastic lymphoma kinase gene (<em>ALK</em>) at chromosome 2p23.</p>",
+        "timestamp": "2022-04-26T14:39:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 69147,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 540,
+        "headingText": "\r\n<p>8311/3 <em>ALK</em>-rearranged renal cell carcinomas</p>\r\n",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 69148,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 541,
+        "headingText": "\r\n<p>2C90.0 Renal cell carcinoma of kidney, except renal pelvis</p>\r\n",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 69149,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 542,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 69150,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 69151,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 544,
+        "headingText": "\r\n<p>Renal medulla</p>\r\n",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 69152,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 545,
+        "headingText": "<p>There have been approximately 50&nbsp;reported cases, with nearly equal sex distribution. The patients have been both children and adults (age range: 3&ndash;85&nbsp;years).</p>",
+        "timestamp": "2022-04-26T14:40:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 69153,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 546,
+        "headingText": "\r\n<p>Insufficient data</p>\r\n",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 69154,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 547,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 69155,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 548,
+        "headingText": "\r\n<p><em>ALK</em> fusions convert the ALK receptor tyrosine kinase into novel fusion proteins that constitutively drive downstream growth-promoting pathways {24698962}.</p>\r\n",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 69156,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 555,
+        "headingText": "\r\n<p>Most of the tumours reported have been small and organ-confined at presentation (pT1). Tumours have generally had a solid to solid-cystic appearance with a tan-grey and variegated cut surface, ranging in size from 30 to 70&nbsp;mm.</p>\r\n",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 69157,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 549,
+        "headingText": "<p>The 4&nbsp;well-characterized cases with a <em>VCL</em>::<em>ALK</em> gene fusion are distinctive in that they have affected young patients with sickle cell trait and have a distinctive morphology. These neoplasms are typically well-circumscribed, and they may have chronic inflammation at their periphery. They are composed of polygonal neoplastic cells with abundant eosinophilic cytoplasm and often striking vacuolization {21076462; 21213368; 24698962} Sickle-shaped erythrocytes are more readily seen in extravasated blood than in blood vessels. These neoplasms have been proposed to be the eighth sickle cell nephropathy {24698962}. <em>ALK</em>-rearranged RCCs with fusion partners other than <em>VCL</em> (e.g. <em>TPM3</em>, <em>EML4</em>, <em>STRN</em>, and <em>HOOK1</em>) are more heterogeneous {22252991; 22743654; 26848800; 27225638; 32467651}. They may show cytoplasmic vacuolization but often have papillary or cribriform architecture and mucinous stroma. Intracytoplasmic mucin, scattered psammoma bodies, and rhabdoid morphology may be seen. Variant morphology resembling metanephric adenoma or mucinous tubular and spindle cell carcinoma has also been reported {32467651}.</p>\r\n<p>Immunohistochemistry for ALK protein is a useful screening test for <em>ALK</em>-rearranged RCC. SMARCB1 (also known as INI1, SNF5, or BAF47), which is typically lost in the renal medullary carcinomas that affect patients with sickle cell trait, is retained. TFE3 immunoreactivity is frequently seen using automated staining techniques but is usually negative in more standardized overnight incubation procedures, and <em>TFE3</em> gene rearrangements are not present. The melanocytic markers HMB45 and melan-A are negative.</p>",
+        "timestamp": "2022-04-26T14:43:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 69158,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 69159,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 551,
+        "headingText": "<p>Demonstration of <em>ALK</em> rearrangement is required in cases with positive ALK immunohistochemistry {32467651; 33729862}.</p>",
+        "timestamp": "2022-04-26T14:43:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 69160,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> documentation of <em>ALK</em> rearrangement by break-apart FISH, or demonstration of an <em>ALK</em> gene fusion by sequencing.</p>\r\n<p><em>Desirable:</em> sickle cell trait.</p>\r\n",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 69161,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 552,
+        "headingText": "\r\n<p>Staging follows the same Union for International Cancer Control (UICC) or American Joint Committee on Cancer (AJCC) systems as used for other subtypes of RCC.</p>\r\n",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 69162,
+        "bookId": 36,
+        "chapterId": 311,
+        "headingId": 553,
+        "headingText": "\r\n<p>Follow-up of patients with <em>ALK</em>-rearranged RCC is limited. Twenty-two patients have had no evidence of disease in limited follow-up. Three patients have died of disease, and 10&nbsp;are alive with disease. Three patients with metastatic disease have had dramatic responses to a targeted ALK inhibitor, a non-toxic and potentially highly effective treatment for such patients {29685646}.</p>",
+        "timestamp": "2022-02-10T16:33:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

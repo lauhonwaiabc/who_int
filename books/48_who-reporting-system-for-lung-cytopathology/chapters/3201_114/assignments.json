@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 117,
+    "bookId": "48",
+    "roleid": 160,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2269,
+        "lastname": "Schmitt",
+        "firstname": "Fernando",
+        "initials": "",
+        "email": "",
+        "roleid": 160,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 118,
+    "bookId": "48",
+    "roleid": 161,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4152,
+        "lastname": "Roy-Chowdhuri",
+        "firstname": "Sinchita",
+        "initials": "",
+        "email": "",
+        "roleid": 161,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 119,
+    "bookId": "48",
+    "roleid": 162,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3347,
+        "lastname": "Bubendorf",
+        "firstname": "Lukas",
+        "initials": "",
+        "email": "",
+        "roleid": 162,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 120,
+    "bookId": "48",
+    "roleid": 163,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4150,
+        "lastname": "Michael",
+        "firstname": "Claire W.",
+        "initials": "",
+        "email": "",
+        "roleid": 163,
+        "position": 0
+      },
+      {
+        "contributorid": 4171,
+        "lastname": "Lozano",
+        "firstname": "María D.",
+        "initials": "",
+        "email": "",
+        "roleid": 163,
+        "position": 0
+      }
+    ]
+  }
+]

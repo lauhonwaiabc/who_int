@@ -1,0 +1,124 @@
+[
+  {
+    "pkroleId": 65,
+    "bookId": "32",
+    "roleid": 15,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2195,
+        "lastname": "Allison",
+        "firstname": "Kimberly H.",
+        "initials": "",
+        "email": "",
+        "roleid": 15,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 66,
+    "bookId": "32",
+    "roleid": 16,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2201,
+        "lastname": "Salgado",
+        "firstname": "Roberto",
+        "initials": "",
+        "email": "",
+        "roleid": 16,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 67,
+    "bookId": "32",
+    "roleid": 17,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2252,
+        "lastname": "Rakha",
+        "firstname": "Emad A.",
+        "initials": "",
+        "email": "",
+        "roleid": 17,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 68,
+    "bookId": "32",
+    "roleid": 18,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2195,
+        "lastname": "Allison",
+        "firstname": "Kimberly H.",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2197,
+        "lastname": "Ellis",
+        "firstname": "Ian O.",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2221,
+        "lastname": "Penault-Llorca",
+        "firstname": "Frédérique",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2241,
+        "lastname": "Vincent-Salomon",
+        "firstname": "Anne",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2255,
+        "lastname": "Masuda",
+        "firstname": "Shinobu",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2346,
+        "lastname": "Tsuda",
+        "firstname": "Hitoshi",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      },
+      {
+        "contributorid": 2349,
+        "lastname": "Horii",
+        "firstname": "Rie",
+        "initials": "",
+        "email": "",
+        "roleid": 18,
+        "position": 0
+      }
+    ]
+  }
+]

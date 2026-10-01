@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1070,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1086,
+    "contributions": [
+      {
+        "pkcontributionId": 152148,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1086,
+        "headingText": "\r\n<p>Endometrioid carcinoma of the fallopian tube is a malignant epithelial neoplasm showing endometrioid differentiation.</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1071,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1087,
+    "contributions": [
+      {
+        "pkcontributionId": 152149,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1087,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1072,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1088,
+    "contributions": [
+      {
+        "pkcontributionId": 152150,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1088,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1073,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1089,
+    "contributions": [
+      {
+        "pkcontributionId": 152151,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1089,
+        "headingText": "\r\n<p><em>Acceptable:</em> endometrioid adenocarcinoma.</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1074,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1090,
+    "contributions": [
+      {
+        "pkcontributionId": 152152,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1090,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1075,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1091,
+    "contributions": [
+      {
+        "pkcontributionId": 152153,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1091,
+        "headingText": "\r\n<p>Fallopian tube</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1076,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1092,
+    "contributions": [
+      {
+        "pkcontributionId": 152154,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1092,
+        "headingText": "\r\n<p>The patients may present with a pelvic mass, or the tumours may be discovered incidentally, mostly occurring in the distal two&nbsp;thirds of the tube.</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1077,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1093,
+    "contributions": [
+      {
+        "pkcontributionId": 152155,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1093,
+        "headingText": "\r\n<p>The tumour is rare. Despite endometrioid carcinoma being the second most common type of tubal carcinoma, the largest reported series comprises 26&nbsp;cases with a mean age of 57&nbsp;years, ranging between&nbsp;37 and 85&nbsp;years {8946874}.</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1078,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1094,
+    "contributions": [
+      {
+        "pkcontributionId": 152156,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1094,
+        "headingText": "\r\n<p>Endometriosis, which can occur in 23% of cases and sometimes takes the form of an endometrioid polyp, is a possible risk factor {8946874; 24901398; 15104291}.</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1079,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1095,
+    "contributions": [
+      {
+        "pkcontributionId": 152157,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1095,
+        "headingText": "\r\n<p>The pathogenesis is undetermined but may be similar to that of endometrioid carcinoma of the endometrium and ovary (see &lt;&lt;5.2.21&gt;&gt;<em>Endometrioid carcinoma</em> and <a style=\"cursor:pointer\" href=\"/chaptercontent/85/124\" target=\"_blank\">section </a> <em>Endometrioid carcinoma</em><em>, </em>).</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1086,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1102,
+    "contributions": [
+      {
+        "pkcontributionId": 152158,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1102,
+        "headingText": "\r\n<p>Endometrioid carcinoma may occur as a fimbrial mass or as diffuse tubal dilatation, ranging from 4&nbsp;mm to 60&nbsp;mm. The majority of cases are confined to the tube or extend to the ovary {8946874}.</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1080,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1096,
+    "contributions": [
+      {
+        "pkcontributionId": 152159,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1096,
+        "headingText": "\r\n<p>The morphology is similar to that of endometrial and ovarian endometrioid carcinomas (see &lt;&lt;5.2.21&gt;&gt;<em>Endometrioid carcinoma</em>and <a style=\"cursor:pointer\" href=\"/chaptercontent/85/124\" target=\"_blank\">section </a> <em>Endometrioid carcinoma</em>). On rare occasions, they may have a prominent spindle cell appearance with squamous-like differentiation or osseous metaplasia {24901398}. In contrast to endometrial and ovarian endometrioid carcinomas, neither the criteria nor the prognostic role for assigning a grade such as FIGO or the Silverberg system to primary fallopian tube endometrioid carcinoma have been studied {36305537}. Secondary involvement of the tube by a synchronous or metastatic endometrioid carcinoma of the endometrium and/or ovary needs to be excluded.</p>\r\n<p>Endometrioid carcinomas are usually WT1-negative and p53 wild type {31097111}.</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1081,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1097,
+    "contributions": [
+      {
+        "pkcontributionId": 152160,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1097,
+        "headingText": "\r\n<p>Malignant cells may be identified in pelvic washings in advanced cases {24368120; 31734259}.</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1082,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1098,
+    "contributions": [
+      {
+        "pkcontributionId": 152161,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1098,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1085,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1101,
+    "contributions": [
+      {
+        "pkcontributionId": 152162,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1101,
+        "headingText": "\r\n<p><em>Essential:</em> tubal mural proliferation of closely packed endometrioid glands that meets the criteria used to classify endometrioid carcinoma in the endometrium/ovary.</p>\r\n<p><em>Desirable: </em>lack of diffuse strong WT1 staining and usually wildtype p53.</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1083,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1099,
+    "contributions": [
+      {
+        "pkcontributionId": 152163,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1099,
+        "headingText": "\r\n<p>This entity is staged according to the Union for International Cancer Control (UICC) TNM classification (see <em>TNM staging of ovarian, fallopian tube, and primary peritoneal carcinoma</em> [[Brierley JD, Giuliani M, O&rsquo;Sullivan B, et al., editors. TNM Classification of Malignant Tumours. 9th ed. Oxford (UK): John Wiley &amp; Sons; 2025.]]) even in instances when the carcinoma involves the ovary and the peritoneum. Most cases present at a low stage and do not invade the fimbria {31097111}.</p>\r\n",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1084,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1100,
+    "contributions": [
+      {
+        "pkcontributionId": 152164,
+        "bookId": 85,
+        "chapterId": 100,
+        "headingId": 1100,
+        "headingText": "\r\n<p>Prognosis depends on stage. As most cases present at a low stage, the prognosis is favourable {31097111}. Synchronous tubal and endometrial carcinomas are rare, tumours are low-grade and low-stage, which may translate into a good prognosis {18802716}.</p>",
+        "timestamp": "2026-08-25T19:05:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

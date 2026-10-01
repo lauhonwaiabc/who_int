@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 124720,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 764,
+        "headingText": "\r\n<p>Junctional, compound, and dermal naevi are benign localized clonal proliferations of melanocytes defined by the presence of nests of naevus cells of at least three melanocytes.</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 124721,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 765,
+        "headingText": "\r\n<p>8740/0 Junctional naevus</p>\r\n<p>8760/0 Compound naevus</p>\r\n<p>8750/0 Dermal naevus</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 124722,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 766,
+        "headingText": "\r\n<p>2F36.Y &amp; XH1M79 Other specified benign neoplasm of eye or ocular adnexa &amp; Junctional naevus, NOS</p>\r\n<p>2F36.Y &amp; XH27A6 Other specified benign neoplasm of eye or ocular adnexa &amp; Compound naevus</p>\r\n<p>2F36.Y &amp; XH2MQ5 Other specified benign neoplasm of eye or ocular adnexa &amp; Dermal naevus</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 124723,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 767,
+        "headingText": "\r\n<p><em>Acceptable:</em> common acquired naevi; banal naevi.</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 124724,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 768,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 124725,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 769,
+        "headingText": "\r\n<p>Naevi are widely distributed over the body, with the most frequent site being the trunk {27478920}.</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 124726,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 770,
+        "headingText": "<p>These are localized, symmetrical, well-circumscribed, and uniformly pigmented macules or papules up to 6&nbsp;mm in diameter (see <a style=\"cursor:pointer\" href=\"/attachment/64/44/37390\" target=\"_blank\">#37390</a>Box&nbsp;3.02). By dermoscopy, pigmented junctional naevi show a reticulated pattern, whereas pigmented compound and dermal melanocytic naevi have a granular or globular appearance {17553053}. Dermal naevi may be devoid of pigment and simulate skin tags.</p>",
+        "timestamp": "2025-05-02T15:05:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 124727,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 771,
+        "headingText": "\r\n<p>Acquired naevi appear during childhood and reach maximum number in adolescence, declining in number thereafter in cross-sectional studies {16645597; 21690528}.</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 124728,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 772,
+        "headingText": "\r\n<p>The prevalence of naevi in various populations depends on tanning ability, sun exposure patterns, and genetic susceptibility {20647408}. Several naevus susceptibility genes have been described {27320410}.</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 124729,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 773,
+        "headingText": "\r\n<p>Naevi are clonal proliferations caused by oncogenic mutation in a single melanocyte {27125352}. Most acquired naevi have activating mutations of the oncogene <em>BRAF</em> (typically <em>BRAF</em> p.V600E) and less often mutations of <em>NRAS</em> {30772300; 30791119}.</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 124730,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 780,
+        "headingText": "\r\n<p>See <em>Clinical features</em>, above.</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 124731,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 774,
+        "headingText": "<p>Naevi are small, symmetrical, well-circumscribed, orderly proliferations of slightly enlarged melanocytes without prominent dendrites. Superficial melanocytes often contain pigment {27125352}. Morphological patterns described include junctional, compound, dermal, balloon cell, and desmoplastic naevi. In a junctional naevus, nests are often admixed with single cells (see <a style=\"cursor:pointer\" href=\"/attachment/64/44/37390\" target=\"_blank\">#37390</a>Box&nbsp;3.02). In a compound naevus, nests are also present in the dermis. In a dermal naevus, there is no junctional component and pigmentation often decreases with depth. Most common acquired naevi lack mitoses. However, mitoses can be seen during childhood or pregnancy, usually located in the superficial dermis {32649342}. Naevus cell morphology in the dermis changes from large epithelioid type&nbsp;A naevus cells (often arranged in nests in the superficial dermis) to deeper, small lymphocyte-like type&nbsp;B cells and finally to spindled type&nbsp;C cells in the deepest part of the lesion. Type&nbsp;C cells often exhibit signs of Schwannian differentiation, such as wavy fibre bundles, serpentine nuclei, structures mimicking sensory nerve end organs, and a lesser tendency to nesting (called maturation).</p>\r\n<p>The balloon cell naevus is characterized by distinctive clear, foamy, or vacuolated cytoplasmic alterations in &gt;&nbsp;50% of naevus cells {4166873}. Balloon cells are usually enlarged and contain small, centrally placed nuclei. Balloon cell changes may be seen in virtually any type of naevus or melanoma.</p>\r\n<p>The desmoplastic (or sclerotic) naevus is defined by desmoplastic alterations of dermal collagen and a cellular composition of type&nbsp;A, B, or&nbsp;C naevus cells {10403301}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The major criteria that distinguish melanomas from common acquired naevi include increased size, asymmetry, poor circumscription, ulceration, pagetoid scatter, increased cellularity, sheet-like growth in the dermis, conspicuous cytological atypia, mitotic activity, deep mitoses, lack of maturation, and lymphovascular and perineural invasion. Balloon cell naevi need to be distinguished from balloon cell melanoma and other clear cell tumours, especially appendageal tumours. Desmoplastic naevi must be distinguished from desmoplastic melanoma.</p>",
+        "timestamp": "2025-05-02T15:05:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 124732,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 775,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 124733,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 776,
+        "headingText": "\r\n<p>DNA copy-number analysis can assist in the differential diagnosis with melanoma.</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 124734,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 779,
+        "headingText": "\r\n<p><em>Essential:</em> a small (&lt;&nbsp;6&nbsp;mm), well-circumscribed, symmetrical, uniformly coloured lesion; histologically composed of naevus cells arranged in orderly junctional nests and/or in dermal nests or cords; maturation; absence of architectural and cytological abnormalities; isolated or absent mitoses.</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 124735,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 777,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 124736,
+        "bookId": 64,
+        "chapterId": 44,
+        "headingId": 778,
+        "headingText": "\r\n<p>Individuals with an increased total number of naevi or an increased number of large naevi are at increased risk of melanoma {15617989}. Although many melanomas are associated with naevi {14676081; 27125352}, the risk of progression for individual naevi is very low {26559571; 12622618}.</p>",
+        "timestamp": "2025-04-24T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

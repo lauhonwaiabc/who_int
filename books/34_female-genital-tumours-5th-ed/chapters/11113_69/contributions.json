@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 61969,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 370,
+        "headingText": "\r\n<p>Thecoma is an ovarian stromal tumour composed predominantly of cells resembling theca cells.</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 61970,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 371,
+        "headingText": "\r\n<p>8600/0 Thecoma NOS</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 61971,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 372,
+        "headingText": "\r\n<p>2F32.Y &amp; XH34A0 Other specified benign neoplasm of ovary &amp; Thecoma NOS</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 61972,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 373,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 61973,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 61974,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 375,
+        "headingText": "\r\n<p>Ovary</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 61975,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 376,
+        "headingText": "<p>Almost all cases are unilateral, with only about 3% being bilateral. Thecomas may present with hormonal manifestations (estrogenic or less commonly androgenic) or with symptoms related to an adnexal mass. A significant percentage are associated with endometrial proliferative lesions {6257044; 25025365}.</p>",
+        "timestamp": "2020-08-06T11:40:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 61976,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 377,
+        "headingText": "\r\n<p>Thecomas are uncommon, accounting for a small proportion of all sex cord&ndash;stromal tumours. They typically occur in postmenopausal women (mean patient age: 59&nbsp;years) {25025365}.</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 61977,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 378,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 61978,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 379,
+        "headingText": "\r\n<p><em>FOXL2</em> mutations have been demonstrated in occasional cases, but it is unclear whether these cases represent misdiagnosed adult granulosa cell tumours {19516027; 23348906}.</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 61979,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 386,
+        "headingText": "\r\n<p>Thecomas are usually 5&ndash;10&nbsp;cm in diameter. In the largest reported series, only 7% measured &gt;&nbsp;10&nbsp;cm. The cut surface is typically solid, occasionally lobulated, and yellowish-tan, but it may be focally white. Some cases contain cystic, haemorrhagic, or necrotic areas {25025365}.</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 61980,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 380,
+        "headingText": "\r\n<p>Thecomas typically exhibit a diffuse (or less often lobulated/nested) growth of uniform cells with appreciable pale-grey cytoplasm and indistinct cell membranes, resulting in a syncytial appearance. Only rarely are the cells conspicuously lipid-rich. The tumour cell nuclei are predominantly ovoid to round, sometimes with small nucleoli. Nuclear grooves can be seen but are only rarely frequent. Mitotic activity is either absent or minimal. Usually there is little or no nuclear atypia, but uncommonly, thecomas have small numbers of pleomorphic bizarre nuclei, which are degenerative in nature and unassociated with increased mitotic activity {6309684; 25025365}. The cells are sometimes interrupted by a stromal component, most often in the form of hyaline plaques, sometimes forming larger confluent zones of keloid-like sclerosis. Focal calcification and even adipose metaplasia may be seen {25025365}. Some thecomas contain small clusters of steroid-type cells with eosinophilic or clear cytoplasm; in the past these were referred to as luteinized thecomas, but this term is not recommended. Rarely, a minor component of sex cord elements is present {6315609}. Reticulin usually surrounds individual cells {29708950}. Immunohistochemically, thecomas are typically positive for inhibin, calretinin, and other sex cord markers {12808064; 9688187}.</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 61981,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 381,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 61982,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 61983,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 385,
+        "headingText": "<p><em>Essential:</em>&nbsp;predominant population of stromal cells with bland ovoid to round nuclei with appreciable pale-grey cytoplasm.</p>\r\n<p><em>Desirable:</em> reticulin surrounding individual cells; positivity for inhibin, calretinin, and other sex cord markers.</p>",
+        "timestamp": "2020-07-23T15:46:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 61984,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 383,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 61985,
+        "bookId": 34,
+        "chapterId": 69,
+        "headingId": 384,
+        "headingText": "\r\n<p>Thecomas are almost always benign. Rare malignant thecomas have been reported, but these may be misdiagnosed cases of other neoplasms {228839}.</p>",
+        "timestamp": "2020-05-13T17:03:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 66257,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 370,
+        "headingText": "\r\n<p>Ataxia&ndash;telangiectasia (AT) is an autosomal recessive syndrome characterized by progressive cerebellar ataxia, oculomotor apraxia, choreoathetosis, sinopulmonary infections, oculocutaneous telangiectasia, variable immune deficiency, sterility, a high risk of malignancy, and sensitivity to ionizing radiation, caused by germline mutations in the <em>ATM</em> gene.</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 66258,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 371,
+        "headingText": "<h5><strong>MIM numbering</strong></h5>\r\n<p>208900 Ataxia&ndash;telangiectasia; AT</p>",
+        "timestamp": "2020-06-23T16:42:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 66259,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 372,
+        "headingText": "\r\n<p>4A01.31 DNA repair defects other than combined T-cell or B-cell immunodeficiencies&nbsp;&ndash; Ataxia&ndash;telangiectasia</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 66260,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 373,
+        "headingText": "\r\n<p><em>Acceptable:</em> immunodeficiency with ataxia&ndash;telangiectasia; Louis&ndash;Bar syndrome; cerebello-oculocutaneous telangiectasia</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 66261,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 374,
+        "headingText": "\r\n<p>Classic ataxia&ndash;telangiectasia; mild ataxia&ndash;telangiectasia</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 66262,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 375,
+        "headingText": "\r\n<p>The ovary is the only gynaecological site with neoplasms {14229760; 1192368; 6467138; 990441; 2448192; 9301718; 17710660}. Absence/atrophy of ovary, fallopian tubes, and uterus has been described {14229760; 1192368}.</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 66263,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 376,
+        "headingText": "\r\n<p>Abdominal mass/pain is the usual presentation of the ovarian tumours. AFP is typically elevated in AT {14229760; 1192368; 6467138; 990441; 2448192; 9301718; 17710660; 27884168; 27799156}.</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 66264,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 377,
+        "headingText": "\r\n<p>The prevalence of AT is estimated to be 1&nbsp;case per 40&nbsp;000&ndash;100&nbsp;000&nbsp;live births {27884168}. In reported cases, patients with ovarian tumours ranged in age from 10 to 17&nbsp;years {14229760; 1192368; 6467138; 990441; 2448192; 9301718; 17710660}.</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 66265,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 378,
+        "headingText": "\r\n<p>AT is caused by mutations in the <em>ATM</em> gene, which encodes the ATM protein {27884168}.</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 66266,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 379,
+        "headingText": "\r\n<p>The ATM protein coordinates cellular signalling pathways in response to DNA double-strand breaks and several forms of stress. Absence of ATM protein affects genomic instability or DNA damage response, leading to the development of tumours {27884168}.</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 66267,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 386,
+        "headingText": "\r\n<p>Tumours are solid and range in size from 0.6 to 17&nbsp;cm {14229760; 1192368; 6467138; 990441; 2448192; 9301718; 17710660}.</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 66268,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 380,
+        "headingText": "\r\n<p>Most ovarian tumours are dysgerminomas, with rare gonadoblastomas and yolk sac tumours {14229760; 1192368; 6467138; 990441; 2448192; 9301718; 17710660}.</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 66269,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 381,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 66270,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 382,
+        "headingText": "\r\n<p>Identification of pathological mutations in the <em>ATM</em> gene is confirmatory {27884168; 31403082}.</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 66271,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 385,
+        "headingText": "\r\n<p>AT is suspected on the basis of a combination of clinical features and laboratory-specific abnormalities. Confirmatory test results include the identification of mutations in the <em>ATM</em> gene {27884168; 31403082}.</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 66272,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 383,
+        "headingText": "\r\n<p>Staging is the same as for adnexal/peritoneal tumours.</p>\r\n",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 66273,
+        "bookId": 34,
+        "chapterId": 468,
+        "headingId": 384,
+        "headingText": "\r\n<p>AT patients have a poor prognosis, with an average life expectancy of 25&nbsp;years {27884168}. There is no clear indication that gynaecological malignancies affect survival {25488969}.</p>",
+        "timestamp": "2020-06-23T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

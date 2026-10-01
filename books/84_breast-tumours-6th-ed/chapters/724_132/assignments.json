@@ -1,0 +1,70 @@
+[
+  {
+    "pkroleId": 170,
+    "bookId": "84",
+    "roleid": 264,
+    "roleTitle": "Resp. editor",
+    "contributors": [
+      {
+        "contributorid": 2197,
+        "lastname": "Ellis",
+        "firstname": "Ian O.",
+        "initials": "",
+        "email": "",
+        "roleid": 264,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 171,
+    "bookId": "84",
+    "roleid": 282,
+    "roleTitle": "1st Co-editor",
+    "contributors": [
+      {
+        "contributorid": 4139,
+        "lastname": "Khoury",
+        "firstname": "Joseph D.",
+        "initials": "JD",
+        "email": "",
+        "roleid": 282,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 173,
+    "bookId": "84",
+    "roleid": 284,
+    "roleTitle": "Resp. author",
+    "contributors": [
+      {
+        "contributorid": 2122,
+        "lastname": "Gaulard",
+        "firstname": "Philippe",
+        "initials": "P",
+        "email": "",
+        "roleid": 284,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 174,
+    "bookId": "84",
+    "roleid": 285,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2229,
+        "lastname": "Miranda",
+        "firstname": "Roberto",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      }
+    ]
+  }
+]

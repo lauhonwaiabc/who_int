@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 54777,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 159,
+        "headingText": "<p>Neuroendocrine neoplasms (NENs) of the anal canal are anal epithelial neoplasms with neuroendocrine differentiation.</p>",
+        "timestamp": "2019-03-04T10:43:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 54778,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 160,
+        "headingText": "<p>8240/3 Neuroendocrine tumour NOS</p>\r\n<p>8246/3 Neuroendocrine carcinoma NOS</p>\r\n<p>8154/3 Mixed neuroendocrine&ndash;non-neuroendocrine neoplasm (MiNEN)</p>",
+        "timestamp": "2021-11-22T15:11:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 54779,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 161,
+        "headingText": "<p>2C00.2 Neuroendocrine neoplasm of anus or anal canal</p>\r\n<p>2C00.2 &amp; XH0U20 Neuroendocrine neoplasm of anus or anal canal &amp; Neuroendocrine carcinoma NOS</p>\r\n<p>2C00.2 &amp; XH9SY0 Neuroendocrine neoplasm of anus or anal canal &amp; Small cell neuroendocrine carcinoma</p>\r\n<p>2C00.2 &amp; XH0NL5 Neuroendocrine neoplasm of anus or anal canal &amp; Large cell neuroendocrine carcinoma</p>\r\n<p>2C00.2 &amp; XH6H10 Neuroendocrine neoplasm of anus or anal canal &amp; Mixed adenoneuroendocrine carcinoma</p>",
+        "timestamp": "2019-03-04T10:43:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 54780,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 162,
+        "headingText": "<p><em>Acceptable:</em> well-differentiated endocrine tumour/carcinoma; poorly differentiated endocrine carcinoma; mixed exocrine-endocrine carcinoma; mixed adenoneuroendocrine carcinoma.</p>\r\n<p><em>Not recommended:</em> carcinoid; composite carcinoid-adenocarcinoma.</p>",
+        "timestamp": "2019-04-25T10:01:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 54781,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 163,
+        "headingText": "<p>Neuroendocrine tumour, grade&nbsp;1 (8240/3); neuroendocrine tumour, grade&nbsp;2 (8249/3); neuroendocrine tumour, grade&nbsp;3 (8249/3); large cell neuroendocrine carcinoma (8013/3); small cell neuroendocrine carcinoma (8041/3)</p>",
+        "timestamp": "2021-11-22T15:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 54782,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 164,
+        "headingText": "<p>NENs can occur in any portion of the anal canal.</p>",
+        "timestamp": "2019-03-04T10:44:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 54783,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 165,
+        "headingText": "<p>Neuroendocrine carcinoma (NEC) appears to be slightly more common in women {22531171}. The median age of presentation of anal small cell NEC (SCNEC) is in the sixth decade of life {22531171}. Many NECs occur between the fifth and seventh decades of life. There are insufficient data in the literature on the sex and age distributions of anal canal neuroendocrine tumour (NET).</p>\r\n<p>There have been no reports of patients with carcinoid syndrome. Patients with anal NENs could present with anal pain, discomfort, or bleeding {28270879}. Obstruction of the anal canal by the tumour may cause constipation {26198995}. A mass or ulcer may be apparent on endoscopic examination. These patients need radiological examination of the abdomen and pelvis to determine the extent of regional disease.</p>\r\n<p>In cases of NET or large cell NEC (LCNEC) of the anal canal, 72.1% of patients had local disease at diagnosis. Anal SCNEC is often diagnosed at advanced stages, with 38.5% of patients having regional disease and 46.2% having distant disease. Liver, lung, and bone are common sites of distant metastases {26237193}.</p>",
+        "timestamp": "2019-04-25T10:23:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 54784,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 166,
+        "headingText": "<p>NENs account for slightly more than 1% of all anal cancers {10223561}. In the anal canal, LCNEC is far more common than NET {29755775}. SCNEC accounts for slightly more than one&nbsp;third of all NENs noted in the anal canal.</p>",
+        "timestamp": "2019-04-25T10:23:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 54785,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 167,
+        "headingText": "<p>The etiology of NENs of the anal canal is largely unknown. Anal canal SCNEC has been associated with HIV infection {8384908; 23730521; 17279348}. Similar to the association in squamous cell carcinoma (SCC), HPV could be an etiological factor for anal canal SCNEC {22531171; 22524667}.</p>",
+        "timestamp": "2019-03-04T10:44:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 54786,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 168,
+        "headingText": "<p>Neuroendocrine cells are present in the basal layer of the anal transitional zone mucosa. The pathogenesis of the NENs is unknown.</p>",
+        "timestamp": "2019-03-04T10:44:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 54787,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 207,
+        "headingText": "<p>Anal NETs often present as anal masses and may ulcerate.</p>",
+        "timestamp": "2019-03-04T10:45:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 54788,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 169,
+        "headingText": "<p>Anal NETs are graded using the same system used for other gastroenteropancreatic NETs. They are often G1 or G2 {29181074}. The tumour has a nesting or trabecular pattern, and the cells have granular cytoplasm {27889033}. NEC has a diffuse architecture, and the cells show marked nuclear pleomorphism and brisk mitotic activity (a high Ki-67 proliferation index). Pagetoid spread to the anal epithelium has been reported in LCNEC {15260855}. Anal SCNEC has small tumour cells with a high N:C&nbsp;ratio and nuclear moulding. There has been one reported case of melanoma coexisting with NEC {25722317}. NENs of the anal canal are positive for neuroendocrine markers, chromogranin, and synaptophysin.</p>\r\n<p>Mixed neuroendocrine&ndash;non-neuroendocrine neoplasms (MiNENs), which are rare in the anal canal, most often consist of NEC and adenocarcinoma {21461890; 24412088}. MiNENs consisting of SCNEC and SCC can also occur. There has been a reported case of LCNEC coexisting with squamous intraepithelial neoplasia in an 80-year-old woman; both elements were positive for HPV18 {22524667}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>For NEC and MiNEN, differentiation from poorly differentiated&nbsp;/ basaloid SCC, poorly differentiated adenocarcinoma, melanoma of the anal canal, and basal cell carcinoma of the perianal skin is important. Immunohistochemical markers (e.g. chromogranin and synaptophysin) could confirm the diagnosis of NEC or a NEC component in MiNEN {27889037}. NEC is negative for p63 (positive in SCC and basal cell carcinoma), CK7 (positive in adenocarcinoma), CK20, and melanoma markers.</p>\r\n<p>Merkel cell carcinoma occurs in the anal canal {12792446; 22329967}. Similar to SCNEC, Merkel cell carcinoma expresses neuroendocrine markers. However, unlike SCNEC, classic polyomavirus-positive Merkel cell carcinoma shows perinuclear dot-like staining for CK20 and is negative for TTF1 {30067951}.</p>\r\n<p>Anal NEC may express TTF1 {26198995}. Therefore, TTF1 cannot be used to differentiate anal NEC from metastatic NECs from other sites.</p>",
+        "timestamp": "2019-04-25T10:01:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 54789,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 170,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-03-04T10:45:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 54790,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 171,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-03-04T10:45:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 54791,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 174,
+        "headingText": "<p>The essential and desirable diagnostic criteria for anal NENs are the same as those for NENs in other organs. The demonstration of neuroendocrine differentiation by immunohistochemistry is essential for the diagnosis of NEN. The subtypes are classified as described in the corresponding sections.</p>",
+        "timestamp": "2019-03-04T10:45:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 54792,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 172,
+        "headingText": "<p>NEC should be staged in the same way as other anal carcinomas.</p>",
+        "timestamp": "2019-03-04T10:46:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 54793,
+        "bookId": 31,
+        "chapterId": 259,
+        "headingId": 173,
+        "headingText": "<p>In the anal canal, localized NET has a good prognosis, with a 10-year survival rate of 95% {27175651}. In one series, survival time with extensive disease was only 25&nbsp;months {27175651}. NEC is reported to have a 5-year survival rate of 13% {15043285}.</p>\r\n<p>There is a lack of data on the predictive factors for anal NENs. In a study involving both anal and rectal NENs, large size, deep invasion, lymphovascular invasion, and an elevated mitotic count were predictive factors for aggressive biological behaviour {21043813}.</p>",
+        "timestamp": "2019-10-15T17:17:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

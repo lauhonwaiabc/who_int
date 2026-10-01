@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 104892,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 466,
+        "headingText": "\r\n<p>Atypical teratoid/rhabdoid tumour (AT/RT) is a high-grade malignancy composed of poorly differentiated cells and a variable number of rhabdoid cells, with the potential to differentiate along neuroepithelial, epithelial, and mesenchymal lines. Genetically, these tumours are characterized by biallelic inactivation of <em>SMARCB1</em> (also known as <em>hSNF5</em>, <em>INI1</em>, or <em>BAF47</em>) or rarely (in &lt;&nbsp;5% of cases) of <em>SMARCA4</em> (<em>BRG1</em>) (CNS WHO grade&nbsp;4).</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 104893,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 467,
+        "headingText": "\r\n<p>9508/3 Atypical teratoid/rhabdoid tumour</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 104894,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A00.1Y &amp; XH7ZQ4 Other specified embryonal tumours of brain &amp; Atypical teratoid/rhabdoid tumour</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 104895,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 469,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 104896,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 470,
+        "headingText": "\r\n<p>DNA methylation profiling and gene expression profiling demonstrate three molecular groups of AT/RT, each demonstrating upregulation of gene profiles that have contributed to their nomenclature.</p>\r\n<p>These three sets of tumours can be regarded as subtypes of AT/RT: AT/RT-SHH, AT/RT-TYR, and AT/RT-MYC.</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 104897,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 471,
+        "headingText": "\r\n<p>AT/RTs occur throughout the neuraxis. Supratentorial tumours, which are more common with increasing age {24847086}, are often located in the cerebral hemispheres and less frequently in the ventricular system, suprasellar region, or pineal gland. Infratentorial tumours can arise in the cerebellar hemispheres, cerebellopontine angle, and brainstem. Spinal cord localization is rare {22023887; 31883020}. Rare AT/RTs affecting adults tend to occur in the cerebral hemispheres and sellar region {30547013}.</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 104898,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 472,
+        "headingText": "<p>The clinical presentation is variable, depending on the age of the patient and on the location and size of the tumour. Infants, in particular, present with nonspecific signs of lethargy, vomiting, and/or failure to thrive. More specific signs include head tilt and cranial nerve palsy, most commonly sixth and seventh nerve paresis. Headache and hemiplegia are more commonly reported in children aged &gt;&nbsp;3&nbsp;years.</p>\r\n<h5>Imaging</h5>\r\n<p>MRI findings for AT/RTs are similar to those for other embryonal tumours. Almost all tumours are variably contrast-enhancing and show isointense or hyperintense signal intensity on FLAIR images and restricted diffusion {16687525}. Differences in contrast enhancement, peripheral tumour cysts, and peritumoural oedema have been described across the molecular groups {30010851}.</p>\r\n<h5>Spread</h5>\r\n<p>Seeding of AT/RT via the cerebrospinal fluid (CSF) pathways is common and found in approximately one&nbsp;third of all patients at presentation {22023887; 31883020}.</p>",
+        "timestamp": "2022-10-03T11:58:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 104899,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 473,
+        "headingText": "\r\n<p>In a US study using data from the Central Brain Tumor Registry of the United States (CBTRUS), AT/RTs accounted for 1.6% of all paediatric CNS tumours and for 10.1% of CNS tumours in children aged &lt; 1&nbsp;year, with an M:F&nbsp;ratio of 1.2:1 {24847086}. The majority of patients are aged &lt;&nbsp;2&nbsp;years, with 33% aged &le;&nbsp;1 year at diagnosis {28102486; 24847086}. Occurrence in adults is rare {30547013}.</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 104900,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 474,
+        "headingText": "\r\n<p>Familial cases arise in the setting of rhabdoid tumour predisposition syndrome&nbsp;1 (<em>SMARCB1</em> gene) or 2 (<em>SMARCA4</em> gene) {10521299; 16261613; 25060813}. The risk of germline mutations is reported to be between 26% and 41% in <em>SMARCB1</em>-deficient tumours {16459991; 21108436; 31883020} and may be substantially higher in <em>SMARCA4</em>-deficient tumours {25060813}. De novo germline mutations have been described {21108436; 21208904}, and they accounted for two&nbsp;thirds of germline mutations in one study {21108436}. Unaffected adult carriers {16261613; 18087273} and gonadal mosaicism {10521299} have been reported.</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 104901,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 475,
+        "headingText": "\r\n<p>Mutation or loss of the <em>SMARCB1</em> locus at 22q11.2 is a genetic hallmark of this tumour {9671307; 9892189}. Whole-genome and whole-exome sequencing demonstrate remarkably simple genomes and a mean mutation rate of 0.19&nbsp;mutations/Mb, with loss of <em>SMARCB1</em> being the primary recurrent alteration (&gt;&nbsp;95% of cases) {22797305; 23074045; 26923874}. SMARCB1 is a component of the mammalian SWI/SNF complex, which remodels chromatin, affecting transcriptional regulation and mediating cell differentiation and lineage specification {27941797; 28262751; 32303701}. Inactivation of <em>SMARCB1</em> is caused by structural variants (partial or complete deletion, copy-neutral loss of heterozygosity, exon duplication, gene fusion, or chromosomal inversion) and mutations (insertion/deletion, point mutation, or frameshift mutation) {16459991; 26349416; 26923874; 27960086}.</p>\r\n<p>Rare tumours (&lt;&nbsp;5% of AT/RTs) with histopathological features of AT/RT but retained SMARCB1 protein expression harbour biallelic inactivation and no expression of the SMARCA4 protein, another SWI/SNF complex component {20137775}. These tumours are associated with very young age and poor prognosis {25060813}.</p>\r\n<p>The specific functions of SMARCB1 and SMARCA4, and their roles in malignant transformation, are still not entirely clear. Loss of SMARCB1 disturbs the balance between activating SWI/SNF complex members and the repressive polycomb complex PRC2 at promoter and enhancer regions {27941796; 27941797}. Analyses of chromatin states show a complex interplay and divergent roles for SWI/SNF and polycomb that results in repression of neuronal differentiation and tumour suppressor genes as well as activation of cell-cycle regulatory genes and oncogenes {27941796; 30595504}. Alterations in SWI/SNF BAF and pBAF subunit complexes have been shown to contribute to the characteristic multilineage differentiation, immune microenvironment, and potential prognosis of these tumours {31912158}.</p>\r\n<p>Transcriptome and DNA methylation profiling separate AT/RTs into three molecular groups with different methylation and transcriptional signatures {25882982; 26923874; 27960086}, which by consensus have been designated as AT/RT-TYR, AT/RT-SHH, and AT/RT-MYC {31708418; 31889194}. These groups show differences in patient age, localization, and <em>SMARCB1</em>&nbsp;/ chromosome&nbsp;22 alteration patterns.</p>\r\n<p>AT/RT-SHH tumours (~44% of AT/RTs) overexpress proteins in the SHH and Notch signalling pathways and genes involved in axonal guidance or neuronal development. Localization is most commonly infratentorial (~67%) and otherwise supratentorial. Median patient age is 20&nbsp;months. Compound heterozygous <em>SMARCB1</em> point mutations are frequently present in this group {31889194}.</p>\r\n<p>AT/RT-TYR tumours (~34%) demonstrate upregulation of proteins in the melanosomal pathway, including tyrosinase; proteins in the BMP pathway; and development-related transcription factors, including OTX2. Localization is predominantly infratentorial, and patients with AT/RT-TYR tumours have the youngest age at presentation (median age: ~12&nbsp;months). <em>SMARCB1</em> is inactivated mostly by mutation in one allele and whole or partial chromosome&nbsp;22 loss removing the second allele {31889194}.</p>\r\n<p>AT/RT-MYC tumours (~22%) are characterized by expression of the <em>MYC</em> oncogene and HOXC cluster genes. Localization is more commonly supratentorial than infratentorial. Rare spinal AT/RTs are generally AT/RT-MYC, and sellar AT/RTs in adults also belong to this group {29324471}. Patients with AT/RT-MYC tumours are significantly older (median age: ~27&nbsp;months) than patients with AT/RT-SHH or AT/RT-TYR {31889194}.</p>\r\n<p>The histogenesis of rhabdoid tumours is unknown. They also occur outside the CNS (in kidneys and soft tissues). Recent studies propose a cell of origin for AT/RT-SHH among neural progenitors and for AT/RT-TYR and AT/RT-MYC from cells outside the neuroectoderm {31768071}. Single AT/RTs arising in the setting of low-grade glial/glioneuronal tumours, high-grade glioma, and ependymoma suggest the possibility of progression from other tumour types {16443951; 26769252; 27472468; 28054381}.</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 104902,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 482,
+        "headingText": "\r\n<p>The macroscopic appearance of AT/RTs is similar to that of other CNS embryonal tumours. AT/RTs tend to be soft and pink-red, and they often appear to be demarcated from adjacent parenchyma. Those with substantial amounts of mesenchymal tissue may be firm and tan-white in some regions. Tumours arising in the cerebellopontine angle wrap themselves around cranial nerves and vessels and invade brainstem and cerebellum to various extents. Areas of haemorrhage and necrosis may be observed.</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 104903,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 476,
+        "headingText": "<p>AT/RTs are heterogeneous tumours that can be difficult to recognize solely on the basis of histopathological findings {9737241; 8683283}. Characteristically, a population of rhabdoid cells and variable components with primitive neuroectodermal, mesenchymal, and epithelial features are present. Rhabdoid cells fall along a spectrum from small cells with scant cytoplasm to large, typical rhabdoid cells with eccentrically located nuclei and extensive homogeneously eosinophilic cytoplasm. Occasionally, intracytoplasmic globular eosinophilic inclusions are present. Nuclei are round and contain vesicular chromatin and prominent eosinophilic nucleoli. Binucleated elements may be found. Cell borders are generally well defined. A frequently encountered artefact is cytoplasmic vacuolation.</p>\r\n<p>Rhabdoid cells are the exclusive or predominant histopathological finding in only a minority of cases and may be very rare or even completely lacking in some cases {17063089}. Small embryonal (medulloblastoma-like) cells can be present, rarely alongside Homer Wright or Flexner&ndash;Wintersteiner rosettes. Mesenchymal differentiation typically demonstrates a spindle cell morphology, with cells either being dispersed in a pale or basophilic mucopolysaccharide-rich matrix or having a compact arrangement reminiscent of fibrosarcoma. Epithelial differentiation is the least common histopathological feature. It can take the form of papillary structures, adenomatous areas, or poorly differentiated ribbons and cords. Mitotic figures are usually abundant. Extensive geographical necrosis and haemorrhage are commonly encountered.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>AT/RTs demonstrate a broad spectrum of immunoreactivities. Rhabdoid cells characteristically demonstrate expression of EMA, SMA, and vimentin. Immunoreactivity for GFAP, NFP, synaptophysin, and cytokeratins is also commonly observed. Germ cell markers and markers of skeletal muscle differentiation are not typically expressed. Nuclear loss of SMARCB1 (INI1) protein expression is a highly sensitive marker for the diagnosis of AT/RT. Expression in non-neoplastic nuclei (e.g. within vascular endothelial cells) serves as an internal positive control {15105654}. CNS embryonal tumours without rhabdoid features but with loss of nuclear SMARCB1 expression qualify as AT/RTs {17063089}.</p>\r\n<p>SMARCB1 protein loss may also occur in poorly differentiated chordomas and, with a mosaic expression pattern, in schwannomatosis-associated schwannomas {27067307; 17357086}. Tumours suspected on morphological grounds of being AT/RT but showing retained SMARCB1 expression should be examined for loss of nuclear SMARCA4 protein {21566516}. However, single AT/RTs with biallelic <em>SMARCA4</em> inactivation but retained protein expression have been reported {25060813; 26469284}. Rare <em>SMARCB1</em>-deficient non-rhabdoid tumours forming cribriform strands, trabeculae, and well-defined surfaces are recognized as cribriform neuroepithelial tumours {19915490}.</p>",
+        "timestamp": "2022-10-03T11:58:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 104904,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 477,
+        "headingText": "\r\n<p>Most AT/RTs are dominated by embryonal cells with hyperchromatic round or oval nuclei and minimal cytoplasm. Rhabdoid cells are slightly larger than embryonal cells and have an eccentrically placed nucleus and brightly eosinophilic cytoplasm. Evaluation of CSF cytology is required for staging.</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 104905,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 478,
+        "headingText": "\r\n<p>Due to the high risk of germline mutations in the setting of AT/RT, particularly with very young children, molecular analyses of <em>SMARCB1</em> or <em>SMARCA4</em> should be performed and genetic counselling and germline analysis recommended. <em>SMARCB1</em> alterations comprise biallelic structural variations, a structural variation combined with a mutation, or compound heterozygous mutations {26349416; 31889194}.</p>\r\n<p>The three AT/RT subtypes can be identified as distinct molecular groups using gene expression or DNA methylation profiling {26923874; 31708437}. ASCL1 and tyrosinase immunoreactivities are potential surrogate markers for AT/RT-SHH and AT/RT-TYR, respectively {25882982; 31077608}, pending validation studies.</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 104906,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 481,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/44/110/22692\" target=\"_blank\">#22692</a>Box&nbsp;3.38 .</p>",
+        "timestamp": "2023-03-24T12:01:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 104907,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 479,
+        "headingText": "\r\n<p>Clinical staging procedures include MRI examinations of the CNS with contrast agent. This is complemented by lumbar puncture postoperative CSF cytology. The postoperative staging system developed by Chang and others in 1969 {4983156}, which defines the following degrees of metastatic spread, is still being used:</p>\r\n<p>M0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No evidence of subarachnoid or haematogenous metastasis</p>\r\n<p>M1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microscopic tumour cells found in the CSF</p>\r\n<p>M2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gross nodular seeding demonstrated in the cerebellar/cerebral subarachnoid space or in the third or lateral ventricles</p>\r\n<p>M3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gross nodular seeding in the spinal subarachnoid space</p>\r\n<p>M4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Metastasis outside the cerebrospinal axis</p>\r\n",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 104908,
+        "bookId": 44,
+        "chapterId": 110,
+        "headingId": 480,
+        "headingText": "\r\n<p>Overall, the prognosis of patients with AT/RT is poor. However, data from retrospective studies and clinical trials have shown that AT/RTs do not always have a dismal outcome. In the Children&rsquo;s Oncology Group (COG) ACNS0333 trial, a regimen of high-dose chemotherapy with stem cell rescue and radiotherapy was associated with a 4-year event-free survival rate of 37% and an overall survival rate of 43% {32105509}. A retrospective study of children enrolled in the German HIT trial demonstrated a 3-year overall survival rate of 22% and an event-free survival rate of 13%, but also identified a subset of patients (14%) who were long-term event-free survivors {21796761}. In a small prospective trial incorporating intensive multimodal treatment, including chemotherapy and irradiation, a 2-year progression-free survival rate of 53%&nbsp;&plusmn;&nbsp;13% (standard error) and a projected overall survival rate of 70%&nbsp;&plusmn;&nbsp;10% (standard error) were found {19064966}. Similarly, a retrospective Canadian Brain Tumour Consortium study reported that high-dose chemotherapy, in some cases without radiation, resulted in a 2-year overall survival rate of 60%&nbsp;&plusmn;&nbsp;12.6% (standard error) {22023887}. The European Rhabdoid Registry (EU-RHAB) protocol, using an anthracycline-based induction and either radiotherapy or high-dose chemotherapy, demonstrated 5-year overall and event-free survival rates of 34.7% and 30.5%, respectively {31883020}.</p>\r\n<p>The different epigenomic landscapes of AT/RT subtypes could be associated with distinct therapeutic vulnerabilities {27960086; 32129445; 32303701}. Both the COG ACNS0333 trial and the EU-RHAB study analysed the prognostic impact of molecular group. In the EU-RHAB cohort, a non-AT/RT-TYR profile was identified as an independent negative prognostic marker. In the COG trial, the 4-year survival rate was higher in patients with AT/RT-SHH tumours. Thus, although the impact of molecular group on patient outcome awaits further validation, it may ultimately be possible to stratify patients with AT/RT on the basis of molecular group, age, tumour site, and extent of resection. Significant immune cell infiltration has been reported in AT/RT-MYC and AT/RT-TYR tumours {31708418; 31708437}, suggesting that immune checkpoint inhibition is a potential therapeutic strategy for these tumours.</p>",
+        "timestamp": "2022-02-11T16:09:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

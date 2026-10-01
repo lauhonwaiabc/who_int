@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 121996,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 607,
+        "headingText": "\r\n<p>Lactotroph pituitary neuroendocrine tumour (PitNET)/adenoma is a well-differentiated PitNET composed of PIT1-lineage adenohypophysial cells with lactotroph differentiation.</p>\r\n",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 121997,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 608,
+        "headingText": "\r\n<p>8271/3 Lactotroph PitNET/adenoma</p>\r\n<p>8271/3 Sparsely granulated lactotroph tumour</p>\r\n<p>8271/3 Densely granulated lactotroph tumour</p>\r\n",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 121998,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 609,
+        "headingText": "\r\n<p>2D12.Y Other specified malignant neoplasms of other endocrine glands or related structures</p>\r\n",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 121999,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> lactotroph tumour.</p>\r\n<p><em>Not recommended:</em> prolactinoma; prolactin-producing PitNET/adenoma; prolactin-secreting PitNET/adenoma; lactotroph cell PitNET/adenoma; PRLoma.</p>\r\n",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 122000,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 611,
+        "headingText": "\r\n<p>Sparsely granulated lactotroph tumour (SGLT); densely granulated lactotroph tumour (DGLT)</p>\r\n",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 122001,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 612,
+        "headingText": "\r\n<p>The majority of lactotroph tumours are intrasellar, with microtumours usually localized to the posterolateral anterior pituitary. Macrotumours are often invasive, extending to suprasellar and parasellar structures, including the cavernous and sphenoidal sinuses, and these tumours may present as a nasal mass {28009611}. Ectopic examples are rare but have been reported in the sphenoidal sinus and parapharyngeal regions {519872; 7974131; 3017137; 3958123}; in the clivus, middle nasal meatus, temporal bone, hypothalamus, and third ventricle {519872; 2184378; 2294174; 8441545}; and in the parasellar/suprasellar compartments {7832831; 4009259}. Rare examples have also arisen within ovarian teratomas {22105889; 24584638; 24616762}.</p>\r\n",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 122002,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 613,
+        "headingText": "<p>Lactotroph tumours frequently cause reproductive and sexual dysfunction, with clinical manifestations differing according to patient sex {7594238; 10970951; 12012125}. The most common symptoms in women with lactotroph tumours are galactorrhoea, ovulatory disorders, and amenorrhoea. In men, when symptoms are present (e.g. erectile dysfunction and decreased libido), they can be subtle, often resulting in delayed diagnosis. Men mostly present with macrotumours (&gt;&nbsp;10&nbsp;mm in greatest dimension), whereas women tend to present at a younger age with microtumours that in general rarely grow, even in the absence of treatment {9215279; 12124824}. Treatment is based on symptom control and the correction of estrogen deficiency due to hyperprolactinaemia. Lactotroph tumours are less common in men, but 80% are macrotumours, often presenting with mass effects causing visual field abnormalities (~45%), hypopituitarism (~35%), and/or sexual dysfunction {9215279; 25792376}; galactorrhoea is rare. Patients with very large tumours may present with pituitary apoplexy.</p>\r\n<p>Paediatric lactotroph tumours often cause primary amenorrhoea and delayed puberty. Approximately 60&ndash;80% present as macrotumours with symptoms of mass effect {20357284; 23329574; 25532043; 25771923; 26180530}, and in paediatric patients, a germline genetic tumour syndrome should always be sought.</p>\r\n<h6><em>Biochemical investigations</em></h6>\r\n<p>Serum prolactin levels are roughly proportional to tumour size, with greater pretreatment serum levels often encountered in men, due at least in part to their larger tumour sizes at presentation {12012125; 12124824}. Patients with lactotroph microtumours (&lt;&nbsp;10&nbsp;mm in greatest dimension) generally have serum prolactin levels of 100&ndash;250&nbsp;ng/mL. Elevated prolactin levels (&gt;&nbsp;25&nbsp;ng/mL in women and &gt;&nbsp;20&nbsp;ng/mL in men) up to 100&nbsp;ng/mL may be caused by drugs or stalk effect, the latter resulting from tumoural compression of the pituitary stalk, which blocks the normal dopaminergic inhibition of lactotrophs. Serum prolactin levels of &gt;&nbsp;250&nbsp;ng/mL typically indicate an underlying lactotroph macrotumour. Giant lactotroph tumours (&gt;&nbsp;40&nbsp;mm in greatest dimension) may yield prolactin levels of &gt;&nbsp;1000&nbsp;ng/mL {15191331; 24536090; 27138902}.</p>\r\n<h6><em>Neuroimaging</em></h6>\r\n<p>Microtumours are subtle and may be difficult to diagnose on MRI. On precontrast T1-weighted sequences, they are generally hypointense relative to surrounding pituitary. After gadolinium administration, they often appear non-enhancing in the early phase but contrast-enhancing in later phases. Macrotumours may show evidence of prior haemorrhage and a suprasellar component, as well as invasion inferiorly into paranasal sinuses and adjacent structures {28009611}. Microcalcification and cystic changes are also occasionally observed.</p>",
+        "timestamp": "2024-12-19T09:57:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 122003,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 614,
+        "headingText": "\r\n<p>Lactotroph tumours are the most common PitNETs overall, accounting for as many as half of all cases in postmortem and prevalence series {6243145; 16968795; 22697380; 25084775}. By far the most common subtype is SGLT {22697380; 24144285}, but the incidence has diminished considerably in surgical series because of successful medical therapy with dopamine agonists. In modern surgical series, lactotroph tumours typically account for &lt;&nbsp;30% of all cases, and in 1&nbsp;series it was as low as 2% {32154573}. Lactotroph tumours present most often in young adult women (aged 21&ndash;40&nbsp;years). In some studies, the lactotroph tumour is also the most common PitNET of childhood and adolescence, with frequencies of 41&ndash;52% {8283258; 10599692; 25771923}. However, in a more recent literature review of 1284&nbsp;resected paediatric pituitary tumours, a slightly lower frequency of 37% lactotroph tumours was found, with the frequency of corticotroph tumours being higher at 43% {29404245}; this may again reflect the greater use of dopamine agonist therapy.</p>\r\n",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 122004,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 615,
+        "headingText": "<p>The etiology of lactotroph PitNETs is unknown in the majority of cases. However, estrogens may play an etiological role in experimental models and during pregnancy. Additionally, a small subset arise in the setting of genetic tumour syndromes such as familial isolated pituitary adenomas (FIPAs) and others (discussed further below) {27742789; 32604740; 33543431}.</p>",
+        "timestamp": "2024-12-19T09:58:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 122005,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 616,
+        "headingText": "<p>Although recurrent somatic gene alterations are generally uncommon, <em>SF3B1</em> p.R625H hotspot mutations have recently been identified in roughly 20% of lactotroph tumours; compared with non-mutant tumours, they were associated with higher prolactin levels and shorter progression-free survival times {32427851}. Rare sporadic macrotumours have also shown somatic <em>SDHA</em> mutations {24625421} and <em>SDHD</em> loss of heterozygosity {24096523}. Nonspecific chromosomal alterations (gains more common than losses) are seen in about half of all lactotroph tumours and do not appear to be associated with aggressiveness {31883967}. However, in one study, loss of chromosome&nbsp;11 was reported in 2&nbsp;aggressive and 3&nbsp;metastatic lactotroph tumours {21251114}. A large genomic study also revealed that lactotroph tumours harbour relatively unique epigenomic and transcriptional signatures, including high expression levels of MYC targets and DRD2 {31883967}.</p>\r\n<p>Like other PitNETs/adenomas, lactotroph tumours may also show abnormal expression of growth regulatory molecules and their receptors, intracellular signal transduction proteins, and cell-cycle regulatory molecules. A variety of etiological factors have been implicated {12415254; 19400692; 16932287}. Epigenetic alterations involving <em>CDKN2A</em>, <em>RB1</em>, <em>DAPK1</em>, <em>GADD45G</em>, <em>THBS1</em> (<em>TSP1</em>), <em>RASSF1 </em>(<em>RASSF1A</em>), <em>FGFR2</em>, <em>MGMT</em>, <em>CASP8</em>, <em>TP73</em>, and the gene(s) encoding p14 have also been described {23321498; 24367530}, but they are not considered specific to lactotroph tumours {24367530}.</p>\r\n<h6><em>Familial disease</em></h6>\r\n<p>Approximately 5% of all PitNETs/adenomas arise in the setting of a germline gene variant {28689311}. The syndromes include FIPA {11081208; 26186299; 32604740}, multiple endocrine neoplasia syndrome type&nbsp;1 (where lactotroph tumours are most common) and type&nbsp;4 (where lactotroph tumours are second most common), and multiple endocrine neoplasia type 5, with a germline <em>MAX</em> mutation&nbsp;{18300794; 23321498; 23933118; 32244213; 33367756; 33543431}. More rarely, McCune&ndash;Albright syndrome, <em>GPR101</em> microduplication&ndash;related X-linked acrogigantism syndrome {25712922}, SDH-related syndromes {25494863; 27742789; 33543431}, and Carney complex {18990538; 19153518; 19170361} are implicated [[Nos&eacute; V, Paner GP, Greenson JK, et al., editors. Diagnostic pathology: familial cancer syndromes. Salt Lake City (UT): Amirsys Publishing; 2013.]]. In FIPA cases due to mutations of <em>AIP</em> (~20% of all FIPAs), somatotroph and mixed somatotroph&ndash;lactotroph tumours are most common, but pure lactotroph PitNETs/adenomas account for roughly 14.5% of associated cases; in contrast to their sporadic counterparts, they tend to be large, aggressive tumours that respond poorly to dopamine agonists, are more often encountered in young patients, show a male predominance, and are more likely to undergo apoplexy {28689311; 32604740}. Considered another way, roughly 11.5% of all patients aged &lt;&nbsp;30&nbsp;years with a lactotroph macrotumour harbour a germline <em>AIP</em> variant, thus emphasizing the importance of genetic screening in young patients {21753072}. Lactotroph tumours are also common within the larger group of <em>AIP</em>-wildtype FIPA patients {33543431}.</p>",
+        "timestamp": "2024-12-19T09:58:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 122006,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 623,
+        "headingText": "\r\n<p>Microtumours are expansile, compressive lesions that can usually be distinguished from normal anterior pituitary by their soft consistency, red to tan appearance, and pseudocapsule. Rare examples are firm and grey to white, with an abundant collagenous and/or amyloid-rich stroma. Some have indistinct margins and a more invasive growth pattern. Macrotumours are usually widely invasive into adjacent structures. Fibrosis, cystic changes, and calcification can be seen in macrotumours, as well as in previously treated tumours {12114812}.</p>\r\n",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 122007,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 617,
+        "headingText": "<p>Lactotroph tumours are divided into two subtypes, the common SGLT and the rare DGLT, the latter representing 1.2&ndash;10% of all lactotroph tumours in large series {29434339; 33690870}. They must also be distinguished from the rare and aggressive acidophil stem cell tumour (see separate section). Those with apoplexy show extensive haemorrhagic necrosis, and it may be difficult to find viable tumour to assess with immunostains. Nevertheless, even in necrotic areas, a reticulin histochemical stain highlights the typical loss of the normal adenohypophysial microacinar pattern that is characteristic of a PitNET, and in most examples there is sufficient viable tumour, at least focally, to establish lactotroph differentiation with immunostains.</p>\r\n<p>SGLT is composed of chromophobic tumour cells that display a large variety of growth patterns, including diffuse, solid, trabecular, papillary, and pseudopapillary architecture. Elongated cells with indistinct cell membranes can also be encountered. Nuclear pleomorphism is uncommon. Psammoma bodies are occasionally seen. Rare examples feature interstitial fibrosis or amyloid spherules that stain with Congo red and show apple-green birefringence with polarized light; the amyloidogenic hormone is also immunoreactive for prolactin {12114758; 18498287; 21123991; 23602507}. Ultrastructurally, the tumour cells display well-developed Golgi complexes and rough endoplasmic reticulum forming concentric whorls, and sparse secretory granules measuring 150&ndash;300&nbsp;nm. The hallmark ultrastructural finding in lactotroph tumours is misplaced exocytosis, characterized by extrusion of secretory granules along the lateral cell surfaces [[Asa SL, Perry A. Tumors of the pituitary gland. Rockville (MD): American Registry of Pathology; 2020. (AFIP atlas of tumor and non-tumor pathology, series 5; fascicle 1).]].</p>\r\n<p>DGLT is composed of tumour cells with densely acidophilic cytoplasm. Ultrastructurally, the tumour cells have less rough endoplasmic reticulum and more abundant secretory granules, some reaching as large as 700&nbsp;nm. Misplaced exocytosis may nevertheless be seen.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>These tumours are composed of sparsely granulated cells that resemble normal lactotrophs, and display a characteristic paranuclear globular, Golgi-type staining pattern for prolactin {19400692; 22697380; 24144285; 26177314}. The tumour cells are also positive for PIT1 and ER&alpha; {19400692; 22697380; 24144285; 26177314}, although depending on levels of fixation and the antibody used, ER&alpha; staining may be weak or absent {22697380; 32098443}. They are usually negative for the &alpha;-subunit of glycoprotein hormones and for cytokeratin CAM5.2. The Ki-67 proliferation index is usually low, but it can be higher in clinically more aggressive lactotroph tumours.</p>\r\n<p>DGLT cells show strong and diffuse cytoplasmic prolactin expression {19400692; 22697380; 24144285; 26177314}, along with nuclear PIT1 and ER positivity.</p>\r\n<h6><em>Morphological effects of dopamine agonists</em></h6>\r\n<p>The use of dopamine agonists (e.g. bromocriptine or cabergoline) usually results in a rapid decrease in serum prolactin level followed by tumour shrinkage and variable, but often dramatic, histopathological changes. The cells can become much smaller, with minimal cytoplasm and increased N:C&nbsp;ratios. The nuclei are hyperchromatic. In patients on long-term treatment, extensive perivascular and interstitial fibrosis is common, as is evidence of prior haemorrhage {12114758}. Single-cell necrosis is rare. Prolactin immunostaining can be greatly diminished, with some cases showing only limited positivity in scattered cells. However, other cells may appear unaltered by the therapy, and regional variability in treatment effects is common. For those with the most extensive posttherapy changes, lactotroph tumours may be mistaken for lymphoma, plasmacytoma, metastatic small cell carcinoma, or other small round cell tumours. However, the coexpression of prolactin, PIT1, and ER separates these tumours from their pathological mimics. The morphological alterations are usually rapidly reversible upon drug discontinuation, although scattered cells may retain their treatment effects long after {12114758}.</p>",
+        "timestamp": "2024-12-19T09:59:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 122008,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 618,
+        "headingText": "\r\n<p>Lactotroph tumours are mostly indistinguishable from other PitNETs.</p>\r\n",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 122009,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 619,
+        "headingText": "\r\n<p>Mutation-specific immunostains and molecular pathology studies are not routinely performed on lactotroph tumours, although germline screening may be indicated in younger patients (see <em>Prognosis and prediction</em>, below).</p>\r\n",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 122010,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> a PitNET with immunoreactivity for PIT1; extensive prolactin immunoreactivity; absence of other pituitary hormone staining; juxtanuclear staining for prolactin in the sparsely granulated subtype.</p>\r\n<p><em>Desirable:</em> immunoreactivity for ER; lack of &alpha;-subunit expression.</p>\r\n",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 122011,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 620,
+        "headingText": "\r\n<p>There is no formal staging system that has been universally applied for pituitary/sellar neoplasms. A CT-era approach based on tumour size and patterns of invasion was proposed in 1973 by Hardy [[Hardy J. Transsphenoidal surgery of hypersecreting pituitary tumours. In: Kohler PO, Ross GT, editors. Diagnosis and treatment of pituitary tumors. International Congress Series No. 303. Amsterdam (Netherlands): Exerpta Medica; 1973. pp. 179&ndash;98.]]. Subsequently, a standardized assessment of parasellar tumour extension based on MRI was published by Knosp in 1993 {8232800}.</p>\r\n<p>There are no pathology-standardized reporting templates yet endorsed by international pathology organizations. A pathology reporting template for pituitary tumours was introduced in 2011 {21526962}, followed by the European Pituitary Pathology Group (EPPG) proposal in 2019 {31578606}.</p>\r\n",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 122012,
+        "bookId": 53,
+        "chapterId": 7,
+        "headingId": 621,
+        "headingText": "\r\n<p>At younger ages, women tend to have microtumours, and in general these rarely grow, even in the absence of treatment. Treatment is based on symptom control and the correction of estrogen deficiency due to hyperprolactinaemia. The prognosis for lactotroph tumours is worse in men than women; this may be because the tumours are typically larger at presentation, more invasive, and generally more aggressive. This biology potentially reflects the fact that tumours in men are characterized by lower ER expression, which is generally related to higher tumour grade using the French scheme {23400299}, resistance to treatment, and a worse overall prognosis {25792376; 28766057; 29936681; 30555413; 32098443}. Pharmacotherapy with dopamine agonists is the standard of care for initial treatment, with dramatic decreases in hormone levels and subsequent tumour shrinkage typically following. Cabergoline is the main agent currently used for treating lactotroph tumours, successfully bringing prolactin levels back within the normal range in 80&ndash;90% of patients. However, because this agent merely inhibits hormone production and is cytostatic rather than cytotoxic, regrowth of tumour may resume immediately after discontinuation of medical therapy; nonetheless, there is a significant long-term permanent remission rate. Patients who have invasive macrotumours with resistance to pharmacotherapy or who are intolerant to medications may require transsphenoidal surgery {26277642}. Radiotherapy or (in rare circumstances) chemotherapy with temozolomide may be considered for recurrent aggressive and invasive tumours that fail both surgical intervention and conventional drug therapies.</p>\r\n<p>Genetic screening should be considered for patients with a lactotroph microtumour diagnosed before the age of 18&nbsp;years or a macrotumour diagnosed before the age of 30&nbsp;years; furthermore, <em>AIP</em>-mutant FIPA-associated tumours do better when diagnosed prospectively through screening, rather than when first detected from clinical symptoms; not surprisingly, the tumours detected through screening tend to be smaller, less invasive, and easier to resect {21753072; 28689311}.</p>",
+        "timestamp": "2024-10-09T09:35:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

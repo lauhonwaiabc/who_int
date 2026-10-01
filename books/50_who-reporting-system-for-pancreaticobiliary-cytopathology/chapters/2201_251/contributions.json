@@ -1,0 +1,142 @@
+[
+  {
+    "pkheadingid": 671,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Introduction",
+    "headingPosition": 1,
+    "headingid": 637,
+    "contributions": [
+      {
+        "pkcontributionId": 93973,
+        "bookId": 50,
+        "chapterId": 251,
+        "headingId": 637,
+        "headingText": "\r\n<p>Immunocytochemistry (ICC) is primarily used for the workup of solid pancreaticobiliary masses but may also be used in pancreaticobiliary brushings of strictures and pancreatic cysts. Indications include the identification of cellular lines of differentiation, site of origin for metastases, confirmation of malignancy, and biomarkers for therapeutic intervention and prognostication.</p>\r\n",
+        "timestamp": "2022-11-29T17:19:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 672,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Technical requirements",
+    "headingPosition": 2,
+    "headingid": 638,
+    "contributions": [
+      {
+        "pkcontributionId": 93974,
+        "bookId": 50,
+        "chapterId": 251,
+        "headingId": 638,
+        "headingText": "\r\n<p>Successful ICC, whether performed manually or using automated equipment, is dependent on having well-fixed and well-preserved tissue and a robust, optimized, and reproducible staining regime that uses high-quality and specific reagents {31227425}. Antigen retrieval is one of the first required steps and in theory can be performed using a protease step or heat-induced epitope retrieval, although heat-induced epitope retrieval is the only form of antigen retrieval recommended for direct smears, because protease treatment will cause the cells to fall off the slides.</p>\r\n<p>The primary antibody needs to be optimized for each specimen type. Using antibody concentrations optimized for formalin-fixed, paraffin-embedded tissues may give a false positive result when applied to smears.</p>\r\n",
+        "timestamp": "2022-11-29T17:19:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 673,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Management of types of cytopathological specimens",
+    "headingPosition": 3,
+    "headingid": 639,
+    "contributions": [
+      {
+        "pkcontributionId": 93975,
+        "bookId": 50,
+        "chapterId": 251,
+        "headingId": 639,
+        "headingText": "\r\n<p>ICC may be performed on formalin-fixed, paraffin-embedded cell blocks; smears; cytospins; and liquid-based cytopathology preparations. Formalin-fixed, paraffin-embedded cell blocks are preferred, because these use the same controls and technical processes as routine histopathology specimens. The technique used to prepare the cell block should be considered, because different preparation techniques can impact the reliability of the ICC {27279681}. ICC may be performed on destained Pap slides or unstained alcohol-fixed or air-dried smears {9484646; 7539200}. If a sample is limited, cell transfer techniques may be used to increase the amount of material available for staining with different antibodies {31227425}. When preparing smears, non-adhesive slides have been advocated in case slide transfer is needed, but cells may be lost when staining if a non-adhesive slide is used for initial staining {31227425; 27279681}. Liquid-based cytopathology slides may be used, but caution is indicated, because the methanol fixative may lead to aberrant cytoplasmic and nuclear staining {9360054; 12508174}.</p>\r\n",
+        "timestamp": "2022-11-29T17:19:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 674,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Fixation",
+    "headingPosition": 4,
+    "headingid": 640,
+    "contributions": [
+      {
+        "pkcontributionId": 93976,
+        "bookId": 50,
+        "chapterId": 251,
+        "headingId": 640,
+        "headingText": "\r\n<p>The preferred fixative is formalin, and the preferred sample is a good-quality formalin-fixed, paraffin-embedded cell block. For non&ndash;cell block cytopathology, most fixatives can be used after validation. The following results have been reported: both immediate fixation in alcohol or postfixation in normal saline provide good antigen presentation but may produce high background staining {8872443}; air-dried smears fixed in 0.1% normal saline and postfixed in 100% ethanol produced the best and most consistent results; acetone gave inconsistent results; and saline-rehydrated air-dried smears fixed in 95% alcohol plus 5% acetic acid were unsatisfactory {11782091; 8685232; 14506675}. Air-dried smears fixed in 4&ndash;10% formalin are well suited for nuclear antigens. Certain antigens (e.g. S100, ER, BAP1, and MTAP) are leached in alcohol fixative.</p>\r\n",
+        "timestamp": "2022-11-29T17:19:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 675,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Controls",
+    "headingPosition": 5,
+    "headingid": 641,
+    "contributions": [
+      {
+        "pkcontributionId": 93977,
+        "bookId": 50,
+        "chapterId": 251,
+        "headingId": 641,
+        "headingText": "\r\n<p>Positive and negative controls are required. The purpose of the positive control is to demonstrate that the ICC protocol is able to detect the antigen of interest (qualitative positive control) and is sensitive at the level of clinical relevance (calibrated positive controls, low and high expressers). Positive controls include samples that have previously been tested for the marker in question, or samples that are known to express the marker at levels within the desired range for the intended use after sample preparation, including fixation and retrieval variables {31227425}. For cell blocks, formalin-fixed, paraffin-embedded controls are preferred. For cytopathology samples, controls similar to the test specimen should be prepared using scrapes from surgical specimens, cell lines, or effusions.</p>\r\n",
+        "timestamp": "2022-11-29T17:19:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 676,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Procedures",
+    "headingPosition": 6,
+    "headingid": 642,
+    "contributions": [
+      {
+        "pkcontributionId": 93978,
+        "bookId": 50,
+        "chapterId": 251,
+        "headingId": 642,
+        "headingText": "\r\n<p>ICC can be performed either manually or using automated immunostainers. Most laboratories employ either the ABC method or a polymer-based antibody&ndash;antigen detection system. The majority of cytoplasmic and membranous antigens do not require antigen retrieval in alcohol-fixed preparations {22434540; 12508174; 22095380}. A short period of heat-induced antigen retrieval is recommended for uncovering epitope reactivity for most nuclear and some membranous antigens in alcohol-fixed preparations, for all formalin-fixed preparations, and for selected antigens in liquid-based cytopathology {22434540; 24004858}. Protease should be avoided {20482720; 22434540; 18318580}.</p>\r\n",
+        "timestamp": "2022-11-29T17:19:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 677,
+    "bookid": 50,
+    "headingType": 4,
+    "headingTitle": "Diagnostic applications",
+    "headingPosition": 7,
+    "headingid": 643,
+    "contributions": [
+      {
+        "pkcontributionId": 93979,
+        "bookId": 50,
+        "chapterId": 251,
+        "headingId": 643,
+        "headingText": "<p>The following is a summary of the antibodies commonly used in pancreaticobiliary cytopathology.</p>\r\n<h5>Diagnostic markers</h5>\r\n<h6>Cytokeratins</h6>\r\n<p>All normal epithelial cells of the pancreas, including acinar, islet, and ductal, express CK8 and CK18. Ductal cells also express CK7 and CK19 {1374743; 1372155}. Cytokeratin cocktails are used in diagnostic practice to identify a neoplasm as epithelial. AE1/AE3 recognizes CK1&ndash;8, CK10, CK14&ndash;16, and CK19, and it will recognize both non-ductal and ductal epithelium. CAM5.2 recognizes CK7 and CK8. CK17 is rarely expressed in normal ductal cells, but its expression is upregulated during pancreatic carcinogenesis and it therefore serves as a marker of malignancy {7686885; 9172000}. CK20 is also expressed only by ductal carcinoma and not by benign ducts.</p>\r\n<h6>Vimentin</h6>\r\n<p>Vimentin is expressed by mesenchymal cells, such as fibroblasts and endothelial cells. It is expressed in undifferentiated carcinomas and is the only intermediate filament consistently expressed by solid pseudopapillary neoplasm (SPN).</p>\r\n<h6>Oncofetal antigens</h6>\r\n<p>Antibodies to oncofetal antigens routinely used in the pathological assessment of pancreaticobiliary specimens include CA19-9, CA125, and CEA. CA19-9 is a marker of pancreaticobiliary differentiation but is also expressed by other gastrointestinal carcinomas. CA19-9 is expressed both by reactive ductal cells and by pancreatic ductal adenocarcinoma (PDAC), and therefore, alone, it is not useful as a marker to differentiate benign from malignant disease {2878526; 2746048}. CA125 is also known as MUC16 and is encoded by the <em>MUC16</em> gene {11920644}. Approximately 50% of PDACs may express this antigen, and coexpression of CA125 with CA19-9 is considered indicative of pancreatic ductal differentiation. CA125 (MUC16) is not expressed in benign ductal epithelium and could be useful as a marker to differentiate benign from malignant glands {3207606}. Intensity and quantity decrease with increasing grade {3207606}. Monoclonal CEA is not expressed by benign pancreatic ducts, but it is expressed by PDAC, making it a useful antibody for distinguishing benign pancreatic ducts from PDAC on FNAB and small biopsy samples {3004013}.</p>\r\n<h6>Markers of malignancy in ductal epithelium</h6>\r\n<p>Loss of ICC staining for SMAD4, the protein product of <em>SMAD4</em> (<em>DPC4</em>), is a good surrogate marker for mutations in this gene. Somatic inactivation of the <em>SMAD4</em> (<em>DPC4</em>) gene occurs in approximately half of PDACs, resulting in a loss of nuclear staining in PDAC, compared with the retained staining in benign ductal cells and gastrointestinal contamination. <em>SMAD4</em> loss occurs late in pancreatic carcinogenesis, in high-grade pancreatic intraepithelial neoplasia (HG-PanIN) and intraductal papillary mucinous neoplasm with high-grade dysplasia. <em>SMAD4</em> loss also occurs late in distal extrahepatic bile duct carcinogenesis {26258846; 15573254; 14607700}. Therefore, malignant-appearing epithelial groups with loss of expression are not necessarily representative of invasive carcinoma. <em>SMAD4</em> loss has been reported in pancreatoblastoma {11696422} and (rarely) in high-grade neuroendocrine carcinoma (NEC) of the pancreas {22251937}.</p>\r\n<p>The von&nbsp;Hippel&ndash;Lindau syndrome tumour suppressor protein (VHL&nbsp;protein), localized to the cell membrane and cytoplasm, is the protein product of the gene <em>VHL</em>. Loss of VHL&nbsp;protein expression serves as a surrogate marker for mutations in <em>VHL</em> and is associated with extrahepatic cholangiocarcinoma and PDAC, but not with intrahepatic cholangiocarcinoma {18162774; 22646265; 20382408; 22495381; 23079206; 24439226}. Loss of VHL&nbsp;protein has been identified in ducts of autoimmune pancreatitis, which may present a pitfall in interpretation {32273198}. The use of a panel of antibodies including the ones described in this section is recommended to avoid false positive and false negative interpretations.</p>\r\n<p>ICC for p53 reflects an accumulation of the protein in the nucleus, either due to mutation of the <em>TP53</em> gene or due to stabilization by other mechanisms {31322742}. Like SMAD4 (DPC4), this marker is not specific for invasion because it also occurs in non-invasive ductal lesions, mostly high-grade pancreatic intraepithelial neoplasia (HG-PanIN). Two patterns of staining are noted with mutation: strong, diffuse nuclear staining, which is most common; and no staining at all, i.e. the null pattern. This is in contrast to the wildtype pattern, indicating no mutation, where there is pale, patchy nuclear staining.</p>\r\n<p>Other markers of malignancy include the oncofetal protein IMP3, as well as S100P and mesothelin. A cell is considered to show positive staining for S100 when there is strong nuclear and cytoplasmic staining. Gastric epithelium is positive for S100, limiting its utility in EUS-FNAB {22646265}.</p>\r\n<h5>Markers useful for the assessment of differentiation</h5>\r\n<h6>SMARCA4 (BRG1), SMARCA2 (BRM), and SMARCB1 (INI1/BAF47)</h6>\r\n<p>Inactivating mutations in the genes <em>SMARCA4</em>, <em>SMARCA2</em>, and <em>SMARCB1</em> are implicated in tumorigenesis at various anatomical sites, including the pancreas, where tumours may show rhabdoid or undifferentiated morphology. Abnormalities in these genes are detected by ICC staining for loss of nuclear expression of the related proteins, SMARCA4 (BRG1), SMARCA2 (BRM), and SMARCB1 (INI1).</p>\r\n<h6>Differential diagnosis of non-ductal neoplasms</h6>\r\n<p>Markers useful in the differential diagnosis of non-ductal neoplasms of the pancreas are outlined in <a style=\"cursor:pointer\" href=\"/attachment/50/251/35886\" target=\"_blank\">#35886</a>Table&nbsp;2.02 .</p>\r\n<h6>Acinar differentiation</h6>\r\n<p>BCL10 (monoclonal antibody 331.3) is a highly sensitive (80&ndash;100%) and highly specific (near 100%) marker of acinar differentiation {19066953; 23530562}. Labelling of adenosquamous carcinoma has been reported {23530562}. The combination of trypsin and BCL10 is currently the most useful panel for identifying acinar differentiation, and BCL10 may be positive in trypsin-negative acinar neoplasms.</p>\r\n<p>Trypsin is highly sensitive (95%) and specific. Although it is the best marker to use for the confirmation of acinar differentiation, it is commonly paired with another enzyme marker such as chymotrypsin or BCL10 to enhance sensitivity {8362971; 1384374}.</p>\r\n<p>Chymotrypsin has a lower sensitivity (38%) than trypsin and BCL10 for detecting acinar cell carcinoma. The staining pattern tends to be more focal than that of trypsin {1384374}, but it remains a useful marker, because tumours can be positive for chymotrypsin while being negative for trypsin.</p>\r\n<h6>Neuroendocrine differentiation</h6>\r\n<p>ICC is recommended for the cytopathological diagnosis of most cases of neuroendocrine tumours (NETs). Labelling for synaptophysin, chromogranin&nbsp;A, and/or INSM1 provides support for neuroendocrine differentiation {14739487}. CD56 (NCAM) and CD57 (LEU7) have insufficient specificity for clinical utility {1705171; 20118772}. Staining for specific peptide hormones is not usually indicated, because functioning NETs are defined clinically {20118772}.</p>\r\n<h5>Grading of pancreatic NETs</h5>\r\n<h6>Ki-67</h6>\r\n<p>The Ki-67 antigen is a marker of proliferation expressed in dividing cells. The Ki-67 proliferation index (i.e. the number of positively stained tumour cells divided by the total counted tumour cells) forms the basis of grading NET, as detailed in <a style=\"cursor:pointer\" href=\"/chaptercontent/50/220\" target=\"_blank\">section </a><em>Neuroendocrine tumour</em> {28094897; 28494461; 25044931}.</p>\r\n<h5>Markers to distinguish well-differentiated NETs from poorly differentiated NECs</h5>\r\n<h6>DAXX and ATRX</h6>\r\n<p>Loss of expression of either DAXX or ATRX occurs in as many as 40% of well-differentiated NETs and is not seen in NEC {27663587; 30747827; 28371511}.</p>\r\n<h6>RB1</h6>\r\n<p>RB1 expression can be lost in NEC but is maintained in most untreated well-differentiated NETs. RB1 loss can also be seen in PDAC, acinar cell carcinoma, and pancreatoblastoma. SPN does not label for RB1 {17632456}.</p>\r\n<h5>Markers of pancreatic origin for NETs</h5>\r\n<p>Several transcription factors key to pancreatic development have been studied for their utility to support the site of NET origin, but only a few have performance characteristics supporting their practical utility {19065104; 30485690; 25710581}.</p>\r\n<h6>ISL1</h6>\r\n<p>Insulin gene enhancer protein ISL1 (islet-1) is expressed in NET of the pancreas and rectum, but not NEC of the pancreas. The sensitivity is approximately 70% for pancreatic origin {30485690}. A staining pattern of positive for ISL1 and negative for CDX2 and thyroid transcription factor&nbsp;1 (TTF1) has moderate to high sensitivity and high specificity for determining that a NET is of pancreatic or rectal origin {28498280}.</p>\r\n<h6>PDX1</h6>\r\n<p>PDX1 is a transcription factor essential for pancreatic differentiation and beta-cell function. The performance in detecting NET is highly variable, with &lt;&nbsp;30% sensitivity and 89% specificity, because it also labels acinar cell carcinoma and PDAC {22498824; 19065104; 21297446}.</p>\r\n<h6>NESP55</h6>\r\n<p>NESP55 is a marker of primary pancreatic origin for NET with 32% sensitivity and 97% specificity {19065104}.</p>\r\n<h5>Markers commonly used in the diagnosis of solid pseudopapillary neoplasm</h5>\r\n<p>Mutated <em>CTNNB1</em> in SPN leads to a loss of surface &beta;-catenin expression and intense, diffuse nuclear labelling. &beta;-Catenin is widely considered to be one of the most useful markers for SPN diagnosis because the sensitivity is &gt;&nbsp;90%, but it is often combined with other markers such as E-cadherin and CD99 because the specificity is limited, specifically because of staining in acinar cell carcinoma and pancreatoblastoma {19926573; 27784972}. A paranuclear dot-like labelling pattern with CD99 has almost 100% sensitivity for SPN {21566515}. Stains for other WNT pathway proteins, including LEF1, TFE3, PR, CD56, and cyclin&nbsp;D1, also support a diagnosis of SPN {31584754; 24658583; 17632456; 9252685; 30030118}.</p>\r\n<h5>Mucin apomucins</h5>\r\n<p>Mucins are heavily glycosylated proteins that constitute the major components of mucus covering the surface of epithelial tissues. EMA (MUC1), MUC2, MUC5AC, and MUC6 are the most commonly used in diagnostic pancreaticobiliary pathology. Mucin proteins are expressed in normal tissues of the gastrointestinal and pancreaticobiliary tracts, and expression in the pancreas changes with intraductal and invasive ductal neoplasia {24228110; 11101635; 26501712}. Normal biliary ductal epithelium expresses MUC3A, MUC5B, and MUC6 {20103851} (see <a style=\"cursor:pointer\" href=\"/attachment/50/251/28409\" target=\"_blank\">#28409</a>Table&nbsp;2.03).</p>\r\n<p>EMA (MUC1) exists in various forms, from a fully glycosylated form to a poorly glycosylated form and a sialylated form. Tissue expression is dependent on the antibody epitope used {17520199}. EMA (MUC1) is expressed in benign pancreatic ducts and on the surface membranes of low-grade pancreatic intraepithelial neoplasia (LG-PanIN). HG-PanIN and intraductal papillary mucinous neoplasm with high-grade dysplasia overexpress EMA (MUC1) in the cytoplasm, as does PDAC. MUC2 is known as the intestinal-type mucin. It is expressed in goblet cells, but not in normal gastric epithelium or normal pancreaticobiliary ducts. Expression of MUC2 in a pancreaticobiliary neoplasm indicates intestinal differentiation. MUC5AC is the gastric-type mucin and is expressed by gastric foveolar epithelium. It is not expressed in normal pancreaticobiliary ducts, but it is expressed in all types of intraductal papillary mucinous neoplasm, bile duct intraductal papillary neoplasia, mucinous cystic neoplasm, and PDAC. MUC6 is expressed in periductal glands and benign ducts and by neoplasms with oncocytic and pancreaticobiliary differentiation {10436785; 20139757}.</p>",
+        "timestamp": "2023-02-14T17:12:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

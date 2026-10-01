@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 105816,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 466,
+        "headingText": "\r\n<p>An arteriovenous malformation (AVM) is an error in morphogenesis resulting in arteriovenous communications and malformed arteries, veins, and capillaries.</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 105817,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 467,
+        "headingText": "<p>9123/0 Arteriovenous malformation</p>\r\n<p>9123/0 Sporadic arteriovenous malformation</p>\r\n<p>9123/0 Arteriovenous malformation occurring in Parkes Weber syndrome</p>\r\n<p>9123/0 Arteriovenous malformation occurring in capillary malformation&ndash;arteriovenous malformation</p>\r\n<p>9123/0 Arteriovenous malformation occurring in hereditary haemorrhagic telangiectasia</p>",
+        "timestamp": "2023-05-19T11:45:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 105818,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 468,
+        "headingText": "\r\n<p>LA90.3Z Peripheral arteriovenous malformation, unspecified</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 105819,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> arteriovenous haemangioma.</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 105820,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 470,
+        "headingText": "<p>Sporadic arteriovenous malformation; arteriovenous malformation occurring in Parkes Weber syndrome; arteriovenous malformation occurring in capillary malformation&ndash;arteriovenous malformation; arteriovenous malformation occurring in hereditary haemorrhagic telangiectasia</p>",
+        "timestamp": "2023-05-19T11:45:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 105821,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 471,
+        "headingText": "\r\n<p>AVMs, including those associated with capillary malformation&ndash;arteriovenous malformation&nbsp;1 and&nbsp;2 (CM-AVM1 and CM-AVM2), can arise in any location but are more frequent in the head and neck region. Parkes Weber syndrome (PWS) almost always occurs in a lower extremity. Hereditary haemorrhagic telangiectasia (HHT) has cutaneous and mucosal diminutive AVMs manifesting as telangiectasias and occasionally large pulmonary, hepatic, gastrointestinal, and intracranial AVMs {26055853; 32842615}.</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 105822,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 472,
+        "headingText": "\r\n<p>Patients with AVM commonly present with a warm, red lesion, which may be complicated by pain, ulceration, and bleeding. Significant arteriovenous shunting can produce high-output cardiac failure {32695695}. Patients with PWS present with a warm overgrown extremity and a variable capillary stain. CM-AVM1 and CM-AVM2 are often associated with PWS and AVM, and they usually present small and multifocal capillary malformations with or without a pale halo occurring elsewhere on the body. Patients with CM-AVM2 also have typical small telangiectasias around the lips or upper thorax. The cutaneous or oral mucosal lesions in HHT are macular and papular telangiectasias, but the AVMs can be large in the viscera and brain {28687708; 29217067; 32842615}.</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 105823,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 473,
+        "headingText": "\r\n<p>Most cases of AVM may be noticeable at birth, with the remainder becoming apparent during childhood. PWS, CM-AVM1, and CM-AVM2 are detectable either at birth or in early childhood. The cutaneous lesions of HHT usually appear in the second or third decade of life, although visceral lesions may be present at birth.</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 105824,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 474,
+        "headingText": "\r\n<p>The majority of extracranial AVMs have a mutation in <em>MAP2K1</em>; less commonly there are mutations in <em>KRAS</em>, <em>HRAS</em>, or <em>BRAF</em> {28190454; 32799314; 31637524; 29461977}. CM-AVM and PWS cases are classified by genetic alterations: approximately half have autosomal dominant mutations in <em>RASA1</em> (CM-AVM1) and others have autosomal dominant mutations in <em>EPHB4</em> (CM-AVM2), with the development of lesions often dependent on the acquisition of somatic second hits causing loss of function {24038909; 14639529; 28687708}. HHT is autosomal dominant and genetically heterogeneous, and subtypes are classified according to the genes&nbsp;/ genomic regions involved: HHT1 (<em>ENG</em>), HHT2 (<em>ACVRL1</em>), HHT3 (5q31), HHT4 (7p14), HHT5 (<em>GDF2</em>), and juvenile polyposis/HHT syndrome (<em>SMAD4</em>) {32842615}.</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 105825,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 475,
+        "headingText": "\r\n<p>RAS/MAPK signalling, acting in concert with PI3K/AKT/mTOR signalling, is essential for vascular development. Loss of <em>EPHB4</em> or <em>RASA1</em> function results in constitutive activation of RAS/MAPK and AKT/mTOR signalling, causing abnormal endothelial differentiation and disordered vascular development {28687708; 32568624}.</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 105826,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 482,
+        "headingText": "\r\n<p>The sectioned surface in sporadic AVM generally shows an unencapsulated lesion with red and maroon vascular components and often large and tortuous vessels intermingled with native tissue.</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 105827,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 476,
+        "headingText": "\r\n<p>AVMs vary in appearance, but important features are disproportionately large arteries and veins, and vessels that often appear indeterminate in lineage. Arteries show focal dissolution of their internal elastic lamina and neointimal cushions; veins show thickened walls with neointimal hyperplasia, although some may have thinned fibrous walls. There is a generalized increase in small vessels whose appearance approximates that of small arteries, capillaries, and veins. Many AVMs have small foci or lobules of small vessels of mostly capillary calibre, which can mimic lesions such as lobular capillary haemangioma (pyogenic granuloma), infantile or congenital haemangioma, or the pseudokaposiform proliferation associated with Stewart&ndash;Bluefarb syndrome {27607322; 31637524; 32799314}.</p>\r\n<p>In PWS, and in the capillary stain in CM-AVM1, there is a diffuse minimal increase in the size of small arteries, capillaries (sometimes aggregated), venules, and small veins, which indicates shunting at the microscopic level.</p>\r\n<p>AVMs may develop in PWS, CM-AVM1, and CM-AVM2 [[Kozakewich HPW, Mulliken JB. Chapter 12: Histopathology of vascular malformations. In: Mulliken JB, Burrows PE, Fishman SJ, editors. Mulliken and Young&rsquo;s vascular anomalies: hemangiomas and malformations. 2nd ed. New York (NY): Oxford University Press; 2013.]] {28687708}. Dilatation of dermal or mucosal venules and small veins is seen in HHT. The histopathology of the AVM in PWS and CM-AVM1 approaches that of a sporadic AVM; there is no information on the histopathology of soft tissue AVMs in CM-AVM2 or HHT {28687708; 23600987}.</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 105828,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 105829,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 478,
+        "headingText": "\r\n<p>AVM has somatic <em>MAP2K1</em>, <em>KRAS</em>, <em>HRAS</em>, or <em>BRAF</em> mutations.</p>\r\n<p>PWS has germline and/or somatic mutations in <em>RASA1</em> or <em>EPHB4</em>.</p>\r\n<p>CM-AVM1 and CM-AVM2 have germline and/or somatic mutations in <em>RASA1</em> or <em>EPHB4</em>.</p>\r\n<p>HHT has germline mutations in <em>ENG</em>, <em>ACVRL1</em>, <em>GDF2</em>, or <em>SMAD4</em>, or genomic involvement of 5q31 or 7p14.</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 105830,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 481,
+        "headingText": "\r\n<h5>Sporadic AVM</h5>\r\n<p><em>Essential:</em> malformed arteries and veins and an increase in a microvascular component; correlation with supportive clinical and imaging features.</p>\r\n<p><em>Desirable:</em> demonstration of somatic <em>MAP2K1</em> mutations.</p>\r\n<h5>AVM in PWS, CM-AVM, and HHT</h5>\r\n<p><em>Essential: </em>a diffuse minimal enlargement of small arteries, capillaries, venules, and small veins.</p>\r\n<p><em>Desirable:</em> for PWS: demonstration of germline and somatic mutations in <em>RASA1</em> or <em>EPHB4</em>; for HHT: demonstration of germline mutations in <em>ENG</em>, <em>ACVRL1</em>, <em>GDF2</em>, or <em>SMAD4</em>, or genomic involvement of 5q31 or 7p14.</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 105831,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 479,
+        "headingText": "\r\n<p>For AVM, the Schobinger classification (based on clinical parameters) is used {9727427}.</p>\r\n",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 105832,
+        "bookId": 44,
+        "chapterId": 529,
+        "headingId": 480,
+        "headingText": "\r\n<p>Most AVMs are progressive and at some point will require intervention with therapeutic options that include embolotherapy; operative intervention; and targeted therapy, with most inhibitors targeting the RAS/MAPK/ERK pathway. PWS and AVM associated with CM-AVM tend to be slowly progressive and may require supportive measures, embolotherapy, and inhibitors targeting the RAS/MAPK/ERK pathway. HHT may require embolotherapy for large visceral lesions; antiangiogenic drugs have also been utilized {31030813; 32557381}.</p>",
+        "timestamp": "2023-03-15T13:33:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

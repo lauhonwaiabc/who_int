@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 117,
+    "bookId": "48",
+    "roleid": 160,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4153,
+        "lastname": "Zakowski",
+        "firstname": "Maureen F.",
+        "initials": "",
+        "email": "",
+        "roleid": 160,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 118,
+    "bookId": "48",
+    "roleid": 161,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4148,
+        "lastname": "Satoh",
+        "firstname": "Yukitoshi",
+        "initials": "",
+        "email": "",
+        "roleid": 161,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 119,
+    "bookId": "48",
+    "roleid": 162,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2946,
+        "lastname": "Geisinger",
+        "firstname": "Kim",
+        "initials": "",
+        "email": "",
+        "roleid": 162,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 120,
+    "bookId": "48",
+    "roleid": 163,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3347,
+        "lastname": "Bubendorf",
+        "firstname": "Lukas",
+        "initials": "",
+        "email": "",
+        "roleid": 163,
+        "position": 0
+      },
+      {
+        "contributorid": 4146,
+        "lastname": "Kholova",
+        "firstname": "Ivana",
+        "initials": "",
+        "email": "",
+        "roleid": 163,
+        "position": 0
+      },
+      {
+        "contributorid": 4150,
+        "lastname": "Michael",
+        "firstname": "Claire W.",
+        "initials": "",
+        "email": "",
+        "roleid": 163,
+        "position": 0
+      }
+    ]
+  }
+]

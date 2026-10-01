@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123911,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 607,
+        "headingText": "\r\n<p>Multiple endocrine neoplasia type&nbsp;2 (MEN2) is an autosomal dominant tumour syndrome caused by activating mutations in the <em>RET</em> proto-oncogene.</p>\r\n",
+        "timestamp": "2024-10-09T15:58:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123912,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 608,
+        "headingText": "<h6><em>MIM numbering</em></h6>\r\n<p>171400 Multiple endocrine neoplasia, type 2A; MEN2A</p>\r\n<p>162300 Multiple endocrine neoplasia, type 2B; MEN2B</p>",
+        "timestamp": "2024-10-09T15:58:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123913,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 609,
+        "headingText": "\r\n<p>2F7A.0 Multiple polyglandular tumours</p>\r\n",
+        "timestamp": "2024-10-09T15:58:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123914,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 610,
+        "headingText": "<p><em>Acceptable:</em> MEN2 syndrome.</p>\r\n<p><em>Not recommended:</em> Sipple syndrome; multiple endocrine neoplasia type&nbsp;3; Gorlin syndrome; Wagenmann&ndash;Froboese syndrome; mucosal neuroma syndrome; Farndon syndrome.</p>",
+        "timestamp": "2024-12-09T12:06:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123915,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 611,
+        "headingText": "\r\n<p>Multiple endocrine neoplasia type&nbsp;2A; multiple endocrine neoplasia type&nbsp;2B (formerly called type&nbsp;3)</p>\r\n",
+        "timestamp": "2024-10-09T15:58:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123916,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 612,
+        "headingText": "\r\n<p>Medullary thyroid carcinoma (MTC), which is the hallmark of this disorder, involves the thyroid gland and specifically arises most often at the junction of the upper third and lower two&nbsp;thirds of the lateral lobes of the gland. The disease begins as microscopic proliferations (classified as nodular C-cell hyperplasia) in this location, usually bilaterally, and progresses to multifocal invasive carcinoma.</p>\r\n<p>Phaeochromocytoma arises in the adrenal medulla and again is often bilateral and multifocal. Extra-adrenal paragangliomas are not usually seen in this disorder.</p>\r\n<p>Parathyroid proliferations arise in the parathyroid glands beside and below the thyroid in the neck. They are bilateral in 70% of patients.</p>\r\n<p>Cutaneous lichen amyloidosis can be identified anywhere on the skin but most commonly involves the interscapular back.</p>\r\n<p>Hirschsprung disease and oral-intestinal ganglioneuromas are manifestations of abnormal development of the myenteric and submucosal ganglionic plexus of the gastrointestinal tract. Loss of function leading to Hirschsprung disease most often affects the rectosigmoid colon. Ganglioneuromas can occur anywhere from the lips to the anus.</p>\r\n",
+        "timestamp": "2024-10-09T15:58:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123917,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 613,
+        "headingText": "<p>The disorder has several subtypes. MEN2A is the classic form, characterized by the development of MTC and often associated with phaeochromocytoma and/or parathyroid proliferations. MEN2B, originally called MEN3, is a rare subtype characterized by a highly aggressive early-onset MTC associated with a high risk of phaeochromocytoma, oral and intestinal ganglioneuromas, and a marfanoid body habitus.</p>\r\n<p>Isolated MTC can occur. Formerly known as familial MTC, it is recognized as a variant of MEN2A in the American Thyroid Association (ATA) guidelines on MTC published in 2015 {25810047}. Other variants described include MEN2A with cutaneous lichen amyloidosis and MEN2A with Hirschsprung disease.</p>\r\n<p>Patients with MEN2 usually present with signs and symptoms of MTC, including one or more neck masses sometimes causing pain, hoarseness, coughing, dysphagia, and dyspnoea. Occasional patients report diarrhoea and flushing caused by calcitonin excess. Rarer presentations are due to phaeochromocytoma that may cause hypertension, headache, tachycardia, sweating, tremors, and anxiety. Patients with Hirschsprung disease present in childhood with constipation, diarrhoea, vomiting, and abdominal distention. Patients with MEN2B have a marfanoid habitus, and ganglioneuromas may be seen on oral examination.</p>\r\n<p>Increasingly, MEN2 is being diagnosed in younger patients, owing to genetic screening of known kindreds.</p>",
+        "timestamp": "2024-12-09T12:08:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123918,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 614,
+        "headingText": "\r\n<p>The prevalence of MEN2 is estimated to be about 1&nbsp;per 30&nbsp;000&nbsp;population {26494384; 25810047}. The incidence of MEN2A is about 1&nbsp;case per 1&nbsp;973&nbsp;500&nbsp;person-years, and that of MEN2B is much lower, at 1&nbsp;case per 38&nbsp;750&nbsp;000&nbsp;person-years. The M:F&nbsp;ratio is about 1:1, but some studies have shown a slight female predominance. Geographical heterogeneity of <em>RET</em> variants has been documented {34757920}, likely due to founder effects in different populations {27809725}.</p>\r\n",
+        "timestamp": "2024-10-09T15:58:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123919,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 615,
+        "headingText": "\r\n<p>Monoallelic gain-of-function germline mutations of <em>RET</em> induce constitutive activation of the RET receptor and are responsible for MEN2. In any given patient with one of the associated disorders, a negative family history does not exclude germline disease, because the disorder can skip generations or be misdiagnosed. MEN2B is more often due to a de&nbsp;novo germline mutation.</p>\r\n",
+        "timestamp": "2024-10-09T15:58:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123920,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 616,
+        "headingText": "<p>The proto-oncogene <em>RET</em>, on 10q11.2 was discovered in 1985, owing to its ability to transform NIH-3T3 cells {2992805}. Activating <em>RET</em> proto-oncogene germline mutations were reported to cause MEN2A a few years later {8099202}, followed by the detection of germline mutations in patients with MEN2B and familial MTC {7824936; 7906866}.</p>\r\n<p>The <em>RET</em> gene is a proto-oncogene that encodes a tyrosine kinase receptor. Physiologically, the RET receptor is activated by GDNF-family ligands bound to GFR&alpha;s and forms dimers, recruited to lipid rafts {32816064}. Specific tyrosine residues within the tyrosine kinase domain (TKD) of RET are autophosphorylated after RET dimer formation, which in turn activates the MAPK, PI3K, JAK/STAT, PKA, and PKC pathways {32816064}. Intracellular RET signalling is needed for the development of the enteric nervous system, kidney, and urinary tract {32816064}.</p>\r\n<p>There are clear correlations between genotype and phenotype. MEN2A mutations are mainly found in cysteines of codons&nbsp;609, 611, 618, 620 (exon&nbsp;10), or 634 (exon&nbsp;11) of the extracellular domain, leading to bisulfide-bonded homodimers and constitutive activation {7907913; 8918855; 21552134}. <em>RET</em> p.C634R is the most frequent mutation and is associated with the classic triad of MTC, phaeochromocytoma, and hyperparathyroidism. Familial MTC is characterized by mutations that do not affect cysteines in exons&nbsp;8, 13, 14, and&nbsp;15 or by mutations in codons&nbsp;609&ndash;620. The <em>RET</em> p.A883T mutation induced MTC in a family in a homozygous setting only. In about 2% of patients with MEN2, no mutation in the <em>RET</em> proto-oncogene can be detected, and therefore it is still unclear whether other genetic alterations can lead to MEN2 {20516206}.</p>\r\n<p>There are also correlations between genotype and the aggressiveness of MTC, which allowed the ATA to classify pathogenic sequence variants of <em>RET</em> into three different categories (highest, high, and moderate) based on the risk for aggressive MTC {25810047}. Interestingly, in MEN2A, the closer to the cell membrane the mutant cysteine residue lies, the higher the transforming ability {18936155; 20979234}. The highest-risk category (ATA-HST) includes patients with MEN2B and the <em>RET</em> p.M918T mutation; the high-risk category (ATA-H) includes patients with <em>RET</em> mutations at codon&nbsp;634 (p.C634F, p.C634G, p.C634R, p.C634S, p.C634W, or p.C634Y) and/or the <em>RET</em> p.A883F mutation. The moderate-risk category (ATA-MOD) includes patients with all other listed <em>RET</em> mutations. The common <em>RET</em> mutations and their associated risk of aggressive MTC and development of phaeochromocytoma and hyperparathyroidism are described in <a style=\"cursor:pointer\" href=\"/attachment/53/155/25098\" target=\"_blank\">#25098</a>Table&nbsp;13.02 .</p>\r\n<p>The vast majority of patients with MEN2B carry the <em>RET</em> p.M918T mutation in the kinase domain, leading to a constitutive autophosphorylation. <em>RET</em> p.A883F is found in 2&ndash;3% of patients with MEN2B {9360560}.</p>\r\n<p>Usually, biallelic loss-of-function germline mutation of <em>RET</em> leads to a non-functioning RET receptor and is a cause of Hirschsprung disease. However, the association of Hirschsprung disease with MEN2 suggests that activation of this oncogene interferes with the normal development of the enteric plexuses.</p>",
+        "timestamp": "2024-10-18T14:51:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123921,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 623,
+        "headingText": "\r\n<p>MTC in this disorder is typically bilateral and multicentric; the cut surface is white to yellow and homogeneous {33492588}.</p>\r\n<p>Phaeochromocytomas have a tan-white to dusky haemorrhagic appearance. The adrenals from patients with MEN2 can contain two or more separate phaeochromocytomas. Interposed adrenal medullary hyperplasia {23478233} might or might not be apparent grossly. Patients with longstanding MEN2 can develop multiple tumours with a spectrum of degenerative changes.</p>\r\n",
+        "timestamp": "2024-10-09T15:58:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123922,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 617,
+        "headingText": "<h6><em>Medullary thyroid carcinoma</em></h6>\r\n<p>MEN2-associated MTC appears histologically indistinguishable from sporadic MTC, but familial cases are more often multifocal, bilateral, and associated with C-cell hyperplasia {7285384}. Complete sampling of prophylactically removed thyroids is important to identify medullary thyroid microcarcinomas. The junction of the upper third and lower two&nbsp;thirds of the lateral lobes has a high density of C&nbsp;cells and is a common location of microcarcinomas in this setting.</p>\r\n<p>Histological patterns of MTC include solid, follicular (tubular/glandular), papillary, spindled, oxyphilic, paraganglioma-like, insular, angiosarcoma-like, and pleomorphic/anaplastic {6840715; 3068650; 31727331; 26293669; 33687689; 6999920}. The tumour cells can be round, oval, plasmacytoid, or spindled and are often mixed. Occasional nuclear pleomorphism and scattered multinucleated cells can be seen. Rare melanotic, squamous, giant cell, clear cell, and small cell patterns exist {2705868; 30424779; 8838338; 2917321}. Amyloid is seen as many as 75&ndash;90% of MTCs, and calcifications may be identified with amyloid. Amyloid in MTC has been shown by mass spectrometry to be a deposition of a calcitonin precursor {26304852}. Mucin production may also be seen {6687422}. MTC cells have the traditional salt-and-pepper chromatin of neuroendocrine tumours (NETs) and may have a small eccentric nucleolus and amphophilic cytoplasm. Intranuclear pseudoinclusions, similar to those of papillary thyroid carcinoma, may be seen. Mitotic activity is generally low. MTC with increased mitotic activity, necrosis, small cell features, vascular invasion, and stromal desmoplasia may behave more aggressively. Mixed follicular&ndash;medullary thyroid carcinoma and mixed papillary&ndash;medullary thyroid carcinoma can also occur in MEN2 {9174630; 8495962; 32660411}. MTC must be distinguished from follicular cell&ndash;derived thyroid carcinomas as well as from other NETs {33687689}. MTC is immunoreactive for low-molecular-weight keratin, INSM1, chromogranin&nbsp;A, synaptophysin, calcitonin, CGRP, thyroid transcription factor&nbsp;1 (TTF1), and monoclonal CEA, and it is negative for thyroglobulin and monoclonal PAX8 (clone MRQ-50) {31912298}.</p>\r\n<p>The progression of C-cell hyperplasia to neoplasia is a characteristic feature in the pathogenesis of MEN2-associated MTC. The term &ldquo;hyperplasia&rdquo; in this setting may not be appropriate, because the C&nbsp;cells in this setting are clonal proliferations {33492588}. Moreover, definitions of C-cell hyperplasia are controversial and numerous. These definitions have been based on various criteria: the number of C&nbsp;cells per area, of C-cell clusters, of complete follicles surrounded by C&nbsp;cells, and of C&nbsp;cells beyond their normal geographical distribution {8989229; 8200646; 8616768; 8989230; 6175219}. C-cell hyperplasia was classically defined as &ge;&nbsp;50&nbsp;C&nbsp;cells per low-power field (an ambiguous measure) in areas of high C-cell concentration {8989229}. C-cell clusters of at least 6&ndash;8&nbsp;C&nbsp;cells per cluster in several foci with &gt;&nbsp;50&nbsp;cells per low-power field have been used to define C-cell hyperplasia {8989229; 23478233}. Some authors have suggested that the finding of MTC with concomitant C-cell hyperplasia does not distinguish sporadic from hereditary MTC {9630179; 11688458}, because physiological or reactive/secondary C-cell hyperplasia can be seen in hypercalcaemia, hyperparathyroidism, increasing age, hypergastrinaemia, chronic lymphocytic thyroiditis, and adjacent non-medullary thyroid tumours {8989229; 6175219; 3899904; 16840909; 8200646}. As noted by some authors, &ldquo;The lower limit of C-cell hyperplasia and the upper limit of normal C-cell mass are not clear&rdquo; {26177318}. It has been suggested that physiological C-cell hyperplasia is only seen on immunohistochemistry, whereas that associated with familial disease, particularly when nodular, may be more readily seen on H&amp;E sections and may be associated with large cells and nuclear atypia {8616768}.</p>\r\n<p>Medullary thyroid microcarcinoma is &le;&nbsp;10&nbsp;mm in size. The distinction of medullary thyroid microcarcinoma from C-cell hyperplasia can be difficult and several features have been suggested, including loss of organoid arrangement, extension beyond the basement membrane, desmoplastic stromal reaction, and surrounding infiltrating tumour cells {11688458}; however, these features may be difficult to recognize {23478233}. Even very small medullary microcarcinomas can behave aggressively. In a study of 233&nbsp;individuals with medullary thyroid microcarcinomas (126&nbsp;hereditary and 107&nbsp;sporadic), lymph node metastasis increased with incremental tumour diameter {22399508}: 8% of microcarcinomas measuring &lt;&nbsp;2&nbsp;mm were associated with lymph node metastasis, as were 16% of tumours measuring 3&ndash;4&nbsp;mm, 33% of tumours measuring 5&ndash;6&nbsp;mm, and 43% of tumours measuring 7&ndash;10&nbsp;mm {22399508}. The important finding is that metastases occur even in tumours smaller than 2&nbsp;mm. Hereditary medullary thyroid microcarcinomas were more often multifocal and more often had positive nodal status than sporadic medullary microcarcinomas {22399508}. In a SEER Program database (1988&ndash;2007) study of 310&nbsp;medullary thyroid microcarcinomas, 65&nbsp;(37%) of 176&nbsp;patients with any lymph nodes removed had metastases, including 23% with tumours measuring &le;&nbsp;5&nbsp;mm {21717441}.</p>\r\n<h6><em>Phaeochromocytoma</em></h6>\r\n<p>In MEN2 this may be indistinguishable from sporadic forms. However, in the setting of MEN2, phaeochromocytomas are often bilateral and associated with adrenal medullary hyperplasia. Progression of adrenal medullary hyperplasia to phaeochromocytoma is a characteristic of MEN2-associated phaeochromocytoma. In adrenal medullary hyperplasia, adrenal medullary tissue makes up more than one&nbsp;third of the thickness of the adrenal gland or the adrenal medulla extends beyond the normal location in the normal apex and body and is also found in the tail of the adrenal gland {23478233; 24476517}. In MEN2, the term &ldquo;microphaeochromocytoma&rdquo; has replaced &ldquo;nodular hyperplasia&rdquo;, because this is a clonal process. Phaeochromocytomas in MEN2 appear histologically similar to sporadic phaeochromocytomas, composed of nests (Zellballen) of polygonal tumour cells surrounded by capillaries, or they can have a trabecular or diffuse architecture. The nuclei are often vesicular with prominent nucleoli, and the cells have variably staining cytoplasm that can be granular, basophilic, or amphophilic. Phaeochromocytomas in MEN2 generally have a low risk of aggressive behaviour and produce both norepinephrine and epinephrine. Composite phaeochromocytomas can also be seen in MEN2 {27704704; 28760150}.</p>\r\n<h6><em>Other tumours</em></h6>\r\n<p>Parathyroid proliferations associated with hyperparathyroidism can be seen in 15&ndash;30% of individuals with MEN2A but are not seen in MEN2B. They have been classified as adenomas and so-called hyperplasia when there is multiglandular disease that is more likely to be multiple neoplasms involving single or multiple glands.</p>\r\n<p>Hirschsprung disease, affecting the gastrointestinal tract in 7% of MEN2A patients with mutations involving exon&nbsp;10, is characterized by a complete absence of ganglion cells in the myenteric and submucosal plexus; this most often involves the rectosigmoid colon {20979234; 24972642}.</p>\r\n<p>Mucosal neuromas in MEN2B can involve the oropharynx, lips, and eyelids. Additionally, corneal nerves may be thickened, and ganglioneuromatosis of the gastrointestinal tract may occur, characterized by neuroma or diffuse ganglioneuromatosis {4957444; 5660196; 11356339; 8880581}.</p>\r\n<p>Cutaneous lichen amyloidosis, thought to be due to repeated scratching due to intense pruritus {8757765; 12864791; 29420094}, is histologically characterized by globular deposits of amyloid in the papillary dermis with overlying epidermal hyperkeratosis and acanthosis.</p>",
+        "timestamp": "2024-12-09T12:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123923,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 618,
+        "headingText": "<p>The cytopathological findings are presented in <a style=\"cursor:pointer\" href=\"/chaptercontent/53/50\" target=\"_blank\">section </a><em>Medullary thyroid carcinoma</em> and <a style=\"cursor:pointer\" href=\"/chaptercontent/53/112\" target=\"_blank\">section </a><em>Phaeochromocytoma</em> .</p>",
+        "timestamp": "2024-12-05T11:38:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123924,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 619,
+        "headingText": "\r\n<p>The diagnosis of MEN2 is confirmed by the identification of a germline mutation in <em>RET</em> that is known to be pathogenic. It is recommended that germline DNA testing be performed on any patient with MTC regardless of age, associated disorders, and family history.</p>\r\n",
+        "timestamp": "2024-10-09T15:58:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123925,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> a documented pathogenic variant of <em>RET</em> and/or manifestation of MTC associated with any of the other features of MEN2.</p>\r\n<p><em>Desirable:</em> C-cell hyperplasia; adrenal medullary hyperplasia; multifocal medullary carcinoma or phaeochromocytoma.</p>\r\n",
+        "timestamp": "2024-10-09T15:58:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123926,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 620,
+        "headingText": "<p>There is no uniformly accepted syndrome-specific staging system for MEN2. Malignant neoplasms associated with this syndrome generally follow the cancer staging suggested by Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) criteria [[Amin MB, Edge S, Greene F, et al., editors. AJCC cancer staging manual. 8th ed. New York (NY): Springer; 2017.]].</p>",
+        "timestamp": "2024-10-14T15:58:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123927,
+        "bookId": 53,
+        "chapterId": 155,
+        "headingId": 621,
+        "headingText": "<p>The prognosis in MEN2 is determined by MTC, and much less or not at all by phaeochromocytoma, parathyroid disease, or other manifestations of MEN2B.</p>\r\n<p>The prognosis for patients with MEN2-related MTC is superior to that for patients with sporadic MTC, with 10-year survival rates depending on disease stage: currently 100%, 93%, 71%, and 21% for stage&nbsp;I, II, III, and&nbsp;IV, respectively {9578814}. This is likely to be the result of screening, early detection, and prophylactic surgery in this patient group. It has been firmly established that the various <em>RET</em> mutations confer a range of risk profiles to individuals and families carrying these mutations, with the p.M918T <em>RET</em> mutation (in MEN2B) carrying the highest risk, followed by the p.A883P (in MEN2B) and p.C634 (in MEN2A) <em>RET</em> mutations (responsible for a high-risk profile), and then finally followed by the p.C609, p.C611, p.C618, and p.C620 mutations (which impart a moderate risk). Still other <em>RET</em> mutations result in an MTC-only phenotype, including p.G533, p.E768, p.L790, p.V804, and p.S891 {18062802; 18248648; 29142004; 24561444}. An additional two <em>RET</em> sequence variants have been described as modifiers that result in a more aggressive clinical course {14796821}. The risk profile has led to recommendations for prophylactic thyroidectomy in mutation carriers in MEN2 families, with surgery performed before the age of 1&nbsp;year for the highest-risk group of MEN2B patients, and before the age of 5&nbsp;years for those in the high-risk group with codon&nbsp;634 mutations in MEN2A. For those in the moderate-risk group, surgery may be postponed until the age of 10&nbsp;years {28609830; 25810047}. Besides thyroid gland resection, central neck lymph node dissection is also performed, but lateral neck dissection is reserved for cases in which there would be suspicion of lymph node metastases, which in general is not the case in patients who undergo prophylactic surgery. C-cell hyperplasia is always found in thyroids of <em>RET</em> mutation carriers, and the occurrence of small MTC is not uncommon. Apart from surgical guidelines based on genetic risk status, biochemical screening for calcitonin levels plays an important role in the timing of surgery and postoperative follow-up. The latter is only necessary if an MTC has been found; for C-cell hyperplasia, no follow-up is indicated. In fact, postoperative biochemical cure is associated with very high 10-year survival rates, whereas short calcitonin doubling times are associated with a poor prognosis, except for the rare cases in which an MTC no longer produces calcitonin because of dedifferentiation.</p>\r\n<p>Phaeochromocytoma development in patients with MEN2 is also determined by genotype, with the lifetime risk of phaeochromocytoma being almost 90% by the age of 80&nbsp;years in patients with <em>RET</em> p.C634 mutations and 100% in patients with MEN2B with the p.M918 mutation {14796821}. In contrast, the overall risk of phaeochromocytoma in patients with MEN2 is 40%, and some <em>RET</em> mutations, as mentioned above, are not associated at all with phaeochromocytoma in patients with MEN2 {26494388}. Phaeochromocytoma is usually not the presenting tumour in patients with MEN2, although every patient needs to be screened for its presence in order to avoid life-threatening crises at thyroid surgery. In addition, biochemical screening for urinary metanephrines is imperative in the clinical follow-up of patients with MEN2 {25810047}. Fewer than 5% of MEN2-related phaeochromocytomas give rise to metastasis {7595173}.</p>\r\n<p>Parathyroid disorders are also related to the specific genetic defect in <em>RET</em>, occurring most frequently with p.C634R mutations {7907913; 7641404}. Screening for hyperparathyroidism is indicated from the age of 11&nbsp;years for patients with ATA-HST and ATA-H <em>RET</em> mutations, and from the age of 16&nbsp;years for those with ATA-MOD <em>RET</em> mutations {25810047}. In MEN2B, no parathyroid disease has been described.</p>",
+        "timestamp": "2024-12-09T12:09:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

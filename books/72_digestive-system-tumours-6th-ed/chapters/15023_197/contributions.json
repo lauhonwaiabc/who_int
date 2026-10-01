@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 150802,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 951,
+        "headingText": "\r\n<p>Metastases are tumours arising at distant sites due to discontinuous spread of carcinomas, neuroectodermal tumours (including melanoma), germ cell tumours, or sarcomas. In this section, metastases to digestive system sites are discussed, excluding liver metastases (see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/195\" target=\"_blank\">section </a><em>Liver metastases</em>) and mucinous carcinoma peritonei (see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/268\" target=\"_blank\">section </a><em>Peritoneal metastasis</em>).</p>\r\n",
+        "timestamp": "2026-06-09T11:32:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 150803,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 952,
+        "headingText": "\r\n<p>Malignant neoplasm, metastatic (Code according to histology of the tumour.)</p>\r\n",
+        "timestamp": "2026-06-09T11:32:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 150804,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 953,
+        "headingText": "\r\n<p>2D80.0 Malignant neoplasm metastasis in liver</p>\r\n<p>2D8Y Malignant neoplasm metastasis in other specified digestive system organ</p>\r\n<p>2D8Z Malignant neoplasm metastasis in unspecified digestive system organ</p>\r\n",
+        "timestamp": "2026-06-09T11:32:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 150805,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 954,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-06-09T11:32:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 150806,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 955,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-06-09T11:32:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 150807,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 956,
+        "headingText": "\r\n<p>Metastatic tumours can involve any organ of the digestive tract, but the liver is by far the most commonly involved {18517275;27421135}. The frequency of metastatic involvement varies substantially between clinical and autopsy-related studies {18517275;7567944}. It is only in the small intestine that metastatic tumours outnumber primary tumours in diagnostic surgical pathology practice. Improved imaging, more effective treatment, and longer survival times have led to a shift towards detection, and occasionally resection, of oligometastatic disease. Metastasis in the abdominal organs should be distinguished from direct ingrowth from a urological or gynaecological primary or from peritoneal metastases, which is not always possible. See <a style=\"cursor:pointer\" href=\"/attachment/72/197/44740\" target=\"_blank\">#44740</a>Table&nbsp;15.03.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 150808,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 957,
+        "headingText": "\r\n<p>Metastatic disease is the leading cause of tumour-related death. The clinical signs depend on the type and location of the metastases but are frequently similar to those of the primary tumours in these locations {37106226}. The most common symptoms therefore include various degrees of abdominal pain and gastrointestinal bleeding, followed by weight loss, dysphagia, malabsorption, bowel obstruction, and bowel perforation, as well as haematemesis/haematochezia and resulting anaemia. Some metastatic malignancies are associated with defined paraneoplastic symptoms.</p>\r\n<p>Clinical and diagnostic consequences largely depend on the therapeutic options. Oligometastases, defined as a single metastasis or single-organ involvement, may be treated by resection or other locoregional therapies. Otherwise, systemic therapies such as chemotherapy and immunotherapy, as well as molecularly targeted therapies, may be appropriate, depending on the tumour type. Specific molecular pathology diagnostics may be often necessary.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 150809,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 958,
+        "headingText": "\r\n<p>Reliable data on metastatic rates, in particular for these less common locations, are not available. Most information is published in the form of case reports or case series; older studies describe larger autopsy series.</p>\r\n<p>In these series, metastases to the stomach and small intestine are most commonly derived from primary breast (usually of lobular type) and lung cancer {23896636;28778379;38706640}. Metastases in the small intestines are reported considerably more frequently than in other locations. In a population screening setting with faecal immunochemical test (FIT) screening, 1&nbsp;in 10&nbsp;000&nbsp;colonoscopies showed metastatic disease {36156277}. Gynaecological tumours were the most common, although these might be due to direct ingrowth rather than true metastases.</p>\r\n<p>Renal cell carcinoma is the most common metastasis to the pancreas {24462547}. Gallbladder metastases are described to be present in 3&nbsp;cancer patients per 100&nbsp;000, and are most commonly from melanoma, renal cell carcinoma, and colorectal cancer {35357569}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 150810,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 959,
+        "headingText": "\r\n<p>See respective primary malignancies sections.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 150811,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 960,
+        "headingText": "\r\n<p>Depending on the type and localization of the primary tumour, metastatic spread to and within the GI tract follows the routes of lymphatics and venous blood flow or occurs along canalicular spaces (e.g. if the tumour infiltrates the peritoneal cavity). Intraluminal seeding is considered the cause of approximately one&nbsp;third of second colon cancers {33316233;30151896}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 150812,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 967,
+        "headingText": "\r\n<p>The size, number, location, and macroscopic appearance of metastatic lesions can be highly variable, from invisible to inflammatory to similar to a primary tumour (including stenosis, ulceration, or polypoid growth) {37106226}. Lobular breast carcinoma metastatic to the stomach may diffusely infiltrate and thicken the gastric wall mimicking primary diffuse infiltrating gastric carcinoma {11147591;28778379}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 150813,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 961,
+        "headingText": "\r\n<p>Most metastatic lesions are histologically similar to the primary tumour, but loss and changes of differentiation may occur, particularly under therapeutic pressure and hypoxic conditions. Metastases of tumours with mixed differentiation may show only part of the differentiation spectrum of the primary tumour.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 150814,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 962,
+        "headingText": "\r\n<p>Cytological evaluation follows the criteria for the respective primary tumours.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 150815,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 963,
+        "headingText": "\r\n<p>Depending on the primary tumour type, metastatic disease in the GI tract may require molecular pathological analysis for clonal relationship or therapeutic decisions. The molecular markers to be analysed depend on the tumour type and the available therapeutic options.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 150816,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 966,
+        "headingText": "\r\n<p><em>Essential:</em> for metastasis: sufficient morphology, immunohistochemistry, and clinical correlation to be confident of the primary site of origin.</p>\r\n<p><em>Desirable:</em> advanced molecular testing may be beneficial in selected cases based on local resources.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 150817,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 964,
+        "headingText": "\r\n<p>Metastatic disease is in general coded as stage&nbsp;IV if there is a synchronous presentation.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 150818,
+        "bookId": 72,
+        "chapterId": 197,
+        "headingId": 965,
+        "headingText": "\r\n<p>Metastatic tumours usually indicate advanced tumour stage and therefore poor prognosis. However, presentation in the form of adequately treated oligometastatic disease might confer a good prognosis.</p>\r\n<p>In particular, isolated metastases to the pancreas, irrespective of origin, tend to have a good outcome {25900320;26892167;19434703;31672281}, with, for example, &gt;&nbsp;50% 5-year survival in cases operated for metastatic renal cell carcinoma. The median overall survival time with colorectal metastases from breast cancer is &gt;&nbsp;20&nbsp;months; for patients with synchronous metastases, this was 35.9&nbsp;months {37106226}.</p>",
+        "timestamp": "2026-06-09T11:32:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

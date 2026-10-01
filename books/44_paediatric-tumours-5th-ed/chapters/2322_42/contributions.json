@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 103833,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 466,
+        "headingText": "<p>Diffuse large B-cell lymphoma NOS (DLBCL-NOS) is a neoplasm of mature blastic B&nbsp;cells with a diffuse growth pattern. DLBCL-NOS encompasses all cases that do not belong to a specific diagnostic category of large B-cell lymphomas.</p>",
+        "timestamp": "2023-05-09T16:47:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 103834,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 467,
+        "headingText": "\r\n<p>9680/3 Diffuse large B-cell lymphoma (DLBCL), NOS</p>\r\n<p>9680/3 DLBCL, germinal-centre B-cell subtype</p>\r\n<p>9680/3 DLBCL, activated B-cell subtype</p>\r\n",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 103835,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A81.Z &amp; XH3FE9 Diffuse large B-cell lymphoma, NOS &amp; Mature B-cell lymphoma</p>\r\n",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 103836,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 469,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 103837,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 470,
+        "headingText": "\r\n<p>DLBCL, germinal-centre B-cell subtype; DLBCL, activated B-cell subtype</p>\r\n",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 103838,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 471,
+        "headingText": "\r\n<p>The disease manifests with nodal involvement and/or at extranodal sites. Bone marrow and CNS are usually negative at the time of diagnosis. However, localized subtypes confined to the bone have been reported. DLBCL confined to the CNS should be classified as primary CNS lymphoma {25107886}.</p>\r\n",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 103839,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 472,
+        "headingText": "\r\n<p>The majority of patients present with localized disease. Symptoms are either nonspecific or related to local tumour expansion. B&nbsp;symptoms are detected in about 20% of patients {21030984}.</p>\r\n",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 103840,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 473,
+        "headingText": "\r\n<p>DLBCL-NOS is rare in children aged &lt;&nbsp;4&nbsp;years; the median age at diagnosis is 11&nbsp;years. The M:F&nbsp;ratio is 1.7:1 {16173961}.</p>\r\n",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 103841,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 474,
+        "headingText": "\r\n<p>The etiology is unknown. Unlike in adults, DLBCL-NOS lesions in the childhood, adolescent, and young adult (CAYA) age group arise as de&nbsp;novo lymphomas. Cases of DLBCL-NOS arising by transformation of indolent lymphoma are virtually non-existent in CAYA patients. DLBCL-NOS may occur as a secondary neoplasm after childhood cancer other than lymphoma {18729852}. In a minority of patients, DLBCL-NOS occurs in cancer predisposition syndromes, primary immunodeficiencies, or other inherited genetic diseases {27515251}.</p>\r\n",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 103842,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 475,
+        "headingText": "<p>So far, no key pathogenetic pathways of DLBCL-NOS have been defined for CAYA patients. DLBCL-NOS in CAYA patients shares features of germinal-centre cells and the vast majority of cases can be assigned to the germinal-centre B-cell (GCB) of DLBCL {16424389; 22374697; 28643426}. The mutation landscape has been studied in a limited number of patients and indicates gene mutations similar to those in the adult counterpart (e.g. <em>SOCS1</em> and <em>KMT2D</em>) {31738823}. However, a number of molecular features characteristic of adult GCB DLBCL are missing, such as rearrangements of <em>BCL2</em> {16424389}. Mutation profiling may contribute to the subgrouping of DLBCL, but its clinical relevance has not been demonstrated for paediatric patients {29713087; 29641966; 31738823}. Translocations of <em>BCL6</em> may be detected in a small subgroup {28643426; 31738823}.</p>",
+        "timestamp": "2023-05-09T16:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 103843,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 482,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 103844,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 476,
+        "headingText": "<p>The tissue architecture is effaced by dense sheets of blastic cells (nuclei at least twice the size of lymphocytes). A starry-sky pattern may be present but is not common, unlike in Burkitt lymphoma. The morphology of blasts can be used to subdivide DLBCL-NOS into morphological patterns such as the centroblastic and immunoblastic patterns, as well as other rare patterns. However, in CAYA patients, the centroblastic pattern predominates {16424389}. Morphological subtyping has not been shown to be of clinical relevance in paediatric patients {16424389}. A variable amount of reactive microenvironment may be observed. Necrosis is not common. Morphology may be very variable, especially in localized subtypes such as CNS or bone lymphomas.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>B-cell markers such as CD20, CD19, and CD79a are expressed in DLBCL-NOS. An absence of CD20 at the time of first diagnosis is uncommon and should raise the suspicion of a different diagnosis of large B-cell lymphoma, or of a predisposing condition such as prior therapy or an immunodeficiency. The vast majority of cases of DLBCL-NOS in CAYA patients express germinal-centre markers such as CD10 and BCL6 and can be assigned to the GCB subtype of DLBCL {16424389; 28643426}. Cell proliferation is usually high, but often lower than in Burkitt lymphoma. BCL2 protein is variably expressed {16424389}. TdT expression is absent.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Most large B-cell lymphomas (see <a style=\"cursor:pointer\" href=\"/attachment/44/42/38724\" target=\"_blank\">#38724</a>Box&nbsp;2.05) are exceedingly rare in the CAYA age group. Therefore, the diagnosis of DLBCL-NOS in a CAYA patient should predominantly exclude lymphoblastic and Burkitt lymphomas. Lymphoblastic lymphoma is TdT-positive and frequently lacks CD20 expression. The distinction between Burkitt lymphoma and DLBCL-NOS in children may be challenging {16760443; 16760442}. DLBCL-NOS shows a starry-sky pattern less frequently than Burkitt lymphoma, as well as having more cytological variability, a lower Ki-67 index (&lt;&nbsp;95%), and a higher expression of BCL2. An absence of CD10 excludes Burkitt lymphoma, but CD10 expression is also detected in the vast majority of DLBCL-NOS cases in children. Because gene expression profiling is not available in a diagnostic setting, the differential diagnosis {28643426} should include a test for <em>MYC</em> rearrangements (e.g. by FISH). Given the high incidence of Burkitt lymphoma in young patients, it is advised that mature B-cell lymphoma with IG::<em>MYC</em> translocation be classified as Burkitt lymphoma in young children even when there are minor variations in the morphology and immunophenotype, but not in cases with unambiguous features of DLBCL or high-grade B-cell lymphoma {26980727; 28643426}. Testing for a pattern of gain/loss of at 11q that defines high-grade B-cell lymphoma with 11q aberration should only be conducted when morphology and immunophenotype are compatible with Burkitt lymphoma but no <em>MYC</em> rearrangement can be detected. Rearrangements of <em>BCL6</em> occur in a small subset of DLBCL-NOS but not in Burkitt lymphoma {26218299}.</p>\r\n<p>Testing for <em>IRF4</em> rearrangements is required to exclude large B-cell lymphomas with <em>IRF4</em> rearrangements, which may otherwise be morphologically indistinguishable from DLBCL-NOS {21487109; 31012208; 32239695}. Any aspect of follicular growth should raise the suspicion either of paediatric-type follicular lymphoma (containing CD21+ follicular dendritic cells) or of large B-cell lymphoma with <em>IRF4</em> rearrangement. In cases with scattered blasts and an abundant microenvironment, testing for EBV is advised to distinguish EBV-positive DLBCL, grey zone lymphoma, and diffuse patterns of nodular lymphocyte-predominant Hodgkin lymphoma {25999451}.</p>",
+        "timestamp": "2023-05-09T16:50:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 103845,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 477,
+        "headingText": "<p>The subclassification of lymphoma by FNAB alone is not advised.</p>",
+        "timestamp": "2023-03-03T15:48:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 103846,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 478,
+        "headingText": "\r\n<p><em>MYC</em> gene rearrangements are rare in paediatric DLBCL-NOS and should raise the suspicion of Burkitt lymphoma when detected. <em>IRF4</em> rearrangements need to be excluded {28643426}.</p>\r\n",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 103847,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> architectural effacement by a diffuse proliferation of medium or large lymphoid cells with centroblastic or immunoblastic morphology; mature B-cell immunophenotype, TdT-negative; high Ki-67 index (but &lt;&nbsp;95%).</p>\r\n<p><em>Desirable:</em> absence of <em>MYC</em> rearrangements; genetic testing, if relevant.</p>\r\n",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 103848,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 479,
+        "headingText": "\r\n<p>Staging is performed according to the Revised International Pediatric Non-Hodgkin Lymphoma Staging System (IPNHLSS) {25940716}, modified from the St.&nbsp;Jude staging system.</p>\r\n",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 103849,
+        "bookId": 44,
+        "chapterId": 42,
+        "headingId": 480,
+        "headingText": "\r\n<p>Given the overall excellent prognosis, no immunophenotypic or genetic risk factor has been defined yet. In the adolescent age group, female sex is associated with an inferior outcome {21030984}.</p>",
+        "timestamp": "2022-07-08T15:28:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

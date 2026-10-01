@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 71262,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 539,
+        "headingText": "\r\n<p>A perivascular epithelioid cell tumour (PEComa) is a mesenchymal tumour with melanocytic and smooth muscle differentiation.</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 71263,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 540,
+        "headingText": "\r\n<p>8714/0 PEComa, benign</p>\r\n<p>8860/0 Sclerosing PEComa/angiomyolipoma</p>\r\n<p>8714/3 Malignant PEComa</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 71264,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 541,
+        "headingText": "\r\n<p>2F3Y &amp; XH4CC6 Benign non-mesenchymal neoplasms of other specified site &amp; Perivascular epithelioid tumour, benign</p>\r\n<p>2F7C &amp; XH4CC6 Neoplasms of uncertain behaviour of connective or other soft tissue &amp; Perivascular epithelioid tumour, benign</p>\r\n<p>2B5F.2 &amp; XH9WD1 Sarcoma, not elsewhere classified of other specified sites &amp; Perivascular epithelioid tumour, malignant</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 71265,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Acceptable:</em> perivascular epithelioid cell tumour.</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 71266,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 543,
+        "headingText": "\r\n<p>Sclerosing PEComa/angiomyolipoma</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 71267,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 544,
+        "headingText": "\r\n<p>In the genitourinary organs, PEComas mostly occur in the kidney, but uncommon cases have been reported in the bladder, urachus, urethra, and prostate {27793610; 19589571; 17377813; 12562263}. Occasional angiomyolipoma cases have been observed in the testis {14713815; 18269463}.</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 71268,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 545,
+        "headingText": "\r\n<p>The tumour mass causes an enlargement of the involved organs; small tumours may be incidental findings.</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 71269,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 546,
+        "headingText": "\r\n<p>Patient ages range from 15&nbsp;to 67&nbsp;years {19589571; 32576448}, and there is no sex predilection. Pure epithelioid PEComas of the kidney have been reported in patients aged up to 80&nbsp;years.</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 71270,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 547,
+        "headingText": "\r\n<p>With the exception of those involving the kidney, genitourinary tract PEComas are sporadic; none of the patients described to date had tuberous sclerosis. A possible correlation of bladder PEComas with previous chemotherapeutic treatment has been hypothesized {32576448}.</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 71271,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 548,
+        "headingText": "\r\n<p>Syndromic and sporadic PEComas have demonstrated inactivation of the <em>TSC1</em> or <em>TSC2</em> genes {18085521}, with subsequent activation of the mTOR pathway {17521703} and loss of expression of the protein tuberin, which is encoded by the <em>TSC2</em> gene {9403714}. Alongside this pathogenetic pathway, there is a different pathogenetic mechanism in <em>TFE3</em>-rearranged PEComas that does not involve <em>TSC2</em>, suggesting that <em>TFE3</em>-rearranged PEComas represent an entity that morphologically overlaps with conventional PEComas {22456611}.</p>\r\n<p>PEComas have shown <em>TFE3</em> rearrangements associated with balanced Xp11 translocation in the few genitourinary cases evaluated {24695481; 23797724; 23224603; 29531006; 26844676; 29951351; 32576448}.</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 71272,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 555,
+        "headingText": "\r\n<p>PEComas are single, solid, well-circumscribed masses. Infiltrative margins and necrosis may be present. The size ranges from 5&nbsp;to 90&nbsp;mm.</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 71273,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 549,
+        "headingText": "\r\n<p>PEComas are composed of epithelioid cells with a clear and granular cytoplasm, associated with spindle cells in a variable ratio. Cells containing intracytoplasmic melanin are present. The neoplastic cells have an alveolar architecture arranged in a radial way around the walls of the hyalinized blood vessels. Tumour cells are mostly characterized by nuclei with slight atypia and inconsistent nucleoli; however, tumour cells with moderate/severe atypia, mitoses, necrosis, and lymphovascular invasion may be observed. Tumours may show expansive or infiltrative patterns. Sclerosing PEComa is composed of cords and trabeculae of bland epithelioid cells embedded in abundant sclerotic stroma. Other than in the kidney, these tumours have been described in the retroperitoneum, pararenal region, pelvis, uterus, and abdominal wall {18223480}. Uncommon cases with overt sarcomatous features mimicking other malignancies have been reported and may therefore escape recognition {17377813}.</p>\r\n<p>PEComas show positive staining for both melanocytic (HMB45 and/or melan-A) and muscle (actin and/or desmin) markers, which are helpful for confirming the diagnosis. Usually the epithelioid cells show stronger expression of melanocytic markers, and the spindle cells express muscle markers {16327428}. In addition, tumour cells show positive staining for TFE3, MITF, and cathepsin&nbsp;K, as well as patchy, focally positive immunostaining for tyrosinase. Cytokeratins are negative.</p>\r\n<p>The differential diagnosis includes carcinoma (which stains for epithelial markers) and paraganglioma (which stains for S100), as well as leiomyosarcoma and myofibroblastic tumour in cases of PEComas that may escape recognition because of the presence of overt sarcomatous features mimicking the aforementioned malignancies.</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 71274,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 71275,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 551,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 71276,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> presence of epithelioid tumour cells with melanocytic and muscle differentiation.</p>\r\n<p><em>Desirable:</em> presence of cells containing intracytoplasmic melanin.</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 71277,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 552,
+        "headingText": "\r\n<p>There is no Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) staging system for extrarenal PEComa.</p>\r\n",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 71278,
+        "bookId": 36,
+        "chapterId": 249,
+        "headingId": 553,
+        "headingText": "\r\n<p>Because there have been few reported cases, limited data are available for defining the criteria for benign outcome, uncertain malignant potential, and malignant outcome for patients with PEComa. However, different authors have proposed certain histological features as general criteria for stratifying tumour behaviour in cases with tumour size &gt;&nbsp;50&nbsp;mm, infiltrative growth patterns, high nuclear grade and cellularity, mitotic count, necrosis, and vascular invasion {16327428}; or for size &gt;&nbsp;80&nbsp;mm, mitotic count, and necrosis {16359539}. Large tumours should be extensively sampled to exclude areas with worrisome histological features. The biological behaviour of PEComas does not seem related to the presence of <em>TFE3</em> rearrangement. Notably, the presence of <em>TFE3</em> translocation has been documented in all cases of PEComa of the genitourinary tract where it has been investigated, regardless of benign or malignant behaviour {24695481; 23797724; 23224603; 29531006; 26844676; 29951351; 32576448}. Proposed target treatment with mTORC1 inhibitors in malignant PEComas {20048174} should be indicated in cases with <em>TSC2</em> inactivation, whereas patients with <em>TFE3</em>-rearranged PEComa without <em>TSC2</em> gene involvement may not respond to mTORC1 inhibitors.</p>",
+        "timestamp": "2022-02-25T16:25:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

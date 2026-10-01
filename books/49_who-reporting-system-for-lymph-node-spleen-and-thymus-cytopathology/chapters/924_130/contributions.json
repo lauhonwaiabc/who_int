@@ -1,0 +1,22 @@
+[
+  {
+    "pkheadingid": 795,
+    "bookid": 49,
+    "headingType": 2,
+    "headingTitle": "",
+    "headingPosition": 1,
+    "headingid": 665,
+    "contributions": [
+      {
+        "pkcontributionId": 121950,
+        "bookId": 49,
+        "chapterId": 130,
+        "headingId": 665,
+        "headingText": "<p><em>Definition:</em> A specimen categorized as &ldquo;Suspicious for malignancy&rdquo; demonstrates some cytopathological features suggestive of malignancy but with features insufficient, either in number or in quality, to make an unequivocal diagnosis of malignancy.</p>\r\n<p>A recent review {39097796} of 10&nbsp;published retrospective and heterogeneous studies showed the ROM for cases categorized as &ldquo;Suspicious for malignancy&rdquo; ranged from 88% to 100%, depending on the use of ancillary tests {37378919; 37231736; 36917967; 35148033; 34957622; 34817104; 34661975; 34289486; 34441249; 33830657}, and a meta-analysis of nine of these studies showed a ROM of 93% {38096796}.</p>\r\n<p>The cytopathology report should always be correlated with clinical and imaging data. Whenever results from imaging techniques and flow cytometry are available, they should be correlated and integrated in the final assessment before categorizing a case as &ldquo;Suspicious for malignancy&rdquo;. Wherever possible, the type of malignancy suspected should be stated. The reporting cytopathologist, once the categorization as &ldquo;Suspicious for malignancy&rdquo; has been reached, may produce a report while alerting the clinician to the fact that ancillary tests have been ordered, or may wait for ancillary tests that may clarify the diagnosis and change the categorization to &ldquo;Malignant&rdquo; or possibly &ldquo;Benign&rdquo; before releasing a final report. With flow cytometry, particularly together with ROSE, the ROM is very high, approaching 100%, reflecting the strength of flow cytometry to pick up or exclude the most common types of B-cell lymphomas {34957622; 34817104; 34661975; 34289486; 34441249}.</p>\r\n<p>The management recommendations differ depending on the clinical suspicion of metastatic disease or of a haematolymphoid tumour. For metastatic tumours, a CNB or repeat FNAB with cell block and immunocytochemistry are the most appropriate alternatives, depending on local practices and lymph node accessibility. For suspected lymphomas, a CNB with flow cytometry and in some cases immunocytochemistry and NGS may be sufficient, depending on the lymphoma subtype and the accessibility of the lymph node, but a surgical biopsy is the best alternative. This is particularly the case in lymphomas with a large inflammatory component, such as Hodgkin lymphomas or nodal T&nbsp;follicular helper cell lymphoma, angioimmunoblastic type, where the tissue architecture often provides crucial clues that may be difficult to find on a CNB, as well as in all other T-cell lymphomas {35797472}. In such cases, a surgical biopsy is highly recommended.</p>",
+        "timestamp": "2024-11-27T15:20:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

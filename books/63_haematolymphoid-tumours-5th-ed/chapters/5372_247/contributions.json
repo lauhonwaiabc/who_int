@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 121351,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Peripheral T-cell lymphoma (PTCL) NOS is a heterogeneous category of nodal and extranodal mature T-cell lymphomas that cannot be assigned to a specific PTCL entity. Nodal T&nbsp;follicular helper (TFH) cell lymphomas and EBV-positive nodal T- and NK-cell lymphomas are excluded from this category.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 121352,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9702/3 Peripheral T-cell lymphoma, NOS</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 121353,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A90.C Peripheral T-cell lymphoma, NOS</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 121354,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Not recommended:</em> T-cell lymphoma NOS; peripheral T-cell lymphoma, pleomorphic small cell; peripheral T-cell lymphoma, pleomorphic medium and large cell; peripheral T-cell lymphoma, large cell.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 121355,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 121356,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>Most patients present with advanced disease. Besides the lymph nodes, other sites can also be involved, including the bone marrow, liver, spleen, and extranodal tissues (most commonly the skin and gastrointestinal tract) {16210342; 21270441; 18626005}. Leukaemic and CNS presentations are uncommon {26379152}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 121357,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Patients most often present with lymphadenopathy and B&nbsp;symptoms. Paraneoplastic features such as eosinophilia, pruritus, or (rarely) haemophagocytic syndrome may be seen {16210342}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 121358,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>PTCL-NOS is nearly always diagnosed in adults and shows a male predominance {21270441}. These tumours account for as many as 35% of T-cell neoplasms {18626005}, with some variation based on geography (20% in Asia, 28% in France, and 35% in North America) {34327343; 28459613; 18626005}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 121359,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>Unknown</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 121360,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 710,
+        "headingText": "\r\n\r\n<p>PTCL-NOS has complex karyotypes {18341637}. Common abnormalities with a potential pathogenetic role include chromosomal gains of&nbsp;7q and&nbsp;7p, encompassing <em>CDK6</em> (7q21.2) and <em>CARD11</em> (7p22.2) {17044049; 17989712; 18633432; 19863542}. Occasional cases show alterations involving the TR gene loci (mostly the TRA locus at 14q11.2), including t(14;19)(q11;q13) implicating <em>NECTIN2</em> (<em>PVRL2</em>) {17696193}, and t(6;14)(p25;q11.2) implicating <em>IRF4</em> in cytotoxic PTCL-NOS {18987657; 24604141}. Next-generation sequencing studies have revealed frequent aberrations in tumour suppressor genes, including rearrangements of <em>TP63</em> {22855598} and mutations and deletions of <em>CDKN2A</em>, <em>PTEN</em>, and <em>TP53</em> {30782609; 31092896; 33054126}, which are often associated with poor clinical outcomes. Codeletion of <em>CDKN2A</em>and <em>PTEN</em>, reported in 20% of cases, is a highly specific finding of PTCL-NOS that is rarely found in other mature T-cell neoplasms {33054126}. Like other types of mature T-cell lymphomas, a subset of PTCL-NOS has alterations in <em>PLCG1</em>, <em>CD28</em>, and <em>VAV1</em> {31092896; 26719098; 28062691}.</p>\r\n<p>Gene expression profiling studies have identified two molecular subtypes within PTCL-NOS: PTCL-TBX21 and PTCL-GATA3; these are characterized by overexpression of the transcription factors TBX21 (T-bet) and GATA3 (and corresponding target genes), respectively, and have different prognoses {24632715; 35839444}. Because these transcription factors regulate the T&nbsp;helper&nbsp;1 (Th1) (TBX21) and T&nbsp;helper&nbsp;2 (Th2) (GATA3) transcription programmes, it is postulated that these two molecular subtypes may represent neoplasms associated with aberrant Th1/2 differentiation. The PTCL-GATA3 molecular subtype is associated with high <em>MYC</em> expression, high proliferation, and aberrant PI3K activation, whereas in the PTCL-TBX21 subtype the NF-&kappa;B pathway is enriched. In addition, PTCL-GATA3 cases have a higher genomic complexity&nbsp;&ndash; in particular, genomic aberrations targeting tumour suppressor genes, including 17p&nbsp;deletion (<em>TP53</em>), 9p&nbsp;deletion (<em>CDKN2A</em>), and heterozygous 10p&nbsp;deletion (<em>PTEN</em>)&nbsp;&ndash; whereas PTCL-TBX21 is mainly characterized by mutations in epigenetic regulators (e.g. <em>TET2</em>, <em>DNMT3A</em>), suggesting distinct oncogenic pathways of tumorigenesis {30782609}.</p>\r\n<p>Within the PTCL-TBX21 molecular subtype, a subset of cases with a cytotoxic gene expression programme and more aggressive behaviour have been described {24632715; 19965671}. This cytotoxic subset has not been entirely delineated yet, and additional studies are needed to distinguish it from non-cytotoxic PTCL-TBX21 cases and to establish its relationship with EBV-positive nodal T- and NK-cell lymphomas.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 121361,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 121362,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 711,
+        "headingText": "<p>PTCL-NOS has highly variable cytological and morphological features. There is partial or complete effacement of the nodal architecture by paracortical or diffuse infiltrates. Most cases comprise medium-sized and/or large lymphoma cells with irregular, pleomorphic, hyperchromatic, or vesicular nuclei; prominent nucleoli; and many mitotic figures {8068936; 17124078}. HRS-like cells can also be seen {28125450}. Rare cases have a predominance of small to medium-sized lymphoid cells with clear cytoplasm. There is commonly an inflammatory background composed of variable proportions of small lymphocytes, eosinophils, plasma cells, large B&nbsp;cells (EBV-positive or -negative), and clusters of epithelioid histiocytes (see <em>Lymphoepithelioid lymphoma (Lennert lymphoma)</em>, below). An inflammatory background is much more frequent in the PTCL-TBX21 molecular subtype than in the PTCL-GATA3 molecular subtype {31562134}.</p>\r\n<p>In the skin, the lymphomatous infiltrate in the dermis and subcutis often forms nodules, which may undergo central necrosis. Epidermotropism, angiocentricity, and adnexal involvement are sometimes seen {15531460}. In the spleen, the pattern is variable, from solitary or multiple nodules to diffuse white pulp involvement with colonization of the periarteriolar sheaths or, in some cases, predominant infiltration of the red pulp.</p>\r\n\r\n<h5>Immunophenotype</h5>\r\n\r\n<p>PTCL-NOS is positive for pan&ndash;T-cell antigens, with frequent decreased expression of CD5 and CD7 {21270441; 16636342}. It is more often CD4-positive than CD8-positive, and rare cases can be double-positive or double-negative. Most cases express TCR&alpha;&beta;, but rare cases are positive for TCR&gamma;&delta; or negative for both (T-cell receptor&ndash;silent). Expression of one or more cytotoxic markers is seen in 20&ndash;35% of cases, with TIA1 being more commonly expressed than granzyme&nbsp;B {16636342; 29845715; 16160469}. Concordant with the gene expression profiling findings, cases with cytotoxic marker expression are usually of the PTCL-TBX21 molecular subtype, and it is rarely observed in the PTCL-GATA3 subtype {31562134}. CD56 is positive in a subset of cases, and cyclin&nbsp;D1 is expressed in rare cases {27469326}. Aberrant B-cell marker (typically CD20) expression can be seen in rare cases {18753947}. Scattered EBV-encoded small RNA (EBER)-positive B&nbsp;cells may be present.</p>\r\n<p>The expression of a single TFH marker is still acceptable for the diagnosis of PTCL-NOS, but cases with diffuse positivity for two or more TFH markers should be diagnosed as nodal TFH cell lymphoma. CD30 expression is detected in &gt;&nbsp;25% of cases. When present, it is usually variable and is not uniformly and strongly positive, unlike the characteristic extensive strong staining in anaplastic large cell lymphomas {25224410; 23716537}. CD30 positivity (even weak expression) may have therapeutic utility where brentuximab vedotin is available {24652992}. CD15 is present in about 5% of cases and may be coexpressed with CD30 {14657710}.</p>\r\n<p>An immunohistochemical algorithm can be used to provide surrogate information on the molecular subtypes (PTCL-GATA3 and PTCL-TBX21) {31562134}. This algorithm begins with the determination of TBX21 expression and is followed, if needed, by the assessment of CXCR3, GATA3, and CCR4.</p>\r\n\r\n<h6>Lymphoepithelioid lymphoma (Lennert lymphoma)</h6>\r\n\r\n<p>This morphological variant is characterized by numerous epithelioid histiocytes that mimic granulomatous inflammation, often masking the neoplastic T&nbsp;cells. The tumour cells are usually small and mildly atypical, with irregular nuclei and mature coarse chromatin. Scattered larger immunoblasts or atypical HRS-like B&nbsp;cells (usually EBV-positive) can be encountered. The neoplastic cells typically have a non-activated cytotoxic phenotype (TIA1+ and granzyme&nbsp;B&minus;), with expression of CD4 or CD8 {21270441; 15480768; 22175897; 27428734}. Lymphomas with a lymphoepithelioid morphology and TFH immunophenotype should be classified as nodal TFH cell lymphoma {27428734}. Lymphoepithelioid lymphoma has a better prognosis than other forms of PTCL-NOS {21270441; 27016488}.</p>\r\n\r\n<h5>Differential diagnosis</h5>\r\n\r\n<p>The diagnosis of PTCL-NOS is essentially one of exclusion, and therefore all other types of PTCL should be considered (<a style=\"cursor:pointer\" href=\"/attachment/63/247/36855\" target=\"_blank\">#36855</a>Table&nbsp;5.21). In cases with HRS-like or scattered large B&nbsp;cells, the differential diagnosis includes classic Hodgkin lymphoma or T-cell/histiocyte&ndash;rich large B-cell lymphoma. Cases of PTCL-NOS that partially involve the lymph node, sparing lymphoid follicles, and are composed of clear cells can resemble nodal marginal zone lymphoma. PTCL-NOS also needs to be distinguished from several reactive conditions involving lymph nodes, including paracortical lymph node hyperplasia induced by viral infections (infectious mononucleosis) or drug reactions, autoimmune lymphoproliferative syndrome (ALPS), and Kikuchi&ndash;Fujimoto disease. The demonstration of a significant monoclonal T-cell population, often with an aberrant immunophenotype, is helpful to differentiate PTCL from these reactive entities.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-01T16:56:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 121363,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 121364,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>Most cases show monoclonal rearrangement of the TR genes. <em>RHOA</em> p.G17V and <em>IDH2</em> p.R172 mutations, which are often present in nodal TFH cell lymphomas, are usually negative in PTCL-NOS.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 121365,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> presence of an abnormal T-cell infiltrate, which is morphologically or immunophenotypically aberrant and/or is monoclonal by ancillary studies; the tumour cells are negative or express only one TFH marker (to differentiate from nodal TFH cell lymphomas) and only show EBER in scattered B&nbsp;cells (to differentiate from EBV-positive nodal T- and NK-cell lymphoma); exclusion of other nodal or extranodal mature T- and NK-cell lymphomas (i.e. ALK+ anaplastic large cell lymphoma, ALK&minus; anaplastic large cell lymphoma, adult T-cell leukaemia/lymphoma, extranodal NK/T-cell lymphoma).</p>\r\n<p><em>Desirable:</em> clonal TR gene rearrangements; establishment of the biological designation of PTCL-TBX21 or PTCL-GATA3.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 121366,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Staging is performed according to the Lugano modification of the Ann Arbor staging system {25113753}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 121367,
+        "bookId": 63,
+        "chapterId": 247,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>These are aggressive lymphomas with a poor response to therapy, frequent relapses, and low survival rates {21270441; 18626005; 29672827}. The 5-year overall and failure-free survival rates for PTCL-NOS have been reported as 32% and 20% respectively {21270441}. A high International Prognostic Index (IPI) score, PTCL-GATA3 molecular subtype, cytotoxic profile, increased numbers of transformed cells, CD30 expression in most or all cells, and abnormalities in tumour suppressor genes (e.g. deletion/mutations of <em>TP53</em> and <em>CDKN2A</em>) have been associated with poor prognosis {22855598; 30782609; 31092896; 33054126; 24632715; 31562134; 16636342; 16160469; 24497534}.</p>",
+        "timestamp": "2024-03-01T16:56:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "pkattachmentId": 80699,
+    "bookid": 67,
+    "chapterId": 250,
+    "fileId": 37549,
+    "type": "Figure",
+    "diagnosis": "<em>ELP1</em>-related medulloblastoma predisposition syndrome",
+    "title": "",
+    "legend": "Proposed three-step model of tumorigenesis in <em>ELP1</em>-related medulloblastoma. Step 1: germline variant results in monoallelic inactivation of the <em>ELP1</em> gene (shown in red). Step 2: somatic loss of chromosome 9q results in biallelic inactivation of <em>ELP1</em> and concurrent monoallelic inactivation of the <em>PTCH1</em> gene. Step 3: somatic <em>PTCH1</em> mutation or focal deletion at 9q22.32 results in biallelic inactivation of the <em>PTCH1</em> gene.",
+    "source": "Sebastian M. Waszak",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/67/250/37549.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/67/250/thumb_37549.jpg"
+  },
+  {
+    "pkattachmentId": 80881,
+    "bookid": 67,
+    "chapterId": 250,
+    "fileId": 38783,
+    "type": "Figure",
+    "diagnosis": "Histopathology of <em>ELP1</em>-related medulloblastoma",
+    "title": "",
+    "legend": "Desmoplastic/nodular pattern characterized by nodular, reticulin-free zones and intervening densely packed, poorly differentiated cells that produce an intercellular network of reticulin-positive collagen fibres.",
+    "source": "",
+    "copyright": "<!--StartFragment -->\r\n<p class=\"pf0\"><span class=\"cf0\">Korshunov A. <br />WHO Classification of Tumours Editorial Board. Central nervous system tumours. Lyon (France): International Agency for Research on Cancer; 2021. (WHO classification of tumours series, 5th ed.; vol. 6). https://publications.iarc.who.int/601.</span></p>\r\n<!--EndFragment -->",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/67/250/19902.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/67/250/thumb_19902.jpg"
+  },
+  {
+    "pkattachmentId": 80991,
+    "bookid": 67,
+    "chapterId": 250,
+    "fileId": 61128,
+    "type": "Figure",
+    "diagnosis": "<em>ELP1</em>-related medulloblastoma predisposition syndrome",
+    "title": "",
+    "legend": "The image shows pathogenic <em>ELP1</em> sequence variants associated with an <em>ELP1</em>-related medulloblastoma predisposition syndrome. Reference transcript NM_003640.5 is shown. ELP1 protein domains are indicated as coloured boxes. SV, structural variant.",
+    "source": "Sebastian M. Waszak",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/67/250/61128.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/67/250/thumb_61128.jpg"
+  },
+  {
+    "pkattachmentId": 81036,
+    "bookid": 67,
+    "chapterId": 250,
+    "fileId": 37547,
+    "type": "Table",
+    "diagnosis": "",
+    "title": "<p class=\"TableTitle\"><strong><span lang=\"EN-GB\">Table&nbsp;2.36</span></strong><span lang=\"EN-GB\"> Summary of the main features of <em>ELP1</em>-related medulloblastoma predisposition syndrome</span></p>",
+    "legend": "",
+    "source": "Sebastian M. Waszak",
+    "copyright": "",
+    "tablehtml": "<table class=\"MsoNormalTable\" style=\"width: 425.2pt; border-collapse: collapse;\" border=\"0\" width=\"567\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr style=\"break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; border-right: none; border-bottom: none; border-left: none; border-image: initial; border-top: 1pt solid windowtext; background: #8db3e2; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><strong><span lang=\"EN-GB\">Feature</span></strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; border-right: none; border-bottom: none; border-left: none; border-image: initial; border-top: 1pt solid windowtext; background: #8db3e2; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><strong><span lang=\"EN-GB\">Syndrome characteristics</span></strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\"break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><strong><span lang=\"EN-GB\">Syndrome MIM number(s)</span></strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-GB\">155255</span></p>\r\n</td>\r\n</tr>\r\n<tr style=\"break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; background: #daeef3; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><strong><span lang=\"EN-GB\">Associated malignant tumours</span></strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; background: #daeef3; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-GB\">Sonic hedgehog&ndash;activated, <em>TP53</em>-wildtype medulloblastoma</span></p>\r\n</td>\r\n</tr>\r\n<tr style=\"break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><strong><span lang=\"EN-GB\">Associated benign tumours</span></strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-GB\">None</span></p>\r\n</td>\r\n</tr>\r\n<tr style=\"break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; background: #daeef3; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><strong><span lang=\"EN-GB\">Cancer-related inheritance</span></strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; background: #daeef3; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-GB\">Autosomal dominant</span></p>\r\n</td>\r\n</tr>\r\n<tr style=\"break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><strong><span lang=\"EN-GB\">Chromosome location</span></strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><em><span lang=\"EN-GB\">ELP1</span></em><span lang=\"EN-GB\"> (9q31.3)</span></p>\r\n</td>\r\n</tr>\r\n<tr style=\"break-inside: avoid;\">\r\n<td style=\"width: 212.6pt; border-top: none; border-right: none; border-left: none; border-image: initial; border-bottom: 1pt solid windowtext; background: #daeef3; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><strong><span lang=\"EN-GB\">Protein product&ndash;associated pathway</span></strong></p>\r\n</td>\r\n<td style=\"width: 212.6pt; border-top: none; border-right: none; border-left: none; border-image: initial; border-bottom: 1pt solid windowtext; background: #daeef3; padding: 0cm 5.4pt;\" width=\"283\">\r\n<p class=\"TableText\" style=\"margin: 3pt 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-GB\">Transfer ribonucleic acid (tRNA) wobble uridine modification</span></p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+    "imageUrl": null,
+    "thumbnail": null
+  }
+]

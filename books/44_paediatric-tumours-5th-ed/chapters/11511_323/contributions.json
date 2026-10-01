@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 108102,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 466,
+        "headingText": "\r\n<p>Adrenal cortical adenoma is a benign epithelial tumour of adrenal cortical cells. Adrenal cortical carcinoma is a malignant epithelial tumour of adrenal cortical cells.</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 108103,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 467,
+        "headingText": "\r\n<p>8370/0 Adrenal cortical adenoma</p>\r\n<p>8370/3 Adrenal cortical carcinoma</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 108104,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 468,
+        "headingText": "\r\n<p>2F37.Y &amp; XH3DV3 Other specified benign neoplasm of endocrine glands &amp; Adenoma, NOS</p>\r\n<p>2F37 &amp; XH1YP0 Other specified benign neoplasm of endocrine glands &amp; Adrenal cortical adenoma, clear cell</p>\r\n<p>2F37.Y &amp; XH2CT2 Other specified benign neoplasm of endocrine glands &amp; Adrenal cortical adenoma, compact cell</p>\r\n<p>2F37.Y &amp; XH60N5 Other specified benign neoplasm of endocrine glands &amp; Adrenal cortical adenoma, glomerulosa cell</p>\r\n<p>2F37.Y &amp; XH2VZ8 Other specified benign neoplasm of endocrine glands &amp; Adrenal cortical adenoma, mixed cell</p>\r\n<p>2F37.Y &amp; XH2FJ6 Other specified benign neoplasm of endocrine glands &amp; Adrenal cortical adenoma, pigmented</p>\r\n<p>2D11.Y &amp; XH0U20 Other specified malignant neoplasms of adrenal gland &amp; Neuroendocrine carcinoma, NOS</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 108105,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 469,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 108106,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 470,
+        "headingText": "<p>Oncocytic adrenal cortical carcinoma; myxoid adrenal cortical carcinoma</p>",
+        "timestamp": "2023-05-10T14:40:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 108107,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 471,
+        "headingText": "\r\n<p>The large majority of adrenal cortical tumours are unilateral masses that arise in the adrenal gland. Tumours that arise in very young children are thought to arise in the fetal cortex {25741319; 26038200}, but localization to a specific zone of the fetal or adult adrenal cortex is not feasible.</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 108108,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 472,
+        "headingText": "\r\n<p>Adrenal cortical tumours are most often associated with various endocrinopathies, which often leads to their early clinical identification {9215267; 20223012}. Specific signs and symptoms reflect the underlying hormonal status. Excess androgen secretion (in as many as 80% of patients) results in signs and symptoms of virilization, including hirsutism, acne, and amenorrhoea {15747338}. Excess cortisol secretion (in 15&ndash;40% of patients) results in Cushing syndrome with hypertension, obesity, and other typical signs and symptoms {15110875}. Feminization and gynaecomastia (in 7% of patients) can result from excess estrogen secretion, and a small minority of patients (1&ndash;4%) have hypertension and hypokalaemia related to aldosterone secretion {15110875}. Mixed endocrinopathies produce a mixture of signs and symptoms that reflect the specific endocrine milieu.</p>\r\n<p>A minority of patients have non-functioning tumours; these tend to be more common in the adolescent population {15110875}. Such non-functioning tumours are incidentally diagnosed during imaging for other reasons (adrenal incidentaloma) or during evaluation for nonspecific symptoms such as fatigue and abdominal pain {16551738}.</p>\r\n<h5>Imaging</h5>\r\n<p>The imaging characteristics of adrenal cortical adenoma and carcinoma are generally distinct, but imaging of paediatric tumours overall is not as diagnostically reliable as imaging of tumours in adults {31538225}. Adenomas tend to be uniform and well circumscribed {31538225}. Because carcinoma is difficult to absolutely exclude on imaging, evaluation for lung metastases by CT imaging is often indicated, especially for larger tumours. Carcinomas are generally larger (&gt;&nbsp;85&nbsp;mm and &gt;&nbsp;212.5&nbsp;mL tumour volume) and heterogeneous, with areas of necrosis, haemorrhage, and calcifications {10464805; 25794486}. Local invasion, such as soft tissue extension and/or vena cava involvement, can be present and supports a diagnosis of carcinoma {10464805; 25794486}. FDG&nbsp;PET-CT imaging can be useful for distinguishing adenomas from carcinomas and also has the benefit of identifying occult metastases {26825212}.</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 108109,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 473,
+        "headingText": "\r\n<p>The overall incidence of adrenal cortical tumours displays a bimodal distribution. Paediatric cases are concentrated during the first 5&nbsp;years of life, with a smaller concentration of cases occurring during adolescence. In contrast, the incidence of adult cases peaks in the fourth decade of life. Adrenal cortical tumours in the paediatric population are extremely rare, especially in the USA and Europe. The incidence of adrenal cortical carcinoma in these regions is 0.2&ndash;0.3&nbsp;patients per 1&nbsp;million&nbsp;person-years {23701777}, which is significantly lower than that observed in the adult population {24423978}. Therefore, it is estimated that there are only 25&nbsp;new paediatric cases of carcinoma per year in the USA {23701777}. The incidence of adenomas is more difficult to establish, because given their benign diagnosis, such cases are not typically recorded by cancer registries. Interestingly, the incidence of adrenal cortical tumours in southern Brazil is strikingly (15&ndash;20&nbsp;times) higher {15110875}; this is related to a specific founder mutation of the tumour suppressor gene <em>TP53</em> (p.R337H) {30974190; 32875577}. The prevalence of this mutation is very high in southern Brazil, where it is present in about 0.3% of the general population and in 90% of cases. Despite this germline genetic difference, the overall clinical and biological characteristics of paediatric adrenal cortical tumours in southern Brazil are similar to those of cases around the world.</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 108110,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 474,
+        "headingText": "\r\n<p>Adrenal cortical carcinoma is one of the most heritable cancers, especially in the paediatric population. Paediatric adrenal cortical tumours have a strong association with germline genetic defects, most often involving inactivating mutations of <em>TP53</em> {7966399}. Thus, adrenal cortical tumours are a well-established component of Li&ndash;Fraumeni syndrome {7966399; 14583457; 22209747; 29076966}. The prevailing view is that loss of p53 function leads to genomic instability in the fetal adrenal cortex, which then predisposes to additional genetic alterations such as loss of heterozygosity at 11p15 with concomitant overexpression of IGF2. Overexpression of IGF2 leads to growth advantage, clonal expansion, and ultimately tumour formation. Additional genetic defects accumulate over time and increase the risk of malignant behaviour {21094206}.</p>\r\n<p>In addition, a large proportion of patients with adrenal cortical tumours (some of whom display clinical features of Beckwith&ndash;Wiedemann syndrome {22209747}) harbour constitutional abnormalities of chromosome 11p15, resulting in constitutive overexpression of IGF2. In these patients, tumours tend to develop at a young age {22209747}. Because of these strong genetic associations, genetic testing and counselling is recommended for all patients with these tumours {30104051}. Beyond these genetic associations, little is known about additional etiological factors.</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 108111,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 475,
+        "headingText": "\r\n<p>The pathogenesis of paediatric adrenal cortical tumours has been investigated through genome-wide association studies of adenomas, carcinomas, and tumours of indeterminate malignant potential {21094206; 25743702}. Gene expression profiles of adrenal cortical tumours are highly distinct from those of the normal cortex and can separate adenomas and carcinomas with reasonable accuracy {17234769}. Integrated genomic analysis of a relatively large cohort of tumours revealed the genomic landscape of these tumours and confirmed the essential role of <em>TP53</em> germline deficiency combined with IGF2 overexpression as early events in pathogenesis, probably related to p53-mediated chromosomal instability {25743702}. Somatic mutations of <em>ATRX</em> and <em>CTNNB1</em> were found to represent secondary events. Genomic classification identified three groups of tumours: group&nbsp;1 was defined by <em>TP53</em> and <em>ATRX</em> mutations, group&nbsp;2 had only <em>TP53</em> mutations, and group&nbsp;3 were wildtype for <em>TP53</em> and <em>ATRX</em>. The combination of germline <em>TP53</em> and acquired <em>ATRX</em> mutations (group&nbsp;1) was associated with a dismal clinical outcome compared to groups&nbsp;2 and&nbsp;3 {25743702}. Most interestingly, a strong genotype&ndash;phenotype correlation was observed between overall histological features of malignancy and the accumulation of genomic alterations. These observations provide support for a model in which the progressive accumulation of genomic alterations drives histological progression and clinical behaviour {25743702}.</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 108112,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 482,
+        "headingText": "\r\n<p>Adrenal cortical adenoma and carcinoma tend to have distinct macroscopic appearances. Adenomas are usually smaller than carcinomas, have a uniform cut surface without gross haemorrhage or necrosis, and are well circumscribed without invasion of extra-adrenal tissues. Conversely, carcinomas are larger, with marked heterogeneity (reflecting intratumoural evolution), and typically contain gross necrosis. The large majority of adrenal cortical tumours are localized to the gland. Direct invasion of adjacent structures (kidney, adipose, and large vessels) occurs in about 10% of cases.</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 108113,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 476,
+        "headingText": "<p>Adrenal cortical tumours, like their adult counterparts, consist predominantly of cortical cells with admixed vessels and capillaries, without substantial desmoplastic stroma or large numbers of intratumoural inflammatory cells. Adenomas are non-invasive tumours with a nested or trabecular architecture and often contain a mixture of lipid-rich and lipid-poor cells. The nuclei of the typical adenoma tend to be smaller with less variation. These tumours lack or have minimal mitotic activity and lack true tumour necrosis. Conversely, carcinomas display a loss of regular architecture, which can be demonstrated by highlighting the reticulin framework on special stains. The nuclei of carcinomas tend to be larger and can show significant hyperchromasia and marked pleomorphism. The mitotic count is elevated, and atypical mitoses are common. Necrosis is often present. Oncocytic cell changes may be seen. A myxoid stromal change may be prominent in selected cases. Immunohistochemical profiles of paediatric tumours are similar to those of adult tumours, i.e. the tumour cells express &alpha;-inhibin, synaptophysin, melan-A, and SF1, and they do not express chromogranin. Cytokeratin expression is variable in paediatric tumours.</p>\r\n<p>Despite these differences between adenomas and carcinomas, their histopathological distinction has been and continues to be diagnostically challenging. This reflects, in part, their low incidence; however, these tumours sometimes defy histopathological classification, with some benign-appearing tumours behaving aggressively. Moreover, some frankly malignant tumours according to general pathological criteria never recur or metastasize after adequate surgical resection. Given these inconsistencies, classifying paediatric adrenal cortical tumours represents a diagnostic challenge beyond that of non-paediatric cases {19326954}. Because of these considerations, paediatric tumours are best evaluated using different macroscopic and microscopic criteria from those used for adult tumours. The most reliable multifactorial scoring system, the Wieneke&nbsp;/ US Armed Forces Institute of Pathology (AFIP) algorithm {12826878}, consists of nine parameters focused on tumour size and weight, extra-adrenal extension, vena cava extension, capsular and venous invasion, tumour necrosis, mitotic count, and atypical mitotic figures. Tumours fulfilling two or fewer criteria are associated with a benign clinical course; tumours fulfilling three criteria are considered indeterminate for malignancy (uncertain malignant potential); and tumours fulfilling four or more criteria are associated with malignant behaviour and can be diagnosed as carcinoma. Of note, the size, weight, and mitotic count cut-off points are much higher for paediatric tumours than they are in most adult scoring systems. Importantly, paediatric oncocytic tumours are not included in these criteria. More recent studies have examined the role of Ki-67 immunohistochemistry; a Ki-67 proliferation index cut-off point of 15% was suggested as an additional criterion to be included with the Wieneke/AFIP algorithm {33443677}.</p>",
+        "timestamp": "2023-05-10T14:41:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 108114,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 477,
+        "headingText": "\r\n<p>FNAB is rarely performed for suspected paediatric adrenal cortical tumours. A few case reports highlight hypercellular specimens containing large cells with abundant eosinophilic granular cytoplasm and large vesicular nuclei with prominent nucleoli, marked pleomorphism, and variable mitotic activity {30354004}.</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 108115,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 478,
+        "headingText": "\r\n<p>The genomic investigation of paediatric tumours in general has advanced recently, with clear diagnostic and therapeutic implications {30872516}. However, although much has been learned over the past two decades about the molecular and genomic basis of adult and paediatric adrenal cortical tumours, the routine use of diagnostic molecular pathology has not been clinically established. Some centres have deployed large next-generation sequencing&ndash;based genetic panels mostly for therapeutic purposes in an attempt to identify molecular targets, but the yield of this approach has been limited to date.</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 108116,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 481,
+        "headingText": "<h5>Adrenal cortical adenoma</h5>\r\n<p><em>Essential (but not all criteria are present in each case):</em></p>\r\n<ul>\r\n<li>Tumour weight &lt;&nbsp;400&nbsp;g</li>\r\n<li>Tumour size &lt;&nbsp;105&nbsp;mm</li>\r\n<li>Absence of extra-adrenal tumour extension</li>\r\n<li>Absence of vena cava invasion</li>\r\n<li>Absence of venous invasion</li>\r\n<li>Absence of capsular invasion</li>\r\n<li>Absence of tumour necrosis</li>\r\n<li>Mitotic count &le;&nbsp;3&nbsp;mitoses/mm<sup>2</sup> in 5&nbsp;mm<sup>2</sup> (&le;&nbsp;15&nbsp;mitoses/20&nbsp;HPF of 0.57&nbsp;mm in diameter and 0.25&nbsp;mm<sup>2</sup> in area)</li>\r\n<li>Absence of atypical mitoses</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>p53 immunohistochemistry showing a wildtype pattern with weak nuclear staining</li>\r\n<li>Ki-67 proliferation index &lt;&nbsp;10% suggests a benign course</li>\r\n</ul>\r\n<h5>Adrenal cortical carcinoma</h5>\r\n<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Tumour weight &gt;&nbsp;400&nbsp;g</li>\r\n<li>Tumour size &gt;&nbsp;105&nbsp;mm</li>\r\n<li>Presence of extra-adrenal tumour extension</li>\r\n<li>Presence of vena cava invasion</li>\r\n<li>Presence of venous invasion</li>\r\n<li>Presence of capsular invasion</li>\r\n<li>Presence of tumour necrosis</li>\r\n<li>Mitotic count &gt;&nbsp;3&nbsp;mitoses/mm<sup>2</sup> in 5&nbsp;mm<sup>2</sup> (&gt;&nbsp;15&nbsp;mitoses/20&nbsp;HPF of 0.57&nbsp;mm in diameter and 0.25&nbsp;mm<sup>2</sup> in area)</li>\r\n<li>Presence of atypical mitoses</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>p53 immunohistochemistry showing either diffuse and strong staining or complete loss of staining correlates with <em>TP53</em> mutation</li>\r\n<li>Ki-67 proliferation index &gt;&nbsp;15% correlates with malignant behaviour</li>\r\n</ul>",
+        "timestamp": "2023-05-10T14:41:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 108117,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 479,
+        "headingText": "\r\n<p>Staging of paediatric adrenal cortical tumours divides tumours into three main groups. Disease localized to the adrenal gland represents the majority (75%) of cases and is subdivided into stage&nbsp;I (&lt;&nbsp;50&nbsp;mm in greatest dimension, or &lt;&nbsp;200&nbsp;g) and stage&nbsp;II (&ge;&nbsp;50&nbsp;mm in greatest dimension, or &ge;&nbsp;200&nbsp;g). Stage&nbsp;III disease (10% of cases) is characterized by regional invasion, including lymph node metastases and invasion of the kidney or vena cava, or by residual disease postoperatively. Stage&nbsp;IV disease represents about 15% of cases and is characterized by distant haematogenous metastatic disease, most often involving the liver and lungs. A slightly different staging system, proposed by Sandrini et al. {9215267} and endorsed by the Children&rsquo;s Oncology Group (COG), revised stage&nbsp;III disease to be cases with microscopic or gross residual tumour after resection or inoperable disease without distant metastases.</p>\r\n",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 108118,
+        "bookId": 44,
+        "chapterId": 323,
+        "headingId": 480,
+        "headingText": "\r\n<p>Stage of disease represents the most meaningful predictor of outcome {14990639; 26572849}. Accordingly, completely resected small tumours that are confined to the adrenal gland (stage&nbsp;I) have an excellent prognosis, even when the tumour displays malignant histopathological features. Tumours that are incompletely resected (stage&nbsp;III) or manifest with stage&nbsp;IV disease have a much worse prognosis {26572849}.</p>\r\n<p>Beyond disease stage, patients with excess glucocorticoids tend to have a worse prognosis than patients with virilization {14990639}. Moreover, age has prognostic significance, with younger patients (aged &lt;&nbsp;5&nbsp;years) doing better than older patients (&ge;&nbsp;5&nbsp;years) {14990639; 26572849}.</p>\r\n<p>Development of additional prognostic and predictive tools is clearly needed, because some cases recur despite a good prognosis (completely resected small tumours) {26572849}. Immunohistochemical assessment of p53 {27567308}, &beta;-catenin, and ATRX can be used to predict malignant behaviour {25743702}, and Ki-67 immunohistochemistry is emerging as a strong predictive biomarker {27567308; 30401946; 33443677}, like it is for other endocrine tumours; the emerging picture suggests that a Ki-67 proliferation index of &lt;&nbsp;10% predicts a benign clinical course and &gt;&nbsp;15% predicts malignant behaviour {33443677}.</p>",
+        "timestamp": "2023-03-10T13:35:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

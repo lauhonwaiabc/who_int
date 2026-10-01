@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 105271,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 466,
+        "headingText": "\r\n<p>Retinocytoma is a benign tumour that arises from retinal precursor cells and may transform into retinoblastoma.</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 105272,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 467,
+        "headingText": "\r\n<p>9510/0 Retinocytoma</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 105273,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 468,
+        "headingText": "\r\n<p>2F36.Y &amp; XH5AV1 Other specified benign neoplasm of eye or ocular adnexa &amp; Retinocytoma</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 105274,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> retinoma.</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 105275,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 105276,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 471,
+        "headingText": "\r\n<p>Neurosensory retina</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 105277,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 472,
+        "headingText": "\r\n<p>Most cases are unilateral {6626001; 10676785}. Some are associated with otherwise typical retinoblastoma in the same eye or in the contralateral eye. If located in the macula, they can affect vision or cause strabismus. Some are detected during a screening examination in a family with known retinoblastoma, whereas others are detected incidentally.</p>\r\n<p>On retinal examination, the tumours resemble treated retinoblastomas that have partially regressed. They are semitranslucent and surrounded by mild to moderate pigmentary changes {10676785; 22328814}. Intralesional calcification and cysts are common. Most tumours are &lt;&nbsp;10&nbsp;mm in diameter and can appear as a plaque-like thickening of the neurosensory retina {4190798}. About 1&nbsp;in 6&nbsp;retinocytomas grow over time, which can be due to the enlargement of intralesional cysts or to malignant transformation {2780006}.</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 105278,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 473,
+        "headingText": "\r\n<p>Roughly 2% of individuals with a germline <em>RB1</em> mutation develop a retinocytoma {18211953}. About the same proportion of children examined for suspected retinoblastoma will exhibit a retinocytoma {10676785}. The age at diagnosis varies from infancy to middle age (mean: 29&nbsp;years) {22328814}. There is no known racial or sex predilection.</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 105279,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 474,
+        "headingText": "\r\n<p>The etiology is unknown. A small proportion of cases have evidence of retinoblastoma.</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 105280,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 475,
+        "headingText": "\r\n<p>Retinocytomas arise when biallelic loss of the tumour suppressor gene <em>RB1</em> occurs in a neuroectodermal cell of the inner layer of the optic cup {10783254; 19524506; 23756868; 5418851}, resulting in reduced or absent function of RB1 protein {11709023; 18211953; 24433356; 31997559}. Retinocytomas are thought to remain in a quiescent state unless additional mutations are acquired that induce malignant transformation. Some authors have speculated that the relative rarity of retinocytomas is due to their frequent progression to retinoblastoma {18211953; 26310174}, but this remains to be established.</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 105281,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 482,
+        "headingText": "\r\n<p>See <em>Clinical features</em> (above).</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 105282,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 476,
+        "headingText": "\r\n<p>Retinocytomas are composed of a uniform population of cells displaying varying degrees of photoreceptor differentiation that efface and expand the neurosensory retina but do not invade the choroid {6626001; 6995387}. Individual cells have eosinophilic cytoplasm and (often) elongated cellular processes. Linear arrays of cells with eccentrically lengthened cytoplasmic processes are referred to as fleurettes. These processes are often surrounded by extracellular matrix that stains with Alcian blue and is resistant to hyaluronidase. The nuclei are round to oval and are relatively uniform in size, with speckled chromatin. Mitotic figures are not observed. The cytoplasm of some cells may appear clear, presumably due to fixation or processing. Dystrophic calcification is common. Flexner&ndash;Wintersteiner rosettes are not typically observed.</p>\r\n<p>Lesions that are histopathologically identical to retinocytoma can also be encountered in two additional settings. First, they occur as minor components of otherwise typical retinoblastomas {18211953}. Second, they may be found as residual tumours after eye-conserving treatment of retinoblastoma {19667353; 21175116; 4190798}.</p>\r\n<p>Retinocytoma is distinguished from a small retinoblastoma by bland nuclear chromatin, pink cytoplasm, an absence of mitotic activity, and numerous fleurettes. Retinal astrocytomas are composed of glial cells. Medulloepitheliomas consist of cells resembling embryonic retinal cells that form ribbons, sheets, and cysts.</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 105283,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 105284,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 478,
+        "headingText": "\r\n<p>Retinocytomas generally harbour biallelic loss of the <em>RB1</em> gene but have much less aneuploidy and secondary mutations than retinoblastoma {1352883; 8099255}.</p>\r\n<p>When a retinocytoma is found in conjunction with a second retinocytoma or a retinoblastoma in the same or fellow eye, the patient probably has a germline <em>RB1</em> gene mutation {26310174}.</p>\r\n<p>Retinocytomas do not express Ki-67 or p53, but there can be elevated expression of the senescence-associated proteins p16 (p16INK4a) and p130 {19667353}.</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 105285,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> an intraocular mass surrounded by mild to moderate pigmentary changes, often with calcification; histologically composed of uniform cells with variable photoreceptor differentiation.</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 105286,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 105287,
+        "bookId": 44,
+        "chapterId": 137,
+        "headingId": 480,
+        "headingText": "\r\n<p>Ocular and patient survival for isolated retinocytoma is excellent. The main reason for a worse prognosis is malignant transformation to retinoblastoma.</p>",
+        "timestamp": "2022-07-13T16:55:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

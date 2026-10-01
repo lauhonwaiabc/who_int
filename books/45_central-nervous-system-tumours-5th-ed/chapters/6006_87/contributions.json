@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 518,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 497,
+    "contributions": [
+      {
+        "pkcontributionId": 72825,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 497,
+        "headingText": "\r\n<p>Malignant melanotic nerve sheath tumour (MMNST) is a peripheral nerve sheath tumour composed uniformly of tumour cells with features of both Schwann cell and melanocytic differentiation, usually arising in association with spinal or autonomic nerves. It is variably associated with Carney complex and frequently shows aggressive clinical behaviour. <em>PRKAR1A</em> mutations and loss of PRKAR1A protein expression are seen in the overwhelming majority of cases.</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 519,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 498,
+    "contributions": [
+      {
+        "pkcontributionId": 72826,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 498,
+        "headingText": "\r\n<p>9540/3 Malignant melanotic nerve sheath tumour</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 520,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 499,
+    "contributions": [
+      {
+        "pkcontributionId": 72827,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 499,
+        "headingText": "\r\n<p>2A02.0Y Other specified gliomas of spinal cord, cranial nerves, or other parts of the central nervous system</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 521,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 500,
+    "contributions": [
+      {
+        "pkcontributionId": 72828,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 500,
+        "headingText": "\r\n<p><em>Acceptable:</em> malignant melanotic Schwannian tumour.</p>\r\n<p><em>Not recommended</em>: melanotic schwannoma; psammomatous melanotic schwannoma.</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 522,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 501,
+    "contributions": [
+      {
+        "pkcontributionId": 72829,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 501,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 523,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 502,
+    "contributions": [
+      {
+        "pkcontributionId": 72830,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 502,
+        "headingText": "\r\n<p>MMNST most often arises from spinal or autonomic nerves near the midline. However, cases have been reported in the gastrointestinal tract {17111368; 17622556}, as well as in bone, soft tissues, heart, bronchus, liver, and skin.</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 524,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 503,
+    "contributions": [
+      {
+        "pkcontributionId": 72831,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 503,
+        "headingText": "\r\n<p>Presenting symptoms include pain, sensory abnormalities, and mass effect. Bone erosion may be seen in spinal nerve root tumours. Systemic symptoms, such as respiratory and liver failure, may be seen in patients with metastatic disease. Although it was once thought that psammoma bodies were more likely in familial tumours, there are no clinical differences between psammomatous and non-psammomatous MMNSTs, with both showing a variable association with Carney complex, loss of PRKAR1A expression, and similar clinical behaviour {24145644; 26031761}.</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 525,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 504,
+    "contributions": [
+      {
+        "pkcontributionId": 72832,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 504,
+        "headingText": "\r\n<p>MMNST is rare and occurs chiefly in adults. The tumour typically develops at an earlier age (average: 22.5&nbsp;years) in patients with Carney complex than in sporadic cases (average: 33.2&nbsp;years) {2305928; 24145644}. Multiple tumours are seen in about 20% of patients; in such patients, there is a higher probability that other manifestations of Carney complex will also be present than in patients with a single tumour {2305928; 24145644}.</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 526,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 505,
+    "contributions": [
+      {
+        "pkcontributionId": 72833,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 505,
+        "headingText": "\r\n<p>In some series, &gt;&nbsp;50% of patients with MMNSTs have evidence of Carney complex, an autosomal dominant, sometimes familial, multiple neoplasia syndrome {2305928}. However, other series have noted an association with Carney complex in &le;&nbsp;5% of affected patients {10583580; 24145644; 16157048; 26031761}. Other cases are considered sporadic and of unknown etiology.</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 527,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 506,
+    "contributions": [
+      {
+        "pkcontributionId": 72834,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 506,
+        "headingText": "<p>Two genetic loci have been identified in Carney complex: <em>PRKAR1A</em> (<em>CNC1</em>) and <em>CNC2</em>, mapping to 17q24.2 and 2p16, respectively. <em>PRKAR1A</em> inactivation is seen in roughly 50% of Carney complex kindreds {12676898; 10973256}. <em>PRKAR1A</em> encodes the type&nbsp;1A regulatory R1&alpha; subunit of PKA, which inhibits PKA activity by binding to active catalytic subunits. <em>PRKAR1A</em> acts as a tumour suppressor gene. Loss of R1&alpha; leads to increased PKA activity, which has been associated with secondary dysregulation of the ERK, TGF-&beta;, and WNT signalling pathways {25592387}.</p>\r\n<p><em>PRKAR1A</em> mutations and loss of PRKAR1A protein expression are seen in the overwhelming majority of studied MMNSTs, most of which have occurred in patients lacking other stigmata of Carney complex {24145644; 26031761}. Chromosomal copy-number profiling of MMNST revealed recurrent whole-chromosome losses and gains. The most frequent alterations are monosomies of chromosomes&nbsp;1, 2, 17, 21, and 22q and whole-chromosome gains variably involving chromosomes&nbsp;5, 6, 7, 8, and 9 {26031761; 25399693; 29967940}. Inactivation of both alleles of <em>PRKAR1A</em> through mutations and/or loss of heterozygosity of 17q has been reported {26031761}. Gene expression analyses show MMNST to clearly segregate from conventional schwannomas and melanomas {24145644}. The molecular distinctiveness of MMNST is further corroborated by DNA methylation profiling {25399693}.</p>",
+        "timestamp": "2021-09-06T10:26:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 534,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 513,
+    "contributions": [
+      {
+        "pkcontributionId": 72835,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 513,
+        "headingText": "\r\n<p>Most MMNSTs are solitary, although multiple and multicentric tumours may be seen in patients with Carney complex. Grossly, the tumours appear circumscribed or partially encapsulated, and they are frequently heavily pigmented, with the appearance of dried tar.</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 528,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 507,
+    "contributions": [
+      {
+        "pkcontributionId": 72836,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 507,
+        "headingText": "\r\n<p>The neoplastic cells grow in short fascicles or sheets, vary in shape from polygonal to spindled, and often have a syncytial appearance. Vague palisading or formation of whorled structures may be present. Cellular detail is often difficult to discern, owing to the heavy pigment deposits. The melanin pigment may be coarsely clumped or finely granular and varies from area to area. It stains positively with the Fontana stain and negatively for iron and PAS. In less pigmented areas, the tumour cells have eosinophilic to amphophilic cytoplasm, round to ovoid nuclei (often with nuclear grooves and pseudoinclusions), and usually small nucleoli. Occasional tumours show marked nuclear atypia with prominent macronucleoli. Mitoses and necrosis can be present, but they are not clearly associated with outcome. Psammoma bodies are present in roughly 50% of cases, although extensive sampling may be required to identify them. Immunohistochemically, MMNSTs strongly express S100 and SOX10, as well as various melanocytic markers, including HMB45, melan-A, and tyrosinase. Basement membrane markers (collagen&nbsp;IV, laminin) often show increased intercellular deposition compared with melanoma, although there are many exceptions. PRKAR1A expression is typically lost {24145644; 26031761}. Ultrastructurally, the cells resemble Schwann cells with elaborate cytoplasmic processes that interdigitate or spiral in the manner of mesaxons; however, pre-melanosomes and melanosomes are also present {16157048; 15163020}.</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 529,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 508,
+    "contributions": [
+      {
+        "pkcontributionId": 72837,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 508,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 530,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 509,
+    "contributions": [
+      {
+        "pkcontributionId": 72838,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 509,
+        "headingText": "\r\n<p>PRKAR1A immunoexpression is typically lost, corresponding to gene inactivation {24145644; 26031761}. MMNSTs show a distinct DNA methylation pattern {25399693} and do not harbour mutations in <em>GNAQ</em> or <em>GNA11</em>, which is useful for their differentiation from primary CNS melanocytomas and melanomas. MMNSTs also do not harbour <em>BRAF</em>, <em>NRAS</em>, or <em>TERT</em> promoter mutations, which is useful for their differentiation from metastatic cutaneous melanomas {25399693; 19936769; 26744134}.</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 533,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 512,
+    "contributions": [
+      {
+        "pkcontributionId": 72839,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 512,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/45/87/18042\" target=\"_blank\">#18042</a>Box&nbsp;6.05 .</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 531,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 510,
+    "contributions": [
+      {
+        "pkcontributionId": 72840,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 510,
+        "headingText": "\r\n<p>Not available</p>\r\n",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 532,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 511,
+    "contributions": [
+      {
+        "pkcontributionId": 72841,
+        "bookId": 45,
+        "chapterId": 87,
+        "headingId": 511,
+        "headingText": "\r\n<p>The behaviour of MMNST is difficult to predict and metastases can occur in the absence of morphologically malignant features. In the past, it was thought that most of these lesions had a benign, indolent course, with &lt;&nbsp;15% metastatic risk {2305928}. However, more recent reports have shown frequently aggressive behaviour, with local recurrence and metastatic rates of 26&ndash;44% {10583580; 24145644; 26031761; 26386847}. Additionally, only 53% of patients followed for &gt;&nbsp;5&nbsp;years have been reported to have remained disease-free, suggesting that long-term follow-up is required. In general, histopathological features are not predictive of outcome, although there are limited data suggesting more aggressive behaviour in mitotically active tumours {24145644}.</p>",
+        "timestamp": "2021-06-15T12:16:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

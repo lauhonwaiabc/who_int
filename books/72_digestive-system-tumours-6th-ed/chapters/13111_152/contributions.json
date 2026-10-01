@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 149813,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 951,
+        "headingText": "\r\n\r\n<p>Gastrointestinal stromal tumour (GIST) is a mesenchymal neoplasm with variable behaviour, characterized by differentiation towards the interstitial cells of Cajal.</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 149814,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 952,
+        "headingText": "\r\n\r\n<p>89360/3 Gastrointestinal stromal tumour</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 149815,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 953,
+        "headingText": "\r\n\r\n<p>2B5B.0 Gastrointestinal stromal tumour of stomach</p>\r\n<p>2B5B.1 Gastrointestinal stromal tumour of small intestine</p>\r\n<p>2B5B.Y Gastrointestinal stromal tumour of other gastrointestinal sites</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 149816,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 954,
+        "headingText": "\r\n\r\n<p><em>Not recommended:</em> leiomyoblastoma; gastrointestinal autonomic nerve sheath tumour; gastrointestinal pacemaker cell tumour.</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 149817,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 955,
+        "headingText": "\r\n\r\n<p>None (succinate dehydrogenase&ndash;deficient gastrointestinal stromal tumour is now considered a separate tumour type; see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/153\" target=\"_blank\">section </a><em>SDH-deficient gastrointestinal stromal tumour</em>).</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 149818,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 956,
+        "headingText": "\r\n\r\n<p>GIST can occur anywhere in the GI tract; approximately 55% of all GISTs arise in the stomach, 32% in the small bowel (including the duodenum), 6% in the colon and rectum, and about 1% in the oesophagus {21997685;26618334}. Rarely, GISTs arise in the appendix. About 10% of cases are primarily disseminated, and the site of origin cannot be established with certainty. Extragastrointestinal stromal tumours occur predominantly in the mesentery, omentum, and retroperitoneum {19440146;28288036}. The majority appear to represent GISTs that have become detached from the GI tract, most commonly from the stomach, based on a high incidence of <em>PDGFRA</em> mutations, and developed an independent blood supply; metastasis from an occult gastrointestinal primary may explain others {10478672;16402273;19238492;21836495}.</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 149819,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 957,
+        "headingText": "\r\n\r\n<p>The most common presentations include vague abdominal symptoms, as well as symptoms related to mucosal ulceration, acute and chronic bleeding, an abdominal mass, and tumour perforation. Smaller GISTs are detected incidentally during endoscopy, surgery, or CT. Advanced GISTs spread into the peritoneal cavity and retroperitoneal space and often metastasize to the liver. Extra-abdominal metastases to bone, skin, and soft tissue are infrequently observed, whereas lung metastases are exceedingly rare. Systemic spread can occur years after detection of the primary tumour. Gastric and rectal GISTs exhibit a higher local recurrence rate than do small bowel GISTs, but the latter have a higher rate of abdominal dissemination and metastasis.</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 149820,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 958,
+        "headingText": "\r\n\r\n<p>Population-based studies in Scandinavia indicate an incidence of 1.1&ndash;1.5&nbsp;cases per 100&nbsp;000&nbsp;person-years {15648083}. However, incidental subcentimetre GISTs (called micro-GISTs) seem to be remarkably common. A frequency of 10% was reported in a study of oesophagogastric junction carcinoma resection specimens {18059218}, and even higher frequencies in autopsy and entirely embedded gastrectomy series (22.5% and 35%, respectively) {17197927;16996566}. Approximately 25% of gastric GISTs (excluding micro-GISTs) are clinically malignant. SEER Program data indicate that GISTs account for 6.7% of all malignant non-cardia gastric tumours {36792000}.</p>\r\n<p>Sporadic GISTs can occur at any age, with a peak incidence in the sixth decade of life (median age: 60&ndash;65&nbsp;years) and a slight male predominance {15613856;39158910}. A small fraction of GISTs affect children and adolescents; such tumours are usually succinate dehydrogenase (SDH)-deficient.</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 149821,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 959,
+        "headingText": "<p>Most GISTs are sporadic with no known predisposing factors. However, 5&ndash;10% occur in the setting of syndromic disease {36593350}. The majority of syndromic GISTs are SDH-deficient (see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/153\" target=\"_blank\">section </a><em>SDH-deficient gastrointestinal stromal tumour</em>, and <a style=\"cursor:pointer\" href=\"/chaptercontent/72/258\" target=\"_blank\">section </a><em>SDH-deficient tumour syndromes</em>). Less commonly, GISTs are associated with neurofibromatosis type&nbsp;1 (NF1) (see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/256\" target=\"_blank\">section </a><em>Neurofibromatosis type&nbsp;1 (NF1)</em>). NF1-associated GISTs are often multifocal, lack <em>KIT</em> or <em>PDGFRA</em> mutations, and are commonly located in the small bowel {16330947;27390349}. GISTs due to germline <em>KIT</em> or <em>PDGFRA</em> mutations are very rare (see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/262\" target=\"_blank\">section </a><em>Gastrointestinal stromal tumour predisposition syndrome (KIT, PGDFRA)</em>) {11505412;15837988;29486293}. Familial GIST syndromes are characteristically accompanied by diffuse or multifocal Cajal cell hyperplasia and micro-GISTs.</p>\r\n&nbsp;",
+        "timestamp": "2026-06-19T12:02:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 149822,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 960,
+        "headingText": "\r\n\r\n<p>About 85% of GISTs harbour gain-of-function mutations of the <em>KIT</em> or <em>PDGFRA</em> oncogene, located on chromosome&nbsp;4 (4q12), encoding type&nbsp;III receptor tyrosine kinases that cause ligand-independent kinase activation, and progress by the stepwise inactivation of tumour suppressor genes {9438854;9588894;12522257;25605837}.</p>\r\n<p>With exceedingly rare exceptions, they are mutually exclusive and result in the constitutive activation of either KIT or PDGFRA. Normally, KIT and PDGFRA are activated by the binding of their respective ligands (i.e. stem cell factor and PDGFA). Downstream oncogenic signalling involves the RAS/MAPK and PI3K/AKT/mTOR pathways {22089421;23623056;28632504}.</p>\r\n<p>About 75% of GISTs harbour activating mutations of <em>KIT</em>, most often in exon&nbsp;11 (66% overall) or exon&nbsp;9 (6%); mutations in exons&nbsp;13 and&nbsp;17 are rare (~1% each) {9438854;11719439;21953054;25605837}. <em>KIT</em> exon&nbsp;11 mutations include deletions (45%), substitution mutations (30%), and insertion/deletion (indel) mutations (15%) including duplications. Nearly all <em>KIT</em>exon&nbsp;9 mutations are duplications: NM_000222.3:c.1504_1509dup p.(Ala502_Tyr503dup); 80% of GISTs with such mutations arise in the small intestine. <em>KIT</em> exon&nbsp;13 and exon&nbsp;17 mutations are most often NM_000222.3:c.1924A&gt;G p.(Lys642Glu) and NM_000222.3:c.2466T&gt;A p.(Asn822Lys), respectively {12542597;18246046}.</p>\r\n<p>About 10% of GISTs harbour <em>PDGFRA</em> activating mutations (most often in the stomach), usually in exon&nbsp;18 (8% overall); mutations in exons&nbsp;12 and 14 are rare {12522257;15928335}. The most common <em>PDGFRA</em> mutations are NM_006206.6:c.2525A&gt;T p.(Asp842Val) (55%) and NM_006206.6:c.1682T&gt;A p.(Val561Asp) (10%). Patients with <em>PDGFRA</em>-mutant tumours have a lower risk of metastasis than patients with <em>KIT</em>-mutant tumours {25605837}. Given the differences in prognosis, nearly 85% of advanced GISTs harbour <em>KIT</em> mutations and only 2% harbour <em>PDGFRA</em> mutations {21953054}.</p>\r\n<p>Rare GISTs are associated with mutations of <em>NF1</em> (which are usually germline alterations in patients with NF1 or rarely somatic mutations), <em>BRAF</em>, or <em>KRAS</em> {22282465;26555092;27390349}. Like <em>KIT</em> and <em>PDGFRA</em> mutations, these alterations also result in RAS/RAF/MEK pathway activation.</p>\r\n<p>Most GISTs progress through a stepwise acquisition of chromosomal alterations, each of which probably inactivates tumour suppressor genes: loss of 14q (as many as 70%), followed by loss of 22q (~50%), 1p (~50%), and 15q (~40%) {28632504}. <em>MAX</em> is the 14q GIST tumour suppressor gene, inactivated early (in microscopic and low-risk tumours) {28270683}. Inactivating mutations in <em>CDKN2A</em>, <em>TP53</em>, and <em>RB1</em> are found in GISTs of higher-risk categories {12721243}. <em>DMD</em>inactivation is a late event in GIST progression, identified in nearly all metastatic GISTs {24793134}. Very rare GISTs harbour <em>NTRK3</em>, <em>FGFR1</em>, or <em>ALK</em> gene fusions {26606880;27974047;32357254}.</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 149823,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 967,
+        "headingText": "\r\n\r\n<p>Localized GIST presents as a well-circumscribed mass of highly variable size (ranging from incidental, submillimetre lesions to those &gt;&nbsp;200&nbsp;mm). In larger lesions, the cut surface may show foci of haemorrhage, cystic change, and/or necrosis. Gastric GISTs often feature an intraluminal component and may produce umbilicated mucosal ulcers. In the small bowel, GISTs more frequently present as external masses. Some GISTs feature a narrow pedicle linked to the serosal surface, the interruption of which may contribute to the generation of extragastrointestinal GISTs {15613856;16625094;28288036}. Pedunculated ileal tumours may be mistaken intraoperatively for Meckel diverticula.</p>\r\n<p>Advanced disease most often presents as a main lesion associated with multiple smaller nodules that may extend from the diaphragm to the pelvis. Invasion of surrounding organs such as the spleen and pancreas can be observed in aggressive tumours.</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 149824,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 961,
+        "headingText": "\r\n\r\n<p>Microscopically, GISTs exhibit a broad morphological spectrum. Anatomical location (gastric vs small bowel) seems to influence the histological appearance. Most gastric GISTs are spindle cell tumours, with epithelioid morphology seen in approximately 20&ndash;25% of cases. Some cases feature a combination of spindle cell and epithelioid histology. Nuclear pleomorphism is uncommon {34562043}. A range of histological appearances are seen in spindle cell GISTs, including sclerosing (especially in small tumours that often contain calcifications), palisaded-vacuolated, and diffuse hypercellular patterns {15613856}. Very rarely, sarcomatoid features with substantial nuclear atypia and high mitotic activity can be observed. Epithelioid GISTs may show sclerosing, dyscohesive, hypercellular (sometimes with a pseudopapillary pattern), or (rarely) sarcomatous morphology with substantial atypia and mitotic activity. Myxoid stroma may be observed {15613856}.</p>\r\n<p>Small intestinal and colonic GISTs are usually spindle cell tumours with diffuse sheets or vague storiform arrangements of tumour cells. Tumours with low biological potential often contain extracellular collagen globules (skeinoid fibres). Intestinal GISTs may feature neuropil-like anuclear areas (somewhat mimicking Verocay bodies) composed of cell processes. Nuclear palisading, perivascular hyalinization, and regressive vascular changes (e.g. dilated and thrombosed vessels, haemosiderin deposition, and fibrosis) like those in schwannomas can be seen. Rectal GISTs most often feature spindle cell morphology {7528472;9130987;11688571;15613856;16625094}.</p>\r\n<p>Extremely rarely, morphological progression to high-grade (KIT-negative) sarcomatous morphology can be observed either de&nbsp;novo or after therapy with imatinib (dedifferentiated GIST). Dedifferentiation can also be associated with heterologous epithelial, myogenic, or angiosarcomatous differentiation {18830121;23348204}.</p>\r\n<p>By immunohistochemistry, most GISTs show strong and diffuse expression of KIT (CD117), which appears as cytoplasmic, membrane-associated, or sometimes perinuclear dot-like staining. However, a small minority (&lt;&nbsp;5%), especially GISTs with <em>PDGFRA</em> mutations, may lack KIT expression or show very limited staining {15223958}. The chloride-channel protein ANO1 (DOG1) is an equally sensitive and specific marker and may rescue diagnostically as many as 50% of KIT-negative GISTs {15215166;18223323;19606013;20716168}. KIT and DOG1 are also expressed in the interstitial cells of Cajal, whose precursors are believed to be the histogenetic origin of GISTs. <em>PDGFRA</em>-mutant GISTs usually show strong and diffuse expression of PDGFRA with paranuclear dot-like accentuation {33859072}. Most spindle cell GISTs (especially gastric tumours) are positive for CD34, whereas epithelioid examples are less consistently positive. Some GISTs express h-caldesmon, SMA, or S100 {16625094}. It is rare for GISTs to show positivity for desmin or keratins {16625094}.</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 149825,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 962,
+        "headingText": "\r\n\r\n<p>Aspirate smears show cohesive fragments and individual, dispersed, uniform spindle cells (or less often epithelioid cells), either as stripped nuclei or with delicate, filamentous cytoplasmic processes, sometimes with paranuclear vacuoles; a prominent vascular pattern is common {9535398;11507702}.</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 149826,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 963,
+        "headingText": "\r\n\r\n<p>Demonstration of <em>KIT</em> or <em>PDGFRA</em> variants can aid in the diagnosis of GIST.</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 149827,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 966,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> an intramural, submucosal, or subserosal mass; spindle cell, epithelioid, or mixed morphology; KIT and/or DOG1 expression.</p>\r\n<p><em>Desirable:</em> demonstration of <em>KIT</em> or <em>PDGFRA</em> gene mutations (~85% of tumours).</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 149828,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 964,
+        "headingText": "\r\n\r\n<p>Risk stratification is preferred to anatomical staging.</p>\r\n\r\n",
+        "timestamp": "2026-06-09T11:29:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 149829,
+        "bookId": 72,
+        "chapterId": 152,
+        "headingId": 965,
+        "headingText": "\r\n\r\n<p>The best-documented prognostic parameters for GIST are mitotic activity, tumour size, and anatomical site (see <a style=\"cursor:pointer\" href=\"/attachment/72/152/44782\" target=\"_blank\">#44782</a>Table&nbsp;13.01). Mitotic counting is for an area of 5&nbsp;mm<sup>2</sup>, which in most modern microscopes corresponds to 20&ndash;25 fields with the 40&times; objective and standard eyepiece diameter {17193820}. This prognostic assessment applies best to <em>KIT</em>/<em>PDGFRA</em>-mutant GISTs. In general, intestinal GISTs are more unpredictable {19935059;27340750}. Tumours with low mitotic counts can metastasize, whereas tumours with higher mitotic counts may remain indolent for extended periods. <em>KIT</em>/<em>PDGFRA</em>-mutant GISTs are rapidly progressive when metastatic. Tumour rupture is an additional adverse factor in GIST {20730857}. The grading principles for soft tissue sarcomas do not apply to GIST. In order to refine risk assessment for consideration of adjuvant therapy, it has been suggested to include size and mitotic counts as continuous variables to be incorporated along with anatomical site into prognostic tools such as nomograms {21997685} or prognostic contour maps {22153892}.</p>\r\n<p>Mutation status represents a prognostic as well as predictive factor {18312355}. In general, <em>KIT</em>-mutant tumours tend to behave more aggressively than <em>PDGFRA</em>-mutant or triple-negative (<em>KIT-</em>, <em>PDGFRA-</em>, and <em>BRAF</em>-wildtype) tumours. The best outcome seems to be associated with <em>PDGFRA</em> exon&nbsp;12, <em>BRAF</em>, and <em>KIT</em> exon&nbsp;13 mutations. The worst outcome seems to be associated with <em>KIT</em> exons&nbsp;9 and&nbsp;11 and <em>PDGFRA</em> non-p.(Asp842Val) exon&nbsp;18 mutated GISTs {25970686}.</p>\r\n<p>Mutation status also predicts response to imatinib, with <em>KIT</em> exon&nbsp;11&ndash;mutant tumours exhibiting the highest rate of response and <em>PDGFRA</em> exon&nbsp;18 p.(Asp842Val) mutants showing primary resistance {28334365}. Molecular status also influences imatinib dose selection, with <em>KIT</em> exon&nbsp;9 mutants benefiting from a higher dosage (800&nbsp;mg instead of 400&nbsp;mg) {16624552}. Secondary mutations are associated with acquired resistance to imatinib. Secondary <em>KIT</em> gene mutations are most often found in the ATP-binding pocket of the kinase domain (exons&nbsp;13 and&nbsp;14) or in the kinase activation loop (exons&nbsp;17 and&nbsp;18) {15930355;21116624}. Both <em>KIT</em>/<em>PDGFRA</em>/<em>BRAF</em>-wildtype and NF1-associated GISTs are also characterized by a lack of sensitivity to imatinib {29846513}. Other kinase inhibitors (sunitinib, regorafenib, ripretinib) show efficacy against imatinib-resistant tumours with secondary resistance mutations {17046465;23177515;32511981}. Avapritinib shows clinical activity for patients with advanced <em>PDGFRA</em> p.Asp842Val-mutant and some <em>KIT</em>-mutant GISTs {32615108;34343033}.</p>\r\n<p>&nbsp;</p>",
+        "timestamp": "2026-06-09T11:29:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

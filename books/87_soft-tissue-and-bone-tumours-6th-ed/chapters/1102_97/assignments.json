@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 194,
+    "bookId": "87",
+    "roleid": 295,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2369,
+        "lastname": "Yoshida",
+        "firstname": "Akihiko",
+        "initials": "",
+        "email": "",
+        "roleid": 295,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 195,
+    "bookId": "87",
+    "roleid": 296,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2365,
+        "lastname": "Nielsen",
+        "firstname": "G. Petur",
+        "initials": "",
+        "email": "",
+        "roleid": 296,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 196,
+    "bookId": "87",
+    "roleid": 297,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4177,
+        "lastname": "Chebib",
+        "firstname": "Ivan",
+        "initials": "",
+        "email": "",
+        "roleid": 297,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 197,
+    "bookId": "87",
+    "roleid": 298,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2543,
+        "lastname": "Yamashita",
+        "firstname": "Kyoko",
+        "initials": "",
+        "email": "",
+        "roleid": 298,
+        "position": 0
+      },
+      {
+        "contributorid": 5737,
+        "lastname": "Jour",
+        "firstname": "George",
+        "initials": "",
+        "email": "",
+        "roleid": 298,
+        "position": 0
+      }
+    ]
+  }
+]

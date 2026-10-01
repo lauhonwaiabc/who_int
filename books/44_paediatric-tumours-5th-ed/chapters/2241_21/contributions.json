@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 103680,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 466,
+        "headingText": "\r\n<p>Myelodysplastic syndrome with excess blasts (MDS-EB) is a myelodysplastic syndrome (MDS) characterized by &ge;&nbsp;5 to &lt;&nbsp;20% myeloblasts in the bone marrow or &ge;&nbsp;2 to &lt;&nbsp;20% blasts in the peripheral blood (but &lt;&nbsp;20% blasts in both the bone marrow and blood).</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 103681,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 467,
+        "headingText": "\r\n<p>9983/3 Myelodysplastic syndrome with excess blasts</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 103682,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A3Z &amp; XH79X8 Myelodysplastic syndromes, unspecified &amp; Myelodysplastic syndrome with excess blasts</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 103683,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Acceptable:</em> childhood myelodysplastic neoplasm with increased blasts.</p>\r\n<p><em>Not recommended:</em> refractory anaemia with excess of blasts (RAEB); RAEB in transformation (RAEB-T); myelodysplastic syndrome with excess blasts in transformation (MDS-EB-T).</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 103684,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 103685,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 471,
+        "headingText": "\r\n<p>The blood and bone marrow are affected. Extramedullary tumours may be seen.</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 103686,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 472,
+        "headingText": "\r\n<p>The most common symptoms are malaise, fever, and bleeding arising from corresponding peripheral blood cytopenias. Lymphadenopathy and hepatosplenomegaly are generally not features of MDS-EB. Physical stigmata, a prior history of immunodeficiency, or longstanding thrombocytopenia may indicate the presence of an underlying germline disorder {30670445}. In general, there is peripheral blood cytopenia.</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 103687,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 473,
+        "headingText": "\r\n<p>MDS-EB is less common than refractory cytopenia of childhood and accounts for approximately 25% of all cases of childhood MDS {21554264}, with an annual incidence of 1&ndash;2&nbsp;cases per 1&nbsp;million children {10520007}. Boys are affected more often than girls {21212791}.</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 103688,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 474,
+        "headingText": "\r\n<p>Some cases of MDS-EB in children are associated with cytotoxic therapy and/or radiation therapy, inherited bone marrow failure disorders, or acquired severe aplastic anaemia. Other cases are generally categorized as primary MDS, although they may be related to a germline mutation predisposing to MDS {27913534} (see <a style=\"cursor:pointer\" href=\"/chaptercontent/44/470\" target=\"_blank\">section </a><em>Myeloid neoplasms associated with germline predisposition</em>). Germline <em>GATA2</em> deficiency accounts for approximately 15% of all cases of primary MDS-EB {26702063}.</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 103689,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 475,
+        "headingText": "\r\n<p>Molecular pathways to the initiation and clonal progression of MDS-EB depend on the underlying context. Recent studies elucidated the mechanism of somatic clonal evolution in some genetic predisposition syndromes {26702063; 33513358; 28637620; 30046003; 29535429}.</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 103690,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 482,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 103691,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 476,
+        "headingText": "\r\n<p>The normal bone marrow histology is frequently altered, with disruption of red cell colony formation. Translocation of erythroid precursors and megakaryocytes towards the paratrabecular areas is a characteristic histological feature. Disturbance of the normal architecture results in groups of immature granulocytic cells localized in the central parts of the bone marrow away from the bone trabeculae and vasculature (abnormal localization of precursors). Immunostaining for CD34 is used to confirm the blast nature of immature myeloid cells. Hypocellularity of the bone marrow is present more commonly than in adult MDS {21554264}. A large degree (grade&nbsp;2 or&nbsp;3) of reticulin fibrosis may be seen in rare cases {29667765}.</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 103692,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 477,
+        "headingText": "<p>On peripheral blood smear, red cells commonly show anisocytosis and macrocytosis, and occasionally polychromasia. Platelets may display anisocytosis, with giant platelets present. Neutropenia with pseudo&ndash;Pelger&ndash;Hu&euml;t nuclei and/or hypogranularity or agranularity of neutrophil cytoplasm may be noted. Blasts in the peripheral blood are usually present. The bone marrow is commonly hypercellular, but cell content may be normal or reduced. Erythroid precursors often show dyserythropoiesis with abnormal nuclear lobulation, multinucleated cells, internuclear bridges, and megaloblastoid changes. Granulocytic precursors can exhibit variable dysplasia, with abnormalities in segmentation and granulation, as well as asynchronous nuclear&ndash;cytoplasmic maturation (for a description of dysplasia see also <a style=\"cursor:pointer\" href=\"/chaptercontent/44/22\" target=\"_blank\">section </a><em>Refractory cytopenia of childhood&nbsp;(childhood myelodysplastic neoplasm with low blasts),&nbsp;</em>p.&nbsp;XXX). Megakaryocytes are generally present, varying in quantity and size, including micromegakaryocytes. Dysmegakaryopoiesis commonly includes megakaryocytes with separated nuclei or round nuclei. The blast percentage is &lt;&nbsp;20%.</p>",
+        "timestamp": "2023-05-09T14:26:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 103693,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 478,
+        "headingText": "\r\n<p>Somatic mutations commonly seen in adult MDS (such as pathogenic sequence variants in <em>TET2</em>, <em>DNMT3A</em>, and the spliceosome complex) are generally absent in childhood MDS-EB {22238327}. In children, most of the somatic mutations identified alter the RAS pathway, transcription factors, and epigenetic modifiers {25239263; 26492932; 29146900; 27876779}. Monosomy&nbsp;7, including del(7q), is the most common chromosomal aberration in childhood MDS-EB {2080202; 25261124}; in primary MDS, a third of cases with monosomy&nbsp;7 or del(7q) have underlying <em>GATA2</em> deficiency {30047423; 33038986}.</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 103694,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 481,
+        "headingText": "<p><em>Essential:</em> dysplasia of &ge;&nbsp;1&nbsp;myeloid lineage(s) and an increased blast percentage of &ge;&nbsp;5 to &lt;&nbsp;20% myeloblasts in the bone marrow or &ge; 2 to &lt;&nbsp;20% blasts in the peripheral blood (but &lt;&nbsp;20% blasts in both the bone marrow and blood).</p>\r\n<p><em>Note:</em> Although disease with recurrent genetic changes characteristic of acute myeloid leukaemia (AML) is considered AML regardless of blast count, a threshold of 20% blasts is used to differentiate AML from MDS in the absence of these recurrent alterations. AML with a history of MDS, with an MDS-related cytogenetic abnormality such as monosomy&nbsp;7, or with multilineage dysplasia is referred to as AML with myelodysplasia-related changes.</p>",
+        "timestamp": "2023-05-09T14:27:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 103695,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 103696,
+        "bookId": 44,
+        "chapterId": 21,
+        "headingId": 480,
+        "headingText": "\r\n<p>The prognosis for children with MDS-EB is in part dependent on the presence of an underlying genetic syndrome {30670445}, prior chemotherapy or radiation therapy {29438960; 22079789}, or prior severe aplastic anaemia {24316460}. Allogeneic haematopoietic stem cell transplantation (HSCT) is the therapy of choice for most patients {21212791; 23152304; 25264233}. AML-type intensive chemotherapy without HSCT has been associated with intensive treatment&ndash;related toxicities and a high risk of relapse {11681412; 11786571}. The use of cytoreductive therapy before HSCT may be indicated for some children with higher blast counts and a high risk of relapse, yet it remains controversial {29438960}. Unlike for adults, for children with MDS-EB there are no data indicating a difference in outcome between blast percentages below and above 10% {22734597; 21212791}. A structural complex karyotype and/or the presence of <em>TP53</em> mutations have a negative impact on HSCT outcome {2080202; 28223278; 28177873}.</p>",
+        "timestamp": "2022-07-08T15:02:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

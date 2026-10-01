@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 67136,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 432,
+        "headingText": "<p>Pulmonary extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma) is a low-grade primary extranodal lymphoma recapitulating the morphological features of mucosa-associated lymphoid tissue (MALT).</p>",
+        "timestamp": "2021-01-07T17:43:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 67137,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 433,
+        "headingText": "\r\n<p>9699/3 MALT lymphoma</p>\r\n",
+        "timestamp": "2020-11-11T11:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 67138,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 434,
+        "headingText": "\r\n<p>2A85.3 &amp; XH3FE9 Extranodal marginal zone B-cell lymphoma, primary site excluding stomach or skin &amp; Mature B-cell lymphomas</p>\r\n",
+        "timestamp": "2020-11-11T11:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 67139,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Acceptable:</em> bronchus-associated lymphoid tissue (BALT) lymphoma; BALToma; MALToma.</p>\r\n<p><em>Not recommended:</em> pseudolymphoma (obsolete).</p>\r\n",
+        "timestamp": "2020-11-11T11:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 67140,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-11-11T11:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 67141,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 437,
+        "headingText": "<p>There is no zonal or lobar predisposition in the lungs. Some cases extend to and involve the visceral pleura, while rare cases may be predominantly endobronchial {7544760; 11474283; 23483549; 26452211}.</p>",
+        "timestamp": "2021-01-07T17:43:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 67142,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 438,
+        "headingText": "<p>Patients may present asymptomatically with lesions identified incidentally on imaging studies. About 55&ndash;67% of patients show nonspecific respiratory symptoms such as cough, dyspnoea, or chest pain {18604720; 26152851}. Systemic symptoms, such as fever and night sweats, are uncommon {26452211}. Serum monoclonal proteins were reported in 43% of patients {11474283}.</p>\r\n<h5>Imaging</h5>\r\n<p>Chest CT commonly shows one or more nodules or masses, which may be bilateral. Air bronchograms are common. Some patients may show ground-glass opacities or interstitial infiltrates, creating a differential diagnosis with pneumonia or interstitial lung disease {18604720; 11474283; 25978630}.</p>",
+        "timestamp": "2021-01-07T17:43:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 67143,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 439,
+        "headingText": "<p>MALT lymphomas represent 70&ndash;90% of all primary pulmonary lymphomas but &lt;&nbsp;0.5% of all primary lung neoplasms {26152851; 18604720; 26452211}. Patients are middle-aged to elderly, with a median age of 68&nbsp;years at diagnosis. There is a slight female predominance.</p>",
+        "timestamp": "2021-01-07T17:43:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 67144,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 440,
+        "headingText": "\r\n<p>A specific infectious agent, analogous to <em>Helicobacter pylori</em> in gastric MALT lymphoma, has not been identified in pulmonary MALT lymphomas. Underlying autoimmune disorders, especially Sj&ouml;gren syndrome, have been reported in 10&ndash;29% of cases {26452211; 11474283; 18604720; 26152851}.</p>\r\n",
+        "timestamp": "2020-11-11T11:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 67145,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 441,
+        "headingText": "<p>MALT is not present in normal lung parenchyma but is acquired in reactive conditions including smoking, infection, and autoimmune disorders. Extranodal MALT lymphomas are thought to arise after long-term antigenic stimulation in the setting of chronic lymphoid hyperplasia. Multiple genetic subsets have been identified, including one group associated with <em>MALT1</em> translocations (25&ndash;45% of cases) and activation of the NF-&kappa;B pathway, and another group associated with increased plasma cells and a plasmacytic gene expression pattern {12651604; 18974375; 14574335; 21396678}.</p>",
+        "timestamp": "2021-01-07T17:44:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 67146,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 448,
+        "headingText": "\r\n<p>Grossly, pulmonary MALT lymphomas are consolidated masses with a cut surface that is yellow to cream-coloured.</p>\r\n",
+        "timestamp": "2020-11-11T11:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 67147,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 442,
+        "headingText": "<p>The lymphomatous infiltrate is heterogeneous, with varying proportions of small lymphocytes, centrocyte-like cells, monocytoid B&nbsp;cells, occasional large transformed cells, and plasma cells {11474283; 7544760; 11756772}. The infiltrate surrounds and, in some cases, colonizes reactive germinal centres. At the periphery of the lesion, the neoplastic cells track bronchovascular bundles, but the centre of the lesion often shows alveolar destruction {26452211}. Lymphoepithelial lesions are common. Airways are frequently spared, correlating with the air bronchograms observed on imaging studies. Necrosis is rare and its presence should raise concern for transformation to diffuse large B-cell lymphoma. Amyloidosis, light chain deposition disease, and/or crystal-storing histiocytosis may coexist with MALT lymphoma.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>The neoplastic B&nbsp;cells express CD20 and CD79a. Flow cytometric studies may show monotypic B&nbsp;cells, although these may in some cases be masked by benign germinal centre cells or other background polytypic B&nbsp;cells. The B&nbsp;cells are negative for CD10, BCL6, and other germinal centre markers. Aberrant CD43 expression has been reported in 30&ndash;80% of cases {26452211}. Rare cases may express CD5 {22406370; 22333190}. Follicular dendritic cell markers (CD21, CD35) highlight dendritic cell meshworks, which may be disrupted and colonized by the neoplastic cells. The Ki-67 index is typically low (&lt;&nbsp;20%). Kappa and lambda stains reveal clonal plasma cells or plasmacytoid cells in a subset of cases {7544760; 11474283; 26452211}. Keratin stains may be useful to identify lymphoepithelial lesions.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Pulmonary MALT lymphoma must be distinguished from reactive lymphoid proliferations, including nodular lymphoid hyperplasia and lymphocytic interstitial pneumonia. The presence of aberrant CD43 expression on B&nbsp;cells or plasma cells with light chain restriction may be helpful, although each of these findings is present in only a subset of cases. Flow cytometric studies or molecular clonality testing may be helpful to demonstrate the presence of a clonal B-cell population. Other small B-cell neoplasms that may mimic marginal zone lymphoma must also be excluded, using a thorough panel of immunophenotypic markers.</p>",
+        "timestamp": "2021-01-07T17:44:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 67148,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 443,
+        "headingText": "\r\n<p>FNA smears or bronchoalveolar lavage samples are generally inadequate to establish a definitive diagnosis. Flow cytometry or PCR studies may demonstrate a clonal B-cell population {21481576; 24261323}, but distinguishing MALT lymphoma from other small B-cell neoplasms typically requires at least a core biopsy. In cytological preparations, pulmonary MALT lymphomas typically show a heterogeneous mix of small lymphocytes, centrocyte-like cells, plasmacytoid cells, and/or plasma cells {24261323}.</p>\r\n",
+        "timestamp": "2020-11-11T11:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 67149,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 444,
+        "headingText": "\r\n<p>Detection of clonal IG gene arrangements and/or <em>MALT1</em>-associated translocations is useful for diagnosis in problematic cases {14574335; 21396678; 12651604}.</p>\r\n",
+        "timestamp": "2020-11-11T11:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 67150,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Destructive infiltrate of small lymphocytes, centrocyte-like cells, monocytoid cells, and/or plasmacytic cells</li>\r\n<li>B-cell phenotype</li>\r\n<li>Exclusion of other small B-cell neoplasms</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Neoplastic B&nbsp;cells surround and/or colonize germinal centres</li>\r\n<li>Lymphoepithelial lesions</li>\r\n<li>Demonstration of a monoclonal B-cell population</li>\r\n</ul>",
+        "timestamp": "2021-01-04T10:34:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 67151,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 445,
+        "headingText": "\r\n<p>The American Joint Committee on Cancer (AJCC) staging manual (eighth edition) has adopted the Lugano modification of the Ann Arbor system for the staging of non-Hodgkin lymphomas [[Amin MB, Edge S, Greene F, et al., editors. AJCC cancer staging manual. 8th ed. New York (NY): Springer; 2017.]] {25113753}.</p>\r\n",
+        "timestamp": "2020-11-11T11:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 67152,
+        "bookId": 35,
+        "chapterId": 102,
+        "headingId": 446,
+        "headingText": "\r\n<p>Patients with low-stage disease have achieved prolonged remission with localized therapy, usually surgical resection {10800781; 18604720; 26152851}. The 5-year and 10-year overall survival rates are reported at 68&ndash;90% and 53&ndash;72%, respectively {19541720; 10800781}. Overall survival is not significantly different between patients presenting at different stages {18604720}.</p>",
+        "timestamp": "2020-11-11T11:37:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

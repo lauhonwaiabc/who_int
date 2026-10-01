@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 145,
+    "bookId": "49",
+    "roleid": 181,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2093,
+        "lastname": "Pitman",
+        "firstname": "Martha Bishop",
+        "initials": "MB",
+        "email": "",
+        "roleid": 181,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 146,
+    "bookId": "49",
+    "roleid": 182,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2444,
+        "lastname": "Bode-Lesniewska",
+        "firstname": "Beata",
+        "initials": "",
+        "email": "",
+        "roleid": 182,
+        "position": 0
+      },
+      {
+        "contributorid": 3644,
+        "lastname": "Field",
+        "firstname": "Andrew S.",
+        "initials": "AS",
+        "email": "",
+        "roleid": 182,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 147,
+    "bookId": "49",
+    "roleid": 183,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 3644,
+        "lastname": "Field",
+        "firstname": "Andrew S.",
+        "initials": "AS",
+        "email": "",
+        "roleid": 183,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 148,
+    "bookId": "49",
+    "roleid": 184,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4164,
+        "lastname": "Zeppa",
+        "firstname": "Pio",
+        "initials": "",
+        "email": "",
+        "roleid": 184,
+        "position": 0
+      }
+    ]
+  }
+]

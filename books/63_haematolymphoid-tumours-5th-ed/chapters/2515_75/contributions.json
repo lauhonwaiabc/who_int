@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 119032,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>This entity comprises myeloid and/or lymphoid neoplasms associated with a <em>JAK2</em> fusion. The most common fusion partner for this entity is <em>PCM1</em>, although many additional partner genes result in <em>JAK2</em> fusions driving myeloid and/or lymphoid neoplasms that fall into this diagnostic category.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 119033,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9968/3 Myeloid/lymphoid neoplasm with <em>JAK2</em> rearrangement</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 119034,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A22 &amp; XH2WB4 Other and unspecified myeloproliferative neoplasms &amp; Myeloid or lymphoid neoplasm with <em>PCM1</em>::<em>JAK2</em></p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 119035,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Acceptable:</em> myeloid/lymphoid neoplasms with <em>PCM1</em>::<em>JAK2</em>.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 119036,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 119037,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>The bone marrow and peripheral blood are most commonly involved {24913195}. Lymph node and splenic involvement also occurs, albeit less frequently {30401948; 32853379}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 119038,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 707,
+        "headingText": "<p>Patients may present with chronic myeloproliferative neoplasms (i.e. chronic eosinophilic leukaemia, primary myelofibrosis, etc.) or myelodysplastic/myeloproliferative neoplasms with neutrophilia and/or monocytosis {30401948} often associated with eosinophilia. Patients typically present with cytopenias or cytoses and with varying degrees of eosinophilia. Only a small subset of patients present with hypereosinophilia (absolute eosinophil count: &gt;&nbsp;1.5&nbsp;&times;&nbsp;10<sup>9</sup>/L), and the degree of eosinophilia may vary along the course of disease. Monocytosis and left-shifted neutrophilia are uncommon but may be present. Hepatosplenomegaly and lymphadenopathy are common {30401948}. Most patients are diagnosed in the chronic phase.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T15:42:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 119039,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>There is striking male predominance (M:F&nbsp;ratio: 27:5). The median age at diagnosis is in the fifth decade of life (age range: 12&ndash;86&nbsp;years) {24913195; 30401948}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 119040,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>The etiology of the disease remains unknown.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 119041,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 710,
+        "headingText": "\r\n\r\n<p>The formation of a <em>JAK2</em> fusion gene results in constitutive activation of the JAK/STAT pathway, leading to the formation of a pluripotent haematopoietic stem cell that can give rise to the dysregulated proliferation of cells of myeloid, erythroid, B-lymphoid, or T-lymphoid lineage. Fusion partners other than <em>PCM1</em> may not be associated with prominent eosinophilia. A subset of patients may initially present with or progress to blast-phase disease of myeloid, B-cell, or T-cell lineage {16424865; 21091042; 23400675}.</p>\r\n<p>The most common partner is <em>PCM1</em>/8p22 {2327406; 15805263}. Other partners include but are not limited to <em>ETV6</em>/12p13.2 and <em>BCR</em>/22q11.2. Patients carrying <em>ETV6</em>::<em>JAK2</em> may present with B-cell lymphoid blast-phase disease and have features overlapping with <em>BCR</em>::<em>ABL1</em>-like B-lymphoblastic leukaemia (B-ALL) {25207766}, whereas those carrying <em>BCR</em>::<em>JAK2</em> may present with myeloid neoplasms that resemble myelodysplastic/myeloproliferative neoplasm with neutrophilia or B-ALL with <em>BCR</em>::<em>ABL1</em>-like features {24913195}. <em>JAK2</em> rearrangements are among the most common alterations seen in de&nbsp;novo B-ALL with<em> BCR</em>::<em>ABL1</em>-like features, with the most frequent partners including <em>SSBP2</em>, <em>PAX5</em>, <em>RFX3</em>, <em>USP25</em>, and <em>ZNF274</em>. Patients with de&nbsp;novo B-ALL with <em>PCM1</em>::<em>JAK2</em> and no apparent myeloid/myeloproliferative component or eosinophilia may be best classified as having B-ALL with <em>BCR</em>::<em>ABL1</em>-like features. Demonstration of <em>JAK2</em> rearrangement in the myeloid cells in cases presenting as B-ALL, a prior history of a chronic myeloid neoplasm, or myeloproliferative-like features in the posttreatment setting support a diagnosis of myeloid/lymphoid neoplasms with <em>JAK2</em> rearrangement.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 119042,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 119043,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 711,
+        "headingText": "\r\n\r\n<p>The bone marrow is typically hypercellular with eosinophilia. Myelofibrosis is common. Eosinophil morphology is variable, ranging from unremarkable to abnormal/dysplastic. Eosinophilic precursors may be increased. Megakaryocytes may be decreased. Bone marrow and peripheral blood eosinophilia may be minimal or absent in a subset of patients, particularly in those presenting with blast-phase disease {30401948}. Erythroid hyperplasia and prominent dyserythropoiesis, as well as mild dysgranulopoiesis and dysmegakaryopoiesis, may be present. Extramedullary involvement of lymph node or spleen may be seen and in some cases can present with marked erythroid differentiation {30401948; 32853379}. The histopathological features of cases with <em>PCM1</em>::<em>JAK2</em> appear to be unique and include a typical triad of bone marrow hypercellularity with eosinophilia, large aggregates of immature erythroid precursors, and myelofibrosis. Similar features may be seen in extramedullary sites, with large aggregates of immature erythroid precursors/pronormoblasts resembling myeloid sarcoma with erythroid differentiation {33367495}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 119044,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>See <em>Histopathology</em>, above.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 119045,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 713,
+        "headingText": "<p>Alterations of 9p24.1 may be visible on routine karyotyping, but a subset of cases may be cryptic, particularly those in which the <em>JAK2</em> fusion occurs as a result of an insertion. Not all translocations involving 9p24.1 lead to the formation of a <em>JAK2</em> fusion gene {30401948}; therefore, karyotypic abnormalities involving 9p24 or clinical/histopathological features suggestive of this group of diseases should prompt additional confirmatory FISH using <em>JAK2</em> break-apart probes to confirm the presence of <em>JAK2</em> rearrangement, or RT-PCR to search for specific gene fusions. RNA sequencing is expected to become the gold standard for detecting the various fusion mRNAs, but this technique remains cost-prohibitive in routine practice at this time. FISH and RT-PCR may be used for disease monitoring. Sustained detection of <em>JAK2</em>&nbsp;rearrangement at levels disproportionate to the degree of residual disease burden by morphology (i.e. blast count) and flow cytometry after therapy, in patients initially presenting with blast-phase disease, supports the presence of a previously undiagnosed chronic phase of disease. Concurrent somatic gene mutations involving <em>ASXL1</em>, <em>BCOR</em>, <em>ETV6</em>, <em>RUNX1</em>, <em>SRSF2</em>, <em>TET2</em>, and <em>TP53</em> have been reported and probably contribute to phenotypic and clinical heterogeneity; however, their overall prognostic contribution remains unclear {30401948}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T15:42:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 119046,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> a myeloid or lymphoid neoplasm, often with prominent eosinophilia; presence of a <em>JAK2</em> fusion gene; exclusion of <em>BCR</em>::<em>ABL1</em>-like B-ALL without evidence of an associated myeloid neoplasm.</p>\r\n<p><em>Desirable:</em> cytogenetic identification of the translocation; molecular identification of the fusion gene, e.g. <em>PCM1</em>::<em>JAK2</em>.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 119047,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 119048,
+        "bookId": 63,
+        "chapterId": 75,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>The prognosis is variable, including a more indolent course in patients presenting with chronic-phase disease {15805263; 16034466; 16091753; 24913195} or a more aggressive course in patients presenting with blast-phase disease {29285580}. These neoplasms are resistant to first- and second-generation tyrosine kinase inhibitors and may respond to the <em>JAK2</em> inhibitor ruxolitinib, but the response is usually short-term, with relapse within 1&ndash;2&nbsp;years. Allogeneic haematopoietic stem cell transplantation should be considered early for eligible patients {25260694; 28028030; 32279331; 32525541}.</p>",
+        "timestamp": "2024-03-01T13:08:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

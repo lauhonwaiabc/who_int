@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 185,
+    "bookId": "72",
+    "roleid": 266,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2001,
+        "lastname": "Gill",
+        "firstname": "Anthony J.",
+        "initials": "AJ",
+        "email": "",
+        "roleid": 266,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 186,
+    "bookId": "72",
+    "roleid": 279,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2023,
+        "lastname": "Nagtegaal",
+        "firstname": "Iris D.",
+        "initials": "ID",
+        "email": "",
+        "roleid": 279,
+        "position": 1
+      },
+      {
+        "contributorid": 5499,
+        "lastname": "Polydorides",
+        "firstname": "Alexandros D.",
+        "initials": "AD",
+        "email": "",
+        "roleid": 279,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "pkroleId": 187,
+    "bookId": "72",
+    "roleid": 280,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2045,
+        "lastname": "Misdraji",
+        "firstname": "Joseph",
+        "initials": "J",
+        "email": "",
+        "roleid": 280,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 188,
+    "bookId": "72",
+    "roleid": 281,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2046,
+        "lastname": "Carr",
+        "firstname": "Norman J.",
+        "initials": "NJ",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 2185,
+        "lastname": "Pai",
+        "firstname": "Reetesh K.",
+        "initials": "Reetesh K",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 5528,
+        "lastname": "Moran",
+        "firstname": "Brendan John",
+        "initials": "BJ",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 5700,
+        "lastname": "Ahadi",
+        "firstname": "Mahsa S.",
+        "initials": "MS",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      }
+    ]
+  }
+]

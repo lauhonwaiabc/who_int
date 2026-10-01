@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 113482,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 576,
+        "headingText": "\r\n<p>Striated duct adenoma (SDA) is a benign salivary gland tumour composed of ducts resembling normal striated ducts lined by a single layer of luminal cells with minimal intervening stroma.</p>\r\n",
+        "timestamp": "2023-09-26T10:20:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 113483,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 577,
+        "headingText": "\r\n<p>8503/0 Striated duct adenoma</p>\r\n",
+        "timestamp": "2023-09-26T10:20:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 113484,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 578,
+        "headingText": "\r\n<p>2E91.Z Benign neoplasm of unspecified major salivary glands</p>\r\n",
+        "timestamp": "2023-09-26T10:20:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 113485,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> ductal adenoma.</p>\r\n",
+        "timestamp": "2023-09-26T10:20:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 113486,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T10:20:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 113487,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 581,
+        "headingText": "\r\n<p>SDA can involve both the major and minor salivary glands, with a predominance in the parotid {21054495; 28440555}.</p>\r\n",
+        "timestamp": "2023-09-26T10:20:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 113488,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 582,
+        "headingText": "\r\n<p>SDA presents as a painless mass {21054495; 28440555}.</p>\r\n",
+        "timestamp": "2023-09-26T10:20:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 113489,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 583,
+        "headingText": "\r\n<p>SDAs are rare tumours. Those described have been in adults (age range: 47&ndash;78&nbsp;years), with a slight female predominance {21054495; 28440555}.</p>\r\n",
+        "timestamp": "2023-09-26T10:20:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 113490,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-26T10:20:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 113491,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 585,
+        "headingText": "<p>In one study, <em>IDH2</em> p.R172 pathogenic variants were found in all tested cases {36510691}.</p>",
+        "timestamp": "2023-11-22T14:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 113492,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 592,
+        "headingText": "\r\n<p>SDAs present as solid masses with a yellow cut surface.</p>\r\n",
+        "timestamp": "2023-09-26T10:20:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 113493,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 586,
+        "headingText": "<p>SDAs are well circumscribed and encapsulated. They are composed of small, closely spaced ducts with minimal intervening stroma. Small cysts can also be seen. The tumour may be highly vascular, and some contain staghorn blood vessels. The ducts are lined by a single layer of columnar cells with eosinophilic cytoplasm, unlike intercalated duct lesions {19542868}. Occasionally, the luminal spaces may contain eosinophilic material reminiscent of colloid, as well as red blood cells. Some cases show hyalinization and may mimic oncocytoma with oncocytosis. Occasional cases will show striated duct hyperplasia of the background parotid. The duct calibre is comparable to that of normal striated ducts. Fat cells may be focally or diffusely present {9071732; 21054495}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>SDAs are strongly positive for keratins, including CK7 and CK5/6. Most tumours show strong nuclear and cytoplasmic staining for S100 (unlike oncocytoma). In contrast, calponin, SMA, SMMHC, and p63 highlight isolated abluminal cells only, which should not be interpreted as a true basal or myoepithelial layer. Markers of thyroid differentiation, such as thyroid transcription factor&nbsp;1 (TTF1) and thyroglobulin, are negative {21054495}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>SDAs do not show chondromyxoid stroma or any other matrix. They do not show morphologically visible bilayering {21054495}. They do not have the deeply eosinophilic cytoplasm characteristic of oncocytoma.</p>",
+        "timestamp": "2023-10-18T14:46:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 113494,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 587,
+        "headingText": "<p>Not reported</p>",
+        "timestamp": "2023-10-18T14:46:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 113495,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 588,
+        "headingText": "<p><em>IDH2</em> mutations may help to confirm the diagnosis in selected cases {36510691}.</p>",
+        "timestamp": "2023-11-22T14:17:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 113496,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em> closely spaced ducts with minimal intervening stroma lined by a single layer of eosinophilic luminal cells.</p>\r\n<p><em>Desirable:</em> absence of myoepithelial cells by immunohistochemistry&nbsp;(in selected cases).</p>",
+        "timestamp": "2023-10-18T14:46:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 113497,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2023-09-26T10:20:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 113498,
+        "bookId": 52,
+        "chapterId": 60,
+        "headingId": 590,
+        "headingText": "<p>SDAs do not recur, according to the limited case reports to date, and they do not metastasize {21054495; 28440555}.</p>",
+        "timestamp": "2023-10-18T14:46:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

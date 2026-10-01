@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 56247,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 159,
+        "headingText": "<p>Metastases are tumours arising at any site via the local or distant spread of carcinomas, neuroectodermal tumours (including melanoma), germ cell tumours, or sarcomas, discontinuous from the primary tumour.</p>\r\n<p>&ldquo;Carcinoma of unknown primary (CUP)&rdquo; is a clinical and operational term that does not denote a distinct pathological entity; rather, it refers to a histologically proven malignant epithelial neoplasm for which the primary site cannot be convincingly determined despite exhaustive diagnostic efforts. CUP is a working diagnosis used in multidisciplinary settings; the term should be used restrictively, to avoid inadequate diagnostics and patient exclusion from treatment options.</p>",
+        "timestamp": "2019-01-16T11:21:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 56248,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 160,
+        "headingText": "<p>8140/6 Adenocarcinoma, metastatic, NOS</p>\r\n<p>8010/6 Carcinoma, metastatic, NOS</p>",
+        "timestamp": "2021-11-22T17:45:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 56249,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 161,
+        "headingText": "<p >2E2Z Malignant neoplasm metastasis, unspecified</p>\r\n<p >2D8Y &amp; XH8UE4 Malignant neoplasm metastasis in other specified digestive system organs &amp; Adenocarcinoma, metastatic, NOS</p>\r\n<p >Malignant neoplasm metastasis in digestive system</p>\r\n<p >2D80.0 Malignant neoplasm metastasis in liver</p>\r\n<p >2D80.1 Malignant neoplasm metastasis in bile duct</p>\r\n<p >2D80.Y Other specified malignant neoplasm metastasis in liver or intrahepatic bile duct</p>\r\n<p >2D80.Z Malignant neoplasm metastasis in liver or intrahepatic bile duct, unspecified</p>\r\n<p >2D81 Malignant neoplasm metastasis in pancreas</p>\r\n<p >2D82 Malignant neoplasm metastasis in extrahepatic bile ducts</p>\r\n<p >2D83 Malignant neoplasm metastasis in ampulla of Vater</p>\r\n<p >2D84 Malignant neoplasm metastasis in small intestine</p>\r\n<p >2D85 Malignant neoplasm metastasis in large intestine</p>\r\n<p >2D86 Malignant neoplasm metastasis in anus</p>\r\n<p >2D8Y Malignant neoplasm metastasis in other specified digestive system organs</p>\r\n<p >2D8Z Unspecified malignant neoplasm metastasis in digestive system</p>",
+        "timestamp": "2019-01-08T16:58:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 56250,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 162,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-01-08T16:58:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 56251,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 163,
+        "headingText": "<p >See the sections on the respective primary malignancies.</p>",
+        "timestamp": "2019-01-08T16:58:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 56252,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 164,
+        "headingText": "<p>Metastatic tumours and CUP can involve any organ, but the liver is by far the most commonly involved organ site in the digestive tract {18517275}. In the liver and small intestine, metastatic tumours outnumber primary tumours; in other sites, metastases are far less common than primary tumours, and they typically occur late in disease as part of diffuse multiorgan involvement (see Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/224/1291\" target=\"_blank\">#1291</a>). Therefore, the frequency of metastatic involvement varies substantially between clinical and autopsy-related studies, with higher frequencies noted at autopsy {18517275; 7567944}. Metastatic disease in the GI tract can occur as a single tumour nodule, oligometastatic lesions (e.g. liver metastasis of colorectal cancer, renal cell carcinoma metastasis), or a multinodular or diffuse multiorgan manifestation, depending on the tumour type and the organs involved {18517275}.</p>\r\n<p>Haematolymphoid neoplasms may show diffuse organ involvement as part of primary systemic disease or discrete nodular involvement of organs, but the term &ldquo;metastasis&rdquo; is not used for these neoplasms.</p>",
+        "timestamp": "2019-08-23T14:00:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 56253,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 165,
+        "headingText": "<p>Metastatic disease is the leading cause of tumour-related death. The clinical signs depend on the type and location of the tumorous manifestations. The most common symptoms include various degrees of abdominal pain and gastrointestinal bleeding, followed by weight loss, dysphagia, malabsorption, bowel obstruction, and bowel perforation, as well as haematemesis/haematochezia and resulting anaemia. Some metastatic malignancies are associated with defined paraneoplastic symptoms.</p>\r\n<p>Clinical and diagnostic consequences largely depend on the therapeutic options. A single metastasis or single-organ involvement, in particular of the liver, may be treated by resection or other locoregional therapies (e.g. endoradiotherapy for hepatic metastases of colorectal cancer). Otherwise, systemic therapies such as chemotherapy and immunotherapy, as well as molecularly targeted therapies, may be appropriate, depending on the tumour type. Specific molecular pathology diagnostics are often necessary {18097131}.</p>\r\n<p>Liver metastasis plays a specific role in gastrointestinal metastasis because of its anatomical, diagnostic, clinical, and therapeutic peculiarities. The liver is the most common and clinically relevant site of gastrointestinal metastasis. It is the primary site of haematogenous metastasis from all organs drained by the portal venous system (most prominently the colon). Cases of liver metastasis outnumber primary liver carcinomas by a factor of 2.5&ndash;40 {17293303}, depending largely on the frequency of primary liver cancer in the population. They display the full spectrum of single-nodule, oligonodular, and diffuse metastasis. Intraorgan metastasis is a clinically relevant primary dissemination step for hepatocellular carcinoma (unlike for carcinomas of other organs). Depending on the extent of metastatic involvement and the type of underlying primary, liver metastasis may be treated locoregionally (i.e. by resection and endoradiotherapy; in particular for metastases of colorectal cancer) or systemically {17925551}. Liver metastases are typically amenable to biopsy and further diagnostics for management purposes (including targeted therapies).</p>\r\n<p>CUP accounts for 2&ndash;3% of all clinical cancer cases {11818207; 21968687}. There is no sex predilection. History of smoking is a risk factor. CUP typically presents with a short history and progressed metastatic disease, which may show an atypical pattern of distribution. Neuroendocrine and squamous cell carcinomas are managed differently than most cases of adenocarcinoma and undifferentiated CUP, which are usually managed with platinum-based combination chemotherapy {26314775}.</p>",
+        "timestamp": "2019-02-12T11:08:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 56254,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 166,
+        "headingText": "<p></p>\r\n<p>As diagnostic methods improve, most patients with CUP can eventually be successfully diagnosed, so incidence figures are unreliable. Metastases (of many tumour types) to the liver are common; the rest of the GI tract is less commonly affected, but the possibility of metastasis should always be considered.</p>",
+        "timestamp": "2019-01-16T11:32:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 56255,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 167,
+        "headingText": "<p></p>\r\n<p>See the sections on the respective primary tumours.</p>",
+        "timestamp": "2019-01-16T11:32:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 56256,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 168,
+        "headingText": "<p></p>\r\n<p>Depending on the type and localization of the primary tumour, metastatic spread to and within the GI tract follows the routes of lymphatics and venous blood flow or occurs along canalicular spaces (e.g. if the tumour infiltrates the peritoneal cavity). There are also entity-specific preferred metastatic conditions that cannot be readily explained by anatomical considerations. Lymphatic metastasis predominantly involves the locoregional lymph nodes (as reflected by the TNM classification), depending on the primary tumour localization. Skip metastases to distant lymph nodes in the absence of involvement of primary locoregional lymph node locations are rare. Lymphatic invasion, although not formally considered lymphatic metastasis, is a prerequisite and risk factor for lymph node metastasis. Lymphatic metastasis is usually not observed in sarcomas. Haematogenous metastasis commonly involves the venous system, following the flow of blood. Metastases from the gastrointestinal system preferentially occur in the liver because of drainage by the portal venous system. Several tumour entities are associated with unusual and more frequent than expected metastasis; for example, uveal melanomas frequently and preferentially spread to the liver, and cutaneous melanomas to the upper digestive tract.</p>\r\n<p>Among the reasons for the clinical existence of CUP are the following: a small primary tumour may evade detection (e.g. neuroendocrine tumour [NET] or neuroendocrine carcinoma [NEC]) or may have regressed (e.g. testicular tumours), or a primary tumour may be equivalent to or indistinguishable among multiple intraorgan metastases. A primary tumour developing from ectopic tissue or monotypic differentiation of germ cell tumours may be mistakenly diagnosed as a metastasis. Diagnostic error, such as the mistyping of metastatic lesions or the failure to recognize the malignancy of a previously resected tumour, may rarely lead to a CUP diagnosis.</p>",
+        "timestamp": "2019-03-06T14:32:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 56257,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 207,
+        "headingText": "<p>The size, number, location, and macroscopic appearance of metastatic lesions depend mainly on the type of tumour, the organ involved, the stage of disease, the type and extent of therapy administered, and the patient&rsquo;s condition (e.g. immune response).</p>",
+        "timestamp": "2019-01-16T11:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 56258,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 169,
+        "headingText": "<p >Most metastatic lesions are histologically similar to the primary tumour, but loss and even changes of differentiation may occur in metastasis, especially under therapeutic pressure and hypoxic conditions. Metastases of tumours with mixed differentiation may show only part of the primary tumour&rsquo;s differentiation spectrum.</p>\r\n<p >The vast majority (~80%) of CUPs are adenocarcinomas or undifferentiated carcinomas, about 2&ndash;4% are neuroendocrine neoplasms (NENs), and 5&ndash;8% are squamous cell carcinomas. Failure to identify the primary tumour on autopsy has been reported in about 25% of CUP cases. Immunohistology and molecular diagnostics (including methylomic, transcriptomic, and proteomic analyses) can help narrow down or confirm a more specific diagnosis in some cases {27575023; 27974237}. Molecular diagnostics may also help determine options for targeted and immuno-oncological treatments, depending on the available diagnostic technologies and drugs.</p>",
+        "timestamp": "2019-01-16T11:34:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 56259,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 170,
+        "headingText": "<p>Cytological evaluation follows the criteria for the respective primary tumours.</p>",
+        "timestamp": "2019-01-16T11:34:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 56260,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 171,
+        "headingText": "<p>Depending on the primary tumour type, metastatic disease in the GI tract may require molecular pathological analysis for various reasons. The typing of certain tumours, such as sarcomas and paediatric neoplasms, can critically depend on molecular analysis. If the link between a metastasis and one or more primary tumours is in question, molecular analysis may help to demonstrate a clonal relationship. Predictive molecular tumour analysis is a rapidly evolving field, with high relevance for metastatic lesions in the GI tract. The molecular markers to be analysed depend on the tumour type and the available therapeutic options. Entity-agnostic molecular testing (e.g. analysis of microsatellite instability, tumour mutation burden, and several translocations) is also evolving, in the context of various clinical trials and immuno-oncological therapies. Molecular pathological analysis can facilitate the detection of hereditary tumour syndromes, in particular in younger patients and in the setting of co-occurrence of different, especially uncommon tumour types.</p>",
+        "timestamp": "2019-03-06T14:33:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 56261,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 174,
+        "headingText": "<p>In many cases, routine and special histological staining is sufficient for typing a metastasis or confirming its relation to a known primary tumour. Pertinent immunohistochemistry studies guided by morphology and clinical information (and in some cases molecular pathology) are helpful for determining or delineating the primary tumour entity of a given metastasis. Diagnostic necessity and procedures are related to the clinical options being considered by the multidisciplinary team. If a positive therapeutic consequence is potentially achievable, the available spectrum of diagnostic technologies (including routine and special staining, immunohistology, and molecular pathology) should be applied in an interdisciplinary setting. CUP with neuroendocrine or squamous differentiation has a better prognosis and is treated differently, so it is important to identify any such cases.</p>",
+        "timestamp": "2019-01-16T11:35:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 56262,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 172,
+        "headingText": "<p>The TNM staging of metastatic disease in the GI tract follows the criteria established for the respective tumour entities. There is no specific staging system for CUP.</p>",
+        "timestamp": "2019-01-16T11:35:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 56263,
+        "bookId": 31,
+        "chapterId": 224,
+        "headingId": 173,
+        "headingText": "<p></p>\r\n<p></p>\r\n<p>Metastatic tumours usually indicate advanced tumour stage and therefore poor prognosis. Oligometastatic disease, resectability (e.g. of liver metastases of colorectal cancer), and the presence of specific molecular therapeutic target structures (depending on the tumour type) are positive prognostic and predictive factors. Microsatellite instability generally indicates better prognosis (even in metastatic disease) and favourable response to immuno-oncological treatment. The presence of microsatellite instability in metastatic lesions varies widely among tumour entities, ranging from virtual absence (e.g. in hepatocellular carcinoma) to substantial proportions (e.g. in colorectal cancer).</p>\r\n<p>Prognosis depends on the extent of metastatic involvement of the liver and other sites, the patient&rsquo;s general health condition, the treatment options available, and the response to therapy. A lower frequency of hepatic metastasis has been reported in the setting of cirrhosis, but it is unclear whether this is attributable to a higher frequency of primary liver tumours, increased mortality due to cirrhosis, surveillance bias, a protective effect of cirrhosis itself, or altered intrahepatic and portal venous blood flow {25378650}. Experimental evidence of metastasis promotion by steatohepatitis has been reported.</p>\r\n<p>CUP has a poor prognosis, with reported median survival times of 6&ndash;9&nbsp;months; mean survival times of 1&ndash;2 years, attributable to therapeutic progress, have been reported in selected cohorts. Prognostic factors include the Eastern Cooperative Oncology Group (ECOG) score, extent of organ involvement, amenability to locoregional treatment, and type of CUP. Neuroendocrine and squamous CUPs have a better prognosis than other types.</p>",
+        "timestamp": "2019-01-16T11:35:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

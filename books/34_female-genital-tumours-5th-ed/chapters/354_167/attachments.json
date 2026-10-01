@@ -1,0 +1,62 @@
+[
+  {
+    "pkattachmentId": 36189,
+    "bookid": 34,
+    "chapterId": 167,
+    "fileId": 13124,
+    "type": "Figure",
+    "diagnosis": "Gliomatosis",
+    "title": "",
+    "legend": "Nodules of mature glial tissue embedded in peritoneal fibrous stroma.",
+    "source": "Patricia M. Baker",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/34/167/13124.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/34/167/thumb_13124.jpg"
+  },
+  {
+    "pkattachmentId": 36643,
+    "bookid": 34,
+    "chapterId": 167,
+    "fileId": 10253,
+    "type": "WSI",
+    "diagnosis": "Gliomatosis peritonei",
+    "title": "",
+    "legend": "Nodules of mature glial tissue embedded in peritoneal fibrous tissue",
+    "source": "source error",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/10253.dzi",
+    "thumbnail": null
+  },
+  {
+    "pkattachmentId": 36644,
+    "bookid": 34,
+    "chapterId": 167,
+    "fileId": 10254,
+    "type": "WSI",
+    "diagnosis": "Gliomatosis peritonei",
+    "title": "",
+    "legend": "Nodules of mature glial tissue embedded in peritoneal fibrous tissue",
+    "source": "Patricia M. Baker",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/10254.dzi",
+    "thumbnail": null
+  },
+  {
+    "pkattachmentId": 36645,
+    "bookid": 34,
+    "chapterId": 167,
+    "fileId": 10255,
+    "type": "WSI",
+    "diagnosis": "Gliomatosi peritonei",
+    "title": "",
+    "legend": "Nodules of mature glial tissue embedded in peritoneal fibrous tissue",
+    "source": "source error",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/10255.dzi",
+    "thumbnail": null
+  }
+]

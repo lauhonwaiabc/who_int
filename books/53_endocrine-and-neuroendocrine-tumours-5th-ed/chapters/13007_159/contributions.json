@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123996,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 607,
+        "headingText": "\r\n<p>Succinate dehydrogenase (SDH)-deficient tumour syndromes are a group of syndromes characterized by SDH-deficient neoplasia, usually associated with pathogenic germline sequence variants in one of the SDH genes encoding the subunits of the protein SDH (<em>SDHA</em>, <em>SDHB</em>, <em>SDHC</em>, <em>SDHD</em>, <em>SDHAF2</em>) or with epimutation (promoter hypermethylation) of <em>SDHC</em>.</p>\r\n",
+        "timestamp": "2024-10-09T16:05:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123997,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 608,
+        "headingText": "<h6><em>MIM numbering</em></h6>\r\n<p>600857 SDHA</p>\r\n<p>185470 SDHB</p>\r\n<p>602413 SDHC</p>\r\n<p>602690 SDHD</p>\r\n<p>613019 SDHAF2</p>\r\n<p>604287 Carney triad</p>",
+        "timestamp": "2024-10-09T16:05:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123998,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 609,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T16:05:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123999,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> paraganglioma syndrome types 1&ndash;5 (PGL1&ndash;5); familial paraganglioma phaeochromocytoma syndrome types&nbsp;1&ndash;5; Carney triad (restricted to syndromic but non-hereditary disease).</p>\r\n<p><em>Not recommended:</em> Carney&ndash;Stratakis dyad/syndrome.</p>\r\n",
+        "timestamp": "2024-10-09T16:05:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 124000,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 611,
+        "headingText": "\r\n<p>PGL1 (germline <em>SDHD</em> mutation); PGL2 (germline <em>SDHAF2</em> mutation); PGL3 (germline <em>SDHC</em> mutation); PGL4 (germline <em>SDHB</em> mutation); PGL5 (germline <em>SDHA</em> mutation); Carney triad (restricted to syndromic but non-hereditary disease in which no germline SDH mutation has been identified)</p>\r\n",
+        "timestamp": "2024-10-09T16:05:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 124001,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 612,
+        "headingText": "<p>Paragangliomas and/or phaeochromocytomas are the most common manifestations, followed by SDH-deficient gastrointestinal stromal tumour (GIST) and SDH-deficient renal carcinomas. Pituitary neuroendocrine tumours (PitNETs)/adenomas, and pulmonary chondromas are recognized associations but are less common. There are strong but inconsistent genotype&ndash;phenotype correlations in that different genes are more commonly associated with certain tumour combinations and locations. However, there is overlap between all of the SDH-deficient tumour syndromes. SDH gene mutations are more commonly associated with extra-adrenal paragangliomas than adrenal phaeochromocytomas. The extra-adrenal tumours can be located in the head and neck, thorax, or abdomen and are associated with <em>SDHB</em>, <em>SDHD</em>, or <em>SDHC</em> mutation, as outlined in <a style=\"cursor:pointer\" href=\"/attachment/53/159/24157\" target=\"_blank\">#24157</a>Table&nbsp;13.04 . <em>SDHB</em> mutations are most frequently identified in patients with intra-abdominal extra-adrenal paragangliomas and/or with metastatic paraganglioma, whereas mutations in <em>SDHD</em> are more common in patients with head and neck paragangliomas {29239034}. SDH-deficient GISTs are most strongly associated with <em>SDHC</em> epimutation or <em>SDHA</em> mutation {29239034}. With the exception of a single case report, all well-characterized SDH-deficient GISTs reported to date have arisen in the stomach {20305538; 21997692; 28324028}. As their names indicate, renal cell carcinomas arise in the kidneys, PitNETs&nbsp;/ pituitary adenomas in the sella turcica (with the exception of ectopic manifestations), and pulmonary chondromas in the lungs. SDH-deficient renal carcinomas usually harbour <em>SDHB</em> or <em>SDHC</em> mutation (less commonly, <em>SDHA</em>; and very rarely, if at all, <em>SDHD</em>) {33664427}. Pulmonary chondromas are commonly associated with <em>SDHC</em> epimutation (Carney triad) but are very rare in other SDH-deficient syndromes.</p>",
+        "timestamp": "2024-10-18T14:53:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 124002,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 613,
+        "headingText": "<p>Clinical features vary according to both genotype and tumour location {22544211; 29239034; 24625421; 20305538; 31789631; 32251007}. In general, abdominal paragangliomas are more commonly associated with the production of norepinephrine (noradrenaline). Although they may be biochemically silent {18840642; 31194241}, they are likely to give rise to the classic clinical symptoms. Head and neck paragangliomas usually present as mass lesions that are biochemically silent, although they frequently produce dopamine and, in a small minority of cases, norepinephrine (noradrenaline). Although tumours other than SDH-deficient phaeochromocytoma/paraganglioma, GIST, renal carcinoma, pulmonary chondroma, and PitNET&nbsp;/ pituitary adenoma have been reported in SDH mutation carriers, it is likely that these are incidental findings in closely monitored populations {29239034}. A family history of disease is commonly absent, and <em>SDHD</em> and <em>SDHAF2</em> usually behave as if they were maternally imprinted genes so that symptomatic disease is almost always only inherited from a paternal carrier {21862453; 21937622; 25300370; 27856506}.</p>",
+        "timestamp": "2024-10-09T18:02:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 124003,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 614,
+        "headingText": "\r\n<p>At least 40% of paragangliomas and phaeochromocytomas in adults are hereditary {29239044}, and close to half of all genetically determined cases are associated with one of the SDH deficiency syndromes&nbsp;&ndash; more if paraganglioma or phaeochromocytoma is diagnosed during childhood {22544211; 29239034; 21969497; 32432211; 33682326}. SDH-deficient GISTs account for 3% of all GISTs in an unselected adult population, but they account for the great majority of GISTs diagnosed in children {20305538; 21997692}. SDH-deficient renal carcinoma accounts for less than 0.05&ndash;0.2% of all renal carcinomas {25025441} but is overrepresented in young adults (median age: 35&nbsp;years, range: 14&ndash;76&nbsp;years) {25025441; 25034258}. SDH-deficient PitNETs&nbsp;/ pituitary adenomas are rare (&lt;&nbsp;0.3% of unselected tumours) {24625421}. Pulmonary chondromas are typically found in young women and are very rare outside the setting of Carney triad {18043038; 31236950; 19723753}.</p>\r\n",
+        "timestamp": "2024-10-09T16:05:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 124004,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 615,
+        "headingText": "\r\n<p>Contrasting with many other hereditary syndromes, biallelic somatic mutations of the SDH genes in tumours, although described, are very unusual in the absence of germline mutation, or (less commonly) postzygotic epimutation or mosaicism, of one of the SDH genes {29239034}.</p>\r\n<p>The term &ldquo;Carney triad&rdquo; is now restricted to syndromic but non-hereditary disease where no germline SDH mutation has been identified by clinically deployed testing methodologies. Carney triad is most commonly associated with postzygotic <em>SDHC</em> promoter hypermethylation (epimutation), but it may also be explained by other pathogenic genetic events not detected by some testing methodologies&nbsp;&ndash; for example, constitutional mosaicism not detected in DNA extracted from blood samples subjected to Sanger sequencing but potentially identifiable by massively parallel sequencing with many reads, or by deep intronic genetic variants not identified in some panels. It should be noted that Carney triad is unrelated to Carney complex, which is a different inherited neoplasia syndrome (discussed in <a style=\"cursor:pointer\" href=\"/chaptercontent/53/161\" target=\"_blank\">section </a><em>Carney complex</em>) caused by germline variants in <em>PRKAR1A</em> {27875378; 33444222}.</p>\r\n",
+        "timestamp": "2024-10-09T16:05:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 124005,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 616,
+        "headingText": "\r\n<p>Mitochondrial complex&nbsp;II, also known as the SDH complex, is a key mitochondrial enzyme that links the Krebs cycle and the electron transport chain {22544211; 29239034}. It is encoded by four nuclear autosomal genes but assembled at the inner mitochondrial membrane. It is composed of four protein subunits: <em>SDHC</em> and <em>SDHD</em> (the anchoring components) and <em>SDHA</em> and <em>SDHB</em> (the catalytic components). Additionally, <em>SDHAF2</em> is required for the flavination of the SDHA protein. If any component of the SDH complex is lost or dysfunctional, the entire SDH complex becomes unstable, and the SDHB subunit is released into the cytoplasm, where it rapidly degrades, accounting for the loss of expression of SDHB protein {19576851; 22544211; 29239034}. Dysfunction of this key enzyme causes the accumulation of succinate, which acts as an oncometabolite, behaving as a competitor of 2-oxoglutarate&ndash;dependent dioxygenases involved in a broad spectrum of tumorigenic pathways, including hypoxic regulation and epigenetic reprogramming {15987702; 32234487}.</p>\r\n",
+        "timestamp": "2024-10-09T16:05:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 124006,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 623,
+        "headingText": "\r\n<p>Although multifocality is an important clue, the phaeochromocytomas, paragangliomas, PitNETs&nbsp;/ pituitary adenomas, and renal cell carcinomas associated with SDH mutation grossly resemble their sporadic counterparts. SDH-deficient GISTs are commonly multilobulated or plexiform and more frequently show lymph node metastases {20305538; 21997692; 21753704}.</p>\r\n",
+        "timestamp": "2024-10-09T16:05:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 124007,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 617,
+        "headingText": "<p>Loss of expression of SDHB (termed SDH deficiency) occurs whenever there is biallelic inactivation of any component of the SDH complex (i.e. <em>SDHA</em>, <em>SDHB</em>, <em>SDHC</em>, <em>SDHD</em>, or <em>SDHAF2</em>) {22544211; 29239034; 24625421; 20305538; 31789631; 32251007}. Somatic-only mutations of both alleles of the SDH genes do occur but are extremely rare {17634472}; therefore, SDH deficiency is clear evidence of an SDH-deficient tumour syndrome. Tumours with biallelic inactivation of <em>SDHA</em> show SDHA loss in addition to SDHB loss, whereas tumours associated with <em>SDHB</em>, <em>SDHC</em>, or <em>SDHD</em> mutation demonstrate preserved expression of SDHA {21752896; 23060355}. SDHB and SDHA immunohistochemistry may be difficult to interpret in some cases, and a tumour should only be considered deficient if there is preserved expression in non-neoplastic cells, which act as internal controls. SDHB immunohistochemistry can be particularly valuable in assessing whether a particular tumour found in a patient with a germline SDH mutation is actually caused by tumoural loss of SDH {30273935}, and whether a variant of unknown significance identified by genetic testing is pathogenic. Normal SDHA/SDHB immunostaining is granular and cytoplasmic (mitochondrial). In some SDH-deficient tumours, particularly <em>SDHD</em>-related tumours, interpretation may be particularly challenging, because a cytoplasmic blush is often retained. In this setting, weak diffuse expression in neoplastic cells which contrasts with the strong, distinctly granular expression in internal positive controls is a useful clue to the diagnosis of SDH deficiency {19576851; 29239034}. Some phaeochromocytomas not associated with SDH mutation but arising in the setting of von Hippel&ndash;Lindau syndrome may show very weak expression of SDHB, which can be mistaken for SDH deficiency {29239034}. Other markers of SDH deficiency may be useful when SDHB is difficult to interpret. For example, &alpha;-inhibin and CAIX are more commonly expressed in SDH-related and <em>VHL</em>-related (pseudohypoxic pathway&ndash;related cluster&nbsp;1 disease) phaeochromocytomas and paragangliomas, respectively, than in other tumours, but these markers lack sensitivity and specificity {23257898; 31383958; 33826547}.</p>\r\n<p>Some SDH-deficient paragangliomas are characterized by well-formed, almost circular, nests of epithelioid cells, sometimes with focally clear or vacuolated cytoplasm {31789631}. However, this morphology is inconsistent and does not replace SDHB immunohistochemistry, which is recommended in all phaeochromocytomas and paragangliomas.</p>\r\n<p>There are several morphological, clinical, and molecular clues to the identification of SDH-deficient GISTs. These include gastric location, multifocality, a plexiform or multinodular growth pattern, epithelioid cell&ndash;type predominance (sometimes with a vaguely nested architecture), and relatively frequent lymph node metastasis (summarized in <a style=\"cursor:pointer\" href=\"/attachment/53/159/24158\" target=\"_blank\">#24158</a>Table&nbsp;13.05) {20305538; 21753704; 29239034}. Although SDH-deficient GISTs are not associated with <em>KIT</em> or <em>PDGFRA</em> mutation, they virtually always show diffuse strong immunohistochemical expression of both KIT and DOG1 {20305538; 21753704; 29239034}. This can be useful in the differential diagnosis with <em>PDGFRA</em>-mutant GISTs, which may resemble SDH-deficient GISTs because of their frequent gastric location and epithelioid cell predominance, but which commonly show patchy or absent KIT (c-KIT) expression. These morphological and immunohistochemical features can be subtle, and a low threshold for SDHB and SDHA immunohistochemistry is recommended for any gastric GIST {20305538; 21997692; 21753704}.</p>\r\n<p>SDH-deficient renal carcinomas are now recognized as a distinct entity {21934479; 25034258; 25025441; 33664427}. They usually show distinctive morphological features at least focally, being composed of sheets or compact nests of bland cells with eosinophilic cytoplasm. The eosinophilic cytoplasm lacks the fine homogeneous granularity of oncocytoma and may have a flocculent quality. Microcystic change is common {21934479; 25025441; 25034258}. A characteristic but inconstant feature of SDH-deficient renal carcinoma is the presence of cytoplasmic inclusions containing eosinophilic or bubbly pale material {21934479; 25034258; 25025441; 33664427}. Higher-grade transformation may occur in SDH-deficient renal carcinomas and is heralded by denser cytoplasm, increased nuclear atypia with prominent nucleoli, coagulative necrosis, and (occasionally) sarcomatoid changes. Other morphologies, including the presence of papillary architecture, are more frequently encountered in <em>SDHA</em>-related renal carcinomas {33664427}. Non&ndash;SDH-related kidney tumours with very clear cytoplasm, such as clear cell renal cell carcinomas, may show markedly decreased expression of SDHB, a reflection of their cleared cytoplasm with few mitochondria, which should not be mistaken for SDH deficiency {29180251; 33526874; 33664427}. In these cases, morphological correlation is key.</p>\r\n<p>Experience with SDH-deficient PitNETs&nbsp;/ pituitary adenomas is limited. According to some reports they may be larger at diagnosis and more frequently prolactin-producing {25695889; 24625421; 24096523; 23633203; 29239034}. However, suggestions of other morphological clues have not been confirmed {25695889; 24625421; 24096523; 23633203; 29239034}.</p>\r\n<p>SDH-deficient pulmonary chondromas lack atypia and frequently show calcification. In contrast to pulmonary hamartomas, they usually demonstrate a smooth contour, do not show entrapped respiratory epithelium between the lobules of cartilage, and do not contain other mesenchymal elements such as fat, smooth muscle, or myxoid spindle cells. Although SDHB immunohistochemistry may assist in the diagnosis of syndromic chondromas, it is less reliable in this setting {31236950; 29239034}.</p>",
+        "timestamp": "2024-10-18T14:54:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 124008,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 618,
+        "headingText": "<p>The cytopathological features of paragangliomas, phaeochromocytomas, SDH-deficient GISTs, and renal cell carcinomas resemble those of related tumours described elsewhere in this volume and in the other fifth-edition volumes of the WHO Classification of Tumours series.</p>",
+        "timestamp": "2024-12-05T11:44:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 124009,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 619,
+        "headingText": "\r\n<p>Because biallelic somatic-only mutations are rare, the diagnosis of any SDH-deficient neoplasm is considered an indication for genetic counselling/testing {32412940}. Close collaboration between geneticists and pathologists is important because various analyses based on tumoural tissues can strongly contribute to genetic diagnosis {30877234; 28070496; 27857127}. Immunohistochemistry for SDHB and SDHA can be very useful for assessing the pathogenicity of genetic variants of uncertain significance in the SDH genes {25720320}. Germline pathogenic variants in <em>SDHA</em> appear to be relatively common (estimated to occur in up to 0.3% of the Dutch population) {21752896} but demonstrate a low lifetime penetrance (estimated as 1.7%) {30201732}. Therefore, the clinical significance of <em>SDHA</em> mutation, particularly if identified by large panel sequencing in the absence of SDH-deficient neoplasia, should be carefully considered and interpreted in the clinical context {21752896; 23060355}. Given the low penetrance, recommendations for surveillance and cascade testing of family members in the setting of <em>SDHA</em> mutation vary {29978154}.</p>\r\n<p>The term &ldquo;Carney triad&rdquo; is appropriate when no germline SDH mutation is identified in an individual with syndromic, but not hereditary, disease. Given that somatic biallelic mutation in the SDH genes is rare, it is reasonable to assign a presumptive diagnosis of Carney triad to any patient with an SDH-deficient neoplasm and no proven germline SDH mutation, unless biallelic somatic-only mutation has been demonstrated. Current evidence suggests that Carney triad is usually associated with postzygotic mosaic epimutation (promoter hypermethylation) of <em>SDHC</em> {24859990; 25540324; 33624983}, which can only be identified by specific DNA methylation assays that are not widely available. However, it should be noted that mosaicism for constitutional SDH mutations also occurs and might not be detected by sequencing when the variant allelic ratio is low {31046099}. Some patients previously given the clinical diagnosis of Carney triad on the basis of syndromic SDH-deficient neoplasia in the absence of identifiable mutation may carry deep intronic pathogenic sequence variants that were previously unrecognized {33195952}.</p>\r\n",
+        "timestamp": "2024-10-09T16:05:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 124010,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> confirmed pathogenic or likely pathogenic sequence variant in one of the SDH genes or <em>SDHC</em> epimutation <em>or</em> the presence of more than one confirmed SDH-deficient neoplasm in an individual or family.</p>\r\n<p><em>Desirable:</em> identification of even a single SDH-deficient neoplasm is presumptive evidence of syndromic disease unless somatic-only biallelic mutation can be proved.</p>\r\n",
+        "timestamp": "2024-10-09T16:05:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 124011,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 620,
+        "headingText": "\r\n<p>The individual tumours are staged according to the relevant Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) staging schemes.</p>\r\n",
+        "timestamp": "2024-10-09T16:05:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 124012,
+        "bookId": 53,
+        "chapterId": 159,
+        "headingId": 621,
+        "headingText": "\r\n<p>In view of the strongly syndromic nature of SDH-deficient neoplasia, surveillance and follow-up for other SDH-deficient neoplasms is indicated even in cases where no germline sequence variant has been identified {34021277}.</p>",
+        "timestamp": "2024-10-09T16:05:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

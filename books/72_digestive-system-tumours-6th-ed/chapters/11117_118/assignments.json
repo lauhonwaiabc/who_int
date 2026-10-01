@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 185,
+    "bookId": "72",
+    "roleid": 266,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2090,
+        "lastname": "Hruban",
+        "firstname": "Ralph H",
+        "initials": "RH",
+        "email": "",
+        "roleid": 266,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 186,
+    "bookId": "72",
+    "roleid": 279,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 5497,
+        "lastname": "Kojima",
+        "firstname": "Motohiro",
+        "initials": "M",
+        "email": "",
+        "roleid": 279,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "pkroleId": 187,
+    "bookId": "72",
+    "roleid": 280,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 5565,
+        "lastname": "Fukumura",
+        "firstname": "Yuki",
+        "initials": "Y",
+        "email": "",
+        "roleid": 280,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 188,
+    "bookId": "72",
+    "roleid": 281,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2021,
+        "lastname": "Klimstra",
+        "firstname": "David S.",
+        "initials": "DS",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 2076,
+        "lastname": "Basturk",
+        "firstname": "Olca",
+        "initials": "O",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 2088,
+        "lastname": "Fukushima",
+        "firstname": "Noriyoshi",
+        "initials": "N",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      }
+    ]
+  }
+]

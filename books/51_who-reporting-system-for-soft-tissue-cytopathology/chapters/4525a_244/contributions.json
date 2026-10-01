@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 918,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 694,
+    "contributions": [
+      {
+        "pkcontributionId": 135196,
+        "bookId": 51,
+        "chapterId": 244,
+        "headingId": 694,
+        "headingText": "\r\n<p>Lipoblastoma is a benign neoplasm of embryonal white fat, which may be a localized or diffuse tumour, with a tendency for local recurrence if incompletely excised.</p>\r\n",
+        "timestamp": "2025-10-14T11:03:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 919,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 695,
+    "contributions": [
+      {
+        "pkcontributionId": 135197,
+        "bookId": 51,
+        "chapterId": 244,
+        "headingId": 695,
+        "headingText": "\r\n<p>More than 90% of lipoblastomas occur in children aged &lt;&nbsp;5&nbsp;years {4353020; 19738456}. Tumours vary from superficial and circumscribed to deep and infiltrative, and they most often arise in the trunk and extremities. Ultrasonography of superficial lipoblastoma reveals a septate, hyperechoic mass. On T1-weighted images, MRI demonstrates a lobular, septate mass comprising fat similar to or lower than mature fat in intensity, as well as non-adipose soft tissue elements, with or without compartmental invasion {10398794; 16775739; 33151344}.</p>\r\n",
+        "timestamp": "2025-10-14T11:03:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 920,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 696,
+    "contributions": [
+      {
+        "pkcontributionId": 135198,
+        "bookId": 51,
+        "chapterId": 244,
+        "headingId": 696,
+        "headingText": "\r\n<p>Lipoblastoma is made up of adipocytes arrayed in lobules, separated by fibrovascular septa, and myxoid areas with primitive mesenchymal cells and plexiform vasculature {4353020; 9331284; 11577778; 19738456}. The neoplastic cells span a continuum from primitive stellate or spindle cells, to multivacuolated or signet-ring lipoblasts, to mature adipocytes {4353020; 9331284; 11577778; 19738456}.</p>\r\n",
+        "timestamp": "2025-10-14T11:03:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 921,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 697,
+    "contributions": [
+      {
+        "pkcontributionId": 135199,
+        "bookId": 51,
+        "chapterId": 244,
+        "headingId": 697,
+        "headingText": "\r\n\r\nHypocellular to moderate cellularity\r\nFragments of fat with delicate branching vessels\r\nVariable proportions of mature adipocytes admixed with multivacuolated and signet-ring lipoblasts\r\nVariably prominent myxoid matrix with spindle cells and naked oval nuclei\r\nSpindle cells with moderate, pale, basophilic cytoplasm and monomorphic ovoid nuclei with fine chromatin and distinct nucleoli\r\nAbsent or minimal atypia among spindle cells\r\nNo mitoses or necrosis\r\n\r\n<p><em>Reference(s):</em> {16078242; 28902468; 30848523}</p>\r\n",
+        "timestamp": "2025-10-14T11:03:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 922,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 698,
+    "contributions": [
+      {
+        "pkcontributionId": 135200,
+        "bookId": 51,
+        "chapterId": 244,
+        "headingId": 698,
+        "headingText": "\r\n<p>Mature lipoblastoma can mimic lipoma, but the myxoid matrix, spindle cells, and delicate vessels are clues to the correct diagnosis {16078242; 28902468; 30848523}. Predominantly myxoid lipoblastoma can be confused with myxoid liposarcoma, although that entity is exceedingly rare in the first decade of life. In contrast to myxoid liposarcoma, lipoblastoma lacks primitive small round cells, nuclear atypia, mitoses, and necrosis {16078242; 28902468; 30848523}. The new entity &ldquo;lipoblastoma-like tumour&rdquo; has been added in the forthcoming sixth-edition WHO classification of soft tissue and bone tumours, and its FNAB cytopathology awaits further studies.</p>\r\n",
+        "timestamp": "2025-10-14T11:03:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 923,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 699,
+    "contributions": [
+      {
+        "pkcontributionId": 135201,
+        "bookId": 51,
+        "chapterId": 244,
+        "headingId": 699,
+        "headingText": "\r\n<p>Approximately 70% of lipoblastomas harbour <em>PLAG1</em> gene rearrangements detectable by FISH or other molecular methods {10987300; 11549588; 26319758}. Tumours show nuclear staining of spindle and some fat cells for PLAG1 {22192798}, as well as cytoplasmic staining of spindle cells for desmin {23865573}. These features help to distinguish lipoblastoma from lipoma and myxoid liposarcoma.</p>",
+        "timestamp": "2025-10-14T11:03:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

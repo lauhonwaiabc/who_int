@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 518,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 497,
+    "contributions": [
+      {
+        "pkcontributionId": 73424,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 497,
+        "headingText": "<p>Pituitary blastoma is an embryonal neoplasm of the sellar region, composed of primitive blastemal cells, neuroendocrine cells, and Rathke pouch epithelium.</p>",
+        "timestamp": "2021-10-27T12:23:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 519,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 498,
+    "contributions": [
+      {
+        "pkcontributionId": 73425,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 498,
+        "headingText": "\r\n<p>8273/3 Pituitary blastoma</p>\r\n",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 520,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 499,
+    "contributions": [
+      {
+        "pkcontributionId": 73426,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 499,
+        "headingText": "\r\n<p>2D12.Y &amp; XH5QV8 Other specified malignant neoplasms of other endocrine glands or related structures &amp; Pituitary blastoma</p>\r\n",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 521,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 500,
+    "contributions": [
+      {
+        "pkcontributionId": 73427,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 500,
+        "headingText": "\r\n<p><em>Not recommended:</em> pituitary embryoma.</p>\r\n",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 522,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 501,
+    "contributions": [
+      {
+        "pkcontributionId": 73428,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 501,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 523,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 502,
+    "contributions": [
+      {
+        "pkcontributionId": 73429,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 502,
+        "headingText": "<p>Pituitary blastoma originates within the sellar region and frequently extends into the suprasellar region and invades the cavernous sinus {21805093}.</p>",
+        "timestamp": "2021-10-27T12:23:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 524,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 503,
+    "contributions": [
+      {
+        "pkcontributionId": 73430,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 503,
+        "headingText": "<p>Cushing syndrome is one of the most common presenting symptoms; the elevated and non-suppressible serum ACTH level is due to its overexpression by tumour cells {24839956; 21805093}. Other hormones may also be overexpressed {32339726}. Ophthalmoplegia frequently occurs due to extension of the tumour in the suprasellar and parasellar region {21805093}.</p>",
+        "timestamp": "2021-10-27T12:23:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 525,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 504,
+    "contributions": [
+      {
+        "pkcontributionId": 73431,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 504,
+        "headingText": "<p>Pituitary blastoma is an exceptionally rare tumour, with fewer than 20&nbsp;published cases. It usually occurs in children aged &lt;&nbsp;2&nbsp;years, with a median age of 9&nbsp;months and a slight female predominance {24839956; 21805093}. Patients may present with or subsequently develop other <em>DICER1</em>-related tumours {24839956}.</p>",
+        "timestamp": "2021-10-06T12:05:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 526,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 505,
+    "contributions": [
+      {
+        "pkcontributionId": 73432,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 505,
+        "headingText": "\r\n<p>Pituitary blastoma is linked to underlying germline and somatic variation in <em>DICER1</em>, a critical gene in microRNA processing {24839956}.</p>\r\n",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 527,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 506,
+    "contributions": [
+      {
+        "pkcontributionId": 73433,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 506,
+        "headingText": "\r\n<p>Pituitary blastoma appears to arise because of a genetic alteration in <em>DICER1</em>, which encodes an enzyme involved in microRNA processing; mature microRNAs in turn regulate the translation of mRNA. Virtually all tumours (15&nbsp;of 15&nbsp;tested cases) harbour at least one <em>DICER1</em> alteration, typically a germline loss-of-function pathogenic variant coupled with a somatic RNase&nbsp;IIIb hotspot missense mutation {24823459; 24839956}. In a minority of cases, the second somatic alteration may be loss of the wildtype allele {24839956}.</p>\r\n",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 534,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 513,
+    "contributions": [
+      {
+        "pkcontributionId": 73434,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 513,
+        "headingText": "\r\n<p>Descriptions of the macroscopic details of pituitary blastomas are limited. Focal cystic or haemorrhagic changes and partial necrosis can be seen {18551299}.</p>\r\n",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 528,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 507,
+    "contributions": [
+      {
+        "pkcontributionId": 73435,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 507,
+        "headingText": "\r\n<p>Pituitary blastomas are composed of three cellular components: (1) large, anterior pituitary neuroendocrine cells arranged in lobules or diffuse sheets; (2) cuboidal or columnar primitive Rathke pouch epithelium with rosette or gland/follicle formation; and (3) small undifferentiated blastemal cells {18551299; 21805093; 24839956}.</p>\r\n<p>Ultrastructurally, pituitary blastomas resemble fetal pituitary gland of 10&ndash;12 weeks, but they are distinguished by (1)&nbsp;a marked complex cellular proliferation of mature TPIT-lineage corticotroph cells (some with Crooke hyaline change), (2)&nbsp;PIT1-lineage somatotrophs with a background of anterior pituitary cells with small secretory granules that simulate null cells, and (3)&nbsp;other elements including undifferentiated Rathke pouch epithelial cells and folliculostellate cells {18551299; 21805093}.</p>\r\n<p>Neuroendocrine cells variably express pro-opiomelanocortin derivatives including ACTH, &beta;-endorphin, and MSH, and to a lesser extent growth hormone {18551299}. Rare LH-&beta; {18551299} and/or FSH-&beta; {18551299; 24823459} staining has also been reported. Unlike neuroendocrine cells, blastemal and Rathke pouch cells rarely show pituitary transcription factor expression {21805093}. EMA and keratins are expressed in various components, with stronger staining in the Rathke pouch epithelium {18551299}. Galectin-3 variably stains cellular components {18551299}. Proliferative heterogeneity varies between cases and between tumour components {18551299; 21805093}. A high Ki-67 labelling index (up to 60%) and p53 expression are more frequent in the Rathke pouch epithelium {18551299; 21805093; 24839956}. Necrosis can occur {21805093}.</p>\r\n<p>The differential diagnosis includes sellar teratoma, germ cell tumours, and pituitary adenomas&nbsp;/ pituitary neuroendocrine tumours (PitNETs) with synchronous Rathke cleft cyst {28102527; 31802354}.</p>\r\n",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 529,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 508,
+    "contributions": [
+      {
+        "pkcontributionId": 73436,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 508,
+        "headingText": "\r\n<p>Details of intraoperative cytological preparations have not been described.</p>\r\n",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 530,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 509,
+    "contributions": [
+      {
+        "pkcontributionId": 73437,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 509,
+        "headingText": "\r\n<p><em>DICER1</em> variants may be considered a diagnostic molecular marker of pituitary blastoma. Germline and tumour sequencing should be performed.</p>\r\n",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 533,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 512,
+    "contributions": [
+      {
+        "pkcontributionId": 73438,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 512,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/45/246/18967\" target=\"_blank\">#18967</a>Box&nbsp;12.05 .</p>\r\n",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 531,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 510,
+    "contributions": [
+      {
+        "pkcontributionId": 73439,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 510,
+        "headingText": "\r\n<p>Staging should include brain and spine MRI with and without contrast, endocrine evaluation (including ACTH level), and ophthalmological evaluation. The role of cerebrospinal fluid cytology is uncertain, and its use in individual situations may depend on the safety of lumbar puncture in the clinical setting.</p>\r\n",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 532,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 511,
+    "contributions": [
+      {
+        "pkcontributionId": 73440,
+        "bookId": 45,
+        "chapterId": 246,
+        "headingId": 511,
+        "headingText": "\r\n<p>Because of the rarity of this tumour, prognostic factors are not yet fully understood. In the largest series of 13&nbsp;patients with pituitary blastoma, 5&nbsp;children (38%) died: 4&nbsp;from early or late treatment-related complications and 1&nbsp;from progression {24839956}.</p>",
+        "timestamp": "2021-10-04T14:22:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

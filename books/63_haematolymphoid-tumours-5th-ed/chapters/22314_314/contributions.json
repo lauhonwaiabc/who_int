@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 118399,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Myelodysplastic neoplasm (MDS) with low blasts (MDS-LB) is a myeloid neoplasm with cytopenia and dysplasia but without defining genetic abnormalities, defined by the presence of &lt;&nbsp;5% bone marrow blasts and &lt;&nbsp;2% peripheral blood blasts.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 118400,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 702,
+        "headingText": "<p>9985/3 Myelodysplastic neoplasm with low blasts</p>\r\n<p>9980/3 Myelodysplastic neoplasm with low blasts and single-lineage dysplasia</p>\r\n<p>9985/3 Myelodysplastic neoplasm with low blasts and multilineage dysplasia</p>\r\n&nbsp;",
+        "timestamp": "2024-03-18T16:34:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 118401,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A3Y &amp; XH2N45 Other specified myelodysplastic syndromes &amp; Myelodysplastic syndrome with single-lineage dysplasia</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 118402,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Acceptable:</em> myelodysplastic syndrome with single-lineage dysplasia; myelodysplastic syndrome with multilineage dysplasia.</p>\r\n<p><em>Not recommended:</em> refractory cytopenia with unilineage dysplasia; refractory cytopenia with multilineage dysplasia.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 118403,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>Myelodysplastic neoplasm with low blasts and single-lineage dysplasia (MDS-LB-SLD); myelodysplastic neoplasm with low blasts and multilineage dysplasia (MDS-LB-MLD)</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 118404,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>Bone marrow and peripheral blood</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 118405,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>The majority (&gt;&nbsp;70%) of patients present with anaemia, and 50&ndash;60% respond to erythropoiesis-stimulating agents. Thrombocytopenia and neutropenia are less common. Cytopenia in at least one haematopoietic lineage is required for a diagnosis of MDS-LB. Cytopenia definitions include haemoglobin &lt;&nbsp;13&nbsp;g/dL in male patients and &lt;&nbsp;12&nbsp;g/dL in female patients for anaemia, absolute neutrophil count &lt;&nbsp;1.8&nbsp;&times;&nbsp;10<sup>9</sup>/L for leukopenia, and platelets &lt;&nbsp;150&nbsp;&times;&nbsp;10<sup>9</sup>/L for thrombocytopenia {27535995}. A diagnosis may still be made in patients with milder degrees of anaemia if definitive morphological and cytogenetic findings are present {27535995}. In determining whether a patient is cytopenic, it is important to be cognizant of each laboratory&rsquo;s lower reference range and to consider conditional variants of these values, including ethnicity and sex.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 118406,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>Most patients are diagnosed in the eighth decade of life {35772318}. MDS-LB-SLD accounts for 15&ndash;20% of MDS cases, and MDS-LB-MLD for 30% {24935723; 22421409; 23122806; 35772318}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 118407,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>Age-related clonal haematopoiesis with expansion of haematopoietic clones and accumulation of genetic alterations is thought to underlie neoplastic transformation {31672865}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 118408,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 710,
+        "headingText": "\r\n\r\n<p>The acquisition of somatic mutations in genes controlling the balance between proliferation, differentiation, and cell death leads to ineffective haematopoiesis with insufficient production of fully functional mature cells of at least one haematopoietic lineage.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 118409,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 118410,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 711,
+        "headingText": "\r\n<h5>Peripheral blood</h5>\r\n\r\n<p>The erythrocytes frequently show anisopoikilocytosis with macrocytosis. Dysgranulopoiesis may be present, characterized primarily by nuclear hyposegmentation (pseudo&ndash;Pelger&ndash;Hu&euml;t anomaly) or hypersegmentation, cytoplasmic hypogranularity, pseudo&ndash;Ch&eacute;diak&ndash;Higashi granules, and small size {24439566}. Blasts are not usually identified in the peripheral blood. Identification of rare (&le;&nbsp;1%) peripheral blood blasts in conjunction with &lt;&nbsp;5% blasts in the bone marrow does not alter the classification {23122806}. However, the finding of rare blasts in the peripheral blood on two separate occasions may qualify as MDS with excess blasts.</p>\r\n\r\n<h5>Bone marrow</h5>\r\n\r\n<p>The bone marrow is usually hypercellular {23122806}. Dyserythropoiesis manifests principally as nuclear alterations, including budding, internuclear bridging, karyorrhexis, and multinuclearity. Megaloblastic changes are common but by themselves are insufficient to establish dyserythropoiesis {29917221; 24935723}. Erythroid precursors may show cytoplasmic vacuoles, usually poorly defined, which give a positive PAS reaction and are dissimilar to the sharply demarcated vacuoles observed in copper deficiency or alcoholism. There may also be diffuse cytoplasmic PAS positivity. Variable numbers of ring sideroblasts may be identified, but they are typically &lt;&nbsp;15% of erythroid precursors.</p>\r\n<p>A relative increase in granulocytes is present in about 25% of cases {23122806}, with dysgranulopoiesis as described above in peripheral blood smears.</p>\r\n<p>Megakaryocyte dysplasia is characterized by micromegakaryocytes, non-lobated nuclei in megakaryocytes of all sizes, and multiple widely separated nuclei {27107657}. Megakaryocytic dysplasia is readily apparent in bone marrow sections, and both biopsy (or clot) and aspirate specimens should be evaluated.</p>\r\n<p>MDS-LB-SLD is defined by the presence of dysplastic cells of a single lineage, whereas MDS-LB-MLD is defined by dysplasia involving two or three lineages.</p>\r\n\r\n<h5>Immunophenotype</h5>\r\n\r\n<p>Flow cytometry usually reveals aberrations in the immature progenitor compartment and abnormal expression patterns of maturation antigens, particularly on neutrophils and monocytes {24919805}. The blast count should be based on a microscopic differential of the aspirate smear, not on the flow cytometry CD34+ blast percentage (typically &lt;&nbsp;5%).</p>\r\n\r\n<h5>Differential diagnosis</h5>\r\n\r\n<p>No patient should be diagnosed with MDS if the clinical and drug history is unknown, and no case of MDS should be reclassified while the patient is on growth factor therapy, including erythropoietin. Certain drugs, infections, metabolic deficiencies, and immune disorders can cause both cytopenias and morphological dysplasia; these possible secondary etiologies must be carefully considered before rendering a diagnosis of MDS. Hypoplastic MDS should be a consideration for cases with demonstrable marrow hypocellularity for age. The diagnosis of MDS-LB should be entertained after excluding MDS with defining genetic abnormalities.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-01T12:05:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 118411,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>See <em>Histopathology</em>, above.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 118412,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 713,
+        "headingText": "\r\n<h5>Cytogenetics</h5>\r\n\r\n<p>A sizeable subset of patients with MDS-LB have a normal karyotype {23760779}. Nevertheless, karyotyping is necessary for the optimal risk-stratification of patients with MDS {22740453}.</p>\r\n\r\n<h5>Molecular analyses</h5>\r\n\r\n<p>Molecular genetic analyses are recommended for diagnostic evaluation. Mutations are detected in most patients with MDS-LB and usually involve <em>TET2</em>, <em>SRSF2</em>, <em>ASXL1</em>, <em>DNMT3A</em>, and <em>U2AF1</em>, with MDS-LB-MLD more frequently harbouring mutant <em>RUNX1</em>, <em>ASXL1</em>, and <em>SRSF2</em> {24220272}. Clonal evolution is common {27992414; 29515104; 23760779; 28746789}, warranting sequential cytogenetic and molecular evaluation {28429724}. Molecular monitoring can be reliably performed on peripheral blood {29575088; 25943179}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-01T12:06:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 118413,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> cytopenia involving one or more lineages; dysplasia involving one or more lineages; &lt;&nbsp;5% bone marrow blasts and &lt;&nbsp;2% peripheral blood blasts; exclusion of relevant nutritional deficiencies (e.g. folic acid and vitamin&nbsp;B12); not fulfilling diagnostic criteria for MDS with defining genetic alterations or hypoplastic MDS.</p>\r\n<p><em>Desirable:</em> hypercellular bone marrow for age; detection of clonal cytogenetic and/or molecular abnormality.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 118414,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 118415,
+        "bookId": 63,
+        "chapterId": 314,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>The clinical course is usually reflected by the type and degree of cytopenia and can be predicted by risk categorization according to the Revised International Prognostic Scoring System (IPSS-R) for MDSs {22740453}. Patients may require supportive therapy with growth factors and/or hypomethylating agent therapy. Most patients have stable disease for years before progression to MDS with increased blasts or transformation to acute myeloid leukaemia (AML). It is therefore prudent to adopt a risk-adapted surveillance strategy to monitor for disease evolution using cytogenetic and molecular analyses.</p>\r\n<p>&nbsp;</p>",
+        "timestamp": "2024-03-01T12:05:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 518,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 497,
+    "contributions": [
+      {
+        "pkcontributionId": 73765,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 497,
+        "headingText": "\r\n<p>Fanconi anaemia (FA) is a clinically and genetically heterogeneous disorder caused by underlying genomic instability. Characteristic clinical features include developmental abnormalities in major organ systems, early-onset bone marrow failure, and a high predisposition to cancer. The predominant CNS tumour manifestation is medulloblastoma, resulting from biallelic pathogenic germline variants in either <em>BRCA2</em> or <em>PALB2</em>.</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 519,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 498,
+    "contributions": [
+      {
+        "pkcontributionId": 73766,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 498,
+        "headingText": "\r\n<h5>MIM numbering</h5>\r\n<p>605724 Fanconi anaemia, complementation group&nbsp;D1; FANCD1</p>\r\n<p>610832 Fanconi anaemia, complementation group&nbsp;N; FANCN</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 520,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 499,
+    "contributions": [
+      {
+        "pkcontributionId": 73767,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 499,
+        "headingText": "\r\n<p>3A70.0 Congenital aplastic anaemia</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 521,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 500,
+    "contributions": [
+      {
+        "pkcontributionId": 73768,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 500,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 522,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 501,
+    "contributions": [
+      {
+        "pkcontributionId": 73769,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 501,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 523,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 502,
+    "contributions": [
+      {
+        "pkcontributionId": 73770,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 502,
+        "headingText": "<p>Manifestations of FA may develop in all organs and tissues. The predominant CNS tumour arising in the setting of FA is medulloblastoma.</p>",
+        "timestamp": "2021-10-28T17:00:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 524,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 503,
+    "contributions": [
+      {
+        "pkcontributionId": 73771,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 503,
+        "headingText": "\r\n<p>FA is characterized by a range of physical abnormalities, progressive bone marrow failure, and an increased cancer risk. Classic features include abnormal thumbs, absent radii, short stature, skin hyperpigmentation, abnormal facies (triangular face, microcephaly), abnormal kidneys, and decreased fertility {2985019}, although the absence of these features does not exclude FA. The most common neoplasms associated with FA are myelodysplastic syndrome and myeloid leukaemia, squamous cell carcinoma of the head and neck, Wilms tumour, and medulloblastoma.</p>\r\n<h5>CNS tumours</h5>\r\n<p>Patients with FA due to biallelic germline mutation in <em>BRCA2</em> or <em>PALB2</em> have a dramatically increased risk of malignancies during childhood, with the predominant CNS tumour manifestation being medulloblastoma {2985019; 14559878; 14670928; 14707715; 16825431; 17200671; 19373780; 23698033; 26064523; 26657402; 28453743; 29753700}. Rare examples of patients with FA with other CNS embryonal tumours or glioblastoma have also been reported {19530235; 26740091}. Children with medulloblastoma and other childhood cancers that arise in the setting of FA may have a family history of breast, ovarian, and pancreatic cancer in the maternal and/or paternal lineages, caused by heterozygous carrier status for <em>BRCA2</em> or <em>PALB2</em> pathogenic variants.</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 525,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 504,
+    "contributions": [
+      {
+        "pkcontributionId": 73772,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 504,
+        "headingText": "\r\n<p>FA is most often an autosomal recessive disorder resulting from homozygous or compound heterozygous germline mutations in the 22&nbsp;different FANC genes. The two exceptions are complementation group&nbsp;B (<em>FANCB</em>), which is X-linked, and complementation group&nbsp;R (<em>RAD51</em>), which is autosomal dominant. The estimated carrier frequency for FA is 1:100&ndash;200&nbsp;persons, while the approximate syndrome incidence is 1&nbsp;case per 130&nbsp;000&nbsp;births {21739583}.</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 526,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 505,
+    "contributions": [
+      {
+        "pkcontributionId": 73773,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 505,
+        "headingText": "<p>FA is a heritable syndrome caused by germline transmission of deleterious mutations or deletions in the various FANC genes. FA can be caused by disruptions in 22&nbsp;different genes, which result in a mostly similar clinical phenotype but with some differences, including variable tumour predisposition. Depending on the specific causative gene, FA is differentiated into complementation groups&nbsp;A through&nbsp;W (e.g. complementation group&nbsp;A is caused by biallelic germline mutation in the <em>FANCA</em> gene). To date, only two complementation groups have been associated with an increased risk of CNS tumours: D1 and N, which result from biallelic germline mutations in the <em>BRCA2</em> and <em>PALB2</em> genes, respectively. Complementation group&nbsp;D1 is caused by homozygous or compound heterozygous germline mutations in the <em>BRCA2</em> gene on chromosome 13q13.1 {14670928}. Complementation group&nbsp;N is caused by homozygous or compound heterozygous germline mutations in the <em>PALB2</em> gene on chromosome 16p12.2 {17200671}.</p>",
+        "timestamp": "2021-10-28T17:01:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 527,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 506,
+    "contributions": [
+      {
+        "pkcontributionId": 73774,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 506,
+        "headingText": "\r\n<p>The FANC genes encode proteins involved in the homologous recombination of DNA double-strand breaks and in the repair of DNA crosslinks. The deleterious mutations in the FANC genes causative of FA result in impaired homologous recombination and crosslink repair, which drives chromosomal aberrations such as amplifications, deletions, and translocations that promote tumorigenesis {17476307}.</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 534,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 513,
+    "contributions": [
+      {
+        "pkcontributionId": 73775,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 513,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 528,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 507,
+    "contributions": [
+      {
+        "pkcontributionId": 73776,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 507,
+        "headingText": "\r\n<p>Medulloblastomas arising in the setting of FA are usually of the large cell&nbsp;/ anaplastic histological type, or they can have desmoplastic/nodular histology with superimposed anaplasia {29753700}.</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 529,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 508,
+    "contributions": [
+      {
+        "pkcontributionId": 73777,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 508,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 530,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 509,
+    "contributions": [
+      {
+        "pkcontributionId": 73778,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 509,
+        "headingText": "\r\n<p>Diagnosis of FA has traditionally employed chromosomal breakage analysis performed on patient-derived cultures of either leukocytes from a peripheral blood sample or dermal fibroblasts from a skin biopsy after treatment with an agent that induces DNA interstrand crosslinks, such as diepoxybutane. Mutation analysis of a constitutional DNA sample to assess for pathogenic mutations or deletions in the FANC genes is a complementary diagnostic methodology that can identify the causative gene abnormality.</p>\r\n<p>Medulloblastomas and other cancers arising in the setting of FA are genomically characterized by a large number of intrachromosomal breaks, which can be visualized by copy-number analysis as several chromosomes having multiple segmental gains and losses {28453743; 29753700}. A distinct mutation signature has also been observed in medulloblastomas arising in the setting of FA, featuring elevated numbers of large (&gt;&nbsp;3&nbsp;bp) insertions and deletions with overlapping microhomology at breakpoint junctions characteristic of BRCA-deficient breast and ovarian cancers {29753700}. The medulloblastomas that arise in the setting of FA often belong to the SHH-activated molecular subtype, and they are frequently also <em>TP53</em>-mutant {26064523; 29753700}. Notably, medulloblastomas can also arise in the setting of heterozygous germline mutation in either <em>BRCA2</em> or <em>PALB2</em> (i.e. FA carrier status only); these medulloblastomas have somatic/acquired inactivation of the remaining wildtype allele (often via loss of heterozygosity), and they can belong to the sonic hedgehog&ndash;activated, group&nbsp;3, or group&nbsp;4 molecular subtypes {28453743; 29753700}.</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 533,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 512,
+    "contributions": [
+      {
+        "pkcontributionId": 73779,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 512,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/45/215/22852\" target=\"_blank\">#22852</a>Box&nbsp;14.20 .</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 531,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 510,
+    "contributions": [
+      {
+        "pkcontributionId": 73780,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 510,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 532,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 511,
+    "contributions": [
+      {
+        "pkcontributionId": 73781,
+        "bookId": 45,
+        "chapterId": 215,
+        "headingId": 511,
+        "headingText": "\r\n<p>Medulloblastomas arising in the setting of FA due to biallelic germline <em>BRCA2</em> or <em>PALB2</em> mutation have a dismal prognosis {29753700}. This is probably a reflection of both the aggressive biology of these tumours and the fact that patients with FA cannot tolerate high doses of certain genotoxic chemotherapies. In addition, patients with FA have a dramatically increased risk of developing metastases after therapy.</p>",
+        "timestamp": "2021-10-14T14:46:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

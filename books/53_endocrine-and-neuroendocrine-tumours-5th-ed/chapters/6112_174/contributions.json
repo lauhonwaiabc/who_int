@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 122866,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 607,
+        "headingText": "\r\n<p>Adrenal cysts are benign, circumscribed, fluid-containing, tumour-like lesions.</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 122867,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 608,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 122868,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 609,
+        "headingText": "\r\n<p>LC8Y Other specified structural developmental anomalies of the adrenal glands</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 122869,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Not recommended:</em> cystic adrenal tumour.</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 122870,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 611,
+        "headingText": "\r\n<p>Endothelial (vascular) cyst; epithelial (mesothelial) cyst; parasitic cyst; pseudocyst</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 122871,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 612,
+        "headingText": "\r\n<p>They occur in adrenal glands and may show retroperitoneal extension.</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 122872,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 613,
+        "headingText": "\r\n<p>Adrenal cysts occur mainly in the third to sixth decade of life {15378490; 25447606}. They are often detected as incidentalomas but may also present with mass-related nonspecific symptoms (e.g. abdominal pain, vena cava compression). Ultrasonography, CT, and MRI are useful in recognizing cystic lesions but are often inadequate for their subtyping {15378490; 2504065; 29194699}. Large cysts and pseudocysts may simulate malignancy {33295135; 30041023} [[Duan K, Giordano TJ, Mete O. Adrenal cortical proliferations. In: Mete O, Asa SL, editors. Endocrine pathology. Cambridge (UK): Cambridge University Press; 2016. pp. 602&ndash;27.]].</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 122873,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 614,
+        "headingText": "\r\n<p>Adrenal cysts represent approximately 4% of adrenal masses {30041023}, with a prevalence rate of 0.06&ndash;0.18% in autopsy series {15378490; 15536959; 25447606}. Pseudocysts (39&ndash;78%) are the most common primary adrenal cysts followed by endothelial, epithelial, and parasitic cysts {18204230; 5901251; 33295135; 9585385; 18972224; 15378490}.</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 122874,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 615,
+        "headingText": "\r\n<p>Depending on the subtype, cysts can be developmental, infectious, post-haemorrhagic, or traumatic.</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 122875,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 616,
+        "headingText": "\r\n<p>Endothelial cysts are postulated to result from dilated and thrombosed vessels, whereas pseudocysts are thought to be post-haemorrhagic or traumatic [[Duan K, Giordano TJ, Mete O. Adrenal cortical proliferations. In: Mete O, Asa SL, editors. Endocrine pathology. Cambridge (UK): Cambridge University Press; 2016. pp. 602&ndash;27.]] or may be related to vascular cysts with repeated haemorrhage. Epithelial cysts are related to mesothelial rests. <em>Echinococcus</em> infestations cause parasitic cysts {18204230; 33643845; 32417730}.</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 122876,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 623,
+        "headingText": "\r\n<p>Cysts are often unilocular, and they have a thin fibrous wall with clear or haemorrhagic/fibrinous content {15378490; 18972224}.</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 122877,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 617,
+        "headingText": "\r\n<p>Cysts have a thin wall. Endothelial cysts more commonly arise from the lymphatic endothelium and may show papillary protrusions into the lumen. Epithelial cysts are lined by mesothelial cells {30041023}. Immunohistochemistry for epithelial and endothelial markers helps in the distinction between endothelial and epithelial cysts {18446449}. Parasitic (hydatid) cysts are uniloculated or multiloculated, with a fibrous wall, calcifications, and clear fluid content {27672642; 32417730; 33643845}. Pseudocysts are often demarcated by dense fibrous tissue, lack a cellular lining, and contain fibrinous/haemorrhagic material with cholesterol clefts and haemosiderin-laden macrophages {30041023}. The differential diagnosis includes cystic degeneration in adrenocortical neoplasms, cystic phaeochromocytoma, vascular tumours or malformations, cystic renal cell carcinoma, and ectopic thyroid {23618356; 18972224; 33295135; 15378490; 23510370; 30041023}.</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 122878,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 618,
+        "headingText": "\r\n<p>Pseudocysts on FNAB can yield nonspecific proteinaceous material, whereas vascular tumours generally yield blood and are usually sampled in the workup of adrenal masses {6587703; 15376200}.</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 122879,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 619,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 122880,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 622,
+        "headingText": "<h6><em>Pseudocyst</em></h6>\r\n<p><em>Essential:</em> no cyst lining or parasitic infestation; haemorrhagic/fibrinous cyst content.</p>\r\n<h6><em>Epithelial (mesothelial) cyst</em></h6>\r\n<p><em>Essential:</em> a cyst lined by epithelial cells; often positive for mesothelial markers.</p>\r\n<h6><em>Endothelial (vascular) cyst</em></h6>\r\n<p><em>Essential:</em> a cyst lined by endothelium; positive for at least one endothelial marker (D2-40, ERG, CD34, CD31).</p>\r\n<h6><em>Parasitic cyst</em></h6>\r\n<p><em>Essential:</em> a cyst related to a parasitic (<em>Echinococcus</em>) infestation.</p>",
+        "timestamp": "2024-10-09T12:35:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 122881,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 620,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 122882,
+        "bookId": 53,
+        "chapterId": 174,
+        "headingId": 621,
+        "headingText": "\r\n<p>Compression of surrounding organs, rupture, and haemorrhage are potential complications.</p>",
+        "timestamp": "2024-10-09T12:34:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

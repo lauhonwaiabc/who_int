@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 55634,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 159,
+        "headingText": "<p>Burkitt lymphoma (BL) is a highly aggressive B-cell lymphoma characterized by frequent presentation in extranodal sites or as an acute leukaemia, with high proliferative activity and usually <em>MYC</em> gene translocation to an IG locus.</p>",
+        "timestamp": "2019-04-10T11:27:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 55635,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 160,
+        "headingText": "<p>9687/3 Burkitt lymphoma NOS</p>",
+        "timestamp": "2021-11-22T17:01:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 55636,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 161,
+        "headingText": "<p>2A85.6 Burkitt lymphoma, including Burkitt leukaemia</p>",
+        "timestamp": "2019-04-10T11:27:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 55637,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 162,
+        "headingText": "<p><em>Acceptable:</em> Burkitt cell leukaemia (9826/3).</p>\r\n<p><em>Not recommended:</em> Burkitt tumour; malignant lymphoma, undifferentiated, Burkitt type; malignant lymphoma, small non-cleaved, Burkitt type.</p>",
+        "timestamp": "2019-04-10T11:28:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 55638,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 163,
+        "headingText": "<p>Endemic Burkitt lymphoma; sporadic Burkitt lymphoma; immunodeficiency-associated Burkitt lymphoma</p>",
+        "timestamp": "2021-11-22T17:02:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 55639,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 164,
+        "headingText": "<p></p>\r\n<p>In the GI tract, the most frequent site of involvement is the ileocaecal region, followed by the stomach, small intestine, and ascending colon.</p>",
+        "timestamp": "2019-04-10T11:28:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 55640,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 165,
+        "headingText": "<p>Patients often present with bulky disease and high tumour burden due to the short doubling time of the tumour. Specific clinical manifestations at presentation vary according to the epidemiological subtype and the site of involvement. The most frequent presentation of the sporadic subtype is abdominal involvement. In gastrointestinal BL, the most common symptoms are vomiting, abdominal pain, constipation, weight loss, and progressive anaemia. Fatal haemorrhage, jejunal intussusception, and jaundice (with pancreatic localization) may also occur.</p>\r\n<p><br /></p>",
+        "timestamp": "2019-04-10T11:29:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 55641,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 166,
+        "headingText": "<p>Endemic BL occurs in equatorial Africa and in Papua New Guinea, with a distribution that overlaps with regions endemic for malaria. In these areas, BL is the most common childhood malignancy, with an incidence peak among children aged 4&ndash;7&nbsp;years and an M:F&nbsp;ratio of 2:1 {13628987; 4342309}.</p>\r\n<p>Sporadic BL is seen throughout the world, mainly in children and young adults {22488262}. The incidence is low, with sporadic BL accounting for only 1&ndash;2% of all lymphomas in western Europe and the USA. In these parts of the world, BL accounts for approximately 30&ndash;50% of all childhood lymphomas. The median age of adult patients is 30&nbsp;years, but an incidence peak has also been reported in elderly patients {22488262}. The M:F&nbsp;ratio is 2:1 to 3:1.</p>\r\n<p>Immunodeficiency-associated BL is more common in the setting of HIV infection than in other forms of inborn or acquired immunodeficiency. In HIV-infected patients, BL appears early in the evolution of the disease, when CD4+ T-cell counts are still high {7872427; 1987908}.</p>\r\n<p>&nbsp;</p>",
+        "timestamp": "2019-05-02T11:35:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 55642,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 167,
+        "headingText": "<p>A number of infectious agents (e.g. EBV, <em>Plasmodium falciparum</em>, and HIV), environmental factors, and genetic predispositions (e.g. germline mutations in <em>ATM</em>, <em>BLM</em>, or <em>SH2D1A</em>) are known etiological cofactors.</p>",
+        "timestamp": "2019-04-10T11:30:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 55643,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 168,
+        "headingText": "<p>In endemic BL, the EBV genome is present in &gt;&nbsp;95% of cases. There is also a strong epidemiological link with holoendemic malaria. Therefore, EBV and <em>P.&nbsp;falciparum</em> are considered to be associated with endemic BL {210392; 24434689}. Recent data have provided new insight into how these two human pathogens interact to cause the disease, supporting the emerging concepts of polymicrobial disease pathogenesis {19897039; 22333947; 18767045; 17019706; 26276629}. The polymicrobial nature of endemic BL is further supported by the status of B-cell receptor, which carries the signs of antigen selection due to chronic antigen stimulation {26712879; 21245480}.</p>\r\n<p>In sporadic BL, EBV can be detected in as many as 20&ndash;30% of cases {22260300}; however, more-sensitive tools are able to identify EBV infection in a higher percentage of cases {28298901}. The proportion of EBV-positive sporadic BL cases appears to be much higher in adults than in children {25321330}.</p>\r\n<p>In immunodeficiency-associated BL, EBV is identified in 25&ndash;40% of cases {8392401; 1868025}.</p>\r\n<p>The variation in EBV association among the different forms of BL and among different countries makes it difficult to determine the role of the virus in BL pathogenesis. EBV may affect host cell homeostasis in various ways by encoding its own genes and microRNAs and by interfering with cellular microRNA expression {24731550; 23269792; 18802929; 26325594; 23503461}. However, recent studies have shown that the mutation and viral landscape of BL is more complex than previously reported. In fact, a distinct latency pattern of EBV involving the expression of LMP2A along with that of lytic genes has been demonstrated (non-canonical latency programme) {25827832; 25463610}. Nonetheless, expression of the latency pattern in BL is heterogeneous, not only from case to case, but also within a given case from cell to cell, suggesting that the tumour is under selective pressure and needs alternative mechanisms to survive and proliferate. The inverse correlation between the EBV viral load and the number of somatic mutations suggests that these mutations may substitute for the virus in maintaining the neoplastic phenotype {23091298; 26468873}.</p>\r\n<p>The molecular hallmark of BL is the translocation of <em>MYC</em> at band 8q24 to the IGH locus on chromosome 14q32, t(8;14)(q24;q32), or less commonly to the IGK light chain locus on 2p12 [t(2;8)] or the IGL light chain locus on 22q11 [t(8;22)]. Most breakpoints originate from class switching or aberrant somatic hypermutation mediated by the activity of the mutagenic enzyme activation-induced cytidine deaminase. Additional chromosomal abnormalities may also occur in BL, including gains of 1q, 7, and 12 and losses of 6q, 13q32-q34, and 17p. Approximately 10% of classic BL cases lack an identifiable <em>MYC</em> rearrangement {15034863; 16760442; 18802929}. However, none of the techniques currently used to detect genetic changes can unambiguously rule out all <em>MYC</em> translocations. The expression of <em>MYC</em> mRNA and MYC protein in these cases suggests that alternative mechanisms deregulating <em>MYC</em> also exist {20930934; 20823134}. In these cases, strict clinical, morphological, and phenotypic criteria should be used to exclude lymphomas that mimic BL. At least some of these cases represent the new provisional entity Burkitt-like lymphoma with 11q aberrations {24398325}.</p>\r\n<p>Next-generation sequencing analysis has revealed the importance of the B-cell receptor signalling pathway in the pathogenesis of BL. Mutations of the transcription factor <em>TCF3</em> (<em>E2A</em>) or its negative regulator <em>ID3</em> have been reported in about 70% of sporadic BL cases. These mutations activate B-cell receptor signalling, which sustains BL cell survival by engaging the PI3K pathway {23143597; 23143595; 22885699; 22897848}. Mutations of <em>MYC</em>, <em>CCND3</em>, <em>TP53</em>, <em>RHOA</em>, <em>SMARCA4</em>, and <em>ARID1A</em> are other recurrent mutations, found in 5&ndash;40% of BL cases {23091298}. The numbers of mutations overall and mutations in <em>TCF3</em> or <em>ID3</em> are lower in endemic BL than in sporadic BL {26468873}.</p>",
+        "timestamp": "2019-05-02T11:35:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 55644,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 207,
+        "headingText": "<p>Soft, tan, fleshy tumours with haemorrhage and necrosis infiltrate the bowel and/or involved organs.</p>",
+        "timestamp": "2019-04-10T11:31:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 55645,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 169,
+        "headingText": "<p>BL is characterized by a diffuse monotonous infiltrate of medium-sized lymphoid cells. The cells appear to be cohesive but often exhibit squared-off borders of retracted cytoplasm. The nuclei are round with finely clumped chromatin, and they contain multiple basophilic medium-sized paracentrally located nucleoli. The cytoplasm is deeply basophilic and usually contains lipid vacuoles, which are better seen in imprint preparations or FNA specimens. The characteristic lipid vacuoles can also be demonstrated by immunostaining for adipophilin {22952953}. The tumour has an extremely high proliferation rate, with many mitotic figures, as well as a high rate of spontaneous cell death (apoptosis). A starry-sky pattern is usually present, as a result of the presence of numerous tingible-body macrophages.</p>\r\n<p>The tumour cells typically express moderate to strong membrane IgM with light chain restriction, B-cell antigens (CD19, CD20, CD22, CD79a, and PAX5) and germinal-centre markers (CD10 and BCL6). CD38, CD77, and CD43 are also frequently positive {15258997; 10191768; 21718280}. Almost all BLs show strong expression of MYC protein in the majority of neoplastic cells {29954940}. The proliferation rate is very high, with nearly 100% of the cells positive for Ki-67. The neoplastic cells are usually negative for CD5, CD23, CD138, and BCL2. However, BCL2 expression in a variable number of cells may be observed. This immunophenotype may be more variable in sporadic BL in older patients and at extranodal sites {15258997}. TdT is negative, allowing differential diagnosis from pre-B acute lymphoblastic leukaemia with <em>MYC</em> translocation {21718280; 27247372}.</p>",
+        "timestamp": "2019-04-10T11:31:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 55646,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 170,
+        "headingText": "<p>In cytology or touch imprint preparations, the nuclei are round with fine chromatin, multiple nucleoli, and mitotic figures. The cytoplasm is basophilic and contains numerous lipid vacuoles.</p>\r\n<p><br /></p>",
+        "timestamp": "2019-04-10T11:31:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 55647,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 171,
+        "headingText": "<p>The presence of translocations involving <em>MYC</em> can provide helpful diagnostic information in cases of doubt, but it is rarely required for diagnosis. These translocations are usually of band 8q24 to the IGH locus on chromosome 14q32, t(8;14)(q24;q32), or less commonly to the IGK light chain locus on 2p12 [t(2;8)] or the IGL light chain locus on 22q11 [t(8;22)]. Approximately 10% of classic BL cases lack an identifiable <em>MYC</em> rearrangement {15034863; 16760442; 18802929}.</p>\r\n<p>Gene and microRNA expression profiling can define molecular signatures that are characteristic of BL and different from those of other lymphomas, such as diffuse large B-cell lymphoma {16760443; 16760442}. Slight differences in the expression profiles have been identified between the endemic BL and sporadic BL subtypes {21245480; 21701491}.</p>",
+        "timestamp": "2019-05-02T11:36:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 55648,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 174,
+        "headingText": "<h5>Classic features</h5>\r\n<p><em>Essential:</em> diffuse monotonous infiltrate of medium-sized lymphoid cells with squared-off contours, round nuclei with finely clumped chromatin, multiple nucleoli, and basophilic cytoplasm; numerous mitotic figures and apoptotic bodies; immunophenotype: B-lineage marker&ndash;positive, CD10-positive, BCL2-negative, MYC protein expression in &gt;&nbsp;80% of neoplastic cells, near 100% Ki-67 proliferation index.</p>\r\n<h5>Cases with deviations from the above-listed features</h5>\r\n<p><em>Essential:</em> when morphology or immunophenotype is atypical and/or MYC protein expression is present in &lt;&nbsp;80% of neoplastic cells, additional testing is required to confirm a diagnosis of BL: FISH analysis for <em>MYC</em>, <em>BCL2</em>, <em>BCL6</em> rearrangements, and 11q abnormality to exclude high-grade B-cell lymphoma with <em>MYC</em> and <em>BCL2</em> and/or <em>BCL6</em> rearrangements, high-grade B-cell lymphoma NOS, and Burkitt-like lymphoma with 11q abnormality.</p>\r\n<p>&nbsp;</p>",
+        "timestamp": "2019-04-10T11:32:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 55649,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 172,
+        "headingText": "<p>Paediatric BL is staged according to the system of Murphy et al. {6986967}. A revised International Pediatric Non-Hodgkin Lymphoma Staging System (IPNHLSS) has recently been proposed {25940716}.</p>\r\n<p><br /></p>",
+        "timestamp": "2019-04-10T11:33:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 55650,
+        "bookId": 31,
+        "chapterId": 180,
+        "headingId": 173,
+        "headingText": "<p>BL is a highly aggressive but potentially curable tumour; intensive chemotherapy can result in long-term overall survival in 70&ndash;90% of patients, with children doing better than adults. Adverse prognostic factors include advanced-stage disease, bone marrow and CNS involvement, unresected tumour &gt;&nbsp;10&nbsp;cm in diameter, and high serum LDH levels {22260323; 23913575; 27136063}. The overall survival rate in endemic BL has improved from no more than 10&ndash;20% to almost 70% as a result of the introduction of the International Network for Cancer Treatment and Research (INCTR) protocol INCTR 03-06 in African institutions {22844968}.</p>\r\n<p>&nbsp;</p>",
+        "timestamp": "2019-04-10T11:33:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

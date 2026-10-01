@@ -1,0 +1,115 @@
+[
+  {
+    "pkroleId": 185,
+    "bookId": "72",
+    "roleid": 266,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2090,
+        "lastname": "Hruban",
+        "firstname": "Ralph H",
+        "initials": "RH",
+        "email": "",
+        "roleid": 266,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 186,
+    "bookId": "72",
+    "roleid": 279,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2077,
+        "lastname": "Esposito",
+        "firstname": "Irene",
+        "initials": "I",
+        "email": "",
+        "roleid": 279,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "pkroleId": 187,
+    "bookId": "72",
+    "roleid": 280,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 5544,
+        "lastname": "Notohara",
+        "firstname": "Kenji",
+        "initials": "K",
+        "email": "",
+        "roleid": 280,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 188,
+    "bookId": "72",
+    "roleid": 281,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2089,
+        "lastname": "Hong",
+        "firstname": "Seung-Mo",
+        "initials": "SM",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 2093,
+        "lastname": "Pitman",
+        "firstname": "Martha Bishop",
+        "initials": "MB",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 5388,
+        "lastname": "Luchini",
+        "firstname": "Claudio",
+        "initials": "C",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 5497,
+        "lastname": "Kojima",
+        "firstname": "Motohiro",
+        "initials": "M",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 5525,
+        "lastname": "Maslloréns",
+        "firstname": "Ana",
+        "initials": "A",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 5537,
+        "lastname": "Karamitopolou-Diamantis",
+        "firstname": "Eva",
+        "initials": "E",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      }
+    ]
+  }
+]

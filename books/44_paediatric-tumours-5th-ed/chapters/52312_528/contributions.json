@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 105799,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 466,
+        "headingText": "\r\n<p>Venous malformations are malformed and/or excessive venous channels of any calibre, resulting from an error in vasculogenesis.</p>\r\n",
+        "timestamp": "2023-03-15T13:31:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 105800,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 467,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-15T13:31:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 105801,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 468,
+        "headingText": "\r\n<p>LA90.2Z Peripheral venous malformation, unspecified</p>\r\n",
+        "timestamp": "2023-03-15T13:31:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 105802,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 469,
+        "headingText": "<p><em>Not recommended:</em> for common venous malformation: venous haemangioma; venous angioma; cavernous haemangioma; for verrucous venous malformation: verrucous haemangioma.</p>",
+        "timestamp": "2023-05-10T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 105803,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 470,
+        "headingText": "\r\n<p>Common venous malformation (CVM); blue rubber bleb naevus syndrome (BRBNS); glomuvenous malformation (GVM); verrucous venous malformation (VVM); genuine diffuse phlebectasia of Bockenheimer (GDPB)</p>\r\n",
+        "timestamp": "2023-03-15T13:31:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 105804,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 471,
+        "headingText": "\r\n<p>CVM can occur in any tissue plane and can be focal, multifocal, or diffuse, sometimes involving an entire limb (GDPB). BRBNS has a predilection for the palms, soles, and trunk; GVM, for the torso and extremities; VVM, for the lower extremities; and GDPB, for the upper extremities.</p>\r\n",
+        "timestamp": "2023-03-15T13:31:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 105805,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 472,
+        "headingText": "\r\n<p>CVM is a soft, compressible mass, frequently with a cutaneous bluish blush, involving the subcutaneous fat and (often) the dermis and underlying soft tissue. BRBNS manifests as multiple raised blue papules that increase in number over time; rarely, a congenital large mass may additionally be present. GVM is single or multiple, nodular or plaque-like, and pink to bluish-purple. VVM commonly occurs in the lower extremities as single or multiple deep red macular stains that become progressively hyperkeratotic. In GDPB, there is marked ectasia of superficial and deep veins, including extensive involvement of musculature and sometimes bone {26055853; 27607317}.</p>\r\n",
+        "timestamp": "2023-03-15T13:31:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 105806,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 473,
+        "headingText": "<p>All entities affect both sexes, and the lesion may be evident at birth. Most are sporadic.</p>",
+        "timestamp": "2023-05-10T15:38:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 105807,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 474,
+        "headingText": "<p>Most CVMs are sporadic, with a mutation in <em>TEK</em> (<em>TIE2</em>) or <em>PIK3CA</em> {29217067}. BRBNS is marked by dual (cis) <em>TEK</em> mutations within the C-terminal domain {27519652}. VVM is associated with <em>MAP3K3</em> (<em>ERK</em>) mutations causing upregulation of RAS/MAPK signalling {25728774}.</p>",
+        "timestamp": "2023-05-10T15:39:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 105808,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 475,
+        "headingText": "\r\n<p>Mutations in <em>TEK</em> (<em>TIE2</em>) or <em>PIK3CA</em> cause upregulation of PI3K/AKT/mTOR signalling, which is essential for angiogenesis and vasculogenesis {27519652; 29217067}. <em>MAP3K3</em> (<em>ERK</em>) mutations cause upregulation of RAS/MAPK signalling {25728774}.</p>\r\n",
+        "timestamp": "2023-03-15T13:31:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 105809,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 482,
+        "headingText": "\r\n<p>The sectioned appearance of all types, except for GDPB, is most often unencapsulated, red, and spongiform with intermingled native tissue.</p>\r\n",
+        "timestamp": "2023-03-15T13:31:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 105810,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 476,
+        "headingText": "<p>In CVM, abnormal venous channels vary in number, calibre, shape, and muscularization; they are often anastomotic, and they contain organizing thrombi. BRBNS typically has closely apposed, small, abnormal and often spongiform veins and organizing thrombi. VVM has dispersed or clustered channels with the morphology of large capillaries or venules involving the dermis and hypodermis; rarely, it is predominantly or wholly restricted to the hypodermis. In VVM the endothelium is focally or diffusely immunopositive for GLUT1 and focally immunopositive for D2-40 and PROX1 {26055853; 27607322}.</p>",
+        "timestamp": "2023-05-10T15:39:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 105811,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-15T13:31:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 105812,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 478,
+        "headingText": "<p>In certain cases, demonstration of mutations in <em>TEK</em>, <em>PIK3CA</em>,&nbsp;or <em>MAP2K1</em> may be useful for confirming the type of malformation.</p>",
+        "timestamp": "2023-05-10T15:39:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 105813,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 481,
+        "headingText": "<p><em>Essential:</em> for CVM: dysmorphic venous channels; for BRBNS: dysmorphic venous channels; for VVM: predominant capillary-type channels with focal or diffuse endothelial immunopositivity for GLUT1 and focal immunopositivity for GLUT1 and D2-40.</p>\r\n<p><em>Desirable:</em> for CVM: somatic <em>TEK</em> or <em>PIK3CA</em> mutation; for BRBNS: somatic <em>TEK</em> mutation; for VVM: somatic <em>MAP2K1</em> mutation.</p>",
+        "timestamp": "2023-05-10T15:40:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 105814,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-03-15T13:31:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 105815,
+        "bookId": 44,
+        "chapterId": 528,
+        "headingId": 480,
+        "headingText": "<p>Sclerotherapy and/or operative excision are usually applied in CVM. BRBNS&nbsp;and VVM lesions may require excision. A response to sirolimus has been reported in BRBNS {31879989}.</p>",
+        "timestamp": "2023-05-10T15:40:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

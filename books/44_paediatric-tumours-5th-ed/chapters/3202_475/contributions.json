@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 104328,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 466,
+        "headingText": "\r\n<p>Diffuse low-grade glioma, MAPK pathway&ndash;altered, is a low-grade glioma with diffuse astrocytic or oligodendroglial morphology that generally occurs in childhood and is characterized by a pathogenic alteration in a gene that codes for a MAPK pathway protein. Typically, these tumours have an internal tandem duplication (ITD) or mutation in the tyrosine kinase domain (TKD) of <em>FGFR1</em>, or a <em>BRAF</em> p.V600E mutation. The tumour is IDH-wildtype and H3-wildtype and does not have a homozygous deletion of <em>CDKN2A</em>.</p>\r\n",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 104329,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 467,
+        "headingText": "<p>9421/1 Diffuse low-grade glioma, MAPK pathway&ndash;altered</p>\r\n<p>9421/1 Diffuse low-grade glioma, <em>FGFR1</em> tyrosine kinase domain&ndash;duplicated</p>\r\n<p>9421/1 Diffuse low-grade glioma, <em>FGFR1</em>-mutant</p>\r\n<p>9421/1 Diffuse low-grade glioma, <em>BRAF</em> p.V600E&ndash;mutant</p>",
+        "timestamp": "2023-02-22T16:51:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 104330,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A00.0Y Other specified gliomas of brain</p>\r\n",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 104331,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> diffuse astrocytoma; diffuse astrocytoma, IDH-wildtype; oligodendroglioma; paediatric-type oligodendroglioma.</p>\r\n",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 104332,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 470,
+        "headingText": "\r\n<p>Diffuse low-grade glioma, <em>FGFR1</em> tyrosine kinase domain&ndash;duplicated; diffuse low-grade glioma, <em>FGFR1</em>-mutant; diffuse low-grade glioma, <em>BRAF</em> p.V600E<em>&ndash;</em>mutant</p>\r\n",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 104333,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 471,
+        "headingText": "\r\n<p>MAPK pathway&ndash;altered diffuse low-grade gliomas are described throughout the craniospinal axis, particularly the cerebral hemispheres. Among paediatric low-grade gliomas, specific alterations are more common in specific locations {32289278}, raising the possibility that there may be regional differences in subtypes.</p>\r\n",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 104334,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 472,
+        "headingText": "<p>Symptoms and signs depend on location. Epilepsy, sometimes longstanding, is common. Location-specific neurological deficits generally combine with more nonspecific manifestations of raised intracranial pressure. More detailed clinical data for these molecularly defined tumours are currently unavailable.</p>\r\n<h5>Imaging</h5>\r\n<p>On neuroimaging, diffuse low-grade gliomas may have a more diffuse picture with T2-FLAIR than do pilocytic astrocytomas, but both morphologies often appear as heterogeneously enhancing masses with cystic elements.</p>",
+        "timestamp": "2022-09-30T16:29:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 104335,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 473,
+        "headingText": "\r\n<p>There are no epidemiological studies of this specific tumour type. However, it is clearly rare. In a series of 843&nbsp;patients aged &lt;&nbsp;19&nbsp;years with low-grade gliomas and without neurofibromatosis type&nbsp;1 (NF1), 5.9% of tumours had the morphology of a diffuse astrocytoma and 3.0% had that of an oligodendroglioma {32289278}. Reports of this tumour have, by definition, focused on tumours affecting children.</p>\r\n",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 104336,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 474,
+        "headingText": "\r\n<p>There are no definite causative factors. However, there are descriptions of diffuse low-grade astrocytomas in patients with NF1 {27650176}, raising the possibility that NF1-associated gliomas may include tumours within the spectrum of MAPK pathway&ndash;altered diffuse low-grade glioma.</p>\r\n",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 104337,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 475,
+        "headingText": "\r\n<p>By definition, these tumours harbour an abnormality in the MAPK pathway, are IDH-wildtype and H3-wildtype, and do not show homozygous deletion of <em>CDKN2A</em> {30848347}. In the context of paediatric diffuse low-grade gliomas, the MAPK alteration is most likely to be a <em>BRAF</em> p.V600E mutation or an alteration of <em>FGFR1</em> (duplication of the TKD, one or sometimes two single-nucleotide variants, or a fusion gene) {23583981; 26810070; 32289278}.</p>\r\n<p>Molecular alterations appear to associate with morphology; for example, alterations of <em>FGFR1</em> are frequent in oligodendrogliomas but less so in diffuse astrocytomas {26810070; 32289278}. However, aside from being diffuse low-grade gliomas, these MAPK pathway&ndash;altered tumours are not defined by a distinctive morphology or by a single DNA methylation or gene expression profile. In future, it is likely that a comprehensive analysis of this rare group of tumours will resolve their status and clinicopathological associations.</p>\r\n",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 104338,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 482,
+        "headingText": "\r\n<p>Specific macroscopic appearances have not been described in the literature. However, these tumours are likely to have features similar to those of other (IDH-mutant) diffuse low-grade gliomas.</p>\r\n",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 104339,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 476,
+        "headingText": "<p>MAPK pathway&ndash;altered diffuse low-grade gliomas typically have a bland appearance, being composed of mildly atypical glial cells at relatively low density and entrapped normal parenchyma. The pattern of infiltration is not as extensive as seen in some IDH-mutant low-grade gliomas; it is more in line with the degree of infiltration found in angiocentric gliomas and polymorphous low-grade neuroepithelial tumour of the young (PLNTY), yet exceeds the peripheral incorporation of normal cells sometimes found in other low-grade gliomas, such as pilocytic astrocytoma and pleomorphic xanthoastrocytoma.</p>\r\n<h5>Diffuse low-grade glioma, FGFR1-TKD&ndash;duplicated or FGFR1-mutant</h5>\r\n<p>Diffuse low-grade gliomas with <em>FGFR1</em> alterations typically have the morphological features of an oligodendroglioma {26810070}, although astrocytomas can also have this genetic profile. A nodular architecture is occasionally present, and there is some overlap with the morphology of dysembryoplastic neuroepithelial tumour, which shares these genetic alterations {26810070; 32289278}. Mitotic activity is rare or absent, and there is no microvascular proliferation or necrosis. These tumours are diffusely immunopositive for OLIG2 and show variable expression of GFAP. Immunoreactivity for CD34 is typically restricted to a few cells, unlike the widespread expression evident in PLNTY.</p>\r\n<p>The differential diagnosis for diffuse low-grade glioma with <em>FGFR1</em> alterations includes dysembryoplastic neuroepithelial tumour, PLNTY, and adult-type IDH-mutant oligodendroglioma. Dysembryoplastic neuroepithelial tumours can only be distinguished by the presence of their defining specific glioneuronal element and, in complex cases, glial nodules. PLNTYs have a distinctive cytology and show widespread strong expression of CD34. Adult-type oligodendroglioma is distinguished by the presence of an IDH mutation combined with 1p/19q codeletion.</p>\r\n<h5>Diffuse low-grade glioma, BRAF p.V600E&ndash;mutant</h5>\r\n<p>Diffuse low-grade gliomas with a <em>BRAF</em> p.V600E mutation are composed of well-differentiated glial cells with bland, ovoid to spindle-shaped nuclei and fine fibrillary processes. Neither Rosenthal fibres nor eosinophilic granular bodies are typically found. Subpial aggregation of tumour cells, a typical secondary structure of diffuse gliomas, may be present. Mitotic activity is rare or absent, and there is no microvascular proliferation or necrosis. Tumour cells are typically immunopositive for OLIG2 and GFAP, which highlights the fine cell processes. Immunoreactivity for BRAF p.V600E illustrates the <em>BRAF</em> mutation.</p>\r\n<p>The differential diagnosis of diffuse low-grade glioma with a <em>BRAF</em> p.V600E mutation includes pilocytic astrocytoma, ganglioglioma, and pleomorphic xanthoastrocytoma. In addition, it is important to exclude IDH-mutant and H3 K27&ndash;altered diffuse midline gliomas, which can have histopathological features identical to those of a <em>BRAF</em> p.V600E&ndash;mutant diffuse low-grade glioma.</p>\r\n<p>Despite its diffuse nature, this tumour type appears to have a better outcome than do CNS WHO grade&nbsp;2 IDH-mutant diffuse gliomas (see <em>Prognosis and prediction</em>, below), and a CNS WHO grade has yet to be assigned.</p>",
+        "timestamp": "2022-09-30T16:30:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 104340,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 477,
+        "headingText": "\r\n<p>The intraoperative cytological features of MAPK pathway&ndash;altered diffuse low-grade gliomas have not been described, but these tumours are likely to show features of a low-grade astrocytoma or oligodendroglioma.</p>\r\n",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 104341,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 478,
+        "headingText": "\r\n<p>The diagnosis requires evidence of a MAPK pathway alteration in the absence of an IDH or H3 p.K28M (K27M) mutation and without homozygous deletion of <em>CDKN2A</em>. The most commonly observed genetic alterations in these tumours occur in <em>BRAF</em> (generally a p.V600E mutation) and in <em>FGFR1</em> (TKD duplication, one or sometimes two single-nucleotide variants, or a fusion gene) {23583981; 26810070; 32289278}. Further rare alterations are seen in a variety of other MAPK genes, including <em>FGFR2</em>, <em>NTRK1</em>, <em>NTRK2</em>, <em>NTRK3</em>, <em>MAP2K1</em>, and <em>MET</em> {32289278}. Although there is emerging evidence that they may also result in MAPK pathway activation {32289278}, diffuse astrocytomas with <em>MYB</em> or <em>MYBL1</em> alterations are listed separately under the family of paediatric-type diffuse low-grade gliomas.</p>\r\n<p>DNA methylation profiling has not demonstrated a single cluster for MAPK pathway&ndash;altered diffuse low-grade gliomas. Instead, some data suggest that they cluster with other tumour types that have shared genetic alterations {26810070; 29539639}. Therefore, care is required to exclude other tumour types with distinct morphological features, and DNA methylation analysis can be helpful when histopathological examination is difficult or inconclusive {29967940}.</p>\r\n",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 104342,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 481,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/44/475/22276\" target=\"_blank\">#22276</a>Box&nbsp;3.05 .</p>",
+        "timestamp": "2022-09-30T16:36:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 104343,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 104344,
+        "bookId": 44,
+        "chapterId": 475,
+        "headingId": 480,
+        "headingText": "\r\n<p>It is currently uncertain to what extent MAPK-altered diffuse low-grade gliomas, as a group, will resolve into distinct tumour types, and the factors that best predict their outcome will probably evolve as the molecular nosology of this concept is resolved. Therefore, some caution is warranted when making clinical and prognostic correlations.</p>\r\n<p>Although these are low-grade tumours, outcome will depend on location, morphology, and molecular alteration. IDH-wildtype diffuse low-grade gliomas in children rarely undergo anaplastic progression. However, some investigators have reported that a broad range of paediatric low-grade gliomas and glioneuronal tumours with a <em>BRAF</em> p.V600E mutation and <em>CDKN2A</em> deletion have a higher rate of progression and tendency for late transformation {25667294; 28727518}.</p>\r\n<p>The availability of novel targeted therapies for MAPK pathway&ndash;altered gliomas may change the prognostic and predictive value of the above alterations. Specifically, <em>BRAF</em> p.V600E&ndash;mutant diffuse gliomas respond favourably to BRAF inhibitors {31811016}. Diffuse gliomas with <em>FGFR1</em> alterations and non-canonical <em>BRAF</em> mutations may also respond to MEK inhibitors.</p>",
+        "timestamp": "2022-02-11T14:57:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

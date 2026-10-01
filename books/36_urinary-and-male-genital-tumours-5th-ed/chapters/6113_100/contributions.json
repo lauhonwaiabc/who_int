@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 69862,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 539,
+        "headingText": "\r\n<p>Acinar adenocarcinoma is a malignant epithelial neoplasm originating in the prostate and showing secretory differentiation, without a substantial component of any other type of prostatic cancer. Basal cells are typically not present.</p>\r\n",
+        "timestamp": "2022-02-10T19:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 69863,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 540,
+        "headingText": "<p>8140/3 Acinar adenocarcinoma</p>\r\n<p>8490/3 Signet-ring cell&ndash;like acinar adenocarcinoma</p>\r\n<p>8140/3 Pleomorphic giant cell acinar adenocarcinoma</p>\r\n<p>8572/3 Sarcomatoid acinar adenocarcinoma</p>\r\n<p>8140/3 Prostatic intraepithelial neoplasia&ndash;like carcinoma</p>",
+        "timestamp": "2022-04-12T15:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 69864,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 541,
+        "headingText": "\r\n<p>2C82.0 &amp; XH4PB1 Adenocarcinoma of prostate &amp; Acinar adenocarcinoma of prostate</p>\r\n",
+        "timestamp": "2022-02-10T19:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 69865,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 542,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-10T19:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 69866,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 543,
+        "headingText": "<p>Signet ring&ndash;like cell acinar adenocarcinoma; pleomorphic giant cell acinar adenocarcinoma; sarcomatoid acinar adenocarcinoma; prostatic intraepithelial neoplasia (PIN)-like carcinoma</p>\r\n<p>In addition, there are some special morphological patterns: atrophic, pseudohyperplastic, microcystic, foamy gland, and mucinous (colloid) (see <em>Histopathology</em>, below).</p>",
+        "timestamp": "2022-05-13T18:16:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 69867,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 544,
+        "headingText": "\r\n<p>Most acinar adenocarcinomas arise in the peripheral zone of the prostate, predominantly posteriorly or posterolaterally {3202246; 15861213; 1747726}. A smaller number of adenocarcinomas are located anteriorly, arising either in the anterior peripheral zone or in the transition zone {18223325}. Morphometric studies of radical prostatectomy specimens have shown that acinar adenocarcinoma is multifocal in 68&ndash;90% cases, with an average of 2&ndash;3&nbsp;separate tumour nodules in each {9352701; 12137824; 15160339}.</p>\r\n",
+        "timestamp": "2022-02-10T19:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 69868,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 545,
+        "headingText": "<p>PSA is a serine protease present in prostatic epithelium and seminal fluid {4986767; 3902893}. The vast majority of acinar adenocarcinomas of the prostate produce PSA {2578846}, although as many as 13% of high-grade cancers are completely negative for PSA by immunohistochemistry {25029122}. The discovery that PSA can be measured in serum {4106139} led to the use of elevated serum PSA as a test for the early detection of prostate cancer {1707140}. Despite suboptimal sensitivity and specificity, PSA testing is widely used for the screening of prostate cancer {21788129; 30288918; 30824296}. Serum PSA is also useful for monitoring recurrences and disease progression after treatment with curative intent. However, the majority of men with a rising serum PSA level after prostatectomy do not develop distant metastases {10235151}. Several PSA derivatives, including PSA density, doubling time, and velocity, have been proposed over the years with the aim of improving the specificity of serum PSA screening. These have demonstrated limited improvements in some studies, as have similar investigations of free PSA and its isoforms {9605898; 19064972; 22759214; 23375961}. A variety of urinary assays for biomarkers, such as <em>TMPRSS2</em>::<em>ERG</em> fusion and AMACR, have also been advocated {23201468; 24727384; 32630458}.</p>\r\n<p>Many prostate cancers are asymptomatic at diagnosis and detected because of an elevation of serum PSA {32034540}. Others are detected incidentally in men undergoing transurethral resection for benign prostatic hyperplasia. Lower urinary tract symptoms may be present in men diagnosed with prostate cancer, but they do not seem to be associated with prostate cancer risk {31876229; 21540324; 22540895}. Haematuria is an unusual presenting symptom of prostate cancer {11942444}. Men with erectile dysfunction are more often diagnosed with prostate cancer than are those with normal potency {17007705; 28881762}.</p>\r\n<p>Metastases are detected at diagnosis in 5&ndash;13% of prostate cancer cases {33056955; 27333339}. The predominant site of distant metastasis is the skeleton (accounting for 88.7% of cases of metastatic disease) {32395526}, and bone metastases of prostate cancer are usually osteoblastic {12085970}. Osteoblasts are activated by growth factors, and bone absorption is decreased by PSA {8753751}. Bone metastases in prostate cancer are a major cause of declining quality of life due to persistent pain and pathological fractures {28584570}. In autopsies of men who died of prostate cancer, the most common distant metastatic sites were bone (75&ndash;90%), lung (46&ndash;58%), liver (25&ndash;42%), pleura (21%), and adrenal glands (13&ndash;31%) {12402064; 10836297}.</p>\r\n<h5>Imaging</h5>\r\n<p>For the primary diagnosis of prostate cancer, transrectal ultrasound (TRUS) and mpMRI are the key modalities. Historically, TRUS was most commonly used as a guide for systematic biopsies {23636742}; however, in recent years, mpMRI has been recommended for initial imaging {29552975; 30477981}. mpMRI allows for a reduction of the total number of biopsy procedures and has a higher sensitivity for clinically significant cancers (Gleason score &gt;&nbsp;3&nbsp;+&nbsp;3) both in biopsy-na&iuml;ve men and after an initial negative biopsy {25257029; 30470502; 31022301}. In jurisdictions where MRI resources are scarce, ultrasound-guided systematic 10- to 14-core sampling is the initial diagnostic approach. TRUS-guided biopsies and mpMRI are currently only indicated for men with a clinical suspicion of prostate cancer.</p>\r\n<p>The current recommended protocol for mpMRI includes T2-weighted imaging, T1-weighted dynamic contrast&ndash;enhanced imaging with a gadolinium-based agent, and diffusion-weighted imaging {22322308; 26361169}. T2-weighted imaging allows the assessment of anatomical details, dynamic contrast&ndash;enhanced imaging allows the assessment of tissue vascularization, and diffusion-weighted imaging&ndash;derived measures correlate with cellular density. MRI reporting should be conducted using the Prostate Imaging Reporting and Data System (PI-RADS), currently at version&nbsp;2.1 {30898406}. PI-RADS defines five categories (1&ndash;5), with higher score categories indicating an increased risk for the presence of clinically significant cancers. After initial diagnosis, targeted biopsies can be performed using either in-bore MRI-guided biopsies or MRI/TRUS fusion&ndash;based biopsies. These can be combined with additional systematic biopsies. Caveats for the use of MRI include moderate inter-rater agreement {31172275} and limited standardization of MRI-guided biopsy protocols {27871829; 30694165; 31047733}.</p>\r\n<p>Imaging also plays a vital role in the N and M categories of prostate cancer. CT and MRI are used to detect metastases in lymph nodes, but both methods suffer from limited sensitivity (&lt;&nbsp;40%) {12815134; 26966038}. Diffusion-weighted MRI and contrast-enhanced MRI with ultrasmall superparamagnetic iron oxide (USPIO)-based agents have shown improved sensitivity {24893049; 18708295}.</p>\r\n<p>Distant metastases of prostate cancer most commonly occur in the skeletal system, and the most widely used imaging modality is the Tc-99m bone scan, which has moderate to high sensitivity and specificity (79% and 82%, respectively) {24841276}. However, whole-body MRI has demonstrated higher sensitivity and specificity (97% and 95%, respectively) than bone scans and is an increasingly popular alternative {20205350; 22366187}. For both N and M staging, there is growing evidence that 68Ga- or 18F-labelled PSMA&ndash;based PET-CT offers high sensitivity and specificity compared with traditional imaging modalities (CT and Tc-99m bone scan) {27363387; 29344682; 31141284}.</p>\r\n<p>Artificial intelligence (AI)-based decision support for prostate cancer imaging is also gaining traction, especially for primary imaging with mpMRI. Reading efficiency and inter-rater agreement can be improved {26859255; 26060063; 32560558; 30840739}. For this use specifically, the first products received United States Food and Drug Administration (FDA) clearance and CE&nbsp;marking in 2020. Other potential avenues for AI support include detecting lymph node metastases {31772836} and bone metastases {32797099}, but these applications have not yet reached maturity.</p>",
+        "timestamp": "2022-04-07T16:12:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 69869,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 546,
+        "headingText": "<p>Acinar adenocarcinoma accounts for approximately 95% of cases of prostate cancer, which is the fourth most common cancer and eighth leading cause of cancer-related death worldwide, with an estimated 1&nbsp;414&nbsp;259&nbsp;new cases and 375&nbsp;304&nbsp;prostate cancer&ndash;specific deaths in 2020 {33538338}. Data from 185&nbsp;countries show a wide difference in geographical incidence, with regions with a high or very high Human Development Index (HDI), including Europe (33.5%) and North America (16.9%), accounting for the majority of cases in the International Agency for Research on Cancer (IARC) GLOBOCAN&nbsp;2020 database [[Ferlay J, Ervik M, Lam F, et al. Global Cancer Observatory: Cancer Today [Internet]. Lyon (France): International Agency for Research on Cancer; 2020. Available from: https://gco.iarc.fr/today.]]. This is probably largely attributable to differences in the rates of serum PSA screening between countries, but other environmental and genetic factors are also likely to have a role {22424666}.</p>\r\n<p>Prostate cancer diagnoses are less common in men aged &lt;&nbsp;50&nbsp;years than in those in older age groups. In the USA, the probability among males of developing a clinically detected prostate cancer is estimated to be 0.2% (1 in 441) between birth and 49&nbsp;years but 11.6% (about 1 in 9) between birth and death {31912902}. The prevalence of prostate cancer in autopsy studies, including for men aged 30&ndash;50&nbsp;years, is markedly higher than that of cancers detected during life, reflecting the predominance of clinically inapparent indolent tumours {8326560; 23847245}.</p>",
+        "timestamp": "2022-05-04T15:39:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 69870,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 547,
+        "headingText": "\r\n<h5>Risk factors</h5>\r\n<p>Established risk factors for prostate cancer include advancing age, family history, genetics, and race {29311132}. The widespread adoption of PSA screening and its impact on early diagnosis has profoundly affected studies on disease etiology {29311132; 27518576}. Therefore, recent work has focused largely on studying exposures related to aggressive localized and lethal metastatic disease {33010161}.</p>\r\n<h5>Family history and germline genetic factors</h5>\r\n<p>A family history of prostate cancer imparts a significant (1.5- to 2.5-fold) increase in risk of prostate cancer {29101112; 31417171}. Genetic risk loci can be divided into highly penetrant but rare disease variants, and low-penetrance but high-prevalence variants. Rare, highly penetrant variants include those in <em>HOXB13</em>, <em>BRCA2</em>, and <em>ATM</em> {31417171}. Variants involving <em>BRCA2</em> and <em>ATM</em> appear to increase the risk of lethal disease {27989354}. However, family history is no longer the most useful gauge of risk because 60% of&nbsp;men with identifiable germline mutations in <em>BRCA2</em>, <em>ATM</em>, and <em>BRCA1</em> reported no family history of prostate cancer {27989354}. In terms of more common but less penetrant variants, &gt;&nbsp;160&nbsp;prostate cancer risk&ndash;associated SNPs have been reproducibly identified {29892016}. While individually imparting only a small increase in risk, these appear to have a cumulative effect such that the polygenic risk score may help in clinically identifying men at high risk {31417171; 32516092}.</p>\r\n<h5>Race/ancestry</h5>\r\n<p>The incidence and mortality rates for prostate cancer are higher in Black men than in White men of European descent. The highest mortality occurs in African-Caribbean men and men of middle and southern African descent, while the lowest occurs in men in eastern and south-central Asia {29311132; 28808871}. The reasons for the disparity by race/ancestry are multifactorial and include unequal access to prostate cancer screening, detection, and treatment. In addition, biological differences have been identified among tumours from people of various racial and ethnic groups. Prostate cancers in Black men contain fewer <em>TMPRSS2</em>::<em>ERG</em> fusions {22950997; 27477529; 32059012; 32651179} and <em>PTEN</em> deletions {27477529; 32059012; 32651179; 29460925} and a higher incidence of <em>SPOP</em> mutations {32059012; 32651179} than do those in men of European descent. Furthermore, germline variants in the region of chromosome 8q24, which contains loci linked to prostate cancer through the modulation of <em>MYC</em> expression {32409115}, have also been linked to a greater susceptibility to prostate cancer in men of African ancestry {32680982}.</p>\r\n<h5>Environmental and modifiable risk factors</h5>\r\n<p>Environmental and lifestyle factors play an important role in prostate cancer initiation and progression. Determining which exposures are most important is complex, but managing modifiable risk factors has the potential to impact disease-preventive strategies {29311132; 27518576}.</p>\r\n<h5>Obesity, diet, and other lifestyle factors</h5>\r\n<p>Obesity has been linked to prostate cancer, with some studies suggesting a link to lethal disease {29311132} and a higher risk of biochemical recurrence after prostatectomy {21325564}. Diets high in saturated and animal fats have been implicated in prostate cancer progression. In contrast, a higher intake of tomatoes and cooked vegetables containing lycopene and a low intake of carbohydrates are associated with a lower risk of aggressive prostate cancer {29311132; 27518576}. Dietary red and charred meats have been linked to an increased risk of prostate cancer in American men {27518576; 31068988}. Cooking meats at high temperatures results in the production of heterocyclic amines such as 2-amino-1-methyl-6-phenylimidazo[4,5-<em>b</em>]pyridine (PhIP). In animal studies, PhIP leads to the formation of DNA adducts and genomic changes {9202748}, with the formation of intraductal high-grade prostate lesions {12351152}. PhIP also leads to the development of inflammation in the prostate {16984728; 17264317}. Some studies support a link between heterocyclic amines and prostate cancer, but quantifying this exposure is very difficult {30247550}. A number of studies have indicated that even moderate physical activity is associated with a lower risk of dying from prostate cancer {29311132; 27518576}. Also, although tobacco smoking is not generally considered to increase the risk of prostate cancer, a number of large studies have documented more prostate cancer&ndash;specific deaths in tobacco smokers than in non-smokers {29311132; 27518576}.</p>\r\n",
+        "timestamp": "2022-02-10T19:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 69871,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 548,
+        "headingText": "<h5>Role of chronic inflammation and infection</h5>\r\n<p>Chronic inflammation is highly frequent in benign tissue regions of the prostate. Whether infection and/or inflammation involving the prostate is causative for prostate cancer remains unclear and under active investigation. The prostatic epithelium in the vicinity of inflammation is frequently atrophic yet highly proliferative compared with nearby non-inflamed luminal epithelium {29089606}. These regions are termed &ldquo;proliferative inflammatory atrophy&rdquo; and have been considered risk factor lesions for prostatic carcinogenesis; at times, they merge with and potentially transition into high-grade prostatic intraepithelial neoplasia (HGPIN), or more rarely directly into small adenocarcinoma lesions {11068311; 12937133; 19507201}. A subset of the latter have the somatic <em>GSTP1</em> hypermethylation seen in HGPIN and carcinoma {12937133}. Studies attempting to establish pathogenetic links between chronic inflammation, microbial agents (including sexually transmitted infections), atrophy, and prostate carcinogenesis are ongoing {29089606; 23389852; 24367088; 25990088; 27926864; 30900284; 30655087}.</p>\r\n<h5>Somatic alterations driving disease initiation and progression</h5>\r\n<p>Recent large-scale genomic studies including The Cancer Genome Atlas (TCGA) study have further elucidated the molecular landscape of somatic DNA alterations in prostate cancer {26544944; 28843286; 30181359; 29610475; 29959132; 29858674; 29712681}. Activation of <em>MYC</em> overexpression, shortening of telomeres, inactivation of <em>GSTP1</em> and other genes by CpG island hypermethylation, and gene fusions involving ETS transcription factors (e.g. <em>TMPRSS2</em>::<em>ERG</em>) are among the most common molecular alterations associated with prostate cancer initiation {30082453}. Androgen-driven ETS factors are key oncogenic drivers in 25&ndash;50% of prostate cancer cases {16254181}. Half of the remaining cases of acinar adenocarcinoma of the prostate are driven by somatic mutations involving <em>FLI1</em>, <em>SPOP</em>, <em>FOXA1</em>, or <em>IDH1</em> that are mutually exclusive with ETS rearrangements and with each other. Gain of 8q24 (including <em>MYC</em>), loss of <em>PTEN</em>, inactivation of <em>TP53</em>, and additional mutations and hypermethylation events are linked to disease progression. Somatic copy-number alterations are common in primary and metastatic prostate cancer. The accumulation of such alterations is associated with a worse outcome, suggesting that genetic instability is a key driver of prostate cancer progression {20579941; 25024180}.</p>\r\n<p>In metastatic prostate cancer, the disease is nearly universally sensitive initially to androgen deprivation or AR blockade, yet most cases will ultimately progress to castration-resistant prostate cancer (CRPC). This transition is associated with <em>AR</em> gene amplification, mutation, or rearrangement, and/or with the activation of AR splice variants {25184630; 31932493}, indicating that <em>AR</em> remains a key driver of late-stage disease. In a small subset, castration resistance is the result of transdifferentiation into an AR-negative phenotype, with some of these cases showing a spectrum of neuroendocrine differentiation including small cell neuroendocrine carcinoma (SCNEC) {28586335; 32649013} (see <a style=\"cursor:pointer\" href=\"/chaptercontent/36/55\" target=\"_blank\">section </a>Chapter 9: <em>Neuroendocrine neoplasms</em>). Finally, as many as 20% of metastatic prostatic carcinomas appear to harbour germline or somatic alterations in DNA repair genes involved in homologous recombination repair (HRR), mismatch repair, and others (e.g. <em>BRCA1</em>, <em>BRCA2</em>, <em>ATM</em>, <em>CHEK2</em>, <em>FANCI</em>, <em>PALB2</em>, <em>MSH2</em>) {28843286; 29610475; 27433846; 27590317; 29906450; 30033370; 29909985; 32988971}. HRR defects can render prostate cancer susceptible to poly (ADP-ribose) polymerase (PARP) inhibition, and mismatch repair defects may render it sensitive to immune checkpoint inhibitors; these observations prompted the current guideline recommendations for germline and/or somatic testing for DNA repair defects in men with aggressive primary tumours and in men presenting with metastatic prostate cancer {32516092; 28790115; 25101567}.</p>",
+        "timestamp": "2022-04-07T16:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 69872,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 555,
+        "headingText": "\r\n<p>Clinically diagnosed prostate cancer is most commonly located in the peripheral zone (in 79.2&ndash;90.9% of cases) {23107397; 16904818} followed by the transition zone (8.5&ndash;19.4%) {28554811; 23107397; 23889260}, whereas only 0.3&ndash;2.5% of cancers originate in the central zone {18343454; 23889260}. Unlike most cancers of other organs, prostate cancer is often not apparent macroscopically. Cancers were clearly visible in 41%, 52%, and 92% of cases in published series, depending on the examination technique and how advanced the tumours were {1373577; 9661921; 29709289}. Visible cancers are solid, firm, and poorly circumscribed {29709289}. Tumours of the peripheral zone are most often tan or white in unfixed specimens (67.9%), and transition zone cancers are commonly yellow or orange (80.7%) {29709289}. Transition zone cancers are less often visible (39.2%) than peripheral zone cancers (63.0%), possibly because they commonly grow within a pre-existing nodularity of prostatic hyperplasia {29709289}.</p>\r\n",
+        "timestamp": "2022-02-10T19:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 69873,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 549,
+        "headingText": "<p>The diagnosis of prostate cancer is usually initially established by histopathological examination of prostate needle biopsy samples and is based on a combination of architectural and cytological features {29297490; 17213347}. A similar combination of histological features is also applicable to the identification of acinar adenocarcinoma in radical prostatectomy and transurethral resection specimens, although some patterns (e.g. infiltrative growth) are easier to assess in larger specimens. Several diagnostic criteria and supportive features have been advocated, but few of them are absolutely specific. The microscopic criteria used to establish a diagnosis of prostatic carcinoma can be subdivided into major and minor {11338479}. Major criteria include an infiltrative growth pattern, an absence of basal cells, and nuclear atypia {17213347}. The infiltrative growth pattern typically consists of small atypical glands scattered between larger, more complex, and frequently paler benign glands. The presence of crowded glands in a linear arrangement spanning the width of the biopsy core should raise concern for malignancy. Single cells, cells arranged in cords, and fused and cribriform glands are less common patterns of invasion that are characteristic of high-grade prostatic carcinoma. Prominent nucleoli are a common finding in prostate cancer; nuclear enlargement is often a helpful criterion, but its diagnostic value is not as high as that of the presence of prominent nucleoli. In challenging cases, the absence of basal cells may be confirmed by immunohistochemical stains for basal cell markers such as high-molecular-weight cytokeratins (34&beta;E12, CK5) or p63 {29297490; 17213347}. Minor criteria include amphophilic cytoplasm, nuclear hyperchromasia, intraluminal amorphous eosinophilic material, intraluminal crystalloids, blue-tinged mucinous secretions, close proximity to high-grade prostatic intraepithelial neoplasia, and periacinar retraction clefting {11958660}. Corpora amylacea, atrophic glands, substantial inflammation, and atypical glands merging with benign glands are features against the diagnosis of prostatic acinar adenocarcinoma.</p>\r\n<p>Only a few features are pathognomonic of prostate cancer: perineural invasion, glomerulations, and mucinous fibroplasia (collagenous micronodules) {14739905; 10435561}. Because these features are not common in needle biopsy cores with limited prostate cancer, their diagnostic value is limited in this setting. To be able to use perineural invasion as a diagnostic feature of cancer, the atypical prostatic glands should encircle the nerve or display intraneural invasion, because benign prostatic glands can indent nerves. Glomerulation consists of glands with an intraluminal tuft attached to only one point of the gland, reminiscent of a renal glomerulus {11958660; 9596281}. Mucinous fibroplasia is characterized by very delicate, loose fibrous tissue with an ingrowth of fibroblasts {7748073}. Seminal vesicle invasion and extraprostatic extension are diagnostic features of prostate cancer, although they are uncommon on core needle biopsy.</p>\r\n<h5>Unusual histological patterns</h5>\r\n<p>Some patterns of prostate cancers, including atrophic, foamy gland, microcystic, and pseudohyperplastic, can be misdiagnosed as benign conditions because of their benign-appearing histological features {31729886}.</p>\r\n<h6>Atrophic pattern adenocarcinoma, including adenocarcinoma with aberrant p63 positivity</h6>\r\n<p>Some acinar adenocarcinomas show marked cytoplasmic volume loss mimicking benign atrophy. These changes may occur sporadically and are found in as many as 16% of radical prostatectomy specimens {9620026}, although lower rates have been reported in other series {9255256}. When present, atrophic features are usually mixed with more typical areas of acinar adenocarcinoma. Atrophic changes may also be seen after androgen ablation or radiotherapy {9123731}. AMACR immunostaining is negative in 30% of atrophic pattern adenocarcinomas, so paying attention to the atypical architecture and nuclear features, as well as the absence of basal cells on immunochemistry, helps to prevent underdiagnosis {15492996}. Such tumours are typically composed of single separate glands with an infiltrative pattern; they are usually assigned Gleason pattern&nbsp;3. Some atrophic carcinomas show aberrant positivity for p63 and these may be molecularly distinct {25216229; 29761525}. The concordance between atrophy and p63-positive prostatic adenocarcinomas is not complete. Awareness of this pitfall and utilization of a high-molecular-weight keratin stain may help prevent a false negative diagnosis. p63-positive acinar adenocarcinoma has no proven prognostic significance.</p>\r\n<h6>Pseudohyperplastic adenocarcinoma</h6>\r\n<p>Acinar adenocarcinomas with a pseudohyperplastic pattern mimic epithelial hyperplasia of the prostate. In prostatectomy specimens there is nearly always an associated acinar adenocarcinoma; however, in core biopsies, as much as 90% of the adenocarcinoma may be pseudohyperplastic {9777986}. Differentiation from benign hyperplasia is aided by the identification of glandular crowding, nuclear enlargement, macronucleoli, intraluminal crystalloids, and amorphous debris. Immunohistochemistry highlights the complete loss of basal cells {26101154}, and AMACR positivity is detected in 70&ndash;83% of cases {12766580}. Metastases and perineural invasion have been described in pseudohyperplastic adenocarcinoma {9777986; 24618608} and its behaviour is not noted to be different from that of other patterns of well-differentiated and Gleason pattern&nbsp;3 tumours. <em>HOXB13</em> p.G84E&ndash;related familial prostate cancers often show pseudohyperplastic features {24722062}.</p>\r\n<h6>Microcystic adenocarcinoma</h6>\r\n<p>The microcystic pattern is characterized by dilated malignant glands, on average 10&nbsp;times the size of acini in typical acinar adenocarcinoma. Microcystic adenocarcinoma is usually admixed with areas of more typical acinar carcinoma and has been recognized in 11% of radical prostatectomy specimens {20216381}. It may resemble benign cystic atrophy and although it is assigned Gleason pattern&nbsp;3, higher-grade carcinoma may be seen in other areas.</p>\r\n<h6>Foamy gland adenocarcinoma</h6>\r\n<p>Foamy gland adenocarcinoma shows abundant xanthomatous cytoplasm and often has pyknotic nuclei lacking the characteristic&nbsp;macronucleoli of typical acinar adenocarcinoma {8604808}. For these reasons it may be mistaken for benign glands or even macrophages. It is seen (usually in combination with typical acinar adenocarcinoma) in 17% of needle biopsy cases and a similar percentage of radical prostatectomy specimens {23797726}. The foamy appearance is caused by the presence of numerous intracytoplasmic vesicles, which lack lipid or neutral mucin {11342773}. Most foamy gland carcinomas are Gleason score&nbsp;6 or 7, although Gleason score&nbsp;8&ndash;10 carcinomas have been reported. AMACR overexpression is seen in &gt;&nbsp;90% of cases {25116437; 23797726}. Foamy gland adenocarcinoma carries a similar prognosis to that of typical acinar adenocarcinoma of the same grade after radical prostatectomy {22221706}.</p>\r\n<h6>Mucinous adenocarcinoma</h6>\r\n<p>Mucinous (colloid) adenocarcinoma is defined as a primary prostatic acinar carcinoma with &ge;&nbsp;25% of the tumour composed of glands with extraluminal mucin, so the diagnosis can be made only in excision specimens {29297488}. Tumours where the extraluminal mucinous component represents &lt;&nbsp;25% of the lesion are referred to as prostatic adenocarcinoma with mucinous features. The prognosis of mucinous adenocarcinoma appears to be similar to, or in some cases better than, that of non-mucinous prostate cancers of a similar grade, when treated by radical prostatectomy {28590015; 17070361; 29297488}. Patients with mucinous adenocarcinoma have similar cancer-specific survival and overall survival to matched individuals with typical prostate acinar adenocarcinoma {31998638}. The majority of mucinous prostatic adenocarcinomas and prostatic adenocarcinomas with mucinous features retain PTEN expression {29621096}.</p>\r\n<h5>Subtypes</h5>\r\n<h6>Signet-ring cell&ndash;like adenocarcinoma</h6>\r\n<p>Signet-ring morphology is defined by intracytoplasmic vacuoles that displace the compressed nucleus to the periphery of the cell {2454036}. Prostatic signet-ring cells are generally mucin-negative, which is why the term &ldquo;signet-ring cell&ndash;like&rdquo; is often used {21123640; 10417691}. This subtype is very rare in its pure form. The presence of signet ring&ndash;like cells accounting for &ge;&nbsp;25% of tumour cells is considered diagnostic; in consecutive series, this is found in about 2% of cases. Intracytoplasmic vacuolation may occur in any Gleason pattern, but it is more commonly associated with higher Gleason patterns and therefore usually has a poor prognosis {32141804; 15009368; 9647593}. Very rarely, true signet-ring adenocarcinomas of the gastrointestinal tract metastasize to the prostate {32504679}.</p>\r\n<h6>Sarcomatoid carcinoma</h6>\r\n<p>Sarcomatoid dedifferentiation of prostate carcinoma is exceedingly rare {1942296; 8625205} and most commonly occurs during the development of high-grade adenocarcinoma, especially after irradiation {17001164; 18325477}. The sarcomatous tumour component may appear as homogeneous spindle cell sarcoma, but it may also contain areas of heterologous leiomyomatous, angiosarcomatous, chondroid, or osseous differentiation. The prognosis is generally dismal despite therapy {26126695; 17001164}. The differential diagnosis encompasses prostatic stromal sarcoma and solitary fibrous tumour, but also gastrointestinal stromal tumour and other sarcomas secondarily involving the prostate {32758370; 29297486}. Demonstration of a <em>TMPRSS2</em>::<em>ERG</em> translocation by FISH may be diagnostically useful to confirm the tumour&rsquo;s prostatic origin. On immunohistochemistry, AR expression may be lost and PSA is usually negative {25041380; 32639612; 30101629; 10945910}.</p>\r\n<h6>Pleomorphic giant cell adenocarcinoma</h6>\r\n<p>Pleomorphic giant cell adenocarcinoma is a rare and clinically highly aggressive subtype described in relatively small series (&le;&nbsp;30 patients) or as case reports {15859643; 17001156; 28484843; 29944471; 30636012; 32639612}. Morphologically, it is defined by the presence of extreme nuclear atypia and pleomorphism, with characteristic bizarre multinucleated and mononuclear giant cells, usually with abundant cytoplasm. There are often atypical mitoses. The overall histological appearance is variable: in some cases, the giant cell adenocarcinoma component is present focally (~5% of the tumour) alongside usual high-grade acinar adenocarcinoma, whereas in others, the giant cell component predominates (&ge;&nbsp;70%). It may occur mixed with ductal adenocarcinoma or other rare morphological subtypes or patterns (e.g. squamous, sarcomatoid, and neuroendocrine). Many cases arise after prior androgen deprivation or radiation therapy. Most cases are positive (at least focally) for one or more prostate-restricted markers such as PSA, P501S, NKX3-1, HOXB13, and AR {28484843; 29944471; 30636012}. Molecularly, they are characterized by relatively infrequent <em>ERG</em> rearrangements, a high prevalence of <em>PTEN</em> loss, and <em>TP53</em> mutations {30636012; 32639612}. Also, there are frequent biallelic pathogenic mutations in homologous DNA repair genes or mismatch repair genes {30636012}.</p>\r\n<h6>PIN-like carcinoma</h6>\r\n<p>Prostatic intraepithelial neoplasia (PIN)-like carcinoma is uncommon and a mimic of HGPIN. This subtype is characterized by large, discrete glands with a flat or tufted architecture; the glands are often lined by pseudostratified epithelium displaying elongated hyperchromatic nuclei, which resembles that of ductal adenocarcinoma {16607376; 18496142}. In other cases of PIN-like carcinoma the neoplastic epithelium is cuboidal, with round nuclei that are more typical of acinar adenocarcinoma {16607376}. This subtype can be distinguished from HGPIN by the crowding of the glands and the lack of basal cells, and from ductal adenocarcinoma by the absence of true papillae with fibrovascular cores, cribriform glands, and necrosis. It has a generally favourable prognosis and is assigned Gleason score 3&nbsp;+&nbsp;3&nbsp;=&nbsp;6 {18496142; 30138215}. A recent molecular study found frequent activating mutations in the RAF/RAS pathway in PIN-like carcinoma, which contrasts with the usual molecular profile of both acinar and ductal adenocarcinoma, highlighting its distinctiveness {32740981}.</p>\r\n<h5>Tumour invasion and spread</h5>\r\n<p>Prostatic adenocarcinoma spreads outside the prostate by direct invasion into adjacent organs and tissues, by lymphatic spread to lymph node groups, or by haematogenous spread to distant organs. Extraprostatic extension is identified histologically by the direct invasion of periprostatic fat or beyond the plane of fat, or by the involvement of dorsolateral nerve bundles, or by the carcinoma bulging beyond the normal prostatic contour {9712429; 20802467}. Diagnosis of seminal vesicle invasion requires involvement of its muscular wall, with only the extraprostatic portion of the seminal vesicles being considered positive {20818343}. Invasion of the seminal vesicles can occur directly from the prostate, via the extraprostatic tissues or discontinuously as a metastasis {8238732; 17431809}. Direct involvement of the urinary bladder, pelvic soft tissue, and rectum may occur in advanced cancers {10632749; 14629877; 18234278}.</p>\r\n<p>Prostate cancer spreads via the lymphatics to regional lymph nodes and shows a propensity to metastasize haematogenously to bone. When nodal disease is present it most commonly involves the external iliac, internal iliac, obturator, and presacral lymph nodes {16523810; 11912387}. Advanced cancers can spread to visceral sites, including liver, lungs, and brain {24132735}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Immunohistochemistry can be used to enhance the diagnostic accuracy of prostate biopsies or to identify metastatic prostate cancer in other organs {25029122}. A panel of markers is usually recommended; however, it should be noted that the pathological diagnosis of prostatic adenocarcinoma is primarily based on histological features.</p>\r\n<p>A number of prostate-specific markers can be used to determine whether a carcinoma originates from the prostate. Among them, PSA is best known; however, NKX3-1 has much better sensitivity and specificity for prostatic adenocarcinoma {20588175; 17667550}. ERG is positive in &lt;&nbsp;50% of cases of prostatic adenocarcinoma {17237811; 26172920} and in an even lower proportion in Asian populations {23136568; 28633309}; its low sensitivity limits its usefulness in prostate biopsies. AMACR has been widely used for the diagnosis of prostate cancer on core needle biopsies because of its higher expression in adenocarcinoma than in benign epithelium in the prostate {11684956; 11926890; 12218573}. However, AMACR has limited value in identifying metastatic prostate cancer because other carcinomas (e.g. colonic adenocarcinoma, papillary renal cell carcinoma) can also be positive for AMACR. Basal cell markers (p63, high-molecular-weight cytokeratin) are usually absent in invasive prostatic adenocarcinoma {12218572; 12604893}. An antibody cocktail including AMACR, p63, and high-molecular-weight cytokeratin (triple stain) is often used on prostate biopsies, particularly for a small focus of abnormal cells {15487448}. Such triple immunostains can also be used in the diagnosis of prostatic intraductal carcinoma {16980940; 22458904} and p63-positive prostatic carcinoma {18300803}.</p>\r\n<p>The diagnostic immunohistochemical markers of prostatic adenocarcinoma are summarized in <a style=\"cursor:pointer\" href=\"/attachment/36/100/20758\" target=\"_blank\">#20758</a>Table&nbsp;4.01 .</p>\r\n<h5>Grading</h5>\r\n<p>The Gleason grading system forms the basis for prostate cancer grading worldwide. It has been modified on several occasions over the past 50&nbsp;years, most recently after the International Society of Urological Pathology (ISUP) consensus conferences in 2005, 2014, and 2019 and the 2019 white paper by the Genitourinary Pathology Society (GUPS) {16096414; 26492179; 32459716; 32589068}. Validation studies that followed the 2005 and 2014 modifications demonstrated that the Gleason score remains an independent predictor of biochemical recurrence, metastasis, and prostate cancer&ndash;specific mortality {26166626; 26325671; 27009882; 27100731; 27940155; 28371244}.</p>\r\n<p>In essence, the Gleason system assigns values ranging from 1&nbsp;(most differentiated) to 5&nbsp;(least differentiated) to the various architectural patterns of prostate cancer. The primary (i.e. the most prevalent) and secondary grade patterns are added together to derive a Gleason score, usually expressed as a sum (e.g. 3&nbsp;+&nbsp;4&nbsp;=&nbsp;7 or 4&nbsp;+&nbsp;5&nbsp;=&nbsp;9). When only one grade pattern is present, its value is doubled to give the Gleason score (<a style=\"cursor:pointer\" href=\"/attachment/36/100/20755\" target=\"_blank\">#20755</a>Table&nbsp;4.02, and <a style=\"cursor:pointer\" href=\"/attachment/36/100/20756\" target=\"_blank\">#20756</a>Table&nbsp;4.03, p&nbsp;XXX). Nuclear and cytoplasmic features are not factored into Gleason grading of prostate cancer. The 2005 ISUP consensus conference introduced a number of key changes to reflect evolving diagnostic practice. In particular, patterns&nbsp;1 and&nbsp;2 are no longer assigned to core needle biopsy specimens and are rarely used in radical prostatectomy specimens, leaving an effective range of 6&ndash;10 for Gleason scores. Moreover, since 2005, the Gleason score for core needle biopsies is derived by adding the primary pattern to the highest remaining grade pattern, unlike in prostatectomy specimens where the score is generally derived from the sum of the primary and second most prevalent patterns {16096414}. However, in some radical prostatectomy specimens the prostate cancer may consist of more than two Gleason patterns, with the highest grade (pattern&nbsp;5) representing the smallest volume, referred to as a tertiary high-grade pattern. In this situation, if the tertiary grade pattern constitutes &gt;&nbsp;5% of the tumour volume it becomes the secondary pattern in Gleason scoring [[Moch H, Humphrey PA, Ulbright TM, et al., editors. WHO classification of tumours of the urinary system and male genital organs. Lyon (France): International Agency for Research on Cancer; 2016. (WHO classification of tumours series, 4th ed.; vol. 8). https://publications.iarc.fr/540.]] {28177964; 32589068; 32459716}. Although the 5% cut-off point is somewhat arbitrary, higher tertiary-pattern volumes are associated with a worse prognosis {18718699; 27810358; 27993581; 28117112; 30181565}. If there is a higher-grade component constituting &le;&nbsp;5% of the tumour, it may be dealt with differently in the 2019 ISUP and GUPS systems, depending on the grading scenario (see <a style=\"cursor:pointer\" href=\"/attachment/36/100/20756\" target=\"_blank\">#20756</a>Table&nbsp;4.03, and <a style=\"cursor:pointer\" href=\"/attachment/36/100/20757\" target=\"_blank\">#20757</a>Table&nbsp;4.04). Some authors have advocated for more quantitative grading, recognizing that the amount of high-grade (pattern&nbsp;4 or&nbsp;5) tumour strongly correlates with outcome {10737486; 12131299; 26542947}.</p>\r\n<p>At the 2014 ISUP conference the concept of grade groups (GG1&ndash;GG5) was endorsed. This system is also referred to as &ldquo;ISUP grade&rdquo; or simply &ldquo;WHO Classification of Tumours grade (WHO grade)&rdquo;, in part to distinguish it from the other grade grouping systems used in various studies before 2013. These grade groups correspond to Gleason scores but have some advantages with respect to the communication of results to patients, clinicians, and researchers; for instance, Gleason score 3&nbsp;+&nbsp;3&nbsp;=&nbsp;6 cancers are assigned GG1 to highlight their generally favourable prognosis, whereas 3&nbsp;+&nbsp;4&nbsp;=&nbsp;7 cancers (GG2) are placed in a separate grade group to 4&nbsp;+&nbsp;3&nbsp;=&nbsp;7 cancers (GG3) to emphasize the higher risk of recurrence associated with the latter {23464824; 26492179}.</p>\r\n<p>The 2019 grading changes proposed by ISUP and GUPS are yet to be fully validated, and there are also some specific differences between the recommendations from the two bodies that cannot be resolved on the basis of currently available published evidence (<a style=\"cursor:pointer\" href=\"/attachment/36/100/20757\" target=\"_blank\">#20757</a>Table&nbsp;4.04) {32459716; 32589068; 33027069}. Both organizations advocate reporting an estimate of the percentage of pattern&nbsp;4 cancer present in prostate biopsies with Gleason score&nbsp;7 (GG2 or GG3), as well as the presence of invasive cribriform carcinoma in Gleason score&nbsp;7&nbsp;and&nbsp;8 cases (GG2&ndash;4), because several studies have shown that these features have prognostic and clinical significance {26920466; 27457260; 26542947; 25189638; 21685037; 26939875}. However, there are acknowledged problems relating to interobserver reproducibility in the assessment of pattern&nbsp;4 carcinoma, especially for poorly formed or fused gland patterns, with kappa coefficients for the former ranging from 0.27 to 0.34 (fair agreement only) {21679996; 26099009; 27028587}. Although invasive cribriform carcinoma is recognized more consistently between pathologists than are other morphological patterns included within Gleason grade pattern&nbsp;4, there are still issues surrounding its precise definition (especially how to define small vs large cribriform glands), reproducibility, and consistent distinction from intraductal carcinoma of the prostate without using immunohistochemistry {21685037; 27028587; 30349027; 32815034}. Furthermore given this last point, the exclusion of intraductal carcinoma of the prostate from Gleason grading may be problematic, and potentially unnecessary, without more extensive use of immunohistochemistry in routine practice {29878934; 30720899; 32542746}. In the interim, while awaiting more definitive evidence to resolve the differences between the 2019 ISUP and GUPS proposals, pathologists should specify which version of the Gleason grading system recommendations is being used in routine reporting and publications to allow meaningful analyses and comparisons of cohorts.</p>\r\n<p>A recent development is the introduction of computer-assisted prostate cancer grading using AI. A series of studies has shown that AI-based algorithms can perform prostate cancer grading at the level of experienced, subspecialized uropathologists {31304394; 31926806; 31926805; 32701148}. Although more extensive, and prospective, validation of these algorithms in clinical practice is needed, they offer a potential avenue for improving prostate cancer grading. Specifically, by supporting inexperienced or non-specialized pathologists, interobserver and intraobserver variability in grading can be reduced, as has been shown in preliminary studies {32759979; 33180129}. Furthermore, AI-based algorithms could play an important role in the more accurate quantification of patterns, thanks to their ability to individually count every cell and gland belonging to a specific pattern. The first commercial offerings received CE certification in 2020.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Prostatic adenocarcinoma must be distinguished from a wide range of benign and malignant conditions involving the prostate {26837901; 33070957} (see <a style=\"cursor:pointer\" href=\"/attachment/36/100/20759\" target=\"_blank\">#20759</a>Table&nbsp;4.05).</p>\r\n<h6>Benign conditions</h6>\r\n<p>Seminal vesicles and ejaculatory ducts exhibiting degenerative nuclear atypia and cytoplasmic lipofuscin are positive for PAX8 and MUC6 {12657938} and negative for NKX3-1 and PSA. Paraganglia, which mimic high-grade prostatic adenocarcinoma, are clusters of neuronal cells with clear or amphophilic cytoplasm and fine chromatin {8141432}. Other benign conditions often confused with adenocarcinoma are atrophic lesions and adenosis {15492996; 17074684; 7793471; 12131160}. Atrophic lesions are typically present as lobular collections of glands without cytological atypia. Adenosis, characterized by the lobular proliferation of small, crowded glands, differs from adenocarcinoma in two key features: the presence of patchy basal cells and the absence of marked cytological atypia. Other benign hyperplastic and metaplastic lesions should also be considered in the differential diagnosis {15948114}. Therapeutic modalities such as radiation can induce profound histological changes in benign epithelium, leading to diagnostic challenges {12893336}. Inflammatory processes, including nonspecific granulomatous prostatitis, can show inflammatory infiltrates and disrupted prostatic glands associated with serum PSA elevation. Nephrogenic adenoma is characterized by a small cluster of AMACR-positive glandular cells in a background of granulation tissue, mimicking prostate cancer {11395559}.</p>\r\n<h6>Other malignancies</h6>\r\n<p>Because of important differences in treatments, other malignant neoplasms in the prostate (either as primary or secondary involvement) must be distinguished from prostatic adenocarcinoma. Urothelial carcinoma is distinguished from adenocarcinoma by its more pleomorphic and hyperchromatic nuclei. Urothelial carcinoma is frequently positive for GATA3, p63, CK20, and S100 on immunohistochemistry, whereas prostatic adenocarcinoma is positive for NKX3-1 and other prostate markers {22982890; 30509113}. Other epithelioid malignancies such as melanoma, synovial sarcoma, and Ewing sarcoma should also be considered in the differential diagnosis. Immunohistochemistry for a panel of prostate-specific markers may help confirm the diagnosis of metastatic prostatic adenocarcinoma.</p>\r\n<h5>Treatment-related effects</h5>\r\n<p>Common treatment modalities such as radiotherapy and hormones can have marked effects on the appearance of prostatic adenocarcinoma {22212084; 29297495}. Radiation effects range from minimal, where the carcinoma is easy to identify, to pronounced, where the identification of carcinoma may be difficult. In general, the neoplastic glands show an irregular epithelial&ndash;stromal relationship and lack an organized, lobular appearance. There is shrinkage of glands, cytoplasmic vacuolation, and nuclear enlargement and atypia. Small irregular nests and individual cells may be seen. The changes on routine microscopy can be subtle, and immunohistochemistry may be used to detect the treated carcinoma. Useful markers include keratins, PSA, and AMACR. Grading of treatment effects after radiation therapy can be of value in predicting long-term survival {19117039}.</p>\r\n<p>Hormone therapies, especially those associated with maximal androgen blockade, can have profound effects on the appearance of adenocarcinoma {22212084; 29297495}. There is a reduction in the number of neoplastic glands, and they are often small and atrophic. Lumina may be collapsed or compressed and small cords and individual cells resembling histiocytes may be seen. Nuclear pyknosis, hyperchromasia, and loss of nucleolar prominence are often seen. Cytoplasmic vacuolation and clearing may be present. Stromal changes include mucinous pools and branched clefts, imparting a haemangiopericytomatous appearance. In cases where there are dramatic effects, immunohistochemistry using markers like those noted above may be useful to identify residual tumour. The use of maximal androgen blockade is also associated with neuroendocrine differentiation; this is covered in <a style=\"cursor:pointer\" href=\"/chaptercontent/36/326\" target=\"_blank\">section </a><em>Treatment-related neuroendocrine prostatic carcinoma</em> . In patients with prominent hormonal effects, Gleason grading is not recommended because the effect of the hormones can create pseudo-grades&nbsp;4 and&nbsp;5, resulting in spurious upgrading. The effects of 5&alpha;&nbsp;reductase inhibitors on prostate carcinoma are mild to non-existent, and they are not reproducibly recognized {17848673}.</p>\r\n<p>Other therapies, such as chemotherapy and ablative and focal therapies (e.g. cryotherapy, microwave thermotherapy, high-intensity focused ultrasound, and photodynamic therapy), can have significant effects on the appearance of prostatic adenocarcinoma, as detailed in the literature {20231619; 21654359}.</p>",
+        "timestamp": "2022-04-07T16:17:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 69874,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 550,
+        "headingText": "\r\n<p>Cytology is no longer clinically relevant in the diagnosis of localized prostate cancer.</p>\r\n",
+        "timestamp": "2022-02-10T19:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 69875,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 551,
+        "headingText": "\r\n<p>As indicated above (see <em>Pathogenesis</em>), prostate cancer is primarily driven by AR signalling, which has been therapeutically exploited for decades by applying androgen withdrawal or receptor blockade {32606361}. The development of constitutively active AR splice variants {26563462; 33134178} is one of several mechanisms of hormone therapy resistance in CRPC. The detection of one such variant (AR splice variant AR-V7) in circulating tumour cells has been found to predict poor response to second-generation AR antagonists such as abiraterone and enzalutamide {25184630; 28384066}. However, tissue-based AR-V7 detection by immunohistochemistry or in&nbsp;situ hybridization remains experimental at this point {27117751; 30334814; 28866255}.</p>\r\n<p>As many as 20% of metastatic prostatic carcinomas harbour germline or somatic alterations in DNA repair genes involved in mismatch repair and HRR pathways {28843286; 27433846}. The presence of HRR defects predicts response to inhibitors of poly (ADP-ribose) polymerase (PARP), an enzyme that is involved in alternative DNA repair mechanisms {26000489; 26510020; 32955174}. Therefore, current guidelines recommend tissue assessment of germline and somatic HRR in patients with CRPC before they receive a PARP inhibitor. PD1/PDL1-targeted immune checkpoint inhibitors have demonstrated a durable response in a wide array of cancers. Recently, immune checkpoint inhibitors have been approved for the treatment of advanced solid tumours harbouring genetic defects in DNA mismatch repair, including prostate cancer {28596308; 30337059}. Detection of DNA mismatch repair by immunohistochemistry or molecular assays (microsatellite instability testing or next-generation sequencing) is therefore indicated in patients with advanced CRPC under consideration for immunotherapy {32044806; 32589068; 30589920; 30179225}.</p>\r\n<p>Many commercial RNA-based assays have been developed with suggested clinical utility in guiding treatment decisions for patients with very-low-risk and low-risk primary prostate cancer. The added value of such high-cost assays compared with established clinicopathological prognostic parameters in the setting of active surveillance remains to be determined {31085757}.</p>\r\n",
+        "timestamp": "2022-02-10T19:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 69876,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 554,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/36/100/21131\" target=\"_blank\">#21131</a>Box&nbsp;4.01 .</p>\r\n",
+        "timestamp": "2022-02-10T19:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 69877,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 552,
+        "headingText": "\r\n<p>Acinar adenocarcinoma should be staged using the eighth editions of the Union for International Cancer Control (UICC) TNM classification of malignant tumours [[Brierley JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley-Blackwell; 2017.]] and the American Joint Committee on Cancer (AJCC) cancer staging manual [[Amin MB, Edge S, Greene F, et al., editors. AJCC cancer staging manual. 8th ed. New York (NY): Springer; 2017.]]. Subdivision of the pT2 category is no longer included in the eighth editions because it lacks additional prognostic significance {15073852; 18671786}.</p>\r\n<p>Detailed datasets and associated commentary for the standardized pathology reporting of prostate cancer, including specific datasets for radical prostatectomy, core needle biopsy, and transurethral resection specimens, are available from the International Collaboration on Cancer Reporting (ICCR) website (https://www.iccr-cancer.org/) [[International Collaboration on Cancer Reporting [Internet]. ICCR; 2020. Datasets for urinary / male genital; cited 2020 Nov 19. Available from: http://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital.]].</p>\r\n",
+        "timestamp": "2022-02-10T19:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 69878,
+        "bookId": 36,
+        "chapterId": 100,
+        "headingId": 553,
+        "headingText": "\r\n<p>In radical prostatectomy specimens, pathological stage&nbsp;&ndash; which incorporates elements including extraprostatic extension, seminal vesicle invasion, lymph node metastasis, and distant metastasis&nbsp;&ndash; is the most important predictive factor, after grade, for cancer recurrence {22788795}. Extraprostatic extension is an independent predictor of recurrence after radical prostatectomy {9712429; 22014050; 30181813}. Extraprostatic extension can occasionally be diagnosed in needle biopsies when cancer infiltrates into or beyond the attached adipose tissue {20002671} and predicts high-stage disease {30929849; 30414957}. Patients with seminal vesicle invasion have an increased risk of death from prostate cancer after radical prostatectomy, with a disease-specific mortality of 6% after 6&nbsp;years and 15&ndash;27% after 15&nbsp;years {29037803; 21239008; 30181813}. A positive surgical margin at radical prostatectomy is associated with an increased risk of biochemical recurrence; however, the impact of a positive margin on prostate cancer&ndash;specific mortality is uncertain. If present, any effect is likely to be modest relative to Gleason score and pathological stage {20883488; 21808286; 22788795; 23932439; 32410119}.</p>\r\n<p>The volume of prostate cancer correlates with other prognostic factors and with outcome after radical prostatectomy {8488608; 18554662}, but its role as an independent predictor has been disputed {20697812; 19664875}. The linear extent of prostate cancer in needle biopsies and the number of positive cores correlate with tumour volume {16257839}, postoperative stage {9028364}, and outcome after radical prostatectomy or radiotherapy {18603352; 9605647; 16705126; 12775742} and can be used for risk stratification.</p>\r\n<p>Perineural invasion in core needle biopsies correlates with stage {31401922; 26286637; 23374801} and with outcome after radical prostatectomy {31401922; 29390991; 23374801} or radiotherapy {29390991; 32285460; 21820250}. However, whether it is an independent predictor of outcome is controversial {31401922; 29755671}. Lymphovascular invasion in radical prostatectomy specimens is mainly seen in high-grade cancers and is an independent predictor of recurrence {16280760; 10843289; 21050364; 17155973; 30544460}. It is rarely identified in needle biopsies, which makes its prognostic relevance in that setting difficult to evaluate {29297497}.</p>\r\n<p>Although many biomarker candidates have been proposed for prostate cancer, mainly as immunohistochemistry markers, their use in routine diagnostic practice is still uncommon. One of the best-validated prognostic biomarkers is Ki-67, which has been shown to be prognostic in watchful waiting cohorts, radical prostatectomy cohorts, and radiation therapy cohorts {30976102; 29559283; 26517642; 19293807; 19117060; 8691323}. Because proliferation index is a continuous variable, a cut-off value is required to delineate meaningful risk groups, and published cut-off values vary widely, with most studies recommending values of 5&ndash;10% {28648414; 30288742}. Multiple studies have demonstrated that the loss of <em>PTEN</em> is associated with a poor prognosis in patients with prostate cancer. It has the advantage of a dichotomous (retained vs lost) staining pattern on immunohistochemistry, and genomic loss can also be determined by FISH {22705054; 29029453; 31359337; 31502941; 32129857; 31411988; 22684219}. The prognostic value of <em>PTEN</em> loss may be more pronounced in ERG-negative cases {31502941; 30101374}.</p>\r\n<p>Prognostic transcript signatures allow for normalized measurements and thereby potentially represent a more robust biomarker platform {29129398}. Several signatures have been extensively validated in retrospective cohorts and commercialized; these measure transcripts associated with tumour progression, including proliferation, invasion, and androgen signalling {33293078; 25481455; 25465337}. Tumour heterogeneity, multifocality, and sampling bias appear to remain important issues, and these may affect the validity of test results {30385730; 27451135}.</p>",
+        "timestamp": "2022-02-10T19:31:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

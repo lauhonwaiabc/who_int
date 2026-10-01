@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 89,
+    "bookId": "36",
+    "roleid": 151,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2835,
+        "lastname": "Raspollini",
+        "firstname": "Maria Rosaria",
+        "initials": "",
+        "email": "",
+        "roleid": 151,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 91,
+    "bookId": "36",
+    "roleid": 153,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2012,
+        "lastname": "Srigley",
+        "firstname": "John R.",
+        "initials": "",
+        "email": "",
+        "roleid": 153,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 92,
+    "bookId": "36",
+    "roleid": 154,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2835,
+        "lastname": "Raspollini",
+        "firstname": "Maria Rosaria",
+        "initials": "",
+        "email": "",
+        "roleid": 154,
+        "position": 0
+      }
+    ]
+  }
+]

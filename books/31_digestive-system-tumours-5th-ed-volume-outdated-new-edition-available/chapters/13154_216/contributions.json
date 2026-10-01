@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 56179,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 159,
+        "headingText": "\r\n<p>Gastrointestinal clear cell sarcoma (CCS)&nbsp;/ malignant gastrointestinal neuroectodermal tumour (GNET) is a sarcoma involving the GI tract with neuroectodermal differentiation and gene fusion translocations involving <em>EWSR1</em>, usually <em>EWSR1</em>-<em>ATF1</em> or <em>EWSR1</em>-<em>CREB1</em>.</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 56180,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 160,
+        "headingText": "<p>9044/3 Clear cell sarcoma NOS</p>",
+        "timestamp": "2021-11-22T17:43:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 56181,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 161,
+        "headingText": "\r\n<p>XH77N6 Clear cell sarcoma</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 56182,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 162,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 56183,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 163,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 56184,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 164,
+        "headingText": "\r\n<p>The most common locations are the small intestine, stomach, and colon.</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 56185,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 165,
+        "headingText": "\r\n<p>Gastrointestinal CCS-like tumour has a predilection for arising in young adults but can also occur in old age. It is an aggressive tumour that often metastasizes to regional lymph nodes and liver, and metastases are often detected at presentation.</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 56186,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 166,
+        "headingText": "\r\n<p>Tumours reported as GNET have a median patient age of 33&nbsp;years (range: 10&ndash;81&nbsp;years) and an even sex distribution, whereas tumours reported as GI tract CCS have a higher median age (57&nbsp;years; range: 35&ndash;85&nbsp;years) and 85% of the cases occur in males {29970252}.</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 56187,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 167,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 56188,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 168,
+        "headingText": "\r\n<p>Most cases contain <em>EWSR1</em> gene aberrations, with <em>ATF1</em> or <em>CREB1</em> as the partner.</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 56189,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 207,
+        "headingText": "\r\n<p>The tumours are 2&ndash;15&nbsp;cm in size and variably form endophytic polypoid masses or mural lesions, often with ulceration resembling common carcinomas. The tumours are solid and often lobulated and tan-white on sectioning.</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 56190,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 169,
+        "headingText": "\r\n<p>Most cases show round cell histology with uniform cells in vague nested or pseudopapillary patterns, but spindle cell histology is seen occasionally. The cells contain large round nuclei with vesicular chromatin and usually inconspicuous but occasionally prominent nucleoli. The cytoplasm is usually pale eosinophilic and shows clearing only in a minority of cases. Half of the cases contain osteoclastic giant cells. Mitotic activity is variable. Immunohistochemically, positivity for S100 and SOX10 is typical, whereas markers that are more melanocyte-specific (HMB45, melan-A, and MITF) are negative. CD56 and synaptophysin positivity is a characteristic feature, and the neuroblastoma marker NB84 can also be expressed. Unlike gastrointestinal stromal tumour, these tumours are negative for KIT and DOG1. They are also negative for chromogranin, CD34, desmin, keratins, and SMA.</p>\r\n<p>It is debated whether GI tract CCS and malignant GNET should be considered different tumours or the same tumour with different degrees of differentiation {29970252}. Many authorities prefer the term &ldquo;CCS&rdquo; when there is expression of melan-A, HMB45, or MITF and the term &ldquo;malignant GNET&rdquo; when these markers are absent {29970252; 26163185; 28320420; 25724038}.</p>\r\n<p>The primary differential diagnosis is with metastatic melanoma. The absence of a clinical history of melanoma is supportive, and the demonstration of <em>EWSR1</em> gene rearrangement is definitive. The distinction from other sarcomas harbouring <em>EWSR1</em> gene rearrangements is based on the combination of morphology and immunohistochemistry.</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 56191,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 170,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 56192,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 171,
+        "headingText": "\r\n<p>Most cases contain <em>EWSR1</em> gene aberrations. Most have an <em>EWSR1</em>-<em>ATF1</em> fusion similar to that of peripheral CCS, and a minority of cases contain an <em>EWSR1</em>-<em>CREB1</em> fusion.</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 56193,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 174,
+        "headingText": "\r\n<p><em>Essential:</em> positivity for S100 and SOX10; <em>EWSR1</em> fusion gene.</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 56194,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 172,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 56195,
+        "bookId": 31,
+        "chapterId": 216,
+        "headingId": 173,
+        "headingText": "\r\n<p>Not clinically relevant</p>",
+        "timestamp": "2019-04-15T16:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

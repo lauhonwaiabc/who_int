@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 113004,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 576,
+        "headingText": "\r\n<p>Hairy polyp is a benign polypoid lesion of the nasopharynx containing both ectodermal and mesodermal elements.</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 113005,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 577,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 113006,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 578,
+        "headingText": "\r\n<p>2E90.6 Benign neoplasm of nasopharynx</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 113007,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> dermoid polyp; teratoid polyp; naso(oro)pharyngeal choristoma.</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 113008,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 113009,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 581,
+        "headingText": "\r\n<p>Most hairy polyps (60%) arise in the lateral wall of the nasopharynx, but they can also occur in the oropharynx, palate, tongue, lip, and middle ear {8861486; 9738766; 24771213; 30702604}.</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 113010,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 582,
+        "headingText": "\r\n<p>The clinical presentation varies depending on the size, location, and mobility of the lesion. The symptoms include respiratory obstruction, stridor, cough, dyspnoea, feeding and swallowing difficulty, hypersalivation, and vomiting. Rarely, hairy polyp is associated with other congenital abnormalities such as branchial arch anomalies, cleft palate, or Dandy&ndash;Walker syndrome {2074566; 2286505; 19720255; 26746607; 33762553}.</p>\r\n<h5>Imaging</h5>\r\n<p>Preoperative imaging with CT often shows a smooth polypoid mass with fat attenuation and the presence of a fibrovascular stalk {25939422}.</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 113011,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 583,
+        "headingText": "<p >Hairy polyp is rare, with an incidence rate of 2.5&nbsp;cases per 100&nbsp;000&nbsp;live births. It mostly occurs in neonates and young children and is extremely rare in adults. It has a female predilection, with an M:F&nbsp;ratio of 1:6 {8861486; 24771213; 30702604; 33762553}.</p>",
+        "timestamp": "2023-11-10T12:27:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 113012,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 113013,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 585,
+        "headingText": "\r\n<p>Hairy polyp is a manifestation of rare developmental abnormalities. It may be derived from multifunctional tissue with differentiating potentiality forming a choristoma; or it may occur due to malformation of the first and second branchial arches {15069572; 30702604; 32911888}.</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 113014,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 592,
+        "headingText": "\r\n<p>Grossly, the hairy polyp is a long, cylindrical structure and the external surface resembles skin. Cut surfaces are solid, without cystic change {30702604}.</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 113015,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 586,
+        "headingText": "\r\n<p>Hairy polyps are covered by an ectodermal layer characterized by keratinizing squamous epithelium with underlying associated adnexal structures, including hair follicles and sebaceous units. The ectodermal layer overlies various combinations of mesodermal tissue. Fibroadipose tissue is uniformly present, but cartilage, bone, and/or skeletal or smooth muscle is also commonly found {30702604}. Rarely, meningothelial, minor salivary gland, or odontogenic elements may be observed {7614207; 33723758}. Endodermal tissue has not been reported as a component of hairy polyp.</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 113016,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 587,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 113017,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 588,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 113018,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> a polypoid structure with an ectodermal outer layer resembling skin, covering mesodermal tissue; no endodermal tissue should be present.</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 113019,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 113020,
+        "bookId": 52,
+        "chapterId": 31,
+        "headingId": 590,
+        "headingText": "\r\n<p>Surgical excision is curative in the majority of cases {26829696}.</p>",
+        "timestamp": "2023-09-25T13:46:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

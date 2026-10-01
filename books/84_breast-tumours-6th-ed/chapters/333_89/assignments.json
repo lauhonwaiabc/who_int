@@ -1,0 +1,132 @@
+[
+  {
+    "pkroleId": 170,
+    "bookId": "84",
+    "roleid": 264,
+    "roleTitle": "Resp. editor",
+    "contributors": [
+      {
+        "contributorid": 2204,
+        "lastname": "Schnitt",
+        "firstname": "Stuart",
+        "initials": "",
+        "email": "",
+        "roleid": 264,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 171,
+    "bookId": "84",
+    "roleid": 282,
+    "roleTitle": "1st Co-editor",
+    "contributors": [
+      {
+        "contributorid": 2197,
+        "lastname": "Ellis",
+        "firstname": "Ian O.",
+        "initials": "",
+        "email": "",
+        "roleid": 282,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 172,
+    "bookId": "84",
+    "roleid": 283,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2195,
+        "lastname": "Allison",
+        "firstname": "Kimberly H.",
+        "initials": "",
+        "email": "",
+        "roleid": 283,
+        "position": 0
+      },
+      {
+        "contributorid": 3017,
+        "lastname": "Ryska",
+        "firstname": "Ales",
+        "initials": "A",
+        "email": "",
+        "roleid": 283,
+        "position": 0
+      },
+      {
+        "contributorid": 5504,
+        "lastname": "Adjei",
+        "firstname": "Ernest K.",
+        "initials": "",
+        "email": "",
+        "roleid": 283,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 173,
+    "bookId": "84",
+    "roleid": 284,
+    "roleTitle": "Resp. author",
+    "contributors": [
+      {
+        "contributorid": 2279,
+        "lastname": "Yang",
+        "firstname": "Wen-Tao",
+        "initials": "",
+        "email": "",
+        "roleid": 284,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 174,
+    "bookId": "84",
+    "roleid": 285,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2280,
+        "lastname": "Foschini",
+        "firstname": "Maria Pia",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 5571,
+        "lastname": "Schwartz",
+        "firstname": "Christopher J.",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 5577,
+        "lastname": "Bean",
+        "firstname": "Gregory R.",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 5597,
+        "lastname": "Cserni",
+        "firstname": "Gábor",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      }
+    ]
+  }
+]

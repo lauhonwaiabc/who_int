@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 395,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 228,
+    "contributions": [
+      {
+        "pkcontributionId": 59408,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 228,
+        "headingText": "\r\n<p>Benign triton tumour&nbsp;/ neuromuscular choristoma (NMC) is an expansile intraneural mass characterized by the intimate interposition of mature skeletal muscle and nerve fibres within the endoneurium.</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 396,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 229,
+    "contributions": [
+      {
+        "pkcontributionId": 59409,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 229,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 397,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 230,
+    "contributions": [
+      {
+        "pkcontributionId": 59410,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 230,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 398,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 231,
+    "contributions": [
+      {
+        "pkcontributionId": 59411,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 231,
+        "headingText": "\r\n<p><em>Acceptable:</em> benign triton tumour; neuromuscular hamartoma; nerve rhabdomyoma; rhabdomyoma/choristoma; ectomesenchymal hamartoma.</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 399,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 232,
+    "contributions": [
+      {
+        "pkcontributionId": 59412,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 232,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 400,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 233,
+    "contributions": [
+      {
+        "pkcontributionId": 59413,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 233,
+        "headingText": "\r\n<p>Classic cases involve large nerves or plexuses, most commonly the sciatic nerve and the brachial plexus, although cranial nerve and intraorbital examples have also been reported {28168739}.</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 401,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 234,
+    "contributions": [
+      {
+        "pkcontributionId": 59414,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 234,
+        "headingText": "<p>Patients present most often with progressive pain or features of peripheral neuropathy/plexopathy. There may be atrophy of the involved limb, as well as superimposed desmoid fibromatosis (NMC-fibromatosis) in as many as 80% of cases, with the latter seen mostly after biopsy {27259010}. On MRI, NMC features T1- and T2-weighted signals similar to those of adjacent skeletal muscle, with no interfascicular fat (unlike fibrolipomatous hamartoma) and minimal contrast enhancement. In contrast, when a fibromatosis component develops, it is contrast-enhancing with hypointense T1/T2 signals compared with muscle. Of interest, a review of MRI features in one study suggested that as many as 5% of sporadic limb-associated desmoids show evidence of an occult NMC precursor, suggesting that the NMC-fibromatosis combination may be currently underdiagnosed {30168738}.</p>",
+        "timestamp": "2020-02-11T11:54:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 402,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 235,
+    "contributions": [
+      {
+        "pkcontributionId": 59415,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 235,
+        "headingText": "\r\n<p>NMC is an extremely rare disorder, with as many as 40&ndash;50&nbsp;cases reported, depending on diagnostic stringency {27259010; 28168739; 30708195}. It presents mostly in infancy or childhood, although adult onset has also been seen. The sexes are roughly equally represented.</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 403,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 236,
+    "contributions": [
+      {
+        "pkcontributionId": 59416,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 236,
+        "headingText": "\r\n<p>Published etiological hypotheses have included hamartomatous overgrowth of muscle spindles, a developmental lesion with intraneural entrapment of skeletal muscle during embryogenesis, myogenic metaplasia of nerve sheath elements, and a benign intraneural neoplasm (rhabdomyoma).</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 404,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 237,
+    "contributions": [
+      {
+        "pkcontributionId": 59417,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 237,
+        "headingText": "\r\n<p>Although studies have been limited to date, most cases of NMC and NMC-fibromatosis show <em>CTNNB1</em> exon&nbsp;3 (p.Thr41Ala and p.Ser45Phe) mutations, similar to those of sporadic desmoids; this possibly reflects somatic mosaicism in the patient {27259010}.</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 411,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 244,
+    "contributions": [
+      {
+        "pkcontributionId": 59418,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 244,
+        "headingText": "\r\n<p>Fusiform nerve enlargement with multifascicular involvement is typical. On cut surface, a subset of nerve fascicles appear beefy red like skeletal muscle. Intraoperative stimulation of the involved nerve causes contraction of not only the innervated muscle but also the abnormal nerve. When present, foci of desmoid fibromatosis are grossly identical to their sporadic counterparts.</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 405,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 238,
+    "contributions": [
+      {
+        "pkcontributionId": 59419,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 238,
+        "headingText": "\r\n<p>Haphazardly arranged bundles of mature skeletal muscle with cross-striations are intercalated between intraneural elements; smooth muscle elements have also been encountered rarely {9298886}. Some cranial nerve examples have reported adipose tissue as well, although this probably represents a different entity. In terms of immunostains, the myogenic component expresses markers of mature skeletal muscle, including desmin. Residual nerve includes NFP-positive axons surrounded by S100-positive Schwann cells. The intraneural location of myocytes is elucidated by EMA, which highlights perineurium surrounding individual fascicles. Nuclear &beta;-catenin may be seen in a subset of both the neural and myogenic cells within the NMC, as well as in adjacent fibromatosis components when present.</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 406,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 239,
+    "contributions": [
+      {
+        "pkcontributionId": 59420,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 239,
+        "headingText": "\r\n<p>The cytology has not been studied to date.</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 407,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 240,
+    "contributions": [
+      {
+        "pkcontributionId": 59421,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 240,
+        "headingText": "\r\n<p>The presence of <em>CTNNB1</em> exon&nbsp;3 (p.Thr41Ala and p.Ser45Phe) mutations supports the diagnosis of NMC with or without associated desmoid fibromatosis {27259010}.</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 410,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 243,
+    "contributions": [
+      {
+        "pkcontributionId": 59422,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 243,
+        "headingText": "\r\n<p><em>Essential:</em> skeletal muscle intercalated between intraneural elements; immunohistochemical validation of both endoneurial myogenic and neural elements; intact perineurium surrounding individual fascicles; the presence of nuclear &beta;-catenin expression in either NMC alone or NMC-fibromatosis.</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 408,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 241,
+    "contributions": [
+      {
+        "pkcontributionId": 59423,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 241,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 409,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 242,
+    "contributions": [
+      {
+        "pkcontributionId": 59424,
+        "bookId": 33,
+        "chapterId": 90,
+        "headingId": 242,
+        "headingText": "\r\n<p>Because these lesions typically involve large functional nerves, accurate intraoperative diagnosis is critical to prevent an overly aggressive approach. Although benign triton tumour&nbsp;/ NMC is considered benign, there is frequent development of desmoid fibromatosis (mostly postsurgical), identical to that seen in these lesions&rsquo; sporadic counterparts {27259010}. It is hypothesized that trauma/surgery stimulates <em>CTNNB1</em>-mutated fibroblasts/myofibroblasts to form a desmoid-type fibromatosis, akin to that forming after abdominal surgery in Gardner syndrome patients. Unfortunately, NMC-fibromatosis often necessitates radical resection or limb amputation {21819193}. For this reason, a no-touch approach has been advocated for patients with classic clinical and radiological features. Rare examples of NMC regression have also been reported. Additional follow-up is needed to establish the long-term prognosis.</p>",
+        "timestamp": "2019-12-17T14:34:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

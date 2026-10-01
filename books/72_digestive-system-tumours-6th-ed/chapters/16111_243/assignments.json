@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 185,
+    "bookId": "72",
+    "roleid": 266,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2023,
+        "lastname": "Nagtegaal",
+        "firstname": "Iris D.",
+        "initials": "ID",
+        "email": "",
+        "roleid": 266,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 186,
+    "bookId": "72",
+    "roleid": 279,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2038,
+        "lastname": "Montgomery",
+        "firstname": "Elizabeth A.",
+        "initials": "EA",
+        "email": "",
+        "roleid": 279,
+        "position": 1
+      }
+    ]
+  },
+  {
+    "pkroleId": 187,
+    "bookId": "72",
+    "roleid": 280,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2110,
+        "lastname": "Shia",
+        "firstname": "Jinru",
+        "initials": "J",
+        "email": "",
+        "roleid": 280,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 188,
+    "bookId": "72",
+    "roleid": 281,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2019,
+        "lastname": "Arends",
+        "firstname": "Mark J.",
+        "initials": "MJ",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 2164,
+        "lastname": "Frankel",
+        "firstname": "Wendy L",
+        "initials": "WL",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      },
+      {
+        "contributorid": 2165,
+        "lastname": "Frayling",
+        "firstname": "Ian M.",
+        "initials": "IM",
+        "email": "",
+        "roleid": 281,
+        "position": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 127427,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 764,
+        "headingText": "\r\n<p>Fibro-osseous tumour (FOT) of digits, arising in the soft tissues of the digits, is a localized, self-limiting, benign neoplasm composed of proliferating spindle cells and osteoblasts.</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 127428,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 765,
+        "headingText": "<p>9180/0 Fibro-osseous tumour of digits</p>",
+        "timestamp": "2025-07-08T15:38:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 127429,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 766,
+        "headingText": "\r\n<p>FB51.Y Other specified fibroblastic disorder</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 127430,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 767,
+        "headingText": "\r\n<p><em>Not recommended:</em> fibro-osseous pseudotumour of digits.</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 127431,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 768,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 127432,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 769,
+        "headingText": "\r\n<p>FOT affects the subcutaneous tissues of the proximal phalanx of the fingers and, less frequently, the toes {3463398; 29787930; 19678826; 30946936}.</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 127433,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 770,
+        "headingText": "\r\n<p>FOT of the digits is a rapidly growing and often painful lesion. Random calcifications are often present on imaging studies. Over time, the lesion becomes hard and well demarcated {12894350}.</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 127434,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 771,
+        "headingText": "\r\n<p>The lesions have a broad age distribution, from infancy to late adulthood, but most patients are young adults {3463398; 29787930; 19678826; 32635781}.</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 127435,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 772,
+        "headingText": "\r\n<p>A history of trauma is often elicited.</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 127436,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 773,
+        "headingText": "\r\n<p><em>USP6</em> fusion genes are present in FOT {29787930; 33000481}. <em>USP6</em> fusion genes are also encountered in nodular fasciitis, a tumour with overlapping morphology.</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 127437,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 780,
+        "headingText": "\r\n<p>FOT is ovoid, 10&ndash;30&nbsp;mm, pink-tan, gritty, and circumscribed.</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 127438,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 774,
+        "headingText": "\r\n<p>The lesion has areas resembling nodular fasciitis with bone in various stages of formation. It is hypercellular and composed of proliferating spindle cells that are oriented randomly or in short intersecting fascicles. The spindle cells have eosinophilic cytoplasm and plump fusiform nuclei with fine chromatin and conspicuous nucleoli. Normal mitoses may be numerous. The stroma is richly vascular and myxoid, and it contains fibrin, extravasated erythrocytes, scattered lymphocytes, and osteoclast-like giant cells. The spindle cells merge with poorly defined trabeculae and sheets of unmineralized woven bone that are rimmed by prominent osteoblasts with amphophilic cytoplasm and harbour large osteocytes {12894350; 18384209}.</p>\r\n<h6>Differential diagnosis</h6>\r\n<p>FOT and myositis ossificans are histologically similar, except that in the former there is usually no zonation pattern and the bone is located randomly throughout the tumour.</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 127439,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 775,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 127440,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 776,
+        "headingText": "\r\n<p>Molecular studies for <em>USP6</em> rearrangement may be useful in the appropriate clinicopathological context.</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 127441,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 779,
+        "headingText": "\r\n<p><em>Essential:</em> densely cellular fascicles of spindle cells; numerous typical mitoses; abundant admixed woven bone formation that is random or most mature at the periphery.</p>\r\n<p><em>Desirable:</em> detection of <em>USP6</em> rearrangement may help in selected cases.</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 127442,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 777,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 127443,
+        "bookId": 64,
+        "chapterId": 307,
+        "headingId": 778,
+        "headingText": "\r\n<p>The prognosis is excellent; recurrence after simple excision is extremely rare.</p>",
+        "timestamp": "2025-04-25T09:49:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

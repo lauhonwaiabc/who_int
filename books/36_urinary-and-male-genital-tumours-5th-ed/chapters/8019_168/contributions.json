@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 70698,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 539,
+        "headingText": "\r\n<p>Brenner tumours are composed of urothelial-type cells within a dense fibromatous stroma. They show a range of features, from benign to borderline to malignant.</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 70699,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 540,
+        "headingText": "\r\n<p>9000/0 Brenner tumour</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 70700,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 541,
+        "headingText": "\r\n<p>2F77 &amp; XH5DX3 Neoplasms of uncertain behaviour of male genital organs &amp; Brenner tumour, NOS</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 70701,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 542,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 70702,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 70703,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 544,
+        "headingText": "\r\n<p>Intratesticular or paratesticular</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 70704,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 545,
+        "headingText": "\r\n<p>The mean patient age is 53&nbsp;years. Patients present with scrotal swelling, sometimes with tenderness.</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 70705,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 546,
+        "headingText": "\r\n<p>These tumours are very rare, with only 7&nbsp;benign cases and 1&nbsp;malignant case reported {552866; 28123743; 2021324; 3739969}.</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 70706,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 547,
+        "headingText": "\r\n<p>There is some evidence that Brenner tumours may originate from Walthard nests, which are common in the tunica vaginalis of the testis, or from mesothelium, because an association with adenomatoid tumour has been observed {421180}.</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 70707,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 548,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 70708,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 555,
+        "headingText": "\r\n<p>Brenner tumours are solid and fibromatous, measuring 27&ndash;73&nbsp;mm. A cystic tumour has also been described {28123743}.</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 70709,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 549,
+        "headingText": "\r\n<p>Brenner tumours in the testis or paratestis resemble their counterparts in the ovary. Benign tumours are typically composed of nests of bland urothelial-type cells with elongated grooved nuclei within a fibromatous stroma. Borderline tumours usually exhibit papillary projections of atypical urothelial-type epithelium in cystic spaces without infiltrative growth. Malignant tumours consist of nests of highly atypical urothelial-type epithelium showing invasive growth. Mitoses are frequent. Malignant Brenner tumours are usually associated with a benign or borderline Brenner tumour component. Immunohistochemical studies performed on ovarian Brenner tumours reveal positivity for CK7, GATA3, p63, and uroplakin, and negativity for CK20, PAX8, WT1, ER, and PR {25281026; 22198845}.</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 70710,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 70711,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 551,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 70712,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> for benign Brenner tumour: nests of bland urothelial-type cells within fibromatous stroma; for borderline Brenner tumour: a papillary growth resembling low-grade papillary urothelial neoplasms of the urothelial tract or crowded nests of urothelial-type epithelium, without stromal invasion; for malignant Brenner tumour: an invasive tumour with urothelial morphology and a benign or borderline Brenner tumour component in the background.</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 70713,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 552,
+        "headingText": "\r\n<p>There is no American Joint Committee on Cancer (AJCC) staging system for these tumours.</p>\r\n",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 70714,
+        "bookId": 36,
+        "chapterId": 168,
+        "headingId": 553,
+        "headingText": "\r\n<p>All reported benign tumours showed a favourable course. The malignant tumour revealed lymph node metastasis but the patient survived for more than 2&nbsp;years {2021324}.</p>",
+        "timestamp": "2022-02-22T15:36:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

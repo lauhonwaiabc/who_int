@@ -1,0 +1,62 @@
+[
+  {
+    "pkroleId": 58,
+    "bookId": "31",
+    "roleid": 9,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2025,
+        "lastname": "Paradis",
+        "firstname": "Valerie",
+        "initials": "V",
+        "email": "",
+        "roleid": 9,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 60,
+    "bookId": "31",
+    "roleid": 11,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2056,
+        "lastname": "Bioulac-Sage",
+        "firstname": "Paulette",
+        "initials": "P",
+        "email": "",
+        "roleid": 11,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 61,
+    "bookId": "31",
+    "roleid": 12,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2057,
+        "lastname": "Kakar",
+        "firstname": "Sanjay ",
+        "initials": "S",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2058,
+        "lastname": "Nault",
+        "firstname": "Jean Charles",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      }
+    ]
+  }
+]

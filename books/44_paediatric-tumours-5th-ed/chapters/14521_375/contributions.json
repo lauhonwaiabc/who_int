@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 108716,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 466,
+        "headingText": "\r\n<p>Melanoma is a malignant neoplasm of melanocytic cells. It is rare in children.</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 108717,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 467,
+        "headingText": "<p>8761/3 Congenital naevus&ndash;associated melanoma</p>\r\n<p>8770/3 Spitz melanoma</p>\r\n<p>8743/3 Conventional low-CSD melanoma</p>\r\n<p>8780/3 Melanoma arising in blue naevus</p>\r\n<p>8728/0 Meningeal melanocytosis</p>\r\n<p>8728/3 Meningeal melanomatosis</p>",
+        "timestamp": "2023-05-19T11:57:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 108718,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 468,
+        "headingText": "\r\n<p>2C30.Y &amp; XH5L25 Other specified melanoma of skin &amp; Malignant melanoma arising in giant congenital naevus</p>\r\n<p>2C30.Y &amp; XH8HA2 Other specified melanoma of skin &amp; Mixed epithelioid and spindle cell melanoma</p>\r\n<p>2C30.0 Superficial spreading melanoma, primary</p>\r\n<p>2C30.1 Nodular melanoma, primary</p>\r\n<p>2C30.Z Melanoma of skin, unspecified</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 108719,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Acceptable:</em> childhood melanoma; congenital/infantile melanoma; spitzoid melanoma; conventional/adult melanoma.</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 108720,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 470,
+        "headingText": "<p>Congenital naevus&ndash;associated melanoma; Spitz melanoma; conventional melanoma in skin with a low degree of cumulative sun damage (low-CSD melanoma); melanoma arising in blue naevus; meningeal melanocytosis; meningeal melanomatosis</p>",
+        "timestamp": "2023-05-19T11:58:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 108721,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 471,
+        "headingText": "\r\n<p>Congenital naevus&ndash;associated melanoma can occur at any site. Spitz melanomas are located mostly on the limbs and head, and low-CSD melanomas on the torso and legs {29024734}. Large naevi localized on the scalp and back, in particular those with satellite naevi, can involve the CNS (a condition called neurocutaneous melanosis) {22980258} [[WHO Classification of Tumours Editorial Board. Central nervous system tumours. Lyon (France): International Agency for Research on Cancer; 2021. (WHO classification of tumours series, 5th ed.; vol. 6). https://publications.iarc.fr/601.]].</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 108722,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 472,
+        "headingText": "\r\n<p>Most congenital naevus&ndash;associated melanomas emerge as rapidly growing tumours within the naevus. Spitz melanomas often manifest as rapidly growing unpigmented nodules on normal skin and can mimic a lobular capillary haemangioma (pyogenic granuloma) or xanthogranuloma. Conventional melanomas manifest as irregularly pigmented macules and/or papules meeting the ABCDE criteria for the clinical diagnosis of adult melanoma: asymmetry, border irregularity, colour variegation, diameter enlargement, and evolution (history of change).</p>\r\n<p>Melanoma can be associated with a congenital naevus (commonly large), occasionally even before birth. Very rarely it can occur de&nbsp;novo or manifest as transplacental metastases {12077586}. The most common types are Spitz melanomas in prepubescent children, and conventional melanomas, which are similar to the low-CSD melanomas in adults, in older children (mainly after puberty) {28895292}. A subset of melanomas arise in blue naevi.</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 108723,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 473,
+        "headingText": "\r\n<p>Melanoma accounts for 3% of all paediatric cancers, with both sexes affected equally. Although 2% of melanomas are reported to occur in patients aged &lt;&nbsp;20&nbsp;years, only 0.3% occur in prepubertal children {28449284}. The lifetime risk of melanoma for patients with large or giant congenital naevi is 2&ndash;10%, with most arising before the age of 10&nbsp;years {25594732}. The incidence of melanoma in adolescents has recently started to decrease, whereas in younger children it has remained stable {25866386; 20051948; 30793788}.</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 108724,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 474,
+        "headingText": "\r\n<p>Most paediatric melanomas develop de&nbsp;novo, with no known underlying condition. Large congenital naevus (&ge;&nbsp;200&nbsp;mm) or multiple congenital naevi (&ge;&nbsp;2, irrespective of size) and abnormal MRI screening of the CNS in the first few months of life are predisposing factors for congenital naevus&ndash;associated melanoma {28078671}.</p>\r\n<p>Conventional melanoma is linked to genetic factors such as a light complexion, poor tanning ability, sun exposure, xeroderma pigmentosum, or germline mutation of the <em>CDKN2A</em> gene {30207590}. <em>BAP1</em> tumour predisposition syndrome is also associated with melanoma (see <a style=\"cursor:pointer\" href=\"/chaptercontent/44/500\" target=\"_blank\">section </a><em>BAP1 tumour predisposition syndrome</em>).</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 108725,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 475,
+        "headingText": "\r\n<p>Congenital naevus&ndash;associated melanomas frequently have <em>NRAS</em> mutations. Amplification of mutated <em>NRAS</em> has been reported to lead to congenital melanoma arising in the setting of neurocutaneous melanocytosis {26266759}. Spitz melanomas are defined as having similar oncogenic alterations to those of Spitz naevi, including kinase fusions involving <em>ROS1</em>, <em>NTRK1</em>, <em>NTRK3</em>, <em>ALK</em>, <em>RET</em>, <em>MET</em>, or <em>BRAF</em> and <em>HRAS</em>, but no <em>BRAF</em> mutations. During progression they acquire inactivation of <em>CDKN2A</em> and possibly <em>TERT</em> promoter mutations. The low-CSD melanomas in adolescents have similar genetic alterations to those in adults: frequent <em>BRAF</em> p.V600 mutations, inactivations of <em>CDKN2A</em>, and <em>TERT</em> promoter mutations {28097802; 25268584}. Melanomas associated with blue naevi have mutations in the G<sub>q</sub>&alpha; pathway, mostly at the level of <em>GNAQ</em> or <em>GNA11</em>.</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 108726,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 482,
+        "headingText": "\r\n<p>See <em>Clinical features</em> (above).</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 108727,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 476,
+        "headingText": "\r\n<p>Melanoma that arises in association with a large congenital naevus often manifests as a nodule in the deep dermis or subcutis, distinct from the background naevus. It can be composed of epithelioid, spindle, or round lymphoblastic-like cells resembling a malignant small blue round cell tumour {25594732}. It must be differentiated from proliferative nodules (see <a style=\"cursor:pointer\" href=\"/chaptercontent/44/370\" target=\"_blank\">section </a><em>Congenital naevi</em>). Worrisome features are sharp demarcation, expansile growth, pleomorphism, necrosis, and mitotic figures (except in neonates). Immunohistochemistry is of limited utility {27456754; 27849631; 27486690}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Spitz melanoma usually has irregular epidermal hyperplasia and Kamino bodies. It is characterized by the presence of large epithelioid and fusiform melanocytes arranged in vertically oriented confluent and cellular aggregates. Usually, it is &ge;&nbsp;6&nbsp;mm in diameter, asymmetrical, and poorly circumscribed, with a lack of maturation. It shows marked pleomorphism, deep extension, numerous dermal mitoses, and can be ulcerated. HMB45 is often expressed throughout, p16 expression is often lost (see <a style=\"cursor:pointer\" href=\"/chaptercontent/44/373\" target=\"_blank\">section </a><em>Spitz naevus</em>).</p>\r\n<p>Low-CSD melanomas are often superficial spreading or nodular, showing pagetoid scatter of enlarged melanocytes, often with dusty melanin pigmentation. However, the presence of pagetoid melanocytic proliferation, which is a helpful criterion in the diagnosis of adult melanoma, should be interpreted with caution when observed in paediatric cases.</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 108728,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 108729,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 478,
+        "headingText": "\r\n<p>Melanomas tend to have multiple DNA copy-number changes, which can be detected by comparative genomic hybridization, FISH, or next-generation sequencing.</p>\r\n<p>Proliferative nodules in congenital naevi tend to have chromosomal aberrations affecting whole chromosomes {12368190; 27486690}.</p>\r\n<p>Multiple copy-number changes suggest the diagnosis of Spitz melanoma rather than atypical Spitz naevus, in particular biallelic loss/inactivation of <em>CDKN2A</em> at 9p21, especially when associated with <em>TERT</em> inactivation {23388126}.</p>\r\n<p>Mutation analysis may be helpful in some cases.</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 108730,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> epithelioid, spindle, or round lymphoblastic-like cells.</p>\r\n<p><em>Desirable:</em> pigmentation (may be absent); immunoreactivity for melanocytic markers.</p>\r\n<p><em>Note:</em> For the diagnosis of Spitz melanoma, fulfilment of a combination of clinical, histological, and molecular criteria is essential, because it overlaps with atypical Spitz tumour and conventional melanoma, some of which may have spitzoid features. Homozygous deletion of <em>CDKN2A</em> and/or <em>TERT</em> promoter mutation or rearrangement are found in both Spitz subtypes.</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 108731,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 479,
+        "headingText": "\r\n<p>Melanomas in children are staged in the same way as those in adults. However, high tumour thickness and the presence of nodal metastases in Spitz melanomas do not have the same adverse prognostic role as they do in adult melanomas {22939951; 24694641}.</p>\r\n",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 108732,
+        "bookId": 44,
+        "chapterId": 375,
+        "headingId": 480,
+        "headingText": "\r\n<p>The clinical and histological variables influencing survival in children with melanoma are the same as in adults: ulceration, tumour thickness, and disease stage {25794606; 24022819; 24252782}. Paediatric patients with stage&nbsp;I or&nbsp;II disease have a 10-year survival rate of 90% {21366453}. Patients aged &lt;&nbsp;10&nbsp;years have been reported to have a higher survival rate than adolescents. The prognosis for congenital naevus&ndash;associated melanoma is clearly related to melanoma thickness {25594732}.</p>\r\n<p>Spitz melanomas are thicker than conventional melanomas and are more frequently ulcerated {25487565}, and nodal melanocyte deposits are observed in approximately 50% of cases. Nevertheless, the majority do not develop distant metastases {20549825; 24694641; 30467833; 19672660}. Therefore, the utility of sentinel lymph node biopsy is questionable for melanomas in childhood other than conventional melanomas {24022819}.</p>",
+        "timestamp": "2023-03-13T11:19:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

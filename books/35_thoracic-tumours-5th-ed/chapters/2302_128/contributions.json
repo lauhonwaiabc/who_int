@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 67325,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 432,
+        "headingText": "<p>Primary effusion lymphoma (PEL) is a large B-cell lymphoma of terminally differentiated B&nbsp;cells, consistently associated with HHV8 (Kaposi sarcoma&ndash;associated herpesvirus) and often co-infected with EBV, occurring as a serous effusion in the absence of lymph node involvement or a tumour mass.</p>",
+        "timestamp": "2021-02-24T17:41:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 67326,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 433,
+        "headingText": "\r\n<p>9678/3 Primary effusion lymphoma</p>\r\n",
+        "timestamp": "2020-12-03T14:33:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 67327,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 434,
+        "headingText": "\r\n<p>2A81.9 Primary effusion lymphoma</p>\r\n",
+        "timestamp": "2020-12-03T14:33:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 67328,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Not recommended:</em> body cavity&ndash;based lymphoma.</p>\r\n",
+        "timestamp": "2020-12-03T14:33:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 67329,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 436,
+        "headingText": "\r\n<p>Extracavitary (solid) PEL</p>\r\n",
+        "timestamp": "2020-12-03T14:33:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 67330,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 437,
+        "headingText": "\r\n<p>PEL affects the major body cavities, including the pleura, peritoneum, and pericardium.</p>\r\n",
+        "timestamp": "2020-12-03T14:33:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 67331,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 438,
+        "headingText": "\r\n<p>PEL manifests with lymphomatous effusions involving serous cavities {7700311}. The majority of patients are HIV-positive men in the fifth decade of life, with low CD4 cell counts (&le;&nbsp;200&nbsp;&times; 10<sup>6</sup>/L) {26799611}. Other features of HHV8 infection, including Kaposi sarcoma and multicentric Castleman disease, are present in as many as 50% of patients at presentation. Extracavitary PEL occurs as solid tumours in sites such as the lung, gastrointestinal tract, skin, and CNS {22682793}. It is usually associated with HIV, but most patients are less immunosuppressed than in classic PEL.</p>\r\n",
+        "timestamp": "2020-12-03T14:33:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 67332,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 439,
+        "headingText": "<p>PEL usually occurs in immunosuppressed patients, particularly those with HIV, as well as in the posttransplantation setting. In HHV8-endemic areas, PEL is also reported in elderly patients without other known risk factors. PEL represents about 4% of HIV-related lymphomas and &lt;&nbsp;1% in the non&ndash;HIV-infected population {31543075}. Although there has been a decrease in diffuse large B-cell lymphoma among HIV-infected patients with antiretroviral therapy, the incidence of PEL may be increasing {26859827}.</p>",
+        "timestamp": "2020-12-18T17:21:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 67333,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 440,
+        "headingText": "\r\n<p>PEL is thought to be caused by infection of post&ndash;germinal-centre B&nbsp;cells by HHV8, with or without co-infection by EBV.</p>\r\n",
+        "timestamp": "2020-12-03T14:33:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 67334,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 441,
+        "headingText": "\r\n<p>PEL cells are infected with HHV8, with persistence of naked viral episomes and expression of latent viral gene products including the latency-associated nuclear antigen (LANA) LANA1, viral cyclin, vFLIP, vIRF3/LANA2, and kaposins {30705286}. All of these viral proteins have oncogenic functions, such as activation of NF-&kappa;B by vFLIP through binding to IKK&gamma;, effects on cell cycle and prevention of RB1-mediated cell-cycle arrest by viral cyclin, and inhibition of p53 and RB1 by LANA. Virus is replicated and encapsidated in the nuclei of the malignant cells and then enveloped in cytoplasmic and plasma membranes for shedding. Viral lytic gene transcription leads to virion formation. EBV is not required for the pathogenesis of PEL, but EBNA1 enhances the maintenance of HHV8 genomes and LANA expression {30429324}. The HHV8-encoded homolog of human IL-6, viral IL-6, is produced and secreted by a subset of PEL cells; both IL-6 and IL-10 levels contribute to the natural history of PEL and may be associated with inferior survival {30782610}.</p>\r\n<p>PELs are monoclonal lymphomas with somatic hypermutation of IGH variable region genes, resembling post&ndash;germinal-centre B&nbsp;cells {15489644}. They lack translocations involving <em>MYC</em>, <em>BCL6</em>, and <em>BCL2</em> but may have deregulated expression of MYC protein. Cytogenetic studies reveal a complex karyotype and recurrent alterations that include trisomy&nbsp;7, trisomy&nbsp;12, and aberrations of the proximal region of 1q {30782610; 11841403}.</p>\r\n",
+        "timestamp": "2020-12-03T14:33:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 67335,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 448,
+        "headingText": "<p>PEL occurs as a serous effusion. Extracavitary PEL occurs as a mass.</p>",
+        "timestamp": "2020-12-18T17:21:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 67336,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 442,
+        "headingText": "<p>Diagnosis is usually made in cytological preparations (see <em>Cytology</em>, below). In extracavitary PEL, the infiltrate comprises sheets of large malignant cells with plasmablastic, pleomorphic, or anaplastic nuclei; prominent nucleoli; and basophilic cytoplasm. Some cells may resemble Reed&ndash;Sternberg cells. The cells are usually cohesive with few infiltrating lymphocytes. There may be apoptotic cells or necrosis. A sinusoidal pattern of infiltration mimicking other malignant tumours, such as anaplastic large cell lymphoma or carcinoma, can occur.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>PEL cells are terminally differentiated B&nbsp;cells, but in contrast to other post&ndash;germinal-centre B&nbsp;cells and plasma cells, they usually lack surface and cytoplasmic immunoglobulins. They generally lack CD45 (LCA) and can express cytokeratins, causing confusion with other tumours {28880367}. They also lack B-cell markers, including CD19, CD20, PAX5, OCT2, BOB1, and CD79a. They most often express non-lineage activation and plasma cell markers, including HLA-DR, CD38, VS38c, CD138, and EMA, as well as CD30 and PDL1 {23674495}. The cells usually lack T-cell or NK-cell antigens, but aberrant expression of T-cell markers such as CD4 and CD7 can occur in as many as 30% of cases {15114607; 10086517; 26799611}. Demonstration of HHV8, usually by immunostaining for LANA, is required for diagnosis. Most (if not all) cases in HIV-positive patients are positive for EBV-encoded small RNA (EBER) by in&nbsp;situ hybridization, but latent membrane protein LMP1 and EBNA2 are absent (type&nbsp;I latency). Extracavitary PELs express B&nbsp;cell&ndash;associated antigens, CD45, and immunoglobulins slightly more often than classic PEL, and they more often have aberrant expression of T-cell markers {15489644}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Lymphomas other than PEL may also occur as pleural effusions. Effusion-based large B-cell lymphomas occur in older immunocompetent individuals, in association with fluid overload states usually related to cirrhosis or congestive cardiac failure {23282971}. These HHV8-negative B-cell lymphomas are not related to PEL and have a relatively favourable prognosis.</p>\r\n<p>Pyothorax-associated lymphomas arise in the pleural cavity after longstanding inflammation, usually due to tuberculosis or chronic pneumothorax. These B-cell lymphomas do not exhibit a plasmablastic immunophenotype, and they are associated with EBV but not HHV8 {8686762}.</p>\r\n<p>Primary mediastinal (thymic) large B-cell lymphoma may also involve the pleura or pericardium {30951026}, but it is a B-cell lymphoma lacking a plasmablastic immunophenotype and HHV8.</p>\r\n<p>HHV8-positive diffuse large B-cell lymphomas associated with multicentric Castleman disease may be difficult to differentiate from extracavitary PEL. These usually involve lymph nodes, are negative for EBER and CD138, and express IgM.</p>\r\n<p>PELs may resemble anaplastic large cell lymphomas, which are T-cell lymphomas negative for HHV8.</p>\r\n<p>ALK-positive large B-cell lymphomas have immunoblastic or plasmablastic morphology and characteristically express plasma cell but not B-cell antigens. They are ALK-positive, usually express immunoglobulin, and are negative for HHV8 and EBV.</p>",
+        "timestamp": "2021-02-05T15:50:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 67337,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 443,
+        "headingText": "<p >The cells exhibit a range of appearance, from large immunoblastic or plasmablastic cells to cells with pleomorphic or anaplastic nuclei. Nucleoli are prominent and a perinuclear hof may be seen. The cytoplasm is abundant and basophilic or amphophilic, with occasional vacuoles. Some cells resemble Reed&ndash;Sternberg cells. The cytoplasmic characteristics are best appreciated in Giemsa-stained preparations and may appear more uniform in histological sections of cell blocks.</p>",
+        "timestamp": "2020-12-03T14:34:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 67338,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 444,
+        "headingText": "\r\n<p>Demonstration of HHV8 with or without EBV is required for the diagnosis.</p>\r\n",
+        "timestamp": "2020-12-03T14:33:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 67339,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Large pleomorphic malignant cells with plasmablastic immunophenotype (but immunoglobulin is often negative)</li>\r\n<li>HHV8 is positive (usually by LANA immunohistochemistry)</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>The presence of EBV, although neither necessary nor sufficient, is supportive of the diagnosis</li>\r\n</ul>",
+        "timestamp": "2021-01-28T11:54:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 67340,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 445,
+        "headingText": "\r\n<p>PELs are characterized by diffuse involvement of body cavities without associated nodal involvement, and they are therefore stage&nbsp;IV. Most cases of extracavitary PEL involve a single extralymphatic site in the absence of nodal involvement (stage&nbsp;IE).</p>\r\n",
+        "timestamp": "2020-12-03T14:33:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 67341,
+        "bookId": 35,
+        "chapterId": 128,
+        "headingId": 446,
+        "headingText": "<p>PEL is an aggressive lymphoma with a relatively poor prognosis {26799611}. Patients treated with modified EPOCH (etoposide, vincristine, doxorubicin, cyclophosphamide, prednisone) had an overall survival of 22&nbsp;months, with a plateau after 2&nbsp;years, and a 3-year cancer-specific survival rate of 47%. Prolonged survival has been reported in patients who maintain a remission on chemotherapy and antiretroviral therapy {30887007; 18525275}. EBV-positive tumours are associated with better survival, whereas patients with elevated IL-6 fare worse {30782610}. The prognosis of extracavitary&nbsp;PEL is somewhat better than that of PEL, with fewer relapses after complete remission {15489644; 26799611}.</p>",
+        "timestamp": "2020-12-18T17:22:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

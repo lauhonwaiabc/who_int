@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 122609,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 607,
+        "headingText": "<p>Mixed medullary and follicular cell&ndash;derived thyroid carcinoma (MMFCC) is a primary malignant epithelial neoplasm of the thyroid gland showing morphological and immunophenotypic&nbsp;evidence of coexisting follicular and C&nbsp;cell&ndash;derived&nbsp;neuroendocrine tumour cell populations within the same lesion.</p>",
+        "timestamp": "2024-12-18T13:48:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 122610,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 608,
+        "headingText": "\r\n<p>8346/3 Mixed medullary&ndash;follicular carcinoma</p>\r\n<p>8347/3 Mixed medullary&ndash;papillary carcinoma</p>\r\n<p>8346/3 Mixed medullary and oncocytic carcinoma</p>\r\n<p>8346/3 Mixed medullary and poorly differentiated carcinoma</p>\r\n<p>8346/3 Mixed medullary and anaplastic carcinoma</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 122611,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 609,
+        "headingText": "\r\n<p>2D10.Y &amp; XH7DG7 Other specified malignant neoplasms of thyroid gland &amp; Mixed medullary-follicular carcinoma</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 122612,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> mixed follicular and C-cell carcinoma; composite medullary and follicular cell&ndash;derived carcinoma.</p>\r\n<p><em>Not recommended:</em> biphasic carcinoma; compound medullary&ndash;follicular carcinoma; concurrent medullary&ndash;follicular carcinoma; stem cell carcinoma.</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 122613,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 611,
+        "headingText": "\r\n<p>Mixed medullary&ndash;follicular carcinoma; mixed medullary&ndash;papillary carcinoma; mixed medullary and oncocytic carcinoma; mixed medullary and poorly differentiated carcinoma; mixed medullary and high-grade differentiated carcinoma; mixed medullary and anaplastic carcinoma</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 122614,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 612,
+        "headingText": "\r\n<p>MMFCC can occur anywhere in the thyroid gland.</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 122615,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 613,
+        "headingText": "\r\n<p>The clinical features are heterogeneous and mostly depend on the predominant C&nbsp;cell or follicular cell&ndash;derived tumour component. Most cases present with a palpable solitary nodule, although they may be discovered incidentally {10550306; 15069329}. Lymph node metastases are present in 25% of cases at diagnosis {32936534}. Serum calcitonin levels are often elevated, although they may be within the normal range {22733476; 29524315}. Serum CEA and thyroglobulin may also be elevated {15153799; 32660411}, and the latter may be associated with increased iodine-131 uptake {15069329}. Ultrasonography typically demonstrates nonspecific features of malignancy, including hypoechoic solid nodules with irregular borders and intranodular vascularization. Microcalcifications may be present in cases of mixed medullary&ndash;papillary carcinoma {32538376}.</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 122616,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 614,
+        "headingText": "\r\n<p>MMFCC is extremely rare, accounting for &lt;&nbsp;0.1% of all thyroid malignancies {29156816}, with an average age of 54&nbsp;years and a slight female predominance {29156816}. Exceptional cases have been described in children {16445820}.</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 122617,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 615,
+        "headingText": "\r\n<p>MMFCC may occur sporadically or in the setting of hereditary multiple endocrine neoplasia types&nbsp;2A and&nbsp;2B {8495962; 10550306; 20013610; 32660411}. There is no association with any specific germline <em>RET</em> mutations. The etiology of sporadic medullary thyroid carcinoma (MTC) is unknown.</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 122618,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 616,
+        "headingText": "\r\n<p>The medullary carcinoma component of MMFCC harbours similar molecular alterations to those seen in pure MTCs, including somatic <em>RET</em> mutations, <em>RET</em> fusions, and <em>HRAS</em> mutations {32936534; 30993022}. In cases of mixed medullary&ndash;papillary carcinoma, <em>BRAF</em> mutations have been described in the papillary component {32936534}.</p>\r\n<p>Clonality analyses have suggested that in some cases, the medullary and follicular cell&ndash;derived components are unrelated, and in some cases the follicular components have been shown to be polyclonal/oligoclonal {10550306} and may represent collision tumours.</p>\r\n<p>In terms of histogenesis, the stem cell theory (clonal evolution) suggests that the two cell populations are both derived from an uncommitted stem cell precursor that is capable of differentiating into divergent neoplastic cell populations {20514841; 27493881}.</p>\r\n<p>In contrast, the hostage theory suggests that the medullary carcinoma component sequesters normal thyroid tissue and subsequently triggers oncogenesis of the follicular cell&ndash;derived component {25308015}.</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 122619,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 623,
+        "headingText": "\r\n<p>MMFCC presents as a solid, firm, whitish unencapsulated nodule, with a mean size of 29&nbsp;mm (range: 4&ndash;55&nbsp;mm). The gross appearance of MMFCC is not specific and largely depends on the predominant tumour cell component.</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 122620,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 617,
+        "headingText": "<p>The histopathological hallmark of MMFCC is the coexistence, in variable relative proportions, of two distinct tumour cell populations within a single thyroid nodule, showing features of both MTC and a follicular cell&ndash;derived neoplasm {8205357; 2227923; 10839611; 20574174}. There is no recommendation on the amount of each component required for MMFCC diagnosis; however, focal expression of calcitonin or CEA in a tumour that otherwise shows typical morphological features of a follicular-derived neoplasm is insufficient to warrant the diagnosis of MMFCC. The medullary carcinoma component is morphologically identical to conventional forms. The follicular cell&ndash;derived component includes classic or follicular-variant papillary thyroid carcinoma (by far the most commonly reported); or follicular, oncocytic, poorly differentiated, high-grade differentiated, or (rarely) anaplastic carcinoma {10839611; 3896182}. Lymph node metastases may show mixed histology {7979902; 8782199; 10550306; 11321340; 21673468} or may contain only one of the neoplastic components. Concurrent and synchronous medullary carcinoma and follicular cell&ndash;derived carcinomas that are anatomically separate, or that merge into one another but are clearly distinct lesions, should not be considered as MMFCC.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>Immunohistochemistry is mandatory to prove the dual C-cell (positive for calcitonin) and follicular cell (positive for thyroglobulin, with the exception of the anaplastic component) differentiation, either in separate cell clusters or within individual cells. In&nbsp;situ hybridization for calcitonin and/or thyroglobulin mRNA may be useful to distinguish true expression from false immunohistochemical positivity due to nonspecific staining caused by cell entrapment {9174630; 32522910}. Thyroid transcription factor&nbsp;1 (TTF1) is expressed by both components. PAX8 expression patterns in MMFCC have not been described.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>The entities include the follicular pattern of medullary carcinoma (thyroglobulin-negative), medullary carcinoma with entrapped non-neoplastic follicles, and follicular carcinoma with neuroendocrine differentiation (chromogranin&nbsp;A&ndash;positive but calcitonin-negative) {19095577}.</p>",
+        "timestamp": "2024-12-17T13:07:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 122621,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 618,
+        "headingText": "\r\n<p>In most cases, preoperative fine-needle aspirates suggest a cytological diagnosis of MTC, follicular neoplasm (including oncocytic), or papillary carcinoma, depending on the relative proportions of the associated components {21994201; 14755766; 19260112; 18540307; 21225751}. In rare instances, the presence of a clearly distinguishable dual component may lead to a preoperative diagnosis of MMFCC {14755766; 22693094; 12585034}.</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 122622,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 619,
+        "headingText": "\r\n<p>Like conventional MTC, all cases of MMFCC should be investigated for the presence of germline <em>RET</em> mutations. No clinical role has been established for molecular markers in sporadic MMFCC.</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 122623,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> medullary carcinoma and follicular cell&ndash;derived carcinoma components should be intimately intermixed within the same lesion; the two components should be morphologically recognizable, and C-cell and follicular cell derivation should be proved by appropriate immunohistochemistry.</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 122624,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 620,
+        "headingText": "\r\n<p>MMFCC is staged according to the MTC staging rules as applied by the Union for International Cancer Control (UICC) and American Joint Committee on Cancer (AJCC) staging systems.</p>\r\n",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 122625,
+        "bookId": 53,
+        "chapterId": 51,
+        "headingId": 621,
+        "headingText": "\r\n<p>Either or both components may recur or metastasize, but the clinical behaviour of MMFCC is more similar to that of conventional MTC. Response to radioactive iodine treatment has been documented in metastatic cases with elevated serum thyroglobulin levels {15069329}. Lymph node involvement and distant metastases (mostly in lung, liver, and bones) occur in as many as 25% of cases {15153799; 1824340; 6407193; 32936534}. Disease-related mortality is documented in approximately 20% of cases {15153799}.</p>",
+        "timestamp": "2024-10-09T11:55:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

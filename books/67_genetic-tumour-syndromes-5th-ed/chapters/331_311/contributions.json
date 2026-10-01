@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1174,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 795,
+    "contributions": [
+      {
+        "pkcontributionId": 158733,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 795,
+        "headingText": "\r\n<p>Primary autoimmune lymphoproliferative syndrome (ALPS) is an inborn error of immunity characterized by lymphadenopathy, hepatosplenomegaly, autoimmune cytopenias, and increased risk of lymphoma. It is associated with germline (constitutional) sequence variants in genes involved in the FAS-mediated apoptosis pathway, and the accumulation of CD4/CD8 double-negative &alpha;&beta;&nbsp;T&nbsp;cells (DNT cells). A somatic phenocopy (ALPS-sFAS) also occurs.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1175,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "MIM numbering",
+    "headingPosition": 2,
+    "headingid": 796,
+    "contributions": [
+      {
+        "pkcontributionId": 158734,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 796,
+        "headingText": "\r\n<p>601859 Autoimmune lymphoproliferative syndrome; ALPS</p>\r\n",
+        "timestamp": "2026-09-02T11:51:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1176,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 797,
+    "contributions": [
+      {
+        "pkcontributionId": 158735,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 797,
+        "headingText": "\r\n<p>4A01.22 Immune dysregulation syndromes presenting primarily with lymphoproliferation</p>\r\n",
+        "timestamp": "2026-09-02T11:51:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1177,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 798,
+    "contributions": [
+      {
+        "pkcontributionId": 158736,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 798,
+        "headingText": "\r\n<p><em>Not recommended</em>: Canale&ndash;Smith syndrome; Dianzani autoimmune lymphoproliferative disease; CD95R deficiency; CD95L deficiency.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1178,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 799,
+    "contributions": [
+      {
+        "pkcontributionId": 158737,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 799,
+        "headingText": "\r\n<p>ALPS-FAS, germline homozygous (autosomal recessive) or heterozygous (autosomal dominant) <em>FAS</em> mutations; ALPS-sFAS, somatic <em>FAS</em> mutations; ALPS-other specified FAS pathway germline mutation (<em>FASLG</em>, <em>CASP10</em>, <em>CASP8</em>, <em>FADD</em>); ALPS-U, undefined</p>\r\n",
+        "timestamp": "2026-09-02T11:51:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1179,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 800,
+    "contributions": [
+      {
+        "pkcontributionId": 158738,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 800,
+        "headingText": "\r\n<p>The lymph nodes and spleen are mainly involved, and less commonly extranodal sites {28395106} including bone marrow {27846610}.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1180,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 801,
+    "contributions": [
+      {
+        "pkcontributionId": 158739,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 801,
+        "headingText": "\r\n<p>Clinical features of ALPS include lymphadenopathy, hepatosplenomegaly, autoimmune cytopenias, increased risk of lymphoma, and high sepsis risk after splenectomy {9028957;11418480;20538792;21885602;24398331;31953710;33963613}. Coexisting IgG4-related disease may occur {28478106}. ALPS-FAS is usually diagnosed in early childhood. A somatic phenocopy can occur across a broad age range and include ALPS-sFAS and RAS-associated autoimmune lymphoproliferative disorder {20360470;15459302}.</p>\r\n<h5>Radiological features</h5>\r\n<p>PET imaging features of ALPS overlap with those of lymphoma {31689275}.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1181,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 802,
+    "contributions": [
+      {
+        "pkcontributionId": 158740,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 802,
+        "headingText": "\r\n<p>The global prevalence of ALPS is unknown. In a recent systematic review of 780&nbsp;patients predominantly from the United States, Italy, Germany, and France, 68% had germline sequence alterations, 24% had genetically undetermined ALPS, and the remainder had an ALPS-like phenotype due to germline sequence alterations in non-FAS signalling pathway genes {33963613}. <em>FAS </em>(previously named <em>TNFRSF6</em>) sequence variants accounted for 85% of ALPS cases, the majority of which (87%) were germline.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1182,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 803,
+    "contributions": [
+      {
+        "pkcontributionId": 158741,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 803,
+        "headingText": "\r\n<p>Germline sequence variants occur within the cell surface death receptor&ndash;encoding gene <em>FAS</em>, its ligand, or other members of the apoptosis pathway {20538792;34171534}. Heterozygous <em>FAS </em>alterations (ALPS-FAS) predominate, and cluster in the intracellular domain with enrichment in the death domain {21885602;24398331}, abrogating intracellular signalling. Rarer homozygous <em>FAS</em> variants have a severe, early-onset phenotype. Homozygous <em>FASLG</em> alterations abrogate FAS ligand&ndash;mediated signalling via FAS, and are associated with a severe, early-onset phenotype {36621650}. Sequence variants in the intracellular signalling pathway downstream of <em>FAS</em> likewise manifest as ALPS, including homozygous alterations in <em>FADD</em> {21109225}, whose protein product FADD binds the death domain of FAS {7538907}, <em>CASP10</em> {31309545}, and <em>CASP8</em> {12353035}. Numerous ALPS-like primary immune regulatory disorders share an autoimmune lymphoproliferative phenotype and are also largely classified by the International Union of Immunological Societies (IUIS) in the &ldquo;diseases of immune dysregulation&rdquo; group {35748970}.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1183,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 804,
+    "contributions": [
+      {
+        "pkcontributionId": 158742,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 804,
+        "headingText": "\r\n<p>FAS pathway sequence alterations lead to failure of lymphocyte apoptosis {9028957;7540117} and increased proliferation {17724145;27099149}, resulting in the persistence of physiological CD38+, CD45RA+, IL-10+, CD4+, CD8+, and DNT cell populations {33170215}. Failure of FAS-dependent T-cell immune surveillance {24487434} and FAS-deficient germinal-centre B&nbsp;cells {33237303} may contribute to lymphoma predisposition.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1190,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 811,
+    "contributions": [
+      {
+        "pkcontributionId": 158743,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 811,
+        "headingText": "\r\n<p>The lymph nodes and spleen are enlarged and homogeneous in appearance; firm, fleshy, or necrotic areas should be sampled to exclude lymphoma.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1184,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 805,
+    "contributions": [
+      {
+        "pkcontributionId": 158744,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 805,
+        "headingText": "\r\n<p>Lymph nodes are enlarged by reactive follicular hyperplasia and pronounced pale-staining paracortical hyperplasia with an admixed proliferation of DNT cells and polytypic plasma cells. Progressive transformation of germinal centres, Castleman disease&ndash;like histology, or superimposed plasmacytosis {9811346} may mask histological findings {34474549}. Rosai&ndash;Dorfman disease is found in about a quarter of ALPS lymph nodes {24398331;15958855}. Similar infiltrates occur at extranodal sites, including spleen and bone marrow {28395106;27846610;9811346}. The DNT cell population is CD45RA-positive, CD45RO-negative, and positive for cytotoxic markers, including perforin, TIA1, and CD57 (see <a style=\"cursor:pointer\" href=\"/attachment/67/311/38673\" target=\"_blank\">#38673</a>Box&nbsp;4.02) {9811346;12657942;29296752}.</p>\r\n<p>See also <a style=\"cursor:pointer\" href=\"/attachment/67/311/38672\" target=\"_blank\">#38672</a>Table&nbsp;4.08.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1185,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 806,
+    "contributions": [
+      {
+        "pkcontributionId": 158745,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 806,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2026-09-02T11:51:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1186,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 807,
+    "contributions": [
+      {
+        "pkcontributionId": 158746,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 807,
+        "headingText": "\r\n<p>Germline and somatic sequence variants should be assessed according to diagnostic guidelines {20538792;33356695;33995372;26323380}. Similar <em>FAS </em>death domain alterations are also found in lymphoma {29481902}. ALPS DNT cells have a restricted V&beta; repertoire {18566410}, raising concerns about possible false positive T-cell clonality results.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1189,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 810,
+    "contributions": [
+      {
+        "pkcontributionId": 158747,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 810,
+        "headingText": "\r\n<p><em>Essential:</em></p>\r\n<ul>\r\n<li>&gt;&nbsp;6&nbsp;months benign, non-infectious adenopathy (&gt;&nbsp;3&nbsp;nodes) and/or splenomegaly OR autoimmune cytopenia (&ge;&nbsp;2&nbsp;lineages) OR history of lymphoma OR affected family member</li>\r\n<li>peripheral blood flow cytometry with normal or increased lymphocyte count</li>\r\n<li>impaired FAS-mediated apoptosis</li>\r\n<li>&alpha;&beta;&nbsp;DNT cells &gt;&nbsp;1.5% of total or &gt;&nbsp;2.5% of CD3+ lymphocytes</li>\r\n<li>detection of <em>FAS</em>, <em>FASLG</em>, <em>CASP8</em>, <em>FADD</em>, or <em>CASP10</em> pathogenic variant(s)</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>a probable diagnosis can be made if typical lymph node findings are also present; however, expanded lymph node &alpha;&beta;&nbsp;DNT cells do not substitute for peripheral blood flow</li>\r\n<li>elevated plasma vitamin&nbsp;B12 (&gt;&nbsp;1500&nbsp;ng/L), sFASL (&gt;&nbsp;200&nbsp;pg/ml), and IL-10 (&gt;&nbsp;20&nbsp;pg/ml)</li>\r\n<li>autoimmune cytopenias with polyclonal hypergammaglobulinaemia</li>\r\n<li>compatible family history can support a probable ALPS diagnosis</li>\r\n</ul>\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/67/311/39064\" target=\"_blank\">#39064</a>Table&nbsp;4.09.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1187,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 808,
+    "contributions": [
+      {
+        "pkcontributionId": 158748,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 808,
+        "headingText": "<p>Lymphoma staging is according to the diagnosis-appropriate staging system, such as the Lugano classification (modified Ann Arbor staging system) or the Revised International Paediatric Non-Hodgkin Lymphoma Staging System {25113753;25940716}.</p>",
+        "timestamp": "2026-09-02T11:51:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1188,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 809,
+    "contributions": [
+      {
+        "pkcontributionId": 158749,
+        "bookId": 67,
+        "chapterId": 311,
+        "headingId": 809,
+        "headingText": "\r\n<p>ALPS is associated with an increased risk of B-cell lymphoma, including classic Hodgkin lymphoma, nodular lymphocyte&ndash;predominant Hodgkin lymphoma, diffuse large B-cell lymphoma, Burkitt lymphoma, follicular lymphoma, and rarely T-cell lymphoma and histiocytic sarcoma {11418480;21885602;24398331;20216376}.</p>",
+        "timestamp": "2026-09-02T11:51:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

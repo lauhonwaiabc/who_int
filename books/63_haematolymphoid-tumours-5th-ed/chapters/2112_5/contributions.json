@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 118124,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Clonal haematopoiesis (CH) in the context of ageing refers to the presence of a population of cells derived from a multipotent stem/progenitor cell harbouring one or more driver gene mutations resulting in selective growth advantage in individuals without unexplained cytopenias, haematological cancers, or other clonal disorders.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 118125,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9860/0 Clonal haematopoiesis</p>\r\n<p>9860/0 Clonal haematopoiesis of indeterminate potential</p>\r\n<p>9860/0 VEXAS syndrome</p>\r\n\r\n",
+        "timestamp": "2024-03-01T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 118126,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-01T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 118127,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Acceptable:</em> age-related clonal haematopoiesis (ARCH).</p>\r\n\r\n",
+        "timestamp": "2024-03-01T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 118128,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>Clonal haematopoiesis of indeterminate potential (CHIP); VEXAS syndrome</p>\r\n\r\n",
+        "timestamp": "2024-03-01T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 118129,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>Blood and bone marrow</p>\r\n\r\n",
+        "timestamp": "2024-03-01T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 118130,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>CH is nearly always an incidental finding without associated clinical features. An exception includes the recently recognized CH-related disorder referred to as VEXAS syndrome, which has specific clinicopathological associations {33108101; 37084382}. All patients with VEXAS syndrome described to date have somatic mutations involving the X-linked gene <em>UBA1</em>, and they usually have a progressive systemic autoinflammatory syndrome involving the skin, lungs, blood vessels, joints, and cartilage, and/or various haematological conditions, including cytopenias {36692560}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 118131,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>The estimated prevalence of CH is linked to sequencing depth and analytical sensitivity {31672865}. However, CH is rare in individuals younger than 40&nbsp;years of age, increases steadily in incidence in those aged &gt;&nbsp;65&nbsp;years, and affects 10&ndash;40% of elderly individuals {25426837; 28655780}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 118132,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 709,
+        "headingText": "<p>Ageing is the dominant risk factor for CH {25326804; 25426837; 25426838; 25732814}, but smoking {25426838; 28483762; 33057201}, male sex {25426837}, exposure to cytotoxic therapies {29954749; 33106634}, and aplastic anaemia {26132940} have been associated with an increased risk of certain mutations. Several germline variants have been associated with a predisposition to CH {28483762; 33057201}. Germline deletion in intron&nbsp;3 of the telomerase reverse transcriptase gene (<em>TERT</em>) may predispose to CH {28483762}. Hispanic ancestry is associated with a decreased risk of CH {25426837; 33057201}, but few other predisposing sociodemographic factors have been identified to date.</p>\r\n&nbsp;",
+        "timestamp": "2024-05-07T14:58:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 118133,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 710,
+        "headingText": "<p>The mutations that cause CH are most often base substitutions or small insertions/deletions, but CH due to acquired chromosomal mosaicism is increasingly recognized {22561516; 22561519}. The reason for the selective advantage (fitness) of a particular clone may be gene-dependent, mutation-specific, and influenced by the clinical context and timing of acquisition {32217721}. The most frequently reported mutations in CH occur in the key epigenetic modifiers <em>DNMT3A</em>, <em>TET2</em>, and <em>ASXL1</em>. Mice with loss of function of <em>Tet2</em> or <em>Dnmt3a</em> display stem and progenitor cell expansion, but the mechanisms underlying these changes remain obscure {21723200; 22138693}. Mutations in <em>PPM1D</em> and <em>TP53</em>&nbsp;may permit haematopoietic stem cells to bypass cell-cycle checkpoints after DNA damage, therefore leading to clonal expansion in the setting of chemotherapy {29954749}. Less is known about the mechanisms of clonal expansion for other genes associated with CH, such as <em>ASXL1</em>, <em>SF3B1</em>, <em>SRSF2</em>, and <em>U2AF1</em>, in part because murine models for these mutations show no clonal advantage for mutated haematopoietic stem cells {29643185; 27622333; 25965569; 25965570}. Clonal expansion can also occur in the absence of a known driver mutation, possibly due to unknown driver mutations or genetic drift in older individuals with a relatively depleted active haematopoietic stem cell pool {28483762}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T15:15:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 118134,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 118135,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 711,
+        "headingText": "\r\n\r\n<p>There are no known histopathological features that correlate with CH or CHIP. Indeed, the absence of histopathological features of defined myeloid neoplasms is integral to the definition of CH.</p>\r\n<p>Bone marrow evaluation of patients with VEXAS syndrome shows cytoplasmic vacuoles in myeloid and erythroid precursors. Other findings include hypercellularity, usually without dysplasia {33108101; 37084382}. Progression to myelodysplastic neoplasm (MDS) is a common feature in VEXAS syndrome. Cases in which bone marrow findings fulfil the diagnostic criteria for MDS should be diagnosed as such.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 118136,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>See <em>Histopathology</em>, above.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 118137,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 713,
+        "headingText": "<p>A diagnosis of CHIP is predicated on the detection of one or more somatic mutations in the CH driver genes listed in <a style=\"cursor:pointer\" href=\"/attachment/63/5/32521\" target=\"_blank\">#32521</a>Table&nbsp;2.02 , typically in an individual with normal peripheral blood indices {25326804; 25426837; 25426838; 25732814}. Cases with mutations in CH driver genes outside the regions specified in the table may qualify for a diagnosis of CHIP&nbsp;if the mutations are predicted to be deleterious and not rare, non-pathogenic variants. The presence of explainable abnormal red blood cell indexes or certain idiopathic findings such as a raised red blood cell distribution width (RDW) or mean corpuscular volume (MCV) does not preclude the diagnosis. The diagnosis is made by sequencing of DNA extracted from whole blood, but it can also be made using DNA from purified blood cell populations (e.g. granulocytes or mononuclear cells).</p>\r\n<p>The use of non-sequencing approaches to detect mutation-bearing CH, such as flow cytometry or immunohistochemistry, is not recommended at present.</p>\r\n&nbsp;",
+        "timestamp": "2024-05-07T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 118138,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 716,
+        "headingText": "\r\n<h5>Clonal haematopoiesis of indeterminate potential</h5>\r\n\r\n<p><em>Essential:</em> detection of one or more somatic mutations involving the CH driver genes listed in <a style=\"cursor:pointer\" href=\"/attachment/63/5/32521\" target=\"_blank\">#32521</a>Table&nbsp;2.02 with a variant allele frequency (VAF) of &ge;&nbsp;2% (&ge;&nbsp;4% for X-linked gene mutations in male patients) in DNA from blood or bone marrow cells; absence of unexplained cytopenias; absence of features diagnostic for defined myeloid neoplasms.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T15:16:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 118139,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 118140,
+        "bookId": 63,
+        "chapterId": 5,
+        "headingId": 715,
+        "headingText": "<p>CHIP is recognized as a precursor state that is distinct from haematological neoplasms and has a predominantly benign natural history {25426837; 25426838; 28655780}. CHIP progresses to frank malignancy at a rate of about 0.5&ndash;1% of cases per year {25426837; 25426838}, but the risk varies considerably according to several variables. The presence of a large clone or multiple gene mutations usually portends an increased risk of progression to myeloid malignancy. The risk of progression is greater for CHIP driven by mutations in <em>TP53</em>, <em>U2AF1</em>, <em>SRSF2</em>, <em>IDH2</em>, <em>IDH1</em>, <em>SF3B1</em>, and <em>ASXL1</em>&nbsp;{29988082; 29988143; 29988142}. Also, the concomitant presence of mosaic clonal genetic alterations is an independent risk factor for progression to leukaemia {33436578}. Mutations involving CH driver genes with a very low VAF (&lt;&nbsp;2%) may be highly prevalent by middle age {27546487}, but such clones have not been demonstrated to have pathological consequences.</p>\r\n<p>CHIP is also associated with an increased risk of all-cause mortality, possibly due to atherosclerotic cardiovascular disease {25426837; 25426838; 31707836; 34239136} and with autoimmune diseases {34139005}.</p>\r\n<p>MDS in the context of VEXAS syndrome appears to have lower-risk features and few mutations besides those involving <em>UBA1</em> {37084382}.</p>",
+        "timestamp": "2024-05-07T15:05:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

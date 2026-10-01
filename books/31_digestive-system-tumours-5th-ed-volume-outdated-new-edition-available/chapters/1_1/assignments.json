@@ -1,0 +1,124 @@
+[
+  {
+    "pkroleId": 58,
+    "bookId": "31",
+    "roleid": 9,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2017,
+        "lastname": "Washington",
+        "firstname": "Mary K.",
+        "initials": "",
+        "email": "",
+        "roleid": 9,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 60,
+    "bookId": "31",
+    "roleid": 11,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2024,
+        "lastname": "Odze",
+        "firstname": "Robert D. ",
+        "initials": "RD",
+        "email": "",
+        "roleid": 11,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 61,
+    "bookId": "31",
+    "roleid": 12,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2021,
+        "lastname": "Klimstra",
+        "firstname": "David S.",
+        "initials": "DS",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2023,
+        "lastname": "Nagtegaal",
+        "firstname": "Iris D.",
+        "initials": "ID",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2025,
+        "lastname": "Paradis",
+        "firstname": "Valerie",
+        "initials": "V",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2027,
+        "lastname": "Rugge",
+        "firstname": "Massimo",
+        "initials": "M",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2029,
+        "lastname": "Schirmacher",
+        "firstname": "Peter",
+        "initials": "P",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2173,
+        "lastname": "Cree",
+        "firstname": "Ian A.",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 62,
+    "bookId": "31",
+    "roleid": 14,
+    "roleTitle": "Editorial office",
+    "contributors": [
+      {
+        "contributorid": 1996,
+        "lastname": "Asante",
+        "firstname": "Asiedua",
+        "initials": "A",
+        "email": "",
+        "roleid": 14,
+        "position": 0
+      },
+      {
+        "contributorid": 2173,
+        "lastname": "Cree",
+        "firstname": "Ian A.",
+        "initials": "",
+        "email": "",
+        "roleid": 14,
+        "position": 0
+      }
+    ]
+  }
+]

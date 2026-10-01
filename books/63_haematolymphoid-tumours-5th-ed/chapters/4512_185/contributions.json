@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 120629,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Non-IgM monoclonal gammopathy of undetermined significance (MGUS) is defined by the presence of a non-IgM (mainly IgG or IgA; rarely IgE, IgD, and light chain only) serum monoclonal (M)&nbsp;protein of &lt;&nbsp;3&nbsp;g/dL, clonal bone marrow plasma cells &lt;&nbsp;10%, and absence of end-organ damage, such as hypercalcaemia, renal insufficiency, anaemia, and bone lesions (CRAB), that can be attributed to the plasma cell proliferative disorder. Light chain MGUS is a subtype characterized by an abnormal serum free light chain ratio (&lt;&nbsp;0.26 or &gt;&nbsp;1.65), increased level of the involved light chain, no immunoglobulin heavy chain expression on immunofixation, and an absence of end-organ damage that can be attributed to the plasma cell proliferative disorder.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 120630,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9765/1 Non-IgM monoclonal gammopathy of undetermined significance</p>\r\n<p>9765/1 IgG monoclonal gammopathy of undetermined significance</p>\r\n<p>9765/1 IgA monoclonal gammopathy of undetermined significance</p>\r\n<p>9765/1 IgD monoclonal gammopathy of undetermined significance</p>\r\n<p>9765/1 IgE monoclonal gammopathy of undetermined significance</p>\r\n<p>9765/1 Light chain monoclonal gammopathy of undetermined significance</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 120631,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A83.0 Monoclonal gammopathy of undetermined significance</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 120632,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 120633,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>IgG MGUS; IgA MGUS; IgD MGUS; IgE MGUS; light chain MGUS</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 120634,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>The neoplastic cells reside in the bone marrow.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 120635,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Non-IgM MGUS is generally not associated with clinical symptoms, especially myeloma-associated clinical manifestations. It is usually diagnosed incidentally on laboratory tests done during the workup of a variety of unrelated medical conditions {26181017}. Non-IgM MGUS carries a risk of progression to plasma cell (multiple) myeloma, plasmacytoma, or immunoglobulin light chain amyloidosis {24222331; 29342381}. The most important causally related disorders that occur in a small proportion of patients with non-IgM MGUS are proliferative glomerulonephritis, dermatological diseases (e.g. lichen myxoedematosus, necrobiotic xanthogranuloma, scleromyxoedema, and pyoderma gangrenosum), and (rarely) peripheral neuropathy.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 120636,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>Non-IgM MGUS is a subset of MGUS that accounts for about 80% of all MGUS cases. Thus, the estimated prevalence in the general population aged &ge;&nbsp;50&nbsp;years is approximately 3% {16571879}. The incidence of non-IgM MGUS increases with age. The age-adjusted incidence is higher in males than females, and higher in Black people than White people. First-degree relatives may have a higher risk of MGUS {19182202}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 120637,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>The etiology is unknown; however, a higher risk has been associated with a family history, obesity, exposure to pesticides, and immunosuppression.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 120638,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 710,
+        "headingText": "\r\n\r\n<p>MGUS probably originates when plasma cells divide in response to antigenic stimulation. During this period of antigenic stimulation, primary cytogenetic abnormalities occur. The two major types of primary cytogenetic abnormalities are hyperdiploidy and IGH translocations. IGH translocations involve the immunoglobulin heavy chain switch region on chromosome 14q32, and one of five common partner chromosomes loci: 11q13 (<em>CCND1</em>), 4p16.3 (<em>FGFR3</em> and <em>NSD2</em>), 6p21 (<em>CCND3</em>), 16q23 (<em>MAF</em>), and 20q11 (<em>MAFB</em>). The development of additional second-hit events and changes in the tumour microenvironment are thought to be responsible for the progression of MGUS to malignancy.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 120639,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 120640,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 711,
+        "headingText": "\r\n\r\n<p>Bone marrow is characterized by infiltration with clonal mature plasma cells that are light chain&ndash;restricted on immunostaining or flow cytometry of &lt;&nbsp;10% of total nucleated cells in the bone marrow. Clonal neoplastic cells are typically CD38+, CD45 dim to negative, CD19-negative, and CD138-positive.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 120641,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 120642,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>FISH studies will reveal the presence of primary cytogenetic abnormalities&nbsp;(t(11;14); t(4;14); t(14;16); hyperdiploidy with trisomies of chromosomes&nbsp;7, 9, 11, 15,&nbsp;19) in most patients with an adequate number of plasma cells for analysis.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 120643,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 716,
+        "headingText": "<p><em>Essential:</em> serum monoclonal (M)&nbsp;protein &lt;&nbsp;3&nbsp;g/dL; clonal bone marrow plasma cells &lt;&nbsp;10% of total nucleated cells; absence of CRAB features that can be attributed to the plasma cell proliferative disorder (see <a style=\"cursor:pointer\" href=\"/attachment/63/185/31668\" target=\"_blank\">#31668</a>Box&nbsp;4.05).</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T14:53:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 120644,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 714,
+        "headingText": "<p>Risk-stratification of MGUS (IgM MGUS and non-IgM MGUS) is based on the size and type of the M&nbsp;protein and the free light chain ratio (see <a style=\"cursor:pointer\" href=\"/attachment/63/185/31114\" target=\"_blank\">#31114</a>Table&nbsp;4.61) {15855274}. The presence of all three risk factors (abnormal serum free light chain ratio, IgA-type or IgM-type MGUS, and serum M&nbsp;protein &gt;&nbsp;1.5&nbsp;g/dL) is considered high risk, with approximately 50&ndash;60% risk of progression at 20&nbsp;years, whereas the risk is only 5% when none of the risk factors are present.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T14:53:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 120645,
+        "bookId": 63,
+        "chapterId": 185,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>The overall risk of progression of non-IgM MGUS to plasma cell (multiple) myeloma or a related malignancy is approximately 1% per year. This risk persists indefinitely {29342381}.</p>",
+        "timestamp": "2024-03-12T11:57:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

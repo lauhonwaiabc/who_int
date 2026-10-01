@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 112765,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 576,
+        "headingText": "\r\n<p>Lymphoepithelial carcinoma (LEC) is an undifferentiated-appearing carcinoma arising within the sinonasal tract showing an associated prominent non-neoplastic lymphoplasmacytic cell infiltrate, strongly associated with EBV.</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 112766,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 577,
+        "headingText": "\r\n<p>8082/3 Lymphoepithelial carcinoma</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 112767,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 578,
+        "headingText": "\r\n<p>2C20.4 &amp; XH1E40 Squamous cell carcinoma of nasal cavity &amp; Lymphoepithelial carcinoma</p>\r\n<p>2C22.1 &amp; XH1E40 Squamous cell carcinoma of accessory sinuses &amp; Lymphoepithelial carcinoma</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 112768,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> lymphoepithelioma-like carcinoma; primary sinonasal nasopharyngeal-type undifferentiated carcinoma.</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 112769,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 112770,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 581,
+        "headingText": "\r\n<p>LEC affects the nasal cavity and less commonly the paranasal sinuses {11780191; 21698444; 29995775}. The sinonasal tract location defines LEC as a distinct entity from nasopharyngeal carcinoma {11859210}.</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 112771,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients usually have nasal obstruction, bloody nasal discharge, facial swelling, and/or pain {11859210; 19135324; 29995775}. An advanced tumour with skull base invasion may cause cranial nerve palsy {11859210; 25804344}.</p>\r\n<h5>Imaging</h5>\r\n<p>Imaging studies document tumour site and extent {25525589; 29995775; 32998538}.</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 112772,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 583,
+        "headingText": "\r\n<p>Tumours are more common in men (M:F&nbsp;ratio: 2&ndash;3:1) in their fifth to seventh decade of life (median: 58&nbsp;years) {11780191; 11859210; 25804344}, with an increased incidence in patients from regions where nasopharyngeal carcinoma has a high prevalence, e.g. south-eastern Asia {7661287; 11780191; 11859210}.</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 112773,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 584,
+        "headingText": "\r\n<p>Sinonasal LEC is strongly associated with EBV infection, especially in endemic areas {7661287; 11780191; 11859210}.</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 112774,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 585,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 112775,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 592,
+        "headingText": "\r\n<p>Sinonasal LEC presents with an irregular or polypoid mass that may have erosion and haemorrhagic surfaces {21698444; 22078847}.</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 112776,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 586,
+        "headingText": "\r\n<p>Tumours are composed of a syncytium of large cells arranged in lobules, nests, trabeculae, or cords, and associated with a rich lymphoplasmacytic infiltrate, which can be florid, obscuring the tumour cells. The malignant cells typically have large round nuclei, vesicular chromatin, prominent nucleoli, and poorly defined cell borders (a syncytial pattern); occasional tumour cell spindling may be encountered. Necrosis or keratinization is typically absent {11859210; 21698444; 25804344}. In some cases, thick fibrous septa separating tumour islands may be observed. Extracellular amyloid deposits may be present.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Tumour cells are positive for cytokeratins and usually positive for squamous markers such as p40, p63, and CK5/6; they are negative for neuroendocrine, lymphoid, and melanocytic markers. p16 is usually negative or patchy and weak {25804344}. Sinonasal LECs are typically reactive for EBV-encoded small RNA (EBER) by in&nbsp;situ hybridization {11780191; 11859210; 25804344}, but rare cases may be EBER-negative {19135324; 21698444}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Tumours must be separated from sinonasal undifferentiated carcinoma, nasopharyngeal carcinoma, oropharyngeal carcinoma, SMARCB1-deficient carcinoma, NUT carcinoma, neuroendocrine carcinoma (NEC), melanoma, lymphoma, and undifferentiated pleomorphic sarcoma, among others.</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 112777,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 587,
+        "headingText": "\r\n<p>Smears show irregular tissue fragments of epithelial cells with spindle or epidermoid cytoplasm that can be poorly defined, and large highly pleomorphic nuclei, in an often prominent and obscuring lymphoplasmacytic background. Lymphocytes can infiltrate the epithelium. The epithelial component resembles non-keratinizing nasopharyngeal carcinoma.</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 112778,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 588,
+        "headingText": "\r\n<p>Most cases will demonstrate EBV by in&nbsp;situ hybridization.</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 112779,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> syncytial clusters of crowded, large, undifferentiated cells in an intimate relationship with the lymphoplasmacytic infiltrate; cytokeratin immunoreactivity; exclusion of a nasopharyngeal/oropharyngeal primary.</p>\r\n<p><em>Desirable:</em> EBER in&nbsp;situ hybridization (especially in endemic cases).</p>\r\n",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 112780,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 589,
+        "headingText": "<p>Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2023-10-09T11:41:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 112781,
+        "bookId": 52,
+        "chapterId": 16,
+        "headingId": 590,
+        "headingText": "\r\n<p>Sinonasal LEC appears to metastasize to cervical lymph nodes (15&ndash;25%) less frequently than nasopharyngeal carcinoma {19135324}, while distant metastasis are exceptional {11859210; 29995775}. Sinonasal LEC prognosis is favourable even with cervical lymph node metastasis, but survival data are limited by disease rarity {21698444; 25804344}.</p>",
+        "timestamp": "2023-09-25T11:52:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

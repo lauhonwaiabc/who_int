@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 139850,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 733,
+        "headingText": "\r\n<p>Metastases are malignant tumours that originate from a distant organ site and deposit at any intraocular structure.</p>\r\n",
+        "timestamp": "2026-03-31T15:09:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 139851,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 734,
+        "headingText": "\r\n<p>Code according to the originating tumour type.</p>\r\n",
+        "timestamp": "2026-03-31T15:09:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 139852,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 735,
+        "headingText": "\r\n<p>Code according to the originating tumour type.</p>\r\n",
+        "timestamp": "2026-03-31T15:09:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 139853,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 736,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T15:09:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 139854,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 737,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T15:09:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 139855,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 738,
+        "headingText": "\r\n<p>Intraocular metastases involve the choroid (90%), ciliary body (2%), iris (8%), and retina, optic disc, vitreous, and/or lens capsule (&lt;&nbsp;1&ndash;4%) (see <a style=\"cursor:pointer\" href=\"/attachment/65/310/35472\" target=\"_blank\">#35472</a>Table&nbsp;12.02).</p>\r\n",
+        "timestamp": "2026-03-31T15:09:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 139856,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 739,
+        "headingText": "\r\n<p>In the choroid, metastases occur as yellow-coloured tumour(s) with subretinal fluid and surface retinal pigment epithelial changes (leopard spotting). B-scan ultrasound shows a high echogenicity mass (80%) and optical coherence tomography shows an irregular (&ldquo;lumpy bumpy&rdquo;) choroidal surface (64%). In the iris, metastases produce a pale nodule in the iris stroma; in the ciliary body, metastasis is rare but occurs as a mass. Retinal, vitreous, and lens capsule metastases are frequently pigmented tumours originating from cutaneous melanoma. Optic disc metastasis is often associated with adjacent choroidal metastasis and can present with optic disc swelling {35306540}.</p>\r\n",
+        "timestamp": "2026-03-31T15:09:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 139857,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 740,
+        "headingText": "\r\n<p>Postmortem studies have recorded a prevalence of intraocular metastases in patients who have died from disseminated malignancy in 2&ndash;10% of cases {6022244;5267091;5562786;4412321;8814741;6859188}, as opposed to living patients, for whom the prevalence is 2&ndash;7% {30240895}. The uvea is the commonest site for intraocular metastases {9261313;4412321;233866;3307718;7709967;25343701;25827542;28399345}. Uveal metastases are seen in all age groups. The mean patient age is 60&nbsp;years {31972789}, there is a female predilection (64% female, 36% male) {31972789}, and a predominance in White people (88% White people vs 12% non-White people) {31972789}. Unilateral metastases are more common than bilateral (76% unilateral, 24% bilateral) {9261313}. In 67% of cases, the primary tumour is diagnosed before the metastasis {30122853}.</p>\r\n",
+        "timestamp": "2026-03-31T15:09:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 139858,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 741,
+        "headingText": "\r\n<p>The primary sites from which metastatic malignancies arise are in the following order of frequency: breast (37%), lung (27%), kidney (4%), gastrointestinal tract (4%), skin (cutaneous melanoma) (2%), lung (carcinoid, neuroendocrine tumours [NETs]) (2%), prostate (2%), thyroid (1%), pancreas (1%), and other (3%).</p>\r\n<p><a style=\"cursor:pointer\" href=\"/attachment/65/310/35472\" target=\"_blank\">#35472</a>Table&nbsp;12.02 summarizes the various intraocular locations with their commonest metastatic malignancies.</p>\r\n",
+        "timestamp": "2026-03-31T15:09:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 139859,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 742,
+        "headingText": "\r\n<p>The mechanism by which metastases reach the intraocular compartment is via haematogenous dissemination. The choroid is highly vascularized, with 80&ndash;85% of the blood flow to the eye dedicated to the choroid {2379647}. The choroid has the highest metastatic efficiency index of any organ and is involved in 8&ndash;10% of metastatic cases {8457500;8457505}. Most metastases occur in the postequatorial choroid, thought to be due to the rich vascular supply from the posterior ciliary arteries {4412321}, which may explain why metastases are rare in the anterior uvea (iris and ciliary body).</p>\r\n",
+        "timestamp": "2026-03-31T15:09:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 139860,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 749,
+        "headingText": "\r\n<p>See <em>Clinical features</em>.</p>\r\n",
+        "timestamp": "2026-03-31T15:09:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 139861,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 743,
+        "headingText": "\r\n<p>Generally, metastases retain (to some extent) the histological, immunohistochemical, and molecular pattern characteristic of the primary tumour. Anterior chamber metastases may be associated with the following histological changes: iris rubeosis, chronic iridocyclitis, angle closure, features of chronic glaucoma (loss of retinal ganglion cells and retinal atrophy), and haemorrhage {166633}. Choroidal metastases are usually well defined on enucleation specimens with a sharp demarcation with unaffected choroid. They may be necrotic and/or associated with chronic scleritis, serous retinal detachment, and subretinal haemorrhage.</p>\r\n",
+        "timestamp": "2026-03-31T15:09:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 139862,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 744,
+        "headingText": "\r\n<p>Cytology is performed in only a small number of cases with suspected intraocular tumours (2.5% of patients) {8233394;17074566}, where the differential lies between a primary uveal melanoma and a metastasis, and to confirm a metastasis when the primary is already known. The cytological confirmation of an intraocular metastasis can be the primary presentation in about a third of cases, therefore playing a critical role in diagnosing metastatic disease and establishing a primary malignant site {7709967;2979028;17760639}. Metastatic carcinomas are usually cohesive, which is a reflection of epithelial differentiation, whereas uveal melanomas are dispersed individual cells, with less nuclear atypia. An immunohistochemical panel including cytokeratins and melanocytic markers can greatly assist in this distinction if the cytological features are equivocal.</p>\r\n",
+        "timestamp": "2026-03-31T15:09:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 139863,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 745,
+        "headingText": "\r\n<p>The diagnostic molecular pathology depends on the primary neoplasm.</p>\r\n",
+        "timestamp": "2026-03-31T15:09:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 139864,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 748,
+        "headingText": "\r\n<h5>In cases of histopathologically confirmed systemic primary malignancy</h5>\r\n<p><em>Essential: </em>malignant histological/cytological features on an intraocular biopsy&nbsp;/ enucleation that match the histopathological features of the systemic malignancy index biopsy.</p>\r\n<p><em>Desirable: </em>immunohistochemical and molecular features of the intraocular biopsy&nbsp;/ enucleation that match the original systemic malignancy.</p>\r\n<h5>In cases of no known systemic malignancy</h5>\r\n<p><em>Essential:</em> malignant histological/cytological features on an intraocular biopsy&nbsp;/ enucleation with immunohistochemistry and molecular analysis to distinguish a primary intraocular malignancy from a metastasis.</p>\r\n",
+        "timestamp": "2026-03-31T15:09:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 139865,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 746,
+        "headingText": "\r\n<p>Stage according to the original tumour type.</p>\r\n",
+        "timestamp": "2026-03-31T15:09:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 139866,
+        "bookId": 65,
+        "chapterId": 310,
+        "headingId": 747,
+        "headingText": "\r\n<p>Local tumour control can be achieved by external beam radiotherapy (EBRT), brachytherapy, chemotherapy, immunotherapy, or photodynamic therapy. Survival is dependent on the site of the primary and available treatments; in a series of 1111&nbsp;patients with uveal metastasis, there was 32% survival at three years and 24% at five years. Favourable prognosis was found in carcinoid (neuroendocrine) tumour cases, and the worst prognosis was found in pancreatic and kidney carcinoma {30122853}.</p>",
+        "timestamp": "2026-03-31T15:09:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

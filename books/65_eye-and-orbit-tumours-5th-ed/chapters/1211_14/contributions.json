@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 136984,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 733,
+        "headingText": "\r\n<p>Squamous papilloma is a benign epithelial proliferation composed of squamous to columnar cells, including some goblet cells, surrounding fibrovascular cores.</p>\r\n",
+        "timestamp": "2026-03-31T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 136985,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 734,
+        "headingText": "\r\n<p>8052/0 Squamous cell papilloma</p>\r\n<p>8052/0 Exophytic conjunctival squamous papilloma</p>\r\n<p>8053/0 Inverted (endophytic) conjunctival squamous papilloma</p>\r\n<p>8052/0 Mixed conjunctival squamous papilloma</p>\r\n",
+        "timestamp": "2026-03-31T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 136986,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 735,
+        "headingText": "\r\n<p>2F36.Y &amp; XH50T2 Other specified benign neoplasm of eye or ocular adnexa &amp; Squamous cell papilloma, NOS</p>\r\n",
+        "timestamp": "2026-03-31T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 136987,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 736,
+        "headingText": "\r\n<p><em>Acceptable:</em> conjunctival papilloma; caruncular papilloma; squamous cell papilloma.</p>\r\n<p><em>Not recommended:</em> mucoepidermoid papilloma.</p>\r\n",
+        "timestamp": "2026-03-31T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 136988,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 737,
+        "headingText": "\r\n<p>Exophytic conjunctival squamous papilloma; inverted (endophytic) conjunctival squamous papilloma; mixed conjunctival squamous papilloma</p>\r\n",
+        "timestamp": "2026-03-31T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 136989,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 738,
+        "headingText": "\r\n<p>Papillomas can arise singly or as multiple lesions on either the bulbar or the palpebral conjunctiva, but they most commonly occur on the non-limbal bulbar conjunctiva {25527693}. The caruncle is often involved {11167228}, and occasional corneal extension occurs.</p>\r\n",
+        "timestamp": "2026-03-31T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 136990,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 739,
+        "headingText": "\r\n<p>Tumours may display a pedunculated or sessile architecture, are often filiform, and show a variegated or cerebriform surface. They are vascular with a tan-pink to red coloration {14711437}.</p>\r\n",
+        "timestamp": "2026-03-31T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 136991,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 740,
+        "headingText": "\r\n<p>Conjunctival papillomas are most common in men, typically aged between 21&nbsp;and 40&nbsp;years. Children and adolescents are also commonly affected and may have multiple lesions with extensive forniceal involvement {23538642;14711437;25527693;11167228}.</p>\r\n",
+        "timestamp": "2026-03-31T14:57:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 136992,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 741,
+        "headingText": "\r\n<p>Most conjunctival papillomas are driven by low-risk HPV subtypes, in particular HPV6 and HPV11 {25527693;18572051}. Occasional lesions are positive for high-risk HPV, i.e. HPV16 {8567996;11423448;33901465;30997398}. Reported rates of HPV detection vary significantly, from 44% to 92% {31236424}.</p>\r\n",
+        "timestamp": "2026-03-31T14:57:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 136993,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 742,
+        "headingText": "\r\n<p>HPV infection is considered to be the main stimulus of these conjunctival squamous proliferations; however, in HPV-negative lesions, the pathogenesis is unknown.</p>\r\n",
+        "timestamp": "2026-03-31T14:57:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 136994,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 749,
+        "headingText": "\r\n<p>See <em>Clinical features</em>, above.</p>\r\n",
+        "timestamp": "2026-03-31T14:57:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 136995,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 743,
+        "headingText": "\r\n<p>Exophytic papilloma shows a frond-like non-keratinizing squamous epithelial hyperplasia surrounding central vascular cores and containing varying numbers of goblet cells. Small intraepithelial mucous cysts or neutrophilic microabscesses may be present {34284422}. Surface keratinization or low-grade dysplasia&nbsp;/ koilocytic changes may occur {25527693;11167228}.</p>\r\n<p>Inverted papilloma appears as a well-circumscribed, endophytic squamous proliferation pushing into the substantia propria that may architecturally mimic squamous cell carcinoma (SCC) on scanning magnification {25818286;31361247;30997398;25890626}.</p>\r\n<p>Mixed growth patterns (i.e. both exophytic and endophytic) can also occur.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>This is usually not required for diagnosis; however, these lesions are positive for cytokeratins (e.g. AE1/AE3, CK10/13, CK14, and CK19); Ki-67 highlights proliferating cells. Block-like expression of p16 is only seen in cases associated with high-risk HPV.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The main differential diagnosis is SCC, particularly in inverted papilloma. An absence of cytological atypia favours inverted papilloma over SCC (see <a style=\"cursor:pointer\" href=\"/chaptercontent/65/21\" target=\"_blank\">section </a><em>Conjunctival squamous cell carcinoma</em>). Sessile papilloma with higher-grade dysplasia is more likely to be papillary conjunctival squamous intraepithelial neoplasia&nbsp;/ carcinoma in&nbsp;situ (see <a style=\"cursor:pointer\" href=\"/chaptercontent/65/20\" target=\"_blank\">section </a><em>Conjunctival squamous intraepithelial neoplasia</em>).</p>\r\n",
+        "timestamp": "2026-03-31T14:57:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 136996,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 744,
+        "headingText": "\r\n<p>FNAB&nbsp;/ impression cytology is not typically used to diagnose these lesions.</p>\r\n",
+        "timestamp": "2026-03-31T14:57:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 136997,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 745,
+        "headingText": "\r\n<p>HPV detection methods often reveal a viral etiology but are not necessary for diagnosis.</p>\r\n",
+        "timestamp": "2026-03-31T14:57:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 136998,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 748,
+        "headingText": "\r\n<p><em>Essential:</em> a benign, verrucous, or endophytic squamous proliferation with a variable number of goblet cells surrounding fibrovascular cores; absence of high-grade dysplasia&nbsp;/ SCC in&nbsp;situ and/or invasive growth.</p>\r\n<p><em>Desirable</em>: demonstration of low-risk HPV infection.</p>\r\n",
+        "timestamp": "2026-03-31T14:57:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 136999,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 746,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2026-03-31T14:57:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 137000,
+        "bookId": 65,
+        "chapterId": 14,
+        "headingId": 747,
+        "headingText": "\r\n<p>Younger patients (aged &le;&nbsp;20&nbsp;years) may have larger and more numerous lesions that are more likely to recur {23538642}. Corneal involvement and surgical excision alone without adjuvant therapy are also documented risk factors for recurrence {29675344}. Progression to SCC has been described but is rare {19692355}. Isolated reports suggest an increased risk of dysplasia or carcinoma in inverted (endophytic) conjunctival papillomas {33901465;28237169}.</p>",
+        "timestamp": "2026-03-31T14:57:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

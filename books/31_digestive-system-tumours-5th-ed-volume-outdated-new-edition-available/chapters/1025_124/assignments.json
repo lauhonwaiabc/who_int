@@ -1,0 +1,107 @@
+[
+  {
+    "pkroleId": 58,
+    "bookId": "31",
+    "roleid": 9,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2021,
+        "lastname": "Klimstra",
+        "firstname": "David S.",
+        "initials": "DS",
+        "email": "",
+        "roleid": 9,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 60,
+    "bookId": "31",
+    "roleid": 11,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2076,
+        "lastname": "Basturk",
+        "firstname": "Olca",
+        "initials": "O",
+        "email": "",
+        "roleid": 11,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 61,
+    "bookId": "31",
+    "roleid": 12,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2077,
+        "lastname": "Esposito",
+        "firstname": "Irene",
+        "initials": "I",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2084,
+        "lastname": "Klöppel",
+        "firstname": "Günter",
+        "initials": "G",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2085,
+        "lastname": "Zamboni",
+        "firstname": "Giuseppe",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2087,
+        "lastname": "Furukawa",
+        "firstname": "Toru",
+        "initials": "T",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2088,
+        "lastname": "Fukushima",
+        "firstname": "Noriyoshi",
+        "initials": "N",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2089,
+        "lastname": "Hong",
+        "firstname": "Seung-Mo",
+        "initials": "SM",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2179,
+        "lastname": "Maitra",
+        "firstname": "Anirban",
+        "initials": "",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      }
+    ]
+  }
+]

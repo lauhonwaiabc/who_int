@@ -1,0 +1,62 @@
+[
+  {
+    "pkattachmentId": 32173,
+    "bookid": 31,
+    "chapterId": 85,
+    "fileId": 666,
+    "type": "Figure",
+    "diagnosis": "<p>Bile duct adenoma</p>",
+    "title": "",
+    "legend": "<p>Hamartomatous pattern. Mucin-secreting small ducts in collagenized stroma in vaguely lobular arrangement and in relation to a large bile duct.</p>",
+    "source": "Wilson M.S. Tsui",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/31/85/666.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/31/85/thumb_666.jpg"
+  },
+  {
+    "pkattachmentId": 32174,
+    "bookid": 31,
+    "chapterId": 85,
+    "fileId": 667,
+    "type": "Figure",
+    "diagnosis": "<p>Cirrhotic nodule transformed into a nodule of reactive ductules, representing a differential diagnosis to bile duct adenoma</p>",
+    "title": "",
+    "legend": "",
+    "source": "Wilson M.S. Tsui",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/31/85/667.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/31/85/thumb_667.jpg"
+  },
+  {
+    "pkattachmentId": 32273,
+    "bookid": 31,
+    "chapterId": 85,
+    "fileId": 935,
+    "type": "Figure",
+    "diagnosis": "<p>Bile duct adenoma</p>",
+    "title": "",
+    "legend": "<p>Postinjury pattern. Closely packed small ducts in scant fibrotic stroma enclosing some portal tracts.&nbsp;</p>",
+    "source": "Wilson M.S. Tsui",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/31/85/935.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/31/85/thumb_935.jpg"
+  },
+  {
+    "pkattachmentId": 32947,
+    "bookid": 31,
+    "chapterId": 85,
+    "fileId": 1376,
+    "type": "Table",
+    "diagnosis": "",
+    "title": "<p><strong>Table&nbsp;8.13</strong> Differential diagnosis of solid-microcystic glandular lesions of the liver</p>",
+    "legend": "",
+    "source": "",
+    "copyright": "Modified with permission from Bosman FT, Carneiro F, Hruban RH, Theise ND (Eds.): WHO Classification of Tumours of the Digestive System. IARC: Lyon 2010.",
+    "tablehtml": "<table border=\"1\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td rowspan=\"2\" width=\"151\">\r\n<p><strong>Entity</strong></p>\r\n</td>\r\n<td colspan=\"3\" width=\"482\">\r\n<p align=\"center\"><strong>Characteristics</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"161\">\r\n<p><strong>Gross</strong></p>\r\n</td>\r\n<td width=\"150\">\r\n<p><strong>Histological</strong></p>\r\n</td>\r\n<td width=\"171\">\r\n<p><strong>Immunohistochemical</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"151\">\r\n<p>Von&nbsp;Meyenburg complex</p>\r\n<p>(bile duct microhamartoma)</p>\r\n</td>\r\n<td valign=\"top\" width=\"161\">\r\n<p>Multiple discrete nodules, related to portal tracts, may contain bile; usually &lt;&nbsp;0.5&nbsp;cm</p>\r\n</td>\r\n<td valign=\"top\" width=\"150\">\r\n<p>Irregular or rounded ductal structures lined by flattened or cuboidal epithelium; lumina may contain proteinaceous fluid or bile concretions; dense fibrous stroma; usually portal or periportal</p>\r\n</td>\r\n<td valign=\"top\" width=\"171\">\r\n<p>Expresses CK7 and CK19</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"151\">\r\n<p>Bile duct adenoma</p>\r\n</td>\r\n<td valign=\"top\" width=\"161\">\r\n<p>Solitary subcapsular, whitish firm discrete nodule; usually &lt;&nbsp;2&nbsp;cm</p>\r\n</td>\r\n<td valign=\"top\" width=\"150\">\r\n<p>Small round tubules lined by cuboidal epithelium, may contain mucin; inflamed or hyalinized fibrous stroma; often contains pre-existing portal tracts</p>\r\n</td>\r\n<td valign=\"top\" width=\"171\">\r\n<p>Expresses CK7, CK19, and often foregut antigens (MUC6, MUC5AC, TFF2, D10, 1F6)</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"151\">\r\n<p>Biliary adenofibroma</p>\r\n</td>\r\n<td valign=\"top\" width=\"161\">\r\n<p>Circumscribed whitish solid-microcystic tumour; as large as 16&nbsp;cm</p>\r\n</td>\r\n<td valign=\"top\" width=\"150\">\r\n<p>Complex tubulocystic structures with complex branching; single-layered biliary epithelium of variable height, sometimes with mitotic activity; lumina may contain cellular debris or proteinaceous fluid; abundant fibroblastic stroma</p>\r\n<p>May be complicated by epithelial dysplasia</p>\r\n</td>\r\n<td valign=\"top\" width=\"171\">\r\n<p>Expresses CK7, CK19, and occasionally CA19-9</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"151\">\r\n<p>Serous cystadenoma</p>\r\n<p>(microcystic adenoma)</p>\r\n</td>\r\n<td valign=\"top\" width=\"161\">\r\n<p>Circumscribed, sponge-like tumour, with microcysts filled with clear watery fluid; any size</p>\r\n</td>\r\n<td valign=\"top\" width=\"150\">\r\n<p>Multiple small cysts separated by thin fibrous septa, lined by a single layer of glycogen-rich clear cuboidal cells</p>\r\n</td>\r\n<td valign=\"top\" width=\"171\">\r\n<p>Expresses CK7, CK19, and occasionally CA19-9 and B72.3</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"151\">\r\n<p>Cholangiocarcinoma</p>\r\n</td>\r\n<td valign=\"top\" width=\"161\">\r\n<p>Variable appearances; any size: single firm nodule, multiple nodules, irregular periductal thickening, intraductal polypoid mass, diffuse growth, or any combination of the above</p>\r\n</td>\r\n<td valign=\"top\" width=\"150\">\r\n<p>Haphazardly arranged tubules, acini, papillae, and solid nests; cuboidal or columnar cells with nuclear atypia; with or without mucin secretion; accompanying abundant sclerotic desmoplastic fibrous stroma</p>\r\n<p>Free extracellular mucin, perineural invasion, intrasinusoidal invasion between hepatocytic plates&nbsp;&ndash; features more common in primary than metastasis</p>\r\n<p>Predisposing conditions (e.g. hepatolithiasis) and precursor lesions (e.g. biliary intraepithelial neoplasia) may be present</p>\r\n</td>\r\n<td valign=\"top\" width=\"171\">\r\n<p>CK7, CK19, and CEA: usually positive</p>\r\n<p>CK20: positive in 20%</p>\r\n<p>Ki-67 proliferation index: &gt;&nbsp;10%</p>\r\n<p>p53: often strong expression</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"151\">\r\n<p>Metastatic pancreatobiliary ductal adenocarcinoma</p>\r\n</td>\r\n<td valign=\"top\" width=\"161\">\r\n<p>Single or multiple firm nodules of any size</p>\r\n</td>\r\n<td colspan=\"2\" valign=\"top\" width=\"321\">\r\n<p>Adenocarcinoma indistinguishable from cholangiocarcinoma either in morphology or by immunohistochemistry</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"151\">\r\n<p>Metastatic colorectal adenocarcinoma</p>\r\n</td>\r\n<td valign=\"top\" width=\"161\">\r\n<p>Single or multiple nodules of any size, often with central necrosis</p>\r\n</td>\r\n<td valign=\"top\" width=\"150\">\r\n<p>Adenocarcinoma, often with garland pattern and central dirty necrosis</p>\r\n</td>\r\n<td valign=\"top\" width=\"171\">\r\n<p>Positive for CK20, CDX2, MUC2, and CEA; negative for CK7</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"151\">\r\n<p>Metastatic adenocarcinoma from other sites</p>\r\n</td>\r\n<td valign=\"top\" width=\"161\">\r\n<p>Single or multiple nodules of any size</p>\r\n</td>\r\n<td valign=\"top\" width=\"150\">\r\n<p>Adenocarcinoma with variable appearance</p>\r\n</td>\r\n<td valign=\"top\" width=\"171\">\r\n<p>Segregate according to CK7/CK20 pattern, then apply markers according to the suspected primary site</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+    "imageUrl": null,
+    "thumbnail": null
+  }
+]

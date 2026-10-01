@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 54846,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 159,
+        "headingText": "<p>Hepatoblastoma is a malignant primary hepatic blastomatous tumour that recapitulates hepatic ontogenesis and consists of variable combinations of epithelial and mesenchymal elements.</p>",
+        "timestamp": "2019-03-04T11:34:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 54847,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 160,
+        "headingText": "<p>8970/3 Hepatoblastoma NOS</p>",
+        "timestamp": "2021-11-22T15:14:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 54848,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 161,
+        "headingText": "<p>2C12.01 Hepatoblastoma</p>",
+        "timestamp": "2019-03-04T11:34:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 54849,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 162,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-03-04T11:35:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 54850,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 163,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-03-04T11:35:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 54851,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 164,
+        "headingText": "<p>Hepatoblastoma occurs as a single mass in 80&ndash;85% of cases, involving the right lobe in 55&ndash;60% of cases, the left lobe in 15% of cases, and both lobes in the remaining cases. Multiple masses may occur in either or both liver lobes.</p>",
+        "timestamp": "2019-03-04T11:36:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 54852,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 165,
+        "headingText": "<p>The majority (80&ndash;90%) of hepatoblastomas occur in patients aged between 6&nbsp;months and 5&nbsp;years, with a median age at onset of 18&nbsp;months. The remaining cases occur in the prenatal and neonatal periods {18022426}, in older children, and (rarely) in adults. There is a slight male predominance.</p>\r\n<p>Hepatoblastoma may present as abdominal enlargement, discomfort, mass, or pain, accompanied by anorexia or weight loss. Jaundice is present in &lt;&nbsp;5% of patients. Serum AFP is markedly elevated in 90% of cases and is useful for monitoring chemotherapy-induced regression and recurrence of disease. Low or normal serum levels of AFP are associated with an aggressive course and the small cell undifferentiated (SCUD) subtype.</p>\r\n<p>Hepatoblastomas appear as hyperechoic masses on ultrasonography and as hypoattenuated single or multiple well-delineated masses on CT. Areas of calcification and ossification may be seen.</p>",
+        "timestamp": "2019-04-24T12:04:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 54853,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 166,
+        "headingText": "<p>Hepatoblastoma is the most frequent malignant liver tumour in children, and it accounts for 1% of all paediatric malignancies. The incidence, which is estimated to be 1&ndash;1.5&nbsp;cases per million children, is uniform around the world. A rising incidence is observed in several countries, and appears to be related to the increasing cohort of low-birth-weight survivors {23600968}.</p>",
+        "timestamp": "2019-03-04T11:36:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 54854,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 167,
+        "headingText": "<p>Most cases of hepatoblastoma are sporadic, with no apparent underlying etiology. Hepatoblastoma is associated with familial adenomatous polyposis, Beckwith&ndash;Wiedemann syndrome, and trisomy&nbsp;18 (Edwards syndrome). There is a strong association with low birth weight; the odds ratio increases with lower birth weights, and is highest for birth weights &lt;&nbsp;1000&nbsp;g. Parenteral smoking, an established risk factor for low birth weight {12888836}, is also a risk factor for hepatoblastoma {14997199}.</p>",
+        "timestamp": "2019-03-04T11:38:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 54855,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 168,
+        "headingText": "<p>Hepatoblastoma is postulated to arise from primary hepatoblasts or a highly proliferative undifferentiated multipotent hepatic progenitor cell with the capacity to differentiate along a variety of lineages. It is likely that the stage and microenvironmental milieu at which the proliferating cells undergo mutations determine the differentiation pattern of the resulting tumour {27938502}.</p>\r\n<p>Genetic abnormalities of the WNT/&beta;-catenin signalling pathway are present in approximately 80% of hepatoblastomas; these abnormalities include long deletions in exon&nbsp;3 of <em>CTNNB1</em>, as well as mutations in <em>CTNNB1</em>, the AXIN genes, and <em>APC</em>. Targets of WNT signalling, such as cyclin&nbsp;D1, survivin, and MYC, are overexpressed. Additionally, MYC enhances TERT expression, which further activates WNT signalling, setting up a vicious cycle {24322718}. A comprehensive list of molecular abnormalities in hepatoblastoma is presented in Table <a style=\"cursor:pointer\" href=\"/attachment/31/83/2145\" target=\"_blank\">#2145</a>.</p>\r\n<p>Gene expression profiling has identified two subclasses of hepatoblastoma, one of which is associated with greater genetic instability (gains of chromosomes&nbsp;8q and&nbsp;2p), overexpression of hepatic progenitor cell markers (AFP, CK19 [KRT19], EpCAM [TACSTD1]), and upregulated MYC signalling. These tumours correspond to a more aggressive clinicopathological phenotype with higher stage, greater propensity for invasion and metastasis, and less-differentiated histological patterns. This group corresponds to immature histological phenotypes such as embryonal and crowded fetal hepatoblastomas, whereas the group that lacks the above-mentioned genetic changes consists predominantly of the fetal (especially the pure fetal) phenotype {19061838}.</p>",
+        "timestamp": "2019-08-23T11:55:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 54856,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 207,
+        "headingText": "<p>Hepatoblastomas appear as well-delineated single or multiple nodules with a nodular and bosselated appearance. An irregular, usually thin pseudocapsule formed by compressed liver may be present. The texture and colour of the cut surface depend on the tumour components and the presence or absence of necrosis and haemorrhage. Fetal hepatoblastomas display a tan-brown colour similar to that of normal liver. In the other patterns, the cut surface is often variegated, with soft or gelatinous brown to red areas. When osteoid is present, the tumour is typically gritty, and the cut surface exhibits multiple whitish and slightly transparent speckles, which may be clustered in a focal area.</p>",
+        "timestamp": "2019-03-04T11:38:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 54857,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 169,
+        "headingText": "<p>Hepatoblastomas are classified by the International Pediatric Liver Tumors Consensus Classification as either epithelial or mixed epithelial and mesenchymal (see Box&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/83/0429\" target=\"_blank\">#0429</a>) {24008558}. Epithelial hepatoblastoma may consist of fetal, embryonal, SCUD, cholangioblastic, and macrotrabecular patterns, occurring alone or in variable combinations.</p>\r\n<p>The fetal pattern consists of thin trabeculae or nests of small to medium-sized cells resembling hepatocytes of the developing fetal liver. The cytoplasm is either clear or finely granular and eosinophilic, reflecting variable amounts of glycogen and lipids, which impart a characteristic light and dark pattern at low magnification. The cells contain a small round nucleus with fine nuclear chromatin and an indistinct nucleolus. Foci of extramedullary haematopoiesis composed mainly of clusters of erythroid precursors are seen. The typical fetal pattern has low mitotic activity. This is referred to as well-differentiated fetal hepatoblastoma or fetal hepatoblastoma with low mitotic activity, to differentiate it from a subset of fetal hepatoblastomas that show considerable mitotic activity. The latter demonstrate larger, more pleomorphic nuclei and decreased cytoplasmic glycogen, creating a crowded, hypercellular appearance. This pattern is called crowded or mitotically active fetal hepatoblastoma. The fetal pattern may show pleomorphic nuclear features, especially after chemotherapy.</p>\r\n<p>The embryonal pattern resembles the developing liver at 6&ndash;8&nbsp;weeks of gestation. The cells are arranged as solid nests or glandular/acinar structures, with formation of pseudorosettes and papillary configurations. They have scant, dark granular cytoplasm devoid of visible glycogen and lipid droplets, and they contain enlarged nuclei with coarse chromatin, thus resembling blastemal cells found in other blastomatous tumours, such as nephroblastoma. Mitotic activity is more pronounced than in the fetal areas, and extramedullary haematopoiesis is rarely present.</p>\r\n<p>The SCUD pattern consists of solid sheets of dyscohesive small cells resembling the cells of neuroblastoma or other small blue cell tumours. Apoptosis, necrosis, and mitotic figures are abundant. Hepatoblastoma tissue showing the SCUD pattern can be either positive or negative for SMARCB1 (INI1). SMARCB1-negative SCUD tumours have features similar to those of rhabdoid tumours (advanced stage at diagnosis, chromosomal deletions or translocations of 22q11, and low serum AFP levels) and probably represent hepatic rhabdoid tumours {18985717}. SMARCB1-positive SCUD tumours are associated with a better prognosis than SMARCB1-negative SCUD tumours.</p>\r\n<p>The macrotrabecular pattern is characterized by the presence of thick trabeculae (5&ndash;12&nbsp;cells thick), resembling the trabecular architecture of hepatocellular carcinoma. The trabeculae may be composed of fetal or embryonal hepatoblasts, pleomorphic cells, or cells that resemble those of hepatocellular carcinoma.</p>\r\n<p>The cholangioblastic pattern appears as small ducts that lie within or around hepatocellular components.</p>\r\n<p>Neoplastic mesenchymal patterns (i.e. not tumour-induced stroma) in mixed hepatoblastoma most often comprise mature and immature fibrous tissue, osteoid or osteoid-like tissue, and hyaline cartilage. Osteoid is particularly more abundant after chemotherapy. A small percentage of mixed hepatoblastomas may display teratoid features, containing endodermal, neuroectodermal (melanin-producing cells, glial elements, neuronal cells), or complex mesenchymal tissues, such as striated muscle.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Immunohistochemistry is helpful for identifying residual neoplastic tissue and demarcating its boundaries in surgical specimens after chemotherapy. Immunohistochemistry may assist in risk stratification and help to guide management {27775819}. However, there is no marker to differentiate hepatoblastoma from hepatocellular carcinoma.</p>\r\n<p>Activation of the WNT/&beta;-catenin signalling pathway explains the frequent nuclear and cytoplasmic expression of &beta;-catenin in epithelial fetal (with the exception of the well-differentiated, low mitotic activity subtype) and mesenchymal components. Expression in other components is variable. Similarly, glutamine synthetase (GS), a downstream target of WNT signalling, is overexpressed, particularly in the fetal component.</p>\r\n<p>AFP is expressed by the less-differentiated epithelial components, but interpretation may be challenging due to heavy background staining.</p>\r\n<p>Hep&nbsp;Par-1, expressed by the fetal component, tends to be negative in more-immature epithelial components. Glypican-3 (GPC3) is expressed by epithelial fetal and embryonal components. The staining is usually finely granular in the low mitotic activity, well-differentiated component and coarser in other epithelial components. GPC3 may also be expressed by non-neoplastic hepatocytes. Pancytokeratins are variably expressed by the epithelial components. CK7 and CK19 highlight cholangioblastic elements. SMARCB1 (INI1), which is usually positive in all hepatoblastoma components, is helpful in identifying SMARCB1 (INI1)-negative SCUD tumours, which have a worse prognosis.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Rhabdoid tumour may resemble SCUD hepatoblastoma. Rhabdoid tumour consists of sheets of epithelioid cells with an eccentric nucleus and prominent PAS-positive intracytoplasmic inclusions. These tumours show loss of SMARCB1 (INI1) expression, corresponding to deletion or inactivation of <em>SMARCB1</em> on chromosome&nbsp;22.</p>\r\n<p>Well-differentiated hepatocellular carcinoma is differentiated from fetal hepatoblastoma by the presence of thickened trabeculae, higher N:C&nbsp;ratios, and the absence of light and dark areas</p>",
+        "timestamp": "2019-08-23T11:55:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 54858,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 170,
+        "headingText": "<p>Cytological diagnosis of hepatoblastoma relies on correlating cytological and immunohistochemical findings of immature hepatocellular cells with the presence of a hepatic mass in a young child with elevated serum AFP levels. High-grade elements and mesenchymal elements can be accurately identified on cytological smears. Necrosis, apoptosis, and mitotic figures are helpful clues to the diagnosis of embryonal and SCUD hepatoblastoma. These features are absent in fetal hepatoblastoma {27933740}.</p>",
+        "timestamp": "2019-03-04T11:39:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 54859,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 171,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-04-23T17:15:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 54860,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 174,
+        "headingText": "<p><em>Essential:</em> tumour cells recapitulating embryological stages of liver development; well-differentiated fetal hepatoblastoma: sheets of cells with light and dark areas, areas of haematopoiesis, low mitotic count; a mixture of patterns with epithelial and mesenchymal components including well-differentiated hepatoblasts, tubular structures, osteoid, cartilage, and squamous nests.</p>",
+        "timestamp": "2019-03-04T11:39:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 54861,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 172,
+        "headingText": "<p>The PRETEXT (PRE-Treatment EXTent of tumor) system is the staging system adopted by the Pediatric Hepatic International Tumor Trial (PHITT) {29427028}. The PRETEXT system has two components: the PRETEXT group and the annotation factors (see Box&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/83/0426\" target=\"_blank\">#0426</a>). The PRETEXT group describes the extent of tumour within the liver, which is determined according to the number of contiguous sections that must be resected to completely excise the tumour. The annotation factors denote additional risk factors (vascular involvement, multifocality, rupture, extrahepatic extent of tumour, and metastases).</p>",
+        "timestamp": "2019-08-23T11:56:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 54862,
+        "bookId": 31,
+        "chapterId": 83,
+        "headingId": 173,
+        "headingText": "<p>Univariate analyses have identified several prognostic factors that affect outcome in children with hepatoblastoma (see <a style=\"cursor:pointer\" href=\"/attachment/31/83/0427\" target=\"_blank\">#0427</a> Table&nbsp;8.11) {24322718}. Five backbone groups have been identified (see Table <a style=\"cursor:pointer\" href=\"/attachment/31/83/0428\" target=\"_blank\">#0428</a>) based on three traditional prognostic factors, namely, PRETEXT group, serum AFP level, and the presence of metastases at diagnosis. Further stratification was achieved by superimposing additional factors on these backbone groups, specifically, PRETEXT annotation factors, age at diagnosis (&lt;&nbsp;3&nbsp;years, 3&ndash;7&nbsp;years, and &ge;&nbsp;8&nbsp;years), and AFP levels (&le;&nbsp;100&nbsp;&micro;g/L and 101&ndash;1000&nbsp;&micro;g/L). This has led to a refined system for risk stratification that also guides therapy {27884679}.</p>\r\n<p>Pure well-differentiated fetal hepatoblastoma with low mitotic activity has a favourable prognosis, and children with these tumours do not require chemotherapy if the tumour is completely resectable {21768450}. In contrast, SCUD components impart an unfavourable prognosis, even when present only in small foci {11753992}.</p>",
+        "timestamp": "2019-08-23T11:56:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

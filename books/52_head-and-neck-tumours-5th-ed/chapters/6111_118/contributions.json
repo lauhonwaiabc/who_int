@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 114198,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 576,
+        "headingText": "<p >HPV-associated oropharyngeal squamous cell carcinoma (OPSCC) is a malignant epithelial tumour with squamous differentiation, caused by transcriptionally active high-risk HPV and usually arising from the tonsillar crypts.</p>",
+        "timestamp": "2023-11-28T16:21:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 114199,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 577,
+        "headingText": "<p >8085/3 Squamous cell carcinoma, HPV-associated</p>\r\n<p >8085/3 Non-keratinizing squamous cell carcinoma, HPV-associated</p>\r\n<p >8085/3 Keratinizing squamous cell carcinoma, HPV-associated</p>\r\n<p >8085/3 Papillary squamous cell carcinoma, HPV-associated</p>\r\n<p >8085/3 Adenosquamous carcinoma, HPV-associated</p>\r\n<p >8085/3 Ciliated adenosquamous carcinoma, HPV-associated</p>\r\n<p >8085/3 Lymphoepithelial carcinoma, HPV-associated</p>\r\n<p >8085/3 Spindle cell&nbsp;/ sarcomatoid squamous cell carcinoma, HPV-associated</p>\r\n<p >8085/3 Basaloid squamous cell carcinoma, HPV-associated</p>",
+        "timestamp": "2023-11-29T14:24:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 114200,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 578,
+        "headingText": "\r\n<p>2B6A.0 &amp; XH0EJ7 Squamous cell carcinoma of oropharynx &amp; Squamous cell carcinoma, HPV-positive</p>\r\n",
+        "timestamp": "2023-09-26T16:29:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 114201,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Acceptable:</em> HPV-positive squamous cell carcinoma; HPV-related squamous cell carcinoma; p16-positive squamous cell carcinoma.</p>\r\n",
+        "timestamp": "2023-09-26T16:29:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 114202,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 580,
+        "headingText": "<p>Non-keratinizing squamous cell carcinoma, HPV-associated; keratinizing squamous cell carcinoma, HPV-associated; papillary squamous cell carcinoma, HPV-associated; adenosquamous carcinoma, HPV-associated; ciliated adenosquamous carcinoma, HPV-associated; lymphoepithelial carcinoma, HPV-associated; spindle cell&nbsp;/ sarcomatoid squamous cell carcinoma, HPV-associated; basaloid squamous cell carcinoma, HPV-associated</p>",
+        "timestamp": "2023-11-29T14:24:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 114203,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 581,
+        "headingText": "\r\n<p>HPV-associated OPSCC arises from the tonsillar-bearing regions of the oropharynx (i.e. the lingual and palatine tonsils), where it takes origin from the specialized squamous epithelium lining the tonsillar crypts {28877058}.</p>\r\n",
+        "timestamp": "2023-09-26T16:29:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 114204,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients may present with clinical signs related to local tumour effects, but most present with small primary tumours that have metastasized to the upper and middle jugular chain lymph nodes (levels&nbsp;II and&nbsp;III). Painless cervical lymphadenopathy is the most common presentation {24652023}. HPV-associated OPSCC imaging differs from HPV-independent OPSCC imaging in that primary tumours are more commonly enhancing and exophytic, with well-defined margins. Patients also more commonly present with multiple positive nodes, and the metastases are more commonly cystic (see <a style=\"cursor:pointer\" href=\"/attachment/52/118/26602\" target=\"_blank\">#26602</a>Table&nbsp;6.01) {18383529; 23660291}.</p>\r\n",
+        "timestamp": "2023-09-26T16:29:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 114205,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 583,
+        "headingText": "\r\n<p>The incidence of HPV-associated OPSCC has risen over the past four decades globally, and particularly in North America and northern Europe. Patients with HPV-associated OPSCC are typically male (M:F&nbsp;ratio: 4:1), White, and of higher socioeconomic status. Over time, the prevalence of HPV in OPSCC has been increasing among older adults, causing an upward shift in the median patient age to 55&ndash;58&nbsp;years and closing the age gap with HPV-independent OPSCC {29710071; 29710393}.</p>\r\n",
+        "timestamp": "2023-09-26T16:29:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 114206,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 584,
+        "headingText": "<p>HPV-associated OPSCC is caused by high-risk HPV, with type&nbsp;16 responsible for approximately 90% of all cases {33232848}. Sexual behaviour is an established risk factor, with the lifetime number of oral sex partners as the most strongly associated factor {17494927; 20022926; 26351338}. Individuals with HPV-associated OPSCC are less likely than patients with HPV-independent OPSCC to be smokers (see <a style=\"cursor:pointer\" href=\"/attachment/52/118/26602\" target=\"_blank\">#26602</a>Table&nbsp;6.01). However, a history of tobacco smoking is present in 60&ndash;75% of patients, and about 25% of patients are active smokers at presentation. Tobacco smoking is associated with a significantly higher risk of oral HPV infection and therefore may play a role in the progression from oral HPV infection to OPSCC {25291584}.</p>",
+        "timestamp": "2023-11-10T16:41:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 114207,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 585,
+        "headingText": "\r\n<p>HPV oncoproteins E6 and E7 inactivate p53 and RB1 by targeting them for protein degradation. The role of other viral oncoproteins, such as E5, is less clear, but they may play a role in escaping immunosurveillance {29854832}.</p>\r\n",
+        "timestamp": "2023-09-26T16:29:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 114208,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 592,
+        "headingText": "\r\n<p>The appearance of primary tumours is highly variable, ranging from small and imperceptible to occasionally large and bulky. Lymph node metastases are often large and cystic.</p>\r\n",
+        "timestamp": "2023-09-26T16:29:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 114209,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 586,
+        "headingText": "<p>The histological progression through the sequential stages of surface dysplasia culminating in carcinoma in&nbsp;situ and invasive growth that characterizes HPV-independent squamous cell carcinoma (SCC) is not evident for HPV-associated OPSCC. Instead, tumours originate from the tonsillar crypts and infiltrate beneath the surface epithelium, growing as nests and lobules, often with central necrosis. Invasive growth may not elicit a desmoplastic stromal reaction, and because the reticulated tonsillar crypt epithelium is a poor barrier to spread, SCC adjacent to organized lymphoid tissue can metastasize, despite appearing histologically only in&nbsp;situ. The tumour nests tend to be surrounded by a lymphoid stroma that may permeate the tumour lobules. In the typical tumour, the tumour cells display high N:C&nbsp;ratios, oval to spindled nuclei, and syncytial cytoplasm (indistinct cell borders) without intercellular bridges, and they usually lack significant cytoplasmic keratinization. These cellular features are termed &ldquo;non-keratinizing SCC&rdquo;. Histological grading has been shown to lack prognostic utility and is not advocated. Some tumours may show nuclear anaplasia or multinucleation {22743286; 31552619}.</p>\r\n<p>The morphological spectrum of HPV-associated OPSCC also includes subtypes with papillary {23797720}, adenosquamous {21305368}, ciliated adenosquamous {26457358}, lymphoepithelial (undifferentiated) {20421782}, sarcomatoid&nbsp;/ spindle cell {24418859}, and basaloid features {18496144}. The clinical behaviour of these subtypes mirrors that of HPV-associated OPSCC with typical morphology. HPV-associated neuroendocrine carcinomas (NECs) (i.e. small cell and large cell NECs) can arise in the oropharynx, sometimes in association with an HPV-associated OPSCC {26735857; 29556964; 31093350}. Despite the presence of HPV, NECs have aggressive clinical behaviour necessitating distinction from HPV-associated OPSCC (see the sections on neuroendocrine carcinomas). Recognition of a high-grade neuroendocrine component is facilitated by immunohistochemistry showing absent or diminished expression of the squamous markers p63 and p40 and positive expression of neuroendocrine markers (synaptophysin, chromogranin, INSM1).</p>",
+        "timestamp": "2023-11-28T16:42:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 114210,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 587,
+        "headingText": "<p>FNABs of metastatic lesions show cohesive and more loosely arranged tissue fragments of cells with scant cytoplasm and hyperchromatic nuclei without prominent nucleoli. A cystic component of inflammatory cells and keratinized debris is common. Because of cystic degeneration and possibly fixation effects in cytology preparations, p16 immunostaining of cell blocks is not always reliable for determining HPV status of the tumour {26764038; 30846180}.</p>",
+        "timestamp": "2023-11-28T16:43:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 114211,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 588,
+        "headingText": "\r\n<p>Diffuse (nuclear and cytoplasmic) immunohistochemical staining for p16 that is of moderate to strong intensity is a highly reliable surrogate marker for high-risk HPV and is widely advocated as a standalone test for determining HPV status of primary and metastatic SCCs of oropharyngeal origin {29251996}. In some scenarios, direct HPV detection assays (e.g. RNA/DNA in&nbsp;situ hybridization and/or PCR) may be appropriate, such as when required by clinical trials, in geographical regions with a low overall HPV-attributable fraction, when p16 immunostaining is equivocal, or when there is a discrepancy between p16 staining and morphology (e.g. p16-positive keratinizing SCC) {22180304}.</p>\r\n",
+        "timestamp": "2023-09-26T16:29:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 114212,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> SCC (usually non-keratinizing); positivity for high-risk HPV as determined by surrogate marker p16 immunohistochemistry alone (70% nuclear and cytoplasmic cut-off point) or by p16 immunohistochemistry plus HPV-specific testing.</p>\r\n<p><em>Desirable:</em> p40/p63 (positive) and neuroendocrine marker (negative) immunohistochemistry (in selected cases).</p>\r\n",
+        "timestamp": "2023-09-26T16:29:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 114213,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 589,
+        "headingText": "<p >Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system. OPSCC staging is predicated upon p16/HPV status.</p>",
+        "timestamp": "2023-11-10T16:42:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 114214,
+        "bookId": 52,
+        "chapterId": 118,
+        "headingId": 590,
+        "headingText": "\r\n<p>Patients with HPV-associated OPSCC have significantly better survival outcomes than those with HPV-independent OPSCC (see <a style=\"cursor:pointer\" href=\"/attachment/52/118/26602\" target=\"_blank\">#26602</a>Table&nbsp;6.01). Approximately 20% of patients experience disease recurrence after treatment, with 3- and 5-year overall survival rates of 86% and 80%, respectively {26936027}. The favourable prognosis may be tempered by the adverse effects of active cigarette smoking {18270337; 20530316}.</p>",
+        "timestamp": "2023-09-26T16:29:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

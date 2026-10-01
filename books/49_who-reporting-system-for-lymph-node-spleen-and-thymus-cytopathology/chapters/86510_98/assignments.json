@@ -1,0 +1,70 @@
+[
+  {
+    "pkroleId": 145,
+    "bookId": "49",
+    "roleid": 181,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2319,
+        "lastname": "Medeiros",
+        "firstname": "L. Jeffrey",
+        "initials": "LJ",
+        "email": "",
+        "roleid": 181,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 146,
+    "bookId": "49",
+    "roleid": 182,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3644,
+        "lastname": "Field",
+        "firstname": "Andrew S.",
+        "initials": "AS",
+        "email": "",
+        "roleid": 182,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 147,
+    "bookId": "49",
+    "roleid": 183,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4160,
+        "lastname": "Katz",
+        "firstname": "Ruth Louise",
+        "initials": "",
+        "email": "",
+        "roleid": 183,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 148,
+    "bookId": "49",
+    "roleid": 184,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4166,
+        "lastname": "Hosone",
+        "firstname": "Masaru",
+        "initials": "",
+        "email": "",
+        "roleid": 184,
+        "position": 0
+      }
+    ]
+  }
+]

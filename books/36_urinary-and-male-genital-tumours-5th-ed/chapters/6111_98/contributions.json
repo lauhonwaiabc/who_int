@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 69828,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 539,
+        "headingText": "<p>High-grade prostatic intraepithelial neoplasia (HGPIN) is a proliferation of atypical secretory cells within prostatic glands. It is thought to be the earliest histologically recognizable precursor of invasive adenocarcinoma of the prostate.</p>",
+        "timestamp": "2022-04-07T15:58:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 69829,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 540,
+        "headingText": "\r\n<p>8148/2 Prostatic intraepithelial neoplasia, high-grade</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 69830,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 541,
+        "headingText": "\r\n<p>2E67.5 High-grade intraepithelial lesion of prostate</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 69831,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Acceptable:</em> prostatic intraepithelial neoplasia.</p>\r\n<p><em>Not recommended:</em> low-grade prostatic intraepithelial neoplasia; grade&nbsp;1, 2, or 3 prostatic intraepithelial neoplasia; carcinoma in&nbsp;situ.</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 69832,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 69833,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 544,
+        "headingText": "\r\n<p>HGPIN is most frequently located in the peripheral zone of the prostate gland, but rarely it can be found in the central and transition zones {9111625}.</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 69834,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 545,
+        "headingText": "\r\n<p>HGPIN is incidentally detected in histological samples obtained during the workup for prostate carcinoma. Isolated HGPIN does not lead to clinical manifestations {21883826}.</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 69835,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 546,
+        "headingText": "\r\n<p>Overall, the mean reported incidence of HGPIN in prostate biopsy studies is 9% (range: 4&ndash;16%) {22212075; 17499284}. The incidence increases with age and varies by race and geographical region. Autopsy series have confirmed the development of HGPIN in young men in their third and fourth decades of life (in 9% and 20% of the patients studied, respectively) {8326560}. Population-based studies point to the highest incidence being in African-American men and the lowest in Asian men {11144891}.</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 69836,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 547,
+        "headingText": "\r\n<p>The variation in the incidence of prostate cancer and its precursor HGPIN among populations and geographical regions has long indicated that differences in ethnic genetic determinants as well as environmental factors are etiological factors. Although the higher incidence of the disease in African Americans is probably genetically based {18570709}, the alteration in risk upon migration in each ethnic group strongly suggests environmental, dietary, and lifestyle factors (e.g. obesity and a lack of physical activity) as contributing determinants of risk {24114474}.</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 69837,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 548,
+        "headingText": "\r\n<p>There is some evidence pointing to glandular epithelial cell injury by dietary carcinogens, estrogens, or oxidants as triggers of a chronic inflammatory milieu that sets the stage for the development of prostate cancer precursors. Faced with persistent oxidative stress, the epithelial cells mount a genome damage defence and cell survival response by activating the expression of &alpha;- and &pi;-class glutathione S-transferases, COX-2, and other mediators {24114474; 12707036}. Ultimately, this is followed by epigenetic silencing of hundreds of genes, including the crucial caretaker gene <em>GSTP1</em>, that persists throughout cancer progression {9641498}. As a result, HGPIN shares many of the somatic genetic and epigenetic alterations that are exhibited by prostate cancer {22212075}. These include, among others, critical shortening of telomeres {12438224}, the presence of <em>MYC</em> amplifications in as many as half of all HGPIN lesions {9388062; 20195545}, <em>TMPRSS2</em>::<em>ERG</em> fusion in 20&ndash;30% {20736744; 18519767}, and the loss of the tumour suppressor gene <em>PTEN</em> in 23% {16938570}. Other genetic changes in HGPIN include loss of heterozygosity at chromosomes&nbsp;6 and 8 and gain of chromosomes&nbsp;7, 8, 10, and 12 {7606709; 9012485; 7585610}.</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 69838,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 555,
+        "headingText": "\r\n<p>HGPIN is not identifiable at the macroscopic level.</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 69839,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 549,
+        "headingText": "\r\n<p>HGPIN is characterized by an atypical proliferation of the secretory epithelial cells that line pre-existing ductal and acinar prostate gland structures. The surrounding basal layers remain discernible, albeit frequently with fewer basal cells. HGPIN lesions are identifiable on low to intermediate magnification given their usually darker tinctorial appearance. This is imparted by the increased density of the multilayered, enlarged, hyperchromatic nuclei and the more amphophilic cytoplasm of HGPIN cells as compared with cells of normal or hyperplastic glands {3943853}. The presence of conspicuous nucleoli is a key requirement for the diagnosis of HGPIN {27270763}. Absence of necrosis, marked nuclear pleomorphism, and brisk mitotic activity are features that distinguish HGPIN from intraductal carcinoma (see <a style=\"cursor:pointer\" href=\"/chaptercontent/36/99\" target=\"_blank\">section </a><em>Intraductal carcinoma of the prostate</em>). Three main histological patterns of HGPIN are recognized: tufting, micropapillary, and flat {3943853; 8454275}; however, designating HGPIN patterns in routine practice is of no clinical significance and should therefore be avoided. Additional morphological patterns of HGPIN that are encountered less frequently include the small cell, vacuolated (signet ring&ndash;like), foamy, mucinous, and inverted (hobnail) patterns, as well as HGPIN with squamous differentiation {22212075; 22458488; 23478231; 11717544}.</p>\r\n<p>The existence of a cribriform pattern of HGPIN is now controversial and its diagnosis is not recommended on needle biopsy {32589068}. As discussed in <a style=\"cursor:pointer\" href=\"/chaptercontent/36/99\" target=\"_blank\">section </a><em>Intraductal carcinoma of the prostate</em> , some authors have recently proposed that intraductal proliferations that overlap with lesions previously categorized as cribriform HGPIN but that do not reach the threshold for IDC-P should be assigned to a newly suggested category, variably referred to as &ldquo;atypical cribriform proliferation&rdquo;, &ldquo;atypical intraductal proliferation&rdquo;, and &ldquo;atypical intraductal proliferation suspicious for IDC-P&rdquo;. These represent intraductal precursor lesions that fall short of meeting the architectural and cytological criteria required for the diagnosis of IDC-P {29199015; 32589068; 30825003}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Confirmation of the presence of basal cells by immunostaining for high-molecular-weight cytokeratin and/or p63 may occasionally help to distinguish outpouchings of HGPIN from adjacent microscopic foci of adenocarcinoma. Furthermore, immunostaining for basal cells may help distinguish prostatic intraepithelial neoplasia&ndash;like adenocarcinoma and the foamy gland and pseudohyperplastic patterns of prostatic adenocarcinoma from HGPIN {24618608; 10632499; 29297496; 16607376}.</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 69840,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 69841,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 551,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 69842,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> crowded, stratified atypical secretory cells in pre-existing normal-sized or expanded glands; enlarged, hyperchromatic, and sometimes pleomorphic nuclei; prominent nucleoli; basal layer present but often discontinuous.</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 69843,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 552,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 69844,
+        "bookId": 36,
+        "chapterId": 98,
+        "headingId": 553,
+        "headingText": "\r\n<p>As a precursor lesion, HGPIN alone does not require therapy. Identification of HGPIN on needle biopsy workup for prostate cancer has long been recognized as a predictor of associated invasive adenocarcinoma {16469560; 27270763}. The likelihood of finding cancer on subsequent biopsy in men with an initially identified isolated HGPIN lesion has fallen significantly in populations with rigorous PSA screening programmes. Currently, the risk associated with the presence of a single focus of HGPIN equates to that of patients with no identifiable HGPIN (19% vs 21%, respectively) {16469560; 27270763}. In contrast, a larger extent of isolated HGPIN has maintained its significance as a predictor of a subsequent diagnosis of cancer, with the presence of multifocal HGPIN almost doubling the risk of cancer (30&ndash;40%). Accordingly, only patients with an initial biopsy set containing multiple foci of HGPIN are currently advised to undergo a repeat biopsy during the following year {21191509; 19524976; 16931964; 27270763}.</p>",
+        "timestamp": "2022-02-10T19:23:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

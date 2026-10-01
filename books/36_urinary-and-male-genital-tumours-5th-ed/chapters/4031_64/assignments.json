@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 89,
+    "bookId": "36",
+    "roleid": 151,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3769,
+        "lastname": "Menon",
+        "firstname": "Santosh",
+        "initials": "",
+        "email": "",
+        "roleid": 151,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 90,
+    "bookId": "36",
+    "roleid": 152,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2006,
+        "lastname": "Moch",
+        "firstname": "Holger",
+        "initials": "H",
+        "email": "",
+        "roleid": 152,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 91,
+    "bookId": "36",
+    "roleid": 153,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2923,
+        "lastname": "de Krijger",
+        "firstname": "Ronald R.",
+        "initials": "RR",
+        "email": "",
+        "roleid": 153,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 92,
+    "bookId": "36",
+    "roleid": 154,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2001,
+        "lastname": "Gill",
+        "firstname": "Anthony J.",
+        "initials": "AJ",
+        "email": "",
+        "roleid": 154,
+        "position": 0
+      },
+      {
+        "contributorid": 2816,
+        "lastname": "Mete",
+        "firstname": "Ozgur",
+        "initials": "",
+        "email": "",
+        "roleid": 154,
+        "position": 0
+      },
+      {
+        "contributorid": 2860,
+        "lastname": "Merino",
+        "firstname": "Maria J.",
+        "initials": "",
+        "email": "",
+        "roleid": 154,
+        "position": 0
+      },
+      {
+        "contributorid": 2915,
+        "lastname": "Cheng",
+        "firstname": "Liang",
+        "initials": "",
+        "email": "",
+        "roleid": 154,
+        "position": 0
+      },
+      {
+        "contributorid": 4283,
+        "lastname": "Varma",
+        "firstname": "Murali",
+        "initials": "",
+        "email": "",
+        "roleid": 154,
+        "position": 0
+      }
+    ]
+  }
+]

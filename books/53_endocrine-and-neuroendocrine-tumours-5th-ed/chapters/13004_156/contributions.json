@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123928,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 607,
+        "headingText": "\r\n<p>Multiple endocrine neoplasia type&nbsp;4 (MEN4) is an autosomal dominant tumour syndrome caused by inactivating mutations in the <em>CDKN1B</em> gene.</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123929,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 608,
+        "headingText": "<h6><em>MIM numbering</em></h6>\r\n<p>610755 Multiple endocrine neoplasia type 4; MEN4</p>",
+        "timestamp": "2024-10-09T16:00:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123930,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 609,
+        "headingText": "\r\n<p>2F7A.0 Multiple polyglandular tumours</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123931,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Not recommended:</em> multiple endocrine neoplasia type 1&ndash;like syndrome.</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123932,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 611,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123933,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 612,
+        "headingText": "\r\n<p>Patients with germline inactivating mutations of <em>CDKN1B</em> develop a clinical phenotype that mimics multiple endocrine neoplasia type&nbsp;1 (MEN1); they have tumours that arise in the pituitary, parathyroid, and pancreas. Parathyroid disease is the most prevalent, occurring in about 75% of patients. Pituitary tumours are identified in about one&nbsp;third of patients. Other neuroendocrine tumours (NETs) have also been reported, including those arising in the lung and stomach.</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123934,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 613,
+        "headingText": "\r\n<p>The diagnosis should be considered in a patient with primary hyperparathyroidism, diagnosed by an increase of serum levels of calcium and of intact PTH, associated with NET(s) of the pituitary and/or gastroenteropancreatic system and a negative <em>MEN1</em> genetic test using a technique that is able to detect point mutations, small and large deletions, and mosaicism. Gastrointestinal NETs seem to be less prevalent in MEN4 than in MEN1 {28824003; 30990521}.</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123935,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 614,
+        "headingText": "\r\n<p>With &lt;&nbsp;50&nbsp;published cases worldwide, MEN4 is a very rare disease. It has been identified mainly in patients who were clinically suspected to have MEN1 but are negative for <em>MEN1</em> mutations; a significant female predominance is reported {23555276; 27038812; 25645465; 22129891; 19141585; 21289244; 17030811; 17519308; 22026581; 20824794; 22291433; 24819502; 26257968; 26762354; 30990521; 32232325}.</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123936,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 615,
+        "headingText": "\r\n<p>MEN4 is caused by heterozygous germline mutations in <em>CDKN1B</em> {17030811; 23652671}. It is an autosomal dominant disorder with incomplete penetrance in some families.</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123937,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 616,
+        "headingText": "<p><em>CDKN1B</em> (12p13.1) encodes the CDK inhibitor p27 (p27KIP1). The canonical role of p27 is the inhibition of CDK activity. Specifically, nuclear p27 binds to and inhibits cyclin&nbsp;E&nbsp;/&nbsp;CDK2 and cyclin&nbsp;A&nbsp;/&nbsp;CDK2 complexes that regulate the progression from the G1&nbsp;phase to the S&nbsp;phase of the cell cycle. The main targets of CDK2 are members of the RB1 family. When these proteins are phosphorylated by CDK2, they release members of the E2F family, which in turn activate the transcription of genes responsible for G1-to-S progression {23652671}. p27 mainly localizes to the nucleus in growth-arrested cells, but it is translocated to the cytoplasm when the cells progress through the cell cycle. When in the cytosol, p27 binds cyclin&nbsp;D&nbsp;/ CDK4&ndash;6 complexes and acts as an essential assembly factor for such complexes. As opposed to cyclin&nbsp;E&nbsp;/ CDK2, cyclin&nbsp;D&nbsp;/ CDK4&ndash;6 complexes remain catalytically active when bound to p27. Sequestering p27 in the cytoplasm prevents the inhibition of nuclear cyclin/CDK complexes and ultimately promotes cell division {10699961; 18354415}. In addition, p27 plays pro-oncogenic roles in the cytoplasm that are independent of cyclin/CDK inhibition. Indeed, cytosolic p27 plays a role in cell migration and invasion, apoptosis, and autophagy {28687353}.</p>\r\n<p>Although p27 stops cell proliferation when overexpressed, and in mice it promotes tumour formation when deleted {8646781; 8646779; 8646780}, the rarity of somatic mutations in human cancers granted p27 the label of an atypical tumour suppressor. The identification of germline mutations in patients with MEN4 established p27 as a bona&nbsp;fide tumour suppressor {17097557}.</p>\r\n<p>The germline p27 mutations so far identified in patients with MEN4 span the coding sequence and the 5ʹ untranslated region of the gene without obvious mutation hotspots. Most of the reported changes in <em>CDKN1B</em> are missense mutations, followed by frameshift and nonsense alterations (see <a style=\"cursor:pointer\" href=\"/attachment/53/156/25789\" target=\"_blank\">#25789</a>Table&nbsp;13.03). For some of these mutations, functional in&nbsp;vitro studies have been conducted, and the results have shown that they alter the protein&rsquo;s localization, its tumour-suppressor activity, or its binding with known partners. Altogether, the mutations so far identified behave as loss-of-function mutations, and this is in agreement with the tumour-suppressor role of p27.</p>",
+        "timestamp": "2024-10-18T14:52:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123938,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 623,
+        "headingText": "\r\n<p>The gross appearance of the tumours is not distinct from that of sporadic lesions.</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123939,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 617,
+        "headingText": "\r\n<p>Limited data are available on histopathological clues for a MEN4 diagnosis; no clear differences from sporadic cases are reported. The occurrence of multiple tumours of the spectrum is the only known hint {32035641}. Hyperparathyroidism is the most frequent symptom; uniglandular disease is frequent, and no relapse after parathyroidectomy has been reported so far {28824003}. Pituitary neuroendocrine tumours (PitNETs) include non-functioning lesions as well as tumours secreting growth hormone, prolactin, or ACTH. Pulmonary and ileal NETs have been reported in some patients, and adrenocortical tumours are rare.</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123940,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 618,
+        "headingText": "<p>The cytopathological features of the various neoplasms related to MEN4 are indistinguishable from those of their sporadic counterparts, which are described elsewhere in this volume and in the other fifth-edition volumes of the WHO Classification of Tumours series.</p>",
+        "timestamp": "2024-12-05T11:40:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123941,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 619,
+        "headingText": "\r\n<p>Because of the variable presentation of MEN4, this diagnosis can only be established by genetic testing. Such testing is recommended in patients with the MEN1 phenotype who are negative for <em>MEN1</em> mutations {20833334}. Testing of patients with apparently sporadic isolated NETs is currently only carried out in research settings, because although deregulation of <em>CDKN1B</em> has been documented in multiple human neoplasms, somatic mutations are rare {10699961; 24185511}.</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123942,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> documented germline pathogenic sequence variant of the <em>CDKN1B</em> gene; manifestation of pituitary, parathyroid, and/or pancreatic neuroendocrine neoplasia.</p>\r\n<p><em>Desirable:</em> manifestation of pituitary, parathyroid, and/or pancreatic neuroendocrine neoplasia in the absence of a pathogenic mutation in <em>MEN1</em>.</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123943,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 620,
+        "headingText": "\r\n<p>Staging follows the American Joint Committee on Cancer (AJCC) guidelines for the various neoplasms in this syndrome.</p>\r\n",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123944,
+        "bookId": 53,
+        "chapterId": 156,
+        "headingId": 621,
+        "headingText": "\r\n<p>Given the small number of cases so far reported, no genotype&ndash;phenotype correlations have been established, and cases should be treated in accordance with the clinical guidelines for their individual tumours. Other than ruling out the presence of hyperparathyroidism, there are no data to guide the clinical screening and follow-up of <em>CDKN1B</em> mutation carriers.</p>",
+        "timestamp": "2024-10-09T16:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 150648,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 951,
+        "headingText": "\r\n<p>ACTH-producing tumour is a functioning pancreatic neuroendocrine tumour (PanNET) composed of ACTH-producing cells and associated with unregulated ACTH secretion causing Cushing syndrome.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 150649,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 952,
+        "headingText": "\r\n<p>81580/3 ACTH-producing tumour, NOS</p>\r\n",
+        "timestamp": "2026-06-09T11:32:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 150650,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 953,
+        "headingText": "\r\n<p>2C10.1 &amp; XH7AG8 ACTH-producing tumour of pancreas</p>\r\n",
+        "timestamp": "2026-06-09T11:32:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 150651,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 954,
+        "headingText": "\r\n<p><em>Acceptable:</em> ectopic ACTH-producing pancreatic neuroendocrine tumour.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 150652,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 955,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-06-09T11:32:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 150653,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 956,
+        "headingText": "\r\n<p>ACTH-producing neuroendocrine tumours (NETs) are frequently found in the tail of the pancreas, followed by the head and the body {33616046}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 150654,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 957,
+        "headingText": "\r\n<p>The clinical symptoms encompass all manifestations of Cushing syndrome, which include weight gain, central obesity, moon face, violaceous striae, hypertension, insulin resistance, glucose hypersensitivity, overt diabetes mellitus, severe hypokalaemia, life-threatening infections, psychiatric disorders, cutaneous hyperpigmentation, osteoporosis, and fractures {22740318}. Coexistent production of other hormones by tumour cells is not infrequent and may manifest with hypersecretion syndromes that can be synchronous or, more frequently, metachronous with Cushing syndrome: about 40% of patients have Zollinger&ndash;Ellison syndrome due to gastrin hypersecretion, and 5% develop insulinoma syndrome {25353285;38244178;33616046}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 150655,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 958,
+        "headingText": "\r\n<p>ACTH-producing PanNETs are rare, with &lt;&nbsp;350&nbsp;cases reported in the medical literature {33616046}, and account for 10&ndash;20% of all ectopic ACTH-dependent Cushing syndrome cases {38143211}. They show a female predilection (M:F&nbsp;ratio: 1:2), and about two&nbsp;thirds of reported patients are aged &lt;&nbsp;50&nbsp;years {37688510}. These tumours can also occur in children.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 150656,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 959,
+        "headingText": "\r\n<p>The etiology is unknown. Anecdotic cases have been related to genetically transmitted syndromes, including multiple endocrine neoplasia type&nbsp;1 {15251731} and von Hippel&ndash;Lindau syndrome {25353285}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 150657,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 960,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-06-09T11:32:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 150658,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 967,
+        "headingText": "\r\n<p>Macroscopically, the tumour is well circumscribed and unencapsulated, with a mean diameter of 48&nbsp;mm (range: 25&ndash;150&nbsp;mm). The cut surface is grey to pink and usually homogeneous {25353285}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 150659,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 961,
+        "headingText": "\r\n<p>ACTH-producing PanNETs display the classic well-differentiated neuroendocrine morphology of epithelial lineage [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International Agency for Research on Cancer; 2025. (WHO classification of tumours series, 5th ed.; vol. 10). https://publications.iarc.who.int/645. Bookref]]. The neoplasms are composed of relatively uniform cuboidal cells with centrally located nuclei and eosinophilic or amphophilic granular cytoplasm, arranged in nests, trabeculae, pseudoglands, or solid sheets. Lymphovascular invasion and perineural invasion are frequently observed, whereas necrosis is unusual.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>All ACTH-producing PanNETs are positive for general neuroendocrine markers (synaptophysin, chromogranin&nbsp;A, and INSM1) as well as for ACTH and/or ACTH-related peptide hormones, including POMC, MSH, &beta;-endorphin, and met-enkephalin {14971736}. The expression of other diverse peptide hormones is not a rare event. All tumours associated with Zollinger&ndash;Ellison syndrome are positive for gastrin, whereas tumours associated with insulinoma syndrome are positive for insulin and/or insulin-related peptides. ACTH-producing PanNET may express the transcription factors PDX1 and CDX2, but do not usually express ISL1 and ARX {39147030}. The transcription factor TPIT is not detected in ACTH-producing PanNET {37726450}. ACTH-producing PanNETs may be immunoreactive for KIT (CD117) and galectin-3, the clinical significance of which is unclear {25353285}. ACTH-secreting PanNETs show weak expression of SSTR2, possibly due to the downregulation of somatostatin receptors by high levels of glucocorticoids {10987254}, explaining the low sensitivity of 68Ga-SSTR PET/CT in identifying these tumours {31236798}.</p>\r\n<p>In some PanNETs associated with Cushing syndrome, ACTH expression has been reported in recurrences or metastatic deposits, even though the primary lesion was ACTH-negative {17286228}. Rarely, PanNETs associated with ectopic Cushing syndrome are negative for ACTH but positive for CRH {17286228}.</p>\r\n<h5>Grading</h5>\r\n<p>ACTH-producing PanNETs are graded using the same system used for other gastroenteropancreatic NENs (see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/199\" target=\"_blank\">section </a><em>Neuroendocrine neoplasms of the digestive system: Introduction and classification</em>). Most cases are&nbsp;G2 {25353285}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 150660,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 962,
+        "headingText": "\r\n<p>The cytology of ACTH-producing PanNETs is the same as that of other PanNETs and is diagnosed as category&nbsp;7 (malignant) when using the WHO Reporting System for Pancreaticobiliary Cytopathology (WHO System) {38709670}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 150661,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 963,
+        "headingText": "\r\n<p>Gene fusions, mainly <em>EWSR1</em>::<em>BEND2</em> fusion, are detected in ACTH-secreting NETs of the pancreas, but not in other locations tested (lung, renal, and thymic NET) {36690805}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 150662,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 966,
+        "headingText": "\r\n<p><em>Essential:</em> clinical evidence of Cushing syndrome; well-differentiated neuroendocrine morphology of epithelial lineage; neuroendocrine marker expression; Ki-67 proliferation index and/or mitotic count.</p>\r\n<p><em>Desirable:</em> ACTH expression (selected cases).</p>\r\n",
+        "timestamp": "2026-06-09T11:32:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 150663,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 964,
+        "headingText": "\r\n<p>The staging of ACTH-producing PanNETs is in line with the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) systems for this site.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 150664,
+        "bookId": 72,
+        "chapterId": 233,
+        "headingId": 965,
+        "headingText": "\r\n<p>The prognosis depends on the grading and staging of the tumour. About 80&ndash;92% of patients present with metastases at the time of diagnosis {37688510}, or develop distant metastases during follow-up {35437162}. The liver is the most frequent metastasis site, followed by lung, bones, and pelvic organs (e.g. ovaries). ACTH-producing PanNETs are aggressive, with a median overall survival time of 30&nbsp;months and a 5-year overall survival rate of 35% {25353285;32785672}. The median overall survival is only 18&nbsp;months from diagnosis of Cushing syndrome {37688510}. Patients with both Cushing syndrome and ZES appear to have poorer survival than those with Cushing syndrome only {20544290;25353285}. In contrast, those with both Cushing syndrome and insulinoma syndrome or with the detection of other peptide hormones have similar survival {25353285}. Treatment usually entails surgery when feasible and multimodal therapy. Cases positive for SSTR2 may respond to somatostatin analogue therapy {12803233}.</p>",
+        "timestamp": "2026-06-09T11:32:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

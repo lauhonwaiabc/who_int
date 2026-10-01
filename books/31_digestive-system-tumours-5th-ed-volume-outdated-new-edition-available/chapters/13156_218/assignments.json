@@ -1,0 +1,96 @@
+[
+  {
+    "pkroleId": 58,
+    "bookId": "31",
+    "roleid": 9,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2002,
+        "lastname": "Goldblum",
+        "firstname": "John R.",
+        "initials": "",
+        "email": "",
+        "roleid": 9,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 59,
+    "bookId": "31",
+    "roleid": 10,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 10,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 60,
+    "bookId": "31",
+    "roleid": 11,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2148,
+        "lastname": "Hornick",
+        "firstname": "Jason L.",
+        "initials": "JL",
+        "email": "",
+        "roleid": 11,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 61,
+    "bookId": "31",
+    "roleid": 12,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2067,
+        "lastname": "Tsui",
+        "firstname": "Wilson M.S.",
+        "initials": "WMS",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      },
+      {
+        "contributorid": 2150,
+        "lastname": "Miettinen",
+        "firstname": "Markku",
+        "initials": "M",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 63,
+    "bookId": "31",
+    "roleid": 23,
+    "roleTitle": "Responsible author (Edition)",
+    "contributors": [
+      {
+        "contributorid": 2148,
+        "lastname": "Hornick",
+        "firstname": "Jason L.",
+        "initials": "JL",
+        "email": "",
+        "roleid": 23,
+        "position": 0
+      }
+    ]
+  }
+]

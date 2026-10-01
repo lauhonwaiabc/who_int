@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1003,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 982,
+    "contributions": [
+      {
+        "pkcontributionId": 150837,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 982,
+        "headingText": "\r\n<p>Lynch syndrome (LS) is an autosomal dominant syndrome caused by a germline (constitutional) pathogenic variant affecting one of the four DNA mismatch repair (MMR) genes (<em>MLH1</em>, <em>MSH2</em>, <em>MSH6</em>, <em>PMS2</em>) and characterized by a high predisposition to a wide spectrum of cancers.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1004,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "MIM numbering",
+    "headingPosition": 2,
+    "headingid": 983,
+    "contributions": [
+      {
+        "pkcontributionId": 150838,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 983,
+        "headingText": "\r\n<p>609310 Colorectal cancer, hereditary nonpolyposis, type&nbsp;2 (gene MIM number: 120436, <em>MLH1</em>)</p>\r\n<p>120435 Lynch syndrome&nbsp;I (colorectal cancer, hereditary nonpolyposis, type&nbsp;1) (gene MIM number: 609309, <em>MSH2</em>)</p>\r\n<p>614350 Colorectal cancer, hereditary nonpolyposis, type&nbsp;5 (gene MIM number: 600678, <em>MSH6</em>)</p>\r\n<p>614337 Colorectal cancer, hereditary nonpolyposis, type&nbsp;4 (gene MIM number: 600259, <em>PMS2</em>)</p>\r\n<p>613244 Colorectal cancer, hereditary nonpolyposis, type&nbsp;8 (gene MIM number: 185535, <em>EPCAM</em>)</p>\r\n",
+        "timestamp": "2026-06-09T11:33:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1005,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 984,
+    "contributions": [
+      {
+        "pkcontributionId": 150839,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 984,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-06-09T11:33:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1006,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 985,
+    "contributions": [
+      {
+        "pkcontributionId": 150840,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 985,
+        "headingText": "\r\n<p><em>Not recommended:</em> cancer family syndrome {5088221}; hereditary non-polyposis colorectal cancer (HNPCC).</p>\r\n",
+        "timestamp": "2026-06-09T11:33:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1007,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 986,
+    "contributions": [
+      {
+        "pkcontributionId": 150841,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 986,
+        "headingText": "\r\n<p>MLH1 Lynch syndrome; MSH2 Lynch syndrome; MSH6 Lynch syndrome; PMS2 Lynch syndrome; Muir&ndash;Torre syndrome (MIM number: 158320) {7224741}</p>\r\n<p>Patients with Lynch syndrome due to co-inheritance of pathogenic variants affecting more than one MMR gene, e.g. <em>MLH1</em> and <em>MSH6</em>, are covered under multilocus inherited neoplasia alleles syndrome (MINAS) {26659639}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1008,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 987,
+    "contributions": [
+      {
+        "pkcontributionId": 150842,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 987,
+        "headingText": "\r\n<p>Within the digestive system, cancers occurring in LS can arise in the colon, rectum, stomach, small bowel, gallbladder, hepatobiliary tract, and pancreas.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1009,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 988,
+    "contributions": [
+      {
+        "pkcontributionId": 150843,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 988,
+        "headingText": "\r\n<p>The clinical characteristics, particularly cancer risk and tumour spectrum, vary according to the causative MMR gene. This is because the pathogenic variants in the different genes confer different penetrance (proportion of carriers who develop cancer) and expressivity (incidences of cancer affecting specific organs). This diversity is further enhanced by the patient&rsquo;s sex, age, history of cancer, and exposure to environmental/lifestyle risk factors {37395714;34543445}. The cancer risks stratified by gene, age, and sex are shown in <a style=\"cursor:pointer\" href=\"/attachment/72/243/43909\" target=\"_blank\">#43909</a>Table&nbsp;16.02 and <a style=\"cursor:pointer\" href=\"/attachment/72/243/43910\" target=\"_blank\">#43910</a>Table&nbsp;16.03. These estimates have remained steady through analyses at different times and by different groups {26657901;27261338;28754778;29046738;31337882;37181409;37821984;39004446}.</p>\r\n<p>The risk of cancer is highest with pathogenic variants affecting <em>MSH2</em> and <em>MLH1</em>, somewhat lower (and with later onset) when <em>MSH6</em> is affected, and lower still with <em>PMS2</em> pathogenic variants. In MLH1 and MSH2 LS, cancers in the colon, endometrium, and ovary typically occur early, and cancers in other organs occur more in survivors of early-onset cancers. In MLH1 LS, the subsequent cancers tend to occur in the rectum, upper GI tract, and pancreaticobiliary tract. In MSH2 LS, late cancers can affect various organs including rectum, upper urinary tract, prostate, and brain. As a result of colorectal surveillance in both MLH1 and MSH2 LS, the later-onset (and typically non-colonic) cancers now constitute the main cause of cancer deaths. MSH6 LS has higher penetrance in females, so the incidence of endometrial and ovarian cancer is higher than that of colorectal carcinomas (CRC). The incidence of CRC in MSH6 LS, although increased in both sexes, is lower than that in MLH1 or MSH2 LS. PMS2 LS has only a slightly increased incidence of CRC and endometrial cancer in individuals aged &lt;&nbsp;50&nbsp;years but has a higher incidence in older ages. In male patients, PMS2 LS also confers an increased risk of prostate cancer {37181409;37821984}. Notably, nearly half of the CRCs occurring in PMS2 LS do not harbour demonstrable MMR deficiency (dMMR) by immunohistochemistry or microsatellite instability (MSI) testing {37262391}. Recent data indicate that sarcoma is also part of the LS tumour spectrum; osteosarcoma in particular has a significantly higher incidence in LS adults when compared with the general population, and it is particularly associated with MSH2 LS {32783184}.</p>\r\n<p>A small subset of patients develop LS due to pathogenic deletions of the 3&prime; (terminal) end of <em>EPCAM</em> that consequently alters its downstream neighbour <em>MSH2</em>. When the <em>EPCAM</em> deletions do not extend into <em>MSH2</em>, patients are at risk of gastrointestinal cancers but not of the non-gastrointestinal cancers characteristic of LS {21145788;21769135;23264089}. In contrast, patients with <em>EPCAM</em> deletions that extend into <em>MSH2</em> have a standard MSH2 LS phenotype indistinguishable from that of patients with variants in <em>MSH2</em>. Similarly, patients may develop LS due to deletions or other structural variants in <em>LRRFIP2</em> that alter its downstream neighbour <em>MLH1</em> {21785361;36760167}; whether and how the clinical features of these cases differ from MLH1 LS remains to be determined.</p>\r\n<p>Muir&ndash;Torre syndrome is the co-occurrence of a sebaceous skin tumour (i.e. sebaceous adenoma, sebaceoma, sebaceous carcinoma, or keratoacanthoma) with any internal cancer {7601953}. Many patients with LS have such skin tumours {29542113} and therefore may be diagnosed with Muir&ndash;Torre syndrome, but not all patients with Muir&ndash;Torre syndrome have LS. A recent study showed that LS-associated sebaceous tumours and keratoacanthomas were significantly and independently associated with MLH1 or MSH2 type of LS, male sex, older age, White race, and personal history of non-LS skin neoplasms {36773823}.</p>\r\n<p>In contrast to those with constitutional mismatch repair deficiency syndrome (CMMRD; discussed elsewhere), individuals with LS do not develop large numbers of colorectal adenomas, unless they have some other predisposing condition {26659639}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1010,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 989,
+    "contributions": [
+      {
+        "pkcontributionId": 150844,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 989,
+        "headingText": "\r\n<p>Systematic testing of CRC cases now shows that LS is a cause of CRC in approximately&nbsp;1 in 30&nbsp;cases {28135145;28754778}. The prevalence of LS in the general population is estimated to be approximately&nbsp;1&nbsp;in 300 (1&nbsp;in 279 or 0.36%, 95%&nbsp;CI: 192&ndash;403) based on cancer registries in the USA, Canada, and Australia, with PMS2 and MSH6 LS being about 2.5&ndash;4&nbsp;times more prevalent than MLH1 and MSH2 LS {27799157}. Two other studies&nbsp;&ndash; the Healthy Nevada Project {32719484} and UK Biobank {32347951}&nbsp;&ndash; showed a prevalence of 0.29% and 0.2%, respectively. Founder mutations causing LS are found in many populations; for example, Finland has a higher prevalence of LS as a result of this effect {7584997;28466842;17039269;29288294;28369810}. In addition, certain variants are relatively more common due to recurrent mutations in the germline {10978353}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1011,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 990,
+    "contributions": [
+      {
+        "pkcontributionId": 150845,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 990,
+        "headingText": "\r\n<p>The primary cause of LS is a germline pathogenic variant (GPV) affecting an MMR gene (<em>MLH1</em>, <em>MSH2</em>, <em>MSH6</em>, or <em>PMS2</em>). Some individuals with LS have pathogenic variants involving adjacent genes that affect or extend into an MMR gene; for example, a mutation in <em>EPCAM</em> (<em>TACSTD1</em>) affecting <em>MSH2</em> or in <em>LRRFIP2</em> affecting <em>MLH1</em> {23408351;23264089;21309036;21712435}. Some individuals (about 1&ndash;2%) may have epigenetic mechanisms (DNA methylation) affecting <em>MLH1</em> or <em>MSH2</em>, some of which may be caused by rearrangements involving adjacent genes {19564652;20473912;23264089;21309036;21712435}. Germline <em>MLH1</em> promoter methylation accounts for 30&ndash;40% of patients with first presentation of CRC at age &le;&nbsp;55&nbsp;years whose tumours exhibit dMMR and <em>MLH1</em> methylation, prompting the suggestion that blood-based germline <em>MLH1</em> methylation testing be performed in this high-risk group {37433431}.</p>\r\n<p>The International Society for Gastrointestinal Hereditary Tumours (InSiGHT) curates a public database of MMR genes, available at https://www.insight-database.org.</p>\r\n<p>A number of environmental and lifestyle factors have been identified as modifiers of LS. Cigarette smoking, increased body mass index, and alcohol consumption are associated with increased risk, whereas acetylsalicylic acid, ibuprofen, resistant starch, multivitamin and calcium supplements, hormone replacement therapy (but not oral contraceptive pill use), and increasing parity in women are associated with a reduction of cancer risk in LS {20145170;21559014;26282643;26109217;32141610;34543445;37395714;35320449;35878732}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1012,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 991,
+    "contributions": [
+      {
+        "pkcontributionId": 150846,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 991,
+        "headingText": "<p>The function of the MMR proteins is to form heterodimer complexes that recognize and repair base mismatches and small insertion-deletion loops (IDLs) that occur as a result of polymerase slippage during DNA replication. Major MMR protein heterodimers include MutS&alpha; (MSH2+MSH6), MutS&beta; (MSH2+MSH3), and MutL&alpha; (MLH1+PMS2). The MutS dimers recognize the errors, with MutS&alpha; having a major role in recognizing base&ndash;base mispairs and small&nbsp;(1&nbsp;bp) IDLs, and MutS&beta; recognizing IDLs &ge;&nbsp;2&nbsp;bps. This is then followed by the recruitment of the MutL&alpha; that enlists the additional proteins needed to repair the mismatch/IDL.</p>\r\n<p>Microsatellites are short repetitive sequences made up of 1&ndash;6&nbsp;base pairs that are repeated 5&ndash;50&nbsp;times or more (also known as short tandem repeats), such as polyA tracts or runs of CA repeats {10899146;20102395}. They are prone to base mismatches and IDLs during DNA replication and are dependent on MMR to maintain stability. When dMMR occurs, the mismatches and IDLs in the microsatellites remain, and MSI with variation in microsatellite lengths ensues {32141610}.</p>\r\n<p>In LS, dMMR occurs when a cell loses its wildtype allele of the affected MMR gene (by a second hit, which is typically loss of heterozygosity, mutation, or methylation) {29296220;38003003}. Such second hits happen not only in association with dMMR tumours but also in morphologically normal cells {7632227}, particularly in intestinal crypt cells forming dMMR crypt foci {22552011}. These dMMR foci are abundant in LS individuals and not observed in individuals with sporadic MSI CRC {25173403;29884888;37030500;37894291}.</p>\r\n<p>The process through which dMMR leads to cancer is complex. dMMR/MSI may serve as a mechanism to inactivate important tumour suppressors that harbour microsatellites in their coding regions, such as <em>TGFBR2</em> or <em>ACVR2A</em>, which are tumour suppressors in colonic epithelium and harbour coding polyA tracts {10321738;20102395}. Alterations in the <em>TGFBRII</em> polyA sequence (as well as additional mutations) have been shown to occur in up to 90% of the MSI CRCs {7585632;20102395}. Inactivation of tumour suppressors may confer a growth advantage (as does the loss of MMR-induced apoptosis in dMMR cells {10097137;12214270;9425892}) and therefore drives tumorigenesis. However, the same IDLs that alter the coding microsatellites (and inactivate tumour suppressors) also generate highly immunogenic frameshift neopeptides that can trigger an intense immune response inhibiting the outgrowth of dMMR cell clones, i.e. immune surveillance preventing tumour formation/progression {30027543}. Such immune surveillance already exists in LS individuals before the occurrence of any symptomatic tumours, due to the presence of dMMR crypt cells, dMMR endometrial glands, and/or occult lesions that can generate frameshift neoantigens {30027543}. This is also believed to be a reason why the penetrance of LS is not 100%. A symptomatic tumour forms when the dMMR cells that possess growth advantage undergo immunoediting and develop mechanisms permitting the cells to escape the immune surveillance. Thus, in the manifest CRC, although immune cells may be abundant, they are functionally suppressed. Immune checkpoint inhibitor therapy likely exerts its anti-tumour effect via removing the immune inhibitory checkpoints and re-activating and enhancing the immune system&rsquo;s capacity to eliminate the tumour cells.</p>\r\n<p>This MSI pathway from dMMR crypt cells to carcinoma is currently speculated to account for most LS CRCs, particularly those associated with pathogenic variants in <em>MLH1</em>, <em>MSH2</em>, and <em>MSH6</em>. In MLH1 LS, the second hit (loss of heterozygosity) that inactivates the wildtype allele of <em>MLH1</em> (on 3p22.2) may also inactivate the neighbouring <em>CTNNB1</em> on 3p22 (in a cell that has already sustained a single CTNNB1 mutation, usually at codon&nbsp;41 or&nbsp;45 in exon&nbsp;3). Thus, these MLH1-deficient crypt cells gain an oncogenic effect in <em>CTNNB1</em> when they lose MMR by loss of heterozygosity. And these MLH1-deficient cells with abnormal <em>CTNNB1</em> may evolve into a flat cancer rapidly without going through a conventional adenoma phase. It is estimated that up to 40% of CRCs in MLH1 LS may form via this flat pathway {36907525;38741120}. Alternatively, the dMMR crypt cells may acquire mutations in <em>APC</em> and form a dMMR adenoma before evolving into carcinoma (the MSI adenoma pathway).</p>\r\n<p>A third carcinogenesis pathway follows the traditional adenoma to carcinoma paradigm, where dMMR occurs after the adenoma has formed. This is believed to be more common in PMS2 LS and explains the recent observation from the Prospective Lynch Syndromes Database (PLSD) that while colonoscopy surveillance does not seem to reduce the CRC incidence (but may improve prognosis) in other types of LS, it appears to prevent CRC in PMS2 LS {38741120}.</p>\r\n<p>Notably, a small but significant subset of CRCs occurring in LS do not harbour detectable dMMR or MSI {37262391}; whether and how the underlying MMR pathogenic variant affects the development of such seemingly unrelated coincidental CRCs remain to be determined.</p>\r\n<p>Among all dMMR CRCs, an estimated 20&ndash;25% are associated with LS; the rest occur sporadically. A major mechanism underlying the formation of sporadic dMMR CRC is somatic biallelic hypermethylation of the <em>MLH1</em> gene promoter, as part of the right-sided sessile serrated lesion pathway. Additional mechanisms giving rise to dMMR CRC include double somatic mutations&nbsp;/ biallelic inactivation of an MMR gene occurring sporadically or, on occasion, secondary to another hereditary condition affecting DNA repair, such as <em>MUTYH</em>-associated polyposis or polymerase proofreading&ndash;associated polyposis {24518836;25716099;28577310}.</p>\r\n<p>In general, LS-associated dMMR CRCs tend to occur early while sporadic dMMR CRCs are more common in older individuals (<a style=\"cursor:pointer\" href=\"/attachment/72/243/43914\" target=\"_blank\">#43914</a>Table&nbsp;16.04).</p>",
+        "timestamp": "2026-06-19T12:05:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1019,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 998,
+    "contributions": [
+      {
+        "pkcontributionId": 150847,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 998,
+        "headingText": "\r\n<p>The gross appearance is related to the tumour type and is not distinctive from sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1013,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 992,
+    "contributions": [
+      {
+        "pkcontributionId": 150848,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 992,
+        "headingText": "\r\n<p>The typical histological features in CRC with MSI include the presence of tumour-infiltrating lymphocytes, Crohn-like peritumoural lymphocytic reaction, poor differentiation, mucinous and signet-ring cell features, and a medullary growth pattern {11159189;14576473;29906313;18283560;23435936}. These features are identified in both sporadic dMMR cancers and those that occur in the setting of LS but are not useful to be differentiated. Although these histological findings are commonly seen, they are not specific enough by themselves to distinguish microsatellite-stable tumours from MSI tumours.</p>\r\n<p>Limited data are available about non-colorectal LS-associated cancers. Most LS-associated gastric carcinomas are intestinal-type {9355980;17267619;19900449}, &lt;&nbsp;13% are diffuse-type, and mucinous carcinomas are very rare. The presence of intraepithelial lymphocytes is not described. LS-associated small bowel carcinomas {27258561} show frequently mucinous, signet-ring cell or medullary differentiation, often in combination with tumour-infiltrating lymphocytes and Crohn-like reaction, similar to ampullary carcinomas {27829276}. Other types of LS-associated biliary carcinomas do not have significant distinguishing features {27829276}. Pancreatic neoplasms associated with LS are acinar cell carcinomas {25058881}, medullary carcinomas {10793075}, and intraductal papillary mucinous neoplasms {29151953}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1014,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 993,
+    "contributions": [
+      {
+        "pkcontributionId": 150849,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 993,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-06-09T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1015,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 994,
+    "contributions": [
+      {
+        "pkcontributionId": 150850,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 994,
+        "headingText": "<p>The ultimate test that can establish the diagnosis of LS is germline testing demonstrating the presence of a monoallelic pathogenic variant in an MMR gene. Tumour MMR immunohistochemistry and MSI testing are screening tests that can detect the loss of MMR protein (i.e. dMMR) or the presence of microsatellite length change (i.e. MSI), respectively. MSI testing can be achieved by PCR or next-generation sequencing&ndash;based methods. dMMR or MSI should prompt germline testing to identify LS. Tumour somatic mutation testing can help determine the etiology of dMMR/MSI in selected scenarios (e.g. double somatic MMR gene mutations). Testing for <em>BRAF</em> mutation and <em>MLH1</em> promoter methylation can facilitate the diagnosis of MLH1-deficient tumours that are more likely to be sporadic.</p>\r\n<h5>MMR immunohistochemistry</h5>\r\n<p>MMR immunohistochemistry has evolved into a widely used front line test not only to screen tumours for LS but also for the purpose of predicting response to immune checkpoint inhibitor therapy. The presence of all four proteins normally located in the nucleus indicates MMR proficiency. Loss of nuclear staining for any of the proteins indicates dMMR and the need for additional testing. Loss of MSH2 alone or loss of both MSH2 and MSH6 suggests an underlying variant affecting <em>MSH2</em>. Similarly, loss of MLH1 alone or loss of both MLH1 and PMS2 suggests a variant or methylation affecting <em>MLH1</em>. Concomitant loss of both MSH2 and MSH6 (or of both MLH1 and PMS2) reflects the heterodimeric binding of MSH2 with MSH6 (or of MLH1 with PMS2) in MMR complexes, such that loss of the first partner leads to relative instability and loss of the second {18157157}. Loss of the second protein alone (i.e. loss of MSH6 alone or loss of PMS2 alone) suggests a variant affecting <em>MSH6</em> or <em>PMS2</em>, respectively. Given this dynamic interplay, a two-antibody panel (MSH6 and PMS2) has been proposed as a first-step screening tool with the assumption that one of the two would be abnormal in cases that have abnormality in any of the four genes {19701074}. With this approach, only 0.2% of cases are not detected when read by experienced pathologists {38859771}. Given that the 2&nbsp;MMR antibody panel may still miss borderline cases that could have been detected by the 4&nbsp;MMR antibody panel, many centres, particularly those in North America, United Kingdom, and parts of Europe, still prefer the use of all 4&nbsp;MMR antibodies. The examples illustrated in Fig.&nbsp;<a name=\"50230\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#50230</a> show a tumour with loss of nuclear expression of MSH2 and MSH6 and intact staining for MLH1 and PMS2, respectively.</p>\r\n<p>Pitfalls and unusual immunohistochemical patterns can occur, but awareness will prevent misinterpretation. A key element to good MMR immunohistochemistry is adequate internal control staining. Patchy intact staining can occur due to uneven antibody diffusion, variable fixation, or tissue hypoxia {12055083;12697826}. Cytoplasmic staining without nuclear staining may occur, which is considered abnormal (i.e. dMMR), because there is no staining in the nuclei, and cytoplasmic staining has been described with mutations {27896849}. Weak, patchy, nucleolar, or even absent MSH6 expression has been reported in a substantial number of rectal tumours after neoadjuvant treatment without MSI or mutation confirmed by molecular testing (Fig.&nbsp;<a name=\"50269\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#50269</a>) {21107085;21334712;22918162}. In MLH1- and/or PMS2-deficient tumours, <em>secondary</em> MSH6 loss, either regional (i.e. subclonal) or complete, can occur due to a secondary (non-germline) mutation in the <em>MSH6</em> coding mononucleotide tract {33010064;26099011;22918162;31783044;38956208;30387329;35700411}. Caution is needed to distinguish true subclonal loss (typically in the form of sharply demarcated regions of protein loss juxtaposed to regions with intact staining, with good internal control staining in both areas) (Fig.&nbsp;<a name=\"50236\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#50236</a>) from indistinct heterogeneous staining that can be caused by technical or as yet unclear etiologies (such as that illustrated in Fig.&nbsp;<a name=\"50237\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#50237</a>). Primary subclonal loss can occur due to subclonal <em>MLH1</em> methylation or acquired MMR gene mutation (similar to cases with complete loss); this is now recognized as an abnormal pattern of MMR immunohistochemistry. As it may be associated with LS, its presence should prompt germline testing for LS if clinically indicated {35700411;35668150}. Because rare dMMR tumours can show intact MMR protein expression on immunohistochemistry (presumably because of mutations that disable protein function but leave the protein detectable by immunohistochemistry) {22086678;37307877}, in clinical scenarios where LS is a concern (e.g. positive family or personal history) or immunotherapy is a treatment option, MSI testing and or genetic testing should be performed.</p>\r\n<h5>MSI testing</h5>\r\n<p>This assesses the length change of the microsatellites, which reflects the function of the MMR pathway. The first standard PCR-based MSI testing (PCR MSI) utilized a reference marker panel consisting of two [A/T] mononucleotide repeats (BAT26 and BAT25) and three [GT/CA]n dinucleotide repeats (D5S346, D2S123, and D17S250), and classified the tested tumours into MSI-high (MSI-H, if &ge;&nbsp;30%&ndash;40% of the five markers showed MSI) and MSI-low (MSI-L) or microsatellite-stable (if &lt;&nbsp;30%&ndash;40% of the five markers or no markers showed MSI). Over the years, propelled by technological advancements, MSI testing has undergone continued modification, and the marker panels have shifted to incorporating more mononucleotide markers due to the growing appreciation that such markers are quasi-monomorphic (nearly all individuals have the same number of repeats at these alleles) and sensitive in detecting dMMR {31471937;30157243}.</p>\r\n<p>Next-generation sequencing (NGS) MSI infers the status of tumour microsatellites from tumour or tumour&nbsp;/ normal genome sequencing data. Numerous NGS MSI programmes have been described, such as MSIsensor, MSIseq, MOSAIC, MANTIS, MiMSI, mSINGS, MIRMMR, MSI-pred, MSI-ColonCor, and MISmS {35668150}. Most NGS MSI programmes are developed by using PCR MSI and MMR immunohistochemistry as the gold standards, mostly utilizing canonical LS cancers, i.e. CRC and endometrial cancers. Issues with allele bias in MSI testing have led to the development of methods addressing this {38962168}.</p>\r\n<p>As screening tests, MMR IHC, PCR MSI, and NGS MSI each have advantages and disadvantages {35668150}. The value of immunohistochemistry and MSI is considerably enhanced by testing more than one tumour from the same family and/or individual, especially if the tumours are rare (e.g. rectal cancers, colorectal adenomas, small bowel cancers, and sebaceous skin tumours). Consistent immunohistochemical abnormality of one MMR protein is excellent evidence of the pathogenicity of a variant affecting that gene, which is important given the number of missense and other difficult-to-interpret mutations that occur in LS. MSI in rectal cancers is rare and strongly associated with LS; this can be exploited clinically because the finding therefore has an excellent positive predictive value for LS, and negative predictive value when not present {27432916;10533476}. Similarly, MSI is rare in adenomas outside of LS, providing good positive and negative predictive values {10595914}.</p>\r\n<p>It has also become increasingly clear that the performance of MMR immunohistochemistry versus MSI is tumour type dependent {30713006;35920830}. In CRC, all tests seem to perform very well, and the results across tests are highly concordant (discordance rate of ~2%). This may at least in part be because all test modalities (MMR immunohistochemistry included) are standardized based primarily on CRC samples. A set of guidelines proposed in 2022 and endorsed by the College of American Pathologists (CAP), the Association for Molecular Pathology (AMP), Fight Colorectal Cancer, and the American Society of Clinical Oncology (ASCO) {35920830;36603179} recommended that for selecting tumours for immune checkpoint inhibitor therapy, either MMR immunohistochemistry or MSI testing can be used; and for MSI, either PCR-based or NGS-based methods are acceptable as long as the NGS method is validated. For gastro-oesophageal and small bowel cancers, however, MMR immunohistochemistry and/or PCR MSI is favoured over NGS MSI, and for cases of non-GI tract and non-endometrial cancers, which would include pancreaticobiliary tumours, the guidelines indicate that the optimal approach is still to be determined. Expert experience suggests that these same criteria can be applied for the purpose of screening tumours for LS detection; and for the purpose of LS detection, abnormality detected with any of the tests used should prompt germline testing {30376427}.</p>\r\n<h5>Germline (constitutional) testing</h5>\r\n<p>This is the ultimate test to establish the diagnosis of LS. As NGS becomes increasingly available, the NGS multigene panel testing approach is becoming increasingly feasible {35649230}. The US National Comprehensive Cancer Network (NCCN) guidelines recommend NGS MGPT germline testing in individuals aged &lt;&nbsp;50&nbsp;years diagnosed with CRC, and in June 2022, the NCCN recommended that the same approach be considered for patients &ge;&nbsp;50&nbsp;years regardless of personal or family history or other criteria such as tumour testing [[National Comprehensive Cancer Network (NCCN). NCCN clinical practice guidelines in oncology (NCCN guidelines): genetic/familial high-risk assessment: colorectal. Version 1.2023. Available from: https://www.nccn.org/professionals/physician_gls/pdf/genetics_colon.pdf. Bookref]]. In practice, while some large centres are indeed conforming to this recommendation, many hospitals continue to rely on screening tests to select patients for germline testing. In addition to MMR immunohistochemistry and MSI testing, other tests that can help select individuals at increased risk of LS and therefore needing germline testing include <em>MLH1</em> promoter methylation testing and detection of <em>BRAF</em> p.Val600Glu (V600E) mutation. Absence of both <em>MLH1</em> methylation and <em>BRAF</em> p.Val600Glu (V600E) mutation increases the likelihood of LS. Both tests are indeed incorporated into commonly used stepwise algorithms for CRC testing for LS (a typical algorithm is shown in Fig.&nbsp;<a name=\"53991\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#53991</a>). Caution is advised in following such algorithms because both <em>MLH1</em> methylation and <em>BRAF</em> p.Val600Glu (V600E) mutation can still occur in occasional LS-associated CRCs. The frequency of <em>BRAF</em> p.Val600Glu (V600E) mutation in LS-associated CRCs is estimated to be 1.4% {22368298}. Germline <em>MLH1</em> promoter methylation as an etiology of LS (see under Etiology) is rare but may still constitute a significant proportion of patients with first presentation of CRC at age &le;&nbsp;55&nbsp;years whose tumour exhibits dMMR and <em>MLH1</em> methylation. Thus, inclusion of methylation testing of the patient&rsquo;s normal DNA is recommended for this high-risk group {19564652;37433431}.</p>\r\n<p>In general, germline testing should be done under the guidance of a genetic counsellor or multidisciplinary team, as it allows for informed decision-making about the test, proper interpretation of results, and support in managing potential implications of the test results including testing of family members.</p>\r\n<p>As tumour sequencing becomes more widespread, data on specific mutations in cancer-associated genes, as well as mutation spectra/signatures (SBS6, SBS15, SBS21, SBS26, SBS44, DBS7, DBS10 and ID1, ID2, and ID7 associate with dMMR, whereas SBS14 and SBS20 associate with dMMR and defective proofreading polymerases) {33414168;36396080}, are becoming available in individual cases. This will both guide treatment and diagnose more causes of hereditary predisposition, including Lynch-like syndrome and multilocus inherited neoplasia alleles syndrome (MINAS, multiple germline mutations in the same patient) {26659639;34983940}. It is also likely that mutation spectra / signatures, being more sensitive and specific, may replace MSI testing. Although gene panel testing may remove the need for MMR immunohistochemistry as a way of selecting which genes to test, MMR immunohistochemistry remains critically important in providing phenotypic data to enable the interpretation of genetic variants {26659639;23945592}.</p>",
+        "timestamp": "2026-06-19T12:06:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1018,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 997,
+    "contributions": [
+      {
+        "pkcontributionId": 150851,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 997,
+        "headingText": "\r\n<p><em>Essential:</em> identification of a monoallelic GPV affecting one of the four MMR genes (<em>MSH2</em>, <em>MSH6</em>, <em>PMS2</em>, <em>MLH1</em>) confirms a diagnosis of LS; this includes germline pathogenic deletions of the 3&prime;&nbsp;end of <em>EPCAM</em> associated with inactivation of the neighbouring MSH2 gene (or LRRFIP2 deletions/rearrangements with inactivation of the neighbouring MLH1).</p>\r\n<p><em>Desirable:</em> studies of a manifest tumour showing loss or abnormal expression of the MMR protein corresponding to the GPV on MMR immunohistochemistry, and MSI-H on MSI testing (by PCR or NGS), without evidence of sporadic events (hypermethylation, somatic mutation); increasing use of mutation spectra/signatures that indicate dMMR is likely.</p>\r\n<p>A suggested algorithm for CRC tumour testing for LS is shown in Fig.&nbsp;<a name=\"53991\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#53991</a>.</p>\r\n<p>See summary in <a style=\"cursor:pointer\" href=\"/attachment/72/243/59815\" target=\"_blank\">#59815</a>Table&nbsp;16.05.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1016,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 995,
+    "contributions": [
+      {
+        "pkcontributionId": 150852,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 995,
+        "headingText": "\r\n<p>Union for International Cancer Control (UICC) and American Joint Committee on Cancer (AJCC) TNM staging is applicable to individual malignant tumours.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1017,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 996,
+    "contributions": [
+      {
+        "pkcontributionId": 150853,
+        "bookId": 72,
+        "chapterId": 243,
+        "headingId": 996,
+        "headingText": "\r\n<p>Current data suggest that surveillance colonoscopy continues to show efficacy in reducing mortality from CRC (despite the removal of adenomas and paradoxically not necessarily reducing the incidence of CRC) {32683684;37181409;32507935;38741120;37821984}. In chemoprevention, aspirin has been shown to reduce CRC incidence {32534647}. Frameshift neopeptide-based cancer preventive vaccines are in active development and may become a reality in the future {37035178}. For LS-associated (as well as sporadic) dMMR CRCs and other solid tumours, checkpoint inhibitor therapy has proved effective and offers cure for subsets of cancer patients {35660797}. In MLH1 and MSH2 LS, CRCs typically occur early and are curable. Adverse outcome in these individuals is often associated with later cancers involving unusual sites.</p>",
+        "timestamp": "2026-06-09T11:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

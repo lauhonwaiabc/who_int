@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 65473,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 370,
+        "headingText": "\r\n<p>Carcinoma admixed with neuroendocrine carcinoma (NEC) is a carcinoma of non-neuroendocrine type admixed with a NEC component.</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 65474,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 371,
+        "headingText": "<p>8045/3 Combined small cell neuroendocrine carcinoma</p>\r\n<p>8013/3 Combined large cell neuroendocrine carcinoma</p>",
+        "timestamp": "2020-06-15T12:27:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 65475,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 372,
+        "headingText": "\r\n<p>Code according to the site and the types of neoplasms involved.</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 65476,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 373,
+        "headingText": "\r\n<p><em>Acceptable:</em> mixed neuroendocrine and non-neuroendocrine carcinoma</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 65477,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 65478,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 375,
+        "headingText": "\r\n<p>These tumours occur most frequently in the uterine cervix, followed by the endometrium and ovary {16730307; 27508271; 26459408; 9255253; 28735441}. They are extremely rare in the vagina and vulva.</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 65479,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 376,
+        "headingText": "\r\n<p>Patient age and clinical symptoms are similar to those associated with pure NECs at the corresponding site.</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 65480,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 377,
+        "headingText": "\r\n<p>These are very rare neoplasms, without exact data.</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 65481,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 378,
+        "headingText": "\r\n<p>Cervical tumours are associated with high-risk HPV, most commonly types 16 and 18 {16633070}.</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 65482,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 379,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 65483,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 386,
+        "headingText": "\r\n<p>The tumour presents as a mass.</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 65484,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 380,
+        "headingText": "<p>In the cervix, adenocarcinoma of usual HPV-associated type is the most common non-neuroendocrine component; squamous carcinoma is much less common. There has been a single report of a cervical mesonephric adenocarcinoma admixed with a NEC {27532149}. In the endometrium, the non-neuroendocrine component is most commonly endometrioid or serous; in the ovary, it may be any of the carcinoma types {24144291}. When reporting such mixed neoplasms, it is advisable to state the individual tumour types and their approximate percentages. The immunophenotype of each component mirrors that of the corresponding pure neoplasms {24144291}.</p>",
+        "timestamp": "2020-07-08T10:59:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 65485,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 381,
+        "headingText": "\r\n<p>Cervical smears may contain an admixture of cell types, which mirror those of the corresponding pure neoplasms.</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 65486,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 65487,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> a carcinoma with both neuroendocrine and non-neuroendocrine components.</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 65488,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 383,
+        "headingText": "\r\n<p>The staging is as for other carcinomas at the corresponding site.</p>\r\n",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 65489,
+        "bookId": 34,
+        "chapterId": 409,
+        "headingId": 384,
+        "headingText": "\r\n<p>These tumours have an unfavourable outcome, similar to that of pure small cell NEC (SCNEC) or large cell NEC (LCNEC) {30723760}.</p>",
+        "timestamp": "2020-04-29T12:37:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

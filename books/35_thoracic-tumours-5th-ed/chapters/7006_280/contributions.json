@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 68610,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 432,
+        "headingText": "\r\n<p>Mediastinal grey zone lymphoma (MGZL) is an otherwise unclassifiable B-cell lymphoma with features intermediate between diffuse large B-cell lymphoma (DLBCL) and classic Hodgkin lymphoma (CHL).</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 68611,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 433,
+        "headingText": "\r\n<p>9596/3 Grey zone lymphoma</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 68612,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 434,
+        "headingText": "\r\n<p>2A86.Y Other specified B-cell lymphoma, mixed features</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 68613,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Acceptable:</em> B-cell lymphoma, unclassifiable, with features intermediate between DLBCL and CHL.</p>\r\n<p><em>Not recommended:</em> Hodgkin-like anaplastic large cell lymphoma (obsolete).</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 68614,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 68615,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 437,
+        "headingText": "<p>The most common presentation is a large anterior (prevascular) mediastinal mass, with or without involvement of the supraclavicular lymph nodes. Other peripheral lymph node groups are less commonly involved. There may be spread to the lung by direct extension, as well as spread to the liver, spleen, and (less commonly) bone marrow. Non-lymphoid organs are rarely involved, unlike in primary mediastinal large B-cell lymphoma (PMBCL) {22833351}.</p>",
+        "timestamp": "2021-01-04T13:10:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 68616,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 438,
+        "headingText": "\r\n<p>Most patients present with a large mediastinal mass, which may be associated with superior vena cava syndrome. The mass may cause tracheal compression and respiratory distress {15982329; 16224207}.</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 68617,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 439,
+        "headingText": "\r\n<p>The epidemiology of MGZL is similar to that of nodular sclerosis classic Hodgkin lymphoma (NSCHL), except that MGZL is more common in males than females {15982329; 16224207}. MGZL usually occurs in patients aged 20&ndash;40&nbsp;years. Cases occurring outside the mediastinum are seen in older patients {21822207}. Most cases have been reported from North America. Like NSCHL, the disease appears to be less common in black people and Asians.</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 68618,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 440,
+        "headingText": "\r\n<p>The etiology is unknown. Like NSCHL, MGZL is infrequently positive for EBV {15982329; 16224207}, and EBV positivity should prompt suspicion for EBV-positive DLBCL {29296913}.</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 68619,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 441,
+        "headingText": "\r\n<p>Clonal IG gene rearrangement is often positive. The tumour cells show many of the genetic aberrations reported in PMBCL and NSCHL {21700770}. In particular, gains at 2p16.1 (<em>REL</em> locus) and alterations at 9p24.1 involving the <em>JAK2</em>/<em>PDCD1LG2</em> (<em>PD-L2</em>) locus are common {21822207}. Increased expression of PDL1 (CD274) may occur as a result. Genetic and epigenetic profiling shows differences from both CHL and PMBCL {21454882; 16874743}.</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 68620,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 448,
+        "headingText": "\r\n<p>The tumour has a tan, fish-flesh appearance, often with extensive areas of necrosis. Areas of fibrosis may also be present.</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 68621,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 442,
+        "headingText": "\r\n<p>The tumour is composed of a confluent, sheet-like growth of pleomorphic tumour cells in a diffusely fibrotic stroma. Focal fibrous bands may be seen in some cases. The cells are larger and more pleomorphic than in the typical case of PMBCL, although some centroblast-like cells may be present. Pleomorphic cells resembling lacunar cells and Hodgkin cells are readily seen. A characteristic feature is the broad spectrum of cytological appearances, with different areas of the tumour showing variations in cytological appearance. The background inflammatory infiltrate is less evident than in NSCHL, although scattered eosinophils, lymphocytes, and histiocytes may be present. Necrosis is usually evident {15982329; 16224207}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>On immunohistochemical stains, the B-cell programme is often preserved, with expression of both CD20 and CD79a. Both CD30 and IRF4 (MUM1) are usually positive, but CD15 is less commonly expressed. Surface and cytoplasmic immunoglobulins are absent. The transcription factors PAX5, OCT2, and BOB1 are usually positive. BCL6 is variable, and CD10 and ALK are negative. The background lymphocytes are predominantly CD3/CD4-positive, as seen in CHL.</p>\r\n<p>The spectrum of MGZL ranges from cases with a morphology more closely related to CHL but showing a strong B-cell phenotype to cases in which morphology is more closely related to DLBCL but with a CHL-like immunophenotype {30540571}. The diagnosis of MGZL should be considered only if the criteria for the diagnosis of other entities (especially CHL and EBV-positive DLBCL) are not met {29296913}.</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 68622,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 443,
+        "headingText": "\r\n<p>Cytological features are not reliable for distinguishing this tumour from other mediastinal lymphomas.</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 68623,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 444,
+        "headingText": "\r\n<p>IG gene rearrangement is usually present.</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 68624,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 447,
+        "headingText": "\r\n<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Pleomorphic cells resembling lacunar and Hodgkin cells</li>\r\n<li>Expression of B-cell antigens</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>CD30 positivity</li>\r\n</ul>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 68625,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 445,
+        "headingText": "\r\n<p>Staging is done according to the Lugano classification {25113753}.</p>\r\n",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 68626,
+        "bookId": 35,
+        "chapterId": 280,
+        "headingId": 446,
+        "headingText": "\r\n<p>These lymphomas generally have a more aggressive clinical course and worse outcome than either CHL or PMBCL. There is no consensus on the optimal treatment, although there is evidence that combined-modality treatment is required, with both chemotherapy and radiation therapy used for patients with a residual PET-positive mass at the completion of the chemotherapy regimen {22833351; 25024303}.</p>",
+        "timestamp": "2020-12-04T09:45:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

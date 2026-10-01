@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 918,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 694,
+    "contributions": [
+      {
+        "pkcontributionId": 135390,
+        "bookId": 51,
+        "chapterId": 166,
+        "headingId": 694,
+        "headingText": "\r\n<p>Myxofibrosarcoma (MFS) is a spectrum of malignant fibroblastic neoplasms with variably myxoid stroma, a characteristic curvilinear vascular pattern, and cellular spindle cells with variable nuclear pleomorphism.</p>\r\n",
+        "timestamp": "2025-10-14T14:23:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 919,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 695,
+    "contributions": [
+      {
+        "pkcontributionId": 135391,
+        "bookId": 51,
+        "chapterId": 166,
+        "headingId": 695,
+        "headingText": "\r\n<p>MFS is a relatively common sarcoma in adults, arising mainly in the limbs and less frequently in the head and neck, trunk, hands, and feet. Usually tumours present as a superficial and subcutaneous mass {8604805; 15138937; 26759307}. Deeper soft tissue locations are also seen, but the tumour is extremely uncommon in the abdomen and retroperitoneum {15832195; 23020289}.</p>\r\n",
+        "timestamp": "2025-10-14T14:23:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 920,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 696,
+    "contributions": [
+      {
+        "pkcontributionId": 135392,
+        "bookId": 51,
+        "chapterId": 166,
+        "headingId": 696,
+        "headingText": "\r\n<p>MFS is an infiltrative tumour with a multinodular architecture, variably prominent pleomorphic cells, distinctive curvilinear vessels, hypercellular foci in higher-grade variations, and myxoid stroma. Low-grade MFS demonstrates large amounts of myxoid matrix, scant spindle regular cells and areas rich in curvilinear vessels. In high-grade MFS, myxoid matrix is less prominent, but spindle cells are numerous and pleomorphic. Mitotic activity, multinucleated giant cells, and necrosis may also be present {15138937; 8604805; 20878245}. Epithelioid variants exhibit epithelioid cells {17197925}.</p>\r\n",
+        "timestamp": "2025-10-14T14:23:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 921,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 697,
+    "contributions": [
+      {
+        "pkcontributionId": 135393,
+        "bookId": 51,
+        "chapterId": 166,
+        "headingId": 697,
+        "headingText": "<h6>Low-grade myxofibrosarcoma</h6>\r\n\r\nModerate to high cellularity\r\nAbundant myxoid matrix in tissue fragments showing a curvilinear vascular architecture\r\nSmall number of isolated single, regular spindle and stellate cells with elongated nuclei\r\nPseudolipoblasts\r\nMild nuclear atypia\r\n\r\n<h6>High-grade myxofibrosarcoma</h6>\r\n\r\nHigh cellularity\r\nNumerous spindle or pleomorphic cells with marked cytopathological atypia\r\nScant or no myxoid matrix\r\nMultinucleated giant cells and atypical mitotic figures may be present\r\nCurvilinear vessels may be present\r\n\r\n<h6>Epithelioid myxofibrosarcoma</h6>\r\n\r\nHigh cellularity\r\nNumerous monotonous epithelioid cells exhibiting cytoplasmic and nuclear pleomorphism varying from mild to severe\r\nMacronucleoli and abundant lacy cytoplasm\r\nAbundant myxoid matrix with curvilinear vessels in tissue fragments\r\n\r\n<p><em>Reference(s):</em> {22927294; 22236741; 19899126; 9884819; 33041221; 6154396}</p>",
+        "timestamp": "2026-01-06T09:58:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 922,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 698,
+    "contributions": [
+      {
+        "pkcontributionId": 135394,
+        "bookId": 51,
+        "chapterId": 166,
+        "headingId": 698,
+        "headingText": "\r\n<p>Low-grade MFS should be differentiated from myxoid liposarcoma, low-grade fibromyxoid sarcoma, extraskeletal myxoid chondrosarcoma, dermatofibrosarcoma protuberans with myxoid change, and myxoma. High-grade MFS should be differentiated from dedifferentiated liposarcoma, pleomorphic liposarcoma, and undifferentiated pleomorphic sarcoma {33168472; 15108227}.</p>\r\n",
+        "timestamp": "2025-10-14T14:23:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 923,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 699,
+    "contributions": [
+      {
+        "pkcontributionId": 135395,
+        "bookId": 51,
+        "chapterId": 166,
+        "headingId": 699,
+        "headingText": "\r\n<p>MFS has no specific immunoprofile or genetic alteration. Ancillary techniques such as ICC, FISH, and NGS may be used to differentiate MFS from myxoid tumours, especially from myxoid liposarcoma. Occasional cases may show reactivity for SMA or CD34, whereas desmin and S100 are usually negative.</p>",
+        "timestamp": "2025-10-14T14:23:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 518,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 497,
+    "contributions": [
+      {
+        "pkcontributionId": 73219,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 497,
+        "headingText": "<p>Anaplastic large cell lymphoma (ALCL) is a distinctive CD30-positive peripheral T-cell lymphoma that is rare in the CNS and is separated into two distinct types: ALK-positive (ALK+ ALCL) and ALK-negative (ALK&minus; ALCL).</p>",
+        "timestamp": "2021-11-10T12:30:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 519,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 498,
+    "contributions": [
+      {
+        "pkcontributionId": 73220,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 498,
+        "headingText": "<p>9714/3 Anaplastic large cell lymphoma (ALK+/ALK&minus;)</p>",
+        "timestamp": "2021-11-09T09:25:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 520,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 499,
+    "contributions": [
+      {
+        "pkcontributionId": 73221,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 499,
+        "headingText": "\r\n<p>2A90.A Anaplastic large cell lymphoma, ALK-positive</p>\r\n<p>2A90.B Anaplastic large cell lymphoma, ALK-negative</p>\r\n",
+        "timestamp": "2021-09-30T16:15:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 521,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 500,
+    "contributions": [
+      {
+        "pkcontributionId": 73222,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 500,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2021-09-30T16:15:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 522,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 501,
+    "contributions": [
+      {
+        "pkcontributionId": 73223,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 501,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2021-09-30T16:15:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 523,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 502,
+    "contributions": [
+      {
+        "pkcontributionId": 73224,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 502,
+        "headingText": "\r\n<p>ALK+ ALCL occurs as single or multiple supratentorial parenchymal lesions with or without infratentorial involvement, and rarely with spinal cord involvement. Extension to involve the meninges and (rarely) the skull can occur {16388180; 23549832; 23720354; 27930548}.</p>\r\n<p>ALK&minus; ALCL occurs as single or multiple lesions, usually supratentorial {12657933}.</p>\r\n",
+        "timestamp": "2021-09-30T16:15:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 524,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 503,
+    "contributions": [
+      {
+        "pkcontributionId": 73225,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 503,
+        "headingText": "\r\n<p>Patients present with headache, seizures, nausea, fever, or a combination of these {11890850; 24649224; 23549832; 26881551}. They are often initially thought to have an infection {12034789; 23549832; 25014324; 27930548}.</p>\r\n",
+        "timestamp": "2021-09-30T16:15:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 525,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 504,
+    "contributions": [
+      {
+        "pkcontributionId": 73226,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 504,
+        "headingText": "\r\n<p>ALK+ ALCL occurs from early childhood to young adulthood (median age: ~17&nbsp;years), with a male preponderance. ALK&minus; ALCL affects adults (median age: 65&nbsp;years), also with a male preponderance {24649224}.</p>\r\n",
+        "timestamp": "2021-09-30T16:15:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 526,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 505,
+    "contributions": [
+      {
+        "pkcontributionId": 73227,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 505,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2021-09-30T16:15:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 527,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 506,
+    "contributions": [
+      {
+        "pkcontributionId": 73228,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 506,
+        "headingText": "<p>ALK+ ALCL is driven by oncogenic <em>ALK</em> gene fusions, most commonly with <em>NPM1</em> (in &gt;&nbsp;80% of cases). <em>ALK</em> fusions increase ALK expression, leading to aberrant activation of downstream signalling pathways including JAK/STAT3 and others {27879258}. ALK&minus; ALCL carries mutations or gene fusions of other receptor tyrosine kinase genes that eventually activate signalling pathways similar to those activated in&nbsp;ALK+ ALCL, including JAK/STAT3 {25873174}. Clonal rearrangements of T-cell receptor genes are present in the vast majority of cases of ALCL.</p>",
+        "timestamp": "2021-10-22T11:12:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 534,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 513,
+    "contributions": [
+      {
+        "pkcontributionId": 73229,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 513,
+        "headingText": "\r\n<p>Insufficient data available</p>\r\n",
+        "timestamp": "2021-09-30T16:15:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 528,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 507,
+    "contributions": [
+      {
+        "pkcontributionId": 73230,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 507,
+        "headingText": "\r\n<p>ALK+ ALCL shows a diffuse proliferation of large atypical cells with abundant cytoplasm, including hallmark cells with bean-shaped nuclei and an eosinophilic paranuclear area {19131793; 12657933; 16388180; 26881551}. Rare examples of the lymphohistiocytic and small cell patterns have been described {12419758; 23720354}. Tumour cells are CD30+, ALK+, and EMA+, and they may express one or more T-cell antigens.</p>\r\n<p>ALK&minus; ALCL histopathology is similar to that of ALK+ ALCL, but ALK is not expressed {12657933}. The differential diagnosis includes classic Hodgkin lymphoma and diffuse large B-cell lymphoma with pleomorphic cells. Hodgkin lymphoma is very rare in the CNS {18591379}, typically has more admixed reactive cells, and cells express PAX5 (weakly) and often CD15, in addition to CD30. In contrast to ALCL, diffuse large B-cell lymphoma is typically positive for CD20 and other B-cell antigens.</p>\r\n",
+        "timestamp": "2021-09-30T16:15:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 529,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 508,
+    "contributions": [
+      {
+        "pkcontributionId": 73231,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 508,
+        "headingText": "\r\n<p>The cerebrospinal fluid may be involved. The large atypical neoplastic cells may have cytoplasmic azurophilic granules {23720354; 19131793}.</p>\r\n",
+        "timestamp": "2021-09-30T16:15:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 530,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 509,
+    "contributions": [
+      {
+        "pkcontributionId": 73232,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 509,
+        "headingText": "<p>Molecular analysis demonstrates clonally rearranged TR genes in the vast majority of tumours. ALK+ ALCL carries chromosomal translocations involving <em>ALK</em>, most commonly a t(2;5)(p23;q35) causing an oncogenic fusion with <em>NPM1</em> (<em>NPM1</em>::<em>ALK</em> fusion).</p>",
+        "timestamp": "2021-10-13T14:13:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 533,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 512,
+    "contributions": [
+      {
+        "pkcontributionId": 73233,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 512,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/45/171/22833\" target=\"_blank\">#22833</a>Box&nbsp;10.07 .</p>\r\n",
+        "timestamp": "2021-09-30T16:15:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 531,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 510,
+    "contributions": [
+      {
+        "pkcontributionId": 73234,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 510,
+        "headingText": "\r\n<p>Staging is required to exclude a systemic primary lymphoma.</p>\r\n",
+        "timestamp": "2021-09-30T16:15:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 532,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 511,
+    "contributions": [
+      {
+        "pkcontributionId": 73235,
+        "bookId": 45,
+        "chapterId": 171,
+        "headingId": 511,
+        "headingText": "<p>ALK+ ALCL of the CNS has a prognosis similar to or worse than that of systemic ALK+ ALCL, although sustained remission is possible. Treatment failures tend to occur in the CNS and are rarely systemic. ALK&minus; ALCL has a poor prognosis {12657933; 24649224; 22707580; 19131793}.</p>",
+        "timestamp": "2021-10-22T11:12:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

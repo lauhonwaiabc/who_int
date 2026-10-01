@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 54314,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 159,
+        "headingText": "<p>Oxyntic gland adenoma (OGA) is a benign epithelial neoplasm composed of columnar cells with differentiation to chief cells, parietal cells, or both, with a high rate of progression to adenocarcinoma (submucosal invasion).</p>",
+        "timestamp": "2019-03-25T10:51:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 54315,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 160,
+        "headingText": "<p>8210/2 Adenomatous polyp, high-grade dysplasia</p>\r\n<p>8210/0 Adenomatous polyp, low-grade dysplasia</p>",
+        "timestamp": "2021-11-22T12:11:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 54316,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 161,
+        "headingText": "<p>2E92.1 &amp; XH3DV3 Benign neoplasm of stomach &amp; Adenoma&nbsp;NOS</p>",
+        "timestamp": "2019-02-12T12:02:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 54317,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 162,
+        "headingText": "<p><em>Acceptable:</em> gastric dysplasia of chief cell&ndash;predominant type; chief cell&ndash;predominant gastric polyps; oxyntic gland polyp/adenoma.</p>",
+        "timestamp": "2019-01-29T16:06:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 54318,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 163,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-01-29T16:06:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 54319,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 164,
+        "headingText": "<p>OGA occurs predominantly in the upper third of the stomach (80%), mostly in non-atrophic oxyntic mucosa, similar to gastric adenocarcinoma of fundic-gland type (GA-FG) {29648578}.</p>",
+        "timestamp": "2019-03-25T10:51:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 54320,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 165,
+        "headingText": "<p>OGAs occur most commonly in patients aged 60&ndash;70&nbsp;years. In Japan, most tumours are identified during endoscopic screening; elsewhere, most patients present with reflux symptoms {22472957; 26335020}. Endoscopy reveals a polypoid, submucosal tumour or flat lesion with faded-whitish mucosa {24338239; 25820416}. Vasodilatation or branched vessels may be visible on the tumour surface {24338239; 26962407}.</p>",
+        "timestamp": "2019-03-25T10:52:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 54321,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 166,
+        "headingText": "<p>This is a rare neoplasm, but the exact incidence is unknown. Most cases of OGA and GA-FG have been reported from Japan, with only a few reports from North America and Europe {29648578}. The incidence of GA-FG is 1.6% of gastric adenocarcinoma {24011952}, and the relative incidence of OGA to GA-FG is estimated to be about&nbsp;0.5 {29648578}.</p>",
+        "timestamp": "2019-03-25T10:52:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 54322,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 167,
+        "headingText": "<p>The etiology is unknown, but there is no association with <em>Helicobacter pylori</em> infection {24338239}. In one study from Australia, a history of acid reduction therapy was reported by 7&nbsp;of 8&nbsp;patients {26335020}.</p>",
+        "timestamp": "2019-01-29T16:07:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 54323,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 168,
+        "headingText": "<p>A morphological continuum exists from OGA to GA-FG. However, there is ongoing discussion as to whether OGA should be regarded as an intramucosal component of GA-FG {29648578}.</p>\r\n<p>Missense or nonsense mutations in the genes of the WNT/&beta;-catenin signalling pathway (<em>CTNNB1</em>, <em>APC</em>, <em>AXIN1</em>, and <em>AXIN2</em>) are relatively frequent in GA-FG (50%). These mutations, except for <em>CTNNB1</em> mutation, are also identified in OGA (30%). &beta;-catenin nuclear labelling is low or non-existent in OGA {25820416}, whereas high labelling (&gt;&nbsp;30%) is one of features of GA-FG (26%) {24011952}. Mutation in <em>GNAS</em>, which is present in 19% of GA-FGs {25288233; 23782334}, has not been investigated in OGA.</p>",
+        "timestamp": "2019-03-25T10:52:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 54324,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 207,
+        "headingText": "<p>The size ranges from 3&nbsp;to 18&nbsp;mm and is &lt;&nbsp;10&nbsp;mm in most cases.</p>",
+        "timestamp": "2019-01-29T16:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 54325,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 169,
+        "headingText": "<p>OGA is composed of highly differentiated columnar cells with pale basophilic cytoplasm and mild nuclear atypia, mimicking the oxyntic (fundic) gland (mainly chief cell). The tumour may be situated in the upper portion of the mucosa, but it is mainly situated in deeper mucosa and covered by foveolar epithelium. The tumour consists of irregular architectures, such as tubular fusion and lateral expansion of glands. The differentiation to the components of oxyntic (fundic) gland is confirmed by immunohistochemistry, such as pepsinogen&nbsp;I (chief cell) and H<sup>+</sup>/K<sup>+</sup>&nbsp;ATPase (parietal cell) {20410811}. The predominant cell type is immature chief cells, positive for both pepsinogen&nbsp;I and MUC6. The Ki-67 proliferation index is low, but its distribution is irregular.</p>\r\n<p>Some of the architectural patterns (e.g. clustered and solid glands and anastomosing cords) may be mistaken for a neuroendocrine tumour (NET) {26335020}. Although some lesions display weak to moderate positivity for synaptophysin and/or CD56, there is no chromogranin&nbsp;A positivity.</p>\r\n<p>The tumour shows a pushing border against the muscularis mucosae in absence of desmoplasia. When the tumour shows invasion to the submucosa, it should be classified as GA-FG, a subtype of adenocarcinoma.</p>",
+        "timestamp": "2019-03-25T10:53:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 54326,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 170,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-01-29T16:08:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 54327,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 171,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-01-29T16:08:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 54328,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 174,
+        "headingText": "<p><em>Essential:</em> intramucosal proliferation of differentiated columnar cells with pale basophilic cytoplasm and mild nuclear atypia, mimicking the oxyntic (fundic) gland.</p>\r\n<p><em>Desirable:</em> immunohistochemically confirmed positivity for both pepsinogen&nbsp;I and MUC6.</p>",
+        "timestamp": "2019-01-29T16:08:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 54329,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 172,
+        "headingText": "<p>If high-grade dysplasia is present, this is staged as pTis.</p>",
+        "timestamp": "2019-03-25T10:53:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 54330,
+        "bookId": 31,
+        "chapterId": 27,
+        "headingId": 173,
+        "headingText": "<p>There is a high (60%) risk of submucosal invasion (progression to malignancy).</p>",
+        "timestamp": "2019-01-29T16:09:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

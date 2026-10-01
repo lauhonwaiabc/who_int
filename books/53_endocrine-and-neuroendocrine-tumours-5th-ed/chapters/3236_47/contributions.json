@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 122558,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 607,
+        "headingText": "\r\n<p>High-grade follicular cell&ndash;derived non-anaplastic thyroid carcinoma is a neoplasm of thyroid follicular cells with high-grade features as defined by mitotic count and tumour necrosis, without anaplastic histology. Such tumours may be poorly differentiated or may retain the distinctive morphology of other well-differentiated carcinomas of follicular cell derivation.</p>\r\n",
+        "timestamp": "2024-10-09T11:49:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 122559,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 608,
+        "headingText": "<p>8337/3 Poorly differentiated thyroid carcinoma</p>\r\n<p>8337/3 High-grade differentiated thyroid carcinoma</p>",
+        "timestamp": "2024-12-17T12:59:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 122560,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 609,
+        "headingText": "\r\n<p>2D10.Y &amp; XH8VU6 Other specified malignant neoplasms of thyroid gland &amp; Poorly differentiated thyroid carcinoma</p>\r\n",
+        "timestamp": "2024-10-09T11:49:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 122561,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> poorly differentiated (insular) thyroid carcinoma; papillary thyroid carcinoma, high-grade; follicular thyroid carcinoma, high-grade; oncocytic follicular thyroid carcinoma, high-grade; follicular-derived carcinoma, non-anaplastic high-grade; high-grade differentiated thyroid carcinoma.</p>\r\n<p><em>Not recommended:</em> solid type follicular carcinoma; trabecular carcinoma; poorly differentiated thyroid carcinomas defined on the basis of mitosis and necrosis; high-risk thyroid carcinoma of follicular cell origin.</p>\r\n",
+        "timestamp": "2024-10-09T11:49:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 122562,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 611,
+        "headingText": "\r\n<p>Poorly differentiated thyroid carcinoma (PDTC); high-grade differentiated thyroid carcinoma (HGDTC)</p>\r\n",
+        "timestamp": "2024-10-09T11:49:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 122563,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 612,
+        "headingText": "\r\n<p>PDTC and HGDTC can develop at any site where thyroid parenchyma may be present, including the mediastinum {7572790}, thyroglossal duct cysts {33143568}, and ovary in the context of struma ovarii {26185700}. Progression to high-grade carcinoma may occur in lymph node metastases or at other metastatic extrathyroidal sites {23079204; 27480016}.</p>\r\n",
+        "timestamp": "2024-10-09T11:49:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 122564,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 613,
+        "headingText": "\r\n<p>Tumours typically present as a large solitary mass that has grown over several months {6476195}. In some cases, they manifest as a rapidly growing mass in the background of multinodular goitre. At diagnosis, distant metastases are found in approximately 20&ndash;25% of patients {6476195; 24164362; 24512493; 33143568; 37195480}. Tumours are solid, heterogeneous, hypoechoic with irregular and indistinct borders by ultrasound, typically cold by scintigraphy, and positive on FDG&nbsp;PET {24512493; 31098668}. PDTC and other HGDTCs account for approximately 50% of thyroid tumours that are positive on FDG&nbsp;PET and lack radioactive iodide uptake {18484584}. For patient follow-up, clinicians should rely on FDG&nbsp;PET imaging rather than only on serum thyroglobulin measurements and radioiodine scans {18484584; 24512493; 33413689}.</p>\r\n",
+        "timestamp": "2024-10-09T11:49:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 122565,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 614,
+        "headingText": "\r\n<p>PDTC and HGDTC are uncommon. The reported prevalence of PDTC varies from &lt;&nbsp;1% to 6.7% of all thyroid carcinomas {24164362; 27480016; 33143568}; the incidence is higher in Europe (6.7%) and South America (4%) than in North America (1.8%) and Japan (0.3%) {6476195; 20562850; 24164362; 31098668; 37195480}. The mean age at diagnosis is 55&ndash;65&nbsp;years for both PDTC and HGDTC {17667551; 24164362; 31397224}. Cases in children and young patients are rare but well documented {9041169; 20562850; 31937902}. Tumours show a slight female predilection (M:F&nbsp;ratio: 1:1.1&ndash;2.1) {6476195; 17667551; 22252610; 24164362; 27480016; 31397224; 33143568}.</p>\r\n",
+        "timestamp": "2024-10-09T11:49:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 122566,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 615,
+        "headingText": "\r\n<p>Genetic and environmental factors (iodide deficiency) may have an impact on tumour prevalence in different geographical regions, as indicated by the link of PDTC with longstanding goitre {14983490}. There is no association with radiation exposure {21333507}.</p>\r\n",
+        "timestamp": "2024-10-09T11:49:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 122567,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 616,
+        "headingText": "<p>HGDTC and many PDTCs arise after synchronous or metachronous progression of well-differentiated forms of carcinoma of follicular cell derivation, of which they retain the driving molecular signatures {6476195; 20562850; 26878173; 31397224; 33143568}.</p>\r\n<p>The number of mutations per tumour is intermediate between well-differentiated and undifferentiated carcinomas {26878173}. Consistent with a general model of multistep progression from well-differentiated to poorly differentiated to undifferentiated carcinoma, somatic genetic alterations include early and late events.</p>\r\n<p>Early driver changes are mostly RAS and <em>BRAF</em> p.V600E mutations; thus, high-grade thyroid carcinomas retain <em>BRAF</em> p.V600E&ndash;like or RAS-like signatures {25417114; 26878173}. RAS-activating mutations are highly prevalent in poorly differentiated carcinoma, indicating that most develop from follicular carcinoma or from encapsulated follicular variant papillary carcinomas. <em>BRAF</em> p.V600E mutations predominate in HGDTC because most are high-grade papillary carcinoma. Gene fusions occur in as many as 25% of high-grade papillary carcinomas {26878173; 33143568}.</p>\r\n<p>The most frequent late changes are <em>TP53</em> and <em>TERT</em> promoter mutations or alterations of the PI3K/PTEN/AKT pathway. Other late alterations, such as those in SWI/SNF chromatin-remodelling complex genes, associate more frequently with anaplastic carcinoma than with non-anaplastic high-grade carcinomas {26878173}. <em>TERT</em> promoter mutations are associated with a high risk of distant metastases {26878173}. Chromosome&nbsp;1q gain, typically found in aggressive/advanced papillary thyroid carcinomas (PTCs) that are histologically high-grade, is associated with an unfavourable outcome {26878173; 29416733; 33143568}. <em>TP53</em> mutations occur in PDTC and HGDTC, but their prevalence is highest in anaplastic carcinoma {26878173; 30400028}. See also <a style=\"cursor:pointer\" href=\"/attachment/53/47/26202\" target=\"_blank\">#26202</a>Table&nbsp;3.04 and <a style=\"cursor:pointer\" href=\"/attachment/53/47/26668\" target=\"_blank\">#26668</a>Table&nbsp;3.05 .</p>",
+        "timestamp": "2024-10-18T13:54:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 122568,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 623,
+        "headingText": "\r\n<p>PDTC and HGDTC are often large and usually measure 40&ndash;60&nbsp;mm {6476195; 17667551; 20562850; 24164362; 31397224; 33143568}, but small tumours may rarely occur. The cut surface is typically solid and light brown to grey, sometimes with grossly evident pale areas of necrosis. Most tumours are widely invasive, although some may be partially or even totally encapsulated {19913280; 31397224}. Frequently, there are satellite nodules, and in some cases multinodular growth may simulate goitre.</p>\r\n",
+        "timestamp": "2024-10-09T11:49:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 122569,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 617,
+        "headingText": "<p>There are two groups of high-grade follicular cell&ndash;derived non-anaplastic thyroid carcinoma. PDTC is a tumour that has lost architectural and cytological differentiation in the absence of anaplastic histology. HGDTC is a high-grade tumour that is still differentiated since it retains the distinctive architectural and/or cytological properties of well-differentiated histotypes of carcinoma of follicular cell derivation (e.g. nuclear features and/or architecture of papillary carcinoma, follicular growth pattern of follicular carcinoma or oncocytic thyroid carcinoma).</p>\r\n<h6><em>PDTC</em></h6>\r\n<p>PDTC represents the paradigm of histologically aggressive thyroid carcinomas that are both high-grade and histologically poorly differentiated {21969055}. The diagnosis of PDTC is based on Turin consensus criteria {17667551}: (1)&nbsp;the presence of a solid/trabecular/insular pattern of growth in a tumour diagnosed as malignant based on invasive properties; (2)&nbsp;an absence of conventional nuclear features of papillary carcinoma; (3)&nbsp;the presence of at least one of the following: convoluted nuclei, a mitotic count of &ge;&nbsp;3&nbsp;mitoses/2&nbsp;mm<sup>2</sup>, tumour necrosis {17667551}. The prototype of PDTC is the tumour originally reported as insular carcinoma {6476195}, characterized by well-defined neoplastic cell nests (insulae). These nests are surrounded by thin fibrovascular septa, from which they can be separated by artefactual clefts. Tumour nests are predominantly solid or contain poorly differentiated microfollicles with minimal amounts of colloid. Tumour cells are small and uniform, with round hyperchromatic nuclei, indistinct nucleoli, and minimal pleomorphism. In some cases, nuclei are reminiscent of papillary carcinoma nuclei, showing convoluted and irregular (raisin-like) contours, but they have darker chromatin and no pseudoinclusions (so-called dedifferentiated papillary carcinoma nuclei). Mitoses are common, but proliferative activity may vary within the tumour. Necrosis can be found in small foci at the centre of insulae, as patches involving one or more insular clusters, or as large areas with residual surviving tumour cells grouped around blood vessels resulting in a peritheliomatous appearance.</p>\r\n<p>Other PDTCs share high-grade features (mitoses and necrosis) with the prototypical insular carcinoma but are composed of larger, more pleomorphic cells. Colloid formation is minimal, like it is in solid papillary carcinoma. Some PDTCs are predominantly composed of oncocytic follicular cells {22348590; 25898815}.</p>\r\n<p>Rare tumours are characterized by clear {28293986}, mucinous {16021578}, signet-ring {17913947}, or rhabdoid cells {11235911}. Angioinvasion is identified in most cases. Extrathyroidal extension is common {6476195; 17667551; 20562850; 24164362; 31397224}.</p>\r\n<p>Within a given tumour, PDTC areas can be associated with a heterogeneous group of thyroid carcinoma histotypes, which may or may not be of high grade, including areas of follicular variant papillary carcinoma or follicular carcinoma {31397224} as well as areas of aggressive papillary carcinoma histotypes such as the hobnail subtype {25321328}. Foci of undifferentiated cells with marked nuclear pleomorphism indicate progression to anaplastic carcinoma {32445173}. Progression to PDTC in metastatic lymph nodes or at distant sites can occur {23079204; 27480016}.</p>\r\n<h6><em>HGDTC</em></h6>\r\n<p>HGDTCs are not poorly differentiated histologically but all have increased mitotic counts and/or tumour necrosis. The mitotic count must, by definition, be &ge;&nbsp;5&nbsp;mitoses/2&nbsp;mm<sup>2</sup> after evaluation of the most mitotically active areas (hotspot mitotic counting) {16470605; 37195480}. Tumour necrosis is defined by karyorrhectic nuclear debris or ghost contours of dead tumour cells: it must be distinguished from infarct-type necrosis resulting from FNA or regressive changes as in the case of oncocytic tumours {16470605}. Tumour necrosis may be obvious, sometimes comedo-like, but can also be very focal. HGDTCs should be subclassified according to their dominant histotype. Most are high-grade PTCs, often belonging to aggressive subtypes such as tall cell, hobnail, or columnar cell, but they can also be conventional or follicular-variant PTCs {16470605; 21969055; 24164362; 27480016; 33143568}. High-grade follicular carcinomas are much less common and usually widely invasive {24164362; 27480016}. Oncocytic thyroid carcinomas may have a poorly differentiated architecture (solid or trabecular growth), and therefore when mitotically active they usually fulfil the Turin consensus criteria for PDTC {22348590; 25898815}. Still, when there is no solid/trabecular/insular architecture, oncocytic thyroid carcinomas may fulfil the criteria for HGDTC. HGDTC may show poorly differentiated areas. HGDTC can progress to anaplastic thyroid carcinoma (with severe nuclear pleomorphism), and the presence of any anaplastic component should be reported {32445173}.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>Neoplastic cells are immunoreactive for keratins, thyroglobulin, thyroid transcription factor&nbsp;1 (TTF1), and PAX8, and non-reactive for calcitonin and chromogranin. Thyroglobulin expression is typically reduced and focal in poorly differentiated areas, often with a peculiar dot-like paranuclear pattern. The proliferation rate is increased and the Ki-67 (MIB1) labelling index is elevated (usually 10&ndash;30%, depending on the tumour category) {10366150; 17188136; 18084247; 25195708; 31098668}.</p>",
+        "timestamp": "2024-12-17T13:01:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 122570,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 618,
+        "headingText": "<p>Highly cellular smears show crowded solid, insular, or trabecular tissue fragments and often plentiful single cells, which appear uniform, with scant cytoplasm and a high N:C&nbsp;ratio in the tissue fragments {19365842}. The dispersed cells may have plasmacytoid or oncocytic cytoplasm. Mitoses and necrosis are seen, but anaplastic nuclei are not present. Thin fibrovascular strands surround the insular tissue fragments. A specific diagnosis relies on surgical pathology, and most preoperative FNA diagnoses are malignant or suspicious for malignancy, but in 30&ndash;35% of cases the diagnosis is follicular neoplasm {29094425; 31098668}. Cytopathological features vary with HGDTC histopathological type and show necrosis and a high mitotic count without anaplasia, in a background of papillary nuclear features or microfollicles, and usually reflect the presence of aggressive papillary carcinoma subtypes {31150164}.</p>",
+        "timestamp": "2024-12-17T13:01:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 122571,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 619,
+        "headingText": "\r\n<p>Molecular pathology is not required for diagnosis but may be indicated in some cases, according to the changes described above (see <em>Pathogenesis</em>).</p>\r\n",
+        "timestamp": "2024-10-09T11:49:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 122572,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 622,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/53/47/26667\" target=\"_blank\">#26667</a>Table&nbsp;3.06 .</p>\r\n<p>PDTC</p>\r\n<p><em>Essential:</em></p>\r\n\r\nSolid/trabecular/insular pattern of growth in a tumour diagnosed as malignant on the basis of the presence of invasion\r\nAbsence of conventional papillary carcinoma nuclear alterations\r\nAt least one of the following features: convoluted nuclei, mitotic count &ge;&nbsp;3&nbsp;mitoses/2&nbsp;mm<sup>2</sup>, tumour necrosis\r\nRetention of some (but not all) morphological and immunohistochemical biomarkers of thyroid follicular epithelial cells\r\nPoorly differentiated but lacking anaplastic cellular morphology\r\n\r\n<p>HGDTC</p>\r\n<p><em>Essential:</em></p>\r\n\r\nPresence of &ge;&nbsp;5&nbsp;mitoses/2&nbsp;mm<sup>2</sup> and/or tumour necrosis, with invasion\r\nRetention of distinctive architectural and/or cytological features of well-differentiated histotypes of carcinoma of follicular cells (e.g. papillary, follicular, or oncocytic)\r\nRetention of some (but not all) morphological and immunohistochemical biomarkers of thyroid follicular epithelial cells\r\nLacking anaplastic cellular morphology\r\n",
+        "timestamp": "2024-10-18T13:55:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 122573,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 620,
+        "headingText": "\r\n<p>Staging is according to the Union for International Cancer Control (UICC) and American Joint Committee on Cancer (AJCC) staging systems, incorporating age at diagnosis.</p>\r\n",
+        "timestamp": "2024-10-09T11:49:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 122574,
+        "bookId": 53,
+        "chapterId": 47,
+        "headingId": 621,
+        "headingText": "\r\n<p>Tumours have aggressive clinicopathological features, and the prognosis is intermediate between well-differentiated carcinomas of follicular cells (papillary, follicular, and oncocytic thyroid carcinoma) and anaplastic carcinoma.</p>\r\n<p>The mean disease-specific survival time is approximately 5&nbsp;years after the original diagnosis {17667551; 33143568}. The overall survival rate at 5&nbsp;years in most series is 50&ndash;70% {16470605; 17667551; 20562850; 24164362; 24512493; 10714625; 37195480}, with recurrences usually developing within the first 3&nbsp;years {6476195; 16470605; 24164362}. Response to radioiodine treatment is poor in many patients {6476195; 18484584; 24512493}. Patient age &ge;&nbsp;45&nbsp;years {20562850}, gross extrathyroidal extension {24512493}, tumour size &ge;&nbsp;50&nbsp;mm {24164362}, and distant metastases at presentation {24512493; 37195480} have been associated with a poor outcome by multivariate analysis.</p>\r\n<p>High-grade follicular cell&ndash;derived non-anaplastic thyroid carcinomas have a higher postsurgical histopathological TNM (pTNM) stage and develop in older patients than conventional well-differentiated thyroid carcinomas {14983490; 24512493; 24164362; 33143568}. Tumours are often widely invasive, extending into perithyroidal soft tissues in about 60&ndash;70% of cases {14983490; 16470605}, with gross extrathyroidal extension that may be more common in high-grade PTC {33143568}. Lymph node metastases are found in about 30&ndash;40% of cases at initial surgery and are more common in high-grade PTCs than in PDTC {24512493; 33143568}. Distant metastases are identified in about 20&ndash;25% of cases at diagnosis {6476195; 24512493; 24164362; 33143568}, but eventually develop in 40&ndash;70% of cases&nbsp;&ndash; typically to lung, followed by bone and other sites (including brain, liver, skin, spleen, and kidney) {6476195; 16470605; 17667551; 20562850; 24164362; 24512493; 37195480}. A few high-grade follicular cell&ndash;derived non-anaplastic thyroid carcinomas are fully encapsulated, with various degrees of invasion {19913280; 27480016}. Encapsulated non-invasive neoplasms of follicular cells with high-grade features are very rare {19913280} and usually show indolent behaviour, although 1&nbsp;case was shown to develop bone metastasis {24788527}.</p>",
+        "timestamp": "2024-10-09T11:49:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

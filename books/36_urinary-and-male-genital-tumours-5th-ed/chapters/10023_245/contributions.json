@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 71194,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 539,
+        "headingText": "\r\n<p>Angiosarcoma is a malignant vascular neoplasm showing endothelial differentiation.</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 71195,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 540,
+        "headingText": "<p>9120/3 Angiosarcoma</p>\r\n<p>9120/3 Epithelioid angiosarcoma</p>",
+        "timestamp": "2022-04-12T15:08:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 71196,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 541,
+        "headingText": "\r\n<p>2B56.Y &amp; XH6264 Angiosarcoma, other specified primary site &amp; Haemangiosarcoma</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 71197,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Not recommended:</em> haemangiosarcoma.</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 71198,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 543,
+        "headingText": "\r\n<p>Epithelioid angiosarcoma</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 71199,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 544,
+        "headingText": "\r\n<p>Within the male urogenital tract, angiosarcoma most frequently arises in the kidney {29383452; 20534992} and bladder {18580491; 25929352}, with extremely rare cases occurring in the prostate {24730474; 12823047}, seminal vesicle {24711908}, and penis {24351513}.</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 71200,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 545,
+        "headingText": "\r\n<p>Presenting symptoms are site-dependent and may include haematuria and flank pain. The most frequent sites of metastases are the lungs and liver {29383452; 25929352}.</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 71201,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 546,
+        "headingText": "\r\n<p>Angiosarcoma is extremely rare in these sites. Most tumours occur in the sixth or seventh decade of life {29383452; 25929352}, although a wide age range (24&ndash;95&nbsp;years) is reported {29383452}. There is a male predominance {29383452; 20534992; 25929352}.</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 71202,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 547,
+        "headingText": "\r\n<p>Although the etiology of most urogenital angiosarcomas is unknown, those of the bladder and prostate have been associated with previous radiation therapy, most frequently for prostate and endometrioid carcinoma {18580491; 25929352; 24730474; 12823047; 17149614}.</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 71203,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 548,
+        "headingText": "\r\n<p>Angiogenesis genes and vascular-specific receptor tyrosine kinase genes (<em>TIE1</em>, <em>FLT4</em>, <em>KDR</em>, and <em>TEK</em>) are frequently upregulated {19723655; 18041747}. <em>MYC</em> gene amplifications occur in almost all postirradiation and chronic lymphoedema&ndash;associated angiosarcomas {20949568; 20008140; 24329959; 22121953}.</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 71204,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 555,
+        "headingText": "\r\n<p>Angiosarcomas are usually large, haemorrhagic, diffuse or multinodular masses, often with necrosis.</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 71205,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 549,
+        "headingText": "\r\n<p>These tumours are morphologically identical to their counterparts elsewhere. Appearances range from well-formed, anastomosing vascular channels to solid sheets of high-grade epithelioid or spindled cells with minimal vasoformation. Vasoformative areas are composed of anastomosing channels lined by atypical spindled or epithelioid cells, with variable endothelial multilayering, hobnailing, or papillary tufting.</p>\r\n<p>Epithelioid angiosarcomas typically have a solid growth pattern and comprise sheets of large atypical polygonal cells with ovoid nuclei, prominent nucleoli, and abundant cytoplasm {25929352; 1718176}.</p>\r\n<p>Angiosarcomas show CD31 and ERG positivity with variable expression of CD34, von Willebrand factor (factor&nbsp;VIII&ndash;related antigen) {7512718; 21317715; 11474291}, and FLI1 {11474291}. Keratin and EMA expression may be seen, particularly in epithelioid subtypes, and this may lead to an erroneous diagnosis of carcinoma {17284115; 1718176}.</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 71206,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 71207,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 551,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 71208,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> malignant endothelial histology; positive immunohistochemistry for vascular markers.</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 71209,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 552,
+        "headingText": "\r\n<p>Staging of angiosarcoma is not recommended because its typically aggressive natural history is not consistent with soft tissue staging systems.</p>\r\n",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 71210,
+        "bookId": 36,
+        "chapterId": 245,
+        "headingId": 553,
+        "headingText": "\r\n<p>Angiosarcomas are associated with a dismal outcome due to their highly aggressive clinical course, widespread metastases, and limited response to surgical treatment, chemotherapy, and radiotherapy.</p>",
+        "timestamp": "2022-02-25T14:45:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

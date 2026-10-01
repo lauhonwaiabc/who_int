@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 395,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 228,
+    "contributions": [
+      {
+        "pkcontributionId": 60718,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 228,
+        "headingText": "<p>Bone metastases are tumours involving bone as a result of haematogenous spread from malignancies at distant sites.</p>",
+        "timestamp": "2019-12-11T17:09:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 396,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 229,
+    "contributions": [
+      {
+        "pkcontributionId": 60719,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 229,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 397,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 230,
+    "contributions": [
+      {
+        "pkcontributionId": 60720,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 230,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 398,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 231,
+    "contributions": [
+      {
+        "pkcontributionId": 60721,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 231,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 399,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 232,
+    "contributions": [
+      {
+        "pkcontributionId": 60722,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 232,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 400,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 233,
+    "contributions": [
+      {
+        "pkcontributionId": 60723,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 233,
+        "headingText": "\r\n<p>Any site can be involved. Common sites are long bones such as femur and humerus and the axial skeleton. There is a predilection for more-vascularized areas of bone like the metaphysis of long bones and vertebrae. Lung cancer is the most common primary malignancy that metastasizes to acral sites {26275789; 21593787}.</p>\r\n",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 401,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 234,
+    "contributions": [
+      {
+        "pkcontributionId": 60724,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 234,
+        "headingText": "<h5><em>Signs and symptoms</em></h5>\r\n<p>Pain is usually the first symptom and is almost always present. Pathological fracture is common and may cause abrupt pain. Sometimes metastasis is the first manifestation of cancer. A primary tumour cannot always be identified (a so-called unknown primary).</p>\r\n<h5><em>Imaging</em></h5>\r\n<p>Radiographically, metastases can be lytic, sclerotic, or mixed. Typical lytic metastases include primary renal cell, lung, and thyroid carcinomas. Sclerotic metastases suggest primary prostate, breast, and neuroendocrine carcinomas. Bone scintigraphy has been the method of choice to detect bone metastases because of its high sensitivity to osteoblastic activity, which is almost always present to some degree. FDG&nbsp;PET has largely replaced bone scintigraphy because it directly shows tumour in any location rather than host bone reaction only. However, this functional technique is dependent on glucose metabolism and is only reliable if the primary tumour takes up FDG. Whole-body MRI is an alternative, depending on the morphological features of the tumour deposits.</p>",
+        "timestamp": "2020-02-19T10:31:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 402,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 235,
+    "contributions": [
+      {
+        "pkcontributionId": 60725,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 235,
+        "headingText": "\r\n<p>Metastatic carcinoma lesions constitute the more common type of osseous tumour in elderly patients. The more frequent primary sites are lung, breast, prostate, kidney, thyroid, pancreas, and liver. Other common primary tumours are lymphoma and melanoma. Metastases in young patients are much less frequent and are usually due to neural, renal, or soft tissue and bone tumours, such as neuroblastoma, rhabdomyosarcoma, Ewing sarcoma, and osteosarcoma.</p>\r\n",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 403,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 236,
+    "contributions": [
+      {
+        "pkcontributionId": 60726,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 236,
+        "headingText": "\r\n<p>Bone metastases result from metastatic spread of a primary malignancy elsewhere in the body.</p>\r\n",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 404,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 237,
+    "contributions": [
+      {
+        "pkcontributionId": 60727,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 237,
+        "headingText": "\r\n<p>Involvement of bone by these tumours is the result of haematogenous spread (metastasis) from the site of the primary malignancy.</p>\r\n",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 411,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 244,
+    "contributions": [
+      {
+        "pkcontributionId": 60728,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 244,
+        "headingText": "\r\n<p>Usually, metastases have haemorrhagic and friable tissue, especially if they are from thyroid or kidney. Metastases from prostate and breast can be hard due to reactive bone sclerosis. Melanoma can produce dark, pigmented metastases.</p>\r\n",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 405,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 238,
+    "contributions": [
+      {
+        "pkcontributionId": 60729,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 238,
+        "headingText": "<p>Metastases present with histological features similar to those of the primary lesions, the most common being adenocarcinomas and squamous cell carcinomas. Osteoblastic metastases contain abundant reactive woven bone and must be distinguished from osteosarcoma. Haemorrhage, fibrosis, and osteoclast-like giant cell reactions are frequent and can sometimes obscure the metastatic cells.</p>\r\n<h5><em>Immunohistochemistry</em></h5>\r\n<p>Immunohistochemistry should be used to suggest or confirm a possible primary origin {15112256; 29224972}. See <a style=\"cursor:pointer\" href=\"/attachment/33/187/6849\" target=\"_blank\">#6849</a>Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/33/187/6849\" target=\"_blank\">#6849</a>.</p>\r\n<h5><em>Differential diagnosis</em></h5>\r\n<p>Primary vascular tumours of bone can very closely simulate metastatic carcinoma on radiology and histology, and they may also be positive for epithelial markers {21323951; 20828961}.</p>",
+        "timestamp": "2020-02-19T16:39:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 406,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 239,
+    "contributions": [
+      {
+        "pkcontributionId": 60730,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 239,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 407,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 240,
+    "contributions": [
+      {
+        "pkcontributionId": 60731,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 240,
+        "headingText": "\r\n<p>Molecular diagnostics related to the primary tumour may be of diagnostic or prognostic relevance {28385942; 25359620}.</p>\r\n",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 410,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 243,
+    "contributions": [
+      {
+        "pkcontributionId": 60732,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 243,
+        "headingText": "<p><em>Essential:</em>&nbsp;malignant growth at distance from a primary site elsewhere; correlation with imaging and clinical history.</p>\r\n<p><em>Desirable (in selected cases):</em> immunohistochemistry, as indicated, is frequently necessary.</p>",
+        "timestamp": "2019-12-11T17:09:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 408,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 241,
+    "contributions": [
+      {
+        "pkcontributionId": 60733,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 241,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 409,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 242,
+    "contributions": [
+      {
+        "pkcontributionId": 60734,
+        "bookId": 33,
+        "chapterId": 187,
+        "headingId": 242,
+        "headingText": "\r\n<p>The prognosis is predominantly defined by the primary tumour {29064040}. The overall median survival time for patients with spinal metastases in one series was 5.1&nbsp;months {26866742}.</p>",
+        "timestamp": "2019-11-26T16:25:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

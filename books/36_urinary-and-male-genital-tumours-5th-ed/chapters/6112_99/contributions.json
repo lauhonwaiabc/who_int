@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 69845,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 539,
+        "headingText": "\r\n<p>Intraductal carcinoma of the prostate (IDC-P) is a neoplastic epithelial proliferation involving pre-existing, generally expanded, duct-acinar structures and characterized by architectural and cytological atypia beyond what is acceptable for high-grade prostatic intraepithelial neoplasia (HGPIN). It is typically associated with high-grade and high-stage prostate carcinoma but in rare cases may represent a precursor lesion.</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 69846,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 540,
+        "headingText": "\r\n<p>8500/2 Intraductal carcinoma</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 69847,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 541,
+        "headingText": "\r\n<p>2E67.5 &amp; XH1H31 Carcinoma in situ of prostate &amp; Intraductal carcinoma, non-infiltrating, NOS</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 69848,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Not recommended:</em> low-grade intraductal carcinoma; carcinoma in&nbsp;situ.</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 69849,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 69850,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 544,
+        "headingText": "\r\n<p>Most commonly in the peripheral zone together with high-grade and high-volume prostate cancer</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 69851,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 545,
+        "headingText": "\r\n<p>Patients may present with symptoms and laboratory findings related to high-grade and high-volume invasive prostate cancer.</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 69852,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 546,
+        "headingText": "\r\n<p>IDC-P is seen in 15.4&ndash;31.1% of routinely processed radical prostatectomies {24966964; 20182345; 31025722; 32542746; 28342640}. In the vast majority of cases, IDC-P is associated with invasive prostate cancer. Its incidence depends on the Gleason grade and volume of the concomitant prostate cancer, and on disease risk categories {31025722; 32542746; 28342640}. IDC-P without concomitant invasive cancer is an exceedingly rare finding in radical prostatectomies {17617002; 30993692}. In prospective series, IDC-P has been identified in 2.8% of prostate biopsies {23931616} and in 14% of biopsies with invasive prostate cancer {32542746; 28342640}. Isolated IDC-P without invasive prostate cancer has been reported in 0.06&ndash;0.26% of prostate biopsies {16980940; 20723921; 23931616}.</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 69853,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 547,
+        "headingText": "<p>The etiology of IDC-P is the same as that of prostate adenocarcinoma. Biallelic <em>BRCA2</em> loss has been associated with IDC-P and primary prostate tumours, but the association of prostatic carcinomas with germline <em>BRCA2</em> mutations remains controversial {33626496; 32516092}.</p>",
+        "timestamp": "2022-04-07T16:09:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 69854,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 548,
+        "headingText": "<p>IDC-P is a neoplastic epithelial proliferation that is located within native prostatic ducts and acini, which may represent two biologically distinct entities. In the vast majority of cases, IDC-P is associated with invasive high-grade carcinoma and considered a late colonization-type event in the evolution of prostatic acinar carcinoma {16980940; 8669528; 9523662}. In a small subset of cases, IDC-P is seen in the absence of invasive prostate cancer and may represent a carcinoma in&nbsp;situ that exhibits much greater architectural and/or cytological atypia than HGPIN. Studies support IDC-P as being distinct from HGPIN and as showing overlap with profiles of high-grade invasive prostate cancer. Early&nbsp;studies found that IDC-P and Gleason pattern&nbsp;4/5 prostate cancer show a similar high frequency of genomic instability (as determined by loss of heterozygosity and comparative genomic hybridization) to that of Gleason pattern&nbsp;3 prostate cancer and HGPIN {18383208; 10951489}. More recent studies have shown that prostate cancer with IDC-P and/or invasive cribriform cancer is associated with a higher percentage of genomic alteration than prostate cancer without these patterns {29295717; 28511883}. Specific somatic copy-number alterations known to be associated with aggressive prostate cancer that have been observed in IDC-P studies include loss of <em>PTEN</em>, <em>CDH1</em>, and <em>BCAR1</em>, and gain of <em>MYC</em> {29295717}. Expression of <em>SCHLAP1</em>, a long non-coding RNA associated with a poor prognosis in prostate cancer, has been observed at &gt;&nbsp;3&nbsp;times the frequency in prostate cancer with an IDC-P&nbsp;/&nbsp;invasive cribriform pattern {28511883}. Mutations in <em>SPOP</em> and <em>TP53</em> as well as in the transcription factor gene <em>FOXA1</em> are more frequent in cases with IDC-P or invasive cribriform cancer than in cases without these findings {29295717}. <em>ERG</em> rearrangement is present in the majority of cases of IDC-P {20220513}, and loss of <em>PTEN</em> expression may be identified in as many as ~85% of cases, with the latter uncommonly seen in HGPIN {23222491}.</p>\r\n<p>Rarely, IDC-P is found without concomitant invasive prostate cancer or adjacent to Gleason&nbsp;6 prostate cancer, raising the possibility that IDC-P may represent an in&nbsp;situ&ndash;type lesion preceding the development of invasive prostate cancer {20723921; 17617002; 30993692}. Discordance in either <em>ERG</em> or <em>PTEN</em> expression between IDC-P and concomitant Gleason score&nbsp;6 carcinomas has been noted, and this suggests that IDC-P is unlikely to be a precursor of low-grade invasive carcinoma {30993692}. Others dispute the existence of a true in&nbsp;situ IDC-P {31843189} because there are no reliable morphological features to distinguish between IDC-P with or without associated invasive prostate cancer. In prostate biopsies, the absence of concomitant invasive prostate cancer generally represents undersampling; follow-up radical prostatectomy specimens, when completely sampled, have virtually never displayed IDC-P alone.</p>\r\n<p><em>ERG</em> gene fusion, <em>PTEN</em> genomic alterations, and loss of PTEN protein expression may be helpful for diagnosis in selected patients. Biallelic <em>BRCA2</em> loss is significantly associated with IDC-P {33626496}.</p>",
+        "timestamp": "2022-04-07T16:10:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 69855,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 555,
+        "headingText": "<p>Not relevant</p>",
+        "timestamp": "2022-04-07T16:10:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 69856,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 549,
+        "headingText": "\r\n<p>IDC-P is a complex, generally expansile proliferation of neoplastic cells within native ducts and acini, which displays at least partial preservation of the basal cell layer. Architecturally, the best agreed upon criterion for IDC-P is solid or dense cribriform growth {16980940; 8669528; 9523662}. A dense cribriform pattern has been defined as one with more solid than luminal areas, i.e.&nbsp;&gt;&nbsp;50% of the gland comprising epithelial cells relative to luminal spaces {32589068}. Comedonecrosis is strongly associated with IDC-P {29878934; 30720899} and may be used as a diagnostic criterion {16980940; 8669528; 9523662}. Whether intraductal proliferations with loose cribriform and/or micropapillary architecture can be diagnosed as IDC-P is a matter of debate, with many considering only lumen-spanning proliferations (solid, dense, or loose cribriform) for the diagnosis of IDC-P and others including micropapillary proliferations only in the context of marked cytological atypia. IDC-P has been variably associated with pleomorphic and/or hyperchromatic cells with moderate to marked enlargement and associated mitoses&nbsp;and apoptotic bodies. However, whether this degree of cytological atypia is required for diagnosis is more controversial {16980940; 8669528; 9523662}.</p>\r\n<p>The most widely used criteria among current publications accept solid/dense cribriform architecture alone as diagnostic of IDC-P and require marked cytological atypia (+/&minus;&nbsp;comedonecrosis) for the diagnosis of IDC-P with less complexity, i.e. a loose cribriform/micropapillary architecture {16980940}. These criteria were developed in a biopsy series in which IDC-P was found and its presence was the determinant of definitive therapy even in the absence of a concomitant invasive component.</p>\r\n<p>From a differential diagnosis standpoint, it is most crucial&nbsp;&ndash; particularly in biopsies&nbsp;&ndash; to distinguish IDC-P from HGPIN, as their clinical associations are drastically different. For atypical lesions that do not meet the criteria for IDC-P, the term &ldquo;atypical intraductal proliferation&rdquo; is preferred. Furthermore, it is recommended that lesions formerly considered cribriform HGPIN be included in the atypical intraductal proliferation category. It is important to note that cribriform architecture may occasionally be seen in normal prostatic glands, especially from the central zone, and in prostatic hyperplasia. However, cytological atypia is lacking in these situations {33990497}.</p>\r\n<p>Solid patterns of IDC-P may mimic intraductal spread of urothelial carcinoma; in difficult cases, prostate-specific and urothelial markers can aid in their distinction. The ductal subtype of prostate cancer, characterized by papillary/cribriform-papillary architecture and pseudostratified columnar epithelium, is readily distinguished from usual IDC-P in which the intraductal proliferation closely resembles that of complex acinar prostatic carcinoma. Uncommonly, ductal prostate cancer may grow in an intraductal fashion {32589068}, a phenomenon that has been incompletely described and for which standard terminology does not currently exist.</p>\r\n<p>Basal cell marker immunohistochemistry is recommended for prostate biopsies displaying isolated IDC-P without concomitant invasive prostate cancer {32459716; 32589068}. A current controversy is whether to perform immunohistochemical stains in biopsies containing invasive prostate cancer and cribriform/solid lesions that may represent IDC-P, when this determination impacts the assigned prostate cancer grade {32589068}. Immunohistochemistry is not considered necessary in cases where the distinction between IDC-P and invasive prostate cancer will not change the assigned prostate cancer grade {32459716; 32589068}.</p>\r\n<p>There is wide agreement that when IDC-P is identified on prostate biopsy without concomitant invasive cancer it should not be graded, but rather a comment should detail the usual association of IDC-P with aggressive prostate cancer. There is also agreement that when IDC-P is observed in the setting of invasive prostate cancer, its presence should be noted. However, whether the architectural pattern of the IDC-P should additionally be incorporated into prostate cancer grading remains controversial at this time, owing to insufficient data {32692448; 33027069}.</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 69857,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 69858,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 551,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 69859,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> expansile epithelial proliferation in the pre-existing duct-acinar system; lumen-spanning solid, cribriform, and/or comedo patterns; loose cribriform or micropapillary patterns with enlarged pleomorphic nuclei; residual basal cells.</p>\r\n<p><em>Desirable:</em> immunohistochemistry demonstrating at least partial basal cell retention.</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 69860,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 552,
+        "headingText": "\r\n<p>Staging is based on the associated invasive prostate cancer.</p>\r\n",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 69861,
+        "bookId": 36,
+        "chapterId": 99,
+        "headingId": 553,
+        "headingText": "\r\n<p>Current recommendations include the reporting of IDC-P because it has been associated with adverse pathological findings and clinical outcomes in both needle biopsy and radical prostatectomy studies. In radical prostatectomies, IDC-P correlates with a higher grade, larger tumour volume, and greater probability of extraprostatic extension, seminal vesicle invasion, and pelvic lymph node metastasis. It has also been strongly associated with biochemical recurrence, progression-free survival, and cancer-specific mortality after radical prostatectomy {28919182; 24481730; 24842280; 20231619; 19853370; 29397469}. In biopsy specimens, IDC-P is typically seen with high-grade, high-volume prostate cancer, and it is associated with adverse radical prostatectomy findings and clinical outcomes {23931616; 32542746; 28342640}. IDC-P diagnosed in prostate biopsies has also been strongly associated with early biochemical recurrence, cancer-specific survival, survival in patients with distant metastasis at presentation, and metastatic failure after radiation therapy in intermediate- and high-risk prostate cancer {30181565; 22405699; 28240424; 29603326}. Although germline <em>BRCA2</em> testing has been recommended formally by the National Comprehensive Cancer Network (NCCN) and the Philadelphia Prostate Cancer Consensus Conference, it remains a controversial topic {33626496; 32516092}.</p>",
+        "timestamp": "2022-02-10T19:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 149249,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 951,
+        "headingText": "\r\n<p>Biliary intraepithelial neoplasia (BilIN) is a microscopic, non-invasive, flat or (micro)papillary epithelial neoplasm confined to the lining of the gallbladder or the large bile ducts.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 149250,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 952,
+        "headingText": "\r\n<p>81480/0 Biliary intraepithelial neoplasia, low-grade</p>\r\n<p>81480/2 Biliary intraepithelial neoplasia, high-grade</p>\r\n",
+        "timestamp": "2026-06-09T11:28:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 149251,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 953,
+        "headingText": "\r\n<p>2E92.6 &amp; XH7BS0 Biliary intraepithelial neoplasia, low-grade</p>\r\n<p>2E61.3 &amp; XH5U91 Biliary intraepithelial neoplasia, high-grade</p>\r\n",
+        "timestamp": "2026-06-09T11:28:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 149252,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 954,
+        "headingText": "\r\n<h5>BilIN</h5>\r\n<p><em>Acceptable:</em> dysplasia.</p>\r\n<h5>High-grade BilIN</h5>\r\n<p><em>Acceptable:</em> carcinoma in&nbsp;situ.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 149253,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 955,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-06-09T11:28:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 149254,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 956,
+        "headingText": "\r\n<p>BilIN can involve any part of the biliary epithelium in the extrahepatic biliary tree and liver, except for the small terminal intrahepatic bile ducts.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 149255,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 957,
+        "headingText": "\r\n<p>Given its microscopic nature, BilIN is typically found incidentally in gallbladder and bile duct specimens resected for other reasons. In particular, it can be identified in the surrounding mucosa of up to 80% of resected invasive gallbladder cancers {30036595;16724345}.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 149256,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 958,
+        "headingText": "\r\n<p>In countries where gallbladder carcinoma is endemic, low-grade BilIN is seen in as many as 15% of gallbladders with cholecystolithiasis, and high-grade BilIN in 1.5&ndash;3.5% {34265338}. The prevalence of high-grade BilIN is similar to that reported for invasive biliary carcinoma {34265338} and is higher in eastern Asian countries {36106242}, ranging between &lt;&nbsp;5% and &lt;&nbsp;0.1%, respectively, in North America {34265338}.</p>\r\n<p>The prevalence of BilIN in the bile ducts outside the setting of invasive adenocarcinoma is not established because these lesions are seldom biopsied or resected unless there is a substantial pathology.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 149257,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 959,
+        "headingText": "\r\n<p>In addition to lithiasis, BilIN can be seen in patients with primary sclerosing cholangitis {17527079;19898228}, choledochal cyst {22006877}, and anomalous union of pancreaticobiliary ducts {17380279}. Areas where the parasites <em>Opisthorchis viverrini</em> and <em>Clonorchis sinensis</em> are endemic have higher rates of bile duct BilIN and invasive carcinoma {24408775}.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 149258,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 960,
+        "headingText": "\r\n<p>There is robust in&nbsp;vivo and epidemiological evidence suggesting that prolonged chronic inflammation plays a significant role in the pathogenesis of BilIN. The epithelium adjacent to BilIN lesions is often inflamed, reactive, and sometimes has intestinal or foveolar gastric metaplasia {22092398;36302789;33326125;26980625}.</p>\r\n<p>In the gallbladder, the progression of BilIN is driven by both genetic and epigenetic alterations. Chronic inflammation induces oxidative stress, causing DNA damage and genomic instability. Dysfunction of DNA repair genes (<em>ATM</em> and <em>BRCA2</em>) can lead to genomic instability, increasing the likelihood of mutations in other genes, including <em>PIK3R2</em> and <em>CHD1</em>. Hypermethylation of tumour suppressor genes <em>FHIT</em>, <em>APC</em>, <em>CDKN2A</em>, <em>CDH1</em>, <em>RB1</em>, <em>TP53</em>, and <em>DCC7</em> enhances this process. In the gallbladder, whole-exome sequencing of BilIN and invasive carcinoma reported somatic mutations (<em>CTNNB1</em>, <em>ARID2</em>, <em>TP53</em>, <em>ERBB3</em>, <em>NFE2L2</em>, <em>PIK3CA</em>, <em>SMARCA4</em>, <em>KRAS</em>, and <em>SMAD4</em>) {34362903;36302789}. <em>CTNNB1</em> appeared to play a critical role of genetic progression to invasive cancer {34362903}.</p>\r\n<p>BilIN lesions in the large bile ducts are characterized by early somatic <em>KRAS</em> mutations (30&ndash;40% of low-grade BilIN lesions harbour a <em>KRAS</em> mutation), and late alterations in p53 expression {18495210;23335286;25466963}.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 149259,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 967,
+        "headingText": "\r\n<p>BilIN lesions are usually not grossly visible but may cause subtle thickening or textural changes of the mucosa.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 149260,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 961,
+        "headingText": "\r\n<p>BilIN consists of flat or (micro)papillary epithelial lesions that are graded, on the basis of the highest degree of cytoarchitectural atypia, as low-grade or high-grade {26559377}. This two-tiered classification has replaced the former three-tiered classification (BilIN-1, BilIN-2, and BilIN-3) {15826244}, with the former BilIN-1 and BilIN-2 categories now classified as low-grade and the former BilIN-3 now classified as high-grade (see <a style=\"cursor:pointer\" href=\"/attachment/72/101/43841\" target=\"_blank\">#43841</a>Table&nbsp;10.01) {26559377}.</p>\r\n<p>Low-grade BilIN is characterized by mild cytoarchitectural atypia, including a predominantly flat growth pattern, pseudostratification of nuclei, a high N:C&nbsp;ratio, hyperchromasia, and prominent nucleoli. Although nuclei are enlarged and irregular, basal polarity is generally maintained, and nuclei are still located in the basal portion of the cells, leaving a band of cytoplasm in the upper half of the epithelium. Mitoses are rare, and atypical mitoses are generally not seen. High-grade BilIN lesions typically have more complex architectural patterns, such as micropapillae or tall papillae, complete loss of polarity, marked nuclear atypia, and frequent mitoses, some of which may be atypical {33629395}. In the setting of hyalinizing cholecystitis, high-grade BilIN may have a denuded pattern, with only a few cells clinging to the stroma {21716080}. High-grade BilIN in the gallbladder may arise from or extend into Rokitansky&ndash;Aschoff sinuses, a feature that can mimic invasive carcinoma {15105650;24022828}. Low-grade BilIN of the gallbladder is most frequently found focally and not associated with invasive carcinoma, and it is believed that low-grade BilIN has no clinical significance. In contrast, high-grade BilIN is usually found to extensively involve the mucosa and occurs frequently in the setting of an invasive carcinoma {30036595;25425476;29599608}. Therefore, thorough sampling is warranted to rule out an invasive component if high-grade BilIN is detected.</p>\r\n<p>A number of cellular phenotypes, including biliary (cuboidal and pencillate), intestinal, and gastric, are recognized {25181580}. These phenotypes are not clinically significant. When BilIN is associated with an invasive carcinoma, the phenotype of BilIN does not necessarily correspond with that of the invasive carcinoma.</p>\r\n<p>The distinction of BilIN from reactive epithelial atypia may be difficult. Reactive atypia commonly occurs both superficially and within the intramural glands of the wall, typically presenting with overlapping attenuated cells. The epithelium of BilIN has a general basophilic appearance and prominent intercellular clefts, and moulding of nuclei can be seen. The nuclei have relatively fine and diffuse chromatin, and the nucleoli are typically small or conspicuous. Mitotic activity may be brisk. Unlike in BilIN, reactive changes show a gradual transition from normal to abnormal. If present, overexpression of p53, as detected by immunohistology, favours BilIN {8617479;7704245;23446751}. Similarly, MUC5AC expression appears to become more extensive with increasing degrees of dysplasia in BilIN {22092398;16360234}. However, the variation is significant for both markers, precluding their utility in individual cases. S100 protein expression also increases during the multistep carcinogenesis process and may be used as an adjunct to suggest high-grade BilIN from reactive atypia {21412073;23621473;17276942}.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 149261,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 962,
+        "headingText": "\r\n<p>Isolated BilIN is generally not encountered in clinical cytology samples. However, if sampled, high-grade BilIN would be expected to show the classic features of invasive adenocarcinoma {28664934;29582676}. Cytology alone is insufficient to distinguish between BilIN and cholangiocarcinoma.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 149262,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 963,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-06-09T11:28:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 149263,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 966,
+        "headingText": "\r\n<p><em>Essential:</em> microscopic, flat or micropapillary, non-invasive epithelial lesions with low-grade or high-grade dysplasia.</p>\r\n",
+        "timestamp": "2026-06-09T11:28:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 149264,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 964,
+        "headingText": "\r\n<p>High-grade BilIN is categorized as Tis (carcinoma in&nbsp;situ) [[Brierley JD, Giuliani M, O&rsquo;Sullivan B, et al., editors. TNM Classification of Malignant Tumours. 9th ed. Oxford (UK): John Wiley &amp; Sons; 2025. Bookref]].</p>\r\n",
+        "timestamp": "2026-06-09T11:28:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 149265,
+        "bookId": 72,
+        "chapterId": 101,
+        "headingId": 965,
+        "headingText": "\r\n<p>Most cases of high-grade BilIN in the gallbladder can be cured by cholecystectomy {24022828}. Reported recurrences at other sites of the biliary tree and metastasis, usually several years after the diagnosis, are likely because of either missed invasive carcinoma in the cholecystectomy specimen or metachronous cholangiocarcinomas arising from involvement of other sites of the biliary tree, indicating that there is a field effect in the biliary tree. Extensive disease, involvement of Rokitansky&ndash;Aschoff sinuses, and margin positivity may confer an additional risk of recurrence {19521656;24022828}.</p>",
+        "timestamp": "2026-06-09T11:28:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

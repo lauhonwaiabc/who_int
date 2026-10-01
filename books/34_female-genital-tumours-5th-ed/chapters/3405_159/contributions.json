@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 63007,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 370,
+        "headingText": "<p>Histiocytic nodule is an aggregate of benign histiocytes in the peritoneum.</p>",
+        "timestamp": "2020-06-19T16:07:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 63008,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 371,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-05-19T15:21:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 63009,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 372,
+        "headingText": "\r\n<p>2B31.Y Other specified histiocytic or dendritic cell neoplasms</p>\r\n",
+        "timestamp": "2020-05-19T15:21:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 63010,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 373,
+        "headingText": "\r\n<p><em>Acceptable:</em> nodular histiocytic hyperplasia; nodular histiocytic aggregate</p>\r\n",
+        "timestamp": "2020-05-19T15:21:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 63011,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-05-19T15:21:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 63012,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 375,
+        "headingText": "\r\n<p>Various locations in the peritoneum {27340746; 22271884; 15185256}</p>\r\n",
+        "timestamp": "2020-05-19T15:21:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 63013,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 376,
+        "headingText": "\r\n<p>Histiocytic nodules are usually an incidental finding {27340746; 22271884; 15185256}.</p>\r\n",
+        "timestamp": "2020-05-19T15:21:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 63014,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 377,
+        "headingText": "\r\n<p>This lesion is seen in patients ranging in age from 6 to 70&nbsp;years {27340746; 22271884}.</p>\r\n",
+        "timestamp": "2020-05-19T15:21:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 63015,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 378,
+        "headingText": "\r\n<p>Histiocytic nodules result from a nonspecific reaction to injury (including trauma), inflammation, or the presence of a tumour {27340746}.</p>\r\n",
+        "timestamp": "2020-05-19T15:21:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 63016,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 379,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-05-19T15:21:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 63017,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 386,
+        "headingText": "\r\n<p>Histiocytic nodules present as small pinkish-yellow nodules measuring &lt;&nbsp;1&nbsp;cm or as a solitary, filmy adhesion {22271884; 15185256}.</p>\r\n",
+        "timestamp": "2020-05-19T15:21:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 63018,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 380,
+        "headingText": "<p>Histiocytic nodules are characterized by a compact and nodular aggregate of histiocytes. Mesothelial cells may be intermixed. The histiocytes have a moderate amount of amphophilic, eosinophilic, or basophilic cytoplasm and oval or kidney-shaped nuclei that can show grooves. Fibrinous material is sometimes seen. By immunohistochemistry, histiocytes are highlighted by CD68, CD16, CD163, lysozyme, CD4, and CD64 {27340746; 22271884}, but unlike mesothelial cells, they do not stain for calretinin and CK5/6.</p>",
+        "timestamp": "2020-06-19T16:07:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 63019,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 381,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-19T15:21:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 63020,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-19T15:21:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 63021,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> an aggregate of benign histiocytes in peritoneum.</p>\r\n",
+        "timestamp": "2020-05-19T15:21:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 63022,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 383,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-19T15:21:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 63023,
+        "bookId": 34,
+        "chapterId": 159,
+        "headingId": 384,
+        "headingText": "\r\n<p>This is a benign lesion.</p>",
+        "timestamp": "2020-05-19T15:21:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

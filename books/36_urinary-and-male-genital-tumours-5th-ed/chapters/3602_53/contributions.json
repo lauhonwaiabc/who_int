@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 69469,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 539,
+        "headingText": "\r\n<p>Germ cell tumours of the kidney are usually prepubertal-type teratomas or (exceptionally) yolk sac tumours (YSTs) or mixed teratoma&ndash;YST arising within the kidney parenchyma.</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 69470,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 540,
+        "headingText": "\r\n<p>9084/0 Prepubertal-type teratoma</p>\r\n<p>9084/3 Teratoma with carcinoid (neuroendocrine tumour)</p>\r\n<p>9071/3 Yolk sac tumour, NOS</p>\r\n<p>9085/3 Mixed teratoma&ndash;yolk sac tumour</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 69471,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 541,
+        "headingText": "\r\n<p>2C90.Y &amp; XH83G5 Other specified malignant neoplasms of kidney, except renal pelvis &amp; Teratoma, NOS</p>\r\n<p>2C90.Y &amp; XH09W7 Other specified malignant neoplasms of kidney, except renal pelvis &amp; Yolk sac tumour</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 69472,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Acceptable:</em> germ cell tumour, type&nbsp;1.</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 69473,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 543,
+        "headingText": "\r\n<p>Teratoma with carcinoid (neuroendocrine tumour); mixed teratoma&ndash;yolk sac tumour</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 69474,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 544,
+        "headingText": "\r\n<p>Kidney, including horseshoe kidney</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 69475,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 545,
+        "headingText": "\r\n<p>Patients may present symptomatically with abdominal pain or a palpable mass, or without symptoms on imaging studies {23800134; 30170453}. Patients with associated carcinoid/neuroendocrine tumours have not displayed clinical features of the carcinoid syndrome {17509135}.</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 69476,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 546,
+        "headingText": "\r\n<p>Primary germ cell tumours are rare, with &lt;&nbsp;25&nbsp;cases reported. In a review of 17&nbsp;patients (10&nbsp;male, 7&nbsp;female), ages ranged from 1&nbsp;month to 65&nbsp;years {23800134}. Paediatric examples may be congenital {16818070}. Teratomas may occur in horseshoe kidneys {16818070; 24228123} and in association with renal dysplasia {11472570}.</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 69477,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 547,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/chaptercontent/36/316\" target=\"_blank\">section </a><em>Teratoma, prepubertal-type</em> and <a style=\"cursor:pointer\" href=\"/chaptercontent/36/142\" target=\"_blank\">section </a><em>Yolk sac tumour, prepubertal-type</em> .</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 69478,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 548,
+        "headingText": "\r\n<p>During embryogenesis, the developing renal structures are closely related to the genital ridges and it is postulated that migrating primordial germ cells may be displaced in nephrogenic precursor tissue {18206479}.</p>\r\n<p>See also <a style=\"cursor:pointer\" href=\"/chaptercontent/36/316\" target=\"_blank\">section </a><em>Teratoma, prepubertal-type</em> and <a style=\"cursor:pointer\" href=\"/chaptercontent/36/142\" target=\"_blank\">section </a><em>Yolk sac tumour, prepubertal-type</em> .</p>\r\n<p>Primary type&nbsp;2 germ cell tumours may occur in extragonadal sites such as the mediastinum and CNS, but they have not been described in the kidney.</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 69479,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 555,
+        "headingText": "\r\n<p>The gross appearances of renal germ cell tumours are like those described in other anatomical sites. Teratomas are usually cystic, but they may have solid areas. Sometimes hair and sebaceous material is present and areas of calcification with cartilage and bone may be identified {23800134}. The rare renal YSTs are solid, sometimes yellow, and haemorrhagic {17478784; 25246826}.</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 69480,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 549,
+        "headingText": "\r\n<p>Teratomas display a wide range of patterns reflecting ectodermal, endodermal, and mesenchymal differentiation. Squamous, transitional, and various types of glandular epithelium can be seen along with neural tissue, smooth muscle, cartilage, and bone {23800134}. In most cases, the tissues have a mature appearance, but immature elements have also been described {23800134; 30170453}. Teratomas may be associated with carcinoid (well-differentiated neuroendocrine) tumours {17509135; 24228123}. It is also possible that pure carcinoid tumours of the kidney may have a teratomatous origin. Primary YST of the kidney has an appearance like its gonadal counterpart {17478784; 25246826}. A rare mixed tumour with both teratomatous and yolk sac patterns has been described {11061908}.</p>\r\n<p>In making a diagnosis of primary renal germ cell tumour, it is important to rule out metastasis or direct extension from a retroperitoneal neoplasm. Wilms tumour with teratoid differentiation is another consideration. If a trophoblastic tumour is encountered in the kidney, it probably represents metastasis from a gonadal or gestational trophoblastic primary {29285373}. Rarely, trophoblastic differentiation is present in upper tract urothelial carcinoma {8448745}.</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 69481,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 69482,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 551,
+        "headingText": "\r\n<p>Germ cell tumours of the kidney lack chromosome&nbsp;12p abnormalities. See also <a style=\"cursor:pointer\" href=\"/chaptercontent/36/316\" target=\"_blank\">section </a><em>Teratoma, prepubertal-type</em> and <a style=\"cursor:pointer\" href=\"/chaptercontent/36/142\" target=\"_blank\">section </a><em>Yolk sac tumour, prepubertal-type</em> .</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 69483,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> kidney epicentre; no other primary site; prepubertal-type germ cell pattern, usually teratoma.</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 69484,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 552,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 69485,
+        "bookId": 36,
+        "chapterId": 53,
+        "headingId": 553,
+        "headingText": "\r\n<p>Follow-up data on renal teratomas are limited, but with surgical excision, recurrence of mature teratoma is unlikely. If immature teratomatous or yolk sac elements are present, prognosis is less predictable {30170453; 11061908; 17478784}.</p>",
+        "timestamp": "2022-02-10T17:48:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

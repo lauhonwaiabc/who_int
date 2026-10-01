@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 119186,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Mixed-phenotype acute leukaemia (MPAL), rare types, are acute leukaemias that express rare combinations of B-, T-, myeloid-, and megakaryocytic-lineage markers but do not meet criteria for MPAL with defined genetic alterations.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 119187,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9805/3 Mixed-phenotype acute leukaemia, B/T</p>\r\n<p>9805/3 Mixed-phenotype acute leukaemia, B/T/myeloid</p>\r\n<p>9805/3 Mixed-phenotype acute leukaemia, T/megakaryocytic</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 119188,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A61 Acute leukaemias of ambiguous lineage</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 119189,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 119190,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>Mixed-phenotype acute leukaemia, B/T (MPAL-B/T); mixed-phenotype acute leukaemia, B/T/myeloid (MPAL-B/T/M); mixed-phenotype acute leukaemia, T/megakaryocytic (MPAL-T/Mk)</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 119191,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>Bone marrow and peripheral blood are always involved. Lymph node involvement is common in MPAL with T-lineage differentiation {30530780; 30117174; 34473233}, whereas liver and spleen involvement is common in MPAL-T/Mk {29935384; 30498070; 32865882}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 119192,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Patients present with clinical features similar to those of other acute leukaemias, typically secondary to cytopenias or extramedullary disease.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 119193,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>MPAL-B/T and MPAL-B/T/M represent about 6% and about 3% of MPAL cases, respectively {21228332; 22581002; 29550836; 30209392; 30530780; 31661160}. MPAL-B/T and MPAL-B/T/M have similar clinical features, often occurring in children, adolescents, and young adults (median age: ~15&nbsp;years), with an M:F&nbsp;ratio of about&nbsp;1.5:1 {21228332; 22581002; 27208809; 30117174; 30209392; 30530780; 31661160}. MPAL-T/Mk is extremely rare; most reported cases are in infants, with a male predominance {29935384; 30498070; 32865882}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 119194,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>Unknown</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 119195,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 710,
+        "headingText": "\r\n<h5>MPAL-B/T and MPAL-B/T/M</h5>\r\n\r\n<p>Most patients have cytogenetic abnormalities {22581002; 30117174; 30530780}. Recurrent mutations have been identified in <em>PHF6</em> (50%); <em>JAK3</em> (40%); <em>NOTCH1</em>, <em>RUNX1</em>, <em>ETV6</em>, and <em>IL7R</em> (each ~25%); <em>PTPN11</em> and <em>TP53</em> (each ~15%); <em>WT1</em> (10%); and <em>DNMT3A</em> (5%) {21228332; 27208809; 30117174; 30209392; 30530780; 34473233}. Gene fusions have also been reported, including <em>SET</em>::<em>NUP214</em>, <em>DDX3X</em>::<em>MLLT10</em>, <em>CRBN</em>::<em>GABRB2</em>, and <em>SEMA4B</em>::<em>BCL11A</em>&nbsp;{22581002; 30117174; 30209392; 30530780}. Overall, the genetic profiles of MPAL-B/T and MPAL-B/T/M share some features with those of MPAL-T/myeloid and early T-precursor lymphoblastic leukaemia/lymphoma, with common mutations in <em>PHF6</em> and the RAS and JAK/STAT pathways {30209392; 30530780}.</p>\r\n\r\n<h5>MPAL-T/Mk</h5>\r\n\r\n<p>Most cases have cytogenetic abnormalities with a non-complex karyotype, including recurrent non-constitutional trisomy&nbsp;21. <em>CBFA2T3</em>::<em>GLIS2</em> and <em>CBFA2T3</em>::<em>GLIS3</em> fusions have been reported {30498070; 32865882}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T15:48:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 119196,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 119197,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 711,
+        "headingText": "\r\n\r\n<p>Blasts do not have distinguishing features in most cases. They can resemble lymphoblasts, myeloblasts, or megakaryoblasts, and they may consist of dimorphic populations {21228332}.</p>\r\n<p>Blasts in most cases of MPAL-B/T express CD34 and/or KIT (CD117), along with one or more T-cell markers and one or more myeloid markers {22581002; 30117174}. CD79a and CD10 should not be considered by themselves evidence of B-lineage commitment.</p>\r\n<p>Blasts in most cases of MPAL-T/Mk express CD34 and KIT (CD117), megakaryocytic markers (e.g. CD41, CD42, and/or CD61), cCD3 (often as the only T-lineage marker), myeloid markers (e.g. CD13 and CD33), and CD56. They usually lack myeloperoxidase, HLA-DR, CD1a, and TdT expression {29935384; 30498070; 32865882}.</p>\r\n<p>To date, there have been no reports of B/erythroid, T/erythroid, or B/megakaryocytic MPAL.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 119198,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>See above.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 119199,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>Cytogenetic analysis and molecular assessment are needed to exclude defining genetic abnormalities such as <em>KMT2A</em>rearrangements and <em>BCR</em>::<em>ABL1</em>. Molecular evaluation may also be helpful to identify mutations (e.g. <em>PHF6</em> and <em>RUNX1</em>) and fusion transcripts (e.g. <em>CBFA2T3</em>::<em>GLIS2</em>).</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 119200,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> &ge;&nbsp;20% blasts in bone marrow and/or blood expressing combinations of B-, T-, myeloid-, and megakaryocytic-lineage markers; not fulfilling diagnostic criteria for MPAL with defined genetic alterations, B/myeloid MPAL, or T/myeloid MPAL; no history of exposure to cytotoxic therapy; no history of myeloid neoplasms.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 119201,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 119202,
+        "bookId": 63,
+        "chapterId": 365,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>It is unclear whether clinical outcomes of these rare leukaemias differ from those of other MPAL types. The overall survival of patients with MPAL-T/Mk remains poor {22581002; 29935384; 30117174; 30209392}.</p>",
+        "timestamp": "2024-03-01T13:19:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

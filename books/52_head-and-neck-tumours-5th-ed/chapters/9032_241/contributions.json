@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 116055,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 576,
+        "headingText": "<p >Follicular lymphoma (FL) is a neoplasm of germinal-centre B&nbsp;cells, composed of a mixture of centrocytes and centroblasts, that usually has a follicular growth pattern (at least partially).</p>",
+        "timestamp": "2023-11-20T13:33:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 116056,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 577,
+        "headingText": "\r\n<p>9690/3 Follicular lymphoma</p>\r\n",
+        "timestamp": "2023-10-02T12:08:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 116057,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 578,
+        "headingText": "\r\n<p>2A80.Z Follicular lymphoma, unspecified</p>\r\n",
+        "timestamp": "2023-10-02T12:08:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 116058,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 579,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T12:08:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 116059,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T12:08:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 116060,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 581,
+        "headingText": "\r\n<p>Typical FL in the head and neck region is most often seen in older individuals and usually involves the cervical lymph nodes and the Waldeyer ring {9704731}. Rarely, FL can involve the salivary glands, the ocular adnexal region, and other locations {9704731; 11583402; 17786716; 16984613}.</p>\r\n",
+        "timestamp": "2023-10-02T12:08:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 116061,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 582,
+        "headingText": "\r\n<p>Most patients present with painless enlarging lymph nodes or masses (see <a style=\"cursor:pointer\" href=\"/attachment/52/241/26080\" target=\"_blank\">#26080</a>Table&nbsp;10.04).</p>\r\n",
+        "timestamp": "2023-10-02T12:08:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 116062,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 583,
+        "headingText": "<p >FL accounts for about 20&ndash;30% of all lymphomas {32586570}, and the incidence of this disease has increased in recent years {31548815}. The highest incidence rates are reported in the USA and western Europe; the incidence is lower in low- and middle-income countries than in high-income countries {27354024}. FL predominantly affects adults, with a median age of 65&nbsp;years. There is no sex predilection. FL is 2&ndash;3&nbsp;times as common in White populations as it is in Black populations {32586570}.</p>",
+        "timestamp": "2023-11-20T13:34:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 116063,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 584,
+        "headingText": "\r\n<p>Lifestyle and occupational risk factors have been associated with a higher risk of FL {25174024}.</p>\r\n",
+        "timestamp": "2023-10-02T12:08:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 116064,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 585,
+        "headingText": "\r\n<p>FL is thought to derive from FL-like B&nbsp;cells that undergo the t(14;18)(q32;q21) <em>BCL2</em> rearrangement in the bone marrow and circulate in the blood {17043145}. These circulating B&nbsp;cells are long-lived because of BCL2 overexpression. The circulating t(14;18) <em>BCL2</em>-rearranged B&nbsp;cells undergo several passages through the germinal centre, where they acquire additional genetic hits via somatic hypermutation, eventually leading to FL {25384217}. Localized and systemic FL differ in their gene expression profiles {31697802}.</p>\r\n",
+        "timestamp": "2023-10-02T12:08:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 116065,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 592,
+        "headingText": "\r\n<p>Involved tissues have a fish-flesh appearance, which may be vaguely nodular.</p>\r\n",
+        "timestamp": "2023-10-02T12:08:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 116066,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 586,
+        "headingText": "<p>Typical FL cases show numerous and crowded follicles of a uniform size consisting of centrocytes and centroblasts. These follicles lack a starry-sky pattern and polarization. Rare cases exhibit a predominantly diffuse pattern of growth, but these are usually encountered in inguinal lymph nodes. FLs are optionally graded according to conventional criteria, i.e. by counting or estimating the absolute number of centroblasts in neoplastic follicles per HPF of 0.159&nbsp;mm in diameter and 0.458&nbsp;mm<sup>2</sup> in area (see <a style=\"cursor:pointer\" href=\"/attachment/52/364/39421\" target=\"_blank\">#39421</a>Table&nbsp;A in the foreword, for HPF conversion). Grade&nbsp;1/2 FL (FL1/FL2) cases contain 0&ndash;15&nbsp;centroblasts and grade&nbsp;3A (FL3A) &gt;&nbsp;15&nbsp;centroblasts per HPF of 0.159&nbsp;mm in diameter and 0.458&nbsp;mm<sup>2</sup> in area. Follicular large B-cell lymphoma (formerly termed &ldquo;follicular lymphoma, grade&nbsp;3B&rdquo; [FL3B]) cases consist exclusively of centroblasts and are rare. If a diffuse growth pattern is present in addition, these cases should be classified as diffuse large B-cell lymphoma with grade&nbsp;3B follicular component.</p>\r\n<p>As a rule, the tumour cells are positive for CD20 and germinal-centre markers such as CD10, BCL6, LMO2, and HGAL. BCL2 is expressed in 85% of FL1/FL2 cases and 60% of FL3A cases. Follicular large B-cell lymphoma (formerly FL3B) cases are more often negative for CD10 and BCL2 and may coexpress IRF4 (MUM1). The proliferation index in typical FL1 and FL2 cases is low, but FL3 may show Ki-67 indexes as high as 70&ndash;100% {11986240}.</p>\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/52/241/26080\" target=\"_blank\">#26080</a>Table&nbsp;10.04 for the differential diagnosis.</p>",
+        "timestamp": "2024-01-18T14:25:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 116067,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 587,
+        "headingText": "\r\n<p>Smears show a mixture of centrocytes and centroblasts. Ancillary studies can be performed on FNA fluid specimens or cell blocks.</p>\r\n",
+        "timestamp": "2023-10-02T12:08:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 116068,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 588,
+        "headingText": "<p>FL involving head and neck lymph nodes or tonsils in systemic disease harbours the t(14;18)(q32;q21) translocation in 85% of cases and has a characteristic mutation pattern involving genes such as <em>KMT2D</em>, <em>TNFRSF14</em>, <em>CREBBP</em>, and <em>EZH2</em>. <em>BCL6</em> may be rearranged in <em>BCL2</em> translocation&ndash;positive or <em>BCL2</em> translocation&ndash;negative cases. Follicular large B-cell lymphoma (formerly FL3B) is often negative for the <em>BCL2</em> gene translocation but may show <em>BCL6</em> rearrangement {21659362}.</p>",
+        "timestamp": "2024-01-18T14:25:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 116069,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em> presence of an atypical lymphoid proliferation of follicular-centre cells with a corresponding immunophenotype and/or genotype.</p>\r\n<p><em>Desirable:</em> follicular pattern.</p>",
+        "timestamp": "2023-11-20T13:34:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 116070,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 589,
+        "headingText": "<p >Lymphomas are staged according to the Lugano classification, which has been adopted by the eighth edition of the Union for International Cancer Control (UICC) TNM classification {25113753}.</p>",
+        "timestamp": "2023-11-20T13:35:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 116071,
+        "bookId": 52,
+        "chapterId": 241,
+        "headingId": 590,
+        "headingText": "\r\n<p>Stage and the Follicular Lymphoma International Prognostic Index (FLIPI) are major prognostic determinants. More recently, gene expression profiling and the establishment of clinicogenetic risk models have proved useful in the prognostication of patients {29475724; 26256760}.</p>\r\n<p>Tumour grade has some prognostic impact. FL grades&nbsp;1, 2, and&nbsp;3A are clinically indolent, whereas FL grade&nbsp;3B often exhibits more aggressive behaviour and usually requires diffuse large B-cell lymphoma&ndash;like chemotherapy.</p>",
+        "timestamp": "2023-10-02T12:08:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

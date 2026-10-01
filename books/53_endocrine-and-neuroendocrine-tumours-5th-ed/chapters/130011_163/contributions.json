@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123945,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 607,
+        "headingText": "\r\n<p>Multiple endocrine neoplasia type&nbsp;5 (MEN5) is an inherited tumour syndrome caused by pathogenic germline sequence variants in the tumour suppressor gene <em>MAX</em>.</p>\r\n",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123946,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 608,
+        "headingText": "<h6><em>MIM numbering</em></h6>\r\n<p>None</p>",
+        "timestamp": "2024-10-09T16:01:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123947,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 609,
+        "headingText": "\r\n<p>2F7A.0 Multiple polyglandular tumours</p>\r\n",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123948,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> <em>MAX</em>-associated tumours.</p>\r\n",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123949,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 611,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123950,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 612,
+        "headingText": "\r\n<p>Germline mutations in <em>MAX</em> manifest with multifocal endocrine neoplasms in the adrenal, pituitary, pancreas, and parathyroid glands {33367756}. Tumours in non-endocrine organs have also been reported, including renal cell carcinomas and oncocytomas, squamous cell carcinomas, and carcinomas of the breast, lung, and endometrium {22452945; 28973655; 26670126; 24362264; 25079552; 29155953}.</p>\r\n",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123951,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 613,
+        "headingText": "<p>The clinical presentation of MEN5 syndrome encompasses the classic multiple endocrine neoplasia endocrinopathies such as paraganglioma and/or phaeochromocytoma (PPGL), pituitary neuroendocrine tumours (PitNETs)&nbsp;/ pituitary adenomas, and multiglandular parathyroid adenomas, in addition to tumours of neural crest origin, such as ganglioneuroma and neuroblastoma {33367756}.</p>\r\n<p>Phaeochromocytomas in individuals with MEN5 are often bilateral at presentation, and metachronous paragangliomas are also common {22452945; 28384794; 29099418; 29282558}. Affected individuals may present with symptoms of catecholamine excess, such as hypertension, heart palpitations, and diaphoresis. The tumours typically exhibit a mixed adrenergic and noradrenergic catecholamine secretory pattern {24676840}.</p>\r\n<p>MEN5-associated PitNETs&nbsp;/ pituitary adenomas are usually functional, often presenting with acromegaly and/or hyperprolactinaemia {33367756}, and are typically diagnosed later than PPGLs {29535143; 29264463; 33367756}. Secondary acromegaly due to GHRH secretion from other <em>MAX</em>-related tumours has also been reported {33367756}.</p>\r\n<p>Hypercalcaemia is also frequently reported in patients with MEN5, most often related to multiglandular parathyroid adenomas but occasionally arising from ectopic secretion of PTH or PTHrP by other <em>MAX</em>-associated tumours {29264463}.</p>\r\n<p>Recently, the phenotype of MEN5 has been extended to include other tumours of neural crest derivation, including ganglioneuroma and neuroblastoma {33367756}, in addition to composite phaeochromocytoma-ganglioneuroma {32508744}. A single case of a pancreatic neuroendocrine neoplasm (PanNEN) associated with a <em>MAX</em> pathogenic sequence variant has been reported {32521546}.</p>\r\n<h6><em>Imaging</em></h6>\r\n<p>FDOPA PET is highly sensitive in the evaluation of <em>MAX</em>-related PPGL, both at initial diagnosis and during follow-up {29534198}; 68Ga-DOTATATE PET and FDG&nbsp;PET are less sensitive in this setting. It is recommended that all individuals with germline <em>MAX</em> mutations undergo comprehensive baseline evaluation with an appropriate imaging modality to screen for PPGL, pituitary disease, and parathyroid disease.</p>",
+        "timestamp": "2024-10-09T16:01:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123952,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 614,
+        "headingText": "\r\n<p>The prevalence and incidence of MEN5 has not yet been determined. Pathogenic germline <em>MAX</em> sequence variants are associated with &lt;&nbsp;1% of all phaeochromocytomas {22452945}. The median age at diagnosis of <em>MAX</em>-associated phaeochromocytoma is 34&nbsp;years {29534198}. The M:F&nbsp;ratio in reported kindreds is about 1:1 {33367756}.</p>\r\n",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123953,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 615,
+        "headingText": "\r\n<p>MEN5 syndrome is caused by germline pathogenic variants in <em>MAX</em>, located on chromosome 14q23.3. There are no known environmental factors that increase the risk of tumour development.</p>\r\n",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123954,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 616,
+        "headingText": "\r\n<p>The protein MAX is an essential component of the MYC/MAX/MXD1 network of transcription factors that regulate cell proliferation, differentiation, and apoptosis {22706201}. While heterodimerization of MAX with MYC results in transcriptional activation, heterodimerization with MXD1 (and other MXD family members) represses transcription through the same E-box DNA recognition sequences {22706201}. This cellular network maintains a complex equilibrium that controls the activation or repression of thousands of target genes {21685915}.</p>\r\n<p>In individuals with MEN5, germline <em>MAX</em> sequence variants have been identified in all five of the gene&rsquo;s exons and include nonsense and missense variants as well as large deletions {21685915; 22452945; 28384794; 28973655; 29534198; 29535143; 30211214; 32508744}. Most pathogenic sequence variants affect highly conserved amino acids within the basic helix-loop-helix leucine zipper (bHLHZip) domain of MAX, which is the common structural element of the MYC/MAX/MXD1 axis {12553908}. These mutations result in a protein incapable of homodimerization or heterodimerization and therefore incapable of repressing transcription and regulating MYC signalling through the aforementioned mechanisms {8087425}. <em>MYC</em> itself is a well-known oncogene, with overexpression evident in many, if not most, human malignancies {22706201; 6197179; 26070438}. Therefore, <em>MAX</em> acts as a tumour suppressor gene, whose constitutional loss of function highlights the importance of MYC regulation in hereditary malignancies and reveals that repression of the MYC/MAX/MXD1 axis may represent a common pathway of tumorigenesis for other PPGL susceptibility genes {24676840}.</p>\r\n",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123955,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 623,
+        "headingText": "\r\n<p><em>MAX</em>-associated tumours are often bilateral and/or multicentric, but they are otherwise grossly indistinguishable from their sporadic counterparts.</p>\r\n",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123956,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 617,
+        "headingText": "\r\n<p>Apart from their tendency towards multifocal/bilateral disease, individual <em>MAX</em>-associated tumours are histologically indistinguishable from their sporadic counterparts. Diffuse adrenal medullary hyperplasia can occur, although it is less common than in patients with MEN2 syndrome and succinate dehydrogenase&ndash;deficient PPGL {25379023; 21172883; 29534198; 27838885}. In contrast, any distinct nodular medullary proliferations smaller than 10&nbsp;mm represent microphaeochromocytomas {27838885}. This designation is supported by several studies that have demonstrated similar molecular aberrations in these nodules to those seen in phaeochromocytomas, suggesting a common molecular origin for these entities {25379023; 21172883}.</p>\r\n<p>Recent studies have also described a number of neuroblastic tumours in patients with germline <em>MAX</em> variants, including ganglioneuroma, neuroblastoma, and composite PPGL tumours {32508744; 33367756}. These tumours all share a common embryological origin from neural crest cells, from which the adrenal medulla and paraganglia are derived {10421272}.</p>\r\n<p>PIT1-lineage PitNETs&nbsp;/ pituitary adenomas with somatotroph or lactotroph cell differentiation have been described in MEN5 {29535143; 32521546; 33367756; 33805450}. These tumours are indistinguishable from their sporadic counterparts. Secondary acromegaly (due to somatotroph hyperplasia) has also been reported in the setting of GHRH-secreting phaeochromocytoma {33367756}. Like in multiple endocrine neoplasia type&nbsp;1, primary hyperparathyroidism with multiglandular parathyroid adenomas has also been described {33367756}.</p>\r\n<p>Although some studies have suggested that loss of MAX immunoreactivity may occur only in <em>MAX</em>-related tumours carrying truncating mutations {21685915; 22452945}, others have reported poor sensitivity and specificity for MAX immunohistochemistry as a marker of <em>MAX</em> mutation {29239044; 29779206; 33367756}. At present, it appears that the overall utility of MAX immunohistochemistry in routine clinical practice is limited, and it is not recommended as a screening test for <em>MAX</em> mutation {33367756}.</p>\r\n",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123957,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 618,
+        "headingText": "<p>The cytopathological features of the various neoplasms related to MEN5 are indistinguishable from those of their sporadic counterparts, which are described elsewhere in this volume and in the other fifth-edition volumes of the WHO Classification of Tumours series. It is important to remember that aspiration biopsy of functioning sympathetic PPGLs is not recommended, because of the risk of life-threatening catecholamine crisis.</p>",
+        "timestamp": "2024-12-05T11:40:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123958,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 619,
+        "headingText": "<p>Germline pathogenic sequence variants occur in all five exons of the <em>MAX</em> gene but are most frequent in exons&nbsp;3 and&nbsp;4; these include nonsense and missense variants in addition to large deletions {21685915; 28384794; 28973655; 29534198; 29535143; 30211214; 32508744}. Several studies have reported an apparent paternal transmission of the disease from loss of heterozygosity caused by uniparental disomy in some cases {21685915; 22452945; 32521546}. This mode of transmission results in generation skipping and can complicate the identification of mutation carriers. Current recommendations for genetic testing of all individuals with PPGL and of all asymptomatic family members of individuals with germline <em>MAX</em> variants will facilitate further phenotypic characterization of MEN5 syndrome.</p>",
+        "timestamp": "2024-10-09T17:53:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123959,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> demonstration of a germline <em>MAX</em> pathogenic sequence variant.</p>\r\n<p><em>Desirable:</em> a personal or family history of MEN5 syndrome&ndash;related lesions.</p>\r\n",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123960,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 620,
+        "headingText": "\r\n<p>PPGLs are staged according to the relevant American Joint Committee on Cancer (AJCC) staging schemes, whereas individual tumours other than PitNETs are staged according to the relevant Union for International Cancer Control (UICC)&nbsp;/ AJCC staging schemes. PitNETs are currently staged using a standardized assessment of parasellar tumour invasiveness based on MRI Knosp criteria {8232800}.</p>\r\n",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123961,
+        "bookId": 53,
+        "chapterId": 163,
+        "headingId": 621,
+        "headingText": "\r\n<p>Prognostic data on specific <em>MAX</em>-related tumours are generally lacking, although a recent study reported a tendency towards more aggressive behaviour and greater metastatic potential in <em>MAX</em>-associated PPGL, which has not yet been confirmed in a larger population of <em>MAX</em> mutation carriers {21685915; 22452945}.</p>",
+        "timestamp": "2024-10-09T16:01:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

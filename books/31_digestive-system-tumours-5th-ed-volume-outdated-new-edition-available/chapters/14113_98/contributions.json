@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 56230,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 159,
+        "headingText": "<p >Germ cell tumours of the digestive system are tumours derived from extragonadal germ cells.</p>",
+        "timestamp": "2019-01-17T14:10:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 56231,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 160,
+        "headingText": "<p>9064/3 Germinoma</p>\r\n<p>9070/3 Embryonal carcinoma NOS</p>\r\n<p>9071/3 Yolk sac tumour NOS</p>\r\n<p>9080/0 Teratoma, benign</p>\r\n<p>9080/3 Teratoma, malignant, NOS</p>\r\n<p>9084/0 Dermoid cyst NOS</p>\r\n<p>9085/3 Mixed germ cell tumour</p>",
+        "timestamp": "2021-11-22T17:45:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 56232,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 161,
+        "headingText": "<p >2C12.0Y &amp; XH1E13 Other specified malignant neoplasm of liver &amp; Germinoma, germ cell tumour, NOS</p>\r\n<p >2C12.0Y &amp; XH8MB9 Other specified malignant neoplasm of liver &amp; Embryonal carcinoma NOS</p>\r\n<p >2C12.0Y &amp; XH09W7 Other specified malignant neoplasm of liver &amp; Yolk sac tumour</p>\r\n<p >2E92.7 &amp; XH3GV5 Benign neoplasm of liver or intrahepatic bile ducts &amp; Teratoma, benign</p>\r\n<p >2C12.0Y &amp; XH7YZ9 Other specified malignant neoplasm of liver &amp; Teratoma, malignant, NOS</p>\r\n<p >2E92.7 &amp; XH9F67 Benign neoplasm of liver or intrahepatic bile ducts &amp; Dermoid cyst NOS</p>\r\n<p >2C12.0Y &amp; XH2PS1 Other specified malignant neoplasm of liver &amp; Mixed germ cell tumour</p>",
+        "timestamp": "2019-01-08T16:45:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 56233,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 162,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-01-08T16:46:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 56234,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 163,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-01-08T16:46:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 56235,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 164,
+        "headingText": "<p>Extragonadal germ cell tumours arise mainly along the body midline, and very rarely in the liver {17471115}. Most hepatic germ cell tumours form intrahepatic masses in the right, left, or both lobes. However, germ cell tumours at the porta hepatis {18405692} or around the common bile duct {21683236; 8469596} have also been described.&nbsp;Extragonadal germ cell tumours originating at other sites in the digestive system are extremely rare.</p>",
+        "timestamp": "2019-03-12T14:23:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 56236,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 165,
+        "headingText": "<p>As reported for extragonadal germ cell tumours at other sites, the presentation can vary depending on the patient&rsquo;s age&nbsp;&ndash; i.e. depending on whether the tumours have a congenital/neonatal (birth to 6&nbsp;months), childhood (prepubertal; 7&nbsp;months to puberty), or adulthood (postpubertal) presentation {17471115}. Like other primary liver tumours, intraparenchymal tumours may first present with weight loss, a palpable abdominal mass, upper quadrant pain, and general symptoms. Tumours at the porta hepatis or centred on the common bile duct can present with obstructive jaundice. High levels of serum AFP are characteristic of yolk sac tumours and mixed tumours containing a yolk sac component. Slight elevations of AFP levels can be related to embryonal carcinoma or teratoma. High levels of &beta;-hCG may be seen in choriocarcinoma {27300675}.</p>",
+        "timestamp": "2019-01-16T11:17:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 56237,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 166,
+        "headingText": "<p>Germ cell tumours of the digestive system are exceedingly rare. They can affect children and adults of any age, both males and females.</p>",
+        "timestamp": "2019-03-12T14:23:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 56238,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 167,
+        "headingText": "<p>There are no data to suggest a specific etiology, probably because of the rarity of these lesions.</p>",
+        "timestamp": "2019-01-16T11:18:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 56239,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 168,
+        "headingText": "<p>The possible mechanisms underlying the development of extragonadal (including hepatic) germ cell tumours are arrest and survival of germ cell precursors at ectopic sites during embryological migration, as well as proliferation of pluripotent embryonic cells {17471115}. The molecular data on hepatic germ cell tumours are limited to rare cases. In a hepatic malignant mixed germ cell tumour, chromosome&nbsp;12p amplification and isochromosome&nbsp;12p were demonstrated by FISH in immature teratoma and yolk sac components {20128038}.</p>",
+        "timestamp": "2019-01-16T11:18:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 56240,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 207,
+        "headingText": "<p>The macroscopic appearance is variable, but tumours may be solid or cystic with areas of haemorrhage.</p>",
+        "timestamp": "2019-01-16T11:18:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 56241,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 169,
+        "headingText": "<p>In the GI tract, most germ cell tumours represent metastatic disease from other sites {636740; 20062626; 12632341}, sometimes from occult primaries (typically testicular). In rare cases in children and adults, primary germ cell tumours may arise within the liver; these are most commonly teratomas {6208545; 25756389; 12940789; 26190492; 21614237; 8308217} or (exceptionally) yolk sac tumours {47264; 6353852; 3288736; 11869022; 23982265; 19284801; 10070339}. Malignant mixed germ cell tumours with various components, including yolk sac tumour, teratoma, embryonal carcinoma, and choriocarcinoma, have also been described {20128038; 15025371; 9692832}. Hepatic germ cell tumours are histopathologically similar to those of primary gonadal origin [[Moch H, Humphrey PA, Ulbright TM, et al., editors. WHO classification of tumours of the urinary system and male genital organs. Lyon (France): International Agency for Research on Cancer; 2016. (WHO classification of tumours series, 4th ed.; vol. 8). http://publications.iarc.fr/540.]] [[Kurman RJ, Carcangiu ML, Herrington CS, et al., editors. WHO classification of tumours of female reproductive organs. Lyon (France): International Agency for Research on Cancer; 2014. (WHO classification of tumours series, 4th ed.; vol. 6). http://publications.iarc.fr/16.]].</p>\r\n<p>The immunohistochemical profile of germ cell tumours of the digestive system is similar to that of their gonadal counterparts. Yolk sac tumours stain for AFP, glypican-3 (GPC3), and SALL4. More-differentiated endodermal elements may express markers of their corresponding somatic tissues (e.g. CDX2 for intestinal elements, TTF1 for foregut epithelia, and Hep&nbsp;Par-1 for hepatocytes). Dysgerminomas and seminomas express PLAP, KIT, podoplanin (as recognized by D2-40), OCT3/4, NANOG, and SALL4. Choriocarcinomas stain for broad-spectrum cytokeratins and hCG. Embryonal carcinomas express broad-spectrum cytokeratins, GPC3, SALL4, NANOG, OCT3/4, and (unlike other germ cell tumours) CD30.</p>\r\n<p>The differential diagnosis depends on patient age at presentation and tumour location. The possibility of metastatic spread from an occult extrahepatic gonadal or extragonadal germ cell tumour should always be considered. The possibility of a carcinoma with secondary germ cell differentiation should also be considered, and sampling is important in such instances. Intraparenchymal lesions must be differentiated from other primary paediatric or adult liver tumours, in particular hepatocellular carcinoma and hepatoblastoma {17471115; 28714114}. Nuclear &beta;-catenin expression could be of help in distinguishing hepatocellular differentiation in a yolk sac tumour or teratoma from hepatoblastoma (which stains positively) [[Burt AD, Ferrell LD, H&uuml;bscher SG. MacSween&rsquo;s pathology of the liver. 7th ed. Philadelphia (PA): Elsevier; 2018.]]. Calcifying nested stromal-epithelial tumour can also be confused with intrahepatic teratoma, because of its biphasic appearance (see <a style=\"cursor:pointer\" href=\"/chaptercontent/31/96\" target=\"_blank\">section </a><em>Calcifying nested stromal-epithelial tumour of the liver</em>) {17471115}. GI tract carcinomas may show differentiation into yolk sac tumour or choriocarcinoma {18166865; 10223229}.</p>",
+        "timestamp": "2019-06-07T15:27:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 56242,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 170,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-01-16T11:19:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 56243,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 171,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-01-16T11:19:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 56244,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 174,
+        "headingText": "<p><em>Essential:</em> no evidence of a previous or synchronous germ cell tumour outside the digestive system; the same diagnostic criteria as those for germ cell tumours of primary gonadal origin [[Moch H, Humphrey PA, Ulbright TM, et al., editors. WHO classification of tumours of the urinary system and male genital organs. Lyon (France): International Agency for Research on Cancer; 2016. (WHO classification of tumours series, 4th ed.; vol. 8). http://publications.iarc.fr/540.]] [[Kurman RJ, Carcangiu ML, Herrington CS, et al., editors. WHO classification of tumours of female reproductive organs. Lyon (France): International Agency for Research on Cancer; 2014. (WHO classification of tumours series, 4th ed.; vol. 6). http://publications.iarc.fr/16.]].</p>",
+        "timestamp": "2019-03-12T14:23:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 56245,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 172,
+        "headingText": "<p>Because of the rarity of germ cell tumours of the digestive system, there are insufficient data in the literature to support a dedicated staging system.</p>",
+        "timestamp": "2019-03-12T14:24:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 56246,
+        "bookId": 31,
+        "chapterId": 98,
+        "headingId": 173,
+        "headingText": "<p>Experience with these tumours is limited.</p>",
+        "timestamp": "2019-05-08T10:10:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

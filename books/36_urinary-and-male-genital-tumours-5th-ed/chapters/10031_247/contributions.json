@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 71211,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 539,
+        "headingText": "\r\n<p>Glomus tumour is a mesenchymal tumour composed of cells resembling the modified perivascular smooth muscle cells of the glomus body.</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 71212,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 540,
+        "headingText": "\r\n<p>8711/0 Glomus tumour, NOS</p>\r\n<p>8712/0 Glomangioma</p>\r\n<p>8713/0 Glomangiomyoma</p>\r\n<p>8711/1 Glomangiomatosis</p>\r\n<p>8711/1 Glomus tumour of uncertain malignant potential</p>\r\n<p>8711/3 Malignant glomus tumour</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 71213,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 541,
+        "headingText": "\r\n<p>2F35 &amp; XH47J2 Benign neoplasm of urinary organs &amp; Glomus tumour, NOS</p>\r\n<p>2C9Y &amp; XH21E6 Other specified malignant neoplasms of urinary tract &amp; Glomus tumour, malignant</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 71214,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 542,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 71215,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 543,
+        "headingText": "\r\n<p>Glomangioma; glomangiomyoma; glomangiomatosis; glomus tumour of uncertain malignant potential; malignant glomus tumour</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 71216,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 544,
+        "headingText": "\r\n<p>In the genitourinary tract, glomus tumours primarily occur in the kidney and are extremely rare in the bladder and testis.</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 71217,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 545,
+        "headingText": "\r\n<p>Most renal glomus tumours are discovered incidentally. Other presentations include flank pain, haematuria, or a mass lesion {28438616}.</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 71218,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 546,
+        "headingText": "\r\n<p>Renal glomus tumours are rare, arising at any age (mean: 50&nbsp;years) with no sex predilection {31594471}.</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 71219,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 547,
+        "headingText": "\r\n<p>Autosomal dominant inheritance has been reported in the setting of multiple familial glomus tumours due to inactivating mutations or uniparental disomy of the <em>GLMN</em> gene {12383095; 10727310; 10364524}. Biallelic inactivation of <em>NF1</em> in neurofibromatosis type&nbsp;1 has been reported {25426397}.</p>\r\n<p>Besides <em>GLMN</em> and <em>NF1</em> gene mutations, <em>NOTCH2</em> gene rearrangements are seen in as many as 52% of glomus tumours {32604167}. Malignant glomus tumours are more likely to have <em>BRAF</em> p.V600E mutations, a potential therapeutic target {28834810}.</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 71220,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 548,
+        "headingText": "\r\n<p>Because of the absence of glomus bodies in visceral organs, the pathogenesis of visceral glomus tumours remains unknown.</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 71221,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 555,
+        "headingText": "\r\n<p>The tumours are small, well-circumscribed lesions with a solid, cystic, haemorrhagic, or spongy cut surface {28438616}.</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 71222,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 549,
+        "headingText": "\r\n<p>Glomus tumours are composed of monotonous small round cells with central round nuclei and well-defined cell borders, lacking marked atypia and mitotic activity, arranged around small vessels. Stromal hyalinization, as well as myxoid, cystic, and symplastic changes, may be present {28698815}. Cavernous haemangioma&ndash;like malformations characterize glomangioma, whereas areas of smooth muscle differentiation are seen in glomangiomyoma.</p>\r\n<p>Immunohistochemistry shows SMA, MSA, h-caldesmon, pericellular collagen&nbsp;IV, and calponin positivity; keratins and melanoma-associated markers are negative. Ultrastructurally, the neoplastic cells contain cytoplasmic filaments compatible with myoid differentiation.</p>\r\n<p>Because of the monotonous epithelioid morphology, a low-grade clear cell renal cell carcinoma may be mimicked, particularly in core needle specimens. The main differential diagnosis is juxtaglomerular cell tumour with associated hypertension; rhomboid-shaped renin crystals on ultrastructural analysis are diagnostic.</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 71223,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 71224,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 551,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 71225,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> round monomorphic cells with well-defined cell borders and diffuse positivity for muscle markers.</p>\r\n<p><em>Desirable:</em> epithelial, vascular, and melanoma markers are negative.</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 71226,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 552,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 71227,
+        "bookId": 36,
+        "chapterId": 247,
+        "headingId": 553,
+        "headingText": "\r\n<p>The majority of glomus tumours are benign. Malignant behaviour is rare and does not correlate with the histological predictors of aggressive behaviour established for soft tissue tumours. Metastasis is the only reliable criterion of malignancy.</p>",
+        "timestamp": "2022-02-25T14:48:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

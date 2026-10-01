@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 117,
+    "bookId": "48",
+    "roleid": 160,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3001,
+        "lastname": "Osamura",
+        "firstname": "Robert Y.",
+        "initials": "",
+        "email": "",
+        "roleid": 160,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 118,
+    "bookId": "48",
+    "roleid": 161,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3644,
+        "lastname": "Field",
+        "firstname": "Andrew S.",
+        "initials": "AS",
+        "email": "",
+        "roleid": 161,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 119,
+    "bookId": "48",
+    "roleid": 162,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4150,
+        "lastname": "Michael",
+        "firstname": "Claire W.",
+        "initials": "",
+        "email": "",
+        "roleid": 162,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 120,
+    "bookId": "48",
+    "roleid": 163,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3004,
+        "lastname": "Papotti",
+        "firstname": "Mauro",
+        "initials": "",
+        "email": "",
+        "roleid": 163,
+        "position": 0
+      },
+      {
+        "contributorid": 3447,
+        "lastname": "Rekhtman",
+        "firstname": "Natasha",
+        "initials": "",
+        "email": "",
+        "roleid": 163,
+        "position": 0
+      },
+      {
+        "contributorid": 4352,
+        "lastname": "Vivero",
+        "firstname": "Marina",
+        "initials": "",
+        "email": "",
+        "roleid": 163,
+        "position": 0
+      }
+    ]
+  }
+]

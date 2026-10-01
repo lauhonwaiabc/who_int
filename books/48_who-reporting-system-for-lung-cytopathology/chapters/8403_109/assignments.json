@@ -1,0 +1,62 @@
+[
+  {
+    "pkroleId": 117,
+    "bookId": "48",
+    "roleid": 160,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3347,
+        "lastname": "Bubendorf",
+        "firstname": "Lukas",
+        "initials": "",
+        "email": "",
+        "roleid": 160,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 119,
+    "bookId": "48",
+    "roleid": 162,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4145,
+        "lastname": "Engels",
+        "firstname": "Marianne ",
+        "initials": "",
+        "email": "",
+        "roleid": 162,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 120,
+    "bookId": "48",
+    "roleid": 163,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 3390,
+        "lastname": "Hiroshima",
+        "firstname": "Kenzo",
+        "initials": "",
+        "email": "",
+        "roleid": 163,
+        "position": 0
+      },
+      {
+        "contributorid": 4162,
+        "lastname": "Monaco",
+        "firstname": "Sara E.",
+        "initials": "",
+        "email": "",
+        "roleid": 163,
+        "position": 0
+      }
+    ]
+  }
+]

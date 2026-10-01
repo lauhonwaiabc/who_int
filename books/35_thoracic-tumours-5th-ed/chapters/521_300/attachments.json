@@ -1,0 +1,62 @@
+[
+  {
+    "pkattachmentId": 36777,
+    "bookid": 35,
+    "chapterId": 300,
+    "fileId": 13790,
+    "type": "Figure",
+    "diagnosis": "Thymic neuroendocrine neoplasm (NEN)",
+    "title": "",
+    "legend": "Similar to thymic carcinoma, thymic NENs may demonstrate aggressive behaviour such as invasion of adjacent structures, mediastinal lymph node involvement, and other visceral metastases at presentation. On contrast-enhanced chest CT, lung windows&nbsp;(<strong>A</strong>) and soft tissue windows&nbsp;(<strong>B</strong>) demonstrate a heterogeneous prevascular mass (M) with multiple pulmonary nodules (arrows) consistent with metastatic disease at presentation. Note that the larger pulmonary nodule in panel&nbsp;B has a heterogeneous low attenuation in appearance similar to the primary mass.",
+    "source": "Edith Michelle Marom",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/35/300/13790.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/35/300/thumb_13790.jpg"
+  },
+  {
+    "pkattachmentId": 36778,
+    "bookid": 35,
+    "chapterId": 300,
+    "fileId": 13791,
+    "type": "Figure",
+    "diagnosis": "Chromosomal changes in thymic neuroendocrine neoplasms (NENs)",
+    "title": "",
+    "legend": "Synopsis of chromosomal gains and losses in thymic NENs (Circos plot, low-coverage whole-genome sequencing results). AC, atypical carcinoid; LCNEC, large cell neuroendocrine carcinoma; SCC, small cell carcinoma; TC, typical carcinoid.",
+    "source": "Philipp Ströbel",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/35/300/13791.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/35/300/thumb_13791.jpg"
+  },
+  {
+    "pkattachmentId": 36779,
+    "bookid": 35,
+    "chapterId": 300,
+    "fileId": 13792,
+    "type": "Figure",
+    "diagnosis": "Molecular clusters in thymic neuroendocrine neoplasm (NEN)",
+    "title": "",
+    "legend": "Clustering of data from low-coverage whole-genome sequencing of thymic NENs reveals three major molecular clusters {31042566}. AC, atypical carcinoid.",
+    "source": "",
+    "copyright": "Adapated from J Thorac Oncol. 14(8). Dinter H, Bohnenberger H, Beck J, et al. Molecular Classification of Neuroendocrine Tumors of the Thymus. 1472-1483. Copyright 2019, with permission from Elsevier. PMID: 31042566",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/35/300/13792.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/35/300/thumb_13792.jpg"
+  },
+  {
+    "pkattachmentId": 37814,
+    "bookid": 35,
+    "chapterId": 300,
+    "fileId": 15177,
+    "type": "Table",
+    "diagnosis": "",
+    "title": "<p class=\"TableTitle\">Neuroendocrine neoplasms (NENs) of the thymus</p>",
+    "legend": "",
+    "source": "John K.C. Chan",
+    "copyright": "",
+    "tablehtml": "<table class=\"MsoTableGridLight\" style=\"border-collapse: collapse; border: none;\" border=\"0\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr style=\"page-break-inside: avoid; height: 3.5pt;\">\r\n<td style=\"width: 51.25pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 3.5pt;\" rowspan=\"3\" width=\"100\">\r\n<p class=\"TableText\" style=\"text-align: center;\" align=\"center\"><strong>Current classification</strong></p>\r\n</td>\r\n<td style=\"width: 3.0cm; border: none; border-top: solid windowtext 1.0pt; background: #8DB3E2; padding: 0cm 5.4pt 0cm 5.4pt; height: 3.5pt;\" valign=\"top\" width=\"110\">\r\n<p class=\"TableText\"><strong>&nbsp;</strong></p>\r\n</td>\r\n<td style=\"width: 140.6pt; border: none; border-top: solid windowtext 1.0pt; background: #8DB3E2; padding: 0cm 5.4pt 0cm 5.4pt; height: 3.5pt;\" width=\"173\">\r\n<p class=\"TableText\"><strong>Low-grade</strong></p>\r\n</td>\r\n<td style=\"width: 142.9pt; border: none; border-top: solid windowtext 1.0pt; background: #8DB3E2; padding: 0cm 5.4pt 0cm 5.4pt; height: 3.5pt;\" width=\"185\">\r\n<p class=\"TableText\"><strong>Intermediate-grade</strong></p>\r\n</td>\r\n<td style=\"width: 10.0cm; border-top: solid windowtext 1.0pt; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: none; background: #8DB3E2; padding: 0cm 5.4pt 0cm 5.4pt; height: 3.5pt;\" colspan=\"2\" width=\"370\">\r\n<p class=\"TableText\" style=\"text-align: center;\" align=\"center\"><strong>High-grade</strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\"page-break-inside: avoid;\">\r\n<td style=\"width: 3.0cm; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"110\">\r\n<p class=\"TableText\"><em>Classification of tumours with neuroendocrine morphology</em></p>\r\n</td>\r\n<td style=\"width: 140.6pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"173\">\r\n<p class=\"TableText\"><em>Typical carcinoid</em></p>\r\n</td>\r\n<td style=\"width: 142.9pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"185\">\r\n<p class=\"TableText\"><em>Atypical carcinoid</em></p>\r\n</td>\r\n<td style=\"width: 138.3pt; border: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"181\">\r\n<p class=\"TableText\"><em>Large cell neuroendocrine carcinoma</em></p>\r\n</td>\r\n<td style=\"width: 145.2pt; border: none; border-top: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"189\">\r\n<p class=\"TableText\"><em>Small cell carcinoma</em></p>\r\n</td>\r\n</tr>\r\n<tr style=\"page-break-inside: avoid;\">\r\n<td style=\"width: 3.0cm; border: none; border-bottom: solid windowtext 1.0pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"110\">\r\n<p class=\"TableText\"><strong>&nbsp;</strong></p>\r\n</td>\r\n<td style=\"width: 140.6pt; border: none; border-bottom: solid windowtext 1.0pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"173\">\r\n<p class=\"TableText\">No necrosis</p>\r\n<p class=\"TableText\">&lt;&nbsp;2&nbsp;mitoses/2&nbsp;mm<sup>2</sup> (mean:&nbsp;1&nbsp;mitosis/2&nbsp;mm<sup>2</sup>)</p>\r\n</td>\r\n<td style=\"width: 142.9pt; border: none; border-bottom: solid windowtext 1.0pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"185\">\r\n<p class=\"TableText\">Necrosis present (any) and/or</p>\r\n<p class=\"TableText\">2&ndash;10&nbsp;mitoses/2&nbsp;mm<sup>2</sup> (mean:&nbsp;6.5&nbsp;mitoses/2&nbsp;mm<sup>2</sup>)</p>\r\n</td>\r\n<td style=\"width: 138.3pt; border: none; border-bottom: solid windowtext 1.0pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"181\">\r\n<p class=\"TableText\">Non-small cell cytology</p>\r\n<p class=\"TableText\">Neuroendocrine markers</p>\r\n<p class=\"TableText\">&gt;&nbsp;10&nbsp;mitoses/2&nbsp;mm<sup>2</sup> (mean:&nbsp;45&nbsp;mitoses/2&nbsp;mm<sup>2</sup>)</p>\r\n<p class=\"TableText\">Frequent necrosis</p>\r\n</td>\r\n<td style=\"width: 145.2pt; border: none; border-bottom: solid windowtext 1.0pt; background: #DAEEF3; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"189\">\r\n<p class=\"TableText\">Small cell cytology</p>\r\n<p class=\"TableText\">&gt;&nbsp;10&nbsp;mitoses/2&nbsp;mm<sup>2</sup> (mean:&nbsp;110&nbsp;mitoses/2&nbsp;mm<sup>2</sup>)</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+    "imageUrl": null,
+    "thumbnail": null
+  }
+]

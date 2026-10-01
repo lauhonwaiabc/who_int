@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 119049,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Myeloid/lymphoid neoplasms with <em>FLT3</em> rearrangement are haematopoietic stem cell neoplasms associated with gene rearrangements forming a fusion gene involving the fms-related receptor tyrosine kinase&nbsp;3 gene (<em>FLT3</em>), usually producing a myeloproliferative neoplasm and/or T-lymphoblastic leukaemia/lymphoma with associated eosinophilia, although the phenotypic presentation may be variable and diverse.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 119050,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9968/3 Myeloid/lymphoid neoplasm with <em>FLT3</em> rearrangement</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 119051,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A22 Other and unspecified myeloproliferative neoplasms</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 119052,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 119053,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 119054,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>The bone marrow and peripheral blood are commonly involved but may be spared in a subset of patients, at least at initial presentation. Extramedullary involvement is common {33990705; 32886902}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 119055,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Patients typically present with peripheral blood abnormalities including leukocytosis, anaemia, and thrombocytopenia. Eosinophilia is common but not universal. A subset of patients present with relative and/or absolute monocytosis. Lymphadenopathy and splenomegaly may or may not be present. Lytic bone lesions may be seen on imaging studies {33990705}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 119056,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>The disease appears to be more common in men (M:F&nbsp;ratio: ~1.4:1). The median age at presentation is in the fifth decade of life (range: 2&ndash;80&nbsp;years) {33990705}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 119057,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>The etiology remains unknown.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 119058,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 710,
+        "headingText": "<p>The formation of the <em>FLT3</em> fusion gene leads to constitutive phosphorylation and growth factor&nbsp;/ ligand&ndash;independent proliferation {17764812}. The most common partner gene is <em>ETV6</em>/12p131; however, additional partners have been reported, including <em>BCR</em>/22q11.2, <em>ZMYM2</em>/13q12, <em>TRIP11</em>/14q32, <em>SPTBN1</em>/2p16, <em>GOLGB1</em>/3q13, <em>CCDC88C</em>/14q32,&nbsp;<em>ZBTB44</em>/11q24, and <em>MYO18A</em>/17q12 {31511612; 30559310}. Rarely, in a subset of myeloid neoplasms, <em>FLT3</em> fusion genes may be acquired during the course of the disease and occur in the setting of clonal evolution; although the therapeutic implications of the <em>FLT3</em> fusion genes in this setting are important, cases with secondary acquisition of <em>FLT3</em>&nbsp;fusion genes are excluded from this category {33990705}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T15:43:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 119059,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 119060,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 711,
+        "headingText": "<p>Bone marrow involvement may manifest with features of myelodysplastic neoplasm (MDS), myeloproliferative neoplasms (including cases with features of chronic eosinophilic leukaemia), myelodysplastic/myeloproliferative neoplasms (including cases with chronic myelomonocytic leukaemia&ndash;like or juvenile myelomonocytic leukaemia&ndash;like features {17764812; 33792628}), or with increased blasts of myeloid, T-cell, or B-cell lineage in the range of acute leukaemia. Aberrant mast cells may be detected in the bone marrow in a subset of cases, rarely fulfilling diagnostic criteria for systemic mastocytosis {18663058}; these cases are best classified as myeloid/lymphoid neoplasm with <em>FLT3</em>&nbsp;fusion gene if the presence of the fusion gene is confirmed. Extramedullary involvement may manifest as T-lymphoblastic lymphoma or myeloid sarcoma, or (rarely) with mixed-phenotype features including B-cell, T-cell, or myeloid-lineage disease.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T15:43:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 119061,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>See above.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 119062,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>Chromosomal rearrangements involving 13q12 are typically identifiable on routine karyotyping studies; however, rare cryptic cases have been reported, particularly when the partner gene is <em>ZMYM2</em> (which is also located at 13q12) {28751768; 32852395}. The presence of the <em>FLT3</em> fusion gene should be confirmed using additional methods (including break-apart FISH probes for <em>FLT3</em>, RT-PCR, or RNA sequencing), because only a third of cases with 13q12 rearrangements involve <em>FLT3</em> {33990705}. Additional chromosomal abnormalities, including complex karyotype, are common. Limited information is available on associated somatic mutations; however, mutations involving <em>ASXL1</em>, <em>SETBP1</em>, <em>U2AF1</em>, <em>STAT5B</em>, <em>TP53</em>, <em>SRSF2</em>, <em>TET2</em>, <em>RUNX1</em>, and <em>PTPN11</em> have been reported in small case series. The prognostic significance of co-mutations remains unknown {33990705}. Cases with rearrangements of 13q12 not involving <em>FLT3</em> are excluded from this diagnosis.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 119063,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> a myeloid or lymphoid neoplasm, with or without associated eosinophilia, with chromosomal rearrangements leading to the formation of a <em>FLT3</em> fusion gene.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 119064,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Most patients are diagnosed in the chronic phase. Cases with &ge;&nbsp;20% blasts at initial presentation or during the course of the disease are best classified as blast phase (either myeloid or lymphoid lineage) of myeloid/lymphoid neoplasm with <em>FLT3</em> fusion gene.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 119065,
+        "bookId": 63,
+        "chapterId": 335,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>The disease is generally associated with an aggressive clinical course {32886902}. Haematological and cytogenetic responses have been achieved with small-molecule FLT3/multikinase inhibitors such as sorafenib, sunitinib, and midostaurin. Responses are often of short duration, and allogeneic haematopoietic stem cell transplantation for curative intent may therefore be considered {21705501; 24854988; 34533850}.</p>\r\n<p>&nbsp;</p>",
+        "timestamp": "2024-03-01T13:08:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

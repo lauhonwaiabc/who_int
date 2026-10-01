@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 103629,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 466,
+        "headingText": "\r\n<p>Chronic myeloid leukaemia (CML) is an acquired clonal myeloproliferative haematological malignancy originating from a pluripotent bone marrow stem cell harbouring the <em>BCR</em>::<em>ABL1</em> fusion gene.</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 103630,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 467,
+        "headingText": "\r\n<p>9875/3 Chronic myeloid leukaemia (CML), <em>BCR</em>::<em>ABL1</em></p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 103631,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A20.0Z Chronic myelogenous leukaemia, BCR::ABL1-positive, unspecified</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 103632,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Acceptable:</em> chronic myeloid leukaemia, Philadelphia chromosome&ndash;positive (Ph+); chronic myeloid leukaemia, t(9;22)(q34;q11).</p>\r\n<p><em>Not recommended:</em> chronic granulocytic leukaemia, <em>BCR</em>::<em>ABL1</em>; chronic granulocytic leukaemia, Ph+; chronic granulocytic leukaemia, t(9;22)(q34;q11); chronic myelogenous leukaemia, <em>BCR</em>::<em>ABL1</em>-positive; chronic myelogenous leukaemia, Ph+; chronic myelogenous leukaemia, t(9;22)(q34;q11).</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 103633,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 103634,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 471,
+        "headingText": "\r\n<p>Bone marrow and blood are always involved. The spleen is enlarged in 70&ndash;80% of paediatric cases, and the liver is enlarged in 50&ndash;60% {15995044; 25435115; 29925908}. In blast-phase CML (CML-BP), lymph nodes, skin, soft tissue, bones, and CNS may be infiltrated by blasts {2070150; 30840960; 32799036}.</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 103635,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 472,
+        "headingText": "<p>Paediatric patients with CML usually present with chronic-phase CML (CML-CP). According to the International Registry for Childhood CML, 7.5% of children with CML have advanced-phase CML, which encompasses CML-BP and the previously recognized accelerated-phase CML (CML-AP) {31082688}. In CML-CP, peripheral blood shows leukocytosis (range: 12&ndash;1000&nbsp;&times;&nbsp;10<sup>9</sup>/L, median in adult patients: ~80&nbsp;&times;&nbsp;10<sup>9</sup>/L) due to neutrophils in various stages of maturation, with peaks in the proportions of myelocytes and segmented neutrophils {25783795; 9012696; 265093}; children often have higher white blood cell counts than adults (median: ~250&nbsp;&times;&nbsp;10<sup>9</sup>/L) {25891192; 15995044; 22395816}. Symptoms such as fever, bleeding, fatigue, and bone pain can be observed at initial diagnosis {15995044; 29925908; 33034135}. Paediatric CML-CP has more aggressive features than CML-CP in adults, with a higher proportion of patients exhibiting splenomegaly and higher leukocyte and platelet counts {24162333; 25361995}.</p>",
+        "timestamp": "2023-05-09T14:18:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 103636,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 473,
+        "headingText": "\r\n<p>Paediatric CML is rare (incidence: 0.15&nbsp;cases per 100&nbsp;000&nbsp;person-years; M:F&nbsp;ratio: 1.34) and represents 2&ndash;3% of all paediatric leukaemias {26646444; 20199658} [[Surveillance, Epidemiology, and End Results (SEER) Program [Internet]. Bethesda (MD): National Cancer Institute; 2018. Cancer Stat Facts: leukemia - chronic myeloid leukemia (CML). Available from: https://seer.cancer.gov/statfacts/html/cmyl.html.]]. The age-adjusted incidence rate is 0.13&nbsp;cases per 100&nbsp;000&nbsp;person-years for patients aged &lt;&nbsp;18&nbsp;years {28410997}. Paediatric CML is extremely rare in the first 5&nbsp;years of life {33034135}.</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 103637,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 474,
+        "headingText": "\r\n<p>The predisposing factors for paediatric CML are unknown {1350742; 5932020; 7880928; 24337217}.</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 103638,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 475,
+        "headingText": "\r\n<p>The <em>ABL1</em> gene on chromosome 9q34 contains one large breakpoint region, whereas three breakpoint regions have been found in the <em>BCR</em> gene on chromosome 22q11. The vast majority cluster in a small region of the <em>BCR</em> gene&rsquo;s major breakpoint {8822944; 15703785; 17268511}. The major, minor, and micro <em>BCR</em> breakpoint cluster regions are associated with the p210, p190, and p230 BCR::ABL1 fusion proteins, respectively {8839828; 12432215; 19067742; 30675008}.</p>\r\n<p>The fusion protein BCR::ABL1 encodes a constitutively active tyrosine kinase considered to be the pathogenic driver leading to the transformation of a haematopoietic stem cell to a leukaemic stem cell. However, BCR::ABL1 does not operate alone in disease emergence, maintenance, and progression {10905245; 27307150; 31696382}, nor is it the sole initiating event {31209280; 31401626}. In paediatric CML, the myeloid driver mutation <em>ASXL1</em> is found more frequently than in adult CML {29899367}. Another difference from adult CML is a bimodal breakpoint distribution within the first centromeric 1.5&nbsp;kb of the <em>BCR</em> gene {22887688}. CML leukaemic stem cells persist in all patients because these cells are resistant to tyrosine kinase inhibitors (TKIs) {28159740}.</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 103639,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 482,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 103640,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 476,
+        "headingText": "\r\n<p>Paediatric CML-CP shows a hypercellular marrow (95&ndash;100%), with markedly increased myelopoiesis (myeloid-to-erythroid ratio: &ge;&nbsp;10:1) consisting predominantly of myelocytes, promyelocytes, and segmented neutrophils. The use of TKI therapy has altered the natural history of CML and largely eliminated the need for the previously recognized classification CML-AP. Detection of &ge;&nbsp;20% myeloblasts in peripheral blood and/or bone marrow defines CML-BP.</p>\r\n<p>Megakaryocytic proliferation organized in clusters with micromegakaryocytes (hypolobated nuclei) is present in &gt;&nbsp;50% of cases. Typically, these findings are accompanied by immature eosinophils and basophils {30019447; 2432775}. Pseudo-Gaucher cells can be found heterogeneously distributed in approximately 30% of paediatric patients {6951408}. Fibrosis of varying grade is detected in 15% of paediatric CML cases {28239144}.</p>\r\n<p>In CML-AP, blasts make up 10&ndash;19% of the nucleated cells in the bone marrow. Often, massive basophilia is found. CML-BP is indistinguishable from acute leukaemia.</p>\r\n<p>Whereas in most adult CML-BP cases the blast lineage is myeloid {10403855; 22653972; 9872654; 8535224}, in paediatric cases it is mostly lymphoblastic (accounting for 13 [76%] of 17&nbsp;cases of CML-BP in a paediatric CML registry of 479&nbsp;patients) {31082688}. Lymphoblasts may form focal sheets in bone marrow. However, even a low number of lymphoblasts may be a sign of CML-BP evolution.</p>\r\n<p>The blast lineage may be morphologically obvious, but the blasts are often primitive and/or heterogeneous, and expression of antigens of more than one lineage is common {9872654; 18760473; 19959089}.</p>\r\n<p>Flow cytometry is the preferred technique for the phenotypic analysis of CML-BP, especially for detecting mixed phenotypes, but immunohistochemical stains can also be applied if a marrow aspirate cannot be obtained and there are insufficient numbers of blasts in the blood.</p>\r\n<p>Extramedullary blast proliferations are most common in the skin, lymph nodes, bone, and CNS, but they can occur anywhere; they may have a myeloid, lymphoid, or mixed-lineage phenotype {23171293; 3862425}.</p>\r\n<p>NAP (a marker of terminally differentiated neutrophils) is decreased in CML {2930836; 10233380}. Antigens normally found on neutrophils (CD15, HLA-DR) may be expressed weakly. In routine diagnostics, immunophenotyping has no useful role during CML-CP. In paediatric patients, lymphoid CML-BP is more frequent than myeloid CML-BP {32799036}, and it usually expresses precursor B-lymphoblastic antigens (CD10, CD19, CD34, TdT) and is negative for surface immunoglobulin {18760473; 31082688}. Cases of precursor T-cell origin (CD3+, CD7+, TdT+) have been described {18760473; 2012070}. Coexpression of myeloid antigens on lymphoid blasts is frequent. In myeloid CML-BP, myeloperoxidase may be expressed variably but antigens associated with myeloid, monocytic, megakaryocytic, and/or erythroid differentiation are detectable {29501750}.</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 103641,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 477,
+        "headingText": "\r\n<p>See above.</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 103642,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 478,
+        "headingText": "\r\n<p>At diagnosis, a molecular test (e.g. FISH or RT-PCR on peripheral blood cells) is mandatory to identify the type of <em>BCR</em>::<em>ABL1</em> transcript to use as a marker for molecular monitoring in response to TKI treatment {24976289; 24063401; 17928051; 30941573; 32127639; 30181422}. In 5% of all cases, RT-PCR fails to detect the <em>BCR</em>::<em>ABL1</em> transcript because of an uncommon breakpoint. In these cases FISH is usually preferred.</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 103643,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> full blood count showing increased myelocytic cells and appropriate cytology (if alone, this is CML-NOS; any extramedullary manifestation other than in the spleen and liver results in upstaging to CML-BP); demonstration of Ph&nbsp;chromosome positivity by cytogenetics, including assessment of additional chromosomal aberrations (FISH analysis or PCR is required if Ph&nbsp;chromosome positivity cannot be identified); demonstration of the <em>BCR</em>::<em>ABL1</em> fusion gene and characterization of the type of fusion gene transcript.</p>\r\n<p><em>Desirable: </em>a trephine biopsy (to establish the degree of fibrosis and the presence of nests of blasts); determination of the <em>BCR</em>::<em>ABL1</em> transcript ratio according to the international scale; identification of the genomic <em>BCR</em>::<em>ABL1</em> breakpoint; identification of somatic or germline mutations and epigenetic modification in addition to <em>BCR</em>::<em>ABL1</em>; identification of genes influencing TKI blood serum concentration and metabolism.</p>\r\n",
+        "timestamp": "2022-07-08T14:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 103644,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 479,
+        "headingText": "<p>Staging, as well as the identification of any disease progression, is based on the determination of the CML phase (<a style=\"cursor:pointer\" href=\"/attachment/44/466/32040\" target=\"_blank\">#32040</a>Box&nbsp;2.01) using the same procedure as that established for adults by the European LeukemiaNet {24976289; 16709930; 16463391}.</p>\r\n<p>The criteria for advanced-stage CML (CML-AP or CML-BP) are debated and poorly defined. In the fifth edition of the WHO classification, the previous criteria for CML-AP, at diagnosis or during treatment, are being replaced by recognizing only the chronic and blast phases, because this new definition is better aligned with modern treatment practice.</p>",
+        "timestamp": "2023-03-24T17:17:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 103645,
+        "bookId": 44,
+        "chapterId": 466,
+        "headingId": 480,
+        "headingText": "<p>Although well established in adults, the usefulness of prognostic scores (e.g. Sokal, Hasford, EUTOS) at the time of diagnosis of CML {25814087; 27839566} has not been formally demonstrated in children {21670449}. However, the EUTOS long-term survival (ELTS) score showed better differentiation than other scores in paediatric CML in terms of progression-free survival {28838993}. Moreover, a slow rate of decrease of the transcript level could be an early identifier of children requiring an alternative treatment strategy {25170123}. Because of the rarity of paediatric CML, all patients should be enrolled into trials and registered in the International Registry on Pediatric CML {32874947}.</p>",
+        "timestamp": "2023-05-09T14:19:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

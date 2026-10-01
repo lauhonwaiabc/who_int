@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123635,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 607,
+        "headingText": "\r\n<p>Neurofibroma is a benign peripheral nerve sheath tumour consisting of mature neoplastic Schwann cells intermixed with non-neoplastic cell types.</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123636,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 608,
+        "headingText": "<p>9540/0 Neurofibroma, NOS</p>\r\n<p>9540/0 Ancient neurofibroma</p>\r\n<p>9540/0 Cellular neurofibroma</p>\r\n<p>9540/1 Atypical neurofibroma</p>\r\n<p>9540/0 Plexiform neurofibroma</p>",
+        "timestamp": "2024-10-24T15:31:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123637,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 609,
+        "headingText": "\r\n<p>2F37.Y &amp; XH87J5 Other specified benign neoplasm of endocrine glands &amp; Neurofibroma, NOS</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123638,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 610,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123639,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 611,
+        "headingText": "\r\n<p>Ancient neurofibroma; cellular neurofibroma; atypical neurofibroma; plexiform neurofibroma (see the <em>Soft tissue and bone tumours</em> or <em>Central nervous system tumours</em> volumes of this series)</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123640,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 612,
+        "headingText": "<p>Neurofibromas arising within endocrine organs are extremely rare, with only a few reported cases in the thyroid gland, adrenal gland, and pancreas {12067331; 22440272; 23744851; 24594377; 25657564}.</p>",
+        "timestamp": "2024-12-03T14:35:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123641,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 613,
+        "headingText": "\r\n<p>Sporadic and neurofibromatosis type&nbsp;1&ndash;associated neurofibromas of endocrine organs typically mimic more common primary tumours in those locations {12067331; 22440272; 23744851; 24594377; 25657564}.</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123642,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 614,
+        "headingText": "\r\n<p>Epidemiological studies of neurofibromas in endocrine organs do not exist, because of their rarity, although these tumours have been reported in both paediatric and adult patients.</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123643,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 615,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123644,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 616,
+        "headingText": "\r\n<p>Only the subpopulation of Schwann cells is considered neoplastic within neurofibromas {11438454}, and biallelic genetic inactivation of the tumour suppressor gene <em>NF1</em> in this Schwann cell population is generally the only recurrent somatic event detectable {25293717; 28068329}. Therefore, complete loss of function of the <em>NF1</em> gene product, neurofibromin (NF1), is considered a prerequisite for tumour development. Neurofibromin (NF1) is a negative regulator of RAS oncogenes {28666118}.</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123645,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 623,
+        "headingText": "\r\n<p>Neurofibromas are usually unencapsulated nodular or polypoid lesions. Cut surfaces are most often uniformly tan or grey, glistening, mucoid, semitranslucent, and firm.</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123646,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 617,
+        "headingText": "<p>Neurofibromas are unencapsulated tumours characterized by bland spindle cells with thin, wavy nuclei, representing the neoplastic Schwann cell, immersed in a variably loose myxoid stroma. The tumour cells are typically smaller than those of schwannoma. Stromal collagen is characteristic, often likened in classic pathology descriptions to shredded carrots. A variety of other cell components are also identifiable in neurofibroma, including perineurial and perineurial-like cells, fibroblasts, and mast cells. Nerve fibres are variably identifiable in intraneural subtypes, which are characterized by the expansion of single or multiple nerve fascicles; plexiform neurofibroma is associated with neurofibromatosis type&nbsp;1.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>Individual nerve fascicles are recognized by a peripheral EMA-positive perineurial layer. The neoplastic Schwann cells are positive for S100, SOX10, and collagen&nbsp;IV, albeit in smaller proportions than in schwannomas. Non-neoplastic cellular components include a limited number of EMA-positive and GLUT1-positive perineurial cells, as well as CD34-positive fibroblastic cells, this last component often forming a lattice-like network that is not seen in schwannomas.</p>",
+        "timestamp": "2024-10-09T15:39:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123647,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 618,
+        "headingText": "\r\n<p>Intraoperative smears and FNA specimens of neurofibroma are often paucicellular, owing to the increased collagen matrix. Nevertheless, the presence of a mucin-rich background and small spindled cells with thin, wavy nuclei can provide diagnostic clues.</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123648,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 619,
+        "headingText": "\r\n<p>Molecular analyses do not have an established role in the diagnosis of neurofibroma.</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123649,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> an infiltrative, low-cellularity spindle cell neoplasm associated with a variably myxoid to collagenous stroma.</p>\r\n<p><em>Desirable:</em> S100 positivity in the Schwann cell population, with CD34 highlighting a lattice-like stromal component.</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123650,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 620,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123651,
+        "bookId": 53,
+        "chapterId": 140,
+        "headingId": 621,
+        "headingText": "\r\n<p>Neurofibromas are benign, although plexiform neurofibromas in patients with neurofibromatosis type&nbsp;1 are at increased risk of transformation to malignant peripheral nerve sheath tumour.</p>",
+        "timestamp": "2024-10-09T15:38:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

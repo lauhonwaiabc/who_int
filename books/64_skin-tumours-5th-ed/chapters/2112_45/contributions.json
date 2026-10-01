@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 124754,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 764,
+        "headingText": "\r\n<p>Dysplastic naevus is a benign melanocytic naevus that is clinically atypical and characterized histologically by architectural disorder and cytological atypia.</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 124755,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 765,
+        "headingText": "\r\n<p>8727/0 Dysplastic naevus</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 124756,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 766,
+        "headingText": "\r\n<p>2F20.1 &amp; XH9035 Atypical melanocytic naevus &amp; Dysplastic naevus</p>\r\n<p>2F72.2 Melanocytic naevus with severe melanocytic dysplasia</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 124757,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 767,
+        "headingText": "\r\n<p><em>Acceptable:</em> naevus with architectural disorder and cytological atypia.</p>\r\n<p><em>Not recommended:</em> Clark naevus; large atypical naevus; atypical naevus.</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 124758,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 768,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 124759,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 769,
+        "headingText": "\r\n<p>Dysplastic naevi occur widely on skin surfaces; the most common site is the back {25171087}. They are uncommon on acral skin.</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 124760,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 770,
+        "headingText": "\r\n<p>The International Agency for Research on Cancer (IARC) consensus group definition requires the presence of a macular component and at least three of the following features: a non&ndash;well-defined border, size &ge;&nbsp;5&nbsp;mm, colour variegation, an uneven peripheral contour, and the presence of erythema {15617989}. The macular component often has a raised portion in the centre, resembling a fried egg or a target. These criteria partially overlap with those for melanoma. Dermoscopy and photographic follow-up and image analysis can improve the diagnostic accuracy of the clinical diagnosis {26568339}.</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 124761,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 771,
+        "headingText": "\r\n<p>Dysplastic naevi were first described in members of hereditary melanoma kindreds {646394} and later in patients with non-familial melanoma {7427881} and in people unaffected by melanoma {7247423}. In melanoma families, the trait of dysplastic naevi does not always cosegregate with melanoma risk.</p>\r\n<p>Dysplastic naevi appear during adolescence and their prevalence declines in older age {8315078}. Moderately and severely (but not mildly) dysplastic naevi are markers of melanoma risk, which increases with the size and number of dysplastic naevi {25454033}.</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 124762,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 772,
+        "headingText": "\r\n<p>Like other acquired naevi, dysplastic naevi result from sun exposure and constitutional factors such as light skin tone and poor tanning ability {25410285}. Associations between dysplastic naevi and various susceptibility genes have been identified.</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 124763,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 773,
+        "headingText": "\r\n<p>Dysplastic naevi on skin with a low degree of cumulative sun damage (CSD) mainly harbour <em>BRAF</em> p.V600E mutations, similar to acquired naevi, and any genetic alterations accounting for their dysplastic features have yet to be discovered. Lentiginous dysplastic naevi on high-CSD skin have other MAPK pathway mutations, sometimes accompanied by <em>TERT</em> promoter mutations {38371417}.</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 124764,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 780,
+        "headingText": "\r\n<p>See <em>Clinical features</em>, above.</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 124765,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 774,
+        "headingText": "<p>Melanocytic dysplasia comprises architectural disorder and cytological atypia {20055909}. Architectural disorder includes the presence of junctional shoulders adjacent to a dermal component, bridging of nests between adjacent elongated rete ridges, limited suprabasal scatter of melanocytes, concentric and lamellar fibroplasia, a patchy lymphocytic infiltrate {12920220}, or an increased size relative to common naevi (see <a style=\"cursor:pointer\" href=\"/attachment/64/45/36607\" target=\"_blank\">#36607</a>Table&nbsp;3.06). The pattern can be lentiginous and/or nested. Cytological atypia is characterized by enlargement of nuclei with varying degrees of irregularity, chromatin clumping and hyperchromatism, and variably prominent nucleoli. The degree of cytological atypia is judged by comparing the size of the nuclei with those of resting basal keratinocytes {9267239} (see <a style=\"cursor:pointer\" href=\"/attachment/64/45/36608\" target=\"_blank\">#36608</a>Table&nbsp;3.07). Mitoses are uncommon and raise the differential diagnosis of melanoma.</p>\r\n<h5>Grading of dysplastic naevi</h5>\r\n<p>Dysplastic naevi have been graded as mild, moderate, or severe; however, more recently, a two-grade system has been proposed, in which lesions with mild dysplasia have been removed and classified as common naevi. Lesions formerly termed moderate dysplasia are classified as low-grade, and severely dysplastic lesions as high-grade. The cytological and architectural criteria are summarized in <a style=\"cursor:pointer\" href=\"/attachment/64/45/36607\" target=\"_blank\">#36607</a>Table&nbsp;3.06 and <a style=\"cursor:pointer\" href=\"/attachment/64/45/36608\" target=\"_blank\">#36608</a>Table&nbsp;3.07 . Lesions &lt;&nbsp;5&nbsp;mm in diameter microscopically should not be classified as dysplastic naevi unless there is a clinical or gross measurement of &ge;&nbsp;5&nbsp;mm {25454033}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Immunohistochemistry is not typically necessary. Dysplastic naevi label with the melanocytic markers S100, melan-A, MITF, tyrosinase, and SOX10, which highlight the distribution of cells {15858113; 23197006; 25436903}. HMB45 shows gradually diminishing immunoreactivity from superficial to deeper cells {27377700}. The Ki-67 proliferation index is typically &lt;&nbsp;5%. Negative immunoreactivity for the cancer testis antigen PRAME can also assist in distinguishing dysplastic naevi from melanomas {33899766}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Dysplastic naevi occupy an intermediate position for histopathological features and diagnostic markers between common naevi and melanoma {15858113; 34023110}. The differential diagnosis includes simple lentigo, lentiginous naevus, or common naevus on the benign side, and melanoma on the other. Melanomas tend to have more pagetoid scatter or more extensive continuous basal (lentiginous) proliferations of atypical melanocytes, more severe and more uniform cytological atypia, mitotic activity, and failure of maturation of the dermal component {34023110}. Special-site naevi often have features of dysplastic naevi histopathologically {16446715}.</p>",
+        "timestamp": "2025-05-02T15:07:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 124766,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 775,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 124767,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 776,
+        "headingText": "\r\n<p>FISH {33899766} and gene expression profiling diagnostic tests {27174586} can provide additional adjunctive diagnostic information in difficult cases.</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 124768,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 779,
+        "headingText": "<p><em>Essential:</em> a naevus with architectural disorder and cytological atypia (see <a style=\"cursor:pointer\" href=\"/attachment/64/45/36607\" target=\"_blank\">#36607</a>Table&nbsp;3.06, and <a style=\"cursor:pointer\" href=\"/attachment/64/45/36608\" target=\"_blank\">#36608</a>Table&nbsp;3.07); exclusion of melanoma.</p>",
+        "timestamp": "2025-05-02T15:07:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 124769,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 777,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 124770,
+        "bookId": 64,
+        "chapterId": 45,
+        "headingId": 778,
+        "headingText": "\r\n<p>Dysplastic naevi are benign lesions. Clinical follow-up is sufficient for low-grade (mild to moderate) dysplasia {30304348}. Incompletely excised high-grade (severe) dysplastic naevi should be re-excised {31325549}.</p>\r\n<p>Dysplastic naevi are also markers of an increased risk for melanoma elsewhere on the skin {20055909}.</p>",
+        "timestamp": "2025-04-24T16:28:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123362,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 607,
+        "headingText": "\r\n<p>Small cell neuroendocrine carcinoma (SCNEC) is a malignant epithelial neoplasm composed of small cells with high mitotic and proliferation indexes. Most SCNECs express neuroendocrine differentiation markers. SCNEC may occur either in pure form or combined (mixed) with any other carcinoma histotype, demonstrating different site-specific prevalence for the various combinations.</p>\r\n",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123363,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 608,
+        "headingText": "<p>8041/3 Small cell neuroendocrine carcinoma</p>\r\n<p>8045/3 Combined small cell neuroendocrine carcinoma</p>",
+        "timestamp": "2024-12-13T12:25:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123364,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 609,
+        "headingText": "\r\n<p>2C25.1 Small cell carcinoma of bronchus or lung</p>\r\n<p>2C27.Y &amp; XH0YB0 Other specified malignant neoplasms of thymus &amp; Small cell carcinoma, NOS</p>\r\n<p>2C7Z &amp; XH0YB0 Malignant neoplasms of female genital organs, unspecified &amp; Small cell carcinoma, NOS</p>\r\n",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123365,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> neuroendocrine carcinoma (NEC), small cell type.</p>\r\n<p><em>Not recommended:</em> oat cell carcinoma; intermediate cell type small cell carcinoma; microcytoma.</p>\r\n",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123366,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 611,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123367,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 612,
+        "headingText": "<p>SCNEC may arise in every epithelial organ/tissue. Site-specific main features are detailed in Table <a style=\"cursor:pointer\" href=\"/attachment/53/121/26830\" target=\"_blank\">#26830</a>&nbsp;and Table <a style=\"cursor:pointer\" href=\"/attachment/53/121/26831\" target=\"_blank\">#26831</a>. SCNECs most frequently arise in the lung, outnumbering the extrapulmonary locations&nbsp;10:1 {29211313}. The most frequent sites of extrapulmonary SCNEC include the female genital (26%), gastrointestinal (23%), and genitourinary (19%) tracts, and the head and neck (16%); in 13% of cases, the primary site is unknown {20052730}.</p>",
+        "timestamp": "2024-11-20T16:10:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123368,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 613,
+        "headingText": "\r\n<p>SCNEC is a rapidly growing neoplasm with signs and symptoms related to the obstruction/infiltration of surrounding structures, or (often) to the presence of distant metastases. Paraneoplastic syndromes occur in approximately 10% of lung cases, with hyponatraemia, Cushing syndrome, and Lambert&ndash;Eaton myasthenic syndrome {25114839; 28767671}. In extrapulmonary SCNECs, inappropriate vasopressin (antidiuretic hormone) secretion in bladder and cervical SCNEC {31888898; 33596689} and Lambert&ndash;Eaton myasthenic syndrome in thymic SCNEC are described {31586614}.</p>\r\n",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123369,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 614,
+        "headingText": "\r\n<p>Pulmonary SCNEC age-adjusted incidence rates show a decline from 8.6&nbsp;cases per 100&nbsp;000&nbsp;person-years in 1988 to 5.3&nbsp;cases per 100&nbsp;000&nbsp;person-years in 2015, an inverse trend to that of all other pulmonary neuroendocrine neoplasms (NENs) {33916960}. The incidence of extrapulmonary SCNECs is difficult to estimate; in the United Kingdom it has been calculated as 0.45&nbsp;cases per 100&nbsp;000&nbsp;person-years in males and 0.37&nbsp;cases per 100&nbsp;000&nbsp;person-years in females in 2000&ndash;2004 {19563623}.</p>\r\n",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123370,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 615,
+        "headingText": "\r\n<p>Heavy smoking is the main risk factor for pulmonary SCNEC and is suggested to play a role at other locations too. SCNEC may also arise as the result of histological transformation after therapy with various agents such as tyrosine kinase inhibitors in oncogene-addicted non-small cell lung cancers {33714778} or androgen deprivation in prostate cancer {30557524}. HPV infection has been associated with SCNEC in the uterine cervix.</p>\r\n",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123371,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 616,
+        "headingText": "\r\n<p>Biallelic inactivation of <em>TP53</em> and/or <em>RB1</em> is by far the most common genomic alteration in SCNEC, irrespective of the primary site. Associated alterations vary depending on the site of origin. At the transcriptional level, pulmonary SCNECs have been classified into four major classes, each with a different prominence of neuroendocrine marker expression and potential clinical implications for therapy {33011388; 33209646}. In other systems, SCNEC of the urinary tract {33457262} was classified into a specific molecular group with potential but unvalidated clinical impact. Even without prior therapy, SCNEC can arise as a component of a non-neuroendocrine carcinoma, presumably reflecting clonal genomic evolution.</p>\r\n",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123372,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 623,
+        "headingText": "\r\n<p>Irrespective of the site, SCNEC presents as a poorly circumscribed necrotic mass, with a soft or firm consistency depending on the amount of stroma, and with infiltration of the surrounding tissues.</p>\r\n",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123373,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 617,
+        "headingText": "<p>Small cell size is usually defined as smaller than three resting lymphocytes and should be predominant (&gt;&nbsp;90% of the tumour); a minor component of larger or giant cells does not preclude an SCNEC diagnosis. Definitional cytological characteristics are the presence of scant cytoplasm with poorly defined borders and finely granular nuclear chromatin with no evident nucleoli. Nuclei are often fusiform. The architecture is sheet-like or diffuse. However, in surgically resected samples, SCNEC may show more overt neuroendocrine growth patterns such as nests or trabeculae {12218575}. Necrosis is frequent and often extensive. Apoptotic bodies are usually conspicuous. The mitotic count is high, averaging &gt;&nbsp;50&nbsp;mitoses/2&nbsp;mm<sup>2</sup>, with definitional cut-off points of &gt;&nbsp;10&nbsp;mitoses/2&nbsp;mm<sup>2</sup> in the lung and thymus and &gt;&nbsp;20&nbsp;mitoses/2&nbsp;mm<sup>2</sup> in the digestive system.</p>\r\n<h6><em>Immunophenotype</em></h6>\r\n<p>Cytokeratin (pancytokeratin and/or low-molecular-weight cytokeratin) expression may be diffuse or focal in a dot-like paranuclear pattern. Neuroendocrine differentiation by at least one positive neuroendocrine marker (in a panel including chromogranin&nbsp;A, synaptophysin, and INSM1) is present in the majority of cases. Despite INSM1 proving the most sensitive in different locations, a small proportion of SCNECs, more frequently in the lung, urinary tract, and head and neck, may be completely negative for neuroendocrine markers {28719469; 31876605; 29438167}. Thyroid transcription factor&nbsp;1 (TTF1) is not a lung primary&ndash;specific marker. CDX2 expression may indicate a gastrointestinal origin but should be interpreted in an appropriate clinical context. SCNECs in the urinary tract and prostate have variable (most frequently negative) expression of GATA3 and NKX3-1, respectively. Aberrant immunolabelling for p53 is very common, as is loss of RB1 immunoexpression, reflecting the most common molecular alterations in this neoplasm. The Ki-67 labelling index is very high, &gt;&nbsp;75% in most cases, and by definition &gt;&nbsp;20% in gastroenteropancreatic SCNECs. After therapy, however, the Ki-67 index may be reduced, even into the range typical for G2 (3&ndash;20%) or G1 (&lt;&nbsp;3%) neuroendocrine tumours (NETs) {33177340}.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>The diagnosis of SCNEC in the appropriate pathological and clinical context is usually easily established on surgical material but may be challenging in the preoperative setting. On small, crushed biopsies or cytological samples, SCNEC may be difficult to distinguish from other NENs, including carcinoids/NETs. A low Ki-67 index and intense diffuse expression of chromogranin&nbsp;A suggest a NET. The distinction between SCNEC and large cell neuroendocrine carcinoma (LCNEC) is based on cytological features (see <a style=\"cursor:pointer\" href=\"/chaptercontent/53/122\" target=\"_blank\">section </a><em>Large cell neuroendocrine carcinoma</em>) and can be very challenging, especially in extrapulmonary locations {18360283}. Merkel cell carcinoma may be distinguished on the basis of CK20 expression and its peculiar immunoprofile (see <a style=\"cursor:pointer\" href=\"/chaptercontent/53/212\" target=\"_blank\">section </a><em>Merkel cell carcinoma</em>) {30067951; 30349028; 31233624}. SCNEC should be distinguished from other small cell neoplasms, including lymphomas, melanomas, small cell sarcomas (i.e. osteosarcoma), or basaloid squamous cell carcinomas. A panel of pertinent immunohistochemical markers is conclusive in most cases. A more problematic issue are small cell neoplasms that can express epithelial and neuronal/neuroendocrine markers, such as the ubiquitous Ewing sarcoma family of tumours, which is characterized by the coexpression of FLI1 and CD99, retained RB1 expression, and the presence of <em>EWSR1</em> (or, more rarely, <em>CIC</em> or <em>BCOR</em>) fusions. In specific subsites, the range of differential diagnoses may include other entities, such as olfactory neuroblastoma in the sinonasal tract, <em>YWHAE</em>::<em>NUTM2A</em> or <em>NUTM2B</em>-translocated high-grade endometrial stromal sarcoma in the uterus, and hypercalcaemic-type small cell carcinoma in the ovary, this last entity representing a non-neuroendocrine <em>SMARCA4</em>-mutated cancer. In metastatic diseases, the primary origin is nearly always impossible to determine from pathological criteria alone. At variance with well-differentiated NETs, the expression of lineage-specific transcription factors in SCNEC is not organ-specific {10792482}.</p>",
+        "timestamp": "2024-10-09T15:14:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123374,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 618,
+        "headingText": "<p>Neoplastic cells are present, with scant cytoplasm, oval or spindle shape, and speckled fine and coarse chromatin with absent or inconspicuous nucleoli, arranged in a loosely cohesive pattern or small tissue fragments. The presence of necrotic debris and apoptotic bodies is also frequent. Mitotic figures may be difficult to assess on smears. Nuclear moulding and chromatin streaking are typical. Cytological features may differ according to different sampling methods (e.g. FNAB for breast, brushings for lung central lesions, or urines for the urinary tract), therefore standardization of preanalytical conditions is essential.</p>",
+        "timestamp": "2024-12-13T12:28:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123375,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 619,
+        "headingText": "\r\n<p>No molecular tests are essential for the diagnosis.</p>\r\n",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123376,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> small cell epithelial neoplasm with high-grade features (definitional mitotic counts in lung and thymus and digestive system); finely granular nuclear chromatin with no prominent nucleoli.</p>\r\n<p><em>Desirable:</em> neuroendocrine differentiation, defined by positive neuroendocrine markers; a high proliferation index (Ki-67 index &gt;&nbsp;30%, most frequently &gt;&nbsp;75%; by definition &gt;&nbsp;20% in tumours of the digestive system); p53 immunohistochemical overexpression and/or RB1 protein loss; negative immunolabelling for SSTR2.</p>\r\n",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123377,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 620,
+        "headingText": "\r\n<p>Site-specific TNM staging follows the rules for non-neuroendocrine carcinomas.</p>\r\n",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123378,
+        "bookId": 53,
+        "chapterId": 121,
+        "headingId": 621,
+        "headingText": "\r\n<p>SCNEC is a highly aggressive and lethal neoplasm irrespective of the site of origin, with a high predisposition for distant metastases, mainly in the liver, bone, brain, lung, and adrenal gland. Pulmonary SCNECs are diagnosed at stage&nbsp;IV in the majority of cases and have a 5-year survival rate of 2%. The prognosis of extrapulmonary SCNECs is generally slightly better than that of SCNECs in the lung, although it varies depending on site. The 1-, 3-, and 5-year overall survival rates for extrapulmonary SCNEC are 41.3%, 17.7%, and 12.8%, respectively {33135938}. Favourable prognostic factors include an origin in the breast or the head and neck, younger age, female sex, localized stage, and treatment by surgery or combinatory radiochemotherapy as compared with chemotherapy alone {33135938; 32336623}.</p>",
+        "timestamp": "2024-10-09T15:14:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

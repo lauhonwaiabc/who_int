@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 68593,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 432,
+        "headingText": "<p>Classic Hodgkin lymphoma (CHL) is a clonal, malignant B-cell lymphoid proliferation in which a minority of malignant cells with a characteristic immunophenotype, termed Hodgkin/Reed&ndash;Sternberg (H/RS) cells, reside in a mixed inflammatory background.</p>",
+        "timestamp": "2022-10-07T14:19:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 68594,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 433,
+        "headingText": "<p>9650/3 Classic Hodgkin lymphoma, NOS</p>\r\n<p>9663/3 Classic Hodgkin lymphoma, nodular sclerosis</p>\r\n<p>9652/3 Classic Hodgkin lymphoma, mixed cellularity</p>\r\n<p>9651/3 Classic Hodgkin lymphoma, lymphocyte-rich</p>\r\n<p>9653/3 Classic Hodgkin lymphoma, lymphocyte depletion</p>",
+        "timestamp": "2021-01-04T13:09:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 68595,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 434,
+        "headingText": "\r\n<p>2B30.1 Classical Hodgkin lymphoma</p>\r\n",
+        "timestamp": "2020-12-03T10:31:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 68596,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Acceptable:</em> Hodgkin disease.</p>\r\n",
+        "timestamp": "2020-12-03T10:31:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 68597,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 436,
+        "headingText": "\r\n<p>Nodular sclerosis; mixed cellularity; lymphocyte-rich; lymphocyte-depleted</p>\r\n",
+        "timestamp": "2020-12-03T10:31:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 68598,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 437,
+        "headingText": "<p>CHL most commonly involves the anterior (prevascular) mediastinum, including the thymus, as well as cervical, supraclavicular, mediastinal, and hilar lymph nodes {16236967}. Lung involvement may occur independently {3943043}.</p>",
+        "timestamp": "2021-01-11T11:51:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 68599,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 438,
+        "headingText": "<p>Most patients present with painless, frequently indurated lymphadenopathy. Mediastinal involvement may be asymptomatic and detected on a routine chest X-ray or may occur as bulky disease with symptoms related to the local mass, such as dyspnoea or superior vena cava syndrome {16236967; 27441757}. Laboratory findings are nonspecific and can include leukocytosis, eosinophilia, and elevated LDH. About 30&ndash;40% of patients have B&nbsp;symptoms.</p>",
+        "timestamp": "2021-02-09T14:40:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 68600,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 439,
+        "headingText": "<p>CHL accounts for about 15&ndash;25% of all malignant lymphomas. In the mediastinum, nodular sclerosis classic Hodgkin lymphoma (NSCHL) constitutes 50&ndash;70% of all lymphomas, which represent 20% of all mediastinal tumours {27441757}. NSCHL shows a slight female preponderance, and it is most prevalent between the ages of 15 and 34&nbsp;years {8922237; 12401681; 8836402}.</p>",
+        "timestamp": "2021-01-20T16:26:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 68601,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 440,
+        "headingText": "\r\n<p>The etiology of CHL is unknown, but 20% to almost 100% of cases of CHL are associated with EBV, depending on age, ethnicity, socioeconomic status, subtype, and presence of immunosuppression {2536894; 31186275}. In EBV-positive cases, the virus is present in episomal form in H/RS cells and shows viral type&nbsp;II latency with expression of LMP1, indicating an etiological role of the virus {1647016}.</p>\r\n",
+        "timestamp": "2020-12-03T10:31:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 68602,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 441,
+        "headingText": "\r\n<p>H/RS cells are germinal-centre B&nbsp;cells with somatically hypermutated IG genes, absence of immunoglobulin expression, and lack of a B-cell gene expression programme {10637266; 27496304; 12393731}. Thymic CHL is thought to originate from specialized thymic B&nbsp;cells {12975453; 16224207; 30540571}. H/RS cells show constitutive activation of NF-&kappa;B and other growth- and survival-promoting signalling pathways and produce a plethora of cytokines and chemokines responsible for the inflammatory infiltrate, systemic symptoms, and generation of a protective microenvironment {21368758; 21483001; 27496304}.</p>\r\n",
+        "timestamp": "2020-12-03T10:31:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 68603,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 448,
+        "headingText": "\r\n<p>Lymph nodes involved by CHL may have a nodular appearance, with fibrotic bands and induration in NSCHL. Thymic involvement may manifest as a multilocular cystic mass {4001419; 10549032; 27441757}.</p>\r\n",
+        "timestamp": "2020-12-03T10:31:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 68604,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 442,
+        "headingText": "<p>The main feature of CHL is the presence of pathognomonic H/RS cells and variants in a mixed inflammatory background. Classic Reed&ndash;Sternberg cells are binucleated or multinucleated large cells showing nuclei with open chromatin and large, eosinophilic nucleoli and eosinophilic or amphophilic cytoplasm. The mononuclear variant is called a Hodgkin cell. In NSCHL, the dominant neoplastic cell is the lacunar cell, characterized by spiderweb-like retracted cytoplasm surrounded by a clear space, as well as frequently lobulated nuclei with less prominent nucleoli. The frequency of neoplastic cells and the composition of the background may vary significantly, depending on the CHL subtype. The most common subtype is NSCHL, especially in mediastinum, with cellular nodules containing H/RS cells, lymphocytes, eosinophils, neutrophils, and histiocytes, surrounded by dense collagen fibres {19390308} [[Swerdlow SH, Campo E, Harris NL, et al., editors. WHO classification of tumours of haematopoietic and lymphoid tissues. Lyon (France): International Agency for Research on Cancer; 2017. (WHO classification of tumours series, 4th rev. ed.; vol. 2). https://publications.iarc.fr/556.]]. Necrosis and microabscesses are frequent. Cases with dominant fibrosis and rare neoplastic elements may present a diagnostic challenge, especially in core needle biopsies {10823620; 12623044}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>The most useful immunophenotypic markers for H/RS cells are CD30 and CD15, which are positive in almost 100% and 75&ndash;85% of cases, respectively. H/RS cells typically show weak to moderate positivity for PAX5, whereas other B-cell markers, including CD20 and the transcription factors OCT2 and BOB1, are either negative or weakly positive in a minority of tumour cells. They express IRF4 (MUM1) and fascin. LMP1 is expressed in EBV-positive cases, with NSCHL showing a positivity rate of 10&ndash;25%. CD45, ALK, and EMA are negative {19390308}. PDL1 expression is activated by genetic alterations and represents a potential therapeutic target {27069084; 31894883; 30407610}. The background lymphoid population in NSCHL shows a dominance of CD4+ T&nbsp;cells {10961891}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>H/RS-like cells can occur in a variety of non-Hodgkin lymphomas and reactive conditions, including EBV-associated lymphoid proliferations {21385849; 29518976}. In the mediastinum, the presence of sheets of tumour cells with a preserved B-cell programme raises the differential diagnosis of primary mediastinal large B-cell lymphoma or mediastinal grey zone lymphoma {23281436; 30540571; 27758822; 16224207}. Cases with distinct, separate areas of both CHL and primary mediastinal large B-cell lymphoma should be diagnosed as composite lymphoma.</p>",
+        "timestamp": "2021-01-11T11:52:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 68605,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 443,
+        "headingText": "\r\n<p>FNA specimens show H/RS cells in a mixed inflammatory background, but cytology and flow cytometry are of limited use for diagnosis of CHL {11842377}.</p>\r\n",
+        "timestamp": "2020-12-03T10:31:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 68606,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 444,
+        "headingText": "\r\n<p>Molecular studies are not required and are currently of limited diagnostic use. Although the presence of a major clonal B-cell or T-cell population argues against a CHL diagnosis, clonal B-cell populations can be detected in a substantial percentage of CHL cases by sensitive PCR techniques {20551274; 18382369}.</p>\r\n",
+        "timestamp": "2020-12-03T10:31:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 68607,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Scattered H/RS cells with typical immunophenotype (CD30+, CD15+/&minus;, PAX5+ [weak], CD20&minus;/+, ALK&minus;)</li>\r\n<li>An appropriate inflammatory background</li>\r\n</ul>",
+        "timestamp": "2021-01-29T08:47:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 68608,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 445,
+        "headingText": "<p>Staging is performed according to the Lugano classification and relevant for the selection of therapy {25113753}. About 75&ndash;80% of patients present with stage&nbsp;I or II; the spleen is involved in 10% of all cases, and bone marrow involvement is rare (&lt;&nbsp;5%) {7844601; 21877882}.</p>",
+        "timestamp": "2021-02-09T14:41:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 68609,
+        "bookId": 35,
+        "chapterId": 279,
+        "headingId": 446,
+        "headingText": "\r\n<p>With modern chemotherapy regimens, 80&ndash;90% of patients with CHL can be cured {29194581}. Stage is the most important predictor of outcome, but complete remission is also achieved in the majority of stage&nbsp;IV patients, and avoidance of complications (including second neoplasms) is of major importance. Neither the histological subtype nor the many investigated biological and histological parameters are relevant for prognostication in clinical practice {9029020; 24316907}.</p>",
+        "timestamp": "2020-12-03T10:31:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

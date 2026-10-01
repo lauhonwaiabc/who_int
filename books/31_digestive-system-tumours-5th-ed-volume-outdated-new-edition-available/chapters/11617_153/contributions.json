@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 55395,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 159,
+        "headingText": "<p>Serotonin-producing neuroendocrine tumour (NET) is a well-differentiated pancreatic neuroendocrine neoplasm (PanNEN) composed of cells that express serotonin, which in some cases produces carcinoid syndrome, usually after metastasizing to the liver.</p>",
+        "timestamp": "2019-04-29T19:27:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 55396,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 160,
+        "headingText": "<p>8241/3 Serotonin-producing tumour</p>",
+        "timestamp": "2021-11-22T16:53:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 55397,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 161,
+        "headingText": "\r\n<p>2C10.1 &amp; XH7NM1 Neuroendocrine neoplasms of pancreas &amp; Enterochromaffin cell carcinoid (includes serotonin-producing carcinoid)</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 55398,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 162,
+        "headingText": "\r\n<p><em>Not recommended:</em> pancreatic carcinoid.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 55399,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 163,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 55400,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 164,
+        "headingText": "\r\n<p>There is no site predilection within the pancreas; however, ductocentric examples of non-syndromic serotonin-producing neoplasms have been reported {21705949; 22221702}.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 55401,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 165,
+        "headingText": "\r\n<p>Carcinoid syndrome is usually present only when there are liver metastases, but rare cases with carcinoid syndrome without liver metastasis have been reported {28454406}. Most patients with functioning tumours present with atypical carcinoid syndrome, with abdominal pain being the most common symptom (66%), followed by diarrhoea (52%), weight loss (45%), and flushing (34%) {8758239}. Only one case with cardiac valve disease has been reported in the literature {29040196}. The diagnosis is confirmed by demonstrating high urinary 5-HIAA excretion.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 55402,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 166,
+        "headingText": "\r\n<p>Pancreatic serotonin-producing tumours are extremely rare, and those responsible for carcinoid syndrome are even rarer {16104045}. Serotonin-immunoreactive tumours account for 0.58&ndash;4.1% of all pancreatic NETs (PanNETs) {21705949; 25602797; 22221702; 28422824}. Only slightly more than 50&nbsp;well-documented functioning neoplasms have been reported {21705949}. They are more common in females than males. The mean ages of patients with functioning and non-functioning tumours, respectively, are 41&nbsp;years and 56&nbsp;years {21705949}.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 55403,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 167,
+        "headingText": "\r\n<p>There are no known etiological factors. No association with genetic syndromes has been documented.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 55404,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 168,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 55405,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 207,
+        "headingText": "\r\n<p>Most are large (1&ndash;6&nbsp;cm {21705949; 16104045}) and do not have distinctive gross features. Functioning tumours are usually larger than non-functioning tumours (mean diameters: 5.2&nbsp;cm vs 4.2&nbsp;cm) {21705949}. There have been reports of rare small non-syndromic serotonin-producing tumours centred on the main pancreatic duct that cause dilation of the upstream duct system, mimicking an intraductal papillary mucinous neoplasm {21862776; 21431402}.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 55406,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 169,
+        "headingText": "\r\n<p>Most serotonin-producing tumours are well differentiated, G1 or G2 with rare mitosis; very exceptional cases of poorly differentiated neoplasms have been reported {21705949}. However, vascular, perineural, and adjacent organ/structural invasion is frequent, with rare tumour necrosis. Serotonin-producing PanNETs usually do not resemble their intestinal counterparts. The neoplastic cells are frequently arranged in a trabecular pattern and less frequently in solid nests, with variable amounts of stroma {21705949; 22221702}. The stroma is prominent in ductocentric tumours {22221702}. Phenotypically and ultrastructurally, neoplastic cells resemble gastric-type and not intestinal-type enterochromaffin cells (EC cells): unlike their intestinal counterparts, they rarely express substance&nbsp;P, aFGF, VMAT1, and CDX2, but they usually express serotonin and VMAT2 {21705949}. SSTR2A is usually detectable by immunohistochemistry {21705949}.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 55407,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 170,
+        "headingText": "\r\n<p>The cytology is not different from that of typical PanNET. The neoplastic cells contain finely granular cytoplasm and monomorphic round nuclei.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 55408,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 171,
+        "headingText": "\r\n<p>The only genetic alterations described to date are monosomy and rearrangements of chromosome&nbsp;18 {21705949}.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 55409,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 174,
+        "headingText": "\r\n<p><em>Essential:</em> clinical syndrome; NET histology.</p>\r\n",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 55410,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 172,
+        "headingText": "<p>The staging of serotonin-producing NETs, like that of all PanNENs, follows the eighth editions (2017) of the Union for International Cancer Control (UICC) TNM classification [[Brierly JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley Blackwell; 2017.]] and the American Joint Committee on Cancer (AJCC) cancer staging manual [[Amin MB, Edge S, Greene F, et al., editors. AJCC cancer staging manual. 8th ed. New York (NY): Springer; 2017.]] {28752469}, which rely on macroscopic assessment of site, tumour size, and metastases. This approach largely corresponds to that of the European Neuroendocrine Tumor Society (ENETS) classification {22525418}. The staging of well-differentiated&nbsp;PanNENs is presented in <a style=\"cursor:pointer\" href=\"/chaptercontent/31/1\" target=\"_blank\">section </a>Chapter&nbsp;1.</p>",
+        "timestamp": "2019-06-07T15:15:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 55411,
+        "bookId": 31,
+        "chapterId": 153,
+        "headingId": 173,
+        "headingText": "\r\n<p>Serotonin-producing tumours do not differ substantially from non-functioning PanNENs in terms of size, Ki-67 proliferation index, or distant metastases {22221702}. Functioning tumours are associated with a poorer prognosis than non-functioning ones, because they are almost always metastatic {21705949}.</p>",
+        "timestamp": "2019-03-27T15:08:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

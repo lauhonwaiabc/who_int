@@ -1,0 +1,106 @@
+[
+  {
+    "pkroleId": 137,
+    "bookId": "52",
+    "roleid": 156,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 3160,
+        "lastname": "Tilakaratne ",
+        "firstname": "Wanninayake M.",
+        "initials": "",
+        "email": "",
+        "roleid": 156,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 138,
+    "bookId": "52",
+    "roleid": 157,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3116,
+        "lastname": "Lewis Jr.",
+        "firstname": "James S.",
+        "initials": "",
+        "email": "",
+        "roleid": 157,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 139,
+    "bookId": "52",
+    "roleid": 158,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 1998,
+        "lastname": "Chan",
+        "firstname": "John K.C.",
+        "initials": "JKC",
+        "email": "",
+        "roleid": 158,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 140,
+    "bookId": "52",
+    "roleid": 159,
+    "roleTitle": "Co-Author(s)",
+    "contributors": [
+      {
+        "contributorid": 3137,
+        "lastname": "Petersson",
+        "firstname": "Bengt Fredrik",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 3758,
+        "lastname": "Bray",
+        "firstname": "Freddie",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 4000,
+        "lastname": "Lee",
+        "firstname": "Anne W.M.",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 4561,
+        "lastname": "Rajadurai",
+        "firstname": "Pathmanathan",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      },
+      {
+        "contributorid": 4603,
+        "lastname": "Lo",
+        "firstname": "Kwok Wai",
+        "initials": "",
+        "email": "",
+        "roleid": 159,
+        "position": 0
+      }
+    ]
+  }
+]

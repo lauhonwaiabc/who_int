@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1174,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 795,
+    "contributions": [
+      {
+        "pkcontributionId": 158041,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 795,
+        "headingText": "\r\n<p><em>NF2</em>-related schwannomatosis (previously termed neurofibromatosis type&nbsp;2 [NF2]) is an autosomal dominant disease caused by a pathological sequence variant of the <em>NF2</em> gene, characterized by multiple benign tumours and dysplastic/hamartomatous lesions in the nervous system, including multiple schwannomas (particularly bilateral vestibular schwannomas), meningiomas, and spinal ependymomas.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1175,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "MIM numbering",
+    "headingPosition": 2,
+    "headingid": 796,
+    "contributions": [
+      {
+        "pkcontributionId": 158042,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 796,
+        "headingText": "\r\n<p>101000 Neurofibromatosis, type&nbsp;II; NF2</p>\r\n",
+        "timestamp": "2026-09-02T11:49:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1176,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 797,
+    "contributions": [
+      {
+        "pkcontributionId": 158043,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 797,
+        "headingText": "\r\n<p>LD2D.11 Neurofibromatosis type&nbsp;2</p>\r\n",
+        "timestamp": "2026-09-02T11:49:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1177,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 798,
+    "contributions": [
+      {
+        "pkcontributionId": 158044,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 798,
+        "headingText": "\r\n<p><em>Acceptable</em>: bilateral acoustic neurofibromatosis; central neurofibromatosis; neurofibromatosis type&nbsp;2.</p>\r\n<p><em>Not recommended</em>: von Recklinghausen disease.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1178,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 799,
+    "contributions": [
+      {
+        "pkcontributionId": 158045,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 799,
+        "headingText": "\r\n<p>Wishart phenotype (severe); Gardner phenotype (mild)</p>\r\n",
+        "timestamp": "2026-09-02T11:49:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1179,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 800,
+    "contributions": [
+      {
+        "pkcontributionId": 158046,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 800,
+        "headingText": "\r\n<p>Tumours and hamartomas associated with NF2 affect all locations of the central and peripheral nervous systems.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1180,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 801,
+    "contributions": [
+      {
+        "pkcontributionId": 158047,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 801,
+        "headingText": "\r\n<p>Patients with NF2 often present in early adulthood, although the disease can manifest in childhood. The most common presentation in adults is with symptoms relating to a vestibular schwannoma (hearing loss, tinnitus, or imbalance). Presentation with vestibular schwannomas is uncommon in children (15%) whereas cutaneous schwannomas (NF2 plaques) and ocular abnormalities are more frequent {10569966}. NF2 mosaicism, in which a somatic mutation occurs during embryogenesis, has variable phenotypes depending on the cell lineages involved and may have clinical symptoms overlapping with schwannomatosis {23401320}.</p>\r\n<h5>Clinical diagnostic criteria</h5>\r\n<p>The original clinical diagnostic criteria for NF2 established at the US National Institutes of Health (NIH) Consensus Development Conference on neurofibromatosis in 1987 {3128965} were revised several times (see <a style=\"cursor:pointer\" href=\"/attachment/67/246/37564\" target=\"_blank\">#37564</a>Box 2.03). A revision in 2022 proposed the incorporation of genetic criteria to supplement the clinical criteria, aiming to better distinguish between overlapping phenotypes of schwannomatosis and patients with NF2 {21451418;1484939;9207339}, particularly between NF2 mosaicism, early NF2, and schwannomatosis {23401320}.</p>\r\n<h5>Schwannomas</h5>\r\n<p>NF2-associated schwannomas occur in young adults and many patients develop bilateral vestibular schwannomas by their fourth decade of life {1484939;3125435}. Recent studies with high-resolution MRI showed that, in many cases, patients have multiple discrete tumour nodules along both the superior and inferior vestibular nerve branches, as well as along the cochlear and facial nerves {26104281}. In some cases, tumours are a coalescence of multiple nodules/tumours, each with its own somatic <em>NF2</em> mutation or deletion {25452392}. This explains the characteristic gross and microscopic feature of multinodularity {8440992} as well as the observed lower rates of surgical efficacy and higher rates of surgical complications than in cases of sporadic vestibular schwannoma {24724714;16147576}. In addition to the eighth cranial nerve, other sensory and motor nerves may be affected {1484939;7670657}. Patients with NF2 may also have numerous small Schwann cell tumourlets on peripheral nerves and spinal nerves, which despite their small size show biallelic <em>NF2</em> inactivation, suggestive of precursor neoplastic lesions {9862639}. Plexiform schwannomas are common and may involve large plexuses (brachial, sacral), skin, or subcutaneous tissues. Cutaneous plexiform schwannomas are common in paediatric patients and are characteristically associated with a pigmented, plaque-like lesion {1484939;3125435;29322178}.</p>\r\n<h5>Meningiomas</h5>\r\n<p>Multiple meningiomas are the second hallmark of NF2, affecting half of all patients {7670657}. NF2-associated meningiomas can occur throughout the meninges, but they are more common in intracranial compartments {28640700;31161239}. They occur earlier in life than sporadic meningiomas {7747758} and may be the presenting feature, especially in paediatric patients {10569966;1484939;3125435}.</p>\r\n<h5>Gliomas</h5>\r\n<p>NF2 spinal ependymomas are multiple, intramedullary, slow-growing, asymptomatic masses {4957904} [[Russell DS, Rubinstein LJ. Pathology of tumours of the nervous system. 5th ed. London (UK): Edward Arnold; 1989. Bookref]]. Most (70&ndash;80%) occur in the cervicomedullary junction or cervical spine {11161159;7676998}. Diffuse and pilocytic astrocytomas have been reported in NF2, but they probably constitute misdiagnosed tanycytic ependymomas {22394059}.</p>\r\n<h5>Meningioangiomatosis</h5>\r\n<p>Meningioangiomatosis is a cortical lesion characterized by a plaque-like proliferation of perivascular meningothelial and fibroblast-like cells. It occurs both sporadically and in NF2. NF2-associated meningioangiomatosis may be multifocal and often asymptomatic, diagnosed only at autopsy {9143261}. Meningioangiomatosis may be predominantly vascular or predominantly meningothelial, sometimes with an associated meningioma, although most cases of the latter probably represent meningiomas with perivascular spread along Virchow&ndash;Robin spaces {15779237}.</p>\r\n<h5>Glial hamartias (also called microhamartomas)</h5>\r\n<p>These are circumscribed cellular clusters of the neocortex with large, atypical nuclei. They are scattered throughout the cortex and basal ganglia, and they show strong S100 immunoreactivity but only focal GFAP positivity. Glial hamartias are common in and pathognomonic of NF2 {3105387;2596263} and are not associated with mental retardation or gliomas. The hamartias are usually intracortical but have also been observed in the basal ganglia, thalamus, cerebellum, and spinal cord {2596263}. Merlin (NF2) expression is retained in glial hamartias, suggesting that haploinsufficiency during development underlies these malformations {9184664}.</p>\r\n<h5>Peripheral neuropathies</h5>\r\n<p>Neuropathies not related to tumour masses are increasingly recognized as a common feature of NF2 {16455525;7670657}. Mononeuropathies may be the presenting symptom in children {10569966}, whereas progressive polyneuropathies are more common in adults. Sural nerve biopsies from patients with NF2 suggest that NF2 neuropathies are mostly axonal and may be due to focal nerve compression by Schwann cell tumourlets or to onion-bulb&ndash;like Schwann cell or perineurial cell proliferations without associated axons {11960890;2156160}.</p>\r\n<h5>Ophthalmological manifestations</h5>\r\n<p>Posterior lens opacities are common in children (juvenile posterior cataract) and highly characteristic of NF2. A variety of retinal abnormalities, including hamartomas, tufts, dysplasias, and epiretinal membranes, may also be found {12210058;32537663}.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1181,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 802,
+    "contributions": [
+      {
+        "pkcontributionId": 158048,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 802,
+        "headingText": "\r\n<p>NF2 affects 2.5&ndash;4 individuals per 100&nbsp;000 population {15699726}. There is no evidence of race or sex preference.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1182,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 803,
+    "contributions": [
+      {
+        "pkcontributionId": 158049,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 803,
+        "headingText": "\r\n<p>NF2 is an autosomal dominant disease caused by inactivation of the <em>NF2</em> gene. About half of all NF2 cases are sporadic, occurring in individuals with no family history and caused by newly acquired germline variants. More than 50% of de&nbsp;novo cases are somatic mosaics, where the pathogenic variant is present only in some of the individual&rsquo;s cells {31273341;12566519;8453669}.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1183,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 804,
+    "contributions": [
+      {
+        "pkcontributionId": 158050,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 804,
+        "headingText": "\r\n<h5>The NF2 gene</h5>\r\n<p>The <em>NF2</em> gene maps to chromosome&nbsp;22 {8379998;8453669}, spans 110&nbsp;kb, and consists of 17&nbsp;exons. <em>NF2</em> mRNA transcripts encode at least two protein forms generated by alternative splicing at the C-terminus. The predominant gene product, merlin (NF2), encoded by exons 1&ndash;15 and 17, is a cytoskeletal protein with intramolecular interactions similar to those of the ERM proteins (ezrin, radixin, and moesin) {10214350;9486775}.</p>\r\n<h5>Gene variants</h5>\r\n<p>Numerous germline and somatic <em>NF2</em> variants have been detected in neoplasms, supporting the hypothesis that <em>NF2</em> functions as a tumour suppressor gene {8791482;7670657}. Germline pathogenic variants in <em>NF2</em> differ somewhat from the somatic variants identified in sporadic schwannomas and meningiomas. The most frequent germline variants are point mutations that alter splice junctions or create new stop codons {8081368;7670657;7913580;7535084;8379998;7711726;8453669}. Germline pathogenic variants occur preferentially in exons&nbsp;1&ndash;8 {7535084}.</p>\r\n<h5>Gene expression</h5>\r\n<p>The <em>NF2</em> gene is expressed in most normal human tissues, including brain {8379998;8453669}. The structural similarity of merlin (NF2) to the ERM proteins suggests that merlin (NF2) links membrane-associated proteins and the actin cytoskeleton, thus regulating signal transmission from the extracellular environment to the cell {16204178} and influencing multiple downstream pathways, including the MAPK, FAK/SRC, PI3K/AKT, RAC/PAK/JNK, mTOR, Hippo, and WNT/&beta;-catenin pathways. Many merlin (NF2) binding partners have been identified, including integrins and tyrosine receptor kinases {14580336;9430655}. In addition to its tumour suppressor function at the cell membrane, merlin (NF2) translocates to the nucleus where it suppresses the E3 ubiquitin ligase IL-17RB, which is involved in transcription activity {25026211}.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1190,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 811,
+    "contributions": [
+      {
+        "pkcontributionId": 158051,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 811,
+        "headingText": "\r\n<p>NF2 schwannomas may have a multilobular (bunch-of-grapes) appearance on both gross and microscopic examination {2400975}. Multiple Schwann cell tumourlets may develop along individual nerves, particularly on spinal roots and the cauda equina {7670657;9862639}. The gross appearance of meningiomas and ependymomas in NF2 is similar to that of non-syndromic tumours.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1184,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 805,
+    "contributions": [
+      {
+        "pkcontributionId": 158052,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 805,
+        "headingText": "\r\n<p>NF2 schwannomas may have a multilobular appearance on microscopic examination {2400975}, which may reflect a multicentric origin. A mosaic pattern of immunostaining for SMARCB1 expression (indicating patchy loss) has been reported in both NF2 and schwannomatosis {18422762}. Hybrid schwannoma/neurofibroma tumours are common in NF2 (accounting for 30% of NF2 schwannomas) {22446939;26709712}.</p>\r\n<p>All major subtypes of meningioma can occur in patients with NF2, but the most common subtype is fibrous {9322850;7670657}. Although many NF2-associated meningiomas are CNS WHO grade&nbsp;1 tumours, a wide spectrum of tumours is encountered, including aggressive subtypes {9322850;11589430}. Collision tumours of meningioma and schwannoma are characteristic of NF2.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1185,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 806,
+    "contributions": [
+      {
+        "pkcontributionId": 158053,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 806,
+        "headingText": "\r\n<p>Cytologically, individual tumours are indistinguishable from their sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1186,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 807,
+    "contributions": [
+      {
+        "pkcontributionId": 158054,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 807,
+        "headingText": "\r\n<p>A germline pathogenic variant of the <em>NF2</em> gene is detected in 70&ndash;90% of patients with NF2 (and in 60% of patients with de&nbsp;novo NF2, most likely because of somatic mosaicism) {15684865;17307835}. The risk of transmission to offspring in familial cases is 50%. Risk of transmission in individuals with mosaicism is unknown. Prenatal diagnosis by variant analysis and testing of children of patients with NF2 is possible when the variant is known.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1189,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 810,
+    "contributions": [
+      {
+        "pkcontributionId": 158055,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 810,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/67/246/37564\" target=\"_blank\">#37564</a>Box&nbsp;2.03 and <a style=\"cursor:pointer\" href=\"/attachment/67/246/37582\" target=\"_blank\">#37582</a>Table&nbsp;2.15.</p>\r\n",
+        "timestamp": "2026-09-02T11:49:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1187,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 808,
+    "contributions": [
+      {
+        "pkcontributionId": 158056,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 808,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2026-09-02T11:49:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1188,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 809,
+    "contributions": [
+      {
+        "pkcontributionId": 158057,
+        "bookId": 67,
+        "chapterId": 246,
+        "headingId": 809,
+        "headingText": "<p>The clinical course in patients with NF2 varies widely between and (to a lesser extent) within families {1484939;3125435}. Some families feature early-onset disease with diverse tumours and high tumour load (Wishart phenotype), whereas others present later, with only vestibular schwannomas (Gardner phenotype). An effect of maternal inheritance on severity has been noted, as have families with genetic anticipation. Genotype&ndash;phenotype correlations have been identified wherein frameshift variants are associated with a more-severe phenotype, whereas missense variants, large deletions, and somatic mosaicism have been associated with milder disease {15190457;9718334;9817921;7535084}. In addition to variant type, the position of the variant within the gene also affects the phenotype: splice-site variants upstream from exon&nbsp;7 have more-severe phenotypes {9605590} and variants towards the 5&prime; end of the gene are associated with a higher risk of intracranial meningiomas {21278391}. The life expectancy of people with NF2 is shortened when compared with lifespan in a White control population (69&nbsp;years vs 80&nbsp;years, respectively) {22362873}.</p>",
+        "timestamp": "2026-09-02T11:49:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

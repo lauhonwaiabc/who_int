@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 56026,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 159,
+        "headingText": "\r\n<p>Lymphangioma is a benign tumour consisting of single-layer endothelial-lined lymphatic spaces containing chylous or serous material. Lymphangiomatosis is multicentric or extensively infiltrating lymphangioma.</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 56027,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 160,
+        "headingText": "<p>9170/0 Lymphangioma NOS</p>",
+        "timestamp": "2021-11-22T17:35:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 56028,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 161,
+        "headingText": "\r\n<p>LA90.12 &amp; XH9MR8 Lymphatic malformations of certain specified sites &amp; Lymphangioma</p>\r\n<p>2E81.10 Disseminated lymphangiomatosis</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 56029,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 162,
+        "headingText": "\r\n<p><em>Acceptable:</em> intra-abdominal cystic lymphangioma; haemangiolymphangioma.</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 56030,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 163,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 56031,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 164,
+        "headingText": "\r\n<p>Lymphangiomas can arise at all sites in the GI tract, but they are most common in the small intestine, followed by the large intestine and oesophagus. In the peritoneal cavity, most occur within the mesentery and retroperitoneum {9306548; 22696733}. Diffuse lymphangiomatosis can involve either a single organ or multiple organs (e.g. the liver, spleen, lungs, and bones). Hepatic lymphangiomas are rare, with most reported cases arising as a component of diffuse lymphangiomatosis.</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 56032,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 165,
+        "headingText": "\r\n<p>Patients can present with anaemia from bleeding, intussusception, or acute abdomen. Oesophageal lesions vary from small mucosal nodules to pedunculated polyps or large mass lesions that extend into surrounding structures. They usually involve the middle to lower third, although the upper oesophagus can be involved in some cystic lymphangiomas arising in infants.</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 56033,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 166,
+        "headingText": "\r\n<p>GI tract lymphangiomas are rare, accounting for &lt;&nbsp;1% of all lymphangiomas. Lymphangiomas primarily occur in children and young adults, although there is a wide age range, including older adults (particularly for mesenteric lesions) {4051731; 10936792; 22696733}; there is an overall slight male predominance.</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 56034,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 167,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 56035,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 168,
+        "headingText": "\r\n<p>Many of these lesions are present congenitally or appear in early childhood. Putative mechanisms for the development of lymphangiomas include abnormal budding of the lymphatic system from the cardinal vein and failure of the lymphatic system to separate from or connect with the venous system during embryonic development {18500536}. In the acquired setting, lymphatic obstructions, trauma, infections, and chronic inflammation have also been suggested {18500536}, with development potentiated by various lymphangiogenic cytokines or growth factors.</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 56036,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 207,
+        "headingText": "\r\n<p>Lymphangiomas of the GI tract occur in two main forms: (1) small (&lt;&nbsp;2&nbsp;cm) polypoid white or yellow mucosal lesions that are usually incidentally detected and (2) larger masses (as large as 20&nbsp;cm) that may be transmural or that may arise in mesenteric fat. Cavernous lymphangiomas are polypoid and multinodular, with a soft, spongy consistency. Thick, gelatinous, or milky fluid may be expressed from the cystic spaces {15892005}.</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 56037,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 169,
+        "headingText": "\r\n<p>GI tract lesions show expansion of the mucosa, submucosa, or muscularis propria by dilated cystic spaces lined by a single simple layer of lymphatic endothelial cells, which are usually attenuated without cytological atypia. Some dilated spaces are partially invested by a layer of smooth muscle and/or underlying fibromuscular lymphatic vessel walls. The lymphatic spaces contain clear fluid or prominent foamy histiocytes. Deeper lesions may be associated with overlying mucosal clusters of dilated small lymphatics {15892005; 21738815}. There are often scattered lymphoid aggregates, granulation tissue, or (more rarely) foci of xanthogranulomatous inflammation, particularly in lesions occurring in the mesentery or retroperitoneum, where florid cellular reactive myofibroblastic proliferations can obscure the underlying lymphatic abnormality. Although lymphangioma is the predominant morphology, there can be associated complex vascular malformations {15892005}, aneurysm-like cavities, and vessel abnormalities such as shunt vessels and wall excrescences {21738815}. Hepatic lesions are often multiloculated, and they show cystic dilatation of lymphatic vessels within hepatic parenchyma.</p>\r\n<p>Haemangiolymphangiomas are composed of proliferations or networks of vascular spaces or vessels (lymphatics, capillaries, veins or venules, or arteries or arterioles), lined by bland endothelium with intervening connective tissue stroma {21738815}.</p>\r\n<p>The endothelial cells are typically positive for CD31 and D2-40 and show variable CD34 expression. SMA is positive in smooth muscle cells surrounding the cysts. The lesions are negative for keratin. The smooth muscle component, where present, lacks melanocytic antigens, facilitating distinction from lymphangioleiomyomatosis (PEComa) {15892005}.</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 56038,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 170,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 56039,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 171,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 56040,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 174,
+        "headingText": "\r\n<p><em>Essential:</em> tumour composed of thin-walled vascular spaces; immunohistochemistry for CD31 and D2-40, with variable CD34 expression.</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 56041,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 172,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 56042,
+        "bookId": 31,
+        "chapterId": 205,
+        "headingId": 173,
+        "headingText": "\r\n<p>These are benign tumours that typically do not recur {4051731}, although diffuse lymphangiomatosis with visceral involvement can be fatal.</p>",
+        "timestamp": "2019-04-15T16:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

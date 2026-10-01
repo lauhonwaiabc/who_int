@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 121557,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Splenic hamartoma is a benign circumscribed parenchymal lesion comprising disorganized red pulp elements without well-formed white pulp.</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 121558,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 121559,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>3B81.0 Tumour-like conditions of spleen</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 121560,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Not recommended:</em> splenoma.</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 121561,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 121562,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>Spleen</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 121563,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Most splenic hamartomas are incidental findings in splenectomy specimens or at autopsy {24340270}. Approximately 20% of patients present with symptoms related to the mass lesion (such as abdominal discomfort and splenic rupture) or with haematological complications associated with hypersplenism (such as thrombocytopenia or anaemia) {2759557; 19123729; 24340270}.</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 121564,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>Splenic hamartomas are uncommon, with reported incidence rates in autopsy series being 0.024&ndash;0.13% {696681; 10392884}. They occur in any age group (including in children), with a median age of 40&nbsp;years {2759557}, and exhibit no sex predilection {9565443; 19123729}.</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 121565,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>The etiology is unknown. Rare cases occur in patients with tuberous sclerosis {1166974; 16097309; 25905927}. The reported association with solid or haematological malignancies may represent fortuitous discovery of the splenic hamartoma during radiological examinations or surgical explorations in these patients {24340270; 2759557}.</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 121566,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 710,
+        "headingText": "\r\n\r\n<p>Splenic hamartoma has been postulated to represent a malformation, vascular neoplasm, or posttraumatic reactive lesion {696681; 14943802; 19123729; 24340270}. Although the human androgen receptor (HUMARA) assay suggests a polyclonal lesion, clonal karyotypic abnormalities have been reported in 1&nbsp;case {15721639; 20852592}.</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 121567,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Splenic hamartomas are spherical and circumscribed but unencapsulated {2759557}. Most are solitary, but some are multiple. They appear dark-red to greyish-white, with a median size of 50&nbsp;mm (range: &lt;10&nbsp;mm to 200&nbsp;mm) {19123729; 24340270}.</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 121568,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 711,
+        "headingText": "<p>Despite the sharp demarcation on gross examination, the border of splenic hamartoma is often not as well defined microscopically. The lesion is composed of irregularly dispersed sinusoidal vascular channels lined by plump endothelium and surrounded by loose aggregates of macrophages admixed with fibrovascular stroma, architecturally reminiscent of disorganized red pulp tissue. There is no well-formed white pulp, although lymphoid aggregates can be found {32600744}. Additional features may include focal sclerosis, calcifications, haemorrhage, peliosis, plasmacytosis, extramedullary haematopoiesis, large aggregates of macrophages (histiocyte-rich variant), xanthomatous histiocytes, eosinophils, and mast cells {2759557; 10392884}. Rarely, scattered bizarre cells featuring poorly defined cytoplasm and irregular nuclei with vesicular chromatin and variably prominent nucleoli are identified. Variable expression of cytokeratin, actin, or desmin in this population suggests accessory reticulum cell differentiation {15613862; 16006808; 25637257; 29378604}.</p>\r\n\r\n<h5>Immunohistochemistry</h5>\r\n\r\n<p>Different types of blood vessels can be identified: splenic sinuses (CD8+, CD31+, CD34&minus;), capillaries (CD34+, CD31+, CD8&minus;), and small veins (CD34&minus;, CD31+, CD8&minus;) {1748432; 15735864}. Many admixed macrophages (CD68+, CD163+) are demonstrable.</p>\r\n\r\n<h5>Differential diagnosis</h5>\r\n\r\n<p>Major differential diagnoses include splenic haemangioma (proliferation of a single type of blood vessel; CD8&minus;), sclerosing angiomatoid nodular transformation (multiple angiomatoid nodules surrounded by concentric collagen fibres, set in a sclerotic stroma), and EBV-positive inflammatory follicular dendritic cell sarcoma (proliferation of spindly cells with variable degrees of nuclear atypia in a lymphoplasmacytic background, lacking splenic sinus-type vasculature, positive for follicular dendritic cell markers and EBV).</p>\r\n&nbsp;",
+        "timestamp": "2024-02-28T16:59:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 121569,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>Cytological features are nonspecific on FNAC {17304535}.</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 121570,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 121571,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> a circumscribed nodule in the spleen; composed of disorganized red pulp tissue, without a white pulp component.</p>\r\n<p><em>Desirable:</em> CD8 immunostain confirming the presence of disorganized splenic sinuses.</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 121572,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 121573,
+        "bookId": 63,
+        "chapterId": 368,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>This benign lesion is curable by splenectomy.</p>",
+        "timestamp": "2024-02-28T16:58:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

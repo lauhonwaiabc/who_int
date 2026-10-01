@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 149898,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 951,
+        "headingText": "\r\n<p>Liposarcomas are malignant mesenchymal neoplasms showing adipocytic differentiation.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 149899,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 952,
+        "headingText": "\r\n<p>88510/3 Liposarcoma, well-differentiated, NOS</p>\r\n<p>88580/3 Dedifferentiated liposarcoma</p>\r\n",
+        "timestamp": "2026-06-09T11:31:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 149900,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 953,
+        "headingText": "\r\n<p>2B59.Y &amp; XA0828 &amp; XH7Y61 Liposarcoma, well-differentiated, of oesophagus</p>\r\n<p>2B59.Y &amp; XA0828 &amp; XH1C03 Dedifferentiated liposarcoma of oesophagus</p>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 149901,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 954,
+        "headingText": "\r\n<p><em>Not recommended:</em> atypical lipomatous tumour; giant fibrovascular polyp.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 149902,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 955,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 149903,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 956,
+        "headingText": "\r\n<p>Essentially, all primary well-differentiated and dedifferentiated liposarcomas of the GI tract occur in the oesophagus, where they commonly present as large, polypoid masses, previously termed &ldquo;giant fibrovascular polyps&rdquo; {28984298;23352209}. Involvement of other portions of the GI tract by liposarcoma essentially always reflects extension from a primary intra-abdominal or retroperitoneal well-differentiated or dedifferentiated liposarcoma; very rarely, metastases from myxoid and pleomorphic liposarcoma involve the GI tract.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 149904,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 957,
+        "headingText": "\r\n<p>Polypoid oesophageal liposarcomas may present dramatically, with reports of patients regurgitating tumours or (rarely) dying from asphyxiation {28984298;23352209}.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 149905,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 958,
+        "headingText": "\r\n<p>Oesophageal well-differentiated and dedifferentiated liposarcomas are rare, with &gt;&nbsp;80&nbsp;reported cases {38024013;26875081;32410132;22924136}.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 149906,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 959,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 149907,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 960,
+        "headingText": "\r\n<p>Well-differentiated and dedifferentiated liposarcomas are characterized by supernumerary ring and giant marker chromosomes, typically as the sole change or concomitant with a few other numerical or structural abnormalities {15527898}. Both supernumerary rings and giant markers invariably contain amplified sequences originating from the 12q14-q15 region, <em>MDM2</em> (12q15) being the main driver gene. Several other genes located in the 12q14-q15 region, including <em>TSPAN31</em>, <em>CDK4</em> (12q14.1), <em>HMGA2</em> (12q14.3), <em>YEATS4</em> {20601955;19737942;18214854}, <em>CPM</em> {19820690}, and <em>FRS2</em> (12q15) {21793095}, are frequently coamplified with <em>MDM2</em> {29368794;29220294;26643872}. In addition to 12q14-q15&ndash;amplified sequences, coamplification of at least one other genomic segment is characteristic {9892106}. The chromosomal origin of these coamplified regions varies. The most frequent is 1q21-q25. Another striking feature of these supernumerary chromosomes is that they consistently contain a neocentromere {18823700;25517748}. Overexpression of MDM2 protein resulting from genomic amplification inactivates p53; MDM2 targets p53 degradation towards the proteasome and inhibits tumour-suppressing p53-mediated transactivation.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 149908,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 967,
+        "headingText": "\r\n<p>Well-differentiated and dedifferentiated oesophageal liposarcomas typically manifest as polypoid, variably sized masses, some with ulcerated squamous mucosa. The tumours themselves appear partially fatty and partially fibrous; dedifferentiated liposarcomas display larger areas with a solid, non-fatty appearance, sometimes with necrosis and haemorrhage.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 149909,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 961,
+        "headingText": "\r\n<p>Well-differentiated liposarcomas can be subdivided into three main subtypes: adipocytic (lipoma-like), sclerosing, and inflammatory {17197914}. The presence of more than one coexistent morphological pattern is common. Lipoma-like tumours are composed of mature adipocytic cells in which, unlike in lipoma, substantial variation in cell size and nuclear atypia in fat cells or stromal spindle cells is present. Scattered hyperchromatic stromal spindle cells are easily identified within fibrous septa or blood vessel walls. Occasionally, fat cells assume hibernoma-like features {27272683}. A varying number of lipoblasts (from many to none) may be found. Importantly, the mere presence of lipoblasts neither makes nor is required for a diagnosis of liposarcoma. Sclerosing well-differentiated liposarcomas are composed chiefly of fibrous septa containing atypical stromal cells, with only a minor adipocytic component. Inflammatory changes are common in oesophageal liposarcomas, likely secondary to mechanical trauma, potentially mimicking a non-neoplastic inflammatory polyp. Dedifferentiated liposarcomas show an abrupt transition from well-differentiated liposarcoma to a typically undifferentiated, highly cellular, mitotically active spindle cell sarcoma, or are composed solely of spindle cell sarcoma in recurrent lesions from patients with prior well-differentiated liposarcoma. MDM2 and/or CDK4 nuclear immunopositivity is present in most cases {16160477;19737942;17895748}. In lipoma-like atypical lipomatous tumour&nbsp;/ well-differentiated liposarcoma, MDM2 and CDK4 expression may prove difficult to evaluate, making chromogenic in&nbsp;situ hybridization {30520819} or FISH valid alternatives {27508976}.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 149910,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 962,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 149911,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 963,
+        "headingText": "\r\n<p>Detection of <em>MDM2</em> (and/or <em>CDK4</em>) amplification {17895748;25862836;21117066} serves to distinguish well-differentiated liposarcoma from benign adipose tumours, and <em>MDM2</em> (and/or <em>CDK4</em>) amplification is also present in dedifferentiated liposarcoma.</p>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 149912,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 966,
+        "headingText": "\r\n<p><em>Essential:</em></p>\r\n<ul style=\"list-style-type: disc\">\r\n<li>For well-differentiated liposarcoma: mature adipose tissue transected by variably prominent fibrous septa containing enlarged, hyperchromatic stromal cells; lipoblasts are not required</li>\r\n<li>For dedifferentiated liposarcoma: high-grade spindle cell sarcoma arising from pre-existing well-differentiated liposarcoma, either synchronously or in a local recurrence</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul style=\"list-style-type: disc\">\r\n<li>In selected or challenging cases: MDM2 and/or CDK4 nuclear expression or evidence of <em>MDM2</em> and/or <em>CDK4</em>gene amplification</li>\r\n</ul>\r\n",
+        "timestamp": "2026-06-09T11:31:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 149913,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 964,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2026-06-09T11:31:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 149914,
+        "bookId": 72,
+        "chapterId": 159,
+        "headingId": 965,
+        "headingText": "\r\n<p>Well-differentiated oesophageal liposarcomas may recur locally unless completely resected with negative margins, and rarely dedifferentiate. Dedifferentiated oesophageal liposarcomas may metastasize and result in death from disease {28984298}.</p>",
+        "timestamp": "2026-06-09T11:31:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 71656,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 539,
+        "headingText": "\r\n<p>Lynch syndrome (LS) is an autosomal dominant tumour predisposition syndrome caused by pathogenic germline variants of the mismatch repair genes <em>MLH1</em>, <em>MSH2</em>, <em>MSH6</em>, and <em>PMS2</em>. A small subset of tumours lacking these mutations show deletions in <em>EPCAM</em>, upstream of the <em>MSH2</em> locus, disrupting MSH2 expression.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 71657,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 540,
+        "headingText": "\r\n<h5>MIM numbering</h5>\r\n<p>609310 Colorectal cancer, hereditary nonpolyposis, type&nbsp;2; HNPCC2</p>\r\n<p>120435 Lynch syndrome&nbsp;I (colorectal cancer, hereditary nonpolyposis, type&nbsp;1)</p>\r\n<p>614350 Colorectal cancer, hereditary nonpolyposis, type&nbsp;5; HNPCC5</p>\r\n<p>614337 Colorectal cancer, hereditary nonpolyposis, type&nbsp;4; HNPCC4</p>\r\n<p>613244 Colorectal cancer, hereditary nonpolyposis, type&nbsp;8; HNPCC8</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 71658,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 541,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 71659,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Acceptable:</em> hereditary non-polyposis colorectal cancer.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 71660,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 543,
+        "headingText": "\r\n<p>Muir&ndash;Torre syndrome is a form of LS that includes cutaneous tumours with sebaceous differentiation {16321766}.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 71661,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 544,
+        "headingText": "\r\n<p>In the urinary and male genital system, urothelial tumours of the upper urinary tract are most common, although tumours of the bladder, prostate, and testis have been described {31045926}. LS-related neoplasms arise in multiple sites, including the gastrointestinal tract, endometrium, ovary, pancreas, hepatobiliary tract, brain, and adrenal cortex.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 71662,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 545,
+        "headingText": "\r\n<p>LS is variably penetrant, with varying organ site&ndash;specific risks for each mismatch repair gene {25673086; 21642682}. Upper urinary tract urothelial carcinoma (UTUC), arising in the renal pelvicalyceal system or ureter, is considered the third most common LS-associated neoplasm after gastrointestinal tract and endometrioid adenocarcinomas {31045926; 18715695}. Patients with LS have a 14- to 22-fold greater risk of UTUC than people in the general population {7979199; 9679899}, and the risk is highest in patients with <em>MSH2</em> germline mutations {22933731; 20591884; 26385421}. Case series of germline-verified LS-UTUC are limited {28797715; 32789450; 30148743}, however some suggest that patients with UTUC and LS are younger and more frequently female than patients with UTUC in the general population {9679899; 21419447}. LS-associated urothelial carcinomas of the bladder show similar associations {22883484; 16908935; 17939062}. Emerging data show a 2- to 5-fold increased risk of prostate carcinoma in LS compared to in the general population {24425144; 32208047; 23530095; 20872076}. Other LS associations, including renal cell carcinoma {10188721; 28772302} and testicular germ cell tumours {19289622}, are more questionable {29710233}.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 71663,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 546,
+        "headingText": "\r\n<p>The prevalence of LS among patients with UTUC is estimated to be 1&ndash;5% {30148743; 28797715; 27713421}. Studies have found pathogenic&nbsp;/ probably pathogenic LS gene mutations in 2&ndash;7% of patients with urothelial carcinoma in variably selected large cohorts across sites {31982787}; the prevalence of germline LS mutations in prostate cancer is probably lower, but the data are more limited {30589920; 30376427}.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 71664,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 547,
+        "headingText": "\r\n<p>LS is caused by germline mutations of <em>MLH1</em>, <em>MSH2</em>, <em>MSH6</em>, and <em>PMS2</em>; rarely, there are <em>EPCAM</em> deletions.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 71665,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 548,
+        "headingText": "\r\n<p>The mismatch repair genes of LS normally function as two heterodimeric complexes to repair single base-pair mismatches during DNA replication. In LS-associated tumours, somatic loss of the second (wildtype) allele causes loss of function of the mismatch repair heterodimeric protein, resulting in a mismatch repair&ndash;deficient mutator phenotype of countless genome-wide mutations driving transformation and progression. Tandem repeat sequences in genomic regions known as microsatellites are particularly susceptible to mismatch repair deficiency, such that high levels of microsatellite instability (MSI) are a characteristic and defining molecular phenotype of LS-associated tumours {21227399}.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 71666,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 555,
+        "headingText": "\r\n<p>The macroscopic appearance of LS-related tumours does not differ from that of sporadic genitourinary tract tumours.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 71667,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 549,
+        "headingText": "\r\n<p>Although increased intratumoural lymphocytes, an inverted growth pattern, a non-infiltrative stromal interface, an absence of nuclear pleomorphism, and an absence of differentiation have been associated with LS-related UTUCs (or UTUCs with high levels of MSI {12673555} or mismatch repair deficiency {27713421; 30148743; 32789450}), these features are probably neither sensitive nor specific {27713421; 30148743}.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 71668,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 71669,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 551,
+        "headingText": "\r\n<p>Reflex screening of UTUCs by mismatch repair immunohistochemistry is often recommended for identification of LS candidates; rates of mismatch repair deficiency identified in UTUCs are similar to those in colorectal and endometrioid carcinomas {30148743; 32789450; 28797715}. After referral for genetic counselling and consent, multiple testing strategies exist, ranging from single-gene testing for a known variant to multigene next-generation sequencing assays of all LS-associated and other cancer predisposition genes.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 71670,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> detection of a germline pathogenic variant of <em>MLH1</em>, <em>MSH2</em>, <em>MSH6</em>, and/or <em>PMS2</em>, or <em>EPCAM</em> deletions.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 71671,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 552,
+        "headingText": "\r\n<p>Staging is performed according to the eighth-edition Union for International Cancer Control (UICC) and American Joint Committee on Cancer (AJCC) systems.</p>\r\n",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 71672,
+        "bookId": 36,
+        "chapterId": 307,
+        "headingId": 553,
+        "headingText": "\r\n<p>Numerous strategies have been proposed to guide clinical risk stratification and assessment for LS, including the Amsterdam criteria and the Bethesda criteria {31487681}. UTUC is an aggressive disease {31950242}; the prognosis of UTUC and other LS-associated genitourinary neoplasms has not been compared with that of their sporadic counterparts. Screening UTUCs (whether LS-related or sporadic) by mismatch repair immunohistochemistry or MSI testing may have predictive value for therapeutic planning, because the response to immune checkpoint inhibition is strongly associated with high levels of MSI and mismatch repair deficiency {28596308; 30787022}.</p>",
+        "timestamp": "2022-02-25T12:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

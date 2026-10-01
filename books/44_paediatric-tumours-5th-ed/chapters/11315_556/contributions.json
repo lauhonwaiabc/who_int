@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 108034,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 466,
+        "headingText": "\r\n<p>Cribriform morular thyroid carcinoma (CMTC) is a malignant thyroid tumour with a particular growth pattern secondary to constitutive activation of the WNT/&beta;-catenin pathway that can occur with familial adenomatous polyposis (FAP) or sporadically.</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 108035,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 467,
+        "headingText": "\r\n<p>8201/3 Cribriform carcinoma, NOS</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 108036,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 468,
+        "headingText": "\r\n<p>2D10.Y &amp; XH1YZ3 Other specified malignant neoplasms of thyroid gland &amp; Cribriform carcinoma, NOS</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 108037,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> cribriform morular variant of papillary thyroid carcinoma; papillary thyroid carcinoma, cribriform morular variant.</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 108038,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 108039,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 471,
+        "headingText": "\r\n<p>CMTC is usually multifocal and/or bilateral in FAP, whereas sporadic cases occur as a solitary nodule {10229505; 20878367; 21455198; 29239041}.</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 108040,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 472,
+        "headingText": "\r\n<p>Almost all CMTCs (97%) occur in young women, with 89% of cases occurring in individuals aged &lt;&nbsp;40&nbsp;years (mean: 28&nbsp;years, range: 8&ndash;69&nbsp;years) {29320754}, including paediatric patients. The M:F&nbsp;ratio is 1:31&ndash;61 {29320754; 29785019}. As many as 53% of CMTC cases are associated with FAP {29320754}. Tumours may present as a painless mass, hoarseness, or dysphagia, or they may be incidentally discovered on ultrasound.</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 108041,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 473,
+        "headingText": "\r\n<p>In review of 129&nbsp;CMTCs in the English-language literature, 63% of reported cases were from Asia, 26% from America, and 11% from Europe {29320754}. The frequency of thyroid carcinoma in FAP has increased with screening ultrasound and FNAB {29785019}.</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 108042,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 474,
+        "headingText": "\r\n<p>In patients with FAP, CMTC is secondary to germline <em>APC</em> pathogenic variants. Somatic mutation resulting in permanent activation of the WNT/&beta;-catenin signalling pathway is responsible for sporadic tumours {29785019}. Female sex is a risk factor {21878742; 29785019}.</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 108043,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 475,
+        "headingText": "\r\n<p>Most germline <em>APC</em> pathogenic sequence variants in FAP with thyroid tumours occur in exon&nbsp;15 (codons&nbsp;463&ndash;1387), and codon&nbsp;1061 is a hotspot for hepatoblastoma and CMTC {10634400}. <em>APC</em> mutation leads to a truncated APC protein, which is unable to contribute to &beta;-catenin proteasomal degradation. Stabilized &beta;-catenin is translocated into the nucleus and binds LEF/TCF proteins, leading to constitutive expression of WNT target genes involved in proliferation and loss of differentiation {29785019}. In FAP with multiple CMTCs, each tumour has a different somatic <em>APC</em> variant (second hit) {11106555}. Second-hit somatic variants in <em>KMT2C</em> and <em>KMT2D</em> have been described in some familial CMTCs {32024448}.</p>\r\n<p>Somatic alterations involving <em>RET</em> (in the form of rearrangements) {9916927; 11232035}, <em>PIK3CA</em> {26054797}, and <em>KRAS</em> {24702198}, as well as <em>TERT</em> promoter variants {27688081}, may be additional effectors of the WNT/&beta;-catenin pathway in familial and sporadic CMTC {29785019}.</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 108044,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 482,
+        "headingText": "\r\n<p>CMTCs in FAP are often multifocal (4&ndash;13&nbsp;foci), bilateral, and small; sporadic tumours are larger (mean: 30&nbsp;mm), single nodules {34019236; 7698732; 10229505; 21455198; 29785019; 31469036}. CMTCs are well circumscribed or encapsulated, solid (but may be cystic), and white-tan {29785019}.</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 108045,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 476,
+        "headingText": "\r\n<p>CMTCs are circumscribed or encapsulated and may appear lobulated due to fibrous septa {20878367; 29785019; 7698732}. Angioinvasion occurs in 30% of cases and capsular invasion in 40% {29785019}. CMTCs have an admixture of growth patterns not seen in other thyroid carcinomas {20878367; 7698732}. As originally described, CMTCs display &ldquo;an intricate blending of cribriform, follicular, papillary, trabecular, and solid patterns of growth, with squamoid morulae&rdquo; {10229505}. The cribriform structures are composed of anastomosing bars and arches, without intervening fibrous stroma, that merge with tubular follicles that lack colloid {10229505; 29785019}. Papillae and pseudopapillae are lined by tall, cuboidal or pseudostratified cells, and trabecular areas show spindle cells reminiscent of hyalinizing trabecular tumour {10229505; 21455198; 29785019}. Squamoid morulae are whorls of spindle to ovoid cells that lack keratinization and show nuclear clearing due to biotin accumulation {10229505; 29239041; 29785019}. Psammoma bodies are rare {29320754; 29785019}. With these distinctive features, the tumour was initially called the cribriform-morular subtype of papillary thyroid carcinoma {10229505}. But correlation between the tumour&rsquo;s morphological features and recently understood molecular alterations brought about a name change to CMTC {20966648; 21455198; 29785019; 31217615; 34019236}.</p>\r\n<p>Immunohistochemistry</p>\r\n<p>Aberrant strong nuclear and cytoplasmic &beta;-catenin staining is the hallmark of this thyroid tumour {21455198; 29239041; 29785019}. CMTC is positive for thyroid transcription factor&nbsp;1 (TTF1, clones SPT24 and 8G3G7/1), various keratins, EMA, ER, and PR, and negative for CK20, calcitonin, and WT1 {18081818; 23161723; 24702198; 26054797; 29239041; 29785019}. Thyroglobulin expression is typically negative; however, focal nonspecific diffusion-type staining can occur due to entrapped non-tumorous thyroid follicles {34019236}. PAX8 immunohistochemistry using either the monoclonal BC12 antibody or polyclonal antisera shows no or only focal weak staining in these tumours {34019236}. Morulae are negative for keratin 34&beta;E12, thyroglobulin, TTF1, PAX8, ER, PR, and E-cadherin, but they stain for CDX2, CD10, CD5, and CK5 {18081818; 23161723; 24702198; 26054797; 29785019; 34019236}. The Ki-67 proliferation index is usually &lt;&nbsp;5%. High-grade CMTCs have increased mitotic activity, necrosis, and a Ki-67 index of 15&ndash;60%; they may have neuroendocrine differentiation, and they can occur in both sporadic and familial settings {19095577; 23349472; 30176755; 30376202}. In a study of 33&nbsp;CMTCs, high-grade features were present in 2&nbsp;sporadic CMTCs and in none of the FAP-associated CMTCs {34019236}.</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 108046,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 477,
+        "headingText": "\r\n<p>Findings in paediatric patients have been reported but are not unique {19534622; 20091902}.</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 108047,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 478,
+        "headingText": "\r\n<p>Evaluation for germline <em>APC</em> pathogenic sequence variants is desirable in patients with CMTC. About 85% of germline <em>APC</em> variants are in exon&nbsp;15, usually outside the mutation cluster region {10634400; 29785019}. In familial and sporadic cases, constitutive WNT/&beta;-catenin pathway activation is evidenced by strong nuclear &beta;-catenin immunostaining&nbsp;&ndash; a hallmark of CMTC and an important diagnostic criterion. <em>BRAF</em> variants are absent.</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 108048,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em></p>\r\n<ul>\r\n<li>A well-circumscribed or locally invasive TTF1-positive thyroid neoplasm</li>\r\n<li>Diffuse nuclear &beta;-catenin expression</li>\r\n<li>Predominant complex architecture including cribriform areas and squamoid morulae, with no colloid formation</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Cribriform areas: positive for pancytokeratin, ER, and PR; negative (or focal weak) reactivity for PAX8; negative for thyroglobulin</li>\r\n<li>Morulae: positive for CD10, CDX2, CD5, and CK5; negative for TTF1, PAX8, thyroglobulin, ER, and PR</li>\r\n</ul>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 108049,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 479,
+        "headingText": "\r\n<p>These tumours are staged according to the Union for International Cancer Control (UICC) eighth-edition TNM system.</p>\r\n",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 108050,
+        "bookId": 44,
+        "chapterId": 556,
+        "headingId": 480,
+        "headingText": "\r\n<p>At presentation, CMTC is associated with lymph node metastases in 12% of cases and distant metastases in 3%, with an overall cancer mortality rate of 2% {29320754}. High-grade CMTCs behave aggressively {23349472; 27688081; 30376202}.</p>",
+        "timestamp": "2023-05-02T10:22:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

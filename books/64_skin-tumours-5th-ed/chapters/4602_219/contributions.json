@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 126864,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 764,
+        "headingText": "\r\n<p>Primary cutaneous anaplastic large cell lymphoma (C-ALCL) is a mature T-cell lymphoma characterized by anaplastic, pleomorphic, or immunoblastic cells, with CD30 expression in &gt;&nbsp;75% of tumour cells.</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 126865,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 765,
+        "headingText": "\r\n<p>9718/3 Primary cutaneous CD30-positive T-cell lymphoproliferative disorder: Primary cutaneous anaplastic large cell lymphoma</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 126866,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 766,
+        "headingText": "\r\n<p>2B03.0 &amp; XH40C0 Primary cutaneous CD30-positive T-cell lymphoproliferative lymphoma &amp; Primary cutaneous CD30-positive T-cell lymphoproliferative disorder</p>\r\n<p>2B03.0 &amp; XH3400 Primary cutaneous CD30-positive T-cell lymphoproliferative lymphoma &amp; Mature T- and NK-cell lymphomas</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 126867,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 767,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 126868,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 768,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 126869,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 769,
+        "headingText": "\r\n<p>The lesions impact the skin with no specific predilection site {20026848; 19528422}. Mucosal sites can be involved (rarely with concurrently involved cutaneous sites) {15604547; 22388754}.</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 126870,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 770,
+        "headingText": "\r\n<p>Most patients present with solitary or localized skin nodules or tumours, rarely papules, often with ulceration {10845893; 14639383}. Multifocal lesions are seen in about 20% of patients. Lesions may show partial or complete regression (~20&ndash;25%). Relapse in skin is common. Regional lymph nodes are involved in approximately 10% {10845893}.</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 126871,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 771,
+        "headingText": "\r\n<p>C-ALCL is the second most common form of cutaneous T-cell lymphoma {30635287}. The median age is 60&nbsp;years; children can be affected. The M:F&nbsp;ratio is 2&ndash;3:1 {10845893}.</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 126872,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 772,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 126873,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 773,
+        "headingText": "\r\n<p>Rearrangement of the <em>DUSP22</em> locus at 6p25.3 occurs in 20&ndash;25% of C-ALCL {19812605; 21169992}. Rearrangements of the <em>TP63</em> gene are rare in C-ALCL {27146432; 22855598}. Frequent chromosomal aberrations are gains of 7q31 and losses at 6q16-q21 and 13q34 {20130593; 19710685}.</p>\r\n<p><em>NPM1</em>::<em>TYK2</em> fusion, resulting in constitutive STAT signalling, has been described in sporadic cases of C-ALCL {25349176}. <em>TYK2</em> fusions were found in 15%, leading to upregulation of PI3K, MAPK, and G&nbsp;protein pathways {34382383}. Gene expression profiling revealed high expression of the skin-homing chemokine receptor genes <em>CCR10</em> and <em>CCR8</em>, possibly explaining skin tropism and infrequent extracutaneous dissemination {19710685; 22855598; 27146432}.</p>\r\n<p>The vast majority of C-ALCLs do not show translocations involving the <em>ALK</em> gene at chromosome&nbsp;2 {8605362}. Rare cases of ALK-positive C-ALCL, including cases with the t(2;5) chromosomal translocation and cases with variant <em>ALK</em> fusion partners have been reported both in children and in adults, usually with an excellent prognosis {24128129; 18670345; 22773605; 23525618; 32412717}.</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 126874,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 780,
+        "headingText": "\r\n<p>See <em>Clinical features</em>, above.</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 126875,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 774,
+        "headingText": "<p>The dermis is infiltrated by tumour cells with anaplastic morphology, with round&nbsp;/ oval&nbsp;/ irregularly shaped nuclei, prominent nucleoli, and abundant cytoplasm {30635287}. Less commonly, the tumour cells show a pleomorphic or immunoblastic appearance {10845893; 18095994; 7751878}. Epidermotropism may be present, particularly in cases with <em>DUSP22</em> rearrangement {25131361}. Ulcerated lesions may show a lymphomatoid papulosis&ndash;like histology, with abundant reactive T&nbsp;cells (mostly at lesion borders); admixed histiocytes, eosinophils, and neutrophils; and relatively few CD30-positive cells. In such cases, epidermal hyperplasia may be prominent. The inflammatory background is prominent in the rare neutrophil-rich (pyogenic) and eosinophil-rich patterns {12653754}. Cases with prominent angiocentric and angiodestructive growth have been described {24246691}. Rare cases of intralymphatic and intravascular C-ALCL occur {24805854; 20337769}. Mucosal lesions show a similar spectrum of features {15604547; 22388754}. A more recent sarcomatoid pattern has been reported {33234878}, which can be confused with mesenchymal skin tumours.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>The neoplastic cells show variable loss of CD2, CD3, CD5, and CD7, and frequent expression of cytotoxic proteins such as TIA1, perforin, granzyme&nbsp;M, and granzyme&nbsp;B {10845893; 10672058; 9347791}. Some may show a CD4+/CD8&minus;, CD4&minus;/CD8+, or CD4+/CD8+ T-cell phenotype {24394302}. CD43 expression is usually seen, and most cases are negative for EMA. CD30 is expressed by &gt;&nbsp;75% of tumour cells {30635287}. CD15 is expressed in approximately 40% of cases {19416236; 18234282}. Cases can be TCR&beta;+, TCR&beta;&minus;/TCR&delta;&minus;, and rarely TCR&delta;+. LEF1 expression is associated with <em>DUSP22</em> rearrangement {33165091}. In contrast to systemic anaplastic large cell lymphoma, almost all cases of C-ALCL lack expression of ALK, except for exceedingly rare cases of ALK-positive C-ALCL {29057463; 32412717}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The distinction between C-ALCL and lymphomatoid papulosis may be challenging and is usually established on clinical grounds. The term &ldquo;borderline lesions&rdquo; may be used in those cases where, despite careful clinicopathological correlation, a definite distinction between C-ALCL and lymphomatoid papulosis cannot be made {10845893; 14710887; 30635287; 7751878}. CD30-positive large cell transformation of mycosis fungoides should also be excluded. Reactive CD30-positive disorders (viral or arthropod) may be included in the differential diagnosis, although it is often more relevant to consider these for lymphomatoid papulosis, and very rarely for C-ALCL {10218681; 16412214}.</p>",
+        "timestamp": "2025-04-25T11:31:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 126876,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 775,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 126877,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 776,
+        "headingText": "\r\n<p>Clonal rearrangements of TR genes are detected in most cases {8604686}.</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 126878,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 779,
+        "headingText": "\r\n<p><em>Essential:</em> distribution limited to skin and/or mucosa; cells with anaplastic, pleomorphic, or immunoblastic morphology; CD30 expression in &gt;&nbsp;75% of tumour cells; no clinical history or evidence of mycosis fungoides (to exclude mycosis fungoides with CD30+ large cell transformation); no history of lesions waxing and waning (to exclude lymphomatoid papulosis).</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 126879,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 777,
+        "headingText": "\r\n<p>The TNM classification system for primary cutaneous lymphomas other than mycosis fungoides is applied {17339420}. Staging includes extensive history (including history of lymphoid neoplasms and duration of skin lesions), laboratory studies, and imaging studies (contrast-enhanced CT with and without PET, or whole-body integrated PET) {21841159}. Bone marrow examination has limited value unless there are multifocal lesions or unexplained abnormal haematological values {18782320}.</p>\r\n",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 126880,
+        "bookId": 64,
+        "chapterId": 219,
+        "headingId": 778,
+        "headingText": "\r\n<p>The prognosis is favourable, with a 10-year disease-related survival rate of approximately 90% {10845893; 14639383}. Presentation with multifocal skin lesions or regional lymph node involvement does not influence the prognosis. Worse outcome has been associated with extensive skin lesions on the legs, or patient age &gt;&nbsp;60&nbsp;years {20026848; 14639383; 25068227; 19528422; 34081802}.</p>",
+        "timestamp": "2025-04-25T11:30:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

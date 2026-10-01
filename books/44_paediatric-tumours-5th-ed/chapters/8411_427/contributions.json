@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 105901,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 466,
+        "headingText": "\r\n<p>Haemangioma of placenta is a benign nodular lesion composed of numerous capillaries.</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 105902,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 467,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 105903,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 468,
+        "headingText": "\r\n<p>2F31.2 &amp; XH5AW4 Benign non-mesenchymal neoplasms of uterus, other parts &amp; Haemangioma, NOS</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 105904,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Acceptable:</em> chorangioma; chorioangioma.</p>\r\n<p><em>Not recommended:</em> chorangioendothelioma; angiomyxoma; fibroangiomyxoma.</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 105905,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 470,
+        "headingText": "<p>Some authors have classified lesions as angiomatous, cellular, and degenerative [[Marchetti AA. A consideration of certain types of benign tumors of the placenta. Surg Gynecol Obstet. 1939;68:733&ndash;74.]], or as capillary, cavernous, endotheliomatous, fibrosing, and fibromatous [[Heerema-McKenney A, Popek EJ, De Paepe ME, et al. Diagnostic pathology: placenta. 1st ed. Philadelphia (PA): Elsevier; 2015. Section II-8, pp. 6&ndash;7.]], but the behaviour is the same and relates to lesion size.</p>",
+        "timestamp": "2023-03-20T14:33:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 105906,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 471,
+        "headingText": "\r\n<p>These haemangiomas occur in the placenta. They are usually subchorionic but may be peripheral.</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 105907,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 472,
+        "headingText": "\r\n<p>Placental haemangiomas occur more frequently in patients with multiple gestations; maternal age &ge;&nbsp;30&nbsp;years; and with maternal hypertension, pre-eclampsia, or diabetes mellitus {10987255; 12747233}.</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 105908,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 473,
+        "headingText": "\r\n<p>Haemangioma of the placenta is the most common placental tumour. It is often found incidentally, occurring in as many as 1% of placentas {25906437}.</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 105909,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 474,
+        "headingText": "\r\n<p>Placental haemangioma may be a hamartoma rather than a true neoplasm, but this is unresolved {25906437}.</p>\r\n<p>An association with hypoxic placental findings, increased frequency at high altitudes, and location in relatively hypoxic areas of the placenta, have been cited as evidence of hypoxia as the underlying stimulus {26992689}.</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 105910,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 475,
+        "headingText": "\r\n<p>The molecular genetic basis of placental haemangiomas is unknown and there are currently no molecular diagnostic markers for use in clinical practice. A recent study of large chorangiomas failed to show any large-scale genetic aberrations such as duplications or deletions {30428272}. Occasional case reports have shown microdeletions at 2q13 and 7p21.1 {17203486}, and <em>H19</em> hypermethylation in a case of Beckwith&ndash;Wiedemann syndrome {21955307} in the placental tumours.</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 105911,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 482,
+        "headingText": "\r\n<p>Placental haemangiomas are usually present in a subchorionic or marginal location. They may bulge above the fetal surface {20594143}. They may not be appreciated grossly if small. They may be single or multiple, and they are well circumscribed and expansile. On cut section, they are red-tan and firm, and they may appear haemorrhagic. Some may resemble fibromas or have myxomatous change {20594143}. If infarction has occurred, the lesion may be white.</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 105912,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 476,
+        "headingText": "\r\n<p>Placental haemangiomas arise from stem villi, and usually a layer of trophoblast is seen surrounding the nodule. The angiomatous pattern is the most common, composed of numerous capillaries embedded in a fibroconnective stroma composed of fibroblasts, macrophages, and scant collagenized tissue {26992689}, resembling cutaneous capillary malformation. Cellular and degenerative subtypes have been described. Degenerative changes, such as necrosis, hyalinization, haemosiderin, and calcification, may be seen {20594143}. The lesion is distinct from adjacent chorionic villi. The endothelial lining stains for usual vascular markers such as CD31, CD34, GLUT1, and von&nbsp;Willebrand factor (factor&nbsp;VIII&ndash;related antigen). Pericytes around each capillary will stain for MSA {20594143}. It is not uncommon for peripheral trophoblast proliferation to be present in this benign lesion, leading to the misnomer &ldquo;chorangiocarcinoma&rdquo; in the literature. &ldquo;Chorangioma with trophoblast proliferation&rdquo; is more reflective of the biology of this pattern. Rare cases of chorangioma showing atypical features such as increased cellularity and mitotic activity have been described, termed &ldquo;atypical cellular chorangioma&rdquo; in the literature, but these have behaved in a benign manner {25998317}.</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 105913,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 477,
+        "headingText": "\r\n<p>Cytology is not used in clinical practice for this lesion.</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 105914,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 478,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 105915,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> discrete lesion(s); well circumscribed; subchorionic or peripheral location; bulging above the fetal surface; numerous capillaries in a stroma surrounded by trophoblastic cells.</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 105916,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 105917,
+        "bookId": 44,
+        "chapterId": 427,
+        "headingId": 480,
+        "headingText": "\r\n<p>Lesions &lt;&nbsp;40&nbsp;mm are essentially asymptomatic {25906437}. Intermediate-sized lesions have been associated with intrauterine growth restriction {2247373}. Large lesions (&ge;&nbsp;90&nbsp;mm) have been associated with fetal heart failure, hydrops fetalis, prematurity, and intrauterine fetal demise {8894632; 8476479; 11694744}. They do not have malignant potential.</p>",
+        "timestamp": "2023-03-15T13:41:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

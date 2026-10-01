@@ -1,0 +1,36 @@
+[
+  {
+    "pkroleId": 194,
+    "bookId": "87",
+    "roleid": 295,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2364,
+        "lastname": "Mertens",
+        "firstname": "Fredrik",
+        "initials": "",
+        "email": "",
+        "roleid": 295,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 195,
+    "bookId": "87",
+    "roleid": 296,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4647,
+        "lastname": "Hodge",
+        "firstname": "Jennelle C.",
+        "initials": "JC",
+        "email": "",
+        "roleid": 296,
+        "position": 0
+      }
+    ]
+  }
+]

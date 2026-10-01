@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 138794,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 733,
+        "headingText": "\r\n<p>Primary choroidal lymphoma (PCL) is a low-grade, B-cell lymphoma of the choroid without evidence of systemic lymphoma at diagnosis.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 138795,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 734,
+        "headingText": "\r\n<p>9699/3 Primary choroidal lymphoma</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 138796,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 735,
+        "headingText": "\r\n<p>2D05 &amp; XH6JB5 Malignant neoplasm of choroid &amp; Primary choroidal lymphoma</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 138797,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 736,
+        "headingText": "\r\n<p><em>Not recommended:</em> uveal (benign) lymphoid neoplasia; choroidal benign lymphoid hyperplasia; choroidal pseudotumour; choroidal lymphosarcoma.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 138798,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 737,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 138799,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 738,
+        "headingText": "\r\n<p>PCL is usually unilateral and localized but can be diffuse, sometimes extending into the adjacent ciliary body and iris. Extraocular extension may occur, in advanced stages.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 138800,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 739,
+        "headingText": "\r\n<p>PCL usually presents in later life, with a male preponderance. Symptoms and signs include gradual visual loss, painful angle-closure glaucoma (where there is involvement of the ciliary body and iris), and/or a visible extraocular episcleral salmon-pink tumour nodule {18954321}. Posterior extension of the tumour into the orbit may cause symptoms due to the mass lesion.</p>\r\n<p>Ophthalmological examinations usually reveal choroidal thickening caused by a tumour of low internal reflectivity on ultrasound, with obscuration of the normal choroidal vasculature {35050836}. The overlying retina may be detached with changes in the retinal pigment epithelium; however, its vasculature is usually intact and the vitreous clear.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 138801,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 740,
+        "headingText": "\r\n<p>PCL is relatively rare, with about 100&nbsp;reported cases, and its prevalence is unknown {15586289;23978622;12115879;18954321}.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 138802,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 741,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 138803,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 742,
+        "headingText": "\r\n<p>The morphological, immunohistochemical, and genetic alterations of PCLs are similar to those of extranodal marginal zone lymphoma {12115879}. As such, PCL represents a clonal expansion of post&ndash;germinal-centre B&nbsp;lymphocytes. Although extranodal marginal zone lymphomas can be associated with various microorganisms (e.g. <em>Helicobacter pylori</em>,<em> Borrelia burgdorferi</em>) and autoimmune diseases {8102719;17018784;26773441}, no such association has been identified for PCL.</p>\r\n<p><em>MYD88</em> gene mutations and dysregulation of the NF-&kappa;B, BCR, and PI3K signalling pathways have also been implicated {25723115;34667996}.</p>\r\n<p>Chromosome translocation t(11;18)(q21;q21) has been reported {18954321}.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 138804,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 749,
+        "headingText": "\r\n<p>Enucleation specimens demonstrate a diffuse white thickening of the choroid, with a detached overlying retina.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 138805,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 743,
+        "headingText": "\r\n<p>In enucleation specimens, PCL shows diffuse infiltration of choroidal tissue by lymphoid cells that are small to medium sized with morphology similar to that of extranodal marginal zone lymphoma, typically with expansion of small centrocyte-like lymphocytes and varying numbers of plasmacytoid and monocytoid cells {15586289;23978622;12115879;18954321;15565454;31692619}. Lymphoid follicles with germinal centres are often present and may be variably colonized by neoplastic cells. The infiltrate may extend to the ciliary body, iris, and/or subconjunctival tissue, or even through the Bruch membrane, disrupting and infiltrating the retinal pigment epithelium.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Neoplastic cells express pan&ndash;B-cell markers (CD20, CD79a, PAX5), and are BCL2+, IgM+, CD43+/&minus;, CD5&minus;, CD23&minus;, cyclin&nbsp;D1&minus;, and CD10&minus;, and show a low Ki-67 proliferation index.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The main differential diagnosis is reactive lymphoid proliferation, which may require immunophenotyping and clonality studies, in addition to histopathology examination. Secondary infiltration of the choroid by systemic B-cell lymphomas (large B-cell and other small B-cell lymphomas) requires exclusion. The differential diagnosis also includes uveal effusion syndrome, sarcoidosis, choroidal metastasis, and amelanotic choroidal melanoma.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 138806,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 744,
+        "headingText": "\r\n<p>Choroidal fine-needle biopsy shows a monomorphic population of small atypical B&nbsp;cells with the above immunoprofile.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 138807,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 745,
+        "headingText": "\r\n<p>Diagnostic molecular pathology includes immunoglobulin gene rearrangement studies.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 138808,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 748,
+        "headingText": "\r\n<p><em>Essential:</em> diffuse infiltrate of small to medium-sized lymphoid cells in the choroidal tissue; expression of B-lineage markers; exclusion of systemic lymphoma with secondary ocular involvement.</p>\r\n<p><em>Desirable:</em> demonstration of light chain monotypia or clonal immunoglobulin gene rearrangement.</p>\r\n",
+        "timestamp": "2026-03-31T15:03:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 138809,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 746,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2026-03-31T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 138810,
+        "bookId": 65,
+        "chapterId": 197,
+        "headingId": 747,
+        "headingText": "\r\n<p>PCL responds well to low-dose radiotherapy, and the prognosis is good. Unlike in primary vitreoretinal lymphoma, there is no involvement of the CNS.</p>",
+        "timestamp": "2026-03-31T15:03:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

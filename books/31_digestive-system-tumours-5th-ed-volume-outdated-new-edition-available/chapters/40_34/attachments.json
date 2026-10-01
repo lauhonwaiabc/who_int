@@ -1,0 +1,32 @@
+[
+  {
+    "pkattachmentId": 32558,
+    "bookid": 31,
+    "chapterId": 34,
+    "fileId": 1435,
+    "type": "Figure",
+    "diagnosis": "",
+    "title": "",
+    "legend": "<p>Basic structure of the ampulla.</p>",
+    "source": "Massimo Rugge",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/31/34/1435.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/31/34/thumb_1435.jpg"
+  },
+  {
+    "pkattachmentId": 32964,
+    "bookid": 31,
+    "chapterId": 34,
+    "fileId": 2470,
+    "type": "Table",
+    "diagnosis": "",
+    "title": "<p><strong>Box&nbsp;4.01</strong> ICD-O topographical coding for the anatomical sites covered in this chapter</p>",
+    "legend": "",
+    "source": "Drafted by the IARC Technical Editor",
+    "copyright": "",
+    "tablehtml": "<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td colspan=\"2\" valign=\"top\" width=\"595\">\r\n<p><strong>C17 Small intestine</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"28\">\r\n<p>&nbsp;</p>\r\n</td>\r\n<td valign=\"top\" width=\"567\">\r\n<p>C17.0 Duodenum</p>\r\n<p>C17.1 Jejunum</p>\r\n<p>C17.2 Ileum</p>\r\n<p>C17.3 Meckel diverticulum</p>\r\n<p>C17.8 Overlapping lesion of the small intestine</p>\r\n<p>C17.9 Small intestine NOS</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td colspan=\"2\" valign=\"top\" width=\"595\">\r\n<p><strong>C24 Other and unspecified parts of the biliary tract</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"28\">\r\n<p>&nbsp;</p>\r\n</td>\r\n<td valign=\"top\" width=\"567\">\r\n<p>C24.1 Ampulla of Vater</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+    "imageUrl": null,
+    "thumbnail": null
+  }
+]

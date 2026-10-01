@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 67101,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 432,
+        "headingText": "<p>Pulmonary lymphangioleiomyomatosis (LAM) is a locally destructive mesenchymal neoplasm consisting of abnormal smooth muscle proliferation along lymphatic routes, producing a bilateral interstitial infiltrate that results in cystic transformation of airspaces and respiratory failure.</p>",
+        "timestamp": "2021-01-07T17:40:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 67102,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 433,
+        "headingText": "<p>9174/3 Lymphangioleiomyomatosis</p>",
+        "timestamp": "2020-12-09T15:59:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 67103,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 434,
+        "headingText": "\r\n<p>CB07.Z Lymphangioleiomyomatosis, unspecified</p>\r\n",
+        "timestamp": "2020-11-11T10:39:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 67104,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 435,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-11-11T10:39:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 67105,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-11-11T10:39:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 67106,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 437,
+        "headingText": "<p>LAM manifests as uniformly distributed cysts throughout the lungs. Retroperitoneal and abdominal lymph nodes may also be involved&nbsp;{11070117}.</p>",
+        "timestamp": "2021-01-07T17:40:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 67107,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 438,
+        "headingText": "<p>Most affected patients experience progressive exertional dyspnoea and pneumothorax; chylous pleural effusions and haemoptysis are less common findings {23001803; 27514586; 30055039}. Patients with LAM may have renal angiomyolipomas. Associated retroperitoneal lymphadenopathy is common&nbsp;{16210669}.</p>\r\n<h5>Imaging</h5>\r\n<p>Characteristic findings on high-resolution CT include diffuse, thin-walled, round lung cysts.</p>",
+        "timestamp": "2021-01-07T17:41:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 67108,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 439,
+        "headingText": "\r\n<p>LAM is rare, with an incidence of 5&nbsp;cases per 1&nbsp;million person-years {27628078}. This disorder nearly exclusively affects adult women; men with tuberous sclerosis (TS) may also occasionally develop LAM {21459371}. LAM has a peak incidence among women of reproductive age.</p>\r\n",
+        "timestamp": "2020-11-11T10:39:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 67109,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 440,
+        "headingText": "\r\n<p>LAM may arise sporadically or in patients with TS.</p>\r\n",
+        "timestamp": "2020-11-11T10:39:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 67110,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 441,
+        "headingText": "\r\n<p>Sporadic LAM characteristically harbours biallelic inactivating mutations in <em>TSC2</em> (less often <em>TSC1</em>), which result in activation of the mTOR signalling pathway {10823953; 15624019}. TS is an autosomal dominant disorder. Affected patients harbour germline (or somatic mosaic) mutations in <em>TSC1</em> or <em>TSC2</em>; a somatic mutation or loss of heterozygosity (second hit) precedes the development of LAM and other TS-associated tumours {11704609; 27226234; 27753446}.</p>\r\n",
+        "timestamp": "2020-11-11T10:39:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 67111,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 448,
+        "headingText": "\r\n<p>Thin-walled cysts are seen throughout the lungs.</p>\r\n",
+        "timestamp": "2020-11-11T10:39:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 67112,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 442,
+        "headingText": "<p>The lung contains variably sized cysts. Within the cyst walls, there are nodules or a subtle interstitial distribution of spindle cells with fine chromatin, small nucleoli, and granular eosinophilic cytoplasm {11257622}. The spindle cells may infiltrate the walls of veins. Interstitial or intra-alveolar haemosiderin-laden macrophages may be seen. LAM in TS patients may be associated with micronodular type&nbsp;II pneumocyte hyperplasia {11406664; 29393256}.</p>\r\n<p>By immunohistochemistry, the spindle cells are consistently positive for SMA and HMB45 {9720495}, although the extent of staining for HMB45 may be&nbsp;limited. ER, PR, and melan-A are also often positive, whereas S100 is negative.</p>",
+        "timestamp": "2021-01-07T17:41:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 67113,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 443,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2020-11-11T10:39:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 67114,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 444,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2020-11-11T10:39:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 67115,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 447,
+        "headingText": "<p>Most cases are diagnosed clinically without the need for biopsy, via the following:</p>\r\n<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Characteristic findings on high-resolution CT of uniform diffuse, thin-walled cysts, accompanied by any of the following clinical features: TS, renal angiomyolipoma, chylous pleural effusions, or cystic lymphangioleiomyoma {27628078}</li>\r\n<li>When these clinical features are absent, elevated serum levels of VEGF-D {24159565}</li>\r\n</ul>\r\n<h5>When biopsied</h5>\r\n<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Lung cysts with nodules or bundles of cytologically bland myoid spindle cells with granular eosinophilic cytoplasm in the cyst walls</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Expression of SMA and HMB45</li>\r\n</ul>",
+        "timestamp": "2021-01-04T10:32:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 67116,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 445,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2020-11-11T10:39:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 67117,
+        "bookId": 35,
+        "chapterId": 97,
+        "headingId": 446,
+        "headingText": "<p>LAM typically progresses slowly, with increasing cystic destruction and declining lung function that often results in hypoxia requiring supplemental oxygen within 10&nbsp;years of first symptoms; the 10-year survival rate without transplantation is 85% {23007140}. The prognosis of patients with pulmonary LAM correlates with the extent of cysts and/or LAM smooth muscle cell infiltration in surgical lung biopsies {11257622}. Patients may be treated by transplantation. The mTOR inhibitor sirolimus stabilizes lung function and results in decreased symptoms and improved quality of life in LAM patients {21410393}.</p>",
+        "timestamp": "2021-01-07T17:41:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

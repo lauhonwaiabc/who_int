@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 139237,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 733,
+        "headingText": "\r\n<p>Liposarcomas are a family of malignant tumours with adipocytic differentiation, including atypical lipomatous tumour&nbsp;/ well-differentiated liposarcoma (ALT/WDLPS), dedifferentiated liposarcoma (DDLPS), myxoid liposarcoma (MLPS), and pleomorphic liposarcoma.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 139238,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 734,
+        "headingText": "\r\n<p>8850/1 Atypical lipomatous tumour</p>\r\n<p>8851/3 Liposarcoma, well-differentiated</p>\r\n<p>8858/3 Dedifferentiated liposarcoma</p>\r\n<p>8852/3 Myxoid liposarcoma</p>\r\n<p>8854/3 Pleomorphic liposarcoma</p>\r\n",
+        "timestamp": "2026-03-31T15:07:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 139239,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 735,
+        "headingText": "\r\n<p>2B5H Well-differentiated lipomatous tumour, primary site</p>\r\n<p>2B59.Y Liposarcoma, other specified primary site</p>\r\n",
+        "timestamp": "2026-03-31T15:07:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 139240,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 736,
+        "headingText": "\r\n<p><em>Not recommended</em>: atypical lipoma; round cell liposarcoma.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 139241,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 737,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 139242,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 738,
+        "headingText": "\r\n<p>Malignant adipocytic tumours usually involve the intraconal or superior extraconal orbital fat.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 139243,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 739,
+        "headingText": "\r\n<p>Symptoms and signs are related to mass effect and include eye displacement, diplopia, and optic nerve compression {32991496}. Imaging usually demonstrates a heterogeneous soft tissue mass. Rarely, liposarcoma may present with muscle thickening and calcification {22571512}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 139244,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 740,
+        "headingText": "\r\n<p>Primary orbital liposarcoma is rare, accounting for &lt;&nbsp;1% of orbital tumours, usually presenting in the fifth to sixth decades of life (range: 11&ndash;69&nbsp;years) without sex predilection {32991496;35146183}. The majority (~43%) are ALT/WDLPS {32991496} and pleomorphic liposarcoma (~9%) and DDLPS (~8%) are less frequent {35146183;32339743;31686978}. The incidence of myxoid liposarcoma is difficult to estimate as many reported cases may correspond to myxoid change in ALT/WDLPS {32258014}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 139245,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 741,
+        "headingText": "\r\n<p>The etiology of these tumours is unknown.</p>\r\n<p>ALT/WDLPS may be associated with Li&ndash;Fraumeni syndrome, but nearly all cases are sporadic, and the etiology is unknown.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 139246,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 742,
+        "headingText": "\r\n<p>ALT/WDLPSs and DDLPSs are characterized by a supernumerary ring containing a neocentromere and giant marker chromosomes {32258014;34958506} containing amplified genes from the 12q14-15 region, including <em>CDK4</em>,<em> HMGA2</em>,<em> YEATS4</em>,<em> TSPAN31</em>,<em> FRS2</em>, and <em>MDM2 </em>{32258014;34958506}. However, <em>MDM2 </em>(12q15) is the main driver gene. Overexpression of MDM2 from genomic amplification inactivates p53 by targeting degradation and inhibiting p53-mediated transcription.</p>\r\n<p>Most MLPSs have a t(12;16)(q13;p11) rearrangement, generating a <em>FUS</em>::<em>DDIT3</em> fusion transcript; a t(12;22)(q13;q12) rearrangement generating an <em>EWSR1</em>::<em>DDIT3</em> fusion transcript is present in 2&ndash;5% of cases {34958506}. DDIT3 is a DNA binding transcription factor which blocks adipocytic terminal differentiation. FUS and EWSR1 provide promoter sequences. Other genomic events include <em>TERT</em> promoter mutations (~50%) and PI3K/mTOR pathway activating mutations (~20%) {34971481;30787173}.</p>\r\n<p>The molecular profile of pleomorphic liposarcoma resembles that of pleomorphic undifferentiated sarcoma rather than ALT/WDLPS or myxoid liposarcoma {24274714}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 139247,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 749,
+        "headingText": "\r\n<p>ALT/WDLPS may closely resemble normal fat or may appear whiter with a fibrous cut surface. Dedifferentiated areas can appear tan or grey and may have areas of necrosis.</p>\r\n<p>MLPS can have a gelatinous or myxoid appearance.</p>\r\n<p>Pleomorphic liposarcoma usually appears white to yellow, sometimes with myxoid areas and necrosis.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 139248,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 743,
+        "headingText": "\r\n<p>ALT/WDLPS can be divided into three main morphological patterns&nbsp;&ndash; adipocytic or lipoma-like, sclerosing, and inflammatory&nbsp;&ndash; although more than one pattern can coexist. There is variation in cell size and nuclear atypia in adipocytes and stromal cells. In sclerosing tumours there is a collagenous stroma containing scattered bizarre stromal cells. In the inflammatory pattern, chronic inflammatory cells can obscure the adipocytic nature of the tumour, but atypical stromal cells are an important diagnostic feature. Lipoblasts are sparse or absent in all patterns {32991496}.</p>\r\n<p>DDLPS has a transition from ALT/WDLPS to a dedifferentiated sarcoma, which is usually high-grade, resembling pleomorphic sarcoma or myxofibrosarcoma {31910682}.</p>\r\n<p>Low-grade MLPS has abundant myxoid stroma with a characteristic chicken-wire vascular pattern and very few lipoblasts. High-grade lesions have transition to round cell morphology with high-grade nuclei and increased mitoses. The characteristic vascular network is often obscured.</p>\r\n<p>Pleomorphic liposarcoma has varying proportions of pleomorphic lipoblasts on a background of pleomorphic undifferentiated sarcoma.</p>\r\n<h6>Immunohistochemistry</h6>\r\n<p>MDM2 and/or CDK4 positivity is seen in most cases of ALT/WDLPS and DDLPS [[WHO Classification of Tumours Editorial Board. Soft Tissue and Bone Tumours. Lyon (France): International Agency for Research on Cancer; 2020. (WHO Classification of Tumours Series, 5th ed.; vol. 3). https://publications.iarc.who.int/588.]].</p>\r\n<h6>Differential diagnosis</h6>\r\n<p>ALT/WDLPS need to be distinguished from herniated orbital fat and spindle cell&nbsp;/ pleomorphic lipoma (see <a style=\"cursor:pointer\" href=\"/chaptercontent/65/237\" target=\"_blank\">section </a><em>Benign lipomatous tumours</em>).</p>\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 139249,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 744,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 139250,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 745,
+        "headingText": "\r\n<p>Diagnostic molecular pathology includes:</p>\r\n\r\nfor ALT/WDLPS and DDLPS: detection of amplification of <em>MDM2</em> (and/or <em>CDK4</em>)\r\nfor MLPS: demonstration of <em>FUS</em>::<em>DDIT3</em> or <em>EWSR1</em>::<em>DDIT3</em>\r\nfor pleomorphic liposarcoma: absence of <em>MDM2 </em>amplification.\r\n\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 139251,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 748,
+        "headingText": "\r\n<h6>Atypical lipomatous tumour&nbsp;/ well-differentiated liposarcoma</h6>\r\n<p><em>Essential:</em> variation in adipocytic size with nuclear atypia in stromal cells or adipocytes.</p>\r\n<p><em>Desirable:</em> MDM2 and/or CDK4 nuclear expression or detection of <em>MDM2</em> and/or <em>CDK4</em> amplification.</p>\r\n<h6>Dedifferentiated liposarcoma</h6>\r\n<p><em>Essential: </em>abrupt transition from WDLPS to pleomorphic tumour.</p>\r\n<p><em>Desirable: </em>MDM2 and/or CDK4 nuclear expression or detection of <em>MDM2</em> and/or <em>CDK4</em> amplification.</p>\r\n<h6>Myxoid liposarcoma</h6>\r\n<p><em>Essential: </em>myxoid stroma with a chicken-wire vascular pattern and variable numbers of lipoblasts.</p>\r\n<p><em>Desirable: </em>demonstration of <em>FUS</em>::<em>DDIT3</em> or <em>EWSR1</em>::<em>DDIT3</em> fusion transcripts.</p>\r\n<h6>Pleomorphic liposarcoma</h6>\r\n<p><em>Essential:</em> pleomorphic sarcoma with variable numbers of pleomorphic lipoblasts.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 139252,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 746,
+        "headingText": "\r\n<p>The American Joint Committee on Cancer (AJCC) and the Union for International Cancer Control (UICC) TNM system for soft tissue sarcoma of the head and neck and orbit is applied.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 139253,
+        "bookId": 65,
+        "chapterId": 241,
+        "headingId": 747,
+        "headingText": "\r\n<p>Given the small numbers of cases in the literature, it is difficult to accurately predict the outcome of orbital liposarcomas.</p>\r\n<p>ALT/WDLPS tends to remain localized and does not metastasize except when it undergoes dedifferentiation (~10%) and the overall prognosis is good. DDLPS is a more aggressive tumour, but it has been suggested that the orbital location may offer a better outcome in terms of local control and survival mainly owing to early presentation. The outcomes of orbital MLPS and pleomorphic liposarcoma are difficult to determine owing to the small number of well-characterized cases with sufficient follow-up {32991496;27236610;36622318}.</p>",
+        "timestamp": "2026-03-31T15:07:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

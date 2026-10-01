@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 104207,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 466,
+        "headingText": "<p>Langerhans cell histiocytosis (LCH), juvenile xanthogranuloma (JXG), and paediatric Erdheim&ndash;Chester disease (ECD) are myeloid-derived clonal inflammatory disorders composed of dendritic or macrophage/monocyte-derived cells that infiltrate tissues and are driven by recurrent kinase-activating mutations, most often in the MAPK signalling pathway. Rosai&ndash;Dorfman disease (RDD) in some instances may also have similar characteristics.</p>",
+        "timestamp": "2023-05-09T17:42:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 104208,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 467,
+        "headingText": "<p>9751/1 Langerhans cell histiocytosis, NOS</p>\r\n<p>9751/3 Langerhans cell histiocytosis, disseminated</p>\r\n<p>9749/3 Erdheim&ndash;Chester disease</p>\r\n<p>9749/1 Juvenile xanthogranuloma</p>\r\n<p>9749/3 Rosai&ndash;Dorfman disease</p>",
+        "timestamp": "2023-05-09T17:42:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 104209,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 468,
+        "headingText": "\r\n<p>2B31.20 Langerhans cell histiocytosis involving the skin</p>\r\n<p>2B31.2Y Other specified Langerhans cell histiocytosis</p>\r\n<p>2B31.Y &amp; XH1VJ3 Other specified histiocytic or dendritic cell neoplasms &amp; Erdheim&ndash;Chester disease</p>\r\n<p>EK92 Histiocytoses of uncertain malignant potential</p>\r\n",
+        "timestamp": "2022-07-11T17:31:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 104210,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 469,
+        "headingText": "<h5>LCH</h5>\r\n<p><em>Not recommended:</em> histiocytosis&nbsp;X; Langerhans cell granulomatosis; for solitary lesions: eosinophilic granuloma; for multiple lesions: Hand&ndash;Sch&uuml;ller&ndash;Christian disease; for cases with disseminated or visceral involvement: Letterer&ndash;Siwe disease.</p>\r\n<h5>JXG</h5>\r\n<p><em>Acceptable:</em> juvenile xanthogranuloma family of lesions.</p>\r\n<p><em>Not recommended:</em> benign cephalic histiocytosis; progressive nodular histiocytosis; generalized (non-lipidaemic) eruptive histiocytosis.</p>\r\n<h5>RDD</h5>\r\n<p><em>Acceptable:</em> Rosai&ndash;Dorfman&ndash;Destombes disease.</p>\r\n<p><em>Not recommended:</em> sinus histiocytosis with massive lymphadenopathy.</p>",
+        "timestamp": "2023-05-09T17:42:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 104211,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-07-11T17:31:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 104212,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 471,
+        "headingText": "<h5>LCH</h5>\r\n<p>Single-system LCH (SS-LCH) involves one organ or system: commonly bone, skin, lymph nodes, or pituitary {11496348}. It includes multifocal osseous involvement.</p>\r\n<p>Multisystem LCH (MS-LCH) involves two or more organ systems. MS-LCH is considered high-risk when there is involvement of the bone marrow, spleen, or liver {23589673}. Extra-osseous involvement includes mass lesions and cavitary pulmonary nodules.</p>\r\n<h5>JXG</h5>\r\n<p>Disseminated JXG occurs in the skin (often upper head and neck), soft tissues, and upper aerodigestive tract. Visceral sites include the eye/orbit, lung, liver (portal involvement), spleen, bone marrow, and CNS (including the Meckel cave, dura, and pituitary stalk). Lymph node or gastrointestinal tract involvement is rare; an atypical JXG or histiocytic sarcoma should be excluded in such cases {12717244; 15613853}.</p>\r\n<h5>ECD</h5>\r\n<p>Paediatric ECD rarely has the classic adult presentation, which is characterized by involvement of the long bones bilaterally and symmetrically, retroperitoneum (including the perinephric space), cardiovascular system (including right atrial and periaortic/periarterial sheathing), and skin (with periorbital xanthelasmas) {32187362}.</p>\r\n<h5>RDD</h5>\r\n<p>Classically, bilateral painless lymphadenopathy of the cervical chain is most common in children and young adults. Mediastinal, axillary, or inguinal involvement is less frequent. Retroperitoneal involvement is rare. Extranodal sites include the skin, CNS, eye, and upper aerodigestive tract (including the nasal/paranasal sinuses, palate, oral mucosa, and tongue). Bone involvement is typically associated with nodal disease. Bone marrow and gastrointestinal involvement are rare {29720485}.</p>",
+        "timestamp": "2023-05-09T17:43:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 104213,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 472,
+        "headingText": "<h5>LCH</h5>\r\n<p>Older children and adults with SS-LCH present with a painful or painless osteolytic lesion of the bone cortex and/or vertebra plana. Multifocal involvement of a single system (i.e. skin or bone) may occur. Neonates and infants with MS-LCH typically present with multiple bony lesions, soft tissue masses, and/or skin rash (vesicles/bullae in early infancy, dermatitis up to late infancy, and nodules). MS-LCH includes fever, cytopenias, and hepatosplenomegaly (with jaundice, increased direct hyperbilirubinaemia, and hypoalbuminaemia). Active sites of disease are often PET-avid. Endocrine dysfunction and diabetes insipidus may occur in SS-LCH with CNS involvement and in MS-LCH. Long-term consequences of LCH-associated neurodegeneration may occur years later and include progressive ataxia, dysarthria, dysmetria, and learning and psychosocial/behaviour problems, often with typical bilateral and symmetrical MRI signal intensity alterations in the cerebellum, brain stem, and basal ganglia {23109216; 30157397; 18571550}.</p>\r\n<h5>JXG</h5>\r\n<p>JXG manifests as papular red/brown to tan skin lesions, or as mass-forming lesions in soft tissue. Optic lesions should be evaluated with an eye examination because they can cause glaucoma. Like in LCH, pituitary involvement leads to diabetes insipidus. CNS involvement may be unifocal or multifocal, with enhancing lesions along with white matter changes, and if associated with BRAF&nbsp;p.V600E should prompt further workup for paediatric ECD {31685033}. Unlike in LCH, liver involvement spares the biliary tree but can be associated with macrophage activation syndrome, leading to cytopenias, liver injury, and death in aggressive systemic neonatal disease {12717244; 15613853}.</p>\r\n<h5>ECD</h5>\r\n<p>In the paediatric cohort, ECD may exist with typical bilateral bone lesions and CNS involvement {19755920; 31685033}. However, the clinical overlap between disseminated/systemic JXG with MAPK pathway mutations and paediatric ECD is one of active investigation, because they probably represent a similar disease process.</p>\r\n<h5>RDD</h5>\r\n<p>Patients may present with constitutional symptoms of fever, night sweats, and fatigue. Head and neck involvement includes cervical swelling, double vision, and sinonasal symptoms (epistaxis, pain, swelling). Skin nodules and rash are noted in cutaneous involvement. Pain localized to the site of involvement is notable, including pain due to rare osteolytic lesions, which may be associated with pathological fracture. Testicular involvement with enlargement may be noted. Intracranial presentations include an enhancing dural mass mimicking a meningioma, and some reports of intraparenchymal lesions (cerebellum and pons). Spinal involvement has a predilection for the cervical and thoracic regions. Involvement of orbital soft tissues including the lacrimal glands has been described {29720485}.</p>",
+        "timestamp": "2023-05-09T17:44:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 104214,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 473,
+        "headingText": "<h5>LCH</h5>\r\n<p>In general there are about 5&nbsp;new cases per 1&nbsp;million person-years for LCH, and fewer for the other (rarer) histiocytoses {18260117}. SS-LCH of the bone usually occurs in children aged &gt;&nbsp;1&nbsp;year, whereas MS-LCH with risk-organ involvement is often in the youngest patients (aged &lt;&nbsp;1&nbsp;year), with nearly all MS-LCH cases arising before the age of 5&nbsp;years. There is a slight male predominance that is most notable in patients aged &lt;&nbsp;1&nbsp;year {18260117}. SS-LCH of the lung is almost universally related to smoking.</p>\r\n<h5>JXG</h5>\r\n<p>Few cases (4&ndash;12%) of JXG-family lesions have systemic (visceral) involvement. The majority occur in the first year of life. There is a male predominance among cases with multiple cutaneous lesions and systemic visceral involvement {12717244; 15613853}.</p>\r\n<h5>ECD</h5>\r\n<p>Paediatric ECD may have a male predominance {19755920; 31685033}. It is possible that there exists an overlap between aggressive JXG with MAPK pathway mutations and paediatric ECD.</p>\r\n<h5>RDD</h5>\r\n<p>RDD affects children and young adults (mean age: 20&nbsp;years). There is a male predilection, and the disease is most frequent in individuals of African descent. Skin-limited presentations are more common in female Asian patients.</p>",
+        "timestamp": "2023-05-09T17:44:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 104215,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 474,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2022-07-11T17:31:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 104216,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 475,
+        "headingText": "<p>Lesional histiocytes of LCH and related disorders share an immunophenotype with their non- clonal tissue counterparts, including epidermal Langerhans cells (derived from yolk sac macrophages) and dermal macrophages, but the genetic profile appears closer to a myeloid-derived cell {20220088; 28566492; 28512190; 32750121}. The postulated cell of origin may be a self-renewed CD34+ haematopoietic stem cell with variable myeloid lineage potential {30157397; 32750121}. LCH, ECD, and JXG with MAPK pathway mutations may share a common pathogenesis related to the timing of somatic mutations at critical stages of myeloid development in the differentiation pathway to dendritic cells and monocytes. The misguided myeloid differentiation model suggests that activating MAPK mutations occur at the pluripotent precursor level in MS-LCH or at the tissue-restricted level {30157397}, or from an oligopotent progenitor in low-risk LCH or SS-LCH. These kinase-activating mutations, especially BRAF&nbsp;p.V600E, may confer a tissue-growth advantage via disrupted cell migration and inhibition of apoptosis, rather than via proliferation {29263218}. Late permanent tissue consequences appear related (at least in LCH) to clonal myeloid-derived histiocytes inciting inflammation and fibrosis at the site (i.e. biliary cirrhosis in the liver, neurodegeneration/gliosis in the brain in older children) and/or activating a hyperinflammatory pathway with macrophage activation pathways (i.e. in the youngest patients with MS-LCH) {11910507}.</p>",
+        "timestamp": "2023-05-09T17:44:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 104217,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 482,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-07-11T17:31:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 104218,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 476,
+        "headingText": "<p>It is important to distinguish clonal histiocytic lesions from accumulations of reactive histiocytosis in other conditions. The morphology, immunophenotype, and pattern/distribution of involvement in an organ are all important considerations {26461144}.</p>\r\n<h5>LCH</h5>\r\n<p>LCH has a proliferation of large (10&ndash;25&nbsp;&micro;m) round to oval histiocytes with a complex nuclear contour that often assumes a nuclear groove and moderately abundant eosinophilic cytoplasm. The cells should be distinguished from the inflammatory CD1a+ dendritic cells that have branching morphology. Nuclear atypia is absent to minimal; mitotic activity can be variable, without atypical mitoses. The inflammatory milieu contains lymphocytes, eosinophils, and multinucleated histiocytes (both LCH-type and osteoclastic-type); more rarely, there are neutrophils and plasma cells. Central necrosis is occasionally found and is of no prognostic significance. Cells express CD1a (surface), CD207 (langerin) (granular cytoplasmic), CD68 (Golgi dot-like staining), and S100 (nuclear and cytoplasmic). The CD207 (langerin) immunohistochemical stain is now the surrogate for the ultrastructural Birbeck granule, a 200&ndash;400&nbsp;nm long zipper-like cytoplasmic structure {26461144}. The differential diagnosis includes reactive conditions with high numbers of dendritic/Langerhans cells, osteomyelitis, and other histiocytic lesions.</p>\r\n<h5>JXG and ECD</h5>\r\n<p>These diseases have similar microscopic appearances and phenotypes. The histopathology of both entities can show variable morphology, ranging from a dense cellular infiltrate of plump epithelioid cells to more xanthomatous or foamy-appearing histiocytes, often with a variable number of Touton giant cells. Some cases have a fibrohistiocytic appearance. The inflammatory milieu includes plasma cells and lymphocytes, with variable numbers of eosinophils and rare neutrophils. The shared phenotype includes expression of CD163 (surface and cytoplasmic), CD14 (surface), CD68 (granular cytoplasmic), and commonly (but not universally) factor&nbsp;XIIIa (cytoplasmic). Fascin (an actin bundling protein) is another cytoplasmic marker. Lesional histiocytes are generally negative for S100 but a subset may stain lightly, while CD1a and CD207 are generally negative {31685033}. Mixed histiocytoses with LCH, however, can occur in a subset, typically preceding JXG or ECD, or (rarely) occurring in the same lesion {26966089}. The differential diagnosis includes a reactive xanthomatous process of an infectious or inflammatory nature and other histiocytic lesions.</p>\r\n<h5>RDD</h5>\r\n<p>RDD is characterized by clusters of large histiocytes with hypochromatic nuclei that are generally round or oval and contain a prominent nucleolus; binucleation is not uncommon. The large size and abundant pale eosinophilic to watery-clear cytoplasm are typical, as is emperipolesis of lymphocytes, plasma cells, and neutrophils through the cytoplasm, but the neutrophils may be scant to inconspicuous in extranodal sites. The inflammatory milieu often has high numbers of polytypic plasma cells and lymphoid aggregates/follicles. Neutrophilic microabscesses may also be present. The clonal histiocytes are variable in number, especially if there is a high degree of associated fibrosis. The large histiocytes express S100 and fascin and are negative for CD1a and CD207 {29720485}. The differential diagnosis includes osteomyelitis and IgG4-associated sclerosing lesion (because RDD may contain numerous IgG4-positive plasma cells), and other histiocytic lesions {29720485}.</p>",
+        "timestamp": "2023-05-09T17:45:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 104219,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 477,
+        "headingText": "\r\n<p>Cytological diagnosis of histiocytic neoplasms should be approached with caution, especially in the lymph node for LCH and RDD, because the architecture and distribution of involvement are critical to distinguishing reactive histiocytic accumulations from a clonal histiocytic disorder.</p>\r\n",
+        "timestamp": "2022-07-11T17:31:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 104220,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 478,
+        "headingText": "<h5>LCH</h5>\r\n<p>MAPK pathway gene mutations are present in a majority of cases, with near-universal phosphorylated ERK expression. BRAF p.V600E mutations are the most prevalent and carry prognostic significance, especially in MS-LCH {30157397; 27382093}.</p>\r\n<h5>JXG</h5>\r\n<p>Recent studies have shown that JXG-family lesions also harbour kinase-activating alterations in the MAPK pathway, along with activating mutations in <em>CSF1R</em> and NTRK fusions {31768065}. It remains unclear whether <em>ALK</em> fusion&ndash;positive histiocytosis is a subtype of&nbsp;JXG or a distinct entity as first described in infants {18660380}. Regardless, both lesions have similar morphology, and <em>ALK</em> fusion should be sought in non-cutaneous and systemic disease, given its targeted treatment implications. In children, BRAF p.V600E mutations are not present in skin-limited JXG-family lesions and to date have only been described in the CNS and associated systemic disease presentations. It remains an area of investigation whether this form of disease is more closely associated with paediatric ECD than adult ECD {31685033; 32187362}.</p>\r\n<h5>ECD</h5>\r\n<p>BRAF p.V600E mutations are present in more than half of ECD cases, as studied in adults {22879539}. However, the frequency could be underestimated, given that the mutant allele frequency is very low (&lt;&nbsp;5% in a quarter of cases) and may be missed by some molecular testing techniques {30262559}. <em>BRAF</em>-wildtype lesions harbour other mutations in the MAPK pathway and (less frequently) have gene fusions involving <em>BRAF</em>, NTRK genes, or <em>ALK</em>. <em>PIK3CA</em> may also be mutated {31768065}. The divide between paediatric ECD and JXG with kinase-activating mutations is more likely to be one of nosology and semantics rather than true clinicopathological relevance.</p>\r\n<h5>RDD</h5>\r\n<p>RDD was recently included in the fifth edition of the WHO classification of soft tissue and bone tumours [[WHO Classification of Tumours Editorial Board. Soft tissue and bone tumours. Lyon (France): International Agency for Research on Cancer; 2020. (WHO classification of tumours series, 5th ed.; vol. 3). https://publications.iarc.fr/588.]] as a listed entity, with the recognition that RDD also harbours MAPK pathway mutations {29720485}, including rare examples with BRAF p.V600E {29748446; 31213430}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Properly validated molecular-based immunohistochemistry may be used in conjunction with sensitive nucleic acid&ndash;based assays for detecting BRAF p.V600E (VE1 antibody clone), upregulation of phosphorylated ERK expression (phosphorylated ERK antibody clone), <em>ALK</em> fusion (ALK1 antibody clone), and NTRK gene fusion (pan-TRK antibody clone).</p>",
+        "timestamp": "2023-05-09T17:45:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 104221,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 481,
+        "headingText": "<h5>LCH</h5>\r\n<p><em>Essential:</em> plump histiocytes with convoluted nuclei and a Langerhans cell phenotype (positive for CD1a, CD207, and S100) in the correct pattern of involvement.</p>\r\n<p><em>Desirable:</em> mutation analysis for BRAF p.V600E and, if negative, other kinase alterations in the MAPK pathway, with sensitive testing for low allelic detection.</p>\r\n<h5>JXG</h5>\r\n<p><em>Essential:</em> a collection of bland histiocytes with a xanthogranuloma phenotype (positive for CD163, CD14, CD68, and factor&nbsp;XIIIa) and exclusion of typical clinical and radiological ECD findings (described above).</p>\r\n<p><em>Desirable:</em> mutation analysis for kinase alterations including in the MAPK pathway (rarely BRAF p.V600E), <em>CSF1R</em>, and fusions with <em>ALK</em> and NTRK gene partners, with sensitive testing for low allelic detection.</p>\r\n<h5>ECD</h5>\r\n<p><em>Essential:</em> a collection of bland histiocytes with a xanthogranuloma phenotype (positive for CD163, CD14, CD68, and factor&nbsp;XIIIa) in the appropriate clinical and radiological context.</p>\r\n<p><em>Desirable:</em> mutation analysis for kinase alterations including in the MAPK pathway (often BRAF p.V600E), <em>CSF1R</em>, and fusions with <em>ALK</em> and NTRK gene partners, with sensitive testing for low allelic detection.</p>\r\n<h5>RDD</h5>\r\n<p><em>Essential:</em> large S100-positive, CD1a-negative histiocytes with light, clear eosinophilic cytoplasm and large hypochromatic nuclei with distinct nucleoli, in a background of lymphoplasmacytic cell&ndash;rich inflammatory infiltrate.</p>\r\n<p><em>Desirable:</em> emperipolesis is generally present but is often scant to inconspicuous in extranodal sites; mutation analysis for kinase alterations including in the MAPK pathway, with sensitive testing for low allelic detection.</p>",
+        "timestamp": "2023-05-09T17:46:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 104222,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 479,
+        "headingText": "<p>In all histiocytic lesions, diagnostic and staging evaluation should document the extent of systemic disease involvement after tissue biopsy. In LCH and ECD, radiographic skeletal survey, 99mTc bone scan, and brain MRI with gadolinium are used in diagnostic staging. FDG&nbsp;PET-CT imaging is increasingly used for the detection of active lesions, especially in follow-up {32187362; 25827831}. Specifically for LCH, the Histiocyte Society&rsquo;s 2009 evaluation and treatment guidelines stratify the disease according to the number of organs/systems involved: SS-LCH involves one organ/system (involvement can be unifocal or multifocal in one system) and MS-LCH involves two or more organs/systems (with or without risk-organ involvement).</p>",
+        "timestamp": "2023-05-05T11:40:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 104223,
+        "bookId": 44,
+        "chapterId": 68,
+        "headingId": 480,
+        "headingText": "<p>The prognosis is largely based on staging at presentation. The survival rate for SS-LCH is 99%; however, a subset of patients may subsequently develop permanent consequences or MS-LCH, including hypothalamic pituitary involvement {11496348}. Patients who have MS-LCH with risk-organ involvement have a variable course, with only about 60% achieving no evidence of disease after 1&nbsp;year on standard LCH-III therapy {23589673}. In MS-LCH without risk-organ involvement there is still about a 37% relapse/reactivation rate after 1&nbsp;year of standard therapy with vinblastine and prednisone {23589673}. Although there is no formal recommendation for upfront molecular testing, emerging evidence shows that BRAF p.V600E is highly associated with an increased risk of relapse, MS-LCH {24638167; 27382093}, and poor clinical outcomes including permanent consequences (diabetes insipidus and neurodegenerative complications) {27382093}. Skull vault or craniofacial bone involvement is still considered by most as a CNS-risk site, indicating an increased risk of diabetes insipidus and neurodegenerative complications {27382093; 23109216}. In JXG lesions with BRAF p.V600E, emerging evidence suggests a more aggressive course, and cases should be closely followed up for systemic involvement, including features of ECD {31685033}. The general prognosis of RDD is good, and targeted therapy may improve outcomes in cases of systemic involvement with MAPK pathway mutations {29720485}.</p>",
+        "timestamp": "2023-05-09T17:46:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

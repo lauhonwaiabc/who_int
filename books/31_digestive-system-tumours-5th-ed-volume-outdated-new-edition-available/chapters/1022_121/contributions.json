@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 55139,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 159,
+        "headingText": "<p>Intraductal papillary mucinous neoplasm (IPMN) of the pancreas is a grossly visible (typically &gt;&nbsp;5&nbsp;mm) intraductal epithelial neoplasm of mucin-producing cells, arising in the main pancreatic duct and/or its branches.</p>",
+        "timestamp": "2019-04-29T19:13:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 55140,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 160,
+        "headingText": "<p>8453/0 Intraductal papillary mucinous neoplasm with low-grade dysplasia</p>\r\n<p>8453/2 Intraductal papillary mucinous neoplasm with high-grade dysplasia</p>\r\n<p>8453/3 Intraductal papillary mucinous neoplasm with an associated invasive carcinoma</p>",
+        "timestamp": "2019-04-29T19:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 55141,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 161,
+        "headingText": "\r\n<p>2E92.8 &amp; XH8MD2 Benign neoplasm of pancreas &amp; Intraductal papillary-mucinous tumour with low-grade dysplasia</p>\r\n<p>2E61.Y &amp; XH3MB3 Carcinoma in situ of other specified digestive organs &amp; Intraductal papillary mucinous neoplasm with high-grade dysplasia</p>\r\n",
+        "timestamp": "2019-03-27T14:10:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 55142,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 162,
+        "headingText": "\r\n<p>High-grade IPMN</p>\r\n<p><em>Acceptable:</em> carcinoma in&nbsp;situ (used parenthetically in some parts of the world).</p>\r\n<p>Note: The current two-tiered grading system for IPMN recently replaced the former three-tiered grading scheme; neoplasms belonging to the former categories of &ldquo;IPMN with low-grade dysplasia (LGD)&rdquo; and &ldquo;IPMN with intermediate-grade dysplasia&rdquo; {11342768; 15252303} are now categorized as low-grade IPMN. Those belonging to the former category of &ldquo;IPMN with high-grade dysplasia (HGD)&rdquo; are now categorized as high-grade IPMN {26559377}.</p>\r\n",
+        "timestamp": "2019-03-27T14:10:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 55143,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 163,
+        "headingText": "<p>Gastric-type intraductal papillary mucinous neoplasm; intestinal-type intraductal papillary mucinous neoplasm; pancreatobiliary-type intraductal papillary mucinous neoplasm.</p>\r\n<p>Oncocytic-type intraductal papillary mucinous neoplasm is now recognized as a distinct entity {8712298; 27282351; 25840549; 27591765}. The designations &ldquo;main duct-type intraductal papillary mucinous neoplasm&rdquo;, &ldquo;branch duct-type intraductal papillary mucinous neoplasm&rdquo;, and &ldquo;mixed duct-type intraductal papillary mucinous neoplasm&rdquo; are imaging terms used by clinicians (see <em>Clinical features</em>, below) rather than pathological subtypes.</p>",
+        "timestamp": "2021-11-22T15:44:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 55144,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 164,
+        "headingText": "\r\n<p>IPMNs can occur anywhere in the main pancreatic duct and/or its branches; however, most are located in the head of the pancreas {8949654; 10522860; 19260748}. Multicentricity is observed in as many as 40% of cases {10721804; 17086889; 8964418; 15166958; 17686073; 15827792}.</p>\r\n",
+        "timestamp": "2019-03-27T14:10:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 55145,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 165,
+        "headingText": "<p>IPMNs are fairly common, particularly in elderly people. In consecutive CT scans, the prevalence was reported as 1.7%, rising to 6.7% in people in their eighth decade of life {28002329}. Patients with IPMNs with an associated invasive carcinoma are 3&ndash;5&nbsp;years older than those without an associated invasive carcinoma, suggesting that progression occurs over a period of years {15185076; 15166958}. Clinical symptoms include epigastric pain, chronic pancreatitis, weight loss, diabetes mellitus, and jaundice {9600293; 9951851; 9951855; 15082972; 15166958}. Branch duct-type IPMNs are often detected incidentally {28735806}.</p>\r\n<p>By imaging, three distinct types of IPMN can be discerned {10522860; 22687371; 28735806; 25775066}. Main duct-type IPMNs are characterized by primary involvement of the main pancreatic duct with segmental or diffuse dilatation. Branch duct-type IPMNs typically involve the smaller, secondary ducts without affecting the main pancreatic duct {15082972; 14515294; 16327281; 22687371}. Mixed duct-type IPMN is a combination of the other two types {22687371; 28735806; 25775066; 25282472}. Mural nodules and/or irregularities in the duct contours may correspond to HGD or invasive carcinoma {9342572; 11335091}.</p>\r\n<p>Serum tumour markers such as CEA and CA19-9 are generally not of value, but cyst fluid analyses such as elevated preoperative CEA level {22301608; 20797749; 20658204} and molecular analysis {23743931; 20043327; 22376266} may serve as adjunct to other findings in the diagnosis and risk assessment of pancreatic cystic lesions {25282472; 28700444}.</p>",
+        "timestamp": "2019-03-27T14:13:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 55146,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 166,
+        "headingText": "\r\n<p>There are geographical differences in the sex distribution of IPMN. In Japan and the Republic of Korea, the M:F&nbsp;ratio of main duct-type IPMN is 3:1 and of branch duct-type IPMN 1.8:1; in the USA, these ratios are 1.1:1 and 0.76:1, respectively. The mean patient age is similar across regions (62&ndash;67&nbsp;years) {21673537; 20650278; 18645105}.</p>\r\n",
+        "timestamp": "2019-03-27T14:10:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 55147,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 167,
+        "headingText": "\r\n<p>There are no well-established environmental etiological factors for IPMNs. IPMNs have been reported in patients with Peutz&ndash;Jeghers syndrome, familial adenomatous polyposis, and McCune&ndash;Albright syndrome {10362809; 12171972; 28188442}. Screening of individuals with familial predisposition to pancreatic cancer significantly more commonly shows pancreatic cysts that are presumed to be branch duct-type IPMNs {22245846}.</p>\r\n",
+        "timestamp": "2019-03-27T14:10:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 55148,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 168,
+        "headingText": "\r\n<p>The pathogenesis of IPMNs is unknown, although IPMNs often arise in a background of smaller intraductal neoplastic lesions indistinguishable from pancreatic intraepithelial neoplasia (PanIN) {29189063}. In theory, a macroscopic intraductal neoplasm must have evolved from a prior microscopic lesion, and small gastric-type IPMNs are essentially indistinguishable from larger low-grade PanIN lesions. However, the genomic events underlying possible PanIN to IPMN progression require additional study.</p>\r\n<p>IPMNs frequently harbour somatic mutations in <em>KRAS</em> {24604757; 25423558} and <em>GNAS</em> {24604757; 25423558}. <em>KRAS</em> mutations are the most common, occurring in 60&ndash;80% of IPMNs {17097223; 22158988; 25840541}. Activating <em>GNAS</em> mutations at codon&nbsp;201 are found in 50&ndash;70% of IPMNs, particularly in the intestinal subtype {22355676; 21775669; 23846778; 25840541}. Although <em>KRAS</em> mutation appears to be a nearly prerequisite baseline change for many ductal neoplasms, including pancreatic ductal adenocarcinomas (PDACs), <em>GNAS</em> mutations are observed only uncommonly in PDACs, indicating that these are relatively specific molecular alterations in IPMNs {22158988; 22355676; 24604757; 25423558}.</p>\r\n<p><em>RNF43</em>, which encodes an E3 ubiquitin ligase, is also somatically mutated in about 50% of IPMNs {22355676; 24604757; 25081753}. Overexpression of p53, which presumably indicates missense mutations of <em>TP53</em>, can be found in 10&ndash;40% of high-grade IPMNs and 40&ndash;60% of invasive carcinomas associated with IPMN {12010891; 15832194; 17198188; 25423558}. Loss of SMAD4, which is uncommon, typically occurs in the context of invasion {10980115; 11391801}.</p>\r\n",
+        "timestamp": "2019-03-27T14:10:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 55149,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 207,
+        "headingText": "\r\n<p>Main duct-type IPMNs are mostly located in the head of the gland but may occasionally involve the entire main pancreatic duct, including the ampulla of Vater, leading to mucin extrusion from a patulous ampullary orifice into the duodenum {2058624; 25282472}. In some cases, they also involve secondary ducts (mixed duct-type IPMN). The main duct, typically &gt;&nbsp;5&nbsp;mm in diameter {28735806}, is filled with sticky mucin and lined by soft, tan, and friable papillary formations {8964418; 16436817}.</p>\r\n<p>Branch duct-type IPMNs mostly occur in the uncinate process and present as peripheral multilocular cystic lesions embedded in otherwise unremarkable pancreatic parenchyma. The cyst contents are commonly mucinous. Mural nodules may also be present {17686073; 18645105; 28735806; 25282472}.</p>\r\n<p>IPMNs &gt;&nbsp;30&nbsp;mm and/or with nodules&nbsp;/ papillary projection are likely to harbour HGD and invasive carcinoma. Invasive carcinomas are identified as mucinous or solid, firm tumours, usually adjacent to cystically dilated ducts; however, some invasive carcinomas arise elsewhere in the gland.</p>\r\n",
+        "timestamp": "2019-03-27T14:10:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 55150,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 169,
+        "headingText": "<p>Microscopically, IPMNs are characterized by the intraductal proliferation of columnar mucin-producing cells, which can be flat or form papillae ranging from microscopic folds to grossly visible projections {15252303; 28055239; 25775066}. On the basis of the highest degree of cytoarchitectural atypia in the epithelium, IPMNs are classified as low-grade or high-grade. The former intermediate-grade category is now included in the low-grade group {26559377}. Low-grade IPMNs are characterized by mild to moderate atypia and may or may not reveal papillary projections and mitoses. High-grade IPMNs are characterized by severe atypia, papillae with irregular branching and budding, nuclear stratification with loss of polarity, pleomorphism, and prominent nucleoli; mitoses are numerous. Based on the predominant cell differentiation pattern, IPMNs can be subclassified into three subtypes: gastric, intestinal, and pancreatobiliary {15223952; 16088402; 25282472; 28055239}. Oncocytic-type IPMN is now recognized as a separate entity {8712298; 27282351; 25840549; 27591765}.</p>\r\n<p><strong>Gastric-type IPMN:</strong> This IPMN is the most common type (~70% of the cases) and usually occurs in branch ducts. It is composed of gastric-type epithelium and forms tall columnar cells with basally oriented nuclei and pale mucinous cytoplasm, reminiscent of gastric foveolar epithelium {17122512}. Scattered goblet cells can be seen. Most gastric-type IPMNs are low-grade lesions; however, some cases have focal HGD and even an invasive carcinoma {16088402; 21193453}.</p>\r\n<p><strong>Intestinal-type IPMN:</strong> This IPMN is the second most common type (~20% of cases). It typically occurs in the main duct and is characterized by intestinal-type epithelium that forms villous papillae composed of tall columnar cells with cigar-shaped enlarged nuclei and basophilic cytoplasm with variable amount of apical mucin {15223952; 11815961; 12015744; 16088402}. Intestinal-type IPMNs usually reveal HGD {16088402}.</p>\r\n<p><strong>Pancreatobiliary-type IPMN:</strong> The pancreatobiliary subtype is the least common. It typically involves the main pancreatic duct and has complex arborizing and interconnecting papillae composed of cuboidal cells with amphophilic cytoplasm, enlarged nuclei, and prominent nucleoli. Due to the architectural complexity and degree of nuclear atypia, most pancreatobiliary-type IPMNs are high-grade lesions {12379756}.</p>\r\n<p>IPMN and invasive carcinoma can occur in the same pancreas. If the carcinoma arises in the area of IPMN, it is designated IPMN with an associated invasive carcinoma; if the carcinoma is not contiguous with IPMN, it is designated IPMN with a concomitant invasive carcinoma {21499212; 26559377; 25775066; 12378117}. When all IPMNs, including those detected incidentally, are considered, the overall incidence of invasive carcinoma is relatively low {29560572}; however, invasive carcinoma is identified in as many as about 60% of main duct-type IPMNs {23508017; 23364699; 21193453; 18645105}.</p>\r\n<p>The invasive carcinoma can be of two distinct types. Colloid carcinoma, characterized by infiltrating epithelial elements separated by abundant stromal mucin, arises in association with intestinal-type IPMNs {11145249; 12717243; 25840541; 21193453}. Tubular (ductal) adenocarcinoma, which is morphologically similar to conventional PDAC, arises in association with either pancreatobiliary-type {11815961; 16628084; 18645105; 21193453} or gastric-type IPMNs {23532108}. Of note, IPMNs with a concomitant invasive carcinoma are almost always of the branch duct type, and the invasive carcinomas are typically tubular adenocarcinomas {21499212; 29702531}. Emerging data also suggest that these concomitant invasive carcinomas may be biologically and prognostically different from carcinomas associated with IPMNs {12378117; 21499212}. Therefore, thorough (if not complete) sampling of intervening pancreatic tissue to determine the relationship of the IPMN to the invasive carcinoma is recommended {26559377}.</p>\r\n<p>Ductal markers including CK7, CK19, CA19-9, and CEA are strongly expressed in most IPMNs {8910043; 9448015}. The expression pattern of mucins, as well as CDX2 (a marker of intestinal differentiation), is useful for distinguishing the morphological subtypes, although overlaps in expression patterns commonly occur (see Table&nbsp;<a style=\"cursor:pointer\" href=\"/attachment/31/121/1216\" target=\"_blank\">#1216</a>) {12379756; 15223952; 16088402; 20139757}.</p>\r\n<p>The differential diagnoses of IPMNs include other pancreatic intraductal neoplasms, mucinous cystic neoplasms (MCNs), and retention cysts. PanIN is a microscopic non-invasive, flat or papillary epithelial neoplasm arising in the pancreatic ducts, usually &lt;&nbsp;5&nbsp;mm in diameter {15252303}. The epithelial cells in almost all PanIN lesions have gastric foveolar differentiation. In contrast, IPMNs are &gt;&nbsp;5&nbsp;mm in diameter and can have varying differentiation {15252303; 26559377; 25775066}. Therefore, although small gastric-type IPMNs are difficult to distinguish from large PanIN lesions, lesions with intestinal differentiation are most likely IPMNs {26559377; 25775066}. Intraductal oncocytic papillary neoplasms are characteristically complex, with florid proliferation of monotonous cells that have intensely eosinophilic granular cytoplasm, round enlarged nuclei with a prominent nucleolus, and intraepithelial lumina {8712298}. The term &ldquo;incipient IPMN&rdquo; or &ldquo;incipient intraductal oncocytic papillary neoplasm&rdquo; can be applied to lesions 0.5&ndash;1.0&nbsp;cm in diameter with long finger-like papillae, intestinal or oncocytic differentiation, or a <em>GNAS</em> mutation {26559377; 25775066; 24525507}. Intraductal tubulopapillary neoplasms may be difficult to distinguish from pancreatobiliary-type IPMNs {19440145}. Predominantly tubular architecture, diffuse HGD, minimal intracellular mucin, and lack of MUC5AC expression favour intraductal tubulopapillary neoplasm {27984235; 25282472; 28055239; 27684978}. Unlike IPMNs, MCNs typically occur in women, are almost always located in the tail or body of the pancreas, and do not communicate with the duct system. Also, MCNs contain cellular ovarian-type stroma that expresses hormone receptors by immunohistochemistry {25517958}.</p>\r\n<p>Retention cysts (dilatation of the pancreatic ducts due to an obstructive process) are usually unilocular and lined by a flat single layer of ductal epithelium without nuclear atypia. When these are involved by PanIN, they may mimic IPMNs. The location of the lesions (commonly in the periphery of a mass lesion) and lack of florid papillae may help differentiate these from true IPMNs {10721803; 25775066; 27740966}. Of note, in the absence of a visible obstructive process, &gt;&nbsp;1&nbsp;cm mucinous cysts that do not have characteristic features of IPMNs or MCNs are classified as simple mucinous cysts {26559377; 25775066; 27740966}.</p>",
+        "timestamp": "2019-08-23T13:42:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 55151,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 170,
+        "headingText": "\r\n<p>FNA specimens range from hypocellular to hypercellular, with isolated single cells or loosely cohesive groups of mucin-producing columnar cells. Papillary structures or sheets may also be seen. There is abundant, thick, viscid mucus in the background in nearly all cases {18497541; 18089490; 16511852; 16550572}.</p>\r\n<p>Because the ovarian-type stroma is often not sampled, IPMN may not be distinguished from MCN on FNA {15098253}. In such cases, the nonspecific diagnosis of mucinous neoplastic cyst is preferred, with a comment indicating that the differential diagnosis includes both types of cystic lesions {25775066}. Once a cyst is determined to be a mucinous neoplastic cyst, it is important to determine the grade of cytological atypia (low-grade vs high-grade), but it may be impossible to distinguish HGD (carcinoma in&nbsp;situ) from invasive carcinoma {28055239; 25775066; 26559377}.</p>\r\n",
+        "timestamp": "2019-03-27T14:10:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 55152,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 171,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2019-03-27T14:10:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 55153,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 174,
+        "headingText": "\r\n<p><em>Essential:</em> a grossly visible epithelial lesion within the pancreatic ductal system, with papillary formation; may have gastric-type, intestinal-type, or pancreatobiliary-type epithelium; associated invasive carcinoma must be excluded.</p>\r\n",
+        "timestamp": "2019-03-27T14:10:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 55154,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 172,
+        "headingText": "\r\n<p>High-grade IPMNs are categorized as Tis (carcinoma in&nbsp;situ), and staging of IPMNs with an invasive carcinoma is based on the size of the invasive carcinoma, following the protocol for PDAC {26832882; 25775066; 27163957; 26362048}. For IPMNs previously staged as early invasion (&le;&nbsp;2&nbsp;cm, pT1), the Union for International Cancer Control (UICC) recently created the substages of pT1a (&le;&nbsp;0.5&nbsp;cm), pT1b (&gt;&nbsp;0.5 to &lt;&nbsp;1&nbsp;cm), and pT1c (&ge;&nbsp;1&nbsp;cm).</p>\r\n",
+        "timestamp": "2019-03-27T14:10:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 55155,
+        "bookId": 31,
+        "chapterId": 121,
+        "headingId": 173,
+        "headingText": "<p>The classification of IPMNs as main duct-type versus branch duct-type is of utmost importance during the preoperative management of patients with an IPMN, because main duct-type IPMNs are associated with a higher risk of HGD and invasive carcinoma {15082972; 17631133; 15084964; 19835989}. However, once the neoplasm is resected, this classification is superseded by the absence or presence of an associated invasive carcinoma {16327281; 22687371; 25775066}.</p>\r\n<p>IPMNs without an invasive carcinoma are often curable; the 5-year survival rates for patients with resected low-grade IPMNs and high-grade IPMNs were reported as 100% and 85&ndash;95%, respectively {12377813; 12404225; 21193453}. Although some of the mortality in the latter group represents deaths from other causes and the presence of residual neoplasm at a margin, these data suggest that metachronous multifocal disease remains a substantial risk for these patients, and careful clinical follow-up is warranted after the resection {17481526}.</p>\r\n<p>The prognosis for IPMNs with invasive carcinoma is significantly worse; the 5-year survival rate was reported to be between 36% and 90%, depending on the histological type and size (stage) of the invasive carcinoma {17481526; 16628084; 12404225; 21508421}. IPMNs with a colloid type of invasion have a better prognosis than do those with a tubular type of invasion {15223952}. Those with invasion of &lt;&nbsp;5&nbsp;mm have an excellent prognosis {18223327}, whereas the prognosis for IPMNs with an advanced-stage invasion is as poor as for conventional PDACs {18223327; 18645105}. The phenotype of the neoplastic cells also has predictive value for clinical outcome {21193453; 21508421}.</p>",
+        "timestamp": "2019-03-27T15:16:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

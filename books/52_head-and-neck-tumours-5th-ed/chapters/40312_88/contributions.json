@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 113771,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 576,
+        "headingText": "\r\n<p>Carcinoma ex pleomorphic adenoma (CXPA) is an epithelial and/or myoepithelial malignancy that arises in association with a primary or recurrent pleomorphic adenoma (PA).</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 113772,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 577,
+        "headingText": "\r\n<p>8941/3 Carcinoma ex pleomorphic adenoma</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 113773,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 578,
+        "headingText": "\r\n<p>2B67 &amp; XH42V2 Malignant neoplasms of parotid gland &amp; Carcinoma ex pleomorphic adenoma</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 113774,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Acceptable:</em> carcinoma ex benign mixed tumour.</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 113775,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 113776,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 581,
+        "headingText": "\r\n<p>Most CXPAs arise in the parotid gland, but they may originate from the submandibular gland or minor salivary glands {6322732; 20338616; 21744105; 22022178; 22014054; 33728082}.</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 113777,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 582,
+        "headingText": "\r\n<p>The typical clinical presentation is that of a longstanding painless mass with recent rapid progression, or of a previous diagnosis of a PA. Occasionally, the tumour may be asymptomatic {21744105}. Facial nerve palsy, pain, or skin ulceration may occur {20338616}.</p>\r\n<h5>Imaging</h5>\r\n<p>The majority of CXPAs present as an irregular, lobular, and heterogeneously enhancing mass with uneven margins on CT and MRI. Internal calcification is regarded as a specific sign for this tumour. Cervical lymph node and distant metastases are commonly found {34161740}.</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 113778,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 583,
+        "headingText": "\r\n<p>CXPA accounts for 3.6% of all salivary gland tumours and 12% of all salivary gland malignancies {24804831}. It occurs in the setting of a recurrent PA in about 12% of cases. Patients present in their sixth or seventh decade of life. The tumour is slightly more common in women {22014054; 24804831; 25439740}.</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 113779,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 113780,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 585,
+        "headingText": "\r\n<p>About two&nbsp;thirds of CXPAs display <em>PLAG1</em> or <em>HMGA2</em> rearrangements and/or amplification, markers of a pre-existing PA. Additionally, tumours may exhibit the following markers of progression to carcinoma: mutations of <em>TP53</em>, <em>HRAS</em>, <em>PIK3CA</em>; amplification of <em>MYC</em>; and/or amplification of <em>EGFR</em> {11839563; 15920557; 18828159; 24468654; 27379604}.</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 113781,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 592,
+        "headingText": "\r\n<p>Tumour sizes range from 10&nbsp;to 250&nbsp;mm {6322732; 11431714}. Grossly, the tumour is often poorly demarcated and may show a gross residual PA component that occasionally exhibits a well-circumscribed encapsulated sclerotic nodule {11431714; 20338616}.</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 113782,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 586,
+        "headingText": "<p>In most cases, the carcinoma component constitutes &gt;&nbsp;50% of the tumour volume {11431714}. The PA component, which may have variable cellularity, can be intermixed with the carcinoma or appear as a discrete nodule (often hyalinized or rarely entirely sclerotic). CXPA can be subclassified according to the extent of invasion beyond the PA borders as follows: (1)&nbsp;intracapsular, when the carcinoma is confined within the PA capsule; in&nbsp;situ intracapsular, when the malignant tumour cells replace the ductal cells while retaining an intact myoepithelial layer; (2)&nbsp;minimally invasive, when the carcinoma invades &lt;&nbsp;4&ndash;6&nbsp;mm beyond the PA borders; and (3)&nbsp;invasive, when the invasion beyond the PA capsule measures &ge;&nbsp;6&nbsp;mm.</p>\r\n<p>Additionally, the histological type of the malignant component should be reported. The carcinoma component can be of any type, but the most common is salivary duct carcinoma, followed by myoepithelial carcinoma and adenocarcinoma NOS {26934566; 29135520; 32749544}. Carcinosarcoma is a rare, aggressive tumour that is composed of malignant epithelial and sarcomatous components and can arise in association with a PA {31291005; 32814949}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Expression of PLAG1 and HMGA2 may help to identify the PA component {23958548; 27473265; 28796899}. Staining for AR may be indicative of salivary duct CXPA {27334835; 33405400}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Myoepithelial carcinoma and epithelial-myoepithelial carcinoma ex PA can mimic cellular PA especially when intracapsular or minimally invasive. The invasive multinodular pattern helps to differentiate these tumours from PA.</p>",
+        "timestamp": "2023-10-18T15:47:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 113783,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 587,
+        "headingText": "\r\n<p>FNAB smears can show poorly differentiated adenocarcinoma or salivary duct carcinoma, or other salivary gland carcinomas including mucoepidermoid carcinoma, adenoid cystic carcinoma, and carcinosarcoma, or the FNAB may show PA, depending on sampling. It is uncommon that both components are identified, and necrosis in an otherwise pleomorphic adenoma may be the only clue apart from a previous history of a longstanding mass or previous biopsy {9723598; 10450099; 31675185; 33528074}.</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 113784,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 588,
+        "headingText": "\r\n<p><em>PLAG1</em> or <em>HMGA2</em> rearrangements detected by FISH serve as a marker of pre-existing PA and can assist in the diagnosis of CXPA.</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 113785,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> evidence of a pre-existing PA, clinically or histologically, with a carcinoma (epithelial and/or myoepithelial).</p>\r\n",
+        "timestamp": "2023-09-26T14:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 113786,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 589,
+        "headingText": "<p>Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2023-10-09T17:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 113787,
+        "bookId": 52,
+        "chapterId": 88,
+        "headingId": 590,
+        "headingText": "<p>Most CXPAs are aggressive, with local and distant recurrences occurring in as many as 70% of cases. The 5-year survival rate ranges from 25% to 75% {11431714; 20338616; 22014054; 24804831; 31471126}. Invasive CXPA has worse outcomes than intracapsular and minimally invasive CXPA {11431714; 20338616; 22014054; 24804831; 28353089}. A large size (&gt;&nbsp;40&nbsp;mm), multiple positive lymph nodes, and distant metastasis have been reported to increase the mortality risk {31471126}.</p>",
+        "timestamp": "2023-10-18T15:47:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

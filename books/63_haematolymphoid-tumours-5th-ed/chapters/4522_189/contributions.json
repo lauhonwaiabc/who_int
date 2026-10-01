@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 120680,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Monoclonal immunoglobulin (Ig) deposition disease results from non-amyloid deposition of monoclonal Ig in tissue secondary to a plasma cell neoplasm or (rarely) a B-cell neoplasm.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 120681,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9769/1 Monoclonal immunoglobulin deposition disease</p>\r\n<p>9769/1 Light chain deposition disease</p>\r\n<p>9769/1 Light and heavy chain deposition disease</p>\r\n<p>9762/3 Heavy chain deposition disease</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 120682,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A83.52 Light chain deposition disease</p>\r\n<p>2A83.50 Heavy chain deposition disease</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 120683,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Acceptable:</em> Randall-type monoclonal immunoglobulin deposition disease.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 120684,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>Light chain deposition disease; light and heavy chain deposition disease; heavy chain deposition disease</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 120685,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>The kidney is nearly always involved in monoclonal Ig deposition disease {22156754; 30578255}. Heart, liver, lung, gastrointestinal tract, autonomic and peripheral nervous system, and skin involvement has been also reported {16399989; 17255772}. Extrarenal involvement seems to be more common in patients with plasma cell myeloma {22156754; 28383130}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 120686,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Monoclonal Ig deposition disease has three subtypes based on the monoclonal Ig deposits. Light chain deposition disease is the most common and makes up 80% of cases, followed by heavy chain deposition disease and light and heavy chain deposition disease.</p>\r\n<p>The most common monoclonal Ig detected in the serum is IgG, followed by monoclonal light chain, IgA, and IgM {11423577; 14655186; 26392598; 28383130; 30578255}. The tissue Ig deposits can differ from the monoclonal Ig in the blood. In patients with light chain deposition disease, only the monoclonal Ig light chain is deposited, even if the entire Ig is detected in the serum. In heavy chain deposition disease, the serum will show the presence of the monoclonal light chain but the tissue deposits will only contain the monoclonal heavy chain. Proteinuria is often in the nephrotic range, with varying degrees of renal impairment {22156754; 30578255}. Acute kidney injury and acute renal failure occur in patients with coexisting light chain cast nephropathy {11423577}. Patients with heart involvement present with diastolic heart failure and atrial arrhythmias. Septal thickening can be seen on echocardiogram {11025347}. Troponin&nbsp;T, B-type natriuretic peptide (BNP), and N-terminal pro&ndash;B-type natriuretic peptide (NT-proBNP) are elevated in patients with heart involvement {28383130}. Liver involvement is manifested by elevation of liver function tests, hepatomegaly, portal hypertension, and liver failure. Cough, oxygen desaturation, and dyspnoea are common in pulmonary involvement {17255772}. The monoclonal Ig deposition can be interstitial or nodular on imaging studies. Another pattern is pulmonary cystic disease resulting in emphysematous changes and obstructive lung disease {16399989}. Peripheral and autonomic neuropathy can be seen in patients with nerve involvement. A nerve biopsy is typically required to confirm nerve involvement {30578255}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 120687,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>The median age at diagnosis is in the mid-fifties to mid-sixties, ranging from&nbsp;20 to&nbsp;91&nbsp;years {11423577; 14655186; 26392598; 28383130; 30578255; 31699519}. Nearly 60% of the patients are male. Plasma cell neoplasms make up &gt;&nbsp;95% of the associated neoplasms. Plasma cell (multiple) myeloma makes up 20&ndash;30% of cases of monoclonal Ig deposition disease, whereas monoclonal gammopathy of renal significance accounts for 65&ndash;75% of cases {30510265; 34010532}. In patients with plasma cell myeloma, light chain deposition can coexist with light chain cast nephropathy {11423577; 25860232}. B-cell neoplasms are associated with 2&ndash;3% of cases {14655186; 22156754; 30510265}. The B-cell neoplasms involved are most commonly IgM-expressing B-lymphoid neoplasms, such as lymphoplasmacytic lymphoma, chronic lymphocytic leukaemia, and marginal zone lymphomas {19828698; 20570173; 27468978; 29848505}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 120688,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>Unknown</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 120689,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 710,
+        "headingText": "\r\n\r\n<p>Various characteristics of the Ig protein determine the risk of developing monoclonal Ig deposition disease {33163710}. Monoclonal light chains in the V&kappa;IV family are overrepresented in light chain deposition disease {10595931}. CH1 deletion is required for the development of heavy chain deposition disease, but this abnormality is also present in patients with Ig heavy chain amyloidosis and heavy chain disease {25815184; 27773425}. Somatic mutations that increase the hydrophobicity of the Ig contribute to the pathogenesis, but no single mutation has been identified as predictive of the disease.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 120690,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>The macroscopic appearance varies depending on the tissue affected.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 120691,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 711,
+        "headingText": "\r\n\r\n<p>For details of the histological presentation of the underlying lymphoid neoplasms, see the appropriate sections.</p>\r\n<p>The deposits are most frequently found in tubular basement membranes, glomerular basement membranes, vascular walls, and the interstitium of the kidney {22156754}. Cardiac deposits involve the myocardial interstitium throughout the endocardium and epicardium as well as vascular walls, and deposits in the liver predominantly involve the perisinusoidal spaces {11025347; 22466837}. In the lung, nodular perivascular deposits are seen {14983932; 3777471}. Ig deposits appear eosinophilic on H&amp;E staining, are positive on PAS and silver stains, and are negative on Congo red staining.</p>\r\n<p>Renal monoclonal Ig deposition disease on light microscopy exhibits nodular glomerulosclerosis in two&nbsp;thirds of cases. Immunofluorescence reveals diffuse linear deposits of one light chain (in light chain deposition disease), one light chain and one heavy chain (in light and heavy chain deposition disease), or one heavy chain (in heavy chain deposition disease) along the basement membranes of glomeruli, tubules, and vessels. The characteristic ultrastructural finding is punctate, powdery (non-fibrillar), electron-dense deposits along the basement membranes of tubules and glomeruli.</p>\r\n<p>Inflammatory or lymphoplasmacytic involvement may occur outside the kidney but is characteristically absent in the kidney.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 120692,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>FNA would not provide enough tissue for diagnosis.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 120693,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>In nearly 50% of patients with monoclonal Ig deposition disease with an underlying plasma cell neoplasm, a t(11;14) is identified {27501122}.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 120694,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> demonstration of monoclonal Ig deposition in tissue&nbsp;&ndash; in the kidney, this should be demonstrated by immunohistochemistry and electron microscopy; in cases where there is coexistence of light chain cast nephropathy, monoclonal Ig deposition disease may be demonstrated by immunohistochemistry only; diagnosis in other tissues relies on immunohistochemistry, as electron microscopy is not commonly used; besides light chain cast nephropathy, Ig light chain amyloidosis and light chain proximal tubulopathy have been found to coexist with monoclonal Ig deposition disease in the same kidney.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 120695,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>No staging system currently exists.</p>\r\n\r\n",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 120696,
+        "bookId": 63,
+        "chapterId": 189,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>The overall median survival time is &gt;&nbsp;5&nbsp;years, but it varies and is influenced by the presence of plasma cell myeloma, kidney function at the time of diagnosis, cardiac involvement, type of treatment received, and response to treatment {11423577; 26392598; 27501122; 27967286; 28383130; 30578255; 32274452}. Patients who achieve a very good partial haematological response or better, and renal response, have the best outcomes {26176826; 26392598}.</p>",
+        "timestamp": "2024-03-12T12:00:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 115459,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 576,
+        "headingText": "\r\n<p>Desmoid fibromatosis is a locally aggressive, non-metastasizing myofibroblastic neoplasm with infiltrative growth and a propensity for local recurrence.</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 115460,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 577,
+        "headingText": "\r\n<p>8821/1 Desmoid-type fibromatosis</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 115461,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 578,
+        "headingText": "<p >2F7C &amp; XH13Z3 Neoplasms of uncertain behaviour of connective or other soft tissue &amp; Desmoid-type fibromatosis (aggressive fibromatosis)</p>",
+        "timestamp": "2023-11-17T13:26:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 115462,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Acceptable:</em> aggressive/deep fibromatosis; desmoid tumour.</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 115463,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 115464,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 581,
+        "headingText": "\r\n<p>Soft tissues of the neck&nbsp;/ mandibular region are commonly involved. Less frequently affected are the scalp, face, paranasal sinuses, nasopharynx, oral cavity, and larynx {31950474; 31059930}. Multifocality may be seen {29705714}.</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 115465,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients usually report no pain. Lesions can be large (&gt;&nbsp;50&nbsp;mm) and become symptomatic by forming a mass and by invading bone, nerves, and vasculature {31950474; 24206198; 31059930}.</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 115466,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 583,
+        "headingText": "\r\n<p>Fibromatosis of the head and neck is rare, accounting for as many as 15% of all extra-abdominal desmoids in adults and 35% in children {31950474; 31059930; 27988199}. Patients have a median age of 37&ndash;39&nbsp;years. The disease is more common in women than men.</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 115467,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 584,
+        "headingText": "\r\n<p>There are multiple causes, including genetic events and external factors such as trauma {31950474}.</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 115468,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 585,
+        "headingText": "\r\n<p>Desmoid fibromatosis derives from mesenchymal progenitor cells. Mutations in <em>CTNNB1</em> or (less frequently) <em>APC</em> stabilize &beta;-catenin, which activates the WNT/APC/&beta;-catenin pathway {29705714; 20841474}.</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 115469,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 592,
+        "headingText": "\r\n<p>Fibromatosis forms a poorly delineated, firm, grey-white lesion with a coarse trabecular cut surface {24206198; 31950474}.</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 115470,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 586,
+        "headingText": "<p>Neoplasms are infiltrative and composed of poorly defined long fascicles of uniform myofibroblasts with slender, tapering, stellate or oval nuclei with open chromatin. Mitotic figures are variably present and often scarce. There is inconspicuous cytoplasm. The background is most often collagenous, sometimes showing coarse bundles, but can be also strikingly myxoid, blurring the classic architecture. Parallel with the fascicles are small vessels with perivascular oedema. Immunohistochemically, SMA and nuclear &beta;-catenin are variably expressed, with the latter showing about 80% positivity {31950474; 29705714; 24206198}.</p>",
+        "timestamp": "2023-10-02T13:50:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 115471,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 587,
+        "headingText": "\r\n<p>FNA shows clusters of fibroblasts without atypia.</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 115472,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 588,
+        "headingText": "\r\n<p>The finding of hotspot somatic mutations in exon&nbsp;3 of <em>CTNNB1</em> may be helpful in small biopsies or in selected cases if morphology is inconclusive {31950474}.</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 115473,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em> long fascicles of monomorphic myofibroblasts with small, tapered nuclei and inconspicuous cytoplasm.</p>\r\n<p><em>Desirable:</em> nuclear expression of &beta;-catenin; <em>CTNNB1</em> hotspot or (alternatively) <em>APC</em> mutation (in selected cases).</p>",
+        "timestamp": "2023-11-17T13:27:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 115474,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 115475,
+        "bookId": 52,
+        "chapterId": 199,
+        "headingId": 590,
+        "headingText": "\r\n<p>The course is variable and unpredictable, with progression, stable disease, and spontaneous regression. An individual approach is mandatory. A wait-and-see policy is advocated in asymptomatic patients. Systemic treatments comprise antihormonal or non-steroidal anti-inflammatory therapies, tyrosine kinase inhibitors, and chemotherapy. Recurrence after surgery does not correlate with margin status. The question of whether tumours harbouring <em>CTNNB1</em> p.S45F mutations are associated with a greater risk of local recurrence is controversial {31950474; 29705714; 31059930; 32004793}.</p>",
+        "timestamp": "2023-09-29T15:40:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

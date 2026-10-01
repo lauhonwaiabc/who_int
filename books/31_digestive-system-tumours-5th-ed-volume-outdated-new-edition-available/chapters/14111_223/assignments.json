@@ -1,0 +1,87 @@
+[
+  {
+    "pkroleId": 58,
+    "bookId": "31",
+    "roleid": 9,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2029,
+        "lastname": "Schirmacher",
+        "firstname": "Peter",
+        "initials": "P",
+        "email": "",
+        "roleid": 9,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 59,
+    "bookId": "31",
+    "roleid": 10,
+    "roleTitle": "Co-Editor",
+    "contributors": [
+      {
+        "contributorid": 2010,
+        "lastname": "Singh",
+        "firstname": "Rajendra",
+        "initials": "",
+        "email": "",
+        "roleid": 10,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 60,
+    "bookId": "31",
+    "roleid": 11,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2155,
+        "lastname": "Scolyer",
+        "firstname": "Richard A.",
+        "initials": "",
+        "email": "",
+        "roleid": 11,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 61,
+    "bookId": "31",
+    "roleid": 12,
+    "roleTitle": "Co-Author",
+    "contributors": [
+      {
+        "contributorid": 2156,
+        "lastname": "Prieto",
+        "firstname": "Victor Gerardo",
+        "initials": "VG",
+        "email": "",
+        "roleid": 12,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 63,
+    "bookId": "31",
+    "roleid": 23,
+    "roleTitle": "Responsible author (Edition)",
+    "contributors": [
+      {
+        "contributorid": 2155,
+        "lastname": "Scolyer",
+        "firstname": "Richard A.",
+        "initials": "",
+        "email": "",
+        "roleid": 23,
+        "position": 0
+      }
+    ]
+  }
+]

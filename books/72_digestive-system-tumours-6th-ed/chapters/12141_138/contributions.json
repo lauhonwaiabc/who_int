@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 149676,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 951,
+        "headingText": "\r\n<p>Indolent NK-cell lymphoproliferative disorder (iNK-LPD) of the GI tract is an indolent but recurring EBV-negative NK-cell proliferation that predominantly involves the GI tract but may occasionally affect other anatomical sites.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 149677,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 952,
+        "headingText": "\r\n<p>97021/1 Indolent NK-cell lymphoproliferative disorder of gastrointestinal tract</p>\r\n",
+        "timestamp": "2026-06-09T11:29:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 149678,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 953,
+        "headingText": "\r\n<p>2B3Z &amp; XH5LU6 &amp; XA9607 Neoplasms of haematopoietic or lymphoid tissues, unspecified &amp; T/NK-cell lymphoma of gastrointestinal tract</p>\r\n",
+        "timestamp": "2026-06-09T11:29:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 149679,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 954,
+        "headingText": "\r\n<p><em>Acceptable:</em> atypical NK-cell proliferation of the gastrointestinal tract; lymphomatoid gastropathy; NK-cell enteropathy.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 149680,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 955,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 149681,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 956,
+        "headingText": "\r\n<p>iNK-LPD involves the stomach (in ~70% of cases) and the small/large intestine (in ~30%) {16625103;20966166;31383643;20829373}. Similar lesions have been reported in the gallbladder {30212873;39276532;36494712}, and rarely in the vagina {31609783}, bladder {39276532}, nasopharynx {36494712}, and adjacent lymph nodes {32696224}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 149682,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 957,
+        "headingText": "\r\n<p>Patients are asymptomatic or have vague gastrointestinal symptoms including abdominal pain, with lesions identified on endoscopy. Lower limb oedema, possibly secondary to hypoalbuminaemia, has also been reported uncommonly {39276532}. There is no history of coeliac disease or inflammatory bowel disease, and no systemic lymphadenopathy or organomegaly {20966166;31383643;20829373}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 149683,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 958,
+        "headingText": "\r\n<p>iNK-LPD is rare. Patients are usually men and women in their third to eighth decades of life {20966166;31383643;20829373}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 149684,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 959,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 149685,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 960,
+        "headingText": "\r\n<p>The proliferation in iNK-LPD may be an immune response to antigen(s) encountered in the gastrointestinal mucosa {20966166;20829373}. A high prevalence of <em>Helicobacter pylori</em> infection has been reported in the gastric cases {20829373}, and an anecdotal report of regression of chronic recurrent disease after anti-<em>Helicobacter</em> therapy {35474034} suggests a possible etiological role of <em>Helicobacter</em>.</p>\r\n<p>The most frequent mutation involves <em>JAK3</em>, which is present in 30% of cases tested {31383643;39276532;36494712}. Other mutated genes reported include, <em>RUNX1T1</em>, <em>CIC</em>, <em>ERBB4</em>, <em>SETD5</em> {31383643}, <em>BRAF</em>, <em>KRAS</em>, <em>FOXO3</em>, <em>CREBBP</em>, and <em>RP1L1</em> {36494712;39276532}. Strong immunostaining for phosphorylated STAT5 in all studied cases suggests that JAK-3/STAT5 pathway hyperactivation plays a role in pathogenesis {31383643;36494712}. These findings further suggest that iNK-LPD is neoplastic.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 149686,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 967,
+        "headingText": "\r\n<p>Endoscopy reveals single or multiple superficial small lesions, approximately 10&ndash;20&nbsp;mm, manifesting as elevated lesions, often with hyperaemia (blood blister&ndash;like lesion), erosion, or ulcer, involving single or multiple sites along the GI tract {20966166;20829373}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 149687,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 961,
+        "headingText": "\r\n<p>The lamina propria in iNK-LPD shows expansion by a relatively well-circumscribed but confluent infiltrate of medium-sized to large cells with irregular nuclei (occasionally with distinct nucleoli), finely clumped chromatin, and a moderate amount of pale cytoplasm {20966166;31383643;20829373}, often with paranuclear eosinophilic cytoplasmic granules {20829373}. Glands are displaced or destroyed. Epithelial invasion can be seen especially in gastric cases {20829373}. Necrosis is occasionally seen, usually with mucosal ulceration. Other inflammatory cells (plasma cells, neutrophils, eosinophils) are often present. The muscularis mucosae remains intact. There is no angiocentric-angiodestructive growth, villous atrophy, or crypt hyperplasia.</p>\r\n<h5>Immunohistochemistry and in situ hybridization</h5>\r\n<p>Lesional cells express CD2, CD56, CD7, cCD3, TIA1, and granzyme&nbsp;B, but they do not express sCD3, TCR&alpha;&beta;, TCR&gamma;&delta;, CD5, CD4, CD10, CD20, PAX5, CD138, or CD68. CD8 is rarely positive {25929350}. The Ki-67 proliferation index is usually low but can be as high as 80% {39276532}. In&nbsp;situ hybridization for EBV-encoded small RNA (EBER) is negative.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>There is significant immunophenotypic overlap between iNK-LPD and extranodal NK/T-cell lymphoma, so their distinction is important to avoid unnecessary therapy. NK-large granular lymphocytic leukaemia differs from iNK-LPD by showing systemic (peripheral blood and marrow) involvement. See <a style=\"cursor:pointer\" href=\"/attachment/72/140/49464\" target=\"_blank\">#49464</a>Table&nbsp;12.03 for differential diagnostic features.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 149688,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 962,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 149689,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 963,
+        "headingText": "\r\n<p>In&nbsp;situ hybridization for EBER is negative. No clonal TR gene rearrangements have been identified {20966166;31383643;20829373}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 149690,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 966,
+        "headingText": "\r\n<p><em>Essential:</em> an infiltrate of atypical medium-sized to large lymphoid cells with pale cytoplasm and an NK-cell immunophenotype, confined to the superficial mucosa of the GI tract and rarely presenting at other anatomical sites, including lymph nodes; EBV negative.</p>\r\n<p><em>Desirable:</em> absence of clonal TR gene rearrangements.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 149691,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 964,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2026-06-09T11:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 149692,
+        "bookId": 72,
+        "chapterId": 138,
+        "headingId": 965,
+        "headingText": "\r\n<p>Individual lesions usually regress spontaneously in a few months, but some patients may have persistent lesions or recurrent new lesions. Patients with iNK-LPD usually do not show a prolonged response to chemotherapy {20966166;31383643;20829373}. Progression to more aggressive disease has not been reported.</p>",
+        "timestamp": "2026-06-09T11:29:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

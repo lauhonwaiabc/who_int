@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 395,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 228,
+    "contributions": [
+      {
+        "pkcontributionId": 58524,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 228,
+        "headingText": "\r\n<p>Solitary fibrous tumour (SFT) is a fibroblastic tumour characterized by a prominent, branching, thin-walled, dilated (staghorn) vasculature and <em>NAB2</em>-<em>STAT6</em> gene rearrangement.</p>\r\n",
+        "timestamp": "2019-12-11T11:24:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 396,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 229,
+    "contributions": [
+      {
+        "pkcontributionId": 58525,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 229,
+        "headingText": "<p>8815/0 Solitary fibrous tumour, benign</p>\r\n<p>8815/1 Solitary fibrous tumour NOS</p>\r\n<p>8815/3 Solitary fibrous tumour, malignant</p>",
+        "timestamp": "2020-02-04T10:24:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 397,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 230,
+    "contributions": [
+      {
+        "pkcontributionId": 58526,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 230,
+        "headingText": "\r\n<p>2F7C &amp; XH7E62 Neoplasms of uncertain behaviour of connective or other soft tissue &amp; Solitary fibrous tumour NOS</p>\r\n<p>2B5Y &amp; XH1HP3 Other specified malignant mesenchymal neoplasms &amp; Solitary fibrous tumour, malignant</p>\r\n",
+        "timestamp": "2019-12-11T11:24:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 398,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 231,
+    "contributions": [
+      {
+        "pkcontributionId": 58527,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 231,
+        "headingText": "\r\n<p><em>Not recommended:</em> haemangiopericytoma; giant cell angiofibroma; benign solitary fibrous tumour.</p>\r\n",
+        "timestamp": "2019-12-11T11:24:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 399,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 232,
+    "contributions": [
+      {
+        "pkcontributionId": 58528,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 232,
+        "headingText": "<p>Fat-forming (lipomatous) solitary fibrous tumour; giant cell&ndash;rich solitary fibrous tumour</p>",
+        "timestamp": "2020-01-31T09:27:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 400,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 233,
+    "contributions": [
+      {
+        "pkcontributionId": 58529,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 233,
+        "headingText": "<p>SFTs may occur at any anatomical site, including superficial and deep soft tissues and within visceral organs and bone, and they are more common at extrapleural locations. About 30&ndash;40% of extrapleural SFTs arise in the extremities; 30&ndash;40% arise in deep soft tissues, the abdominal cavity, the pelvis, or the retroperitoneum; 10&ndash;15% arise in the head and neck; and 10&ndash;15% arise in the trunk {29039030; 26924782; 28838212; 22575866; 28731041; 30206022; 24360568}. Deep tumours are more common than superficial tumours, accounting for 70&ndash;90% of cases {29039030; 26924782}. In the head and neck, the sinonasal tract and orbit are the most common sites, followed by the oral cavity and salivary glands {28877055}.</p>",
+        "timestamp": "2020-01-14T14:52:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 401,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 234,
+    "contributions": [
+      {
+        "pkcontributionId": 58530,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 234,
+        "headingText": "<p>Most tumours present as slow-growing, painless masses. Abdominopelvic tumours may present with distention, constipation, urinary retention, or early satiety, whereas head and neck SFTs may present with nasal obstruction, voice changes, or bleeding {29772933; 27893469}. Large SFTs may cause paraneoplastic syndromes such as Doege&ndash;Potter syndrome, with the induction of severe hypoglycaemia or (more rarely) acromegaloid changes due to tumour production of IGF2 {30788455; 30278559}. The radiographic&nbsp;features of SFT are largely nonspecific. CT demonstrates a well-defined, occasionally lobulated mass that is isodense to skeletal muscle, with heterogeneous contrast enhancement due to the extensive tumour vasculature {30225611; 27153789}. MRI shows intermediate intensity on T1-weighted images and variable hypointensity to hyperintensity on T2-weighted images, corresponding to fibrous and cellular or myxoid areas, respectively {29682137; 27153789; 29028514}. Larger or aggressive cases may display increased heterogeneity due to fibrosis, haemorrhage, necrosis, myxoid and cystic degeneration, or calcifications {27153789}.</p>",
+        "timestamp": "2020-01-10T10:25:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 402,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 235,
+    "contributions": [
+      {
+        "pkcontributionId": 58531,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 235,
+        "headingText": "\r\n<p>SFTs affect men and women equally and are most common in adults, with a peak incidence between 40&nbsp;and 70&nbsp;years {28838212; 29039030; 22575866; 28731041; 30206022; 24360568}.</p>\r\n",
+        "timestamp": "2019-12-11T11:24:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 403,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 236,
+    "contributions": [
+      {
+        "pkcontributionId": 58532,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 236,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2019-12-11T11:24:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 404,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 237,
+    "contributions": [
+      {
+        "pkcontributionId": 58533,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 237,
+        "headingText": "<p>The genetic hallmark of SFT is a paracentric inversion involving chromosome&nbsp;12q, resulting in the fusion of the <em>NAB2</em> and <em>STAT6</em> genes {23313954; 23761323; 23313952}. Some studies have shown a correlation between fusion types and histological features {25582503; 24513261; 30584643}. The <em>NAB2</em>-<em>STAT6</em> fusion is thought to convert wildtype NAB2 from a transcriptional repressor of EGR1-mediated signalling into a transcriptional activator via replacement of the C-terminal repression domain by the transcriptional activation domain of STAT6, thereby resulting in a feedforward loop of constitutive EGR1-mediated transactivation of proliferation and survival-associated growth factors, including <em>IGF2</em> and <em>FGFR1</em> {23313952}. Overexpression of&nbsp;<em>ALDH1A1</em> (<em>ALDH1</em>), <em>EGFR</em>, <em>JAK2</em>, histone deacetylases, and retinoic acid receptor may also contribute to tumorigenesis {20527023; 23734203}. Other alterations associated with aggressive behaviour and dedifferentiation include <em>TERT</em> promoter mutations {29985536; 27562490; 29703757; 25582503} and deletions or mutations of <em>TP53</em> {25015562; 26022454; 25582503; 22026427}.</p>",
+        "timestamp": "2020-02-10T10:04:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 411,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 244,
+    "contributions": [
+      {
+        "pkcontributionId": 58534,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 244,
+        "headingText": "\r\n<p>SFTs are well-circumscribed masses that typically measure 5&ndash;10&nbsp;cm, although some lesions may exceed 25&nbsp;cm in greatest dimension. The cut surface is nodular and tan to reddish-brown, and it occasionally shows haemorrhage, myxoid change, or cystic degeneration {9160308; 10667425}.</p>\r\n",
+        "timestamp": "2019-12-11T11:24:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 405,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 238,
+    "contributions": [
+      {
+        "pkcontributionId": 58535,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 238,
+        "headingText": "\r\n<p>SFTs are composed of haphazardly arranged spindled to ovoid cells with indistinct, pale eosinophilic cytoplasm within a variably collagenous stroma, admixed with branching and hyalinized staghorn-shaped (haemangiopericytomatous) blood vessels. There is a wide histological spectrum, ranging from paucicellular lesions with abundant stromal keloidal-type collagen to highly cellular tumours consisting of closely spaced cells with little or no intervening stroma. Myxoid change may be present {10349983}. SFTs most often have low mitotic counts, without substantial nuclear pleomorphism or necrosis. Tumours demonstrating a high mitotic count with or without increased cellularity, atypia, necrosis, and infiltrative growth have traditionally been termed malignant, but new risk stratification models more accurately predict prognosis.</p>\r\n<p>Fat-forming (lipomatous) SFT harbours a component of mature adipose tissue {10524520; 11014579; 7793472; 26339447}. Giant cell&ndash;rich SFT, formerly known as giant cell angiofibroma, shows features of conventional SFT with an admixed population of multinucleated giant cells within the stroma and lining pseudovascular spaces {7573691; 10895819}. Dedifferentiated (anaplastic) SFTs show transition to high-grade sarcoma with or without heterologous elements such as rhabdomyosarcoma or osteosarcoma {19133003; 24427361; 22026427; 25582503; 23040384; 19718788; 22613995; 28968297}. By immunohistochemistry, SFT typically shows strong and diffuse expression of CD34 and nuclear STAT6 {23575898; 24030747; 25873501}, but expression may be lost in dedifferentiated SFT {22613995; 19718788; 26022454; 27189111}.</p>\r\n",
+        "timestamp": "2019-12-11T11:24:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 406,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 239,
+    "contributions": [
+      {
+        "pkcontributionId": 58536,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 239,
+        "headingText": "\r\n<p>Cytological examination reveals oval, elongated, or rounded cells with wispy cytoplasm and eosinophilic collagenous stroma {28914981}.</p>\r\n",
+        "timestamp": "2019-12-11T11:24:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 407,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 240,
+    "contributions": [
+      {
+        "pkcontributionId": 58537,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 240,
+        "headingText": "<p><em>NAB2</em>-<em>STAT6</em> gene fusions are pathognomonic for SFT. However, because <em>NAB2</em> and <em>STAT6</em> are in close proximity on chromosome&nbsp;12q, detection of their fusion is difficult by conventional cytogenetic methods, and the diversity of breakpoints occurring in both exons and introns makes PCR-based detection of fusion variants difficult without multiplexed sequencing assays. STAT6 immunohistochemistry is a sensitive and specific surrogate for all fusions {24030747; 24702701; 23575898}.</p>",
+        "timestamp": "2020-01-14T14:52:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 410,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 243,
+    "contributions": [
+      {
+        "pkcontributionId": 58538,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 243,
+        "headingText": "\r\n<p><em>Essential:</em> spindled to ovoid cells arranged around a branching and hyalinized vasculature; variable stromal collagen deposition; CD34 and/or STAT6 expression by immunohistochemistry.</p>\r\n<p><em>Desirable (in selected cases):</em> demonstration of <em>NAB2</em>-<em>STAT6</em> gene fusion.</p>\r\n",
+        "timestamp": "2019-12-11T11:24:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 408,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 241,
+    "contributions": [
+      {
+        "pkcontributionId": 58539,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 241,
+        "headingText": "\r\n<p>Risk stratification models are preferred over anatomical staging.</p>\r\n",
+        "timestamp": "2019-12-11T11:24:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 409,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 242,
+    "contributions": [
+      {
+        "pkcontributionId": 58540,
+        "bookId": 33,
+        "chapterId": 37,
+        "headingId": 242,
+        "headingText": "<p>Recurrence (distant or local) occurs in 10&ndash;30% of SFTs {22575866; 29039030; 28838212; 26924782; 30206022}, with 10&ndash;40% of recurrences reported after 5&nbsp;years {1203874; 9850176} and rare recurrences seen after 15&nbsp;years {29039030}. <em>TERT</em> promoter mutations are more common in tumours with aggressive features, but they may also be seen in low-risk SFT {29985536; 27562490; 25582503}. Various single clinical or histological features have been reported to correlate with metastatic or local recurrence potential in large series, including high mitotic count (&gt;&nbsp;2&nbsp;mitoses/mm<sup>2</sup>, equating to &gt;&nbsp;4&nbsp;mitoses per 10&nbsp;high-power fields of 0.5&nbsp;mm in diameter and 0.2&nbsp;mm<sup>2</sup> in area) {22575866; 24052313; 26924782; 28838212}, tumour size {24052313; 22575866; 29039030}, necrosis {22575866; 26924782}, patient age {22575866; 28838212}, tumour cellularity and nuclear pleomorphism {26924782}, and tumour site {29039030; 28838212}. However, individual studies contradict one another regarding which specific features are important.</p>\r\n<p>The development of multivariate risk models has resulted in improved prognostication over the traditional benign/malignant distinction. Of these models, the one most similar to the traditional definition of malignant SFT stratifies tumours into four risk tiers based on mitotic count, pleomorphism, and tumour cellularity {26924782}. A set of risk calculators proposed by the French Sarcoma Group (FSG) incorporates clinical data (patient age, tumour site), pathological features (mitotic count), and history of radiotherapy to variously predict overall survival, local recurrence, and distant metastatic risk {28838212}. The most widely used model for metastatic risk (see <a style=\"cursor:pointer\" href=\"/attachment/33/37/5624\" target=\"_blank\">#5624</a>Table <a style=\"cursor:pointer\" href=\"/attachment/33/37/5624\" target=\"_blank\">#5624</a>) incorporates mitotic count (&ge;&nbsp;2&nbsp;mitoses/mm<sup>2</sup>), patient age (&ge;&nbsp;55&nbsp;years), and tumour size stratified by 5&nbsp;cm tiers to classify tumours into low, intermediate, and high risk groups {22575866}. This model has been validated for both thoracic and extrathoracic SFTs {22575866; 28731041; 30206022; 29935303}; a subsequent refinement includes necrosis as a fourth variable, resulting in higher numbers of cases being classified as low-risk {28731041; 29935303}.</p>",
+        "timestamp": "2020-02-19T15:50:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

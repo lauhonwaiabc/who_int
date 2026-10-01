@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 68198,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 432,
+        "headingText": "\r\n<p>Clear cell carcinoma is a thymic carcinoma composed predominantly or totally of clear cells.</p>\r\n",
+        "timestamp": "2020-10-27T10:04:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 68199,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 433,
+        "headingText": "\r\n<p>8310/3 Clear cell carcinoma</p>\r\n",
+        "timestamp": "2020-10-27T10:04:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 68200,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 434,
+        "headingText": "\r\n<p>2C27.0 &amp; XH6L02 Carcinoma of thymus &amp; Clear cell adenocarcinoma, NOS</p>\r\n<p>2C27.0 &amp; XH9DC1 Carcinoma of thymus &amp; Squamous cell carcinoma, clear cell type</p>\r\n",
+        "timestamp": "2020-10-27T10:04:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 68201,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 435,
+        "headingText": "<p>None</p>",
+        "timestamp": "2021-02-22T14:55:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 68202,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 436,
+        "headingText": "<p>Carcinoma of the thymus with clear cell features; hyalinizing clear cell carcinoma</p>",
+        "timestamp": "2021-02-22T14:55:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 68203,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 437,
+        "headingText": "\r\n<p>Clear cell carcinoma of the thymus occurs in thymus or ectopic thymus {19440827}.</p>\r\n",
+        "timestamp": "2020-10-27T10:04:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 68204,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 438,
+        "headingText": "\r\n<p>Symptoms comprise dyspnoea, chest pain, and superior vena cava syndrome. No association with autoimmunity or myasthenia gravis has been observed. Locally invasive growth and metastases to mediastinal lymph nodes, lung, and bone are common {31050844; 7793482; 7125053}.</p>\r\n",
+        "timestamp": "2020-10-27T10:04:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 68205,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 439,
+        "headingText": "<p>The tumour is rare, with about 25&nbsp;cases reported so far. The average age is 55&nbsp;years (range: 33&ndash;84&nbsp;years), with an M:F&nbsp;ratio of approximately 2:1 {31050844; 6855274; 7125053; 7793482}.</p>",
+        "timestamp": "2021-02-22T14:55:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 68206,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 440,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-10-27T10:04:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 68207,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 441,
+        "headingText": "\r\n<p><em>EWSR1</em>-<em>ATF1</em> gene fusion, the characteristic molecular change of salivary gland&ndash;type hyalinizing clear cell carcinoma, has been found selectively in cases exhibiting prominent stromal hyalinization {21484932; 31050844}. It is currently unclear whether clear cell carcinomas lacking hyalinization and <em>EWSR1</em> translocation represent a distinct entity or merely other specific types of thymic carcinoma with clear cell change.</p>\r\n",
+        "timestamp": "2020-10-27T10:04:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 68208,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 448,
+        "headingText": "<p>The tumour is firm and often infiltrative, measuring 40&ndash;120 mm, with a greyish, mostly solid but occasionally cystic and haemorrhagic cut surface {31050844; 7125053; 7793482}.</p>",
+        "timestamp": "2021-02-03T11:08:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 68209,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 442,
+        "headingText": "<p>The infiltrative tumour is composed of sheets, islands, and trabeculae of polygonal clear cells with well-defined cell membranes {361541; 31050844}. The nuclei are small to medium-sized and moderately pleomorphic, with fine chromatin and small nucleoli. Focal squamous differentiation can occur but is rare. Variable amounts of fibrous stroma are present, but some cases have voluminous hyalinized stroma around the tumour islands, reminiscent of hyalinizing clear cell carcinoma of major/minor salivary glands {31050844}. The mitotic count is usually low {7793482}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>The tumour is typically positive for low-&nbsp;and high-molecular-weight cytokeratins (e.g. CK5, CK6, CK8, CK18, and CK19), p40, and p63. CD5, KIT (CD117), and GLUT1 are expressed in a minority of cases {9255257; 9850173; 31050844; 7793482}. Immature, TdT-positive T&nbsp;lymphocytes are absent.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Distinction from hyalinizing clear cell carcinoma of salivary gland or lung requires clinical correlation {31050844}. Clear cell renal cell carcinoma often shows focal glandular/tubular formations and is typically PAX8-positive and p40/CK5/6-negative. Thymomas with focal clear cell change exhibit typical morphology of thymoma, do not show nuclear pleomorphism as is seen in clear cell carcinoma, and show at least sparse TdT-expressing immature T&nbsp;cells. Mediastinal large B-cell lymphoma and mediastinal seminoma can be rich in clear cells but can be readily distinguished from clear cell carcinoma by the morphology and immunophenotype. Clear cell sarcoma, although also positive for the <em>EWSR1</em>-<em>ATF1</em> fusion, typically expresses S100, HMB45, and melan-A (MART1) but not cytokeratins, and it usually does not primarily arise in the mediastinum.</p>",
+        "timestamp": "2020-12-01T16:46:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 68210,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 443,
+        "headingText": "\r\n<p>The experience is limited to one report of clusters of vacuolated, signet-ring&ndash;like cells {24175107}.</p>\r\n",
+        "timestamp": "2020-10-27T10:04:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 68211,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 444,
+        "headingText": "\r\n<p>Demonstration of <em>EWSR1</em> gene translocation may help to identify the hyalinizing clear cell carcinoma.</p>\r\n",
+        "timestamp": "2020-10-27T10:04:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 68212,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Islands and trabeculae of carcinoma cells with clear cytoplasm</li>\r\n<li>Abundant hyalinized stroma in hyalinizing clear cell carcinoma</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Cytokeratin and p40/p63 immunostaining</li>\r\n<li><em>EWSR1</em> translocation for hyalinizing clear cell carcinoma</li>\r\n</ul>",
+        "timestamp": "2021-02-22T14:55:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 68213,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 445,
+        "headingText": "<p>Thymic clear cell carcinoma should be staged according to the Union for International Cancer Control (UICC) TNM staging system [[Brierley JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley-Blackwell; 2017.]] {25396314} and, optionally, the Masaoka&ndash;Koga system {21847052}. Most cases are at an advanced stage at presentation.</p>",
+        "timestamp": "2021-01-14T10:33:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 68214,
+        "bookId": 35,
+        "chapterId": 235,
+        "headingId": 446,
+        "headingText": "\r\n<p>This is an aggressive neoplasm. Local recurrence and intrathoracic and extrathoracic metastases are common. Surgery and radiochemotherapy are the standard approaches.</p>",
+        "timestamp": "2020-10-27T10:04:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

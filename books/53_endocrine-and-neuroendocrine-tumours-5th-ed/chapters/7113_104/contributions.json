@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123054,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 607,
+        "headingText": "\r\n<p>Nodular ganglioneuroblastoma (GNBn; composite Schwannian stroma&ndash;rich/dominant and Schwannian stroma&ndash;poor) is composed of distinct histologies (clones): intermixed ganglioneuroblastoma (GNBi) or ganglioneuroma and neuroblastoma.</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123055,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 608,
+        "headingText": "\r\n<p>9490/3 Ganglioneuroblastoma, nodular</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123056,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 609,
+        "headingText": "\r\n<p>2A00.21 &amp; XH77W7 Mixed neuronal-glial tumours &amp; Ganglioneuroblastoma</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123057,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 610,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123058,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 611,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123059,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 612,
+        "headingText": "\r\n<p>Primary GNBn occurs in sites associated with neural crest migration, including the adrenal medulla {14601099; 10964346}.</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123060,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 613,
+        "headingText": "\r\n<p>Adrenal GNBn is detected as a suprarenal mass {22137163; 28465480}. Occasionally, metastatic disease leads to the diagnosis {14601099}.</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123061,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 614,
+        "headingText": "\r\n<p>GNBn is uncommon, accounting for 8% of all peripheral neuroblastic tumours filed at the Children&rsquo;s Oncology Group (COG) Neuroblastoma Pathology Reference Laboratory. It is rare in infancy, and the majority of cases are diagnosed in children aged &gt;&nbsp;18&nbsp;months {22137163}.</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123062,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 615,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123063,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 616,
+        "headingText": "\r\n<p>GNBn has multiple components, i.e. GNBi or ganglioneuroma (biologically favourable with advanced tumour maturation) and neuroblastoma (either biologically favourable or unfavourable with less tumour maturation) in a single mass. These are considered to represent different clones rather than focal maturation or dedifferentiation {14601099; 10964346}.</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123064,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 623,
+        "headingText": "\r\n<p>The neuroblastoma component, often haemorrhagic and necrotic, is typically a discrete nodule in a background of GNBi/ganglioneuroma that is solid/firm and white/yellow. Multiple nodules may be present. Sampling of all nodules for histopathological and molecular evaluation is critical for case management. The proportion of neuroblastoma and GNBi/ganglioneuroma in an individual tumour varies case by case.</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123065,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 617,
+        "headingText": "\r\n<p>Diagnosis requires the identification of GNBi/ganglioneuroma and neuroblastoma in a single tumour. The neuroblastoma nodule is separated from the GNBi/ganglioneuroma by a fibrous capsule, a pushing border without a definite capsule, or an infiltrative margin. Rarely, a primary site biopsy shows GNBi/ganglioneuroma with neuroblastoma detected in a metastatic site. The neuroblastic differentiation, grade, and mitosis-karyorrhexis index of each neuroblastoma nodule is essential, with categorization as &ldquo;favourable histology&rdquo; or &ldquo;unfavourable histology&rdquo; according to the International Neuroblastoma Pathology Classification (INPC; see <a style=\"cursor:pointer\" href=\"/chaptercontent/53/102\" target=\"_blank\">section </a><em>Neuroblastoma</em>).</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123066,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 618,
+        "headingText": "\r\n<p>Cytopathological smears are similar to those of GNBi {31231909}.</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123067,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 619,
+        "headingText": "\r\n<p>Genomic/molecular investigation is focused on the neuroblastoma component (see <a style=\"cursor:pointer\" href=\"/chaptercontent/53/102\" target=\"_blank\">section </a><em>Neuroblastoma</em>). <em>MYCN</em> amplification is rare (2%) {22137163}.</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123068,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> distinct histologies (clones) of GNBi/ganglioneuroma and neuroblastoma; assessment of the neuroblastoma component as per the INPC criteria.</p>\r\n<p><em>Desirable:</em> genomic/molecular testing of the neuroblastoma component.</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123069,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 620,
+        "headingText": "\r\n<p>The International Neuroblastoma Risk Group Staging System (INRGSS) is recommended for clinical staging based on the presence or absence of image-defined risk factors {19047290}.</p>\r\n",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123070,
+        "bookId": 53,
+        "chapterId": 104,
+        "headingId": 621,
+        "headingText": "\r\n<p>The prognosis for patients with GNBn is determined by the clinical, histopathological, and molecular characteristics of the neuroblastoma component {14601099; 22137163; 28465480} (see <a style=\"cursor:pointer\" href=\"/chaptercontent/53/102\" target=\"_blank\">section </a><em>Neuroblastoma</em>).</p>",
+        "timestamp": "2024-10-09T12:55:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

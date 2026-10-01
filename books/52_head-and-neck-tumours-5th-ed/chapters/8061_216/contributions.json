@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 115714,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 576,
+        "headingText": "\r\n<p>Rhabdomyoma is a benign soft tissue neoplasm showing skeletal muscle differentiation.</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 115715,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 577,
+        "headingText": "\r\n<p>8900/0 Rhabdomyoma, NOS</p>\r\n<p>8904/0 Adult-type rhabdomyoma</p>\r\n<p>8903/0 Fetal-type rhabdomyoma</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 115716,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 578,
+        "headingText": "\r\n<p>2E86.2 &amp; XH8WG9 Rhabdomyoma &amp; Rhabdomyoma, NOS</p>\r\n<p>2E86.2 &amp; XH4729 Rhabdomyoma &amp; Fetal rhabdomyoma</p>\r\n<p>2E86.2 &amp; XH4BG5 Rhabdomyoma &amp; Adult rhabdomyoma</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 115717,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> extracardiac rhabdomyoma; rhabdomyomatous hamartoma.</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 115718,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 580,
+        "headingText": "<p >Adult-type rhabdomyoma (ARM); fetal-type rhabdomyoma (FRM)</p>",
+        "timestamp": "2023-11-17T14:51:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 115719,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 581,
+        "headingText": "\r\n<p>ARM and FRM arise predominantly in the head and neck, with the parapharyngeal space, salivary glands, larynx, mouth, and soft tissue of the neck most commonly affected {31950473}.</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 115720,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients usually present with a slowly growing mass, but rapid growth does not exclude the diagnosis {31950473}. ARM may be multifocal {2974590; 32773112; 8505039}. Symptoms are site-dependent and include hoarseness, airway obstruction, and dysphagia {31950473}.</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 115721,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 583,
+        "headingText": "\r\n<p>The age range of patients with ARM is broad (median age: 60&nbsp;years); the M:F&nbsp;ratio is 3:1. The median age of patients with FRM is 4.5&nbsp;years, ranging from birth (congenital) to 60&nbsp;years; the M:F&nbsp;ratio is 5:3 {31950473; 8319954; 8505039}.</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 115722,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 584,
+        "headingText": "<p>Some cases are syndrome-related (FRM: naevoid basal cell carcinoma syndrome; ARM: Birt&ndash;Hogg&ndash;Dub&eacute; syndrome) {16294371; 29744825}.</p>",
+        "timestamp": "2023-11-17T14:51:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 115723,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 585,
+        "headingText": "\r\n<p>Mutations in the sonic hedgehog pathway genes are often involved {23780909; 16294371}. <em>FLCN</em> can be altered in some cases {29744825}.</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 115724,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 592,
+        "headingText": "\r\n<p>ARMs are circumscribed, lobulated, soft, and tan to red-brown, with a fleshy cut surface. FRMs are circumscribed, soft, and grey-white, with a glistening cut surface. The median tumour size for both is 30&nbsp;mm {8505039; 8319954}.</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 115725,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 586,
+        "headingText": "\r\n<p>ARM is composed of large polygonal cells having abundant eosinophilic, granular, or vacuolated cytoplasm (spider cells) with focal cross-striation or crystalline (rod-like or jackstraw-like) inclusions. The small round nuclei are centrally or peripherally located, with vesicular chromatin and distinct nucleoli {8505039; 31950473}.</p>\r\n<p>FRM shows immature rhabdomyoblasts including primitive round to spindle cells and myotube-like rhabdomyoblasts with eosinophilic cytoplasm and cross-striations set in a myxoid matrix {8319954}.</p>\r\n<p>FRM can be confused with embryonal rhabdomyosarcoma. Features favouring FRM are a superficial location, circumscription without infiltrative margins, a lack of cellular atypia, absence of a cambium layer, and a paucity of mitotic figures {19421668; 31950473; 8319954}.</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 115726,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 587,
+        "headingText": "\r\n<p>ARM shows large polygonal cells with abundant eosinophilic or vacuolated cytoplasm and peripherally located nuclei {29131558; 21053579}. In FRM, bland spindle cells and rhabdomyoblasts with abundant eosinophilic cytoplasm are seen {19421668}.</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 115727,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 588,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 115728,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em></p>\r\n<p>ARM: large polygonal skeletal muscle cells with eosinophilic cytoplasm and round, centrally or peripherally located nuclei with nucleoli.</p>\r\n<p>FRM: rhabdomyoblasts in different stages, without atypia and with few mitotic figures.</p>",
+        "timestamp": "2023-11-17T14:52:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 115729,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 115730,
+        "bookId": 52,
+        "chapterId": 216,
+        "headingId": 590,
+        "headingText": "\r\n<p>The recommended treatment is complete excision. Recurrence is often attributed to incomplete removal. There is no metastatic potential {19421668; 31950473; 8505039}.</p>",
+        "timestamp": "2023-10-02T11:08:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

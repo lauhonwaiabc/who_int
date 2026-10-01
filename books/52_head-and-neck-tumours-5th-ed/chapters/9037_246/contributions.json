@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 116123,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 576,
+        "headingText": "<p>Burkitt lymphoma (BL) is an aggressive B-cell neoplasm composed of uniform, intermediate-sized cells with multiple small nucleoli, basophilic cytoplasm, high proliferation index, and IG::<em>MYC</em> translocations.</p>",
+        "timestamp": "2023-11-24T15:00:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 116124,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 577,
+        "headingText": "\r\n<p>9687/3 Burkitt lymphoma, NOS</p>\r\n<p>9687/3 Endemic Burkitt lymphoma</p>\r\n<p>9687/3 Sporadic Burkitt lymphoma</p>\r\n<p>9687/3 Immunodeficiency-associated Burkitt lymphoma</p>\r\n",
+        "timestamp": "2023-10-02T12:10:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 116125,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 578,
+        "headingText": "\r\n<p>2A85.6 &amp; XH3FE9 Burkitt lymphoma, including Burkitt leukaemia &amp; Mature B-cell lymphomas</p>\r\n",
+        "timestamp": "2023-10-02T12:10:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 116126,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> Burkitt cell leukaemia (9826/3).</p>\r\n",
+        "timestamp": "2023-10-02T12:10:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 116127,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 580,
+        "headingText": "\r\n<p>Endemic BL; sporadic BL; immunodeficiency-associated BL</p>\r\n",
+        "timestamp": "2023-10-02T12:10:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 116128,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 581,
+        "headingText": "<p>In endemic BL, jaws and other facial bones are involved in 50&ndash;70% of cases {2358947; 31115699}. Sporadic BL can involve the orbit, Waldeyer ring, and gingiva {12560151; 27257042}. Immunodeficiency-associated BL most often involves lymph nodes, and uncommonly involves the parotid glands. Sporadic and immunodeficiency-associated BL uncommonly involve facial bones. Patients with all BL subtypes are at high risk for involvement of the CNS. Patients with sporadic and immunodeficiency-associated BL can present with acute leukaemia; this occurrence is rare in patients with endemic BL. BL of the thyroid is considered in the WHO classification of endocrine tumours [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours [Internet; beta version ahead of print]. Lyon (France): International Agency for Research on Cancer; 2022. (WHO classification of tumours series, 5th ed.; vol. 10). https://tumourclassification.iarc.who.int/chapters/53.]].</p>",
+        "timestamp": "2024-01-18T14:28:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 116129,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 582,
+        "headingText": "<p >Patients with BL commonly present with extranodal disease, a high tumour burden, and a short duration of symptoms {31229156; 31115699; 32144513}. BL can destroy bones (shown by imaging studies) and compress nearby structures. Site-specific symptoms include altered vision, nasal obstruction, enlarged tonsil(s), and dental/jaw pain often with loss of teeth {2358947; 31115699; 32144513}. Patients with BL uncommonly present with lymphadenopathy; lymph node involvement is most common in immunodeficiency-associated BL. Generalized B-type symptoms occur in a subset of patients.</p>",
+        "timestamp": "2023-11-20T13:39:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 116130,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 583,
+        "headingText": "<p>The incidence of endemic BL is 30&ndash;60&nbsp;cases per 1&nbsp;million person-years {22260300; 2374749}. Most patients are children, with a median age of 4&ndash;7&nbsp;years. Boys are affected more often than girls (M:F&nbsp;ratio: 3:1). Sporadic BL occurs in high-income countries and is much less common than endemic BL, with an incidence of 0.1&ndash;0.3&nbsp;cases per 100&nbsp;000&nbsp;person-years {22260300; 2374749} and an M:F&nbsp;ratio of 3&ndash;4:1. Patients with sporadic BL are usually younger adults, with a median age of 25&ndash;40&nbsp;years. The incidence of immunodeficiency-associated BL is 20&ndash;25&nbsp;cases per 100&nbsp;000 person-years {22260300; 32735838}. The M:F&nbsp;ratio is 4&ndash;5:1. HIV infection is the most common cause of immunodeficiency in patients with BL {32735838}.</p>",
+        "timestamp": "2024-01-18T14:29:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 116131,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 584,
+        "headingText": "\r\n<p>EBV is present in &gt;&nbsp;95% of endemic BL cases {15685227; 22260300}. These neoplasms are also linked to holoendemic malaria, implicating a role for <em>Plasmodium falciparum</em> infection {26276629}. Other infectious agents (e.g. HIV, arboviruses) may play a role via chronic antigenic stimulation and extrinsic activation of B-cell receptor signalling {26712879}. Germline DNA genetic variants in <em>TCF4</em> and <em>CHD8</em> have been identified in patients with endemic BL in eastern Africa {33051549}. Using traditional detection methods such as in&nbsp;situ hybridization for EBV-encoded small RNA (EBER), EBV can be detected in 20&ndash;30% of sporadic and 20&ndash;40% of immunodeficiency-associated BL cases (see below). Using more sensitive techniques, however, as many as 67% of sporadic and immunodeficiency-associated BL cases may be positive for EBV {32483241}.</p>\r\n",
+        "timestamp": "2023-10-02T12:10:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 116132,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 585,
+        "headingText": "\r\n<p>All subtypes of BL carry <em>MYC</em> translocations, which probably occur as mistakes in immunoglobulin heavy chain switching or immunoglobulin variable region gene somatic hypermutation {26712879}. EBV may be essential early in BL pathogenesis by allowing B&nbsp;cells with genetic defects to evade apoptosis, but the virus may be subsequently lost (hit and run) with the acquisition of stable (epi)genetic changes by the lymphoma cells. The presence of <em>ID3</em> and <em>TCF4</em> mutations in BL results in tonic B-cell receptor signalling {24492847}. These mutations are nearly mutually exclusive with EBV infection, suggesting a dual mechanism of BL pathogenesis: mutational versus virus-driven {26468873}. Gene expression and microRNA profiling have shown similarities between BL subtypes and have shown that BL cases differ from cases of other lymphoma types {21701491; 21245480; 26113842}.</p>\r\n",
+        "timestamp": "2023-10-02T12:10:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 116133,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 592,
+        "headingText": "\r\n<p>The gross specimen often shows a mass. The cut surface has a fish-flesh appearance. Necrosis is common and haemorrhage can be present. The neoplasm can surround contiguous lymph nodes.</p>\r\n",
+        "timestamp": "2023-10-02T12:10:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 116134,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 586,
+        "headingText": "\r\n<p>The morphological features of BL subtypes are similar. Normal structures are replaced by a diffuse proliferation of lymphoma cells; a starry-sky pattern is very common. The lymphoma cells are monomorphic, intermediate (medium)-sized cells with 2&ndash;4&nbsp;basophilic nucleoli. The cells have moderate, basophilic cytoplasm that often squares off with the cytoplasm of other cells (cookie-cutter appearance). Apoptosis is common and often marked. Coagulative necrosis is common. Rare cases are associated with a prominent granulomatous reaction {33948980}.</p>\r\n<p>The lymphoma cells are of B-cell lineage, positive for monotypic light chain, IgM, pan&ndash;B-cell antigens, CD10, CD38, CD81, and BCL6, and are negative for pan&ndash;T-cell antigens, CD23, CD44, CD138, LMO2, and TdT. BCL2 is usually negative but in rare cases is focally and/or weakly positive {21718280}. MYC is positive in &gt;&nbsp;90% of cells in most cases, and the Ki-67 proliferation index is high (90&ndash;95%) {29954940}.</p>\r\n",
+        "timestamp": "2023-10-02T12:10:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 116135,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 587,
+        "headingText": "\r\n<p>Smears show intermediate-sized lymphoma cells often associated with many apoptotic cells. In Romanowsky stains, many cytoplasmic vacuoles are present.</p>\r\n",
+        "timestamp": "2023-10-02T12:10:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 116136,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 588,
+        "headingText": "<p>Translocations involving the <em>MYC</em> locus on chromosome 8q24 are the primary genetic event in 90&ndash;95% of BL cases. The t(8;14)(q24;q32) <em>MYC</em>::IGH translocation occurs in 80% of cases, and t(2;8)(p12;q24) IGK::<em>MYC</em> or t(8;22)(q24;q11) <em>MYC</em>::IGL occurs in 20% of cases. Conventional cytogenetic or molecular methods may miss some cases that carry <em>MYC</em> translocations. Cryptic insertions of <em>MYC</em> into IGH have been described {31073073}. Alternative mechanisms that dysregulate MYC probably occur in a small subset of cases {31748534}. BL cases, regardless of subtype, have similar gene expression and microRNA profiles {21701491; 30617194}. Next-generation sequencing has shown mutations of <em>ID3</em> and <em>TCF3</em> that activate B-cell receptor signalling in 70% of sporadic BL cases {24492847}. Mutations of <em>CCND3</em>, <em>TP53</em>, <em>RHOA</em>, <em>SMARCA4</em>, and <em>ARID1A</em> occur in 10&ndash;40% of sporadic BL cases. EBV-positive BL cases have fewer mutations.</p>",
+        "timestamp": "2024-01-18T14:29:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 116137,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> intermediate-sized lymphoma cells; germinal-centre B-cell lineage; high proliferation (Ki-67) index; absence (or minimal expression) of BCL2; usually strong expression of MYC (in &gt;&nbsp;80% of cells) and/or demonstration of <em>MYC</em> breakage or IG::<em>MYC</em> translocation.</p>\r\n<p><em>Desirable:</em> starry-sky pattern.</p>\r\n",
+        "timestamp": "2023-10-02T12:10:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 116138,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 589,
+        "headingText": "\r\n<p>The predominantly extranodal distribution of BL makes Ann Arbor staging suboptimal. The system proposed by Murphy and revised in 2015 is used routinely for children {25940716}.</p>\r\n",
+        "timestamp": "2023-10-02T12:10:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 116139,
+        "bookId": 52,
+        "chapterId": 246,
+        "headingId": 590,
+        "headingText": "<p >The prognosis of patients with sporadic BL, if treated with immunochemotherapy, is excellent. The overall survival rate approaches 90% in children and 60&ndash;70% in adults {31229156; 32144513; 33502927}. A recently proposed Burkitt Lymphoma International Prognostic Index (BL-IPI) subdivides patients into low-, intermediate- and high-risk groups, with overall survival rates of 96%, 76%, and 59%, respectively {33502927}. The prognosis of patients with endemic BL has been suboptimal, in part because of inadequate resources {29769263; 32841337}. Results have improved since the introduction of more intensive regimens in African nations. Patients with HIV-associated BL can be successfully treated with immunochemotherapy if HIV infection is controlled {31229156; 32735838}.</p>",
+        "timestamp": "2023-11-20T13:40:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

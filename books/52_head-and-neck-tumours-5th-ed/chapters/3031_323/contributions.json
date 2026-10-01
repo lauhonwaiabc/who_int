@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 113226,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 576,
+        "headingText": "\r\n<p>Chondroma is a benign mesenchymal tumour of laryngeal hyaline cartilage. Chondrosarcoma is a malignant mesenchymal tumour of laryngeal hyaline cartilage.</p>\r\n",
+        "timestamp": "2023-09-25T14:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 113227,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 577,
+        "headingText": "\r\n<p>9220/0 Chondroma</p>\r\n<p>9220/3 Chondrosarcoma</p>\r\n<p>9242/3 Clear cell chondrosarcoma</p>\r\n<p>9243/3 Dedifferentiated chondrosarcoma</p>\r\n",
+        "timestamp": "2023-09-25T14:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 113228,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 578,
+        "headingText": "\r\n<p>2E90.6 &amp; XH0NS4 Benign neoplasm of nasopharynx &amp; Chondroma, NOS</p>\r\n<p>2B6B.Y &amp; XH8J23 Other specified malignant neoplasms of nasopharynx &amp; Chondrosarcoma, NOS</p>\r\n",
+        "timestamp": "2023-09-25T14:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 113229,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 579,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-25T14:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 113230,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 580,
+        "headingText": "\r\n<p>Clear cell chondrosarcoma; dedifferentiated chondrosarcoma</p>\r\n",
+        "timestamp": "2023-09-25T14:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 113231,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 581,
+        "headingText": "\r\n<p>Cricoid cartilage is the most common site (~70%) for laryngeal cartilaginous tumours, followed by the thyroid, arytenoid, and tracheal cartilages {9041812; 12131151; 15167045; 25183187; 25960446}; the epiglottis is rarely affected {12131151; 28822621}.</p>\r\n",
+        "timestamp": "2023-09-25T14:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 113232,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 582,
+        "headingText": "<p>Both tumours grow slowly, producing an endolaryngeal mass, with symptoms depending on tumour site and size. Slowly progressive hoarseness, dyspnoea, dysphagia, and stridor are usually present. Thyroid cartilage tumours may be a palpable mass {12131151; 15167045; 25183187}.</p>\r\n<h5>Imaging</h5>\r\n<p>High-resolution contrast-enhanced CT of laryngeal chondrosarcoma shows ring-like, arc, or popcorn calcifications within an expansile, bulky, destructive intracartilaginous mass below an intact mucosal surface. The tumour frequently expands outward into the perilaryngeal soft tissues. MRI shows a hyperintense mass on the T2 fat-suppressed short-tau inversion recovery (STIR) protocol {8456728; 10609482; 12131151; 15167045; 18495402}. FDG PET may help with tumour grading, metastasis detection, and local recurrence assessment {25183187}.</p>",
+        "timestamp": "2023-10-12T17:18:37"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 113233,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 583,
+        "headingText": "\r\n<p>Cartilaginous tumours account for 0.2&ndash;0.5% of all laryngeal tumours, with chondrosarcomas (the most common laryngeal sarcomas) being significantly more common than chondromas {9041812; 15290669; 18607979; 24213203; 24474667; 25183187; 31256243; 33686585}. Chondromas occur across a wide patient age range (24&ndash;79&nbsp;years, median: 56&nbsp;years), with an M:F&nbsp;ratio of 2:1 {9041812}. Chondrosarcomas develop in slightly older patients, with a wide patient age range (25&ndash;91&nbsp;years, median: 62&nbsp;years), and the M:F&nbsp;ratio is 3.2:1 {9041812; 12131151; 24474667; 25183187; 27291822}. Chondrosarcomas are significantly more common in White people than in Black people (ratio: 7:1) {15167045}.</p>\r\n",
+        "timestamp": "2023-09-25T14:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 113234,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 584,
+        "headingText": "\r\n<p>The etiology is unknown, with several hypotheses, including the disordered ossification of hyaline cartilage in areas of muscle insertion {15167045}, and ischaemic changes in chondroma leading to malignant transformation {12131151}. Other possible predisposing factors are radiotherapy, polytetrafluoroethylene (Teflon) injection, and repeated laryngeal trauma {1913528; 2721410; 25183187}.</p>\r\n",
+        "timestamp": "2023-09-25T14:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 113235,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 585,
+        "headingText": "\r\n<p><em>IDH1</em> and <em>IDH2</em> gene mutations are commonly seen in central-type chondrosarcomas, but they are detected in only 12% of laryngotracheal cases tested, suggesting an alternate tumorigenesis in laryngeal tumours {30296521}.</p>\r\n",
+        "timestamp": "2023-09-25T14:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 113236,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 592,
+        "headingText": "<p>Both tumours present as smooth, lobulated, submucosal masses with an intact mucosa. The cut surfaces are glassy, firm, white, or grey. Chondromas are &le;&nbsp;20&nbsp;mm in greatest dimension, whereas chondrosarcomas are as large as 120&nbsp;mm (median: 35&nbsp;mm). Dedifferentiated chondrosarcomas have foci with a fleshy appearance {9041812; 12131151; 12160266; 15290669}.</p>",
+        "timestamp": "2023-10-12T17:19:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 113237,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 586,
+        "headingText": "<p>Chondromas show mature hyaline cartilage histologically resembling normal cartilage and are hypocellular, with evenly distributed, bland-looking tumour cells in an abundant basophilic matrix. Chondrocytes have small, uniform, single nuclei surrounded by eosinophilic cytoplasm, with only one cell per lacuna. Cellular pleomorphism, mitoses, and binucleated chondrocytes are absent. Scattered foci of calcification and ossification may be seen.</p>\r\n<p>Chondrosarcomas show a gradient of increased cellularity, pleomorphism, multinucleation, and mitoses, features used in tumour grading. Most laryngeal chondrosarcomas are low-grade (grade&nbsp;1), showing a pattern of lobular disarray and destructive invasion of native cartilage and bone, with tumour lobules permeating and entrapping pre-existing bone trabeculae. The cellularity is higher than in chondromas, with binucleation, slight nuclear pleomorphism, and nuclear hyperchromasia. Moderately differentiated (grade&nbsp;2) tumours show a higher degree of cellularity and nuclear pleomorphism than do grade&nbsp;1 tumours, and they may have scattered mitoses. The myxoid pattern {12131151; 23032857} shows a string-of-pearls pattern of neoplastic cells in a myxoid background. High-grade (grade&nbsp;3) tumours have high cellularity; significant multinucleation, nuclear pleomorphism, and hyperchromasia; tumour necrosis; and increased mitoses. High-grade chondrosarcomas are rare, accounting for only about 5% of all laryngeal chondrosarcomas {12131151}. Ossification and calcification can be seen in all tumour grades {9041812; 12131151; 15167045}.</p>\r\n<h5>Subtypes</h5>\r\n<p>These are rare in the larynx. Clear cell chondrosarcoma shows a sharp transition of conventional chondrosarcoma to a proliferation of tightly packed, large polygonal clear tumour cells with distinct cellular membranes but lacking the typical dense chondroid matrix {11458227; 11859213; 24499430; 24715432; 30181407}. Dedifferentiated chondrosarcoma shows a biphasic appearance, with well-differentiated chondrosarcoma juxtaposed to a high-grade non-cartilaginous sarcoma {12131151; 12160266; 15024362; 24222068; 26718693; 28965627; 29160138}. Mesenchymal chondrosarcoma (separately discussed in <a style=\"cursor:pointer\" href=\"/chaptercontent/52/177\" target=\"_blank\">section </a><em>Mesenchymal chondrosarcoma</em>) is an extremely rare malignancy of the larynx with a biphasic small blue round cell proliferation associated with islands of differentiated hyaline cartilage {8958297; 28060373}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Immunohistochemistry is rarely necessary, but the chondroid cells are immunoreactive for S100, SOX9, and D2-40, and negative for keratin and EMA {10555005; 17021752; 19194275; 22944296}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The major differential is between chondroma and chondrosarcoma, and a size cut-off point of &gt;&nbsp;20&nbsp;mm has been suggested to favour chondrosarcoma. However, in incisional biopsy or needle samples, distinction may be difficult. Some low-grade chondrosarcomas of the larynx may be better diagnosed as an atypical cartilaginous neoplasm, as is done at other sites {18852676}, but without supporting evidence for laryngeal tumours specifically, this terminology is not advocated. Chondrometaplasia usually shows multiple elastic cartilage nodules affecting the vocal cord that blend into the adjacent stroma {29202349}. A spindle cell squamous cell carcinoma may have heterologous benign or malignant cartilage elements, but the cartilage is set within a malignant spindled epithelial cell population {11812937}.</p>",
+        "timestamp": "2024-02-01T14:43:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 113238,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 587,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-25T14:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 113239,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 588,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-09-25T14:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 113240,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 591,
+        "headingText": "<h5>Chondroma</h5>\r\n<p><em>Essential:</em> a lobular cartilaginous tumour without pleomorphism, binucleation, or destructive growth.</p>\r\n<p><em>Desirable:</em> tumour size &le;&nbsp;20&nbsp;mm.</p>\r\n<h5>Chondrosarcoma</h5>\r\n<p><em>Essential:</em> a malignant cartilaginous neoplasm with lobular cluster disarray, with destructive invasion of native cartilage and/or bone; increased cellularity with binucleation, nuclear pleomorphism, and nuclear hyperchromasia.</p>\r\n<p><em>Desirable:</em> imaging findings of an expansile, destructive intracartilaginous mass, usually with ring-like, arc, or popcorn calcifications.</p>",
+        "timestamp": "2023-10-12T17:19:52"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 113241,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 589,
+        "headingText": "<p>Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system classification for head and neck sarcomas (chondrosarcoma).</p>",
+        "timestamp": "2023-10-09T16:50:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 113242,
+        "bookId": 52,
+        "chapterId": 323,
+        "headingId": 590,
+        "headingText": "\r\n<p>The 1-year, 5-year, and 10-year disease-specific survival rates for laryngeal chondrosarcoma are 97%, 90%, and 85%, respectively, although the local recurrence rate is relatively high (18&ndash;50%), usually due to incomplete resection {12131151; 24474667; 27291822}. Tumour location, grade, subtype, and therapy do not seem to influence outcome (other than possibly for dedifferentiated tumours) {15024362; 27291822}, which encourages conservative, function-preserving surgery as the primary treatment {12131151; 15290669; 24700301}. Distant metastases are exceedingly rare {24213203}.</p>",
+        "timestamp": "2023-09-25T14:09:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

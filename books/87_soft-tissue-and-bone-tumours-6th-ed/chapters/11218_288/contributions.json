@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1119,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1158,
+    "contributions": [
+      {
+        "pkcontributionId": 156051,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1158,
+        "headingText": "\r\n<p><em>PATZ1</em>-rearranged sarcomas display round and spindle cell morphology, co-express myoepithelial and skeletal muscle markers, and are characterized by fusions involving <em>EWSR1</em> and <em>PATZ1</em>.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1120,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1159,
+    "contributions": [
+      {
+        "pkcontributionId": 156052,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1159,
+        "headingText": "\r\n<p>None.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1121,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1160,
+    "contributions": [
+      {
+        "pkcontributionId": 156053,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1160,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1122,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1161,
+    "contributions": [
+      {
+        "pkcontributionId": 156054,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1161,
+        "headingText": "\r\n<p><em>Acceptable:</em> <em>EWSR1</em>::<em>PATZ1</em> sarcoma; round cell sarcoma with <em>EWSR1</em>::<em>PATZ1</em>.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1123,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1162,
+    "contributions": [
+      {
+        "pkcontributionId": 156055,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1162,
+        "headingText": "\r\n<p>None.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1124,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1163,
+    "contributions": [
+      {
+        "pkcontributionId": 156056,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1163,
+        "headingText": "\r\n<p>Most cases occur in the soft tissues of the thoracodorsal abdominal region, but they can occasionally involve the extremities and head and neck, including the tongue {10949935; 29431183; 30379650; 31189996; 32134119; 32362012; 33012788; 33459994; 33077252; 38043789; 38645952}. Visceral examples are exceptionally rare with only a single documented primary pulmonary case {33012788}. Primary osseous tumours have not been reported.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1125,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1164,
+    "contributions": [
+      {
+        "pkcontributionId": 156057,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1164,
+        "headingText": "\r\n<p>The most common presentation is that of a mass of variable duration associated with pain {30379650; 31189996; 32134119; 38645952}. Less commonly, fatigue and weight loss have also been reported {32134119}. Some cases present with widespread metastases at the time of initial diagnosis {33012788}.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1126,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1165,
+    "contributions": [
+      {
+        "pkcontributionId": 156058,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1165,
+        "headingText": "\r\n<p><em>PATZ1</em>-rearranged sarcomas are rare and have been described to affect predominantly middle-aged adults, but patients of any age may be affected (median age: 47.5&nbsp;years, range 1&ndash;81&nbsp;years). There is a male predilection in reported cases (M:F&nbsp;ratio: 1.8:1) {33012788; 31189996; 38278606; 38043789}.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1127,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1166,
+    "contributions": [
+      {
+        "pkcontributionId": 156059,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1166,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1128,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1167,
+    "contributions": [
+      {
+        "pkcontributionId": 156060,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1167,
+        "headingText": "\r\n<p><em>PATZ1</em> encodes a zinc finger protein with a Cys2-His2 motif involved in repression of transcription {29186807;10949935}. <em>PATZ1</em> resides in close proximity (2&nbsp;Mb distance) to <em>EWSR1</em> on chromosome&nbsp;22. The <em>EWSR1</em>::<em>PATZ1</em> fusion event is most likely the result of a submicroscopic intrachromosomal paracentric inversion (as the genes are normally transcribed in opposite directions), although more complex structural alterations cannot be fully excluded {10949935; 30379650; 31189996}. An in-frame fusion between exon&nbsp;8 or&nbsp;9 of <em>EWSR1</em> and exon&nbsp;1 of <em>PATZ1</em> results in removal of the putative transcriptional repressor domain and the AT-hook domain at the N-terminus of <em>PATZ1</em> and converts a transcriptional repressor into a transcription activator {31189996}. Less commonly, exon&nbsp;7 of <em>EWSR1</em> is involved {38043789}. By transcriptomic profiling, <em>EWSR1</em>::<em>PATZ1</em> sarcomas appear distinct from other round cell sarcomas such as Ewing sarcomas, <em>EWSR1</em>/<em>FUS</em>::<em>NFATC2</em>, <em>CIC</em>-rearranged, and <em>BCOR</em>-altered sarcomas {29431183}. A recent DNA methylation analysis showed that they clustered in the vicinity of, but distinct from, CNS cases with identical fusions {40413488}. Although one study reported loss/deletion of <em>CDKN2A/CDKN2B</em> present only in clinically aggressive <em>EWSR1</em>::<em>PATZ1</em> sarcomas (with concurrent <em>MDM2</em> amplification in 1&nbsp;case) {31189996}, more recent studies have found these alterations to be both present and absent in clinically aggressive tumours as well as present in indolent tumours {33012788; 38043789}.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1135,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1174,
+    "contributions": [
+      {
+        "pkcontributionId": 156061,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1174,
+        "headingText": "\r\n<p>The tumours are variably circumscribed, solid and cystic, tan-yellow to grey-white masses measuring from 7&nbsp;mm to 180&nbsp;mm in greatest dimension {33012788; 38278606; 38043789}.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1129,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1168,
+    "contributions": [
+      {
+        "pkcontributionId": 156062,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1168,
+        "headingText": "\r\n<p><em>PATZ1</em>-rearranged sarcomas are typically well circumscribed, with a well-formed fibrous capsule and peripheral lymphoid aggregates. Small, mushroom-like protrusions through the capsule into surrounding soft tissues are often seen. Diffusely infiltrative tumours are less common {38043789}. Other characteristic low-power features include thick fibrous septa dividing the tumour into irregular lobules, and numerous microcysts filled with eosinophilic secretions {30379650; 3118996; 33012788; 38043789}. A prominent thick-walled, hyalinized, and sometimes branching vasculature is present {33012788; 38043789}. The tumours are composed of variable proportions of round, spindled, and epithelioid cells arranged in reticular, trabecular, fascicular, and vaguely whorled patterns, within a fibrous to fibromyxoid background {30379650; 3118996; 33012788; 38043789}. In most cases, the neoplastic cells are small, uniform, and bland, with round nuclei, evenly dispersed chromatin, and small or inapparent nucleoli. Occasionally, the tumours show in part high-grade round cell features {10949935; 3118996; 33012788}. Mitotic activity is usually low, and necrosis is uncommon {3118996; 33012788; 38043789}. Rarely, overt rhabdomyoblastic differentiation, mature fat, or pseudorosettes are present {3118996; 33012788; 38043789}.</p>\r\n<p>Immunohistochemically, <em>PATZ1</em>-rearranged sarcomas are polyphenotypic, with coexpression of both skeletal muscle&ndash;associated markers (e.g. desmin, myogenin, MYOD1, PAX7) and myoepithelial markers (e.g. keratins, SOX10, S100, and GFAP) {30379650; 33012788; 38043789}.</p>\r\n<p>Recently, immunohistochemistry for PATZ1 has been developed as a surrogate for gene fusions {42270011}.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1130,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1169,
+    "contributions": [
+      {
+        "pkcontributionId": 156063,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1169,
+        "headingText": "\r\n<p>Insufficient data</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1131,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1170,
+    "contributions": [
+      {
+        "pkcontributionId": 156064,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1170,
+        "headingText": "\r\n<p>Identification of the <em>EWSR1</em>::<em>PATZ1</em> fusion can be helpful for diagnosis {10949935; 29431183; 31189996; 38043789}. The sensitivity of an <em>EWSR1</em> FISH break-apart probe may be compromised by the short genomic distance between <em>PATZ1</em> and <em>EWSR1</em> {31189996}.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1134,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1173,
+    "contributions": [
+      {
+        "pkcontributionId": 156065,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1173,
+        "headingText": "\r\n<p><em>Essential:</em> monomorphic round to spindled cells in a fibromyxoid background with a thick fibrous capsule and hyalinized blood vessels; coexpression of skeletal muscle and myoepithelial markers; <em>PATZ1</em> rearrangement.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1132,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1171,
+    "contributions": [
+      {
+        "pkcontributionId": 156066,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1171,
+        "headingText": "\r\n<p><em>PATZ1</em>-rearranged sarcoma can be staged using the Union for International Cancer Control (UICC) and American Joint Committee on Cancer (AJCC) TNM systems.</p>\r\n",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1133,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1172,
+    "contributions": [
+      {
+        "pkcontributionId": 156067,
+        "bookId": 87,
+        "chapterId": 288,
+        "headingId": 1172,
+        "headingText": "\r\n<p>Initial data suggested that <em>PATZ1</em>-rearranged sarcomas were clinically aggressive, with metastases to lungs, liver, pleura, and pericardium in 9&nbsp;of 11&nbsp;(82%) patients with clinical follow-up {10949935; 29431183; 30379650; 30379650; 33012788}. More recently, larger series have found more favourable outcome, with metastases only in&nbsp;3 of&nbsp;16 (19%) patients, all of whom presented with metastases at diagnosis {38043789}. Patients with <em>PATZ1</em>-rearranged sarcomas may fall into two distinct groups: (1)&nbsp;those with metastases either at presentation or very shortly thereafter and (2)&nbsp;those in whom metastatic disease either occurs significantly later in the course of the disease or perhaps not at all {38043789}. There is no clear association between pathological variables (such as nuclear grade, mitotic activity, and necrosis) and outcome {33012788; 38043789}.</p>",
+        "timestamp": "2026-08-31T16:44:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

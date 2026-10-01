@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 108239,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 466,
+        "headingText": "<p>Congenital granular cell epulis is a rare congenital benign tumour, usually occurring on the alveolar ridge of the newborn, composed of granular cells negative for S100.</p>",
+        "timestamp": "2023-05-04T08:51:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 108240,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 467,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-10T13:51:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 108241,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 468,
+        "headingText": "\r\n<p>KC23 Neonatal disorders of the oral mucosa</p>\r\n",
+        "timestamp": "2023-03-10T13:51:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 108242,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 469,
+        "headingText": "<p><em>Acceptable:</em> congenital epulis, congenital epulis of the newborn, congenital gingival granular cell tumour, Neumann tumour.</p>\r\n<p><em>Not recommended:</em> congenital granular cell myoblastoma.</p>",
+        "timestamp": "2023-05-04T17:19:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 108243,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-10T13:51:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 108244,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 471,
+        "headingText": "\r\n<p>Most cases of congenital granular cell epulis arise on the anterior maxillary alveolus; they occur at this site three times more often than on the mandibular alveolus {19205730}. Rarely, congenital granular cell epulis can be multifocal, involving both the maxilla and mandible, or arise on the tongue {19082830; 9431537; 17577543; 26712684; 25482350}.</p>\r\n",
+        "timestamp": "2023-03-10T13:51:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 108245,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 472,
+        "headingText": "\r\n<p>The lesion manifests as a polypoid, sessile, or pedunculated mass with a smooth, mucosal-coloured surface. Although it is firmly attached to the dental ridge, bone and teeth are uninvolved. Most cases are &lt;&nbsp;20&nbsp;mm, but they can be as large as 90&nbsp;mm {30888637}.</p>\r\n<h5>Imaging</h5>\r\n<p>Antenatal ultrasonographic findings have been reported {19082830}, with T1-weighted MRI showing a homogeneous mass without enhancement and without bone extension {16012311}.</p>\r\n",
+        "timestamp": "2023-03-10T13:51:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 108246,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 473,
+        "headingText": "<p>Congenital granular cell epulis manifests at birth or with the first few weeks. There is an overwhelming female predilection (M:F&nbsp;ratio: 1:7&ndash;10) {19082830; 24377822}.</p>",
+        "timestamp": "2023-05-04T17:26:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 108247,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 474,
+        "headingText": "\r\n<p>The etiology is unknown, although a mesenchymal origin is favoured {19082830}.</p>\r\n",
+        "timestamp": "2023-03-10T13:51:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 108248,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 475,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-03-10T13:51:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 108249,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 482,
+        "headingText": "\r\n<p>The cut surface is typically tan-yellow, smooth, and homogeneous {30888637}.</p>\r\n",
+        "timestamp": "2023-03-10T13:51:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 108250,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 476,
+        "headingText": "<p>The tumour is relatively well delineated and is composed of sheets and nests of polygonal cells with eosinophilic, granular cytoplasm and prominent cell membranes. The bland nuclei are eccentric, small, and uniform. Mitoses are inconspicuous {30888637; 24377822; 19205730}. A prominent capillary network of dilated vessels traverses the lesion. An attenuated stratified squamous epithelium of uniform thickness lacking pseudoepitheliomatous hyperplasia overlies the tumour.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Tumour cells are negative for S100 and/or SOX10, unlike in granular cell tumour {24377822; 19205730; 30888637}, and reactive for CD68, NSE, and vimentin.</p>",
+        "timestamp": "2023-05-04T17:27:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 108251,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-03-10T13:51:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 108252,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 478,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-03-10T13:51:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 108253,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 481,
+        "headingText": "<p><em>Essential:</em> neonatal presentation; soft lump on maxillary or mandibular alveolar ridge; sheets and nests of polygonal cells with eosinophilic, granular cytoplasm; negative reaction for S100.</p>\r\n<p><em>Desirable:</em> attenuated to atrophic stratified squamous epithelium of uniform thickness;&nbsp;negative reaction for S100 protein.</p>",
+        "timestamp": "2023-05-04T17:28:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 108254,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2023-03-10T13:51:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 108255,
+        "bookId": 44,
+        "chapterId": 339,
+        "headingId": 480,
+        "headingText": "\r\n<p>Respiratory or feeding problems require the tumour to be removed {19082830; 29962420}. The tumour does not recur, even after incomplete excision, and spontaneous regression has been reported {19358386}. Malignant transformation has not been reported.</p>",
+        "timestamp": "2023-03-10T13:51:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

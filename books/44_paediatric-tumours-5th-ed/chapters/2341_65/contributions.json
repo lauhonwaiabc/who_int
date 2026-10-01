@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 104173,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 466,
+        "headingText": "<p>Classic Hodgkin lymphoma (CHL) is a B-cell neoplasm derived from germinal-centre B&nbsp;cells and defined by the presence of malignant large B&nbsp;cells that are largely outnumbered by reactive immune cells.&nbsp;The large neoplastic Hodgkin/Reed&ndash;Sternberg (HRS) cells show a defective B-cell expression programme.</p>",
+        "timestamp": "2023-05-09T17:39:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 104174,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 467,
+        "headingText": "<p>9650/3 Classic Hodgkin lymphoma (CHL), NOS</p>\r\n<p>9663/3 Nodular sclerosis CHL</p>\r\n<p>9651/3 Lymphocyte-rich CHL</p>\r\n<p>9652/3 Mixed-cellularity CHL</p>\r\n<p>9653/3 Lymphocyte-depleted CHL</p>",
+        "timestamp": "2023-05-19T11:38:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 104175,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 468,
+        "headingText": "\r\n<p>2B30.1Z Classical Hodgkin lymphoma, unspecified</p>\r\n<p>2B30.10 Nodular sclerosis classical Hodgkin lymphoma</p>\r\n<p>2B30.11 Lymphocyte-rich classical Hodgkin lymphoma</p>\r\n<p>2B30.12 Mixed-cellularity classical Hodgkin lymphoma</p>\r\n<p>2B30.13 Lymphocyte-depleted classical Hodgkin lymphoma</p>\r\n",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 104176,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> Hodgkin disease.</p>\r\n",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 104177,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 470,
+        "headingText": "\r\n<p>Nodular sclerosis CHL; lymphocyte-rich CHL; mixed-cellularity CHL; lymphocyte-depleted CHL</p>\r\n",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 104178,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 471,
+        "headingText": "\r\n<p>CHL primarily develops in lymph nodes and often shows a contiguous type of spread, i.e. growing from one lymph node station to the next. Lymph nodes in the neck are often involved, but submandibular localization should raise suspicion of nodular lymphocyte-predominant CHL. Involvement of the anterior mediastinum is very common in nodular sclerosis CHL (NSCHL), but not in the other CHL subtypes. Mixed-cellularity CHL (MCCHL) shows a predilection for abdominal lymph nodes. Extranodal involvement (e.g. in the spleen, lung, liver, bone, and/or bone marrow) occurs in 10&ndash;15% of cases {32570974; 28760045}.</p>\r\n",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 104179,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 472,
+        "headingText": "\r\n<p>Patients with CHL can present with peripheral lymphadenopathy or symptoms caused by bulky disease in the mediastinum, such as shortness of breath or even superior vena cava syndrome. B&nbsp;symptoms (fever, night sweats, significant weight loss) are associated with a high tumour burden. Advanced stages are more often seen in adolescents than in younger children {28760045}.</p>\r\n",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 104180,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 473,
+        "headingText": "\r\n<p>The incidence pattern of CHL is complex, with a wide age distribution and variable age incidence in different geographical areas. NSCHL is the most common subtype and is more frequent than other subtypes in older paediatric patients {19087093}. There is a slight male predominance in patients aged &lt;&nbsp;15&nbsp;years. CHL may be associated with congenital primary immunodeficiencies {29942301; 20429642}. Familial cases occur but are rare {28697001; 27365461}.</p>\r\n",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 104181,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 474,
+        "headingText": "\r\n<p>CHL tumour cells originate from germinal-centre B&nbsp;cells. EBV is present in these B&nbsp;cells in a small minority of cases in Europe and the USA, with a higher prevalence in MCCHL and lymphocyte-depleted CHL (~75%) than in NSCHL (10&ndash;25%). In other populations, such as in low- and middle-income countries and in patients with acquired or congenital immunosuppression, the prevalence of EBV infection is much higher.</p>\r\n<p>The latency pattern of EBV at diagnosis matches that known to give survival signals to B&nbsp;cells during the germinal-centre reaction, specifically expression of LMP1 and LMP2 {16076866}. This is relevant because CHL tumour cells have an inactivated B-cell receptor that would normally induce apoptosis in germinal-centre B&nbsp;cells.</p>\r\n",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 104182,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 475,
+        "headingText": "\r\n<p>The mutation landscape of CHL tumour cells has been determined by deep sequencing and analysis of circulating tumour DNA {29449275; 31431735; 29650799}. This landscape is heterogeneous but can mainly be grouped under two main themes.</p>\r\n<p>The first consists of extraordinary strong activation of the tumour cells by the NF-&kappa;B, JAK/STAT, and PI3K/AKT/mTOR signalling pathways. Besides activating mutations and chromosomal aberrations that affect these pathways, the tumour cells are additionally stimulated by cytokines and cell-surface ligands from the tumour microenvironment (TME) {21483001}. This TME is usually essential for tumour cell survival, which is reflected by the difficulty in obtaining cell lines from primary CHL tissue cultures. The most consistent TME feature is the presence of T-cell rosettes, a layer of CD4+ T&nbsp;cells that directly surrounds and supports individual tumour cells {32589698}. The strong activation of tumour cells is reflected by a large nucleus with open chromatin, extremely large nucleoli that are essential for ribosome production, and a large Golgi complex involved in protein synthesis. Indeed, the tumour cells produce and secrete a multitude of cytokines and chemokines that attract reactive inflammatory cells and shape the TME {23867303}.</p>\r\n<p>The second main theme is immunosuppression. Responsible genetic lesions are mutations in <em>B2M</em> and translocations/amplifications of 9p24.1 that lead to increased expression of PD1 ligands, among others {29394125}. CHL tumour cells also secrete immunosuppressive cytokines like IL-10 and TGF-&beta;, of which the latter may also be responsible for the induction of fibrosis. The T-cell rosettes form a physical barrier that shields the tumour cells from cytotoxic T&nbsp;and NK&nbsp;cells in the TME {23867303}. Escape from immune responses is also important during the early stages of disease development: genome-wide association studies and HLA typing studies have shown that HLA-A*01, which encodes a protein that cannot present EBV antigenic peptides, is a risk factor for the development of EBV+ CHL {15978930; 22286212}.</p>\r\n",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 104183,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 482,
+        "headingText": "\r\n<p>In the NSCHL subtype, enlarged lymph nodes may show a nodular sclerotic pattern upon sectioning. Sometimes there is necrosis.</p>\r\n",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 104184,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 476,
+        "headingText": "\r\n<p>The typical tumour cells in CHL are known as Reed&ndash;Sternberg cells and have two large nuclei, each with a single large nucleolus surrounded by a clear halo. These large cells have abundant and slightly basophilic cytoplasm. Mononuclear and multinuclear variants are termed Hodgkin cells. The Hodgkin/Reed&ndash;Sternberg (HRS) cells may have a shrunken and pyknotic appearance, resembling cells at an early stage of apoptosis, and are referred to as &ldquo;mummified cells&rdquo;. HRS cells with abundant cytoplasm are susceptible to shrinking during formalin fixation and tissue processing, resulting in lacunar cells that appear to be floating in an empty space.</p>\r\n<p>The lymph node architecture is usually effaced, although sometimes normal germinal centres are spared. The reactive background is highly variable, but a characteristic feature is the presence of small lymphocytes (T&nbsp;cells) that directly surround the HRS cells, forming T-cell rosettes. Another characteristic feature is the presence of eosinophils.</p>\r\n<h5>Histological subtypes</h5>\r\n<p>The different CHL subtypes are defined by the number and morphology of the HRS cells and the nature of the reactive background.</p>\r\n<p>NSCHL, the most common subtype, is characterized by a nodular effacement of the lymph node architecture, the presence of thick sclerotic collagen bands that surround the nodules, and variable numbers of lacunar HRS cells that are often concentrated in the centres of the nodules. Usually a thickened and fibrotic lymph node capsule is observed. In some cases, fibrosis is minimal or absent but nodularity and lacunar cells are present. Other cases of NSCHL are characterized by sheets or syncytia of tumour cells with increased pleomorphism, often associated with areas of necrosis, and are designated as the syncytial pattern. Because of the extreme morphological variability of NSCHL, a subclassification into two histological grades (I and II) was proposed for prognostic purposes by the British National Lymphoma Investigation (BNLI) {6617080; 2859421; 2790683}, but this is no longer used in clinical practice.</p>\r\n<p>MCCHL, the second most common subtype, is characterized by a diffuse architecture, an absence of sclerotic bands and of typical lacunar HRS cells, and the presence of a mixture of reactive cells (including histiocytes, T&nbsp;cells, eosinophils, neutrophils, and plasma cells). HRS cells are widely scattered and are often of the Reed&ndash;Sternberg cell type. In some cases, there are abundant clusters of epithelioid histiocytes in poorly defined granulomas.</p>\r\n<p>Lymphocyte-rich CHL (LRCHL) commonly has a nodular or (more rarely) diffuse pattern of growth, with an abundance of small lymphocytes and an absence of granulocytes.</p>\r\n<p>Lymphocyte-depleted CHL, the rarest subtype, shows a predominance of HRS cells and a scarcity of background lymphocytes, usually with abundant histiocytes. Two patterns are recognized: a diffuse fibrosis pattern, with prominent fibroblastic proliferation in the background; and a reticular pattern, characterized by a large number of neoplastic cells, often with anaplastic and pleomorphic features.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>HRS cells have a distinct and complex immunophenotype. CD30 shows strong membranous and Golgi-like staining in all cases, CD15 is positive (with variable intensity) in 60&ndash;80% of cases, and CD45 is usually negative. The B-cell origin of the HRS cells can be assessed by nuclear staining of PAX5, which is weaker than the staining in normal bystander B&nbsp;cells; PAX5 expression can be absent in a small percentage of cases, though. The defective B-cell phenotype is reflected by an absence of CD19, CD20, and CD79a (although weak and heterogeneous staining can sometimes be observed), and by loss of the transcription factors BOB1, OCT2, PU.1, and BCL6 in most cases {14694522; 11696441}. In rare cases, either OCT2 or BOB1 may be expressed in HRS cells, but usually not both {19455461}. Nuclear staining for IRF4 (MUM1) is usually strong, and the plasma cell&ndash;associated adhesion molecule CD138 is consistently negative {16342298}. Nuclear staining for GATA3 is present in about 80% of cases {28877074}. HRS cells in most cases express fascin {19223373}.</p>\r\n<p>Positivity for surface T-cell markers is sometimes detected in the neoplastic cells of CHL {16056244; 32134194}, but it may be difficult to ascertain because T&nbsp;cells usually surround the neoplastic cells. The majority of T&nbsp;cells in CHL are CD4-positive; PD1-positive T&nbsp;follicular helper (TFH) cells are more often observed in LRCHL than in other CHL subtypes {18594468}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The diagnosis of CHL is generally straightforward. In selected cases the differential diagnosis with grey zone lymphoma and CD30-positive T-cell cutaneous anaplastic large cell lymphoma may be difficult and requires accurate immunophenotypic and genetic evaluation. In addition, EBV-positive CHL can be simulated by primary EBV infection, constitutional immune dysfunction, or acquired immune dysfunction (e.g. in cases of HIV infection or immunosuppressive medication after transplantation). Another important differential diagnosis is between LRCHL and nodular lymphocyte-predominant Hodgkin lymphoma, which show considerable overlap in clinical presentation and reactive background; their distinction can usually be resolved by immunophenotyping of the tumour cells {30407610}.</p>\r\n",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 104185,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 477,
+        "headingText": "\r\n<p>The finding of HRS-like cells with an appropriate background of lymphocytes, eosinophils, and/or granulocytes strongly suggests the presence of CHL. However, because information on architecture is missing, complete immunophenotyping is often not possible, and essential differential diagnoses cannot be excluded. This suspicion should be followed up by a tissue biopsy, especially at initial presentation. In recurrent disease, cytology can be of value and should be complemented by immunocytochemistry on corresponding cell blocks or by immunophenotyping by flow cytometry.</p>\r\n",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 104186,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 478,
+        "headingText": "\r\n<p>The presence of EBV in HRS cells is preferably ascertained by in&nbsp;situ hybridization for EBV-encoded small RNA (EBER), rather than by immunohistochemistry for LMP1 {18442302}. EBV is most often present in HRS cells in the MCCHL and lymphocyte-depleted CHL subtypes, but it can also be found in some 15&ndash;25% of NSCHL cases and 50% of LRCHL cases {31699300}. Because of the scarcity of HRS cells in CHL tumours, B-cell clonality analysis is usually not helpful, but T-cell clonality analysis may aid in ruling out T-cell lymphoma in specific cases. Although FISH analysis may identify recurrent translocations or amplification of the PDL-encoding loci at 9p24.1, and deep sequencing of tissue or circulating tumour DNA may pinpoint recurrent mutations in genes of the JAK/STAT pathway (<em>XPO1</em> and <em>B2M</em>), these genetic aberrations lack specificity and these techniques are not recommended for diagnostic purposes {29394125}.</p>\r\n",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 104187,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 481,
+        "headingText": "<p><em>Essential:</em>&nbsp;HRS cells and variants in a reactive background with predominant small lymphocytes and variable amounts of eosinophils, neutrophils, histiocytes, and plasma cells; immunophenotype: CD30+, PAX5+ (weak to moderate), CD45&minus;, CD20&minus;/weak/heterogeneous.</p>\r\n<p><em>Desirable: </em>CD15+ Reed&ndash;Sternberg cells; decreased expression of OCT2 and BOB1; determination of EBV status; CD4+ small T&nbsp;lymphocytes forming rosettes around HRS cells.</p>",
+        "timestamp": "2023-04-27T18:17:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 104188,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 479,
+        "headingText": "<p>CHL is staged using the Ann Arbor staging system with the Cotswolds&nbsp;modification {31620854}. Approximately one&nbsp;third of patients present with advanced disease (stage&nbsp;III or IV) {19959029}.</p>",
+        "timestamp": "2023-05-09T17:40:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 104189,
+        "bookId": 44,
+        "chapterId": 65,
+        "headingId": 480,
+        "headingText": "\r\n<p>Paediatric CHL is curable in &gt;&nbsp;90% of cases, with chemotherapy and low-dose radiation therapy. To reduce long-term organ dysfunction and to increase efficacy, therapy is tailored to clinical risk factors, including stage, bulky disease, extranodal disease, and factors of the International Prognostic Score. In addition, response to therapy is being evaluated by FDG&nbsp;PET mid-treatment in ongoing trials, to determine whether therapy should be intensified or reduced.</p>\r\n<p>Studies using gene expression profiling have identified a gene signature associated with an adverse prognosis {20220182; 22948049}. This signature is related to the presence of macrophages in the tumour microenvironment; however, studies on the enumeration of tumour-associated macrophages in CHL (e.g. {22948049}) are difficult to reproduce and their importance has not always been confirmed in paediatric patients {23791542}. Studies on many other biomarkers {24316907} have not resulted in implementation in daily practice.</p>",
+        "timestamp": "2022-07-11T17:27:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

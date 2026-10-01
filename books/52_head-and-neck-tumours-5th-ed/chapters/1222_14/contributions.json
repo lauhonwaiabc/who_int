@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 112714,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 576,
+        "headingText": "\r\n<p>Non-keratinizing squamous cell carcinoma (NKSCC) is an epithelial malignancy of sinonasal surface origin that shows histological and immunohistochemical evidence of squamous differentiation but has no or minimal keratinization.</p>\r\n",
+        "timestamp": "2023-09-25T11:48:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 112715,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 577,
+        "headingText": "<p>8072/3 Squamous cell carcinoma, non-keratinizing, NOS</p>\r\n<p>8085/3 HPV-associated squamous cell carcinoma</p>\r\n<p>8072/3 <em>DEK</em>::<em>AFF2</em> squamous cell carcinoma</p>",
+        "timestamp": "2023-11-10T12:17:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 112716,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 578,
+        "headingText": "\r\n<p>2C20.4 &amp; XH6705 Squamous cell carcinoma of nasal cavity &amp; Squamous cell carcinoma, large cell, non-keratinizing, NOS</p>\r\n<p>2C22.1 &amp; XH6705 Squamous cell carcinoma of accessory sinuses &amp; Squamous cell carcinoma, large cell, non-keratinizing, NOS</p>\r\n",
+        "timestamp": "2023-09-25T11:48:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 112717,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> Schneiderian carcinoma, transitional cell carcinoma, cylindrical cell carcinoma.</p>\r\n",
+        "timestamp": "2023-09-25T11:48:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 112718,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 580,
+        "headingText": "\r\n<p>HPV-associated squamous cell carcinoma; <em>DEK</em>::<em>AFF2</em> squamous cell carcinoma</p>\r\n",
+        "timestamp": "2023-09-25T11:48:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 112719,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 581,
+        "headingText": "\r\n<p>Sinonasal NKSCC most commonly arises in the nasal cavity or maxillary sinuses {5014917; 22127982; 23674262; 23775607}.</p>\r\n",
+        "timestamp": "2023-09-25T11:48:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 112720,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients present with mass effect, including nasal obstruction, epistaxis, and pain. Paranasal sinus tumours present at a higher stage than nasal cavity tumours {22127982; 23674262}.</p>\r\n<h5>Imaging</h5>\r\n<p>Imaging studies cannot accurately differentiate NKSCC from keratinizing squamous cell carcinoma (SCC) and in both cases demonstrate an aggressive soft tissue lesion with bony destruction of adjacent sinus walls, most frequently arising from the maxillary sinus, followed by ethmoid air cells and the nasal cavity. Because many present at an advanced stage, invasion of the orbit, infratemporal fossa, and skull base is frequently observed. A combination of postcontrast CT and MRI is helpful to accurately delineate tumour extension through bone and soft tissues. Intratumoural necrosis is commonly seen in larger lesions, with average solid tumour apparent diffusion coefficient values of 0.95&nbsp;&times;&nbsp;10<sup>&minus;3</sup>&nbsp;mm<sup>2</sup>/s {23762617; 29211048}.</p>\r\n",
+        "timestamp": "2023-09-25T11:48:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 112721,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 583,
+        "headingText": "\r\n<p>NKSCC accounts for 20&ndash;48% of sinonasal SCCs, while recognizing the historical overlap with papillary and basaloid patterns {16160480; 23095507; 24030745; 26830402}. Tumours most frequently arise in the sixth to seventh decades of life, and there is a male predominance {393432; 5410316; 16160480; 23095507}.</p>\r\n",
+        "timestamp": "2023-09-25T11:48:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 112722,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 584,
+        "headingText": "\r\n<p>Like other sinonasal SCCs, NKSCC has a weak association with tobacco use {24935016}. High-risk HPV is implicated in 20&ndash;62% of all sinonasal SCCs in North America and Europe and 7&ndash;21% in Asia. Specifically, 36&ndash;58% of NKSCCs are HPV-associated {16160480; 19365846; 23095507; 24030745; 24338611; 26229021; 28271500; 31743130; 32149447; 32683856; 33364396}. HPV16 is relatively less common in the sinonasal tract than in the oropharynx, representing 41&ndash;82% of HPV-associated cases {23095507; 26229021; 32683856; 33232848}. Only rare EBV-positive NKSCCs have been reported {7661287}, and about 15% of carcinomas ex sinonasal papilloma are NKSCC {11904343; 24519376}.</p>\r\n",
+        "timestamp": "2023-09-25T11:48:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 112723,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 585,
+        "headingText": "\r\n<p>The molecular underpinnings of sinonasal NKSCC have not been comprehensively characterized, although those sequenced show similar molecular profiles to other head and neck SCCs {20848437; 24935016; 25712460; 31743130; 32868526}. Transcriptional activity is identified in HPV-associated NKSCC via p16 overexpression combined with PCR positivity or RNA in&nbsp;situ hybridization {23095507; 24030745; 26229021; 28181187}. Nearly half of HPV-negative NKSCCs tested have been shown to harbour recurrent fusions between the <em>DEK</em> gene on chromosome 6p22.3 and the <em>AFF2</em> gene on chromosome Xq28 {31011208; 32366754; 33002918; 34049316; 34108636}, which probably represent oncogenic drivers.</p>\r\n",
+        "timestamp": "2023-09-25T11:48:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 112724,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 592,
+        "headingText": "\r\n<p>Tumours can be endophytic or exophytic and have a friable white-tan surface with haemorrhage and necrosis. Tumours are typically large and bulky.</p>\r\n",
+        "timestamp": "2023-09-25T11:48:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 112725,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 586,
+        "headingText": "<p>NKSCC is arranged in expansile nests, lobules, or ribbons that display a pushing pattern of invasion with a smooth stromal interface and minimal associated desmoplastic response, despite often deep and destructive growth. A subset shows predominantly papillary architecture with extensive (sometimes complete) surface growth and colonization of adjacent flat surface epithelium {19745700; 26830402}. Invasive growth, as classically defined for SCC in other anatomical sites, is not necessary in mass-forming tumours. Tumour cells have a high N:C&nbsp;ratio, a columnar basal layer with peripheral palisading, and a more flattened superficial layer, and they lack significant keratinization. Cytological atypia is highly variable, ranging from minimal to pronounced, but grading is not applied. Mitotic rates also vary widely, and necrosis may occasionally be seen.</p>\r\n<h5>Subtypes</h5>\r\n<p>HPV-associated SCC is a subtype of sinonasal NKSCC defined by the presence of transcriptionally active high-risk HPV. The majority of these tumours demonstrate otherwise classic NKSCC morphology, although a minority of HPV-associated sinonasal carcinomas represent keratinizing, basaloid, or adenosquamous subtypes {16160480; 23095507; 24030745; 24338611; 26229021; 33364396}.</p>\r\n<p><em>DEK</em>::<em>AFF2</em> squamous cell carcinoma is an emerging subtype of NKSCC defined by recurrent <em>DEK</em>::<em>AFF2</em> fusions {31011208; 32366754; 33002918; 34108636}. They demonstrate complex exophytic and endophytic growth, with broad papillary fronds and anastomosing lobules lined by transitional epithelium with amphophilic to eosinophilic cytoplasm. The presence of strikingly monotonous round to oval nuclei, surface or intraepithelial discohesion, and frequent tumour-infiltrating neutrophils or lymphocytes may help differentiate them from other NKSCCs. <em>DEK</em>::<em>AFF2</em> squamous cell carcinoma shows substantial morphological overlap with tumours reported as low-grade papillary sinonasal (Schneiderian) carcinoma {25634744; 28639124; 30269519; 31473940; 33539575; 34041710}, and recent data suggest that many, if not most, of these tumours also harbour <em>DEK</em>::<em>AFF2</em> fusions {34108636}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>NKSCCs are diffusely positive for cytokeratins, particularly high-molecular-weight cocktails such as CK5/6 and 34&beta;E12 (CK903), and for p63 and p40 {19077909; 24114197}. They are negative for synaptophysin, chromogranin, INSM1, S100, NUT, and CD99, with intact SMARCB1 (INI1) and SMARCA4 (BRG1) {10091761; 25007146; 26034869; 29438167; 32520761}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Although some NKSCCs were historically classified as basaloid SCC, this subtype should be restricted to tumours with nested architecture, prominent basement membrane deposition, and comedonecrosis. Although inverted growth in NKSCC may be reminiscent of inverted papilloma, definitive synchronous or metachronous benign sinonasal papilloma must be present for a designation of carcinoma ex sinonasal papilloma. <em>DEK</em>::<em>AFF2</em> squamous cell carcinomas can overlap with benign sinonasal papillomas because of their bland cytology, but they demonstrate more irregular stromal interfaces and complex architecture. HPV-related multiphenotypic sinonasal carcinoma displays basaloid areas similar to NKSCC but also demonstrates ductal and/or myoepithelial differentiation. Several other sinonasal tumours with squamous differentiation are now regarded as distinct entities, including NUT carcinoma, adamantinoma-like Ewing sarcoma, and SWI/SNF complex&ndash;deficient sinonasal carcinoma. Other sinonasal carcinomas lack squamous differentiation by immunohistochemistry but are unique tumours, such as sinonasal undifferentiated carcinoma and neuroendocrine carcinoma (NEC).</p>",
+        "timestamp": "2023-11-10T12:17:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 112726,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 587,
+        "headingText": "\r\n<p>Smears show predominantly large sheets and tissue fragments consisting of cells with well-defined dense cytoplasm, lacking keratinization, with large pleomorphic nuclei with coarse chromatin and one or more prominent pleomorphic nucleoli. Necrosis and variable keratinous debris are seen in the background.</p>\r\n",
+        "timestamp": "2023-09-25T11:48:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 112727,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 588,
+        "headingText": "<p>Although routine HPV testing is not recommended in sinonasal NKSCC, it can occasionally be helpful for diagnostic purposes. If used, HPV-specific testing such as in&nbsp;situ hybridization or PCR must be performed, because p16 has poor specificity in sinonasal tumours {21805120; 23095507; 27392929; 32671903}. <em>DEK</em>::<em>AFF2</em> fusions can be confirmed via RNA sequencing or <em>DEK</em>&nbsp;FISH.</p>",
+        "timestamp": "2023-10-09T11:21:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 112728,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> morphological and/or immunohistochemical evidence of squamous differentiation; no to minimal keratinization; active exclusion of mimics, such as NUT carcinoma, SMARCB1-deficient sinonasal carcinoma, and adamantinoma-like Ewing sarcoma.</p>\r\n",
+        "timestamp": "2023-09-25T11:48:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 112729,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 589,
+        "headingText": "<p>Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2023-10-09T11:21:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 112730,
+        "bookId": 52,
+        "chapterId": 14,
+        "headingId": 590,
+        "headingText": "<p>Although specific outcomes of NKSCC are unknown, sinonasal SCC overall has a 5-year survival rate of approximately 60% {393432; 20001493; 22127982; 23674262; 23775607}. Although single-institution and large database studies have often shown better prognosis in HPV-associated tumours, the benefit has not translated in clinical practice {16160480; 19365846; 23095507; 24030745; 24338611; 26229021; 28271500; 28859244; 31743130; 31886908; 32149447; 32476435; 32683856; 33364396}. In limited experience, <em>DEK</em>::<em>AFF2</em> squamous cell carcinomas showed frequent local recurrence, and 25% of patients died of disease {34049316}.</p>",
+        "timestamp": "2023-11-10T12:18:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

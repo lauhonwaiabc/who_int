@@ -1,0 +1,53 @@
+[
+  {
+    "pkroleId": 167,
+    "bookId": "51",
+    "roleid": 190,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 3644,
+        "lastname": "Field",
+        "firstname": "Andrew S.",
+        "initials": "AS",
+        "email": "",
+        "roleid": 190,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 168,
+    "bookId": "51",
+    "roleid": 191,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2444,
+        "lastname": "Bode-Lesniewska",
+        "firstname": "Beata",
+        "initials": "",
+        "email": "",
+        "roleid": 191,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 169,
+    "bookId": "51",
+    "roleid": 192,
+    "roleTitle": "Co-Author(s)",
+    "contributors": [
+      {
+        "contributorid": 2309,
+        "lastname": "Jo",
+        "firstname": "Vickie Y.",
+        "initials": "",
+        "email": "",
+        "roleid": 192,
+        "position": 0
+      }
+    ]
+  }
+]

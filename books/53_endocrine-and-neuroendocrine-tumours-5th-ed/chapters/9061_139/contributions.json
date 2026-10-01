@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123618,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 607,
+        "headingText": "\r\n<p>Schwannoma is a benign peripheral nerve sheath tumour composed entirely or nearly entirely of differentiated neoplastic Schwann cells.</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123619,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 608,
+        "headingText": "\r\n<p>9560/0 Schwannoma, NOS</p>\r\n<p>9560/0 Ancient schwannoma</p>\r\n<p>9560/0 Cellular schwannoma</p>\r\n<p>9560/0 Plexiform schwannoma</p>\r\n<p>9560/0 Epithelioid schwannoma</p>\r\n<p>9560/0 Microcystic/reticular schwannoma</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123620,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 609,
+        "headingText": "\r\n<p>2F37.Y &amp; XH98Z3 Other specified benign neoplasm of endocrine glands &amp; Schwannoma, NOS</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123621,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Not recommended:</em> neurilemoma, neurinoma.</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123622,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 611,
+        "headingText": "\r\n<p>Ancient schwannoma; cellular schwannoma; plexiform schwannoma; epithelioid schwannoma; microcystic/reticular schwannoma</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123623,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 612,
+        "headingText": "\r\n<p>Rare examples have been reported within the pituitary, thyroid, and adrenal glands, as well as the pancreas {12114802; 20553194; 22623175; 26893864; 27613496; 29606941; 31278687; 32082650}, and are considered to arise from sympathetic or parasympathetic plexus or sensory nerves.</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123624,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 613,
+        "headingText": "\r\n<p>Schwannomas are slowly growing tumours and are often asymptomatic or incidental. They are usually mistaken for hormonally non-functioning primaries at these endocrine organ locations {12114802; 20553194; 22623175; 26893864; 27613496; 29606941; 31278687; 32082650}.</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123625,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 614,
+        "headingText": "\r\n<p>Tumours in endocrine organs are extremely rare, representing &lt;&nbsp;0.02% of all thyroid gland tumours {12114802}. More than 90% of schwannomas are solitary and sporadic, affecting all ages but peaking in the fourth to sixth decade of life, without a sex predilection. Syndrome-associated tumours develop at a younger age {3118347; 12067331} and may show malignant transformation.</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123626,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 615,
+        "headingText": "\r\n<p>The etiology of most sporadic schwannomas is not known, although prior irradiation is associated with an increased incidence {3173432; 12381708}.</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123627,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 616,
+        "headingText": "\r\n<p>A causal relationship exists between schwannoma tumorigenesis and loss of expression of merlin (NF2; also known as schwannomin), the protein product of the gene <em>NF2</em> located at 22q12 {9403715}. Inactivating mutations have been detected in 50&ndash;75% of sporadic cases {8889506; 23921927; 26360373; 28409725}. Multiple schwannomas are a feature of neurofibromatosis type&nbsp;2 and schwannomatosis, although they have not specifically been reported in endocrine organs {26851632; 27921248}.</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123628,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 623,
+        "headingText": "\r\n<p>These tumours are mainly solitary, variably encapsulated, and smooth-surfaced, growing to a considerable size (with adrenal&nbsp;tumours reaching even larger sizes than thyroid tumours). Endocrine organ tumours often lack an attached nerve. Sectioned tumours reveal firm, light-tan, glistening tissue; cystic spaces; white/yellow areas; and/or patchy haemorrhage.</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123629,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 617,
+        "headingText": "<p>Schwannoma is a well-circumscribed to partially encapsulated spindle cell tumour composed nearly entirely of well-differentiated Schwann cells. Most are biphasic tumours with compact hypercellular areas (Antoni&nbsp;A) showing variable nuclear palisading, alternating with loosely arranged foci (Antoni&nbsp;B). Cells within Antoni&nbsp;A zones possess modest eosinophilic cytoplasm; no discernible cell borders; and normochromatic, elongated, tapered to buckled nuclei. Intranuclear cytoplasmic inclusions, nuclear pleomorphism, and mitoses may be seen. Palisading (Verocay bodies) takes the form of parallel rows of nuclei separated by their aligned cell processes. Antoni&nbsp;B zones contain a cobweb-like network of cell processes with collections of lipid-laden histiocytes and thick-walled, hyalinized blood vessels. Lymphoid aggregates are often at the periphery.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>Immunoreactivity for S100 and SOX10 is usually extensive {12114802; 18636017; 22495377}. In contrast to the lattice-like staining pattern in neurofibromas, CD34 is usually positive only in subcapsular and septal areas. EMA also highlights perineurial cells in the capsule. In the differential with thyroid gland lesions, thyroid transcription factor&nbsp;1 (TTF1; clone-specific) is aberrantly expressed in schwannoma {29104109}.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>The differential diagnosis is with leiomyoma, solitary fibrous tumour, neurofibroma, meningioma (when tumours are within the pituitary gland), and spindle cell follicular adenoma (in the thyroid gland).</p>",
+        "timestamp": "2024-10-09T15:38:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123630,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 618,
+        "headingText": "\r\n<p>Aspirate smears are typically cellular, with cohesive syncytial fragments of spindle cells. Within the fragments, variably wavy and bent tumour cell nuclei with tapered edges and fibrillary cytoplasm are seen. Organ-specific features (i.e. thyroid follicles, adrenal cortex) are inconspicuous. S100/SOX10 aids in confirming a neural tumour {25641870; 26615394; 30457183}.</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123631,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 619,
+        "headingText": "\r\n<p>Not routinely performed</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123632,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> densely packed spindled cell areas with loosely arranged hypocellular myxoid areas; spindled cells with buckled, elongated, fusiform nuclei.</p>\r\n<p><em>Desirable:</em> hyalinized blood vessel walls; Verocay bodies; extensive S100 and SOX10 immunoreactivity.</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123633,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 620,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123634,
+        "bookId": 53,
+        "chapterId": 139,
+        "headingId": 621,
+        "headingText": "\r\n<p>Schwannomas are benign. Multifocality may mimic recurrence or malignancy.</p>",
+        "timestamp": "2024-10-09T15:37:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

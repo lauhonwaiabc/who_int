@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 115476,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 576,
+        "headingText": "\r\n<p>Solitary fibrous tumour (SFT) is a fibroblastic tumour characterized by a prominent, branching, thin-walled, dilated (staghorn) vasculature and most commonly associated with <em>NAB2</em>::<em>STAT6</em> rearrangement.</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 115477,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 577,
+        "headingText": "\r\n<p>8815/0 Solitary fibrous tumour, benign</p>\r\n<p>8815/1 Solitary fibrous tumour, NOS</p>\r\n<p>8815/1 Lipomatous solitary fibrous tumour</p>\r\n<p>8815/1 Giant cell&ndash;rich solitary fibrous tumour</p>\r\n<p>8815/3 Solitary fibrous tumour, malignant</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 115478,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 578,
+        "headingText": "\r\n<p>2F7C &amp; XH7E62 Neoplasms of uncertain behaviour of connective or other soft tissue &amp; Solitary fibrous tumour, NOS</p>\r\n<p>2B5Y &amp; XH1HP3 Other specified malignant mesenchymal neoplasms &amp; Solitary fibrous tumour, malignant</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 115479,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Acceptable:</em> extrapleural solitary fibrous tumour.</p>\r\n<p><em>Not recommended:</em> fibrous mesothelioma; haemangiopericytoma; giant cell angiofibroma; benign solitary fibrous tumour; glomangiopericytoma.</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 115480,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 580,
+        "headingText": "\r\n<p>Lipomatous solitary fibrous tumour; giant cell&ndash;rich solitary fibrous tumour</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 115481,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 581,
+        "headingText": "\r\n<p>These occur most commonly in the orbit, followed by the nasal cavity (~50%) and/or the paranasal sinuses; however, any site including the salivary glands, larynx, and oral cavity may be affected {26924782; 31206727; 28838212; 32529350; 29282671; 22002440; 20614325; 28877055; 26026772}.</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 115482,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients with SFT usually present with a painless, slow-growing mass. There may be visual changes, pain, and proptosis for orbital tumours {32529350}; obstructive symptoms, epistaxis, headaches, and discharge for sinonasal tumours {29282671}; and hoarseness, foreign body sensation, breathing difficulty, and voice changes for laryngeal lesions {20614325}. Paraneoplastic syndrome has been reported {16025074}.</p>\r\n<h5>Imaging</h5>\r\n<p>CT shows well-circumscribed tumours that strongly enhance with contrast. Tumours show enhancement with gadolinium contrast on T1-weighted MRI {17337142; 23413243}.</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 115483,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 583,
+        "headingText": "\r\n<p>About 15% of SFTs develop in the head and neck {11920476; 26924782; 31206727}. There is a male predominance (M:F&nbsp;ratio: 6:1) for laryngeal tumours, and an equal sex distribution and broad age range at presentation (20&ndash;80&nbsp;years, median: ~50&nbsp;years) for tumours at other sites {22002440; 29282671; 32529350; 31206727}.</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 115484,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 115485,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 585,
+        "headingText": "\r\n<p>SFTs almost always show a recurrent <em>NAB2</em>::<em>STAT6</em> gene fusion {24513261; 24807787}. NAB2 fuses with STAT6 as a result of a paracentric inversion at chromosomal region 12q13.</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 115486,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 592,
+        "headingText": "\r\n<p>In cavities, there is usually a polypoid, firm-fibrous, grey-white mass, possibly attached by a stalk. In soft tissue, the same firm masses are circumscribed, but unencapsulated if benign. Malignant tumours tend to be infiltrative and may have necrosis. The median size is smallest in the larynx (25&nbsp;mm), intermediate in the salivary gland (40&nbsp;mm), and largest in sinonasal tract sites (50&nbsp;mm) {20614325; 32529350; 23413243; 29282671; 22002440}.</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 115487,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 586,
+        "headingText": "<p>SFTs are unencapsulated masses containing a patternless distribution of hypocellular and hypercellular areas, intermingled with loose to dense keloid-like collagen. Sheets of uniform, bland, syncytial spindled cells are separated by dilated, angulated vascular spaces. Mitoses, although uncommon, aid in risk stratification. Myxoid change, fibrosis, and interstitial mast cells may be seen. Biologically aggressive features include increased cellularity, infiltrative borders, marked pleomorphism, tumour necrosis, and increased mitoses {26924782; 28838212; 31206727; 32529350}.</p>\r\n<p>The lipomatous subtype contains mature adipocytes; the giant cell&ndash;rich subtype has tumour giant cells; both of these types are rare in the head and neck {28877055}.</p>\r\n<p>Cells show nuclear reactivity for STAT6, a highly specific and sensitive marker {24030747; 24625420; 24977739; 25873501; 26811389}, along with CD34, BCL2, and CD99. Desmin, S100, SOX10, actins, and &beta;-catenin are usually negative {32529350; 29282671; 22002440; 24977739; 25873501}. STAT6 and CD34 may be lost in malignant tumours {27189111; 30623305}.</p>\r\n<p>Within the sinonasal tract, the differential diagnosis includes glomangiopericytoma, peripheral nerve sheath tumours, leiomyoma, desmoid-type fibromatosis, and biphenotypic sinonasal sarcoma; within the salivary gland, orbit, and oral cavity, the differential diagnosis is with myoepithelioma, pleomorphic adenoma, and nodular fasciitis.</p>",
+        "timestamp": "2023-11-24T11:20:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 115488,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 587,
+        "headingText": "\r\n<p>Smears are cellular, with loosely cohesive clusters around blood vessels or dispersed cells with bare nuclei {32686237; 15192959}. Round, oval, and spindled cells have scant cytoplasm with isomorphic ovoid nuclei {15192959}. Wispy collagenous stroma may be identified {32686237; 15192959; 28469319}.</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 115489,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 588,
+        "headingText": "<p>Because FISH is difficult to interpret, owing to the small size of the inversion, STAT6 immunohistochemistry and <em>NAB2</em>::<em>STAT6</em> fusion analysis are more reliable {24030747; 30623305}.</p>",
+        "timestamp": "2023-11-14T11:50:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 115490,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> spindled to ovoid cells arranged around a branching and hyalinized vasculature; variable stromal collagen deposition; nuclear STAT6 expression by immunohistochemistry.</p>\r\n<p><em>Desirable:</em> demonstration of <em>NAB2</em>::<em>STAT6</em> gene fusion (in selected cases).</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 115491,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 589,
+        "headingText": "\r\n<p>Multivariable risk stratification models are used instead of staging {31206727; 32529350}.</p>\r\n",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 115492,
+        "bookId": 52,
+        "chapterId": 200,
+        "headingId": 590,
+        "headingText": "\r\n<p>The majority are benign. Multiple risk models with variable clinicopathological features (age, size, cellularity, mitoses, necrosis, pleomorphism) can predict aggressive behaviour {22575866; 26924782; 28731041; 28838212}, although only one is optimized for orbital tumours {32529350}, and none for other head and neck sites. Recurrences are seen (in &lt;&nbsp;10% of cases), often with positive margins {29282671}, and metastases are rare. Secondary <em>TERT</em> promoter mutations and <em>TP53</em> deletions or mutations {22026427; 26022454; 29985536} may be associated with more aggressive disease. Lungs, bones, and liver are the most frequent sites for metastasis.</p>",
+        "timestamp": "2023-09-29T15:41:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

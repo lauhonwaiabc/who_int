@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 796,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 688,
+    "contributions": [
+      {
+        "pkcontributionId": 121902,
+        "bookId": 49,
+        "chapterId": 158,
+        "headingId": 688,
+        "headingText": "\r\n<p>A metastasis that involves a lymph node or occasionally spleen from a sarcoma</p>\r\n",
+        "timestamp": "2024-09-24T16:54:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 797,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 689,
+    "contributions": [
+      {
+        "pkcontributionId": 121903,
+        "bookId": 49,
+        "chapterId": 158,
+        "headingId": 689,
+        "headingText": "\r\n<p>The rate of lymph node metastases involving sarcoma is generally low, at 2&ndash;3% {8424704; 29208319; 32910462}, and lymph node metastases are mostly confined to several specific types {22956238}. Lymph node metastases are common, occurring in 20&ndash;50% of cases of angiosarcoma, epithelioid sarcoma, clear cell sarcoma, and rhabdomyosarcoma (especially the alveolar subtype), and they may occur occasionally in synovial sarcoma, Ewing sarcoma, extraskeletal myxoid chondrosarcoma, or undifferentiated pleomorphic sarcoma, and rarely in other sarcoma types {29529647}. There is nothing distinctive regarding sarcoma metastases to lymph nodes or spleen in their imaging.</p>\r\n",
+        "timestamp": "2024-09-24T16:54:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 798,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 690,
+    "contributions": [
+      {
+        "pkcontributionId": 121904,
+        "bookId": 49,
+        "chapterId": 158,
+        "headingId": 690,
+        "headingText": "<p>The comparison of the metastasis to the primary tumour is often diagnostic. In unclear cases, the combination of the histopathology in the lymph node with immunocytochemistry can enable the precise subtyping of sarcoma, and this may be the first diagnosis of a malignancy.</p>",
+        "timestamp": "2024-11-21T17:25:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 799,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 691,
+    "contributions": [
+      {
+        "pkcontributionId": 121905,
+        "bookId": 49,
+        "chapterId": 158,
+        "headingId": 691,
+        "headingText": "\r\n\r\nVary with the primary sarcoma type\r\nHighly pleomorphic large malignant cells, either epithelioid or spindle, occasionally with the formation of vascular spaces, are typical for angiosarcoma.\r\nSolid sheets of pleomorphic epithelioid cells with eccentric eosinophilic cytoplasm and necrosis are found in epithelioid sarcoma.\r\nEpithelioid tumour cells, often with melanin pigment, indistinguishable from malignant melanoma, are found in metastatic clear cell sarcoma.\r\nRound cell proliferations with limited cytoplasm in Ewing sarcoma, and round cells with more cytoplasm in alveolar rhabdomyosarcomas\r\nRare metastases of other sarcoma types may contain myxoid or chondromyxoid matrix.\r\n\r\n<p><em>Reference(s):</em> {28544597; 33964187; 32342940; 32113803; 30291790; 32356379}</p>\r\n",
+        "timestamp": "2024-09-24T16:54:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 800,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 692,
+    "contributions": [
+      {
+        "pkcontributionId": 121906,
+        "bookId": 49,
+        "chapterId": 158,
+        "headingId": 692,
+        "headingText": "<p>Sarcoma metastatic to the lymph node must be considered as a rare differential diagnosis, especially in a patient with a known history of sarcoma. Aggressive lymphoma, metastatic carcinoma, and melanoma must be ruled out by immunocytochemistry. The initial diagnosis of a sarcoma as a lymph node metastasis is rare, but this may occur in cases of alveolar rhabdomyosarcoma, angiosarcoma, or epithelioid sarcoma.</p>",
+        "timestamp": "2024-11-21T17:25:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 801,
+    "bookid": 49,
+    "headingType": 3,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 693,
+    "contributions": [
+      {
+        "pkcontributionId": 121907,
+        "bookId": 49,
+        "chapterId": 158,
+        "headingId": 693,
+        "headingText": "\r\n<p>In the context of a suspected sarcoma metastasis, the role of ancillary testing is to exclude a lymphoma, carcinoma, or melanoma and attempt to confirm the sarcoma. Panels are ideal, preferably on cell blocks, because epithelial markers may be variably expressed by some sarcoma types, such as epithelioid sarcoma or synovial sarcoma, and melanocytic markers by others, for example clear cell sarcoma. Loss of INI1 expression can be detected in epithelioid sarcoma {30291790; 32113803}, and <em>FOXO1</em> gene rearrangement can be shown by molecular pathology in alveolar rhabdomyosarcoma {32342940; 16955479}.</p>",
+        "timestamp": "2024-09-24T16:54:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

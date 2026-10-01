@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1174,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 795,
+    "contributions": [
+      {
+        "pkcontributionId": 158820,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 795,
+        "headingText": "\r\n<p><em>PALB2</em>-related cancers occur owing to germline (constitutional) pathogenic variants in the <em>PALB2</em> gene, which encodes the partner and localizer of BRCA2.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1175,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "MIM numbering",
+    "headingPosition": 2,
+    "headingid": 796,
+    "contributions": [
+      {
+        "pkcontributionId": 158821,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 796,
+        "headingText": "\r\n<p>114480 Breast cancer, familial; <em>PALB2</em></p>\r\n",
+        "timestamp": "2026-09-02T11:51:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1176,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 797,
+    "contributions": [
+      {
+        "pkcontributionId": 158822,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 797,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-09-02T11:51:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1177,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 798,
+    "contributions": [
+      {
+        "pkcontributionId": 158823,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 798,
+        "headingText": "\r\n<p><em>Not recommended:</em> Fanconi anaemia, complementation group&nbsp;N.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1178,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 799,
+    "contributions": [
+      {
+        "pkcontributionId": 158824,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 799,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-09-02T11:51:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1179,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 800,
+    "contributions": [
+      {
+        "pkcontributionId": 158825,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 800,
+        "headingText": "\r\n<p><em>PALB2</em> variants are associated with cancers of the breast, the ovary, and the pancreas {16793542;19268590;19423707}.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1180,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 801,
+    "contributions": [
+      {
+        "pkcontributionId": 158826,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 801,
+        "headingText": "\r\n<p>Patients with monoallelic <em>PALB2</em> germline pathogenic variants (GPV) have increased susceptibility to breast, ovarian, and pancreatic cancers {25099575;21285249;25356972;17200668;19264984;31841383}. <em>PALB2 </em>GPVs are associated with a breast cancer risk about 7-fold higher than average, with an average risk to age 80&nbsp;years of 53% {31841383}. The risk imparted by the loss-of-function GPVs appears to be influenced by additional factors such as family history {31841383}. For example, the risk to age 80&nbsp;years for a woman with no immediate family history of breast cancer is about 52%, but this increases to 76% when two first-degree relatives have a history of breast cancer {31841383}. There are increased risks to age 80&nbsp;years for ovarian cancer of about 5% (95% CI: 2&ndash;10%), for pancreatic cancer of 2&ndash;3% (95% CI: 2&ndash;5%), and for male breast cancer of 1% (95% CI: 0.2&ndash;5%) {31841383}. For gastric cancer, there is some limited evidence supporting an association {29706558;28024868} and this requires confirmation with larger studies. There is conflicting evidence regarding associations with prostate cancer and colon cancer.</p>\r\n<p>Biallelic GPVs in <em>PALB2</em> lead to the autosomal recessive syndrome Fanconi anaemia, complementation group&nbsp;N (FANCN) {16793542;20858716}. Patients with FANCN demonstrate hypersensitivity to DNA crosslinking agents, short stature, microcephaly, hypertelorism, bone marrow failure, and developmental abnormalities in major organ systems. Furthermore, FANCN is associated with early onset of a variety of childhood malignancies, including acute leukaemias, neuroblastoma, Wilms tumour, and medulloblastoma {20858716}.</p>\r\n<p>Somatic mutations of <em>PALB2 </em>were found in 1291 of 71&nbsp;483 various cancer samples (~6%) according to the Catalogue of Somatic Mutations in Cancer (COSMIC) [[Wellcome Sanger Institute [Internet]. Hinxton (UK): Wellcome Sanger Institute, Genome Research Limited; 2018. Catalogue Of Somatic Mutations In Cancer (COSMIC); cited 2025 Aug 4. Available from: https://cancer.sanger.ac.uk/cosmic.]]. The liver is the most frequent site of somatic mutations observed (40/118, 21%), followed by the oesophagus (30/145, 21%), skin (122/819, 15%), endometrium (42/323, 13%), stomach (43/421, 10%), and prostate (142/1632, 9%). Breast, ovarian, and pancreatic cancers harbour somatic mutations in 106/3034 (4%), 28/598 (5%), and 36/878 (3%), respectively [[Wellcome Sanger Institute [Internet]. Hinxton (UK): Wellcome Sanger Institute, Genome Research Limited; 2018. Catalogue Of Somatic Mutations In Cancer (COSMIC); cited 2025 Aug 4. Available from: https://cancer.sanger.ac.uk/cosmic.]].</p>\r\n",
+        "timestamp": "2026-09-02T11:51:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1181,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 802,
+    "contributions": [
+      {
+        "pkcontributionId": 158827,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 802,
+        "headingText": "\r\n<p>Although rare in the general population (1 in 700), monoallelic germline <em>PALB2</em> GPVs are identified in 1&ndash;5% of patients with familial breast cancer and 0.1&ndash;0.4% of patients with pancreatic cancer without any significant differences in the estimates between sporadic and familial cases {21285249;24136930;34197182}. There are founder GPVs in the Finnish {18628482} and French-Canadian populations {32300229}. Fanconi anaemia has a prevalence of about 1&nbsp;case per 130&nbsp;000 live births in the USA, and only a small subset (&lt;&nbsp;1%) of these cases is attributable to biallelic <em>PALB2</em> GPVs {17200671;17200672}.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1182,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 803,
+    "contributions": [
+      {
+        "pkcontributionId": 158828,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 803,
+        "headingText": "\r\n<p>Patients with <em>PALB2</em>-associated familial breast, pancreas, and ovary cancers inherit monoallelic GPVs in the gene {26658419;32826389;34977446}. The acquisition of a second hit, whether through somatic point mutations or loss of heterozygosity, causes biallelic inactivation in the majority of cancers, leading to PALB2 loss of function {29431189}.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1183,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 804,
+    "contributions": [
+      {
+        "pkcontributionId": 158829,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 804,
+        "headingText": "\r\n<p><em>PALB2</em> is a 38&nbsp;kb gene located at chromosome 16p12.2 that spans 13&nbsp;exons and encodes the tumour suppressor protein PALB2, which is involved in DNA double strand&ndash;break repair by homologous recombination. One of its critical roles is the binding to and stabilization of BRCA1 and BRCA2, permitting nuclear BRCA2 accumulation {16793542;19268590;19423707}. PALB2 also promotes the incorporation of the tumour suppressor protein RAD51 into the processed single-stranded DNA end for strand exchange in homologous recombination repair {16793542;19268590;19423707}. Impairments in PALB2 function therefore lead to defective double strand&ndash;break repair by homologous recombination, which facilitates non-homologous end joining of DNA breaks and accumulation of mutations.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1190,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 811,
+    "contributions": [
+      {
+        "pkcontributionId": 158830,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 811,
+        "headingText": "\r\n<p>Solid tumours have the same appearance as their sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1184,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 805,
+    "contributions": [
+      {
+        "pkcontributionId": 158831,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 805,
+        "headingText": "\r\n<p>GPVs in <em>PALB2</em> account for about 1.4% of unselected triple-negative breast cancers {30099541}. This relationship also holds true in Asian patients with breast cancer {30720863;32029870} and in African-American patients with breast cancer {32427313}. About 17% of breast cancers in women with <em>PALB2</em> GPVs are triple negative compared with 10.5% in non-carriers {35084436}, which is a similar proportion to <em>BRCA2</em>. In women &lt;&nbsp;40&nbsp;years with breast cancer, about 19% are triple negative (again similar to <em>BRCA2</em>), compared with 16% in non-carriers {35084436}.</p>\r\n<p>In pancreatic cancer, the typical tumour type affecting the pancreatic gland in this context is represented by conventional pancreatic ductal adenocarcinoma {32444418;34973218}. No specific variants or special histotypes have been clearly reported to date.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1185,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 806,
+    "contributions": [
+      {
+        "pkcontributionId": 158832,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 806,
+        "headingText": "\r\n<p>There are no specific cytological appearances that differ from those of sporadic breast and pancreatic cancer.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1186,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 807,
+    "contributions": [
+      {
+        "pkcontributionId": 158833,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 807,
+        "headingText": "\r\n<p><em>PALB2</em> GPVs are most often identified by next-generation sequencing performed on patient blood samples. Increasingly, these tests use multigene panels that test for a large number of genes affiliated with familial cancer risk. In a clinical practice resource of the American College of Medical Genetics and Genomics (ACMG), it is recommended that <em>PALB2</em> should be included in breast, ovarian, and pancreatic germline cancer gene panels {33976419}.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1189,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 810,
+    "contributions": [
+      {
+        "pkcontributionId": 158834,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 810,
+        "headingText": "\r\n<p><em>Essential:</em> demonstration of GPVs in <em>PALB2</em>.</p>\r\n<p>&nbsp;</p>\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/67/125/37469\" target=\"_blank\">#37469</a>Table&nbsp;5.11.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1187,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 808,
+    "contributions": [
+      {
+        "pkcontributionId": 158835,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 808,
+        "headingText": "\r\n<p>Staging is as for sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-09-02T11:51:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1188,
+    "bookid": 67,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 809,
+    "contributions": [
+      {
+        "pkcontributionId": 158836,
+        "bookId": 67,
+        "chapterId": 125,
+        "headingId": 809,
+        "headingText": "\r\n<p>Patients with <em>PALB2</em> variants are at an increased risk not only of breast, ovarian, and pancreatic cancer but also of second breast cancers {22241545}. Increased screening may therefore be warranted in this population {25099575;21285249;25356972}. Recent studies suggest that <em>PALB2</em> GPVs are associated with functional BRCA deficiency, raising the possibility of therapeutic intervention with poly (ADP-ribose) polymerase (PARP) inhibitors {28288110;31090900}.</p>",
+        "timestamp": "2026-09-02T11:51:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

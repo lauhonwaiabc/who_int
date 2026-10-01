@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 150426,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 951,
+        "headingText": "\r\n<p>Neuroendocrine neoplasms (NENs) of the colon and rectum are malignant epithelial neoplasms with neuroendocrine differentiation that arise in the large intestine.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 150427,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 952,
+        "headingText": "\r\n<p>82400/3 Neuroendocrine tumour, NOS</p>\r\n<p>82401/3 Neuroendocrine tumour, grade&nbsp;1</p>\r\n<p>82490/3 Neuroendocrine tumour, grade&nbsp;2</p>\r\n<p>82491/3 Neuroendocrine tumour, grade&nbsp;3</p>\r\n<p>82460/3 Neuroendocrine carcinoma, NOS</p>\r\n<p>81540/3 Mixed neuroendocrine&ndash;non-neuroendocrine neoplasm</p>\r\n",
+        "timestamp": "2026-06-09T11:32:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 150428,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 953,
+        "headingText": "\r\n<p>2B9Y &amp; XH9LV8 Neuroendocrine tumour, grade&nbsp;1, of large intestine</p>\r\n<p>2B9Y &amp; XH51K1 Neuroendocrine tumour, grade&nbsp;2, of large intestine</p>\r\n<p>2B9Y &amp; XH5QW8 Neuroendocrine tumour, grade&nbsp;3, of large intestine</p>\r\n<p>2B9Y &amp; XH0U20 Neuroendocrine carcinoma, NOS, of large intestine</p>\r\n<p>2B9Y &amp; XH8E54 Mixed neuroendocrine&ndash;non-neuroendocrine neoplasm (MiNEN) of large intestine</p>\r\n",
+        "timestamp": "2026-06-09T11:32:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 150429,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 954,
+        "headingText": "\r\n<p><em>Acceptable:</em> well-differentiated endocrine tumour/neoplasm; poorly differentiated endocrine carcinoma; mixed exocrine&ndash;endocrine carcinoma.</p>\r\n<p><em>Not recommended:</em> carcinoid; composite carcinoid-adenocarcinoma.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 150430,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 955,
+        "headingText": "\r\n<p>L-cell tumour (81521/3); glucagon-like peptide&ndash;producing tumour (81522/3); PP/PYY-producing tumour (81523/3); enterochromaffin-cell neuroendocrine tumour (82410/3); serotonin-producing enterochromaffin-cell neuroendocrine tumour (82410/3); large cell neuroendocrine carcinoma (80130/3); small cell neuroendocrine carcinoma (80410/3); mixed large cell neuroendocrine carcinoma&ndash;adenocarcinoma (80132/3); mixed large cell neuroendocrine carcinoma&ndash;squamous cell carcinoma (80133/3); mixed small cell neuroendocrine carcinoma&ndash;adenocarcinoma (80451/3); mixed small cell neuroendocrine carcinoma&ndash;squamous cell carcinoma (80453/3); amphicrine-like carcinoma (85743/3); amphicrine-like adenocarcinoma (85744/3); amphicrine-like squamous cell carcinoma (85745/3)</p>\r\n",
+        "timestamp": "2026-06-09T11:32:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 150431,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 956,
+        "headingText": "\r\n<p>All NEN subtypes can arise anywhere in the colon and rectum. The vast majority (85%) of neuroendocrine tumours (NETs) are localized in the rectum {32213058}, mainly in the anterior or lateral midrectum, around 50&ndash;100&nbsp;mm from the anal verge, and are mostly represented by L-cell tumours {15057680;33923121}. Enterochromaffin-cell (EC-cell) NETs are rarer with prevalent localization in the caecum.</p>\r\n<p>Neuroendocrine carcinomas (NECs) and mixed neuroendocrine&ndash;non-neuroendocrine neoplasm (MiNENs) are mostly located in the caecum or sigmoid colon {20380002}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 150432,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 957,
+        "headingText": "\r\n<p>Most NETs are clinically silent and incidentally detected on screening colonoscopy; a minority of patients present with nonspecific mass-related symptoms such as anal discomfort/pain and bleeding {1643994;3594122;8661815}. Functioning serotonin-producing EC-cell NETs with classic carcinoid syndrome are extremely rare among rectal NETs (&lt;&nbsp;1%) {9017986}, but little more frequent among NETs of the colon, which are often associated with liver metastasis {2409828;9700573}.</p>\r\n<p>NEC and MiNEN may present with larger masses and widespread metastases {24763982}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 150433,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 958,
+        "headingText": "\r\n<p>Colorectal NENs, although relatively uncommon, represent a distinct subset of gastroenteropancreatic NENs (GEP-NENs), accounting for 20% of all GEP-NENs {37867105}. Rectal NETs are the most frequent subtype, constituting 17.7% of all gastroenteropancreatic NETs (GEP-NETs), approximately 1&ndash;2% of all rectal neoplasms {38685134;39411312}. Even though incidence is rising worldwide, relevant differences were observed in different geographical areas. In the USA, colorectal NENs have incidence rates ranging from 1.04&nbsp;to 1.2&nbsp;cases per 100&nbsp;000&nbsp;person-years for rectal NENs and 0.2&nbsp;cases per 100&nbsp;000&nbsp;person-years for colonic NENs {28448665;35084662}. Ethnic differences are notable, with Asian and Pacific Islander populations showing the highest rates, followed by African Americans and White people {35084662}. In Europe, the incidence of rectal NET has historically been lower than that in the USA (0.1&ndash;0.3&nbsp;cases per 100&nbsp;000&nbsp;person-years), but recent trends indicate growth due to improved diagnostic methods. For example, the incidence in Switzerland reached 0.42&nbsp;cases per 100&nbsp;000&nbsp;person-years, while England observed a 3-fold increase between 1971 and 2015, coinciding with colorectal screening programmes and reaching an incidence of 0.32&nbsp;cases per 100&nbsp;000&nbsp;person-years {35084662;36176500;39411312}. In Asia, rectal NETs account for as many as 48% of GEP-NENs, particularly in countries such as the Republic of Korea and Japan with advanced screening programmes, often detected early through colonoscopy {35084662}. Sex differences in colorectal NENs are minimal, with a slight male predominance, and the reported median age at diagnosis ranges from 60&ndash;64&nbsp;years in the USA and Europe to slightly younger ages in eastern Asia {18565894;26943788;29592868;35084662}.</p>\r\n<p>NEC and MiNEN are rare, representing &lt;&nbsp;1% of colorectal malignancies, but more common in colon than in other gastrointestinal sites {15043285}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 150434,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 959,
+        "headingText": "\r\n<p>The etiology is unknown, and little information is available about site-specific risk factors. A recent meta-analysis indicated increased risk of rectal NEN associated with a family history of colorectal cancer or parental history of NET, tobacco smoking, alcohol consumption, and increased body mass index, with the adjusted summary effect estimate of risk (odds ratio) ranging from 0.67 (increased body mass index) to 1.53 (alcohol consumption) {19150948;26487581}. Several cases of NEN arising in a context of inflammatory bowel disease, mostly ulcerative colitis, with associated hyperplasia of NECs, suggest longstanding mucosal inflammation as a possible concurrent etiological factor {16276118;19725156;28851045}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 150435,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 960,
+        "headingText": "\r\n<p>Molecular alterations involved in the pathogenesis of colorectal NETs are not well known. Some data were recently reported on a series of cases of rectal NETs {30851333;36645718;37387515}. Tumour mutation burden was usually low. Mutations were widely heterogeneous, some shared by NETs at other gastrointestinal sites, such as stomach or appendix, and others being peculiar to rectal NETs. Some of the reported mutations include <em>TP53</em>, <em>FBXW7</em>, <em>ERBB2</em>, <em>EGFR</em>, <em>PTEN</em>, <em>CDKN2A</em>, <em>SMARCB1</em>, <em>ATM</em>, <em>BRWD1</em>, <em>FAT4</em>, <em>MYCBP2</em>, <em>NIN</em>, <em>ZNF292</em>, <em>DAXX</em>, <em>FAT1</em>, <em>FAT3</em>, and <em>MUC16</em> {30851333;32424617;36645718;37387515}. Also, copy-number variations in different regions were found, chromosomes&nbsp;19 and&nbsp;1 being the most involved {36645718}. Some of the above-mentioned mutations are potentially targetable {30851333}. The genetic features of colon EC-cell NET are not well defined; it was previously assumed that they may share genetic abnormalities observed in ileal EC-cell NET, but modifications such as chromosome&nbsp;18 loss or <em>CDKN1B</em> described in ileal NETs have not been reported so far in the colon {37345509}.</p>\r\n<p>Some genetic data are available for colorectal NEC and MiNEN with an NEC component. The most recent next-generation sequencing studies showed that colorectal NECs and MiNEN are more similar to colorectal adenocarcinoma than other gastroenteropancreatic or lung NEC, suggesting a shared origin and pathogenetic pathway with adenocarcinoma {33041225;33737597}. Tumour mutation burden is significantly higher than that of NETs {37387515}. The most common genetic mutations include <em>TP53</em>, <em>KRAS</em>, <em>APC</em>, <em>BRAF</em>, <em>RB1</em>, <em>PIK3CA</em>, <em>FBXW7</em>, <em>PTEN</em>, <em>SMAD4</em>, <em>NF1</em>, <em>SOX9</em>, <em>BRCA1</em>, <em>CDKN2A</em>, and <em>MEN1</em> {12973852;28059098;33737597;37387515}. Microsatellite instability with loss of immunohistochemical expression of MMR proteins in NEC was described and mostly related to MLH1 promoter hypermethylation {22314183;28059096}. Mutations in <em>TP53</em> and <em>RB1</em> are relatively less frequent than in NECs at other sites {33041225}. <em>BRAF</em> mutation, present mostly in the form of p.Val600Glu (V600E), was reported in more than half of colorectal NECs, with significantly higher frequency than in adenocarcinoma {26826419;33737597}, suggesting <em>BRAF</em> as a promising target for specific therapy {27048246;30144031;30181415}.</p>\r\n<p>In MiNEN, several genetic alterations overlap in both neuroendocrine and non-neuroendocrine components, suggesting the hypothesis of a monoclonal origin with a common mutational trunk on which neuroendocrine differentiation arises secondarily due to further genetic or epigenetic events {9326914;25275049;25342539;11787850;28059096}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 150436,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 967,
+        "headingText": "\r\n<p>Rectal NETs usually occur as smooth, round, sessile (sometimes semipedunculated) submucosal lesions with intact overlying epithelium {9017986;15057680}. About two&nbsp;thirds of cases are &lt;&nbsp;10&nbsp;mm in diameter, and only about 7% are &gt;&nbsp;20&nbsp;mm {9017986;27486567}. At the time of diagnosis, colonic NETs are larger than their counterparts in the small intestine, appendix, and rectum, with an average size of about 50&nbsp;mm {32879660}, and are mainly localized in caecum, with frequent local spread and distant metastasis {2409828}.</p>\r\n<p>NECs and MiNENs of the colorectum, which are grossly similar to conventional adenocarcinomas, may appear as a polypoid or ulcerative lesion with infiltrative margins on cut section.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 150437,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 961,
+        "headingText": "\r\n<h5>NET</h5>\r\n<p>Colorectal NETs display the classic well-differentiated morphology of epithelial lineage [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International Agency for Research on Cancer; 2025. (WHO classification of tumours series, 5th ed.; vol. 10). https://publications.iarc.who.int/645. Bookref]]. They are composed of polygonal cells with bland features, abundant eosinophilic or granular cytoplasm, regular monomorphic nuclei with dispersed, granular, salt-and-pepper chromatin and indistinct nucleoli. Rectal L-cell NETs are the most frequent colorectal NET and typically display a trabecular, ribbon-like architecture (Soga type&nbsp;B structure). Serotonin-producing EC-cell NETs show solid-islet structures (Soga type&nbsp;A structure) with a morphology similar to classic EC-cell NETs of the ileum {4106849}; glandular (Soga type&nbsp;C structure) or mixed structures (Soga type&nbsp;E structure) may also be found {9700573}. Lymphovascular invasion may be present with variable incidence in correlation with the size of the tumour, and its presence must be reported for its prognostic value {31585816}. Perineural invasion is rarely observed {32735108}. Necrosis is usually absent; if present, it is inconspicuous and spotty. NETs are usually G1 or G2, although rare G3&nbsp;NETs have been reported {26113608;26943788;32533349}. Rectal NETs are mostly confined to the submucosa, whereas colonic NETs often invade pericolonic tissue and the peritoneum {27486567}.</p>\r\n<h5>NEC</h5>\r\n<p>Colorectal NECs display the classic poorly differentiated morphology of epithelial lineage, either small cell (SCNEC) or large cell (LCNEC) type [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International Agency for Research on Cancer; 2025. (WHO classification of tumours series, 5th ed.; vol. 10). https://publications.iarc.who.int/645. Bookref]]. LCNECs are relatively more frequent and are composed by cells with more abundant cytoplasm, more vesicular nuclei, and prominent nucleoli with a more organoid pattern. SCNECs are characterized by cells with a high N:C&nbsp;ratio with scant cytoplasm and atypical nuclei, often fusiform, with granular chromatin and inconspicuous nucleoli usually with a diffuse architectural pattern. Mitotic activity is brisk, with frequent atypical mitoses in both variants; necrosis is prominent and often diffuse. Focal neoplastic non-neuroendocrine components (either adenocarcinoma or squamous cell carcinoma) may be observed {6314828}.</p>\r\n<h5>MiNEN</h5>\r\n<p>Colorectal MiNEN displays the classic morphological features of neuroendocrine and non-neuroendocrine neoplasia [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International Agency for Research on Cancer; 2025. (WHO classification of tumours series, 5th ed.; vol. 10). https://publications.iarc.who.int/645. Bookref]]. The neuroendocrine component is usually an NEC, SCNEC, or LCNEC, and is usually combined with a classic colorectal adenocarcinoma NOS or rarely with a squamous cell carcinoma {33197299}. The two components must be described and graded separately, with particular attention to the evaluation of Ki-67 in the NEC component (&lt;&nbsp;55% or &ge;&nbsp;55%) for prognostic stratification {29592868}. Rarely, the neuroendocrine component may be well-differentiated. Neoplasms in which the non-neuroendocrine component consists solely of a precursor or intramucosal neoplasm such as adenoma, carcinoma in&nbsp;situ, or intramucosal adenocarcinoma are not considered MiNENs {11787850;15000285;23023914;29116005}.</p>\r\n<h5>Amphicrine-like carcinoma</h5>\r\n<p>Colorectal amphicrine-like carcinoma is usually an adenocarcinoma that coexpresses extensive neuroendocrine markers, often containing signet-ring cells or goblet cells, or including a colloid carcinoma component {35317101;36654693;32982118;33269082;39234057;39421232;39436458}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Similar to the ileal counterpart, colorectal EC-cell NETs are intensely and diffusely positive for chromogranin&nbsp;A and synaptophysin as well as for serotonin. L-cell NETs are diffusely positive for synaptophysin with variable expression of glucagon-like peptides (GLP-1, GLP-2), glicentin, and PP/PYY {2882565;2293859}. In rare cases, a few cells may also express somatostatin {6170421}. Chromogranin&nbsp;A is negative or focal in up to 80% of cases, and its expression may have a negative prognostic value {32735108}. INSM1 is almost always positive in rectal NET and, given the frequent negativity for chromogranin&nbsp;A, is a useful marker for the diagnosis of NET in the rectum more than in other gastroenteropancreatic sites {31077609;32763255}. SATB2 is often expressed in colorectal NETs, and significantly more frequently than in other GEP-NETs {26261600}. CDX2 is positive in EC-cell tumours and PAP in L-cell tumours {15640551;2293859}. Colorectal NETs, like NETs of other gastroenteropancreatic sites, are usually positive for SSTR2 correlating with favourable clinicopathological factors {26028102;22251942;28059098;38374188}.</p>\r\n<p>NECs usually show diffuse expression of synaptophysin, whereas chromogranin&nbsp;A may be scant or faint {12242522;22843918;18360283}. INSM1 frequently shows moderate-strong expression and represents a sensitive and specific marker for colorectal NEC {37608427}. Cytokeratins are usually expressed, often with dot-like features {2173427}. CDX2, as a classic marker of epithelial neoplasms in this tract, may be positive, as well as TTF1, especially in SCNEC {11257635;30236546;15517368}. SSTR2A may be positive, even if less often and less extensively than in NETs {28059098}.</p>\r\n<h5>Grading</h5>\r\n<p>Colorectal NENs are graded using the same system as other GEP-NENs (see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/199\" target=\"_blank\">section </a><em>Neuroendocrine neoplasms of the digestive system: Introduction and classification</em>).</p>\r\n",
+        "timestamp": "2026-06-09T11:32:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 150438,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 962,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-06-09T11:32:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 150439,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 963,
+        "headingText": "\r\n<p>The immunohistochemical loss of RB1 and diffuse overexpression or loss of p53 by immunohistochemical staining can support the diagnosis of NEC in morphologically challenging cases (e.g. those with minimal expression of neuroendocrine markers). However, a p53/RB1 wildtype status does not rule out the diagnosis.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 150440,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 966,
+        "headingText": "\r\n<h5>NET</h5>\r\n<p><em>Essential:</em> well-differentiated neuroendocrine morphology of epithelial lineage; neuroendocrine marker expression; Ki-67 proliferation index and/or mitotic count.</p>\r\n<p><em>Desirable:</em> SSTR2 expression; positive immunohistochemistry for hormones (e.g. serotonin, GLP-1).</p>\r\n<h5>NEC</h5>\r\n<p><em>Essential:</em> poorly differentiated neuroendocrine morphology of epithelial lineage with either small cell or large cell carcinoma pattern; sheets or trabeculae of poorly differentiated cells; neuroendocrine marker expression; high Ki-67 proliferation index and or mitotic count.</p>\r\n<p><em>Desirable:</em> reduced/absent SSTR2 expression; loss of RB1 expression or abnormal p53 expression.</p>\r\n<h5>MiNEN</h5>\r\n<p><em>Essential:</em> a mixed tumour composed of two morphologically recognizable components; either type &ge;&nbsp;30% of the neoplasm; neuroendocrine marker expression in the neuroendocrine component.</p>\r\n<p><em>Desirable:</em> assessment of Ki-67 proliferation index and/or mitotic count to grade the NET component or to prognostically stratify the NEC component; grading of the non-neuroendocrine component.</p>\r\n<h5>Amphicrine-like carcinoma</h5>\r\n<p><em>Essential:</em> a mixed tumour with no morphologically distinct zones of neuroendocrine and non-neuroendocrine differentiation; &ge;&nbsp;30% of the neoplasm; neuroendocrine marker expression in the neuroendocrine component.</p>\r\n<p><em>Desirable:</em> assessment of Ki-67 proliferation index.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 150441,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 964,
+        "headingText": "\r\n<p>The staging of colorectal NETs is in line with the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) systems for this site. For NECs, MiNENs, and amphicrine-like carcinomas, the staging follows the criteria of colorectal adenocarcinoma.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 150442,
+        "bookId": 72,
+        "chapterId": 212,
+        "headingId": 965,
+        "headingText": "\r\n<p>The prognosis for rectal NETs is among the best of all GEP-NETs, with an overall 5-year survival rate between 74% and 88%, depending largely on the stage and the grade {18853416;24080744;27486567;29337773}. Tumour size is the most important prognostic parameter of rectal NETs and has relevant clinical implications for therapy: NETs &lt;&nbsp;10&nbsp;mm (as many as 90% of rectal NETs in some series) display &lt;&nbsp;2% risk of nodal metastases and are amenable to curative mucosal resection. NETs of 10&ndash;20&nbsp;mm and &gt;&nbsp;20&nbsp;mm have a risk of nodal metastases of 10&ndash;15% and 60&ndash;80%, respectively, with relevant prognostic implications and often requiring larger resections or surgery with lymph nodes dissection {33686307;29369898}. Besides tumour size, other histological parameters include grade, depth of invasion with invasion of the muscularis propria, positive margins, and lymphovascular invasion {27486567}. Lymphovascular invasion correlates with tumour size and is associated with an increased risk of local recurrence and lymph node metastasis; identification of lymphovascular invasion may be facilitated by the use of vascular immunohistochemical markers {31585816}. The vast majority of rectal NETs are G1, almost 90% in some series, with lower percentage of G2. The 5-year survival rates reported in a case series for patients with G1 and G2 rectal NETs are 87% and 47%, respectively {24080744}. The prognosis for colon EC-cell NETs is worse than that observed in L-cell rectal NETs, with more frequent local spread and distant metastases at diagnosis {2409828}. The prognosis for colon NETs, particularly of the right colon where they are mostly located, is comparable to that observed in ileal NETs {37345509}.</p>\r\n<p>Colorectal NECs and MiNENs display a similarly ominous outcome {25664707;26810202;26943788;37867105}. They have a significantly worse prognosis than NEC and MiNEN of other gastroenteropancreatic sites or lung {29592868;36417840}. Stage and Ki-67 proliferation index (&lt;&nbsp;55% and &gt;&nbsp;55%) represent the most important predictors {36417840}. In one series, patients with NECs with a Ki-67 proliferation index &lt;&nbsp;55% had a median overall survival of 25.4&nbsp;months, whereas the other patients had a median survival time of 5.3&nbsp;months {26943788}. In MiNEN, the Ki-67 proliferation index of the NEC component drives prognosis {29592868;37867105}. Additionally, patients with MiNEN with Ki-67 &lt;&nbsp;55% show a statistically significant better prognosis than patients with pure NEC with analogous Ki-67 values {36417840}.</p>",
+        "timestamp": "2026-06-09T11:32:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

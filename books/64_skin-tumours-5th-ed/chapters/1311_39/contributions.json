@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 124701,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 764,
+        "headingText": "<p>Merkel cell carcinoma (MCC) is primary cutaneous neuroendocrine carcinoma.</p>",
+        "timestamp": "2025-07-04T13:00:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 124702,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 765,
+        "headingText": "\r\n<p>8247/3 Merkel cell carcinoma</p>\r\n",
+        "timestamp": "2025-02-26T15:23:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 124703,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 766,
+        "headingText": "\r\n<p>2C34 &amp; XH81N8 Cutaneous neuroendocrine carcinoma &amp; Merkel cell carcinoma</p>\r\n",
+        "timestamp": "2025-02-26T15:23:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 124704,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 767,
+        "headingText": "\r\n<p><em>Acceptable:</em> primary cutaneous neuroendocrine carcinoma.</p>\r\n<p><em>Not recommended:</em> trabecular carcinoma; Toker tumour.</p>\r\n",
+        "timestamp": "2025-02-26T15:23:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 124705,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 768,
+        "headingText": "<p>None</p>",
+        "timestamp": "2025-07-04T12:53:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 124706,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 769,
+        "headingText": "<p>The majority of MCCs occur on sun-damaged skin. The most commonly affected sites, in order of frequency of involvement, are the head and neck, extremities, and trunk.</p>",
+        "timestamp": "2025-07-04T13:01:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 124707,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 770,
+        "headingText": "<p>MCC typically appears as a rapidly growing flesh-coloured or violaceous nodule or plaque {18280333}. The clinical differential diagnosis includes basal cell carcinoma, squamous cell carcinoma (SCC), amelanotic melanoma, atypical fibroxanthoma, lymphoma, and cyst. Metastatic disease may develop in the absence of detectable concurrent primary tumour or history of MCC. The primary MCC may have spontaneously regressed {27596690}.</p>",
+        "timestamp": "2025-07-04T13:02:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 124708,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 771,
+        "headingText": "\r\n<p>This tumour type predominantly affects elderly White people. In the USA (SEER Program database), 95% of affected patients are White {19638070}. The median age at diagnosis is 75&nbsp;years {19638070}. Fewer than 5% of patients are diagnosed before the age of 50&nbsp;years. The annual incidence of MCC is reported as 0.13&nbsp;cases per 100&nbsp;000&nbsp;population in Europe {23541566}, 0.79 per 100&nbsp;000 in the USA {26215243}, and 1.6 per 100&nbsp;000 in Australia {24943712}. The incidence has been rising worldwide. MCC is associated with immunosuppression. Tumour incidence is increased 10-fold in association with HIV infection {11853800} and 5&ndash;10-fold after solid-organ transplantation {12176573}. There is an approximate 40-fold increased incidence associated with chronic lymphocytic leukaemia {18280333}. However, &lt;&nbsp;10% of patients with MCC are severely immunocompromised {18280333}.</p>\r\n",
+        "timestamp": "2025-02-26T15:23:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 124709,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 772,
+        "headingText": "<p>Both ultraviolet (UV) radiation exposure and clonal integration of Merkel cell polyomavirus (MCPyV) are strongly associated with MCC. Immunosuppression and advanced age are risk factors.</p>",
+        "timestamp": "2025-07-04T13:09:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 124710,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 773,
+        "headingText": "<p>Divergent genetic profiles have been reported in MCPyV-positive and MCPyV-negative MCCs, supporting the proposed ontological dichotomy in this group of tumours. In particular, mutations in <em>TP53</em> and <em>RB1</em> and a UV radiation signature mutation profile with many C&gt;T transitions have been found in MCPyV-negative MCCs, and they have a higher total mutation burden than virus-positive tumours. These findings suggest that distinct molecular tumorigenic pathways related to UV radiation exposure and MCPyV infection exist in MCC {26022453; 26655088}. In combined tumours, in which neuroendocrine carcinoma is associated and intimately admixed with both in&nbsp;situ and invasive SCC, the neuroendocrine tumour cells are derived from the SCC.</p>",
+        "timestamp": "2025-07-04T15:29:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 124711,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 780,
+        "headingText": "\r\n<p>Patients typically present with a fleshy nodule.</p>\r\n",
+        "timestamp": "2025-02-26T15:23:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 124712,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 774,
+        "headingText": "<p>The tumour typically appears as a blue nodule with circumscribed and/or infiltrative growth in the dermis and/or subcutis. Tumour cells are usually densely grouped in large or small aggregates. On occasion they may display a trabecular growth pattern. A spectrum of cytological features, from small to intermediate and large cells, has been described. The intermediate cell type is most common {11486166; 19395876}. The nuclei of the tumour cells characteristically display a fine stippled chromatin pattern. Rosettes may be noted. Mitotic figures and apoptotic bodies tend to be numerous. Lymphatic invasion is frequently seen. In some MCCs, tumour cells are seen&nbsp;not only in the dermis, but also within the epidermis (epidermotropic MCC). On very rare occasions, the tumour cells are confined to the epidermis or follicles (MCC in&nbsp;situ).</p>\r\n<p>The majority of tumours develop de&nbsp;novo. However, some primary cutaneous neuroendocrine carcinomas are associated with and likely derived from SCC {34593967; 34480892}. MCPyV is absent in such combined tumours {19609205}. Rare combined neuroendocrine carcinomas are associated with basal cell carcinoma, an adnexal tumour {31759946}, or atypical fibroxanthoma.</p>\r\n<p>Immunohistochemically, the tumour cells of MCC express epithelial markers (CAM5.2, AE1/AE3, CK20, 34&beta;E12, BerEP4, and EMA; occasionally CK7) and neuroendocrine markers (chromogranin, synaptophysin, CD56, INSM1)&nbsp;{24144292; 31676786; 30080705}. They also express neurofilament and SATB2. Perinuclear dot-like staining for CK20 and/or neurofilament are the most reliable ways to confirm the diagnosis of MCC {20642632}. INSM1 is the most sensitive of the neuroendocrine markers {30080705}. Thyroid transcription factor&nbsp;1 (TTF1) staining is almost always negative; however, depending on the clone and assay used, staining may be seen in some cases {31917690}.&nbsp;MCPyV-positive MCC is to be distinguished from virus-negative MCC. Immunoreactivity with a monoclonal antibody (CM2B4 or Ab3) that recognizes the MCPyV large T&nbsp;antigen helps document the virus association of the tumour&nbsp;{19609205; 23114601}. There is variability in the reported rates of immunohistochemical expression of the MCPyV large T&nbsp;antigen, which may reflect both variation in the sensitivity of detection (laboratory assay conditions) and the geographical etiological heterogeneity of the tumours&nbsp;{24614722}.</p>\r\n<p>The histopathological differential diagnosis includes other skin cancers, such as basal cell carcinoma, basaloid SCC, adnexal carcinomas with basaloid or neuroendocrine features, and small cell melanoma, but also cutaneous Ewing sarcoma, lymphoma, and metastatic neuroendocrine carcinoma. In the skin, as well as in a lymph node, MCC may collide with chronic lymphocytic leukaemia, and it is then more difficult to diagnose on H&amp;E-stained sections. Histologically pure MCC is to be distinguished from combined neuroendocrine carcinoma, which is most often associated with SCC.</p>",
+        "timestamp": "2025-07-04T15:50:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 124713,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 775,
+        "headingText": "\r\n<p>MCC is cytologically characterized by the presence of hypercellular dense aggregates of tumour cells with a high N:C&nbsp;ratio. The nuclei tend to display a fine stippled (salt-and-pepper) chromatin pattern. Nuclear moulding is common.</p>\r\n",
+        "timestamp": "2025-02-26T15:23:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 124714,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 776,
+        "headingText": "<p>Confirmation of the presence of MCPyV, by immunohistochemistry targeting the MCPyV large T&nbsp;antigen and/or by molecular studies, helps support the diagnosis of MCC and is prognostically relevant. MCPyV-positive tumours tend to lack mutations or carry only a few. A high mutation burden, frequently involving <em>TP53</em> and <em>RB1</em>, is typical of virus-negative tumours.</p>",
+        "timestamp": "2025-07-04T15:53:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 124715,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 779,
+        "headingText": "<p><em>Essential:</em> a fast-growing tumour; a blue cell tumour in the dermis with neuroendocrine cytology (salt-and-pepper chromatin); immunophenotype of neuroendocrine differentiation (e.g. INSM1 positivity, perinuclear dot-like staining for cytokeratins).</p>",
+        "timestamp": "2025-07-04T15:54:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 124716,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 777,
+        "headingText": "\r\n<p>Tumours can be staged according to the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM system.</p>\r\n",
+        "timestamp": "2025-02-26T15:23:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 124717,
+        "bookId": 64,
+        "chapterId": 39,
+        "headingId": 778,
+        "headingText": "<p>The 5-year survival rate with MCC is estimated at 51% for patients with localized disease, 35% for patients with regional metastasis, and 14% for patients with distant metastasis {27198511}. However, since many patients with MCC are elderly, data on overall survival have limited value. In a large single-institution dataset, the disease-specific death rate at 5&nbsp;years was 30% {21865945}. In patients with localized disease, tumour size and extent of invasion correlate with prognosis. Patients with MCPyV-positive MCC have better outcomes than those with virus-negative tumours {33547200}. The AJCC developed a staging system with four stages based on tumour size (&le; or &gt;&nbsp;20&nbsp;mm), involvement of deep soft tissue layers, regional lymph nodes, and distant sites {27198511}, which has been adopted by UICC. The reported prognostic value of lymphatic invasion and sentinel lymph node status has been inconsistent. Patients presenting with nodal disease alone (without an identifiable cutaneous primary) seem to have a better prognosis than patients with an identifiable primary lesion and nodal metastasis. MCC is a radiosensitive tumour. Radiation therapy plays an important role in locoregional control of the disease {28423400}. Immunomodulatory therapies have recently been found to improve survival of patients with advanced disease {27592804}.</p>",
+        "timestamp": "2025-07-04T15:58:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

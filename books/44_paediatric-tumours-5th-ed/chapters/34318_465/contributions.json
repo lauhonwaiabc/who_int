@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 104909,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 466,
+        "headingText": "\r\n<p>Cribriform neuroepithelial tumour (CRINET) is provisionally defined as a non-rhabdoid neuroectodermal tumour characterized by cribriform strands and ribbons, and showing loss of nuclear SMARCB1 expression.</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 104910,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 467,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 104911,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A00.2Y Other specified tumours of neuroepithelial tissue of brain</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 104912,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 469,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 104913,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 104914,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 471,
+        "headingText": "\r\n<p>CRINET is located in the vicinity of the fourth, third, or lateral ventricles {19915490; 22239490; 23495723; 26352987}.</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 104915,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 472,
+        "headingText": "\r\n<p>The clinical features of CRINET are nonspecific and related to tumour location.</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 104916,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 473,
+        "headingText": "\r\n<p>The median age of 10&nbsp;children harbouring CRINET was 20&nbsp;months (range: 10&ndash;129&nbsp;months). The M:F&nbsp;ratio was 1.5:1 {27380723}.</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 104917,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 474,
+        "headingText": "\r\n<p><em>SMARCB1</em> germline alterations (including familial cases with unaffected adult carriers) have been reported {21918902; 27380723}.</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 104918,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 475,
+        "headingText": "\r\n<p>Losses on chromosome&nbsp;22q affecting the <em>SMARCB1</em> region are the only recurrent chromosomal alteration {26352987; 27380723} so far described. <em>SMARCB1</em> point mutations, as well as deletions of exons&nbsp;7 and 8 {26352987} or duplication of exon&nbsp;6 {21918902}, may represent the second hit.</p>\r\n<p>On unsupervised clustering analysis of DNA methylation profiles, CRINET grouped within the atypical teratoid/rhabdoid tumour (AT/RT) molecular subtype AT/RT-TYR {27380723}. The observation that expression of tyrosinase is present not only in AT/RT-TYR but also in CRINET suggests similarities also at the protein expression level {31077608; 27380723}.</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 104919,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 482,
+        "headingText": "\r\n<p>Insufficient data have been reported on the macroscopic appearance of CRINET specifically.</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 104920,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 476,
+        "headingText": "<p>CRINET is a highly cellular tumour characterized by the presence of cribriform strands and ribbons. In more compact areas, small lumina and true rosettes are also present, but rhabdoid tumour cells showing eosinophilic cytoplasms and eccentric nuclei with prominent nucleoli are not encountered.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>Loss of nuclear SMARCB1 protein expression in tumour cells is a feature shared with AT/RT {26352987; 19915490}. There is distinct expression of EMA {26352987; 19915490}, and there is frequent expression of tyrosinase {27380723}, MAP2, and synaptophysin as well as vimentin. Expression of S100, GFAP, and cytokeratins is variable {26352987; 19915490}. Many CRINETs had initially been diagnosed as choroid plexus carcinoma {27380723}, but staining for choroid plexus marker Kir7.1 is generally absent {19915490}.</p>\r\n<h5>Proliferation</h5>\r\n<p>Ki-67/MIB1 proliferation index values between 5% and 35% have been reported {26352987; 27380723}. In the largest series reported to date, the median Ki-67/MIB1 proliferation index was 29% (range: 15&ndash;35%) {27380723}.</p>",
+        "timestamp": "2022-10-03T12:01:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 104921,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 104922,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 478,
+        "headingText": "\r\n<p>CRINETs should be assessed for SMARCB1 deficiency.</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 104923,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 481,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/44/465/22696\" target=\"_blank\">#22696</a>Box&nbsp;3.39 .</p>",
+        "timestamp": "2023-03-24T12:02:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 104924,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 479,
+        "headingText": "\r\n<p>None validated</p>\r\n",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 104925,
+        "bookId": 44,
+        "chapterId": 465,
+        "headingId": 480,
+        "headingText": "\r\n<p>Many patients with CRINET respond well to therapy and experience long-term survival. In a retrospective series, the overall survival of 10&nbsp;patients with CRINET was found to be significantly longer than that of 27&nbsp;patients with AT/RT-TYR {27380723}.</p>",
+        "timestamp": "2022-02-11T16:11:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

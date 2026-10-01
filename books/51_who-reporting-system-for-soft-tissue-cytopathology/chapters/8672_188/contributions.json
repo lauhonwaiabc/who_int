@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 918,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 694,
+    "contributions": [
+      {
+        "pkcontributionId": 135456,
+        "bookId": 51,
+        "chapterId": 188,
+        "headingId": 694,
+        "headingText": "\r\n<p>Malignant melanotic nerve sheath tumour (MMNST) is a rare peripheral nerve sheath tumour composed uniformly of Schwann cells showing melanocytic differentiation, usually arising in association with spinal or autonomic nerves; it is variably associated with Carney complex and frequently shows aggressive clinical behaviour. <em>PRKAR1A</em> mutations and loss of PRKAR1A protein expression are seen in the overwhelming majority of cases.</p>\r\n",
+        "timestamp": "2025-10-14T14:39:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 919,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 695,
+    "contributions": [
+      {
+        "pkcontributionId": 135457,
+        "bookId": 51,
+        "chapterId": 188,
+        "headingId": 695,
+        "headingText": "\r\n<p>MMNST primarily affects adults and is rare in children. Patients with Carney complex who develop MMNST are typically younger (mean: 22.5&nbsp;years) than patients with sporadic cases (mean: 33.2&nbsp;years), and they tend to develop multiple tumours {2305928; 24145644}. Most cases arise in association with spinal or autonomic nerves. Although most cases have been reported in midline sites, MMNST rarely arises elsewhere in the gastrointestinal tract, soft tissues, bone, heart, bronchus, liver, and skin {17111368; 17622556}. Presenting symptoms include pain, sensory abnormalities, and tumour-related mass effects.</p>\r\n<p>MMNST frequently shows aggressive behaviour, with as many as half of all affected patients developing local recurrence or metastasis {10583580; 24145644; 26031761; 26386847}.</p>\r\n",
+        "timestamp": "2025-10-14T14:39:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 920,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 696,
+    "contributions": [
+      {
+        "pkcontributionId": 135458,
+        "bookId": 51,
+        "chapterId": 188,
+        "headingId": 696,
+        "headingText": "\r\n<p>MMNST is composed of short fascicles and sheets of polygonal to spindle cells, which may have heavy cytoplasmic melanin pigment deposition, varying from coarsely clumped to finely granular and often obscuring the nucleus. Tumour cells have round or spindle nuclei with characteristic nuclear grooves and pseudoinclusions, as well as small nucleoli. The cytoplasm is amphophilic or eosinophilic and may appear syncytial. Areas of vague palisading and whorled architecture may be seen. Some examples may show marked nuclear atypia and large macronucleoli, as well as high mitotic activity and necrosis. Psammoma bodies are present in at least half of all cases.</p>\r\n",
+        "timestamp": "2025-10-14T14:39:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 921,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 697,
+    "contributions": [
+      {
+        "pkcontributionId": 135459,
+        "bookId": 51,
+        "chapterId": 188,
+        "headingId": 697,
+        "headingText": "\r\nHigh cellularity\r\nTissue fragments, some of which are discohesive, composed of spindle and polygonal cells with plump or spindle nuclei having small nucleoli, nuclear grooves, and occasional pseudoinclusions\r\nEnlarged nuclei show mild atypia\r\nThin, tapering cytoplasmic processes with variable melanin pigmentation\r\nPsammoma bodies may be present but are not always sampled\r\n\r\n<p><em>Reference(s):</em> {17230569; 9784997; 7867475; 9557264; 10907935; 32583622}</p>",
+        "timestamp": "2026-01-06T08:41:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 922,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 698,
+    "contributions": [
+      {
+        "pkcontributionId": 135460,
+        "bookId": 51,
+        "chapterId": 188,
+        "headingId": 698,
+        "headingText": "<p>There are only rare reports of the cytopathological features of MMNST, with just two cases in the setting of Carney complex {17230569} and most cases being sporadic {9784997; 7867475; 9557264; 10907935; 32583622}. MMNST is indistinguishable from malignant melanoma in many instances, especially since psammoma bodies may not be present, and clinical correlation is required to exclude metastatic malignant melanoma. Clinical findings suggesting features of Carney complex, including myxoma, endocrine neoplasms, and pigmented skin lesions, support MMNST.</p>",
+        "timestamp": "2026-01-06T08:42:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 923,
+    "bookid": 51,
+    "headingType": 2,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 699,
+    "contributions": [
+      {
+        "pkcontributionId": 135461,
+        "bookId": 51,
+        "chapterId": 188,
+        "headingId": 699,
+        "headingText": "<p>By ICC, MMNST shows strong staining for S100 and SOX10, as well as the melanocytic markers HMB45, melan-A, and tyrosinase. Loss of PRKAR1A expression is seen in most cases {24145644; 26031761}; it is diagnostic of MMNST and is not a feature of melanoma.</p>\r\n<p>Molecular testing may resolve challenging cases, because malignant melanoma arising in cutaneous sites has characteristic driver mutations, including <em>BRAF</em>, <em>KRAS</em>, <em>NRAS</em>, <em>NF1</em>, <em>KIT</em>, and <em>TERT</em> mutations, as well as ultraviolet (UV)-associated mutation signatures {19936769}. Notably, CNS melanocytomas, uveal melanomas, and melanomas arising in blue naevi have a distinctive molecular profile of activating <em>GNAQ</em> or <em>GNA11</em> mutations, as well as additional <em>BAP1</em> and <em>SF3B1</em> mutations {19936769; 26645730}, and they may show a more uniform appearance that closely mimics that of MMNST.</p>",
+        "timestamp": "2026-01-06T08:44:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

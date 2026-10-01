@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 71707,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 539,
+        "headingText": "\r\n<p>Peutz&ndash;Jeghers syndrome (PJS) is an autosomal dominant polyp and cancer predisposition syndrome associated with germline mutations in the <em>STK11</em> gene, characterized by mucocutaneous melanin pigmentation, gastrointestinal polyposis, and an increased risk for the development of neoplasms involving multiple organs, including intratubular large cell hyalinizing Sertoli cell neoplasia in the testis.</p>\r\n",
+        "timestamp": "2022-02-25T12:31:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 71708,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 540,
+        "headingText": "\r\n<h5>MIM numbering</h5>\r\n<p>175200 Peutz&ndash;Jeghers syndrome; PJS</p>\r\n",
+        "timestamp": "2022-02-25T12:31:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 71709,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 541,
+        "headingText": "\r\n<p>LD2D.0 Peutz&ndash;Jeghers syndrome</p>\r\n",
+        "timestamp": "2022-02-25T12:31:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 71710,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 542,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-25T12:31:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 71711,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-25T12:31:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 71712,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 544,
+        "headingText": "\r\n<p>Polyps in PJS most commonly involve the small intestine, followed by the colon and stomach {26721304} (see <a style=\"cursor:pointer\" href=\"/attachment/36/310/21190\" target=\"_blank\">#21190</a>Table&nbsp;14.06). However, rare cases involving the urinary tract have been reported in some older publications {19916169; 20301443; 3599256}.</p>\r\n<p>PJS is characterized by a high risk for the development of both gastrointestinal and extraintestinal cancers, with an 81% overall reported risk of any cancer at 70&nbsp;years {15188174; 25645574}. Tumours in the genitourinary tract are mostly limited to the testis, although rare cases of carcinomas of the kidney, prostate, and penis have been reported in PJS cohorts {20051941; 15188174; 26979979}. It is unclear whether these tumours are incidental occurrences or a manifestation of PJS.</p>\r\n",
+        "timestamp": "2022-02-25T12:31:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 71713,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 545,
+        "headingText": "\r\n<p>Most patients present with symptoms due to intestinal polyps, including abdominal pain, intestinal bleeding, anaemia, and intussusception, which typically manifest in the first two decades of life {17311531}. Intratubular large cell hyalinizing Sertoli cell neoplasia manifests in prepubertal children with bilateral gynaecomastia, elevated serum estrogen levels, and advanced bone age {18384207}. The hyperestrogenism is attributable to the conversion of androgens to estrogens by aromatase produced by the tumour cells. Tumours may cause bilateral testicular enlargement without any distinct masses {32854934} and on ultrasound reveal bilateral, multifocal, subcentimetre, hyperechoic tumour foci.</p>\r\n",
+        "timestamp": "2022-02-25T12:31:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 71714,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 546,
+        "headingText": "\r\n<p>The estimated incidence of PJS is 0.5&ndash;2&nbsp;cases per 100&nbsp;000&nbsp;births {16616343}. The incidence of testicular tumours in PJS is unknown, although the cumulative risk of developing testicular tumours at the age of 70&nbsp;years is reported to be 9% {11113065}.</p>\r\n",
+        "timestamp": "2022-02-25T12:31:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 71715,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 547,
+        "headingText": "\r\n<p>An inherited germline mutation in the tumour suppressor gene <em>STK11</em> (<em>LKB1</em>), located on chromosome 19p13.3, which encodes a serine/threonine kinase, has been documented in &gt;&nbsp;90% of patients with PJS {16287113}.</p>\r\n",
+        "timestamp": "2022-02-25T12:31:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 71716,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 548,
+        "headingText": "\r\n<p>There are no data regarding the pathogenesis of tumours in PJS, including tumours in the genitourinary tract.</p>\r\n",
+        "timestamp": "2022-02-25T12:31:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 71717,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 555,
+        "headingText": "\r\n<p>Tumours may appear as small white foci or areas of poorly defined nodularity. Rarely, they form masses when accompanied by an invasive component.</p>\r\n",
+        "timestamp": "2022-02-25T12:31:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 71718,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 549,
+        "headingText": "\r\n<p>The disorder is largely intratubular, with patchily distributed expanded seminiferous tubules (2&ndash;4 times the normal size) surrounded by prominent thickened basement membrane that protrudes into the lumen as globular eosinophilic deposits. The tubules contain large Sertoli cells that have pale eosinophilic and often fibrillary cytoplasm and round to oval nuclei with fine chromatin and identifiable nucleoli {25171448}. Mitotic figures are absent. Calcific foci may be present. The tumour cells are positive for inhibin, aromatase, and cytokeratin (AE1/AE3). Very rarely, neoplastic cells may invade the stroma with or without foci of calcification and may resemble large cell calcifying Sertoli cell tumours (see <a style=\"cursor:pointer\" href=\"/chaptercontent/36/219\" target=\"_blank\">section </a><em>Large cell calcifying Sertoli cell tumour</em>), although the latter have a prominent invasive component, cells with dense eosinophilic cytoplasm, neutrophilic infiltrate, and prominent calcification {25440720; 27801954}. Although there are reports and anecdotal references to other types of Sertoli cell tumours (including large cell calcifying Sertoli cell tumour) occurring in PJS, it is likely that these may represent histological misclassification, sporadic tumours unrelated to genetic events specific to PJS, or tumours occurring in a clinical setting that overlaps with PJS (including Carney syndrome). Histopathological data of tumours reported in PJS at other genitourinary organs are lacking, and because of the low frequency of these reports, it is likely that they represent sporadic tumours.</p>\r\n",
+        "timestamp": "2022-02-25T12:31:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 71719,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-25T12:31:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 71720,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 551,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-25T12:31:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 71721,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> see <a style=\"cursor:pointer\" href=\"/attachment/36/310/21193\" target=\"_blank\">#21193</a>Box&nbsp;14.02 .</p>\r\n<p><em>Desirable:</em> expanded seminiferous tubules with thickened basement membranes; intratubular proliferation of pale eosinophilic cells; globular basement membrane deposits.</p>\r\n",
+        "timestamp": "2022-02-25T12:31:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 71722,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 552,
+        "headingText": "\r\n<p>Most tumours are intratubular. When invasive, they are staged like sporadic tumours.</p>\r\n",
+        "timestamp": "2022-02-25T12:31:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 71723,
+        "bookId": 36,
+        "chapterId": 310,
+        "headingId": 553,
+        "headingText": "\r\n<p>Intratubular large cell hyalinizing Sertoli cell neoplasia is a benign tumour, with a low frequency of invasion into the testicular parenchyma and no documented cases of metastasis. Conservative management with aromatase inhibitors is recommended to reduce the effects of hyperestrogenism. Orchiectomy is reserved for refractory cases {25171448}.</p>",
+        "timestamp": "2022-02-25T12:31:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

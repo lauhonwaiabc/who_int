@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 54863,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 159,
+        "headingText": "<p>Bile duct adenoma (BDA) is a benign epithelial lesion composed of a proliferation of small, normal-looking bile ducts.</p>",
+        "timestamp": "2019-03-04T11:39:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 54864,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 160,
+        "headingText": "<p>8160/0 Bile duct adenoma</p>",
+        "timestamp": "2019-03-04T11:40:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 54865,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 161,
+        "headingText": "<p>2E92.7 &amp; XH6KR6 Benign neoplasm of liver or intrahepatic bile ducts &amp; Bile duct adenoma</p>",
+        "timestamp": "2019-03-04T11:40:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 54866,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 162,
+        "headingText": "<p><em>Acceptable:</em> peribiliary gland hamartoma.</p>",
+        "timestamp": "2019-03-04T11:40:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 54867,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 163,
+        "headingText": "<p>None</p>",
+        "timestamp": "2019-03-04T11:40:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 54868,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 164,
+        "headingText": "<p>BDA is most commonly a solitary subcapsular nodule (90%), involving either liver lobe.</p>",
+        "timestamp": "2019-03-04T11:40:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 54869,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 165,
+        "headingText": "<p>BDA is frequently an incidental finding at surgery or autopsy. It is mostly found in patients aged 20&ndash;70&nbsp;years (range: 1.5&ndash;99&nbsp;years; mean: 55&nbsp;years), with no specific sex predilection.</p>",
+        "timestamp": "2019-03-04T11:40:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 54870,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 166,
+        "headingText": "<p>The frequency of BDA was 0.6% in a large autopsy study {205188} and 2.4% in a large resection cohort {25329860}.</p>",
+        "timestamp": "2019-03-04T11:40:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 54871,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 167,
+        "headingText": "<p>Unknown</p>",
+        "timestamp": "2019-03-04T11:41:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 54872,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 168,
+        "headingText": "<p>The origin and pathogenesis of BDA are controversial. Early investigators proposed that BDA is a reactive process to a focal injury, possibly postinflammatory or traumatic {3046396}. A later study suggested that BDA is a peribiliary gland hamartoma {8669534}. More recently, <em>BRAF</em> p.V600E mutations were detected in a high proportion of cases (8&nbsp;of&nbsp;15&nbsp;cases, 53%), some of which were multiple and associated with cholangiocarcinoma, suggesting that at least some BDAs are true neoplasms {24634053; 25704541}.</p>",
+        "timestamp": "2019-05-02T10:18:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 54873,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 207,
+        "headingText": "<p>BDA is usually a single, subcapsular, white, well-circumscribed but unencapsulated nodule. It is usually &lt;&nbsp;1&nbsp;cm in size (range: 1&ndash;20&nbsp;mm).</p>",
+        "timestamp": "2019-03-04T11:41:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 54874,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 169,
+        "headingText": "<p>BDA is composed of a disordered collection of uniform small ducts in a connective tissue stroma without infiltrative or pushing margin. The ducts have no or little lumen and are formed by cuboidal cells that have regular nuclei, resembling ductules. The associated fibrous stroma shows varying degrees of chronic inflammation and collagenization. Portal tracts are often enclosed in the nodule. The cytokeratin immunophenotype of the ductal epithelium is similar to that of normal bile ducts, being positive for CK7 and CK19.</p>\r\n<p>A portion of the lesions can express mucin and have more collagenized stroma. There is close association with large-calibre bile duct. BDA shows a secretory gland cell immunophenotype (foregut epithelial antigens D10 and 1F6 were positive) and mucous cell expression similar to those of peribiliary glands {8669534}. Further study has revealed that they also express other foregut antigens, such as MUC6, MUC5AC, and TFF2 {20679879}.</p>\r\n<p>Clear-cell and oncocytic changes have been described {11420469; 16918984}, but their exact nature is uncertain and they should not be considered as part of the spectrum.</p>\r\n<p>BDA&rsquo;s main clinical significance resides in its possible confusion with adenocarcinoma of pancreatobiliary differentiation, especially during intraoperative consultation.</p>\r\n<p>Cholangiolocarcinoma and BDA both have innocent-looking small ductular structures, but these entities can be distinguished on the basis of tumour size, cytological and architectural patterns, and invasive features. Immunostaining for Ki-67, p53, EZH2, and p16 (p16INK4a) may be helpful {27396933; 24487593}. The Ki-67 proliferation index is low in BDA (average: 2%, never &gt;&nbsp;10%), and strong p53 staining is not seen. EZH2 is expressed in carcinomas but not BDAs; p16 (p16INK4a) is expressed in BDAs but not carcinomas.</p>\r\n<p>BDA should also be distinguished from other benign biliary conditions. Reactive ductular proliferation is usually not circumscribed or nodular in configuration. But in cirrhosis, ductular reaction can replace the hepatocytic nodule (parenchymal extinction in cirrhotic nodules) and form a nodular proliferation. Von&nbsp;Meyenburg complex and biliary adenofibroma are also mimics. Yet BDA does not show cystic changes and does not contain bile.</p>\r\n<p>Cases reported to represent malignant transformation of BDA are questionable, because the cases exhibited atypical features, such as larger size {22326450} and microcystic change {7757293}.</p>\r\n<p>For more-detailed information about the differential diagnosis of solid-microcystic glandular lesions of the liver, see Table <a style=\"cursor:pointer\" href=\"/attachment/31/85/1376\" target=\"_blank\">#1376</a>.</p>",
+        "timestamp": "2019-08-23T11:57:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 54875,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 170,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-03-04T11:41:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 54876,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 171,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-03-04T11:41:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 54877,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 174,
+        "headingText": "<p><em>Essential:</em> small nodular proliferation of benign small bile ducts with frequent inclusion of portal tracts; absence of infiltrative or pushing margin.</p>\r\n<p><em>Desirable:</em> may have fibrotic stroma with chronic inflammation; expression of CK7 and CK19.</p>",
+        "timestamp": "2019-04-24T12:06:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 54878,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 172,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2019-03-04T11:42:16"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 54879,
+        "bookId": 31,
+        "chapterId": 85,
+        "headingId": 173,
+        "headingText": "<p>Malignant transformation is not documented for classic BDA.</p>",
+        "timestamp": "2019-03-04T11:42:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 115578,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 576,
+        "headingText": "<p >Epithelioid haemangioendothelioma (EHE) is a malignant, fusion gene&ndash;associated vascular neoplasm composed of epithelioid endothelial cells in a distinctive myxohyaline stroma.</p>",
+        "timestamp": "2023-11-17T14:09:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 115579,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 577,
+        "headingText": "\r\n<p>9133/3 Epithelioid haemangioendothelioma, NOS</p>\r\n<p>9133/3 Epithelioid haemangioendothelioma with <em>WWTR1</em>::<em>CAMTA1</em> fusion</p>\r\n<p>9133/3 Epithelioid haemangioendothelioma with <em>YAP1</em>::<em>TFE3</em> fusion</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 115580,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 578,
+        "headingText": "\r\n<p>2B5Y &amp; XH9GF8 Other specified malignant mesenchymal neoplasms &amp; Epithelioid haemangioendothelioma</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 115581,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> malignant epithelioid haemangioendothelioma.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 115582,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 580,
+        "headingText": "\r\n<p>EHE with <em>WWTR1</em>::<em>CAMTA1</em> fusion; EHE with <em>YAP1</em>::<em>TFE3</em> fusion</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 115583,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 581,
+        "headingText": "\r\n<p>These are rare tumours of the head and neck region arising typically in soft tissue of the neck, oral cavity, salivary glands, or bone {24986479; 26298095; 16301153; 21584898; 10846129}.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 115584,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients present with a slowly growing mass, which is sometimes painful because of vascular occlusion. Other symptoms are site- and size-dependent. There is a propensity for lymph node metastases {31950476; 31463731; 26298095; 16301153}.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 115585,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 583,
+        "headingText": "\r\n<p>There is a wide age range of patients, from children to the elderly, with young to middle-aged adults being mainly affected {22420724; 24986479; 31950476; 31463731}.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 115586,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 115587,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 585,
+        "headingText": "\r\n<p>As a specific driver mutation, the <em>WWTR1</em>::<em>CAMTA1</em> fusion gene due to the chromosomal translocation t(1;3)(p36;q25) occurs in most EHEs {11342784; 21584898; 21885404; 25961935}. Rare cases display a <em>YAP1</em>::<em>TFE3</em> fusion due to a t(X;11)(p11;q13) translocation {23737213; 24986479}.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 115588,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 592,
+        "headingText": "\r\n<p>These tumours form a (multi)nodular mass, typically showing a pale, solid cut surface, sometimes with haemorrhage {24986479; 26298095; 31950476}.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 115589,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 586,
+        "headingText": "<p>Bland-looking epithelioid, spindle, and histiocytoid endothelial cells are arranged in short cords and strands in a myxohyaline stroma {33776722}. They show abundant hyaline cytoplasm with subtle intracytoplasmic lumina. Striking nuclear atypia is seen in approximately 30% of tumours. Mitotic activity is usually low. Multicellular vascular channels are sometimes present, with brightly eosinophilic cytoplasm and a solid growth, especially in <em>YAP1</em>::<em>TFE3</em>-associated lesions. Immunohistochemically, CD31 and ERG are consistently expressed, and epithelial antigens may be expressed. CAMTA1 or TFE3 is expressed, corresponding to the fusion genes {7093931; 23737213; 21584898; 24986479; 31950476; 31463731}.</p>\r\n<p>Differential diagnoses are extensive and include epithelioid haemangioma, epithelioid angiosarcoma, myoepithelial tumours, sclerosing epithelioid fibrosarcoma, epithelioid sarcoma, carcinomas, pseudomyogenic haemangioendothelioma, chordoma, chondrosarcoma, and extraskeletal myxoid chondrosarcoma {7093931; 31950476; 31463731; 24986479}.</p>",
+        "timestamp": "2023-11-17T14:10:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 115590,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 587,
+        "headingText": "\r\n<p>Cytological examination may show clusters of epithelioid and spindle cells with round to ovoid nuclei, occasional vacuolated cytoplasm, and scant mitotic figures {32797671}.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 115591,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 588,
+        "headingText": "\r\n<p>Molecular identification of the <em>WWTR1</em>::<em>CAMTA1</em> or <em>YAP1</em>::<em>TFE3</em> fusion may be helpful in selected cases.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 115592,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> an infiltrative lesion composed of strands, cords, and nests of bland-looking epithelioid, spindle, and histiocytoid cells with typical glassy cytoplasm and subtle intracytoplasmic lumina, in a myxohyaline background.</p>\r\n<p><em>Desirable:</em> immunohistochemical positivity for CD31, ERG, and CAMTA1 or TFE3.</p>\r\n",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 115593,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 589,
+        "headingText": "<p>Staging is not applied.</p>",
+        "timestamp": "2024-01-10T14:05:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 115594,
+        "bookId": 52,
+        "chapterId": 207,
+        "headingId": 590,
+        "headingText": "\r\n<p>Clinical behaviour and prognosis depend on the primary site. Most cases behave in an indolent manner, but there is a risk of metastatic disease and a significant mortality rate (as high as 45%) {31950476; 31463731}.</p>",
+        "timestamp": "2023-09-29T15:49:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

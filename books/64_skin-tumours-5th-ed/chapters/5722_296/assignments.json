@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 153,
+    "bookId": "64",
+    "roleid": 200,
+    "roleTitle": "Resp Editor",
+    "contributors": [
+      {
+        "contributorid": 2297,
+        "lastname": "Brenn",
+        "firstname": "Thomas",
+        "initials": "",
+        "email": "",
+        "roleid": 200,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 154,
+    "bookId": "64",
+    "roleid": 202,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2005,
+        "lastname": "Lazar",
+        "firstname": "Alexander J.",
+        "initials": "",
+        "email": "",
+        "roleid": 202,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 155,
+    "bookId": "64",
+    "roleid": 203,
+    "roleTitle": "Resp author",
+    "contributors": [
+      {
+        "contributorid": 2529,
+        "lastname": "Huang",
+        "firstname": "Hsuan-Ying",
+        "initials": "",
+        "email": "",
+        "roleid": 203,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 156,
+    "bookId": "64",
+    "roleid": 204,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2298,
+        "lastname": "Billings",
+        "firstname": "Steven D.",
+        "initials": "",
+        "email": "",
+        "roleid": 204,
+        "position": 0
+      },
+      {
+        "contributorid": 2307,
+        "lastname": "Creytens",
+        "firstname": "David",
+        "initials": "",
+        "email": "",
+        "roleid": 204,
+        "position": 0
+      },
+      {
+        "contributorid": 2528,
+        "lastname": "Shibata",
+        "firstname": "Tatsuhiro",
+        "initials": "",
+        "email": "",
+        "roleid": 204,
+        "position": 0
+      }
+    ]
+  }
+]

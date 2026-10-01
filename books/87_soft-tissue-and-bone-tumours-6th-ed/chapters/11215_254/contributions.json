@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1119,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1158,
+    "contributions": [
+      {
+        "pkcontributionId": 156000,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1158,
+        "headingText": "\r\n<p>Kinase-altered spindle cell neoplasms encompass a family of spindle cell neoplasms showing a wide morphological spectrum and variable clinical behaviour and harbouring a broad range of kinase fusions or point mutations involving genes such as <em>NTRK1</em>/<em>NTRK2</em>/<em>NTRK3</em>, <em>RAF1</em>, <em>RET</em>, <em>MET</em>, <em>FGFR1</em>, <em>ALK</em>, <em>EGFR</em>, and <em>BRAF</em>. Other tumour types with kinase alterations (e.g. inflammatory myofibroblastic tumours, gastrointestinal stromal tumours) are excluded.</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1120,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1159,
+    "contributions": [
+      {
+        "pkcontributionId": 156001,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1159,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1121,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1160,
+    "contributions": [
+      {
+        "pkcontributionId": 156002,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1160,
+        "headingText": "\r\n<p>2F7C Neoplasms of uncertain behaviour of connective or other soft tissue</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1122,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1161,
+    "contributions": [
+      {
+        "pkcontributionId": 156003,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1161,
+        "headingText": "\r\n<p><em>Acceptable:</em> <em>NTRK</em>-rearranged spindle cell tumour.</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1123,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1162,
+    "contributions": [
+      {
+        "pkcontributionId": 156004,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1162,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1124,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1163,
+    "contributions": [
+      {
+        "pkcontributionId": 156005,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1163,
+        "headingText": "\r\n<p>The superficial soft tissues of the extremities are the most common sites of disease; other locations include deep soft tissues of the extremities, soft tissues of the trunk, scalp, and visceral organs such as the gastrointestinal and genitourinary tracts {32506523; 31994201; 30276917; 32669612}. Tumours may also occur within bone {37782551}.</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1125,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1164,
+    "contributions": [
+      {
+        "pkcontributionId": 156006,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1164,
+        "headingText": "\r\n<p>Patients with these tumours most frequently present with a palpable mass.</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1126,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1165,
+    "contributions": [
+      {
+        "pkcontributionId": 156007,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1165,
+        "headingText": "\r\n<p>The largest case series published shows a wide age distribution (range: 0&ndash;77&nbsp;years; overall median: 19&nbsp;years) {27259011; 30276917; 32506523}. Within the paediatric population, the majority of cases occur in the first year of life {31994201; 30585824}.</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1127,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1166,
+    "contributions": [
+      {
+        "pkcontributionId": 156008,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1166,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1128,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1167,
+    "contributions": [
+      {
+        "pkcontributionId": 156009,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1167,
+        "headingText": "\r\n<p>Oncogenesis in kinase-altered mesenchymal tumours occurs through the activation of RAS pathway kinase signalling most commonly through the formation of chimeric proteins involving NTRK1 and various partners {27259011; 30276917}. The most common <em>NTRK1</em> fusion partners are <em>LMNA</em>, <em>TPR</em>, and <em>TPM3</em> {27259011; 30276917; 26863915}. Less common fusions involve <em>NTRK2</em>, <em>NTRK3</em>, <em>RAF1</em>, <em>BRAF</em>, <em>RET</em>, <em>MET</em>, <em>ROS1</em>, <em>FGFR1</em>, <em>ALK</em>, <em>ABL1</em>, or <em>LTK</em> {30276917; 30520818; 31994201; 27259011; 28510278; 37265193; 34036664; 36744864; 38517106}. These translocations typically occur from the fusion of the 3&prime; kinase domain of the above receptor tyrosine kinases or their downstream RAS pathway (RAF1, BRAF) to the 5&prime; sequences of various partners. The result is a chimeric oncoprotein with constitutive (ligand-independent) activation of the kinase activity, resulting in phosphorylation and activation of the downstream serine/threonine kinase signalling intermediaries in the cascade. Rare examples of kinase-altered mesenchymal tumours have been reported with activating mutations in the kinase domain of BRAF and EGFR, resulting in similar effects on the downstream signalling cascade {38332737; 33850302; 39387892}. Tumours with high-grade morphology harbour genomic copy-number aberrations, although specific recurrent alterations other than p16 loss have not been defined {38332737}. Poor outcomes were also reported in 2&nbsp;cases with double hits in <em>BRAF</em>: either 2&nbsp;distinct <em>BRAF</em> fusions or a <em>BRAF</em> fusion and a mutation co-occurring in the same tumour {33850302}. It is believed that mesenchymal tumours with kinase alterations largely share common pathways of oncogenesis as unsupervised clustering analysis using RNA expression, or DNA methylation profiling shows that kinase-altered tumours generally cluster together with infantile fibrosarcoma {36413100; 38332737}. However, other cases have been reported to form a new cluster near but distinct from the poorly defined malignant peripheral nerve sheath tumour&ndash;like cluster of sarcomas using DNA methylation analysis {36413100} (see also <a style=\"cursor:pointer\" href=\"/chaptercontent/87/48\" target=\"_blank\">section </a><em>Infantile fibrosarcoma</em>).</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1135,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1174,
+    "contributions": [
+      {
+        "pkcontributionId": 156010,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1174,
+        "headingText": "\r\n<p>The tumours often present as a tan or grey solid mass. Haemorrhage, necrosis, or myxoid change may be present.</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1129,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1168,
+    "contributions": [
+      {
+        "pkcontributionId": 156011,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1168,
+        "headingText": "\r\n<p>The morphological spectrum is broad, and several patterns have been recognized {28877062; 31994201; 27259011; 30276917; 30520818; 30585824; 31219820; 32506523; 32243019}. Some tumours consist of haphazardly arranged spindle cell proliferation within an oedematous or fibrous background. Others are densely hypercellular and display storiform, swirling, or herringbone patterns, with occasional branching vessels, variably resembling fibrosarcoma or malignant peripheral nerve sheath tumours. In superficial tumours, fascicles of spindle cells intermingle with subcutaneous fat, a pattern recognized as lipofibromatosis-like {27259011; 32506523}; this pattern is also commonly seen at the periphery of tumours. A subset of cases can be associated with a biphasic or triphasic (if including background adipose tissue) histology, resembling fibrous hamartoma of infancy {30585824; 36464850}. Some tumours may show a focal or prominent round to epithelioid cell component {36125853; 37726067}. Often tumours may show multiple patterns in a single case. Tumours show a range of cellularity, nuclear atypia, and mitotic counts, and are characterized by relatively monotonous cytological features. Rare examples show scattered pleomorphic cells. Cases show frequently distinctive stromal and/or perivascular hyalinization {30276917; 27259011; 30585824}. Visceral examples may entrap native epithelium, mimicking phyllodes tumour or adenosarcoma {35149769}. Heterologous differentiation has been rarely documented {35149769; 33850302}. Some cases may show soft tissue perineurioma&ndash;like histology {36744864}.</p>\r\n<p>By immunohistochemistry, the tumours are often positive for CD34 and/or S100, and their coexpression is characteristic of many cases {27259011; 30276917}. CD30 expression is also common {30585824; 36788089; 38380728}. SOX10 is not expressed and H3K27me3 is retained; SMA is uncommonly expressed, while myogenin, MYOD1, KIT, and DOG1 are negative. NTRK-rearranged tumours often diffusely label with the pan-TRK antibody that recognizes the C-terminal homologous region of NTRK1/2/3 {29683818}. However, the sensitivity is not perfect, particularly for tumours with <em>NTRK3</em> fusions {31375766}, and the specificity is only moderate {29863809; 32860002; 35149769}. Tumours with other kinase alterations are usually negative for pan-TRK staining. ALK-rearranged tumours show ALK overexpression {36125853; 37726067}.</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1130,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1169,
+    "contributions": [
+      {
+        "pkcontributionId": 156012,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1169,
+        "headingText": "\r\n<p>Insufficient data</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1131,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1170,
+    "contributions": [
+      {
+        "pkcontributionId": 156013,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1170,
+        "headingText": "\r\n<p>Testing for kinase gene alterations may be clinically useful to support the diagnosis and for targeted therapeutic options {30276917; 30585824; 31994201}.</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1134,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1173,
+    "contributions": [
+      {
+        "pkcontributionId": 156014,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1173,
+        "headingText": "\r\n<p><em>Essential:</em> fibrosarcoma, malignant peripheral nerve sheath tumour, or lipofibromatosis-like morphology; often coexpression of CD34 and S100; presence of gene fusions or activating alterations of receptor tyrosine kinase pathway (e.g. NTRK1/2/3, RET, RAF1, ALK, FGFR1, EGFR, BRAF).</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1132,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1171,
+    "contributions": [
+      {
+        "pkcontributionId": 156015,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1171,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1133,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1172,
+    "contributions": [
+      {
+        "pkcontributionId": 156016,
+        "bookId": 87,
+        "chapterId": 254,
+        "headingId": 1172,
+        "headingText": "\r\n<p>Tumours can recur locally and have a low rate of metastasis {30276917; 27259011; 30585824}. Limited data are available to determine whether histological features (increased cellularity, mitoses, necrosis) convey biological significance in these tumours. Some studies that included paediatric and adult patients suggest that histology shows a trend towards biological significance {30276917}; however, others do not {30585824}. Further studies are needed to define the prognostic role of histological parameters according to age. Given the recent advances in tyrosine kinase inhibitor therapies, the natural history and treatment regimens for these tumours are will probably change over time. Given the spectrum of genetic alterations that these tumours may contain, it is recommended that the pathology report clearly denote which fusion or activating mutation is present, as this may influence treatment.</p>",
+        "timestamp": "2026-08-31T16:42:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

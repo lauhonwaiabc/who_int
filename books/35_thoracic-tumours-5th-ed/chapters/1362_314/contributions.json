@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 66657,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 432,
+        "headingText": "<p>Lymphoepithelial carcinoma is a poorly differentiated squamous cell carcinoma (SCC) admixed with variable amounts of lymphoplasmacytic infiltrate, frequently associated with EBV.</p>",
+        "timestamp": "2021-01-07T17:20:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 66658,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 433,
+        "headingText": "\r\n<p>8082/3 Lymphoepithelial carcinoma</p>\r\n",
+        "timestamp": "2020-11-11T11:04:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 66659,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 434,
+        "headingText": "\r\n<p>2C25.2 &amp; XH1E40 Squamous cell carcinoma of bronchus or lung &amp; Lymphoepithelial carcinoma</p>\r\n",
+        "timestamp": "2020-11-11T11:04:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 66660,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 435,
+        "headingText": "<p><em>Not recommended:</em> lymphoepithelioma-like carcinoma; lymphoepithelioma; lymphoepithelial-like carcinoma.</p>",
+        "timestamp": "2021-01-07T17:20:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 66661,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-11-11T11:04:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 66662,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 437,
+        "headingText": "\r\n<p>These tumours are often peripherally located. Intrabronchial components are noted in a minority of cases {12023575}.</p>\r\n",
+        "timestamp": "2020-11-11T11:04:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 66663,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 438,
+        "headingText": "\r\n<h5>Signs and symptoms</h5>\r\n<p>As many as one&nbsp;third of cases are identified by an incidental radiographic finding {22359203}. Cough with or without blood-tinged sputum is the most common presenting symptom {12023575}. Others include chest pain, body-weight loss, and haemoptysis {12023575; 22359203}.</p>\r\n<h5>Imaging</h5>\r\n<p>Tumours usually form a discrete coin lesion on imaging. Thin-walled cavitary lesions {7590705; 29722879} and pleural effusions are uncommon {12023575}.</p>\r\n",
+        "timestamp": "2020-11-11T11:04:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 66664,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 439,
+        "headingText": "<p>These tumours are rare (0.92% of non-small cell lung carcinomas), predominantly affecting younger, Asian, non-smokers, with a median age of 51&nbsp;years (range: 9&ndash;74&nbsp;years) {30334830; 21070477; 25862146; 28203414; 2826922}. Most studies {30334830; 21070477; 25862146; 28203414}, but not all {22359203; 26793355}, show a female predominance.</p>",
+        "timestamp": "2021-01-07T17:20:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 66665,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 440,
+        "headingText": "\r\n<p>Association with EBV is found in &gt;&nbsp;90% of cases occurring in Asian patients, but at a much lower frequency in patients of European descent. The clinicopathological manifestations, as well as patients&rsquo; EBV serological profile, the presence of EBV-encoded small RNA 1 (EBER1), expression of LMP1 and BCL2 in the tumour cells, and intratumoural infiltration of CD8+ T&nbsp;lymphocytes suggest a role of EBV in the genesis of the EBV-associated subtype of lymphoepithelial carcinoma {12023575; 22359203; 7590705}. There is a parallel correlation between the EBV serology titre and both tumour burden and stage {12023575}.</p>\r\n",
+        "timestamp": "2020-11-11T11:04:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 66666,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 441,
+        "headingText": "<p><em>TP53</em>, <em>KRAS</em>, and <em>EGFR</em> mutations as well as <em>ALK</em> and <em>ROS1</em> translocations are typically absent, suggesting a molecular tumorigenesis distinct from that of conventional non-small cell lung carcinomas {12023575; 22359203; 25862146; 30334830; 10941337}.</p>",
+        "timestamp": "2021-01-07T17:21:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 66667,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 448,
+        "headingText": "<p>The tumours appear to be solitary, round to ovoid, and circumscribed, ranging in size from 10 to 110 mm. The cut surfaces are pink-white and fleshy {12023575; 30334830}.</p>",
+        "timestamp": "2021-02-02T10:49:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 66668,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 442,
+        "headingText": "<h5>Histology</h5>\r\n<p>Most tumours show a syncytial pattern of growth and a marked lymphoplasmacytic infiltration within and between the tumour islands. In a minority of cases, lymphoplasmacytic infiltration is not so prominent, resulting in a morphology resembling that of non-keratinizing SCC {30334830; 15389474}. Tumour cells show a moderate amount of eosinophilic cytoplasm, large vesicular nuclei, and prominent eosinophilic nucleoli. Focal keratinization, spindle cell growth, and intratumoural amyloid deposition can occur {30334830; 24182474; 8625122; 12023575; 21433005}. The mitotic count is variable {21433005}. The tumour mostly has pushing borders at the interface with the adjacent lung parenchyma and grows in the form of irregularly shaped islands or diffuse sheets with infrequent necrosis {12023575; 22359203; 24182474}. Spread through alveolar spaces (spread through airspaces) of the tumour cells can be observed {30334830}. The stroma may show a non-necrotizing granulomatous reaction {30334830; 10941337}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>The tumour cells show diffuse staining for pancytokeratin, CK5/6, p40, and p63, indicating squamous differentiation. Diffuse positive staining for p40/p63 is characteristic, and negative staining for these markers is exceptional. The accompanying lymphoid infiltrate comprises a mixture of CD3-positive T&nbsp;cells and CD20-positive B&nbsp;cells.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The tumour can mimic metastatic non-keratinizing SCC of the nasopharynx, poorly differentiated non-small cell carcinoma and NUT carcinoma arising in the lung, and non-Hodgkin lymphomas. This diagnosis should be considered when a pulmonary non-keratinizing SCC is encountered in a young never-smoker, particularly if the patient is from Asia. Metastatic carcinoma must be excluded by careful evaluation of the nasopharynx in addition to correlation with a history of any known previous neoplasm. NUT carcinoma can show prominent infiltrating neutrophils and positivity for NUT by immunohistochemical staining (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/243\" target=\"_blank\">section </a><em>NUT carcinoma of the thorax</em>). Lymphoma is negative for epithelial markers but positive for lymphoid markers (see the sections on <a style=\"cursor:pointer\" href=\"/chaptercontent/35/100\" target=\"_blank\">section </a>haematolymphoid tumours) {12023575; 15389474}.</p>",
+        "timestamp": "2021-02-18T16:57:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 66669,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 443,
+        "headingText": "\r\n<p>Tumours show cohesive sheets and clusters of large uniform tumour cells with a syncytial appearance, round or oval vesicular nuclei, and conspicuous nucleoli. Lymphocytic infiltration is typically extensive but can be sparse in some cases {31423666}. Occasionally, spindle cell growth, prominent mitotic figures, and finely granular to flocculent cytoplasm are identified {21433005; 31423666}.</p>\r\n",
+        "timestamp": "2020-11-11T11:04:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 66670,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 444,
+        "headingText": "<p>Demonstration of EBV is usually by in&nbsp;situ hybridization for EBER.</p>",
+        "timestamp": "2021-01-07T17:23:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 66671,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Non-keratinizing SCC with syncytial-appearing tumour cells, vesicular nuclei, and distinct nucleoli</li>\r\n<li>Lymphoplasmacytic infiltrate between and within tumour islands</li>\r\n<li>Exclusion of metastatic nasopharyngeal carcinoma clinically</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>EBER in&nbsp;situ hybridization positive in EBV-associated tumours, but negative in EBV-independent tumours</li>\r\n</ul>",
+        "timestamp": "2021-01-07T17:23:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 66672,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 445,
+        "headingText": "<p>Tumours are staged according to the eighth-edition TNM system. Metastases occur most frequently in hilar or mediastinal lymph nodes, followed by pericardium, liver, bone, and brain {12023575}.</p>",
+        "timestamp": "2021-01-07T17:23:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 66673,
+        "bookId": 35,
+        "chapterId": 314,
+        "headingId": 446,
+        "headingText": "<p>The survival rates are better for patients with lymphoepithelial carcinoma than patients with conventional non-small cell lung carcinomas, at both early and late stages. Complete resection is the primary approach to obtain a cure for early-stage patients {22359203; 29722879}. Patients with locally advanced disease can receive neoadjuvant or adjuvant chemotherapy/chemoradiotherapy or immunotherapy {12023575; 22359203; 25862146}. Tumour necrosis, low lymphocytic infiltration, and recurrence are poor prognostic factors {10941337; 30334830}. The presence of abundant CD8+ cytotoxic T&nbsp;lymphocytes adjacent to tumour cells, low expression of the p53 and ERBB2&nbsp;oncoproteins in tumour cells, and granulomatous inflammation may be associated with better prognosis {12023575; 22359203; 30334830; 24182474; 21433005}. The presence of PDL1 expression is associated with increased disease-free survival {29707344}. Conversely, high baseline plasma EBV DNA concentration is an independent poor prognostic factor {29707344; 29191777}.</p>",
+        "timestamp": "2021-02-09T11:49:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

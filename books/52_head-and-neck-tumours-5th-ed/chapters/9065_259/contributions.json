@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 116310,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 576,
+        "headingText": "<p>Follicular dendritic cell sarcoma (FDCS) is a malignant tumour exhibiting phenotypic features of mesenchymal follicular dendritic cells (FDCs).</p>",
+        "timestamp": "2023-11-20T13:55:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 116311,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 577,
+        "headingText": "\r\n<p>9758/3 Follicular dendritic cell sarcoma</p>\r\n<p>9758/3 EBV-positive inflammatory follicular dendritic cell sarcoma</p>\r\n",
+        "timestamp": "2023-10-02T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 116312,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 578,
+        "headingText": "\r\n<p>2B31.5 Follicular dendritic cell sarcoma</p>\r\n",
+        "timestamp": "2023-10-02T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 116313,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> follicular dendritic cell tumour.</p>\r\n",
+        "timestamp": "2023-10-02T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 116314,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 580,
+        "headingText": "\r\n<p>EBV-positive inflammatory follicular dendritic cell sarcoma</p>\r\n",
+        "timestamp": "2023-10-02T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 116315,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 581,
+        "headingText": "<p>The majority of cases in the head and neck are isolated and extranodal, involving the palatine tonsil, nasopharynx, parapharyngeal space, soft and hard palate, and retromolar trigone {25831474; 23755890}. Less frequently, FDCS involves cervical lymph nodes {25831474; 27318412}. EBV-positive inflammatory FDCS occurs with near exclusivity in the liver and spleen {24966952} [[WHO Classification of Tumours Editorial Board. Digestive system tumours. Lyon (France): International Agency for Research on Cancer; 2019. (WHO classification of tumours series, 5th ed.; vol. 1). https://publications.iarc.who.int/579.]], with rare head and neck examples {33264138}.</p>",
+        "timestamp": "2023-11-26T16:51:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 116316,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients with nodal tumours typically present with slow-growing neck masses that may be asymptomatic or painful. In the Waldeyer ring, there may be intraoral swelling or dysphagia. Systemic symptoms are rare but may include fever, weight loss, and fatigue. Most patients (80&ndash;90%) have localized disease at presentation {23684177; 25831474}.</p>\r\n",
+        "timestamp": "2023-10-02T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 116317,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 583,
+        "headingText": "\r\n<p>FDCS accounts for &lt;&nbsp;1% of all head and neck tumours, with no sex predilection. Although it occurs in patients of all ages (9&ndash;90&nbsp;years), the median age is typically in the late fourth to fifth decade of life {23755890; 25831474} with exceptional paediatric cases {23684177}.</p>\r\n",
+        "timestamp": "2023-10-02T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 116318,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 584,
+        "headingText": "<p>No risk factors or genetic predispositions are known. Association with hyaline-vascular Castleman disease is estimated in a minority (7.5&ndash;15%) {11422494; 8172326; 18596475; 27318412}. A loose association with autoimmune diseases, including paraneoplastic pemphigus with or without myasthenia gravis, has been noted in case reports {23755890}.</p>",
+        "timestamp": "2024-01-18T14:57:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 116319,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 585,
+        "headingText": "\r\n<p>Non-neoplastic FDCs are derived from common perivascular progenitors (i.e. vascular mural cells) rather than haematopoietic precursors {26966089}. A hyperplasia&ndash;dysplasia&ndash;neoplasia model of FDC proliferation has been proposed for the link between hyaline-vascular Castleman disease and FDCS. The shared clonality and overexpression of EGFR (HER1) in the dysplastic FDCs and in FDCS provides further evidence that the two conditions are related {14562277; 23755890}.</p>\r\n",
+        "timestamp": "2023-10-02T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 116320,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 592,
+        "headingText": "\r\n<p>The tumours are solitary, circumscribed masses with a fleshy cut surface. Areas of haemorrhage and necrosis may be present. Average sizes in the head and neck are 40&ndash;50&nbsp;mm {25917851}.</p>\r\n",
+        "timestamp": "2023-10-02T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 116321,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 586,
+        "headingText": "<p>In both nodal and extranodal sites, FDCS shows a pushing invasion, composed of spindled to ovoid cells arranged in fascicular, whorled, or storiform patterns, accompanied by an admixture of small lymphocytes or aggregates around blood vessels. The background matrix ranges from myxoid to densely hyaline. The tumour cells have a moderate amount of pale eosinophilic cytoplasm and indistinct cell borders, imparting a syncytial appearance. The nuclei have vesicular or granular finely dispersed chromatin, small distinct nucleoli, and a smooth nuclear membrane. Nuclear pseudoinclusions, binucleated (Reed&ndash;Sternberg&ndash;like) cells, and multinucleated cells are seen. The mitotic rate is usually 0&ndash;10&nbsp;mitoses/mm<sup>2</sup>. High-grade nuclear pleomorphism/anaplasia, atypical mitoses, and coagulative necrosis are uncommon.</p>\r\n<p>Extranodal tumours may cause diagnostic confusion with other head/neck tumours, histiocytic tumours, lymphomas, and sarcomas {32547956}. Expression of a marker of FDCs is essential for diagnosis but can be variably lost or only focally positive; a broad immunohistochemical panel should include CD21, CD23, CD35, clusterin, and CXCL13 (focal cytoplasmic/Golgi dot-like pattern); p75-NGFR (NGFR, p75NTR, CD271), and podoplanin (D2-40) are also expressed. Exceptionally, the cells can be variably positive for cytokeratin, EMA, thyroid transcription factor&nbsp;1 (TTF1), fascin, S100, CD4, CD68, CD14, and CD30.&nbsp;ALK, CD3, and CD20 are typically negative {11796841; 18774654; 21836499; 27318412; 32547956}.</p>",
+        "timestamp": "2023-11-20T13:55:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 116322,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 587,
+        "headingText": "\r\n<p>The cells borders are indistinct even on smears. Cell block preparation with immunohistochemical staining is essential.</p>\r\n",
+        "timestamp": "2023-10-02T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 116323,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 588,
+        "headingText": "\r\n<p>A small percentage of cases have demonstrated <em>BRAF</em> p.V600E mutations {24720374}, but other MAPK pathway mutations are uncommon {23888072; 28695297}.</p>\r\n",
+        "timestamp": "2023-10-02T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 116324,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em> neoplasm of spindled to ovoid cells arranged in fascicular, whorled, or storiform patterns with expression of one or more FDC markers by immunohistochemistry.</p>\r\n<p><em>Desirable:</em> comprehensive molecular analysis and EGFR expression (in selected cases).</p>",
+        "timestamp": "2023-11-20T13:56:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 116325,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 589,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-10-02T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 116326,
+        "bookId": 52,
+        "chapterId": 259,
+        "headingId": 590,
+        "headingText": "\r\n<p>FDCS is a low- to intermediate-grade malignancy with a local recurrence rate of 28&ndash;40% and a distant metastasis rate of &gt;&nbsp;25% {9010103; 25917851; 23684177}. The overall 2-year and 5-year survival rates are 91% and 81%, respectively; the disease-specific 2-year and 5-year survival rates are 64% and 34%. The documented mortality rate for FDCS was 16.7% based on 42&nbsp;cases {9010103}. Surgery is potentially curative for early-stage disease, but late recurrence and metastasis can occur many years after initial presentation {10931467}. Ligand-dependent EGFR activation, along with expression of the inhibitory immune receptor PD1 and its ligands PDL1 and PDL2, could be potential therapeutic targets, along with tyrosine kinase inhibitors in exceptional cases {23888072; 26298731; 28130401; 28695297}.</p>\r\n<p>The lung, liver, and lymph nodes are common sites of metastasis {23684177}. A simple risk stratification was developed based on tumour size and histology: low risk (16% risk of local recurrence, size &lt;&nbsp;50&nbsp;mm, low- or high-grade histology), intermediate risk (46% risk of local recurrence, size &ge;&nbsp;50&nbsp;mm, low-grade histology), and high risk (73% risk of local recurrence, size &ge;&nbsp;50&nbsp;mm, high-grade histology) {20503450}. Other factors proposed to be associated with a poor prognosis include disseminated disease, extensive necrosis, a high mitotic count (&gt;&nbsp;2&nbsp;mitoses/mm<sup>2</sup>), and significant nuclear pleomorphism {9010103; 20503450; 22772431; 23755890; 25310210; 25917851}.</p>",
+        "timestamp": "2023-10-02T12:22:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

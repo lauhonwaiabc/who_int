@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 63195,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 370,
+        "headingText": "\r\n<p>Carcinosarcoma is a biphasic tumour composed of high-grade carcinomatous and sarcomatous components.</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 63196,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 371,
+        "headingText": "\r\n<p>8980/3 Carcinosarcoma NOS</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 63197,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 372,
+        "headingText": "\r\n<p>2C72.3 Carcinosarcomas of uterine ligament, parametrium, or uterine adnexa</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 63198,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 373,
+        "headingText": "<p><em>Not recommended:</em>&nbsp;malignant mixed M&uuml;llerian tumour</p>",
+        "timestamp": "2020-07-24T13:41:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 63199,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 63200,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 375,
+        "headingText": "\r\n<p>Fallopian tube</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 63201,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 376,
+        "headingText": "\r\n<p>Carcinosarcoma of the fallopian tube presents as a pelvic mass, with abdominal pain or abdominal distension.</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 63202,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 377,
+        "headingText": "\r\n<p>This is a rare tumour, and the bulk of the literature consists of case reports.</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 63203,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 378,
+        "headingText": "\r\n<p>A possible origin from concurrent serous tubal intraepithelial carcinoma within the fallopian tube {27732120; 30913944} has been suggested.</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 63204,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 379,
+        "headingText": "\r\n<p>An association with serous tubal intraepithelial carcinoma has been reported {30913944}.</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 63205,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 386,
+        "headingText": "\r\n<p>This is a mass lesion of the fallopian tube.</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 63206,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 380,
+        "headingText": "<p>This is a biphasic neoplasm composed of high-grade epithelial and mesenchymal elements similar to those seen in the ovary, endometrium, and other sites in the female genital tract. Heterologous elements, most frequently chondrosarcoma, predominate in the sarcomatous component of the tumour {22897648}. See <a style=\"cursor:pointer\" href=\"/chaptercontent/34/260\" target=\"_blank\">section </a><em>Carcinosarcoma of the uterine corpus</em>.</p>",
+        "timestamp": "2020-07-10T08:07:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 63207,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 381,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 63208,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 63209,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> high-grade malignant epithelial and mesenchymal components.</p>\r\n<p><em>Desirable:</em> immunohistochemistry to confirm specific mesenchymal differentiation.</p>\r\n",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 63210,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 383,
+        "headingText": "<p>This entity is staged according to the Union for International Cancer Control (UICC) TNM classification (see <em>TNM staging of ovarian, fallopian tube, and primary peritoneal carcinoma</em>&nbsp;[[Brierley JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley-Blackwell; 2017.]]).</p>",
+        "timestamp": "2020-07-15T11:46:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 63211,
+        "bookId": 34,
+        "chapterId": 194,
+        "headingId": 384,
+        "headingText": "\r\n<p>The prognosis is poor compared with that of primary fallopian tube carcinoma.</p>",
+        "timestamp": "2020-05-25T15:33:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 395,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 228,
+    "contributions": [
+      {
+        "pkcontributionId": 59170,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 228,
+        "headingText": "<p>Alveolar rhabdomyosarcoma (ARMS) is a malignant neoplasm composed of a monomorphic population of primitive round cells showing skeletal muscle differentiation. The presence of either a <em>PAX3</em>-<em>FOXO1</em> or a <em>PAX7</em>-<em>FOXO1</em> fusion gene is detected in the majority of cases.</p>",
+        "timestamp": "2020-01-24T12:12:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 396,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 229,
+    "contributions": [
+      {
+        "pkcontributionId": 59171,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 229,
+        "headingText": "\r\n<p>8920/3 Alveolar rhabdomyosarcoma</p>\r\n",
+        "timestamp": "2019-12-11T11:56:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 397,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 230,
+    "contributions": [
+      {
+        "pkcontributionId": 59172,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 230,
+        "headingText": "<p>2B55.Z &amp; XH7099 Rhabdomyosarcoma &amp; Alveolar rhabdomyosarcoma</p>",
+        "timestamp": "2020-01-23T17:07:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 398,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 231,
+    "contributions": [
+      {
+        "pkcontributionId": 59173,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 231,
+        "headingText": "\r\n<p><em>Not recommended:</em> mixed embryonal and alveolar rhabdomyosarcoma; fusion-negative alveolar rhabdomyosarcoma.</p>\r\n",
+        "timestamp": "2019-12-11T11:56:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 399,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 232,
+    "contributions": [
+      {
+        "pkcontributionId": 59174,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 232,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-12-11T11:56:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 400,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 233,
+    "contributions": [
+      {
+        "pkcontributionId": 59175,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 233,
+        "headingText": "\r\n<p>ARMS most commonly arises in the deep soft tissue of the extremities {7882714}. Other sites include the head and neck, paraspinal region, and perineal region {6620082; 11835233; 18973919; 26756883}.</p>\r\n",
+        "timestamp": "2019-12-11T11:56:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 401,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 234,
+    "contributions": [
+      {
+        "pkcontributionId": 59176,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 234,
+        "headingText": "\r\n<p>ARMS is a highly aggressive and rapidly growing malignant soft tissue tumour, presenting at diagnosis with distant or locoregional metastases via lymphatic or haematogenous spread in 25&ndash;30% of patients {18467730; 22378628; 28521080}. Symptoms are typically related to tumour location and size. Head and neck tumours with meningeal extension often cause cranial nerve deficits {21873599}, paraspinal tumours may result in spinal nerve compression {27932889; 28875443}, and perirectal or pelvic tumours may lead to constipation or symptoms of bowel obstruction {24045440}. Primary disseminated tumours resembling leukaemia may rarely occur {25305220; 29096655}.</p>\r\n",
+        "timestamp": "2019-12-11T11:56:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 402,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 235,
+    "contributions": [
+      {
+        "pkcontributionId": 59177,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 235,
+        "headingText": "\r\n<p>ARMS is the second most common type of rhabdomyosarcoma, constituting about 25% of these tumours. ARMS occurs in a slightly older population than embryonal rhabdomyosarcoma (ERMS), with a peak incidence among individuals aged 10&ndash;25&nbsp;years and roughly equal incidence in male and female patients {28521080; 28271871; 22378628; 29956493}. A subset of cases have also been observed in adults aged &gt;&nbsp;40&nbsp;years {18973919; 22089931}.</p>\r\n",
+        "timestamp": "2019-12-11T11:56:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 403,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 236,
+    "contributions": [
+      {
+        "pkcontributionId": 59178,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 236,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2019-12-11T11:56:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 404,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 237,
+    "contributions": [
+      {
+        "pkcontributionId": 59179,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 237,
+        "headingText": "<p>A t(2;13)(q36;q14) translocation is found in the majority of ARMSs, and a t(1;13)(p36;q14) is seen in a smaller subset. These translocations juxtapose <em>PAX3</em> (at 2q36.1) or <em>PAX7</em> (at 1p36.13) with the <em>FOXO1</em> gene at 13q14.11, to generate chimeric genes that encode PAX3-FOXO1 and PAX7-FOXO1 fusion proteins {8098985; 8187070; 8275086}. PAX3 and PAX7 represent transcription factors that play essential roles in myogenesis {26424495}. The PAX-FOXO1 fusion proteins function as oncoproteins affecting growth, survival, differentiation, and other pathways through activation of numerous downstream target genes such as <em>MET</em>, <em>ALK</em>, <em>FGFR4</em>, <em>MYCN</em>, <em>IGF1R</em>, and <em>MYOD1</em> {8643596; 15688035; 20663909; 28446439; 30617281}. Less common fusion gene variants include the fusion of <em>PAX3</em> to <em>FOXO4</em>, <em>NCOA1</em>, or <em>INO80D</em> and the fusion of <em>FOXO1</em> to <em>FGFR1</em> {12183429; 19953635; 21666686; 24436047}.</p>\r\n<p>Amplification of genomic regions 2p24 (containing the <em>MYCN</em> oncogene) and 12q13-q14 (including <em>CDK4</em>) occur most often in <em>PAX3</em>-<em>FOXO1</em> ARMSs, and amplification of regions 1p36 (which encompasses the <em>PAX7</em> locus) and 13q31 (which includes <em>MIR17HG</em>) are associated specifically with <em>PAX7</em>-<em>FOXO1</em> tumours {9872655; 10534762; 19422036; 21220470; 10825007; 30617281}. Analyses of individual genes in sporadic ARMS have implicated several important oncogenetic pathways. Inactivating mutations of <em>TP53</em> and <em>CDKN2A</em>/<em>CDKN2B</em> and activating mutations of <em>FGFR4</em> are present in a small subset {8703847; 15098008; 19809159}. <em>ALK</em> gene copy-number gain and cytoplasmic overexpression of ALK protein occur in the vast majority of ARMSs; however, targeting this kinase in&nbsp;vivo does not yield therapeutic efficacy {22184391; 29855693}. The presence of recurrent somatic mutations (fusion-positive ARMSs have few to none) and distinct gene expression and DNA methylation profiles characterize fusion-positive and fusion-negative rhabdomyosarcomas (fusion-negative ARMS profiles are similar to those of ERMS) {12183429; 16849537; 17471488; 20351326; 26226845; 22419069; 26138366; 29973406; 30373318; 30565669}.</p>",
+        "timestamp": "2020-01-24T12:13:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 411,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 244,
+    "contributions": [
+      {
+        "pkcontributionId": 59180,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 244,
+        "headingText": "\r\n<p>ARMS is soft, fleshy, and grey, with variable amounts of fibrous tissue and occasional necrotic areas and haemorrhage. Deep-seated tumours involving the musculature commonly infiltrate surrounding tissues.</p>\r\n",
+        "timestamp": "2019-12-11T11:56:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 405,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 238,
+    "contributions": [
+      {
+        "pkcontributionId": 59181,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 238,
+        "headingText": "<p>ARMS is highly cellular and composed of primitive round cells with scant cytoplasm and hyperchromatic nuclei. Tumour cells are arranged in nests separated by fibrovascular septa, which frequently exhibit loss of cellular cohesion in the centre, conferring a pattern of irregular alveolar spaces and a varying degree of cystic change {28521080; 24113309}. The solid subtype of ARMS is composed of sheets of neoplastic cells that have cytomorphological features of ARMS but lack septa or discohesion. Mitotic activity is often brisk. Occasionally, recognizable rhabdomyoblastic differentiation can be discerned. Multinucleated tumour giant cells are a common feature of ARMS. Rare cases may show clear cell morphology, with pale-staining and glycogen-containing cytoplasm. Tumours with mixed embryonal and alveolar features were previously considered to be a subtype of ARMS, but most such cases lack PAX-<em>FOXO1</em> fusions, thus appearing to be clinically and biologically more akin to ERMS. However, fusion genes have been detected in rare cases of so-called mixed ERMS/ARMS, which therefore represent examples of ARMS {23765537; 26756883}.</p>\r\n<p>Rhabdomyoblastic differentiation of ARMS is shown immunohistochemically with positive reactions to desmin, myogenin, and MYOD1. The nuclear expression of myogenin is strong and diffuse, unlike in ERMS and other rhabdomyosarcoma subtypes in which the staining pattern is focal {10666368; 15536621; 30098515}. MYOD1 expression may be focal. Occasional expression of keratin or neuroendocrine markers (CD56, synaptophysin, and chromogranin) may also be observed.</p>",
+        "timestamp": "2020-01-24T12:13:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 406,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 239,
+    "contributions": [
+      {
+        "pkcontributionId": 59182,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 239,
+        "headingText": "\r\n<p>Fine-needle biopsies are highly cellular and consist of uniform round cells with scant cytoplasm and variable rhabdomyoblastic differentiation. Wreath-like multinucleated giant cells are a common feature {17636492; 29627494; 24599626; 24513670}.</p>\r\n",
+        "timestamp": "2019-12-11T11:56:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 407,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 240,
+    "contributions": [
+      {
+        "pkcontributionId": 59183,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 240,
+        "headingText": "<p>Approximately 85% of histologically diagnosed ARMSs contain characteristic fusion genes. In fusion-positive ARMSs, <em>PAX3</em>-<em>FOXO1</em> and <em>PAX7</em>-<em>FOXO1</em> account for about 70&ndash;90% and 10&ndash;30% of the fusions, respectively {28521080; 22447499}. Rare cases show alternative novel gene fusions (see <em>Pathogenesis</em>, above), which can be detected by various molecular strategies. The absence of one of these gene fusions suggests a diagnosis of ERMS with a primitive phenotype (formerly known as fusion-negative ARMS or mixed ERMS&ndash;ARMS).</p>",
+        "timestamp": "2019-12-17T14:20:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 410,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 243,
+    "contributions": [
+      {
+        "pkcontributionId": 59184,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 243,
+        "headingText": "\r\n<p><em>Essential:</em> uniform primitive round cell morphology with features of arrested myogenesis; an alveolar growth pattern is common but not required; strong, homogeneous nuclear immunoexpression for myogenin; heterogeneous staining for desmin and/or MYOD1; detection of <em>PAX3/7</em>-<em>FOXO1</em> fusion genes by molecular analysis.</p>\r\n",
+        "timestamp": "2019-12-11T11:56:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 408,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 241,
+    "contributions": [
+      {
+        "pkcontributionId": 59185,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 241,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/chaptercontent/33/104\" target=\"_blank\">section </a><em>Embryonal rhabdomyosarcoma</em>.</p>",
+        "timestamp": "2020-02-19T15:51:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 409,
+    "bookid": 33,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 242,
+    "contributions": [
+      {
+        "pkcontributionId": 59186,
+        "bookId": 33,
+        "chapterId": 105,
+        "headingId": 242,
+        "headingText": "<p>Risk stratification predictive of outcome has been addressed with surgicopathological staging and fusion-based classification (the Intergroup Rhabdomyosarcoma Study Group [IRSG]&nbsp;grouping system) {24326270; 30617281; 30373318}. The prognosis for patients with fusion-positive ARMS is worse than for those with fusion-negative rhabdomyosarcoma and ERMS, and the prognosis for patients with <em>PAX3</em>-<em>FOXO1</em> ARMS is inferior to that for patients with <em>PAX7</em>-<em>FOXO1</em> ARMS {23526739; 20351326; 22454413; 22447499; 28035744}. Amplification of <em>MYCN</em>, <em>CDK4</em>, and <em>MIR17HG</em> has also been correlated with poor outcomes {11807989; 19422036; 21220470}.</p>",
+        "timestamp": "2020-02-07T15:26:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

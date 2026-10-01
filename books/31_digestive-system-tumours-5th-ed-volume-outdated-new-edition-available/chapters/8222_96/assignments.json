@@ -1,0 +1,36 @@
+[
+  {
+    "pkroleId": 58,
+    "bookId": "31",
+    "roleid": 9,
+    "roleTitle": "Responsible Editor",
+    "contributors": [
+      {
+        "contributorid": 2020,
+        "lastname": "Fukayama",
+        "firstname": "Masashi",
+        "initials": "",
+        "email": "",
+        "roleid": 9,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 60,
+    "bookId": "31",
+    "roleid": 11,
+    "roleTitle": "Responsible Author",
+    "contributors": [
+      {
+        "contributorid": 2148,
+        "lastname": "Hornick",
+        "firstname": "Jason L.",
+        "initials": "JL",
+        "email": "",
+        "roleid": 11,
+        "position": 0
+      }
+    ]
+  }
+]

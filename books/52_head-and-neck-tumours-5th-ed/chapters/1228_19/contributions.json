@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 112731,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 576,
+        "headingText": "<p>NUT carcinoma is an epithelial malignancy with a relatively monotonous appearance, genetically defined by a rearrangement of the nuclear protein in testis (NUT) gene <em>NUTM1</em>.</p>",
+        "timestamp": "2023-10-09T11:33:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 112732,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 577,
+        "headingText": "\r\n<p>8023/3 NUT carcinoma</p>\r\n",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 112733,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 578,
+        "headingText": "\r\n<p>2C20 &amp; XH1YY4 Malignant neoplasms of nasal cavity &amp; Carcinoma, undifferentiated, NOS</p>\r\n<p>2C22 &amp; XH1YY4 Malignant neoplasms of accessory sinuses &amp; Carcinoma, undifferentiated, NOS</p>\r\n",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 112734,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> nuclear protein in testis carcinoma; NUT midline carcinoma; NUT-rearranged carcinoma; t(15;19) carcinoma; carcinoma with t(15;19) translocation; aggressive t(15;19)-positive carcinoma; midline lethal carcinoma; midline carcinoma of children and young adults with NUT rearrangement.</p>\r\n",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 112735,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 112736,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 581,
+        "headingText": "\r\n<p>Head and neck primary sites constitute about 40% of NUT carcinomas {32328562}. Most head and neck cases affect the sinonasal tract (57%), and others affect the nasopharynx (6%) or major salivary glands (4%) {27509377; 29649019; 32077054}. Rare cases involve the orbit, pharynx, or larynx {20352379; 22896655; 24892275; 27509377; 27926786; 31900183}.</p>\r\n",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 112737,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients with NUT carcinoma present with symptoms caused by a rapidly growing mass. In the sinonasal tract, this manifests as nasal obstruction, pain, headache, epistaxis, and nasal discharge, and ocular symptoms (proptosis, diplopia) may be seen {22534723; 30640313}. NUT carcinoma commonly spreads by local invasion and by lymphatic and haematogenous metastasis {22896655; 27509377; 31903701; 32328562}. NUT carcinoma presents with neck lymph node metastases in 33% of cases, and with distant metastases in 13% {27509377}. Bone metastases are observed early, and multiorgan dissemination is seen later in the disease course {11571733; 22033856; 29079177}.</p>\r\n<h5>Imaging</h5>\r\n<p>Imaging studies reveal extensive local destructive invasion into neighbouring structures such as bone, sinus, orbit, or brain {22534723; 30640313; 31903701}.</p>\r\n",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 112738,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 583,
+        "headingText": "\r\n<p>NUT carcinoma is reported to account for as many as 18% of poorly differentiated carcinomas of the upper aerodigestive tract and about 1% of all head and neck carcinomas {15483023; 18391746; 31903701}. The sexes are equally affected over a very broad age range but with a median of 24&nbsp;years {15483023; 18391746; 22017582; 32328562}.</p>\r\n",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 112739,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 584,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 112740,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 585,
+        "headingText": "<p>NUT carcinoma is characterized by chromosomal translocation and fusion of the <em>NUTM1</em> gene to <em>BRD4</em>, t(15;19)(q14;p13.1) (in 78%); genes coding for BRD4-interacting proteins, such as <em>BRD3</em> (9q34.2) (15%), <em>NSD3 </em>(8p11.23) (6%), and other genes (<em>ZNF532</em>, <em>ZNF592</em>) (2%); or unidentified gene(s) (7%) {12543779; 17934517; 24875858; 28484033; 30139738}. NUT-fusion oncoproteins, most commonly BRD4::NUT, act as single drivers of NUT carcinoma that function by blocking differentiation and maintaining proliferation {12543779; 17934517; 24736545; 24875858}.</p>",
+        "timestamp": "2024-01-17T17:18:20"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 112741,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 592,
+        "headingText": "\r\n<p>NUT carcinoma presents as an exophytic, ulcerated, necrotic mass {11571733}.</p>\r\n",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 112742,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 586,
+        "headingText": "<p>NUT carcinoma typically shows sheets and nests of small to intermediate-sized undifferentiated cells with a monomorphic appearance. The cells have evenly sized nuclei with irregular outlines, vesicular chromatin, and prominent nucleoli. The cytoplasm varies from pale eosinophilic to basophilic. A characteristic feature of the sheet-like growth pattern is the even spacing of cells, often with separation between cells, and a lack of nuclear moulding. A neutrophilic infiltrate is common. There is brisk mitotic activity, and necrosis is often present. NUT carcinomas demonstrate characteristic abrupt foci of keratinization in about one&nbsp;third of cases {32328562}. Definitive glandular differentiation is not seen, but mesenchymal differentiation can occur, both in primary sites and in metastatic sites {19561446; 29079177}. Histological features alone are not specific for NUT carcinoma.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>NUT carcinoma is positive for NUT (usually in a speckled nuclear pattern) in 87% of cases, using a highly specific monoclonal NUT antibody {19363441}. With the exception of weak staining in some germ cell tumours, staining with this antibody is highly specific for NUT carcinoma {19363441}. Cytokeratins are positive in the majority of cases, although a subset are negative {21210877}. Most cases show nuclear staining for p63; however, p40 staining is less consistent and is not a reliable marker of NUT carcinoma or other, rarer, <em>NUTM1</em>-rearranged malignancies {24114197; 32981612}. Occasional NUT carcinomas can stain for chromogranin, synaptophysin, or thyroid transcription factor&nbsp;1 (TTF1), but these have only been reported in thoracic, not head and neck, primaries {32149149; 33231320}. NUT carcinomas often stain for CD34, which may lead to a misdiagnosis of acute leukaemia {15483023}. Ki-67 expression is high.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>NUT carcinoma must be considered in the differential diagnosis of poorly differentiated carcinomas of the head and neck, including poorly differentiated squamous cell carcinoma, sinonasal undifferentiated carcinoma, and SWI/SNF complex&ndash;deficient sinonasal carcinoma {18391746; 19561446; 25007146; 28291122}, along with conventional&nbsp;/ adamantinoma-like Ewing sarcoma, neuroendocrine carcinomas (NECs), and olfactory neuroblastoma {15483023; 26034869}.</p>",
+        "timestamp": "2023-10-09T11:33:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 112743,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 587,
+        "headingText": "\r\n<p>Smears usually appear hypercellular with large numbers of round to oval nuclei with intermediate-sized cells with a high N:C&nbsp;ratio and a narrow rim of cytoplasm. The nuclei are monomorphic with pale, fine, evenly dispersed chromatin and single discrete small nucleoli. Occasional small syncytial tissue fragments can be present with nuclear moulding resembling neuroendocrine differentiation, and mitoses are prominent. Considerable karyorrhectic debris and variable lymphocytes are seen in the granular background. Squamous differentiation is usually not seen {19795508; 21210877; 27338676; 27400194}.</p>\r\n",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 112744,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 588,
+        "headingText": "\r\n<p>Demonstration of <em>NUTM1</em> rearrangement is required, such as by positive immunostaining for nuclear NUT expression in &gt;&nbsp;50% of nuclei, which achieves 100% specificity and 87% sensitivity {19363441}. In the remaining cases, cytogenetic analysis, in&nbsp;situ hybridization, RT-PCR, or next-generation sequencing may be necessary {29356724; 30139738; 30723300}.</p>\r\n",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 112745,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> demonstration of <em>NUTM1</em> rearrangement (immunohistochemistry or a molecular technique) in a monotonous, undifferentiated epithelioid malignancy.</p>\r\n<p><em>Desirable (in selected cases):</em> demonstration of the NUT carcinoma&ndash;related <em>NUTM1</em>-fusion partner gene to distinguish NUT carcinoma from other rare <em>NUTM1</em>-rearranged neoplasms of either cutaneous or bone&nbsp;/ soft tissue origin.</p>\r\n",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 112746,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 589,
+        "headingText": "<p>Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2023-10-09T11:34:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 112747,
+        "bookId": 52,
+        "chapterId": 19,
+        "headingId": 590,
+        "headingText": "\r\n<p>NUT carcinoma is an extremely aggressive cancer, having a median survival time of 6.5&nbsp;months across all molecular subsets and anatomical sites {32328562}. Head and neck patients with non-<em>BRD4</em>::<em>NUTM1</em> fusions (<em>BRD3</em>::<em>NUTM1</em> or <em>NSD3</em>::<em>NUTM1</em>) have significantly better survival (median overall survival time: 36.5&nbsp;months) than those with <em>BRD4</em>::<em>NUTM1</em> fusions (median overall survival time: 10&nbsp;months), independent of metastatic disease extent at presentation. Overall survival is significantly lower in the presence of metastasis but not significantly correlated with age or sex {32328562}.</p>",
+        "timestamp": "2023-09-25T11:49:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

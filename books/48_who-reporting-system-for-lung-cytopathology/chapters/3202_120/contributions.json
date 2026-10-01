@@ -1,0 +1,142 @@
+[
+  {
+    "pkheadingid": 649,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Introduction",
+    "headingPosition": 1,
+    "headingid": 651,
+    "contributions": [
+      {
+        "pkcontributionId": 93703,
+        "bookId": 48,
+        "chapterId": 120,
+        "headingId": 651,
+        "headingText": "<p >FISH is a well-established method for visualizing and diagnosing numerical and structural abnormalities in chromosomal DNA. It is widely used in clinical laboratories as a gold standard to identify deletions, amplifications, and rearrangements of selected genes {27479335; 33489824}. The advantage of FISH lies in the low number of tumour cells needed and the fact that alterations can be detected specifically within the neoplastic cells of interest.</p>",
+        "timestamp": "2022-11-21T17:50:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 650,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Technical requirements",
+    "headingPosition": 2,
+    "headingid": 652,
+    "contributions": [
+      {
+        "pkcontributionId": 93704,
+        "bookId": 48,
+        "chapterId": 120,
+        "headingId": 652,
+        "headingText": "<p >FISH is a robust method that is applicable to almost all types of cytopathological specimens. Targeted evaluation of cells of interest is a prerequisite for reliable FISH results. FISH requires as few as 50&ndash;100&nbsp;tumour cells and permits direct correlation with cytomorphology {27479335}. Internal validation of FISH assays is needed and external quality assurance is recommended {29396253; 25170637; 29755669}. Using national regulatory body&ndash;approved probes, all steps of the procedure should be followed according to the manufacturer&rsquo;s specifications, with some adjustments appropriate to smaller biopsy specimens and preparations {28743163; 32401054}. Any deviation requires separate validation. The use of adhesive slides with electrostatic positive charge is recommended to prevent cell loss during pretreatment and DNA denaturation {29494220}. FISH analysis requires a fluorescence microscope with appropriate filters, ideally equipped with an automated stage for precise relocalization of cells of interest. Scoring of FISH signals can be done at the fluorescence microscope or be based on high-quality compressed 2D images from z-stacks at the computer screen {23689429}. Probes for chromogenic in&nbsp;situ hybridization for ALK gene rearrangement detections have been designed but are not widely used {23743932}.</p>",
+        "timestamp": "2022-11-21T17:50:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 651,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Management of types of cytopathological specimens",
+    "headingPosition": 3,
+    "headingid": 653,
+    "contributions": [
+      {
+        "pkcontributionId": 93705,
+        "bookId": 48,
+        "chapterId": 120,
+        "headingId": 653,
+        "headingText": "<p>A wide range of cytopathological preparations have been used for FISH, including unstained smears; Pap-, Giemsa-, or H&amp;E-stained smears; cytospins; liquid-based cytopathology preparations; and unstained formalin-fixed, paraffin-embedded cell blocks {27479335; 28743163; 30600323; 23536384}. The major advantages and disadvantages of different cytopathological samples for FISH analysis are shown in <a style=\"cursor:pointer\" href=\"/attachment/48/120/22888\" target=\"_blank\">#22888</a>Table&nbsp;2.05 . Cell blocks are usually preferred for FISH analysis because they can be handled like surgical pathology specimens. However, the quality of DNA is compromised by formaldehyde fixation due to cross-linking and chemical modifications of nucleotides {30600323; 29494220; 23536384}. The wide variety of cell block processing protocols introduces an additional factor of variability {32401054; 30600323}.</p>\r\n<p>Besides the lack of formalin fixation, the main advantage of performing FISH on non&ndash;cell block cytopathology specimens is that the tumour cells are complete rather than sectioned, and so they have intact, non-truncated nuclei containing the true number of signals {27479335; 29494220; 23536384; 24648382}. FISH is also feasible on previously immunostained ethanol-fixed cytopathological slides, for example thyroid transcription factor&nbsp;1 (TTF1)-stained slides, as long as autofluorescent DAB is avoided as a chromogen {16778285}.</p>\r\n<p>Validation is needed in each laboratory to control for potentially interfering factors due to variability in staining and fixation protocols. At least 50&nbsp;tumour cells should be evaluated, avoiding 3D tissue fragments with overlapping nuclei and areas with necrosis. The best suited area for FISH analysis should be selected on the stained smears allowing for efficient use of the probe {27479335; 29494220; 23536384; 30731462}. To avoid potential legal issues when using the only diagnostic slide in a particular case, capturing images of selected areas or digitally scanning the whole slide before the procedure is recommended. When testing for rearrangements, a positive result is considered when &gt;&nbsp;15% of tumour cells have either isolated 3&prime;&nbsp;signals in the deletion pattern or break-apart patterns. However, results should be interpreted with caution when within the borderline range (15&ndash;20% of cells) because of possible false positive results due to technical factors {23207439} [[Tsao MS, Hirsch FR, Yatabe Y, editors. IASLC atlas of ALK and ROS1 testing in lung cancer. 2<sup>nd</sup> ed. Denver (CO): International Association for the Study of Lung Cancer; 2016.]].</p>",
+        "timestamp": "2022-11-22T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 652,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Fixation",
+    "headingPosition": 4,
+    "headingid": 654,
+    "contributions": [
+      {
+        "pkcontributionId": 93706,
+        "bookId": 48,
+        "chapterId": 120,
+        "headingId": 654,
+        "headingText": "\r\n<p>Although formalin fixation is standard for surgical pathology specimens, alcohol fixatives are mostly used for non&ndash;cell block cytopathological preparations. The quality of DNA in air-dried or alcohol-fixed cytopathological samples is actually better than that after formaldehyde fixation {27479335; 28743163; 29494220; 23536384; 24648382}. Fixatives containing acidic components, such as Bouin or acidic decalcification solutions, have been shown to yield suboptimal FISH results {27562496}.</p>\r\n",
+        "timestamp": "2022-11-21T17:49:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 653,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Controls",
+    "headingPosition": 5,
+    "headingid": 655,
+    "contributions": [
+      {
+        "pkcontributionId": 93707,
+        "bookId": 48,
+        "chapterId": 120,
+        "headingId": 655,
+        "headingText": "\r\n<p>Running external or on-slide control specimens is not required for FISH. The presence of signals in all cell nuclei in a specimen serves as the internal control for good hybridization efficiency.</p>\r\n",
+        "timestamp": "2022-11-21T17:49:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 654,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Procedures",
+    "headingPosition": 6,
+    "headingid": 656,
+    "contributions": [
+      {
+        "pkcontributionId": 93708,
+        "bookId": 48,
+        "chapterId": 120,
+        "headingId": 656,
+        "headingText": "\r\n<p>The steps involved in FISH include slide pretreatment, denaturation of the probe and the slide to obtain single-stranded DNA, hybridization, post-hybridization washes, nuclear DNA counterstaining, and examination and scoring {27479335; 31236139}. There are different protocols for FISH analysis in different types of cytopathological specimens. If smears or cytospins are used, adhesive-coated slides are recommended to avoid tumour cells floating off during the procedure. In cytopathological specimens, the target cells for FISH evaluation may be sparse and strongly intermixed with benign cells, and therefore, in some cases, it may be difficult to differentiate benign from malignant cells on the DAPI-counterstained slide after hybridization. This can be resolved by using relocation software coupled with an automated stage and photodocumentation of the cells before uncovering and hybridizing the specimen. This approach improves the sensitivity and specificity of FISH analyses {27479335; 28743163}. There are also fully automated FISH systems for the scanning and computer-assisted interpretation of FISH images {25248157; 28838404}.</p>\r\n",
+        "timestamp": "2022-11-21T17:49:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 655,
+    "bookid": 48,
+    "headingType": 4,
+    "headingTitle": "Diagnostic applications",
+    "headingPosition": 7,
+    "headingid": 657,
+    "contributions": [
+      {
+        "pkcontributionId": 93709,
+        "bookId": 48,
+        "chapterId": 120,
+        "headingId": 657,
+        "headingText": "\r\n<p>FISH is widely used to test for predictive gene rearrangements (including <em>ALK</em>, <em>ROS1</em>, and <em>RET</em>) in non-small cell lung carcinoma (NSCLC) and thus identify patients for targeted treatments {33489824} [[Tsao MS, Hirsch FR, Yatabe Y, editors. IASLC atlas of ALK and ROS1 testing in lung cancer. 2nd ed. Denver (CO): International Association for the Study of Lung Cancer; 2016.]]. FISH testing for <em>NTRK1/2/3</em> rearrangements is more laborious and expensive because it requires three different break-apart probes to assess for the three rearrangements. According to current recommendations, a next-generation sequencing&ndash;based approach is preferred over individual FISH testing to comprehensively cover gene rearrangements {31268127; 33455880}. However, FISH for rearrangement testing in NSCLC is indicated when the material is insufficient for next-generation sequencing or if next-generation sequencing is not available.</p>\r\n<p>Testing for <em>MET</em> amplification is another common FISH analysis applied in NSCLC. <em>MET</em> amplification, which can be targeted with c-Met (MET) inhibitors, occurs rarely in treatment-na&iuml;ve NSCLC but is one of the most common mechanisms of acquired resistance to EGFR tyrosine kinase inhibitors {33676017}. However, different cut-off points for defining <em>MET</em> positivity have been proposed, and no clear consensus has been reached regarding the definition of <em>MET</em> amplification {27794501; 33288441}.</p>",
+        "timestamp": "2022-11-21T17:49:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

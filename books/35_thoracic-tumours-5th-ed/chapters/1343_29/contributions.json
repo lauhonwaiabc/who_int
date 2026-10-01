@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 66555,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 432,
+        "headingText": "<p>Invasive mucinous adenocarcinoma (IMA) is a primary lung adenocarcinoma with tumour cells showing goblet cell or columnar cell morphology with abundant intracytoplasmic mucin.</p>",
+        "timestamp": "2021-02-18T16:23:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 66556,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 433,
+        "headingText": "<p>8253/3 Invasive mucinous adenocarcinoma</p>\r\n<p>8254/3 Mixed invasive mucinous and non-mucinous adenocarcinoma</p>",
+        "timestamp": "2021-02-16T10:02:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 66557,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 434,
+        "headingText": "<p>2C25.0 &amp; XH7GY6 Adenocarcinoma of bronchus or lung &amp; Adenocarcinoma of lung, mucinous</p>",
+        "timestamp": "2021-01-07T17:05:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 66558,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Not recommended:</em> mucinous bronchioloalveolar/bronchoalveolar carcinoma (obsolete).</p>\r\n",
+        "timestamp": "2020-11-10T18:05:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 66559,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 436,
+        "headingText": "<p>Invasive mucinous adenocarcinoma; mixed invasive mucinous and non-mucinous adenocarcinoma</p>",
+        "timestamp": "2021-02-16T10:02:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 66560,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 437,
+        "headingText": "\r\n<p>IMAs are located peripherally in the lung and have a high frequency of multifocal, multilobar, and bilateral tumours, which may reflect aerogenous spread {3004694; 19408043; 21252716}.</p>\r\n",
+        "timestamp": "2020-11-10T18:05:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 66561,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 438,
+        "headingText": "<h5>Signs and symptoms</h5>\r\n<p>See <a style=\"cursor:pointer\" href=\"/chaptercontent/35/2\" target=\"_blank\">section </a><em>Tumours of the lung: Introduction</em> . Patients may also present with bronchorrhoea {20357626; 22315118}.</p>\r\n<h5>Imaging</h5>\r\n<p>A spectrum of radiological findings exist, including solid and part-solid nodules or pneumonic-like patterns {19111932; 25624054}. Air bronchograms are common. Because these tumours produce pulmonary consolidation, they are commonly misdiagnosed as pneumonia at initial presentation. Multilobar and bilateral lung involvement is common, often raising concern for metastases from an extrapulmonary primary.</p>",
+        "timestamp": "2021-02-18T16:23:58"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 66562,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 439,
+        "headingText": "\r\n<p>IMAs are less common than non-mucinous adenocarcinomas, accounting for 3&ndash;10% of lung adenocarcinomas {21642859; 23891509; 21252858; 25429229; 20661086}. Approximately 55% of cases occur in females {21252716; 20661086}, but there may be geographical differences. The demographic features, including smoking rates, are similar to those of non-mucinous lung adenocarcinomas {19581016; 21252716}.</p>\r\n",
+        "timestamp": "2020-11-10T18:05:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 66563,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 440,
+        "headingText": "<p>IMAs are frequently associated with exposure to tobacco smoke {26200269}, and the etiology is similar to that of non-mucinous adenocarcinomas (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/2\" target=\"_blank\">section </a><em>Tumours of the lung: Introduction</em>). Etiology is also covered extensively in <a style=\"cursor:pointer\" href=\"/chaptercontent/35/23\" target=\"_blank\">section </a><em>Invasive non-mucinous adenocarcinoma of the lung</em> .</p>",
+        "timestamp": "2021-01-07T17:05:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 66564,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 441,
+        "headingText": "\r\n<p>IMAs develop through acquisition of genetically distinct driver mutations, most commonly involving the <em>KRAS</em> oncogene (~60%) {26200269}. Unlike in non-mucinous lung adenocarcinomas, <em>TP53</em> mutations are rare and tumour mutation burden is generally low, even in smokers. In those without <em>KRAS</em> mutations, oncogenic fusions are frequently found, especially in never-smokers, and most commonly involve <em>NRG1</em>, leading to activation of the PI3K/AKT signalling pathway {24727320; 26200269}. <em>NKX2-1</em> mutations have been identified in 19% of IMAs, leading to loss of expression of its protein product, TTF1 {26829311}.</p>\r\n",
+        "timestamp": "2020-11-10T18:05:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 66565,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 448,
+        "headingText": "\r\n<p>IMAs usually appear as poorly circumscribed lesions with a soft, gelatinous/mucoid appearance. There may be disseminated nodules or a diffuse pneumonia-like consolidation across large areas or whole lobes.</p>\r\n",
+        "timestamp": "2020-11-10T18:05:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 66566,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 442,
+        "headingText": "<p>Tumour cells show a goblet and/or columnar cell morphology with abundant intracytoplasmic mucin and small, basally oriented nuclei. Nuclear atypia is usually inconspicuous or absent. The surrounding alveolar spaces are often mucin-filled. Although IMAs often show lepidic-predominant growth, extensive sampling usually reveals invasive foci, including an acinar, papillary, micropapillary, solid, or cribriform growth pattern {26450556}. Tumours with a mixture of mucinous and non-mucinous components should be classified as mixed invasive mucinous and non-mucinous adenocarcinoma if there is &ge;&nbsp;10% of each component. It should be noted that the invasive component of invasive mucinous carcinomas often contains less intracytoplasmic mucin than lepidic components.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>IMAs express CK7 and may show focal coexpression of CK20 and/or CDX2 but are usually negative for TTF1 and napsin&nbsp;A {26829311; 29243296; 12011259; 16463270; 23355200}. HNF4&alpha; {23108025} and GATA6 {29469192} have recently been described in this type of adenocarcinoma, but neither of these markers is specific.</p>\r\n<h5>Grading</h5>\r\n<p>There is no established grading system for IMAs.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>IMAs are separated from mucinous adenocarcinoma in&nbsp;situ and minimally invasive adenocarcinoma on the basis of specified criteria (see <a style=\"cursor:pointer\" href=\"/chaptercontent/35/19\" target=\"_blank\">section </a><em>Adenocarcinoma in&nbsp;situ of the lung</em>, and <a style=\"cursor:pointer\" href=\"/chaptercontent/35/35\" target=\"_blank\">section </a><em>Minimally invasive adenocarcinoma of the lung</em>), although such tumours are extremely rare. Due to their similar morphology, IMAs must be specifically separated from metastatic adenocarcinomas from extrapulmonary sites including the pancreatobiliary system, gastrointestinal tract, and ovary. Mucinous breast carcinomas usually express GATA3 and ER {25544392}. SATB2 expression and strong CK20 and CDX2 can help in distinction from mucinous colorectal adenocarcinomas, which occasionally also express TTF1 {29243296}. Clinical and radiological correlation is important, particularly in difficult cases. Differences between IMAs and non-mucinous adenocarcinoma in&nbsp;situ, minimally invasive adenocarcinoma, and lepidic-predominant adenocarcinoma are presented in <a style=\"cursor:pointer\" href=\"/attachment/35/29/14096\" target=\"_blank\">#14096</a> .</p>",
+        "timestamp": "2021-02-18T16:25:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 66567,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 443,
+        "headingText": "\r\n<p>Cytologically, IMAs exhibit cohesive flat sheets of mildly atypical columnar cells in a drunken-honeycomb pattern {21563323; 22970842}. The cells lack cilia and contain abundant apical intracytoplasmic mucin. Papillary, papilliform, and (less commonly) solid 3D groups of cells may be seen. A mucinous background may be present.</p>\r\n",
+        "timestamp": "2020-11-10T18:05:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 66568,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 444,
+        "headingText": "\r\n<p>The commonest molecular alterations in IMAs are <em>KRAS</em> mutations (~60% of cases), mostly p.G12D and p.G12V, similar to in gastrointestinal carcinomas {26200269}. Unlike in non-mucinous adenocarcinomas, <em>EGFR</em> mutations are rare (~1% of cases) {24727320; 26200269; 26829311}. Oncogenic fusions that are mutually exclusive with <em>KRAS</em> mutations occur in about 12% of cases and provide therapeutic (or potentially therapeutic) targets. The commonest fusions involve <em>NRG1</em>, followed by <em>ALK</em>, <em>ERBB2</em>, <em>ERBB4</em>, <em>BRAF</em>, <em>RET</em>, <em>ROS1</em>, and <em>NTRK1</em> {26200269; 24727320}.</p>\r\n",
+        "timestamp": "2020-11-10T18:05:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 66569,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Adenocarcinoma composed of goblet and/or columnar cells with abundant apical intracytoplasmic mucin frequently with small basally oriented nuclei</li>\r\n<li>Exclusion of metastatic mucinous adenocarcinoma from other sites</li>\r\n<li>Does not fulfil criteria for mucinous adenocarcinoma in&nbsp;situ or minimally invasive adenocarcinoma</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Confirmation of intracytoplasmic mucin with a histochemical stain (e.g. PASD)</li>\r\n</ul>",
+        "timestamp": "2021-02-18T16:25:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 66570,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 445,
+        "headingText": "\r\n<p>The same criteria are used to stage IMAs as for other non-small cell lung carcinomas. For IMAs, the entire tumour size (including lepidic components) is used for the T&nbsp;descriptor, because total tumour size is predictive of survival in this tumour type {27107787}. Unlike with non-mucinous adenocarcinomas, there should be no adjustment for invasive size, according to the percentage of lepidic versus invasive components.</p>\r\n",
+        "timestamp": "2020-11-10T18:05:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 66571,
+        "bookId": 35,
+        "chapterId": 29,
+        "headingId": 446,
+        "headingText": "\r\n<p>The prognosis of IMA is not as well-characterized as that of non-mucinous adenocarcinoma. Early studies showed an intermediate to poor prognosis compared with that of non-mucinous adenocarcinoma {21642859; 21252858}; however, recent reports have demonstrated similar outcomes {26200269; 22393100; 23242438; 27016260; 28823574}, possibly relating to varying growth patterns (pneumonic-type vs solitary-type) {27016260; 25624054}.</p>",
+        "timestamp": "2020-11-10T18:05:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "pkroleId": 121,
+    "bookId": "50",
+    "roleid": 164,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4170,
+        "lastname": "Siddiqui",
+        "firstname": "Momin Tipu",
+        "initials": "",
+        "email": "",
+        "roleid": 164,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 123,
+    "bookId": "50",
+    "roleid": 166,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4373,
+        "lastname": "Gan",
+        "firstname": "Qiong",
+        "initials": "",
+        "email": "",
+        "roleid": 166,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 124,
+    "bookId": "50",
+    "roleid": 167,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4152,
+        "lastname": "Roy-Chowdhuri",
+        "firstname": "Sinchita",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      },
+      {
+        "contributorid": 4377,
+        "lastname": "Heymann",
+        "firstname": "Jonas J.",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      },
+      {
+        "contributorid": 4398,
+        "lastname": "Klapman",
+        "firstname": "Jason",
+        "initials": "",
+        "email": "",
+        "roleid": 167,
+        "position": 0
+      }
+    ]
+  }
+]

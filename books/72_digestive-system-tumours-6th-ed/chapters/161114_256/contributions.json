@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1003,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 982,
+    "contributions": [
+      {
+        "pkcontributionId": 151041,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 982,
+        "headingText": "\r\n<p>Neurofibromatosis type&nbsp;1 (NF1) is an autosomal dominant disorder caused by a pathogenic variant in <em>NF1</em> and characterized by a constellation of clinical criteria.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1004,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "MIM numbering",
+    "headingPosition": 2,
+    "headingid": 983,
+    "contributions": [
+      {
+        "pkcontributionId": 151042,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 983,
+        "headingText": "\r\n<p>162200 Neurofibromatosis type 1; NF1</p>\r\n",
+        "timestamp": "2026-06-09T11:33:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1005,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 984,
+    "contributions": [
+      {
+        "pkcontributionId": 151043,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 984,
+        "headingText": "\r\n<p>LD2D.10 Neurofibromatosis type&nbsp;1</p>\r\n",
+        "timestamp": "2026-06-09T11:33:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1006,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 985,
+    "contributions": [
+      {
+        "pkcontributionId": 151044,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 985,
+        "headingText": "\r\n<p><em>Not recommended:</em> von Recklinghausen disease.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1007,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 986,
+    "contributions": [
+      {
+        "pkcontributionId": 151045,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 986,
+        "headingText": "\r\n<p>Mosaic neurofibromatosis type&nbsp;1, including segmental neurofibromatosis type&nbsp;1; spinal neurofibromatosis; neurofibromatosis&ndash;Noonan syndrome&nbsp;; 17q11.2 microdeletion syndrome</p>\r\n",
+        "timestamp": "2026-06-09T11:33:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1008,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 987,
+    "contributions": [
+      {
+        "pkcontributionId": 151046,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 987,
+        "headingText": "\r\n<p>NF1 affects many different cell types and organs described elsewhere. GI tract manifestations of NF1 generally segregate into three categories: (1)&nbsp;peripheral nerve sheath (Schwannian) tumours, (2)&nbsp;gastrointestinal stromal tumour (GIST) and precursors, and (3)&nbsp;neuroendocrine tumours (NETs) {23119102}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1009,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 988,
+    "contributions": [
+      {
+        "pkcontributionId": 151047,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 988,
+        "headingText": "\r\n<p>Gastrointestinal manifestations of NF1 are heterogeneous and range from completely asymptomatic or incidental findings discovered on investigations for other pathologies (which can serve as a clue to the diagnosis in otherwise unrecognized syndromic disease) to symptomatic neoplasms that present similarly to their sporadic counterparts with abdominal pain, bleeding, and symptoms related to the presence of a mass {23119102}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1010,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 989,
+    "contributions": [
+      {
+        "pkcontributionId": 151048,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 989,
+        "headingText": "\r\n<p>NF1 is a common autosomal dominant disorder with an incidence of 1&nbsp;case per 3000&nbsp;births {25354145}.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1011,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 990,
+    "contributions": [
+      {
+        "pkcontributionId": 151049,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 990,
+        "headingText": "\r\n<p>NF1 is caused by heterozygous pathogenic variants in the <em>NF1</em> gene, encoding neurofibromin (NF1) {2134734;2114220;1694727}. Half of all individuals with NF1 have unaffected parents, with disease attributable to de&nbsp;novo pathogenic variants.</p>\r\n",
+        "timestamp": "2026-06-09T11:33:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1012,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 991,
+    "contributions": [
+      {
+        "pkcontributionId": 151050,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 991,
+        "headingText": "\r\n<p>Neurofibromin primarily functions as a RAS proto-oncogene GAP {8499945}. The EVH1-domain of <em>SPRED1</em> (gene mutated in Legius syndrome) binds to neurofibromin on both sides of the GAP-related domain and recruits neurofibromin to the plasma membrane, where it accelerates RAS inactivation {26635368;27313208}. Neurofibromin forms a dimer, which creates two functional states with respect to RAS regulation {34707296}.</p>\r\n<p>Most clinical features of NF1, including caf&eacute;-au-lait macules, bony abnormalities, and neoplasms, result from loss of neurofibromin (NF1) function (biallelic <em>NF1</em> inactivation), leading to increased RAS and RAS effector (MEK/ERK or AKT/mTOR) signalling. Atypical neurofibromatous neoplasms of uncertain biological potential harbour additional genetic alterations, such as <em>CDKN2A</em>/<em>CDKN2B</em> and <em>SMARCA2</em> loss (chromosome&nbsp;9p) {21987445;30722027}. Malignant peripheral nerve sheath tumours (MPNSTs) have a highly complex karyotype with near-universal gain of chromosome&nbsp;8 {33591953} and frequent aberrations in the PRC2 (leading to complete loss of trimethylation at lysine&nbsp;27 of histone&nbsp;H3 [H3K27me3]) and <em>TP53</em> gene {25119042;25240281}.</p>\r\n",
+        "timestamp": "2026-06-09T11:34:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1019,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 998,
+    "contributions": [
+      {
+        "pkcontributionId": 151051,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 998,
+        "headingText": "\r\n<p>Other than their tendency to be multifocal, peripheral nerve sheath tumours, GISTs, and NETs arising in NF1 have the same the gross appearance as their sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-06-09T11:34:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1013,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 992,
+    "contributions": [
+      {
+        "pkcontributionId": 151052,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 992,
+        "headingText": "\r\n<h5>Peripheral nerve sheath tumours</h5>\r\n<p>Any type of peripheral nerve sheath tumour known to arise in patients with NF1 may develop in the GI tract. However, neurogenic tumours are much less common in the GI tract than their cutaneous counterparts. They may originate at any site from the oesophagus to the anorectum and in the associated peritoneal and mesenteric soft tissues. Histologically, benign tumours significantly outnumber their malignant counterparts in the GI tract. Neurofibromas mainly affect the small bowel, retroperitoneum, and less frequently the colon. Visceral neurofibromas may show any of the subtypes observed at cutaneous and soft tissue sites including solitary, diffuse, and plexiform subtypes. On the other hand, gastrointestinal schwannomas are only rarely part of NF1 {20155280}. MPNSTs are exceptionally rare in the GI tract. On review, the majority of previously reported gastrointestinal MPNSTs, and schwannomas arising in NF1 actually represent GIST misclassified before the widespread availability of KIT immunohistochemistry.</p>\r\n<p>Diffuse gastrointestinal neurofibromatosis expanding the lamina propria and the submucosa with or without a ganglioneuromatous component is a recognized but uncommon feature of NF1 {23119102}.</p>\r\n<p>In the past, the term &ldquo;intestinal neurofibromatosis&nbsp;/ neurofibromatosis&nbsp;3b (INF/INF3b)&rdquo; was incorrectly applied to the unrelated syndromic diseases caused by germline pathogenic variants of <em>KIT</em> or <em>PDGFRA</em> (see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/262\" target=\"_blank\">section </a><em>Gastrointestinal stromal tumour predisposition syndrome (KIT, PDGFRA)</em>). Gastrointestinal ganglioneuromatosis may also occur in the context of multiple endocrine neoplasia type&nbsp;IIB (MEN2B) and <em>PTEN</em> hamartoma tumour syndrome (Cowden syndrome) and be mistaken for NF1 {33474713;29770149}.</p>\r\n<h5>Neuroendocrine neoplasms</h5>\r\n<p>Although uncommon, NETs arising in the ampulla of Vater and the periampullary duodenum are among the most characteristic gastrointestinal manifestations of NF1, with 43% of reported periampullary somatostatin cell NETs being NF1-related, in contrast to a frequency of NF1-related somatostatin cell NETs among their pancreatic counterparts of only 6% {10792774;18310290}. These tumours may be either asymptomatic or present with symptoms related to the somatostatinoma syndrome (diarrhoea, diabetes mellitus, dyspepsia, and cholelithiasis). Their regional lymph node metastatic rate is 25%, which contrasts with the rarity of lymph node metastasis in MEN1-associated somatostatin cell NET {10792774;18310290}. The combination of GIST and somatostatin cell NET in NF1 is rare but is highly specific for NF1 {23119102;20300877}.</p>\r\n<h5>Gastrointestinal stromal tumour and precursors</h5>\r\n<p>GISTs represent the most common gastrointestinal manifestation of NF1, being diagnosed in 25% of patients with NF1 during their lives or at autopsy. In the US Armed Forces Institute of Pathology (AFIP) database, NF1-associated GISTs represented 1.5% of all GISTs {16330947}. By site, they represented 6%, 4%, and 0.06% of duodenal, jejunoileal, and gastric GISTs, respectively {16330947}. The mean age at diagnosis (49&nbsp;years) is slightly lower than that for small bowel GISTs in general (56&nbsp;years) {16330947}. Most NF1-associated GISTs present as small asymptomatic incidental lesions with low mitotic activity. Histologically, they display spindle cell morphology with numerous brightly eosinophilic collagen fibres (skeinoid fibres) {16330947}. However, skeinoid fibres are also common in sporadic GISTs of the small intestine. NF1-associated GISTs are uniformly KIT (CD117) and DOG1 (ANO1) positive by immunohistochemistry with retained SDHB expression. While there are case reports of <em>KIT</em> and <em>PDGFRA</em> mutations in GISTs arising in patients with NF1, these are extremely rare and likely represent the chance co-occurrence of a sporadic-type GIST in an individual with NF1 {16330947}. NF1-related GISTs are frequently associated with multifocal or diffuse interstitial cell of Cajal hyperplasia, forming either discrete micronodules or a diffuse band-like proliferation along the Auerbach plexus {16330947}.</p>\r\n<h5>Other neurofibromatosis type&nbsp;1&ndash;related manifestations</h5>\r\n<p>Juvenile-like hyperplastic/inflammatory polyps have been reported in patients with NF1 {24219125}. Multiple polyps have been detected in most cases in different gastrointestinal sites. The etiology of these lesions remains obscure. The frequent occurrence of obliterative vasculopathic changes within the polyps raises the possibility of an ischaemic etiology {24219125;27170677;30276464}. Most of the reported lesions revealed inflammatory or juvenile-like morphology with crypt distortion, mucous cell hyperplasia, mucin-filled retention cysts, surface ulceration, and an inflamed lamina propria rich in eosinophils, fibroblasts, and prominent vessels, with variable obliterative vasculopathy. Those originating in the stomach and distal oesophagus are uncommon and tend to present in children. Vasculopathic changes similar to those seen in the polyps were also reported in resection specimens of NETs from patients with NF1 {19488862}.</p>\r\n",
+        "timestamp": "2026-06-09T11:34:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1014,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 993,
+    "contributions": [
+      {
+        "pkcontributionId": 151053,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 993,
+        "headingText": "\r\n<p>The cytological findings of the individual neoplasms are similar to those of their non-syndromic counterparts.</p>\r\n",
+        "timestamp": "2026-06-09T11:34:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1015,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 994,
+    "contributions": [
+      {
+        "pkcontributionId": 151054,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 994,
+        "headingText": "\r\n<p>Although no mutation hotspots have been identified, a pathogenic <em>NF1</em> variant is detected in 95% of people with NF1 {10862084}. Nonsense, frameshift, and splice-site variants, small insertions, small deletions, or small duplications all result in <em>NF1</em> inactivation. In 4&ndash;5% of cases, a 17q11.2 microdeletion is identified, in which multiple genes are codeleted along with <em>NF1</em>. One of these deleted genes <em>SUZ12</em>, a component of PRC2, has been implicated in MPNST development {25119042;25240281;25305755}.</p>\r\n",
+        "timestamp": "2026-06-09T11:34:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1018,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 997,
+    "contributions": [
+      {
+        "pkcontributionId": 151055,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 997,
+        "headingText": "\r\n<p><em>Essential:</em> a clinical diagnosis of NF1 requires the presence of at least two of the following features:</p>\r\n\r\n<li>Six or more caf&eacute;-au-lait macules (&gt;&nbsp;5&nbsp;mm diameter in children, &gt;&nbsp;15&nbsp;mm in adults)</li>\r\n<li>Axillary/inguinal freckling</li>\r\n<li>Two or more neurofibromas of any type or one plexiform neurofibroma</li>\r\n<li>Optic pathway glioma</li>\r\n<li>Two or more iris hamartomas (Lisch nodules) or two or more choroidal abnormalities</li>\r\n<li>Distinctive bony abnormality (anterolateral bowing of the tibia, pseudarthrosis of a long bone, sphenoid dysplasia)</li>\r\n<li>Heterozygous pathogenic <em>NF1</em> variant with a variant allele fraction of 50% in apparently normal tissue</li>\r\n<li>Parent with NF1 (by the above criteria)</li>\r\n\r\n<p>These criteria were revised in 2021 {34012067}. Of note, there are other conditions with features that overlap with NF1, including Legius syndrome (MIM number: 611431), Noonan syndrome {26337637}, and constitutional mismatch repair deficiency syndrome {30415209}.</p>\r\n<p>See summary in <a style=\"cursor:pointer\" href=\"/attachment/72/256/59821\" target=\"_blank\">#59821</a>Table&nbsp;16.24.</p>\r\n",
+        "timestamp": "2026-06-09T11:34:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1016,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 995,
+    "contributions": [
+      {
+        "pkcontributionId": 151056,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 995,
+        "headingText": "\r\n<p>The staging for neoplasms arising in the setting of NF1 is the same as for their sporadic counterparts.</p>\r\n",
+        "timestamp": "2026-06-09T11:34:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1017,
+    "bookid": 72,
+    "headingType": 3,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 996,
+    "contributions": [
+      {
+        "pkcontributionId": 151057,
+        "bookId": 72,
+        "chapterId": 256,
+        "headingId": 996,
+        "headingText": "\r\n<p>Neurogenic neoplasms of the GI tract in patients with NF1 behave like their peripheral counterparts, except for the development of obstructive symptoms and morbidity associated with motility complications.</p>\r\n<p>NF1-related GISTs are predominantly mitotically inactive indolent neoplasms. Around 14% of cases in one large series behaved aggressively; all were &gt;&nbsp;50&nbsp;mm and highly mitotically active {16330947}.</p>",
+        "timestamp": "2026-06-09T11:34:00"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

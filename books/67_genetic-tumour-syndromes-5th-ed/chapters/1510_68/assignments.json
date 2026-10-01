@@ -1,0 +1,133 @@
+[
+  {
+    "pkroleId": 202,
+    "bookId": "67",
+    "roleid": 209,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2019,
+        "lastname": "Arends",
+        "firstname": "Mark J.",
+        "initials": "MJ",
+        "email": "",
+        "roleid": 209,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 203,
+    "bookId": "67",
+    "roleid": 210,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2017,
+        "lastname": "Washington",
+        "firstname": "Mary K.",
+        "initials": "",
+        "email": "",
+        "roleid": 210,
+        "position": 0
+      },
+      {
+        "contributorid": 2111,
+        "lastname": "Scarpa",
+        "firstname": "Aldo",
+        "initials": "A",
+        "email": "",
+        "roleid": 210,
+        "position": 0
+      },
+      {
+        "contributorid": 2862,
+        "lastname": "Foulkes",
+        "firstname": "William D.",
+        "initials": "WD",
+        "email": "",
+        "roleid": 210,
+        "position": 0
+      },
+      {
+        "contributorid": 4887,
+        "lastname": "Eden",
+        "firstname": "Michael",
+        "initials": "M",
+        "email": "",
+        "roleid": 210,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 204,
+    "bookId": "67",
+    "roleid": 211,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2183,
+        "lastname": "Jansen",
+        "firstname": "Marnix",
+        "initials": "M",
+        "email": "",
+        "roleid": 211,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 205,
+    "bookId": "67",
+    "roleid": 212,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 1997,
+        "lastname": "Carneiro",
+        "firstname": "Fátima",
+        "initials": "F",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 2170,
+        "lastname": "Brosens",
+        "firstname": "Lodewijk A.A.",
+        "initials": "LAA",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5356,
+        "lastname": "Howe",
+        "firstname": "James R.",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5362,
+        "lastname": "Zogopoulos",
+        "firstname": "George",
+        "initials": "",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      },
+      {
+        "contributorid": 5388,
+        "lastname": "Luchini",
+        "firstname": "Claudio",
+        "initials": "C",
+        "email": "",
+        "roleid": 212,
+        "position": 0
+      }
+    ]
+  }
+]

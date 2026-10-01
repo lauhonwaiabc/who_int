@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123413,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 607,
+        "headingText": "\r\n<p>Mixed neuroendocrine&ndash;non-neuroendocrine neoplasms (MiNENs) are mixed epithelial neoplasms in which a neuroendocrine component is combined with a non-neuroendocrine one, each of which is morphologically and immunohistochemically recognizable. The term &ldquo;MiNEN&rdquo; is a descriptive category for these mixed neoplasms; site-specific terms that reflect the different components should be used as diagnoses.</p>\r\n",
+        "timestamp": "2024-10-09T15:18:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123414,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 608,
+        "headingText": "<p>8154/3 Mixed neuroendocrine&ndash;non-neuroendocrine neoplasm</p>\r\n<p>8013/3 Combined large cell neuroendocrine carcinoma</p>\r\n<p>8045/3 Combined small cell neuroendocrine carcinoma</p>",
+        "timestamp": "2024-12-13T12:30:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123415,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 609,
+        "headingText": "\r\n<p>Code according to site of origin and tumours</p>\r\n<p>2C10.1 &amp; XH6H10 Neuroendocrine neoplasms of pancreas &amp; Mixed adenoneuroendocrine carcinoma</p>\r\n",
+        "timestamp": "2024-10-09T15:18:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123416,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> combined neuroendocrine carcinoma (NEC) and non-neuroendocrine carcinoma (i.e. squamous cell carcinoma or adenocarcinoma).</p>\r\n",
+        "timestamp": "2024-10-09T15:18:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123417,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 611,
+        "headingText": "<p>The various combinations of neuroendocrine and non-neuroendocrine components give rise, in different anatomical sites, to several different MiNEN subtypes. The neuroendocrine component can be poorly differentiated (NEC) and of small cell or large cell type or, rarely, well differentiated (neuroendocrine tumour [NET]). The non-neuroendocrine component usually has the morphological features of autochthonous carcinomas of each primary site {27169712} (see <a style=\"cursor:pointer\" href=\"/attachment/53/124/25805\" target=\"_blank\">#25805</a>Box&nbsp;8.01).</p>",
+        "timestamp": "2024-10-18T14:39:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123418,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 612,
+        "headingText": "<p>All organs in which a neuroendocrine neoplasm (NEN) can arise can give rise to MiNENs (see Table <a style=\"cursor:pointer\" href=\"/attachment/53/124/25807\" target=\"_blank\">#25807</a>).</p>",
+        "timestamp": "2024-11-20T16:14:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123419,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 613,
+        "headingText": "<p>Clinical presentation and symptoms depend on the site of origin and are related to tumour growth and/or metastatic dissemination (see Table <a style=\"cursor:pointer\" href=\"/attachment/53/124/25807\" target=\"_blank\">#25807</a>). Specific endocrine syndromes have not been described in MiNENs in which the neuroendocrine component is represented by a NET. In rare cases of MiNENs in which the neuroendocrine component is a NEC, paraneoplastic syndromes (e.g. syndrome of inappropriate antidiuresis [SIAD]) have been reported {24944702; 27169712; 32538468}.</p>",
+        "timestamp": "2024-11-20T16:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123420,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 614,
+        "headingText": "\r\n<p>MiNENs account for 2&ndash;30% of all NENs, with a variable site-specific incidence. Men are more frequently affected than women, and the age at diagnosis is generally in the sixth or seventh decade of life {28635990; 29103747; 32538468}.</p>\r\n",
+        "timestamp": "2024-10-09T15:18:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123421,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 615,
+        "headingText": "\r\n<p>The etiological factors are not known, and an association with specific hereditary genetic syndromes has not been demonstrated. However, in some organs, associations with possible etiological factors have been observed, such as high-grade HPV infection in oropharyngeal and cervical MiNENs {15381906; 21997688} and cigarette smoking in lung MiNENs {23769675}. For sinonasal MiNENs, no occupational exposure to carcinogens has been demonstrated. Skin MiNENs are not apparently associated with Merkel cell polyomavirus {27169712}.</p>\r\n",
+        "timestamp": "2024-10-09T15:18:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123422,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 616,
+        "headingText": "\r\n<p>Several molecular studies demonstrated that the two components are clonally related and therefore derive from a common progenitor cell. Pathogenetic mechanisms involved in MiNENs with a NEC component are similar to those observed in non-neuroendocrine carcinomas of each anatomical site. Although there are some site-specific characteristics, mutations in <em>TP53</em>, <em>RB1</em>, <em>KRAS</em>, <em>STK11</em>, and <em>KEAP1</em> are the most common molecular alterations, independently of the site of origin {30429033; 14652820; 17784875; 22314183; 27586204; 28059096; 25342539; 25633872; 22740238; 25720654; 32538468}. In lung MiNENs composed of adenocarcinoma and small cell neuroendocrine carcinoma (SCNEC), <em>EGFR</em> mutations have been described {17784875}.</p>\r\n",
+        "timestamp": "2024-10-09T15:18:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123423,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 623,
+        "headingText": "\r\n<p>The macroscopic appearance resembles that of non-neuroendocrine carcinoma of the same site (e.g. adenocarcinoma, squamous cell carcinoma, ovarian serous carcinoma, renal cell carcinoma).</p>\r\n",
+        "timestamp": "2024-10-09T15:18:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123424,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 617,
+        "headingText": "\r\n<p>The diagnosis of MiNEN subtypes requires that both components are morphologically recognizable. Some neoplasms in various organs exhibit mixed differentiation, including neuroendocrine and non-neuroendocrine lineages, which can be demonstrated using immunolabelling, but the components are so intimately admixed that they cannot be recognized histologically; these neoplasms do not fit the definition of MiNEN, although they may be diagnosed as mixed neoplasms nonetheless. The clinical significance of mixed differentiation in such cases is not clear. The histological features of the neuroendocrine and non-neuroendocrine components are similar to those of their pure counterparts. The neuroendocrine component is usually represented by a NEC of either the small cell (SCNEC) or large cell (LCNEC) subtype. Their morphological features are described in <a style=\"cursor:pointer\" href=\"/chaptercontent/53/121\" target=\"_blank\">section </a><em>Small cell neuroendocrine carcinoma</em> and <a style=\"cursor:pointer\" href=\"/chaptercontent/53/122\" target=\"_blank\">section </a><em>Large cell neuroendocrine carcinoma</em> . More rarely, the neuroendocrine component is represented by a NET showing the morphological features described in <a style=\"cursor:pointer\" href=\"/chaptercontent/53/119\" target=\"_blank\">section </a><em>Neuroendocrine tumours</em> . The Ki-67 proliferation index is necessary to grade the NET component. In addition, in the digestive system the Ki-67 index of the NEC component (&le;&nbsp;55% vs &gt;&nbsp;55%) is also useful for stratifying MiNENs into two prognostic groups {29592868}. However, in other sites, like the uterine cervix, the Ki-67 proliferation index does not seem to have a prognostic impact {16730307}. The non-neuroendocrine component can be represented by different non-neuroendocrine carcinoma types. Adenocarcinoma and squamous cell carcinoma, including their respective organ-specific subtypes, are the most common components. In addition, depending on the site of origin, other specific carcinomas can be observed, such as ovarian mucinous carcinoma, basal cell carcinoma, thymoma, urothelial carcinoma, renal papillary carcinoma, etc.</p>\r\n<p>Immunohistochemistry is mandatory for confirming the neuroendocrine nature of the neuroendocrine component. Synaptophysin, chromogranin&nbsp;A, and INSM1 are the most sensitive and specific markers. However, it is worth noting that chromogranin&nbsp;A in NECs, especially in the SCNEC subtype, can be negative or focally expressed with a paranuclear dot-like pattern of positivity. The immunohistochemical profile of the non-neuroendocrine component depends on the type of cancer and on the site.</p>\r\n<p>In the digestive tract, rare cases of mixed neoplasms including a non-malignant non-neuroendocrine component such as adenoma {30001239} or intracholecystic papillary neoplasm {31559326} have been described, but these should not be considered MiNENs, because the non-neuroendocrine component is not an invasive carcinoma. These cases rather represent a NEC arising from a non-neuroendocrine preinvasive (precursor) neoplasm.</p>\r\n",
+        "timestamp": "2024-10-09T15:18:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123425,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 618,
+        "headingText": "<p>FNA cytopathology will demonstrate the features of neuroendocrine carcinoma with a second component such as adenocarcinoma.</p>",
+        "timestamp": "2024-12-13T12:30:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123426,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 619,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2024-10-09T15:18:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123427,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 622,
+        "headingText": "<p>See Table <a style=\"cursor:pointer\" href=\"/attachment/53/124/25809\" target=\"_blank\">#25809</a>.</p>\r\n<p>&nbsp;</p>\r\n<p><em>Essential:</em> mixed tumour morphology with the two components morphologically recognizable, with pertinent immunohistochemistry to confirm the neuroendocrine component; in digestive system MiNENs, each component must be malignant and represent &ge;&nbsp;30% of the tumour mass.</p>\r\n<p><em>Desirable:</em> Ki-67 proliferation index to grade the NET component and to prognostically stratify the NEC component.</p>",
+        "timestamp": "2024-11-20T16:16:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123428,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 620,
+        "headingText": "\r\n<p>MiNENs are staged using the Union for International Cancer Control (UICC) or American Joint Committee on Cancer (AJCC) staging system for primary cancers arising in the involved organ.</p>\r\n",
+        "timestamp": "2024-10-09T15:18:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123429,
+        "bookId": 53,
+        "chapterId": 124,
+        "headingId": 621,
+        "headingText": "\r\n<p>The careful typing, grading, and quantification of both components is crucial to patient outcome and case management. Although specific organ-related characteristics influence clinical behaviour, MiNENs in which the neuroendocrine component is represented by a NEC (either SCNEC or LCNEC) are generally very aggressive neoplasms with an ominous prognosis similar to that of pure NECs {26943788; 32365350}, showing a median overall survival time of 8&ndash;61&nbsp;months. For digestive MiNENs, the Ki-67 proliferation index plays a prognostic role, with a Ki-67 index &gt;&nbsp;55% representing a poor prognostic marker {29592868}. MiNENs in which the neuroendocrine component is represented by a NET seem to have a better prognosis, probably driven by the non-neuroendocrine (adenocarcinoma or squamous cell carcinoma) component {27169712; 32538468}.</p>",
+        "timestamp": "2024-10-09T15:18:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

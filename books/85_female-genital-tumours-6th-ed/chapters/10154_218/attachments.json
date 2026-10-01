@@ -1,0 +1,47 @@
+[
+  {
+    "pkattachmentId": 78092,
+    "bookid": 85,
+    "chapterId": 218,
+    "fileId": 60560,
+    "type": "Figure",
+    "diagnosis": "Angiomyofibroblastoma",
+    "title": "",
+    "legend": "The lesion contains numerous small to medium-sized thin-walled vessels. Bland epithelioid to spindled cells show a predominantly perivascular distribution within an oedematous to myxoid stroma.",
+    "source": "Sabrina Croce",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/85/218/60560.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/85/218/thumb_60560.jpg"
+  },
+  {
+    "pkattachmentId": 78256,
+    "bookid": 85,
+    "chapterId": 218,
+    "fileId": 57247,
+    "type": "WSI",
+    "diagnosis": "Angiomyofibroblastoma",
+    "title": "",
+    "legend": "Tumour shows well-circumscribed margins and is composed of round to epithelioid cells arranged predominantly in cord-like structures and set in a fibrous stroma; perivascular arrangement of neoplastic cells is seen.",
+    "source": "Gaetano Magro",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/57247.dzi",
+    "thumbnail": null
+  },
+  {
+    "pkattachmentId": 78288,
+    "bookid": 85,
+    "chapterId": 218,
+    "fileId": 59756,
+    "type": "WSI",
+    "diagnosis": "Angiomyofibroblastoma",
+    "title": "",
+    "legend": "Pedunculated lesion containing numerous small- to medium-sized thin-walled vessels. Bland epithelioid cells show a predominantly perivascular distribution within an oedematous to myxoid stroma. Adipose tissue is also present within the lesion.",
+    "source": "Sabrina Croce",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/59756.dzi",
+    "thumbnail": null
+  }
+]

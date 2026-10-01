@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1070,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1086,
+    "contributions": [
+      {
+        "pkcontributionId": 151373,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1086,
+        "headingText": "\r\n<p>Squamous intraepithelial lesions (SILs) of the vagina are proliferations of squamous cells caused by HPV infection. These cells show abnormal nuclear features and maturation abnormalities but do not extend below the basement membrane.</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1071,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1087,
+    "contributions": [
+      {
+        "pkcontributionId": 151374,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1087,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1072,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1088,
+    "contributions": [
+      {
+        "pkcontributionId": 151375,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1088,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1073,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1089,
+    "contributions": [
+      {
+        "pkcontributionId": 151376,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1089,
+        "headingText": "\r\n<p><em>Acceptable: </em></p>\r\n<p><em>LSIL : condyloma;VaIN I</em></p>\r\n<p><em>HSIL: VaIN II; VaIN III</em></p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1074,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1090,
+    "contributions": [
+      {
+        "pkcontributionId": 151377,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1090,
+        "headingText": "\r\n<p>LSIL (Vaginal intraepithelial neoplasia, grade I); HSIL (vaginal intraepithelial neoplasia, grade II; vaginal intraepithelial neoplasia, grade III)</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1075,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1091,
+    "contributions": [
+      {
+        "pkcontributionId": 151378,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1091,
+        "headingText": "\r\n<p>Vaginal SILs arise in the squamous mucosa of the vagina and are most common in the upper&nbsp;third and fornices.</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1076,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1092,
+    "contributions": [
+      {
+        "pkcontributionId": 151379,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1092,
+        "headingText": "\r\n<p>Vaginal low-grade squamous intraepithelial lesions (LSILs) and high-grade squamous intraepithelial lesions (HSILs) are usually asymptomatic and often discovered during colposcopy for HPV-associated cervical lesions, as &gt;&nbsp;80% of cases co-occur or have a history of cervical SILs or squamous cell carcinoma {30161052; 33754436}.</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1077,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1093,
+    "contributions": [
+      {
+        "pkcontributionId": 151380,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1093,
+        "headingText": "\r\n<p>The incidence of vaginal SILs has been estimated at 0.6&ndash;1.5&nbsp;per 100&nbsp;000&nbsp;person-years, but the literature is sparse {32571683; 23580435}. The mean age of patients with vaginal HSIL is approximately 50&nbsp;years {33754436; 32571683; 34460120}.</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1078,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1094,
+    "contributions": [
+      {
+        "pkcontributionId": 151381,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1094,
+        "headingText": "\r\n<p>LSIL is associated with both low-risk and high-risk HPV types. It is the morphological manifestation of a productive, transient HPV infection and therefore tends to regress. HSIL is associated almost exclusively with high-risk HPV types and is the morphological manifestation of a transforming infection. HPV16 is the most prevalent type in both HSIL and LSIL, although its proportion increases with the grade of SIL {30561092; 34460120; 38373185}. Other relatively common types include HPV33, HPV52, and HPV18 {30561092}. Risk factors for vaginal SILs are similar to those for cervical SIL and include smoking, immunosuppression, and HIV; a history of cervical SIL is also a risk factor {36958755}.</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1079,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1095,
+    "contributions": [
+      {
+        "pkcontributionId": 151382,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1095,
+        "headingText": "\r\n<p>The pathogenesis is similar to that of SILs of the cervix; see <a style=\"cursor:pointer\" href=\"/chaptercontent/85/47\" target=\"_blank\">section </a><em>Squamous intraepithelial lesions </em>&nbsp;<em>of the uterine cervix</em> for further details.</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1086,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1102,
+    "contributions": [
+      {
+        "pkcontributionId": 151383,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1102,
+        "headingText": "\r\n<p>Vaginal SILs are difficult to recognize with the naked eye and can typically be appreciated on colposcopy after application of 3&ndash;5% acetic acid or Lugol&rsquo;s iodine solution. Vaginal SIL is often multifocal.</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1080,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1096,
+    "contributions": [
+      {
+        "pkcontributionId": 151384,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1096,
+        "headingText": "\r\n<p>Vaginal SILs are divided into two-tiers using the grading system recommended by the Lower Anogenital Squamous Terminology (LAST) standardization project {22742517}. The histological features and the recommendations for p16 immunohistochemistry are similar to those described in the section on cervical SIL (see <a style=\"cursor:pointer\" href=\"/chaptercontent/85/47\" target=\"_blank\">section </a><em>Squamous intraepithelial lesions of the uterine cervix</em>). For illustrations, see <a style=\"cursor:pointer\" href=\"/chaptercontent/85/47\" target=\"_blank\">section </a><em>Squamous intraepithelial lesions of the uterine cervix</em>.</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1081,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1097,
+    "contributions": [
+      {
+        "pkcontributionId": 151385,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1097,
+        "headingText": "\r\n<p>Cytological features are similar to those in the uterine cervix. See <a style=\"cursor:pointer\" href=\"/chaptercontent/85/47\" target=\"_blank\">section </a><em>Squamous intraepithelial lesions of the uterine cervix</em>.</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1082,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1098,
+    "contributions": [
+      {
+        "pkcontributionId": 151386,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1098,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1085,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1101,
+    "contributions": [
+      {
+        "pkcontributionId": 151387,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1101,
+        "headingText": "\r\n<p>The essential and desirable diagnostic criteria are as described in the section on cervical SILs (see <a style=\"cursor:pointer\" href=\"/chaptercontent/85/47\" target=\"_blank\">section </a><em>Squamous intraepithelial lesions of the uterine cervix</em>).</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1083,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1099,
+    "contributions": [
+      {
+        "pkcontributionId": 151388,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1099,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1084,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1100,
+    "contributions": [
+      {
+        "pkcontributionId": 151389,
+        "bookId": 85,
+        "chapterId": 31,
+        "headingId": 1100,
+        "headingText": "\r\n<p>The risk of progression of HSIL (VaIN&nbsp;2 or&nbsp;3) to invasion is estimated to be about 2&ndash;6% (lower than in the cervix), with the highest risk in HSIL/VaIN&nbsp;3 {29185264; 32881786; 33754436; 36958755}; the risk of progression of LSIL is much lower. The risk of recurrence of SIL is significantly higher in immunocompromised patients {30161052}.</p>",
+        "timestamp": "2026-08-25T18:11:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

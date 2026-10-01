@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 118502,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Myelodysplastic/myeloproliferative neoplasm with neutrophilia (MDS/MPN-N), formerly known as atypical chronic myeloid leukaemia, is a myeloid neoplasm with myelodysplastic and myeloproliferative features characterized by sustained peripheral blood neutrophilia and neutrophilic left shift.</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 118503,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9876/3 Myelodysplastic/myeloproliferative neoplasm with neutrophilia</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 118504,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A41 Atypical chronic myeloid leukaemia, <em>BCR</em>-<em>ABL1</em>-negative</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 118505,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Not recommended:</em> atypical chronic myeloid leukaemia, <em>BCR</em>::<em>ABL1</em>-negative.</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 118506,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 118507,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>The peripheral blood and bone marrow are always involved; splenic and hepatic involvement is common.</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 118508,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Patients usually have symptoms related to bone marrow insufficiency, particularly anaemia and thrombocytopenia {17043019; 10847463}. Symptoms may also be related to hepatosplenomegaly {11387365; 24627528}. Approximately 40% of cases progress to acute myeloid leukaemia (AML) {24627528}.</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 118509,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>MDS/MPN-N is uncommon {24627528}. Diagnosis is usually in the seventh or eighth decade of life, although younger patients may be affected {17043019; 10847463; 11387365; 2070054; 24627528}. There is no sex predilection.</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 118510,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>Recent data suggest that the disease arises from clonal haematopoiesis through the sequential acquisition of somatic mutations in haematopoietic stem and progenitor cells {31366621; 33196013}.</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 118511,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 710,
+        "headingText": "<p><em>ETNK1</em> and <em>SETBP1</em> mutations have been identified as key pathogenic events {29875417; 33230096}. <em>ETNK1</em> mutations result in relative depletion of phosphoethanolamine, a negative regulator of mitochondrial complex&nbsp;II, which causes increased reactive oxygen species (ROS) production and mutagenesis. <em>SETBP1</em> mutations destroy a degron and stabilize the protein, which forms a multimeric complex (with HCF1/KMT2A/PHF8) to modulate gene transcription and histone modification. This results in the upregulation of several genes including <em>MECOM</em>. Clonal architecture reconstruction shows that <em>ETNK1</em> mutations are invariably an early event, whereas <em>SETBP1</em> mutation is a late event, with mutations involving the RAS pathway (e.g. <em>KRAS</em>, <em>NRAS</em>, <em>CBL</em> mutations) being intervening events {33196013}. Notably, <em>CBL</em>&nbsp;mutations are often associated with copy-neutral loss of heterozygosity through somatic uniparental disomy.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T09:33:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 118512,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 118513,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 711,
+        "headingText": "\r\n<h5>Peripheral blood</h5>\r\n\r\n<p>Peripheral blood smear evaluation is helpful for evaluating for neutrophilic dysplasia and left shift. Circulating immature myeloid cells (promyelocytes, myelocytes, and metamyelocytes) should, by definition, constitute &ge;&nbsp;10% of the leukocytes. Although the absolute monocyte count may be elevated, monocytes should not exceed 10% of the leukocytes. If they do, the diagnosis of chronic myelomonocytic leukaemia should be strongly considered. In addition, there may be other stigmata of myelodysplastic/myeloproliferative neoplasms, such as mild basophilia. Anaemia and thrombocytopenia are frequently present {7986717; 17043019; 10847463; 11387365; 2070054; 24627528}.</p>\r\n\r\n<h5>Bone marrow</h5>\r\n\r\n<p>The bone marrow is typically hypercellular for age, with an elevated myeloid-to-erythroid ratio (&gt;&nbsp;10:1). Dysgranulopoiesis is a characteristic feature and is detected in &ge;&nbsp;10% of granulocytes {24627528}, manifesting as cytoplasmic hypogranulation and abnormalities in nuclear segmentation and chromatin condensation, which include pseudo&ndash;Pelger&ndash;Hu&euml;t nuclei (hypolobation), hypersegmentation, abnormally dense clumping (hypercondensation), and nuclear projections. The number of megakaryocytes is normal or increased. Dysmegakaryopoiesis is frequent, seen as small megakaryocytes with hypolobated nuclei and micromegakaryocytes. Dyserythropoiesis may be present. Bone marrow reticulin fibrosis can be present but is often mild. Blasts must be &lt;&nbsp;20% of all cells, without large clusters or sheets {24627528; 7986717; 2757974; 3179227; 2098294; 17043019; 10847463}.</p>\r\n<p>There are no specific immunophenotypic features associated with MDS/MPN-N. By flow cytometry, CD34-positive haematopoietic precursor cells usually have aberrancies consistent with a haematopoietic stem cell neoplasm, similar to other myelodysplastic/myeloproliferative neoplasm types.</p>\r\n<p>No specific abnormalities are noted. Neutrophils may show aberrant loss or decreased expression of myeloperoxidase. Nonspecific esterase on smears to evaluate monocytes can help exclude the diagnosis of chronic myelomonocytic leukaemia. Iron stain can highlight occasional ring sideroblasts. Neutrophilic alkaline phosphatase is variable and not considered helpful for diagnosis {11387365; 2070054}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-05T16:59:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 118514,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>See above.</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 118515,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 713,
+        "headingText": "\r\n<h5>Cytogenetics</h5>\r\n\r\n<p>Karyotypic abnormalities are detected in 30&ndash;40% of cases, with chromosomes&nbsp;8 and&nbsp;20 being most commonly involved {2070054; 10847463; 28314085; 29700173; 33914911}. Isolated isochromosome&nbsp;17q has been reported in this disease subset {26859077; 26883102}. Chromosomal abnormalities are sometimes associated with disease progression {33196013}. The diagnosis of MDS/MPN-N requires exclusion of <em>BCR</em>::<em>ABL1</em> fusion, which may require careful evaluation to exclude cryptic rearrangements and/or alternate <em>BCR</em>::<em>ABL1</em> transcripts.</p>\r\n\r\n<h5>Molecular analysis</h5>\r\n\r\n<p>Point mutations occur in most cases, with a median of 2&ndash;4&nbsp;per case {23222956; 23656643; 23604229; 23896413; 25343957; 26341525; 28314085; 29700173; 31366621; 32573691; 33196013; 33914911; 33931725}. The diagnosis is supported by the presence of mutations in <em>SETBP1</em> and/or <em>ETNK1</em> {23222956; 23896413; 25343957; 33196013}. Mutations associated with clonal haematopoiesis are common, usually involving <em>ASXL1</em> (60&ndash;80%), <em>TET2</em> (30&ndash;40%), and/or <em>DNMT3A</em> (&lt;&nbsp;10%). Other genes frequently mutated impact proliferative signalling pathways (e.g. <em>CBL</em>, <em>JAK2</em>, <em>NF1</em>, <em>NRAS</em>), splicing machinery (e.g. <em>SRSF2</em>, <em>U2AF1</em>, <em>SF3B1</em>, <em>ZRSR2</em>), transcription factors (<em>CUX1</em>, <em>GATA2</em>, <em>RUNX1</em>), enzymes (<em>ETNK1</em>), epigenetic regulators (<em>SETBP1</em>, <em>EZH2</em>), and chromosomal separation regulators (<em>STAG2</em>).</p>\r\n\r\n<h5>Differential diagnosis</h5>\r\n\r\n<p>The overall mutation profile of MDS/MPN-N is similar to that of chronic neutrophilic leukaemia, chronic myelomonocytic leukaemia, and MDS/MPN-NOS. <em>CSF3R</em> mutations are distinctly more common in chronic neutrophilic leukaemia than in MDS/MPN-N (&gt;&nbsp;60% vs &lt;&nbsp;20%), and <em>SETBP1</em> mutations are most frequently identified in MDS/MPN-N (&gt;&nbsp;30%). Hence, morphological criteria are important for distinguishing these entities.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-05T17:00:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 118516,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/63/32/33265\" target=\"_blank\">#33265</a>Box&nbsp;2.20 .</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 118517,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not applicable</p>\r\n\r\n",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 118518,
+        "bookId": 63,
+        "chapterId": 32,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>Patients with MDS/MPN-N have a poor prognosis, with a median survival of 14&ndash;29&nbsp;months {17043019; 10847463; 11387365; 24627528}. Age &gt;&nbsp;65&nbsp;years, female sex, white blood cell count &gt;&nbsp;50&nbsp;&times;&nbsp;10<sup>9</sup>/L, thrombocytopenia, and haemoglobin level &lt;&nbsp;10&nbsp;g/dL have been reported to be adverse prognostic factors {17043019; 10847463}.</p>\r\n<p>Patients who receive stem cell transplant therapy may have better outcomes {15516946}. A higher than average number of variants of known significance (&gt;&nbsp;4) or a three-gene signature have been reported to confer an inferior outcome {31366621; 33196013}, as have mutations of <em>NRAS</em>, <em>GATA2</em>, <em>ASXL1</em>, <em>SETBP1</em>, <em>RUNX1</em>, <em>TP53</em>, or <em>ASXL1</em> {31366621; 23222956; 33931725}.</p>",
+        "timestamp": "2024-03-05T16:59:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

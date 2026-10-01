@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 64462,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 370,
+        "headingText": "\r\n<p>Adenocarcinoma in situ (AIS), HPV-associated, is an HPV-associated glandular intraepithelial neoplasm.</p>\r\n",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 64463,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 371,
+        "headingText": "\r\n<p>8140/2 Adenocarcinoma in situ NOS</p>\r\n<p>8483/2 Adenocarcinoma in situ, HPV-associated</p>\r\n",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 64464,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 372,
+        "headingText": "\r\n<p>2E66.Y &amp; XH2L30 &amp; XN8JY Other specified carcinoma in situ of cervix uteri &amp; Adenocarcinoma in situ NOS &amp; Human papillomavirus</p>\r\n",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 64465,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 373,
+        "headingText": "\r\n<p><em>Acceptable:</em> high-grade cervical glandular intraepithelial neoplasia</p>\r\n",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 64466,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 64467,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 375,
+        "headingText": "\r\n<p>Squamocolumnar junction and proximal endocervix (less common)</p>\r\n",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 64468,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 376,
+        "headingText": "\r\n<p>The most common presentation is abnormal cervical cytology that shows atypical endocervical glandular cells, often associated with high-grade squamous intraepithelial lesions (HSILs) {15387866}.</p>\r\n",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 64469,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 377,
+        "headingText": "\r\n<p>The mean patient age at presentation is in the fourth decade of life, 10&ndash;15&nbsp;years younger than the mean age for invasive endocervical adenocarcinoma. Because of their location in the endocervical canal and difficulties in their cytological and colposcopic assessment, cervical AIS lesions are more likely to be missed in cytological cervical screening than their squamous cell counterparts. As a result, they are diagnosed relatively rarely.</p>\r\n",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 64470,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 378,
+        "headingText": "<p>These neoplasms are associated with infection with high-risk HPV (HR-HPV), most notably HPV16 and HPV18, or HPV45. Of the AIS cases that are diagnosed by cytology and/or biopsied by a colposcopist, 99% are HPV-associated {22323075}. Of these, &gt;&nbsp;90% are positive for HPV16 and/or HPV18, a proportion similar to that seen with invasive cervical adenocarcinoma {22323075}. The established greater importance of HPV18 in invasive adenocarcinoma versus in invasive squamous cell carcinoma {20473886} is also seen for AIS (~50%) versus its squamous preinvasive equivalent (CIN&nbsp;2/3; ~20%) {22323075}. Rare cases of HPV-independent AIS also exist {23552379}.</p>",
+        "timestamp": "2020-08-12T11:58:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 64471,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 379,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/chaptercontent/34/288\" target=\"_blank\">section </a><em>Squamous intraepithelial lesions of the uterine cervix</em>.</p>",
+        "timestamp": "2020-07-10T11:06:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 64472,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 386,
+        "headingText": "\r\n<p>Colposcopically, AIS may be subtle. Lesions can be difficult to appreciate high in the endocervical canal {25950554}. HSIL may also be present.</p>\r\n",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 64473,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 380,
+        "headingText": "<p>AIS replaces epithelium and is confined to the pre-existing glandular architecture. The cardinal features are columnar cells, often mucin-depleted, with nuclei that are usually pseudostratified and hyperchromatic, along with easily identified apical mitotic figures (floating mitoses) and basal karyorrhexis {12657929; 9537470; 2792895; 3342374}. Also encountered are obvious intracytoplasmic mucin with or without goblet cells; pinkish-red apical cytoplasm; cilia (very rare); variably enlarged hyperchromatic nuclei, either elongated or round, sometimes with irregular nuclear contours, and coarse chromatin; multinucleated cells; and so-called early or superficial AIS in which the lesion is small and preferentially located in a monolayer along the luminal surface. This last pattern may display more uniform nuclear size with less conspicuous mitoses or apoptotic bodies {16327433}. Nucleoli are only rarely encountered. The extent to which AIS can display intraglandular cribriform structures and papillae is controversial. When these findings are present focally in a well-sampled specimen, they are acceptable for the diagnosis of AIS, but when these findings are extensive, one should consider a diagnosis of adenocarcinoma with non-destructive invasion, including adenocarcinoma with villoglandular architecture.</p>\r\n<p>Mucin-depleted AIS may create diagnostic uncertainty because of resemblance to endometrioid adenocarcinoma; AIS is HPV-associated and lacks confirmatory endometrioid features such as atypical hyperplasia, squamous metaplasia, and columnar cells with bland oval nuclei lacking conspicuous mitotic activity. AIS should be suspected when goblet cells are present, but they are not by themselves diagnostic of AIS, irrespective of HPV status. Ciliated AIS and examples of AIS lacking overt nuclear atypia may be confused with non-neoplastic/reactive/hyperplastic endocervical or tuboendometrioid glands. This diagnostic dilemma can usually be resolved in the presence of brisk mitotic activity, characteristic of AIS; ancillary testing is sometimes desirable for an unequivocal diagnosis. Although AIS is strongly and diffusely positive for p16, it may be reduced with intestinal differentiation, along with an increased Ki-67 proliferation index {12378514; 15043304; 14648656}. Characteristically, there is loss of ER expression, and more specifically, PR expression {17365826}. Benign mimics of AIS tend to be positive for ER and PR.</p>\r\n<p>An important AIS subtype is stratified mucin-producing intraepithelial lesion, which consists of stratified epithelium with mucin throughout all cell layers and (frequently) a peripheral cuff of basaloid/reserve cells {11023104}. At low-power magnification, the lesion resembles HSIL involving endocervical glands/clefts, but at higher magnification, intracytoplasmic mucin is usually obvious. Nuclear atypia, hyperchromasia, mitoses, and apoptotic bodies are usually present. stratified mucin-producing intraepithelial lesion may coexist with HSIL, conventional AIS, or invasive carcinoma (including invasive stratified mucin-producing carcinoma) {27237368}.</p>\r\n<h5><em>Ancillary testing</em></h5>\r\n<p>The tumour suppressor protein p16 is overexpressed in nearly all cases of HPV-associated AIS as a result of compensatory upregulation related to interference of the HPV oncoprotein E7 with RB1 (the retinoblastoma protein). Positivity is defined as strong block-type staining. This stain is not required, because morphology is usually sufficient for accurate diagnosis. p16 immunohistochemistry should be applied when there is diagnostic uncertainty involving hyperplastic, reactive, and metaplastic lesions. Because these non-neoplastic proliferations may show patchy p16 staining, it is critical to distinguish between block-type (or every-cell) staining and patchy staining, with the block-type pattern being confirmatory of the diagnosis given appropriate morphology. One must also be aware of other glandular neoplasms with block-type p16 staining, which feature in the differential diagnosis of AIS, mostly in biopsy or curettage specimens. Examples are serous carcinoma of endometrium or adnexa (95&ndash;100% p16-positive), high-grade endometrioid carcinoma of endometrium (about one&nbsp;third), and clear cell carcinoma of endometrium or endocervix (about one&nbsp;third). Direct HPV testing may also have value in selected cases, such as those with an equivocal p16 staining pattern or cases with block-type staining of a lesion lacking the characteristic morphology of AIS. HR-HPV RNA in situ hybridization testing can help to adjudicate the HPV status of these problematic cases and inform the correct diagnosis {29135516}.</p>",
+        "timestamp": "2020-04-28T15:06:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 64474,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 381,
+        "headingText": "\r\n<p>AIS is characterized by strips and clusters of glandular cells with crowded palisading nuclei that are enlarged, elongated, and irregular. Loss of polarity and feathering may also be seen. Chromatin is typically coarse and dark but can appear finely granular and more open on liquid-based preparations. Given the significant morphological overlap of AIS with benign mimics on cytology, glandular abnormalities are often categorized as atypical glandular cells (NOS or favour neoplastic) and not diagnosed definitively as AIS {17173299; 20063408}.</p>\r\n<p>Pap tests have a high false negative rate for the detection of endocervical adenocarcinoma. In a large population-based study, 60% of women with AIS and 85% with invasive adenocarcinoma had a negative Pap test {1684207}. Cotesting helps: 44% of women with AIS and 63% with invasive adenocarcinoma had a concurrent positive HPV test.</p>\r\n",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 64475,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 382,
+        "headingText": "<p>HR-HPV in&nbsp;situ hybridization will identify nuclear signals (DNA-based) or nuclear and cytoplasmic signals (mRNA-based); mRNA-based in&nbsp;situ hybridization is more specific than DNA-based methods {29135516}. PCR may be used to confirm HPV infection, but sensitivity and specificity are lacking because the analysis may underperform in archival formalin-fixed tissue and does not provide for ascertainment that HPV is present, specifically, within neoplastic cells {28403015}.</p>",
+        "timestamp": "2020-06-01T12:12:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 64476,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> pseudostratified, hyperchromatic nuclei with easily identified apical mitotic figures and karyorrhexis.</p>\r\n<p><em>Desirable:</em> HPV detection, either indirectly (block-type p16 staining) or directly (HR-HPV in situ hybridization using highly sensitive methodology).</p>\r\n",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 64477,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 383,
+        "headingText": "\r\n<p>This entity is staged as T0N0M0.</p>\r\n",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 64478,
+        "bookId": 34,
+        "chapterId": 496,
+        "headingId": 384,
+        "headingText": "\r\n<p>In most instances, AIS can be successfully treated with loop excision and close cytological follow-up. Hysterectomy may be preferred if childbearing is not desired. For conservative management, close follow-up by colposcopic, cytological, and HPV testing is essential, with HPV status being a powerful indicator of successful removal (when negative) versus persistent/progressive disease (when positive) {22188786}.</p>",
+        "timestamp": "2020-04-28T15:05:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

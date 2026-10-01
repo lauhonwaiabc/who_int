@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 359,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 159,
+    "contributions": [
+      {
+        "pkcontributionId": 54382,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 159,
+        "headingText": "<p>Undifferentiated carcinoma of the stomach is a primary gastric carcinoma composed of anaplastic cells showing no specific cytological or architectural type of differentiation.</p>",
+        "timestamp": "2019-01-29T16:45:47"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 360,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 160,
+    "contributions": [
+      {
+        "pkcontributionId": 54383,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 160,
+        "headingText": "<p>8020/3 Carcinoma, undifferentiated, NOS</p>",
+        "timestamp": "2021-11-22T12:15:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 361,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 161,
+    "contributions": [
+      {
+        "pkcontributionId": 54384,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 161,
+        "headingText": "<p>2B72.Y &amp; XH1YY4 Other specified malignant neoplasms of stomach &amp; Carcinoma, undifferentiated, NOS</p>",
+        "timestamp": "2019-12-13T16:52:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 362,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 162,
+    "contributions": [
+      {
+        "pkcontributionId": 54385,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 162,
+        "headingText": "<p></p>\r\n<p><em>Acceptable:</em> anaplastic carcinoma; pleomorphic carcinoma.</p>\r\n<p><em>Not recommended:</em> giant cell carcinoma.</p>",
+        "timestamp": "2019-01-29T16:46:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 363,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 163,
+    "contributions": [
+      {
+        "pkcontributionId": 54386,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 163,
+        "headingText": "<p>Large cell carcinoma with rhabdoid phenotype (8014/3); pleomorphic carcinoma (8022/3); sarcomatoid carcinoma (8033/3); carcinoma with osteoclast-like giant cells (8035/3)</p>",
+        "timestamp": "2021-11-22T12:16:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 364,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 164,
+    "contributions": [
+      {
+        "pkcontributionId": 54387,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 164,
+        "headingText": "<p>No specific localization within the stomach is observed, but diffuse involvement of more than one region is not uncommon.</p>",
+        "timestamp": "2019-01-29T16:46:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 365,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 165,
+    "contributions": [
+      {
+        "pkcontributionId": 54388,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 165,
+        "headingText": "<p></p>\r\n<p>Most patients present with a large ulcerated and extensively necrotic transmural fungating mass, which is often associated with extensive synchronous regional metastases. Most patients with initially localized disease develop widespread metastases shortly after diagnosis and surgery, and most patients die of their disease within 1&nbsp;year {24503755; 26551623}.</p>",
+        "timestamp": "2019-01-29T16:46:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 366,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 166,
+    "contributions": [
+      {
+        "pkcontributionId": 54389,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 166,
+        "headingText": "<p></p>\r\n<p>Limited data are available. Undifferentiated rhabdoid carcinomas have been estimated to account for 0.1&ndash;0.3% of all gastric carcinomas and 5.6% of solid adenocarcinomas {7687828; 8971557}.</p>",
+        "timestamp": "2019-01-29T16:46:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 367,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 167,
+    "contributions": [
+      {
+        "pkcontributionId": 54390,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 167,
+        "headingText": "<p>Unknown</p>",
+        "timestamp": "2019-01-29T16:47:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 368,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 168,
+    "contributions": [
+      {
+        "pkcontributionId": 54391,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 168,
+        "headingText": "<p></p>\r\n<p>The frequent presence of a variable glandular component or areas of transition to adenocarcinoma in otherwise undifferentiated tumours suggests an origin via dedifferentiation. In cases originating from other gastric cancer types via dedifferentiation, the genotype is essentially dictated by the clone of origin. In some cases, the undifferentiated phenotype is probably driven by various components of the SWI/SNF chromatin-remodelling complex; in particular, loss of SMARCB1 (INI1), SMARCA4, and ARID1A has been reported. In a subset of cases, SWI/SNF loss is superimposed on mismatch repair deficiency {24503755; 26551623}.</p>",
+        "timestamp": "2019-01-29T16:47:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 375,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 207,
+    "contributions": [
+      {
+        "pkcontributionId": 54392,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 207,
+        "headingText": "<p>The carcinoma is a large, ulcerated, necrotic, and usually transmural fungating mass, often with extensive regional lymph node involvement.</p>",
+        "timestamp": "2019-01-29T16:47:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 369,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 169,
+    "contributions": [
+      {
+        "pkcontributionId": 54393,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 169,
+        "headingText": "<p></p>\r\n<p>Anaplastic carcinoma is composed of diffuse sheets of anaplastic, large to medium-sized polygonal cells, with frequent pleomorphic tumour giant cells. A variable rhabdoid cell component is common and may be the predominant pattern; these cells frequently show binucleation or multinucleation. Other histological patterns that may be seen focally or as the dominant pattern include the spindled sarcomatoid pleomorphic pattern, undifferentiated carcinoma with osteoclast-like giant cells, and carcinoma with lymphoepithelioma-like features {22825525; 16115241}. Depending on the extent of sampling, a glandular component may be observed and can vary from minimal to prominent. The stroma may be myxoid or mucinous, and it commonly contains mononuclear inflammatory cells. Immunohistochemistry, which is not specific, reveals variable expression of pancytokeratin. EMA staining may be helpful in keratin-poor examples. Vimentin is consistently expressed, frequently with a perinuclear dot-like pattern {24503755; 26551623}. Gastric undifferentiated carcinoma should be distinguished from EBV-associated carcinoma with lymphoid stroma, aggressive lymphomas (including anaplastic large cell lymphoma), metastatic melanoma, germ cell neoplasms, PEComa, and other types of poorly differentiated sarcomas with an epithelioid large cell pattern.</p>",
+        "timestamp": "2019-03-25T12:23:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 370,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 170,
+    "contributions": [
+      {
+        "pkcontributionId": 54394,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 170,
+        "headingText": "<p>Gastric undifferentiated carcinoma contains malignant cells without evidence of differentiation.</p>",
+        "timestamp": "2019-01-29T16:47:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 371,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 171,
+    "contributions": [
+      {
+        "pkcontributionId": 54395,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 171,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/chaptercontent/31/29\" target=\"_blank\">section </a><em>Gastric adenocarcinoma</em>. ERBB2 (HER2) immunohistochemistry is recommended in all gastric carcinomas for which treatment is appropriate, but there are no specific recommendations.</p>",
+        "timestamp": "2019-06-04T15:37:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 374,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 174,
+    "contributions": [
+      {
+        "pkcontributionId": 54396,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 174,
+        "headingText": "<p><em>Essential:</em> malignant cells without histological evidence of differentiation; equivocal immunohistochemistry.</p>",
+        "timestamp": "2019-01-29T16:48:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 372,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 172,
+    "contributions": [
+      {
+        "pkcontributionId": 54397,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 172,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/chaptercontent/31/29\" target=\"_blank\">section </a><em>Gastric adenocarcinoma</em>.</p>",
+        "timestamp": "2019-06-04T15:37:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 373,
+    "bookid": 31,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 173,
+    "contributions": [
+      {
+        "pkcontributionId": 54398,
+        "bookId": 31,
+        "chapterId": 32,
+        "headingId": 173,
+        "headingText": "<p>Because of the rarity of this entity and its highly aggressive nature, no specific prognostic features have been identified. Disease stage at diagnosis might be prognostically relevant.</p>",
+        "timestamp": "2019-01-29T16:48:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

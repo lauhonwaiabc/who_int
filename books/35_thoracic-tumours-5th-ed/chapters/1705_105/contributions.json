@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 67187,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 432,
+        "headingText": "\r\n<p>Intravascular large B-cell lymphoma (IVLBCL) is an aggressive extranodal non-Hodgkin lymphoma, characterized by the presence of large neoplastic B&nbsp;cells within, if not exclusive to, different-sized vessels, particularly capillaries.</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 67188,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 433,
+        "headingText": "\r\n<p>9712/3 Intravascular large B-cell lymphoma</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 67189,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 434,
+        "headingText": "\r\n<p>2A81.1 Intravascular large B-cell lymphoma</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 67190,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Not recommended (all obsolete):</em> malignant angioendotheliomatosis; neoplastic angioendotheliomatosis; angiotropic lymphoma; intravascular lymphomatosis; angioendotheliotropic lymphoma.</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 67191,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 436,
+        "headingText": "<p>Classic, haemophagocytic, and cutaneous subtypes have been proposed.</p>",
+        "timestamp": "2021-01-07T17:45:04"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 67192,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 437,
+        "headingText": "\r\n<p>IVLBCL involving the lungs generally represents part of systemic disease. However, primary pulmonary cases have been reported {29467882}.</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 67193,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 438,
+        "headingText": "\r\n<p>IVLBCL is a systemic disorder and thus may show various symptoms according to the involved organs. Haemophagocytic syndrome is observed predominantly in Asian populations (haemophagocytic subtype). IVLBCL may cause pulmonary hypertension, hypoxaemia, and pulmonary embolism. A random skin biopsy and transbronchial lung biopsy are useful to make the diagnosis {30609011; 30647028}.</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 67194,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 439,
+        "headingText": "\r\n<p>IVLBCL occurs in adults, without sex predisposition.</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 67195,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 440,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 67196,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 441,
+        "headingText": "\r\n<p>The neoplastic cells lack adhesion molecules, including CD29 (integrin beta-1) and CD54 (ICAM1) {10685637}. <em>MYD88</em> p.L265P mutations are reported in about half and <em>CD79B</em> p.Y196 mutations in one&nbsp;third to two&nbsp;thirds of cases examined {29514783; 29472348}. Unlike for other lymphoma types, detection of mutations in cell-free DNA by liquid biopsy is more highly sensitive than in tissue-derived DNA {29472348}.</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 67197,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 448,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 67198,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 442,
+        "headingText": "\r\n<p>Large lymphoid cells with vesicular nuclei and often showing mitotic figures are observed within small vessels, especially capillaries, sometimes showing minimal extravasation. Rarely, the lymphoid cells can be anaplastic. Mature B-cell markers are expressed, often with CD5 and PDL1 (CD274) expression (20&ndash;40%) {30938862; 30688388}. Most cases have a non&ndash;germinal-centre B-cell immunophenotype, but approximately 13% are CD10-positive {16985183}.</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 67199,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 443,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 67200,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 444,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 67201,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Large lymphoid cells resembling centroblasts or immunoblasts in blood vessels, especially capillaries</li>\r\n<li>Mature B-cell markers (e.g. CD20, CD79a, PAX5) are positive</li>\r\n</ul>",
+        "timestamp": "2021-01-04T10:36:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 67202,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 445,
+        "headingText": "\r\n<p>Staging is according to the Lugano modification of the Ann Arbor staging system.</p>\r\n",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 67203,
+        "bookId": 35,
+        "chapterId": 105,
+        "headingId": 446,
+        "headingText": "\r\n<p>IVLBCL is an aggressive lymphoma. The poor prognosis is often caused by delayed diagnosis. Cases with disease limited to the skin (cutaneous form) have a better outcome {15461623; 19717091}. Chemotherapy with rituximab has improved the outcomes, with a 3-year overall survival rate of 60&ndash;81% {18699850; 18838697; 19717091; 18506023}.</p>",
+        "timestamp": "2020-11-11T12:07:23"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

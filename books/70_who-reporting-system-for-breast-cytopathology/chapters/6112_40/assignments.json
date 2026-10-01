@@ -1,0 +1,71 @@
+[
+  {
+    "pkroleId": 198,
+    "bookId": "70",
+    "roleid": 226,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2251,
+        "lastname": "Tse",
+        "firstname": "Gary ",
+        "initials": "G",
+        "email": "",
+        "roleid": 226,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 200,
+    "bookId": "70",
+    "roleid": 228,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4165,
+        "lastname": "Michelow",
+        "firstname": "Pamela",
+        "initials": "",
+        "email": "",
+        "roleid": 228,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 201,
+    "bookId": "70",
+    "roleid": 229,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4174,
+        "lastname": "Klijanienko",
+        "firstname": "Jerzy",
+        "initials": "",
+        "email": "",
+        "roleid": 229,
+        "position": 0
+      },
+      {
+        "contributorid": 5440,
+        "lastname": "Lokuhetty",
+        "firstname": "Dilani",
+        "initials": "D",
+        "email": "",
+        "roleid": 229,
+        "position": 0
+      },
+      {
+        "contributorid": 5412,
+        "lastname": "Schubert",
+        "firstname": "Pawel T.",
+        "initials": "",
+        "email": "",
+        "roleid": 229,
+        "position": 0
+      }
+    ]
+  }
+]

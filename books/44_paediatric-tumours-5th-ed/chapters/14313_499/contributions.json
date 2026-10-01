@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 108614,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 466,
+        "headingText": "\r\n<p>Pilomatricoma is a benign cutaneous adnexal tumour differentiating towards the matrix and the hair cortex.</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 108615,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 467,
+        "headingText": "\r\n<p>8110/0 Pilomatricoma</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 108616,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 468,
+        "headingText": "\r\n<p>2F22 &amp; XH9E37 Benign neoplasms of epidermal appendages &amp; Pilomatricoma, NOS</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 108617,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Acceptable:</em> pilomatrixoma.</p>\r\n<p><em>Not recommended:</em> calcifying epithelioma of Malherbe.</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 108618,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 470,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 108619,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 471,
+        "headingText": "\r\n<p>The predominant localization is the head and neck region (affected in 50% of cases), followed by the extremities (upper: 25% of cases, lower: 10% of cases) and the trunk (15% of cases) {20711110}.</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 108620,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 472,
+        "headingText": "\r\n<p>Pilomatricomas manifest as firm or hard, dermal or hypodermal, slow-growing, usually asymptomatic, solitary nodules measuring 10&ndash;30&nbsp;mm {24838222}. The overlying skin may look normal, show a red or bluish discolouration, or be anetodermic or bullous/lymphangiectatic {22307232; 22937738}. Giant and perforating forms exist {25516090; 22937738}. As many as 5% of patients have multiple pilomatricomas, usually in association with genetic syndromes (see below).</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 108621,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 473,
+        "headingText": "\r\n<p>Pilomatricoma is common, accounting for about 1% of all pathologically diagnosed benign skin lesions {20711110}. It is the most common non-melanocytic cutaneous tumour excised in children {21034707}. It can occur at any age (reported patient age range: 3&nbsp;months to 93&nbsp;years), but nearly half of all cases are diagnosed during the first two decades of life {20711110}. Most studies have noted a modest female predominance {23895971; 20594627; 27240514}.</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 108622,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 474,
+        "headingText": "\r\n<p>The vast majority of cases are sporadic; however, pilomatricomas can also be familial {24838222} or multiple {23347315}, often in the setting of complex genetic syndromes such as myotonic dystrophy, familial adenomatous polyposis, Turner syndrome, Rubinstein&ndash;Taybi syndrome, Goldenhar syndrome, Kabuki syndrome, Sotos syndrome, trisomy&nbsp;9, and <em>DICER1</em> syndrome.</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 108623,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 475,
+        "headingText": "\r\n<p>Most pilomatricomas harbour activating mutations in exon&nbsp;3 of the gene encoding &beta;-catenin (<em>CTNNB1</em>); the 92&nbsp;kDa protein encoded by this gene is involved in cell&ndash;cell adhesion and in the WNT signalling pathway, which regulates cell proliferation, differentiation, and survival {24878016}. Basaloid cells often harbour trisomy of chromosome&nbsp;18, which carries the antiapoptotic gene <em>BCL2</em>, suggesting that the BCL2 oncoprotein may play a role in the growth and differentiation of pilomatricoma {20495544}.</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 108624,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 482,
+        "headingText": "\r\n<p>Pilomatricoma is a cystic lesion with a thick pale or white wall.</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 108625,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 476,
+        "headingText": "\r\n<p>Pilomatricomas consist of one or several dermal nodules, sometimes extending to the hypodermis. They are made of cells with a variable appearance. The peripheral cells are monomorphic, small, deeply basophilic, and mitotically active, with indistinct borders. Peripheral cells keratinize towards the shadow cells (also called ghost or mummified cells) found towards the centre of the nodules; these are cells with distinct borders, an eosinophilic cytoplasm, and an empty space where the nucleus was once located. The transition occurs via an intermediate zone of cells with a small, pyknotic, basophilic nucleus and pale cytoplasm. The ratio of basophilic cells to shadow cells decreases with increasing age/maturation of the lesion. Pilomatricomas are sometimes cystic (most commonly those associated with familial adenomatous polyposis). Calcification and ossification occur in old lesions, accounting for their stone-hard consistency. The surrounding dermis is fibrotic and often contains a foreign body granulomatous infiltration. Pathological patterns include pigmented and proliferating pilomatricoma (consisting predominantly of mitotically active basaloid cells). Pilomatricoma (basaloid) cells express &beta;-catenin {21239898; 22307232}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Pilomatricoma should be differentiated from other pilar tumours that may show (focally) matrical differentiation (i.e. basal cell carcinoma, trichoblastoma, and melanocytic matricoma) and from its malignant counterpart, pilomatrical carcinoma. Pathological features favouring pilomatrical carcinoma include poor circumscription, an asymmetrical silhouette, frequent atypical mitoses, and lymphovascular invasion {24739254}.</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 108626,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 477,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 108627,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 478,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 108628,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> a cystic tumour with stratified squamous epithelial elements, ghost cells, and dense keratin.</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 108629,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 479,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 108630,
+        "bookId": 44,
+        "chapterId": 499,
+        "headingId": 480,
+        "headingText": "\r\n<p>Pilomatricomas are benign tumours. Rarely, they may recur, most commonly when incompletely excised {20711110; 23895971}.</p>",
+        "timestamp": "2023-03-13T11:13:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

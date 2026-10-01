@@ -1,0 +1,122 @@
+[
+  {
+    "pkheadingid": 656,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 676,
+    "contributions": [
+      {
+        "pkcontributionId": 93909,
+        "bookId": 48,
+        "chapterId": 107,
+        "headingId": 676,
+        "headingText": "\r\n<p>Erdheim&ndash;Chester disease (ECD) is a rare histiocytic neoplasm characterized by a clonal systemic proliferation of histiocytes with foamy cytoplasm and Touton giant cells.</p>\r\n",
+        "timestamp": "2022-11-22T09:52:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 657,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Clinical features and imaging",
+    "headingPosition": 2,
+    "headingid": 677,
+    "contributions": [
+      {
+        "pkcontributionId": 93910,
+        "bookId": 48,
+        "chapterId": 107,
+        "headingId": 677,
+        "headingText": "\r\n<p>ECD typically presents in adults, with involvement of the long bones of the lower extremity, but it can also be seen in extraskeletal sites, such as the retroperitoneum, brain, skin, and thoracic cavity. Approximately half of all cases will have pulmonary or pleural involvement, and patients may be symptomatic with dyspnoea or cough or they may simply present with manifestations from involvement of other areas, such as bone pain, given that skeletal involvement is almost always seen. Unlike with pulmonary Langerhans cell histiocytosis (LCH), ECD has no known association with smoking. However, extraskeletal involvement, such as lung involvement, is associated with a worse prognosis in ECD. Bone scans in these patients will show bilateral, symmetrical labelling. Chest CT may show subtle inflammatory-type findings, with micronodules, ground-glass opacities, and thickening of the fissures.</p>\r\n",
+        "timestamp": "2022-11-22T09:52:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 658,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Histopathology",
+    "headingPosition": 3,
+    "headingid": 678,
+    "contributions": [
+      {
+        "pkcontributionId": 93911,
+        "bookId": 48,
+        "chapterId": 107,
+        "headingId": 678,
+        "headingText": "<p >The lesions appear fibrotic with a xanthogranulomatous infiltrate or just as non-diagnostic fibrotic tissue. The histiocytes can be challenging to identify, given the low N:C&nbsp;ratio of the cells and the bland nuclear features. Multinucleated and Touton giant cells are also seen, with a variably prominent lymphoplasmacytic infiltrate.</p>",
+        "timestamp": "2022-11-22T09:53:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 659,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Key diagnostic cytopathological features",
+    "headingPosition": 4,
+    "headingid": 679,
+    "contributions": [
+      {
+        "pkcontributionId": 93912,
+        "bookId": 48,
+        "chapterId": 107,
+        "headingId": 679,
+        "headingText": "<ul>\r\n<li>Loosely cohesive and discohesive histiocytes with abundant foamy cytoplasm</li>\r\n<li>Multinucleated or Touton-type giant cells may be seen</li>\r\n<li>Histiocytes have oval or kidney-shaped nuclei without grooves and without prominent nucleoli</li>\r\n<li>Nuclei may appear as stripped oval nuclei</li>\r\n<li>Background may show metachromatic fibrotic material or inflammatory cells, particularly lymphocytes and plasma cells</li>\r\n</ul>",
+        "timestamp": "2022-11-22T09:53:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 660,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Discussion and differential diagnosis",
+    "headingPosition": 5,
+    "headingid": 680,
+    "contributions": [
+      {
+        "pkcontributionId": 93913,
+        "bookId": 48,
+        "chapterId": 107,
+        "headingId": 680,
+        "headingText": "<p>ECD is a rare non&ndash;Langerhans cell histiocytosis that is unique in that it has the same BRAF p.V600E mutations as are seen in LCH but is a distinct entity with a different immunophenotype {22879539}. The <em>BRAF</em> mutations are important because they allow the BRAF VE1 immunostain to be utilized for diagnosis and BRAF inhibitors to be used for treatment. Other targetable MAPK/ERK pathway mutations can also be identified, and so the main reason for biopsy in these patients is to obtain material for mutation testing in order to select the appropriate treatment {32187362}. The differential diagnosis is broad because the cytopathological features are relatively nonspecific and rely on correlation with clinical history and imaging findings and the ICC. The differential diagnosis includes LCH, reactive histiocytic proliferations, and mesenchymal tumours. The reactive diagnoses include xanthogranulomatous infiltrates that can occur after treatment or with infection, and the foamy granulomatous inflammation seen with atypical mycobacterial infections. Cases may appear non-diagnostic because the fibrotic tissue yields fragments that are acellular, and these cases will typically undergo core needle biopsy. Low-grade sarcomas and well-differentiated liposarcomas are also a consideration for pulmonary metastases.</p>",
+        "timestamp": "2023-01-10T16:36:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 661,
+    "bookid": 48,
+    "headingType": 5,
+    "headingTitle": "Ancillary testing",
+    "headingPosition": 6,
+    "headingid": 681,
+    "contributions": [
+      {
+        "pkcontributionId": 93914,
+        "bookId": 48,
+        "chapterId": 107,
+        "headingId": 681,
+        "headingText": "\r\n<p>The ECD histiocytes stain positively for CD68, CD163, factor&nbsp;XIIIa, and fascin, and negative for CD1a and CD207 (langerin) and are usually negative for S100, although weak S100 staining can be seen in about 20&ndash;30% of cases {32187362}. The BRAF VE1 stain also shows cytoplasmic positivity, reflecting the presence of the BRAF p.V600E mutations in over half of these cases.</p>",
+        "timestamp": "2022-11-22T09:52:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

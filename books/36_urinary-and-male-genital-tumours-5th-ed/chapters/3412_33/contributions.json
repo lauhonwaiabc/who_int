@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 69282,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 539,
+        "headingText": "\r\n<p>Epithelioid angiomyolipoma (EAML) is a rare variation of angiomyolipoma that consists of at least 80% epithelioid cells.</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 69283,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 540,
+        "headingText": "\r\n<p>8860/1 Angiomyolipoma, epithelioid</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 69284,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 541,
+        "headingText": "\r\n<p>2F35 &amp; XH0QR3 Benign neoplasm of urinary organs &amp; Angiomyolipoma, epithelioid</p>\r\n<p>2B5F.2 &amp; XH0QR3 Sarcoma, not elsewhere classified of other specified sites &amp; Angiomyolipoma, epithelioid</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 69285,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Acceptable:</em> pure epithelioid PEComa of the kidney.</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 69286,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 69287,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 544,
+        "headingText": "\r\n<p>Kidney, with possible extrarenal extension and involvement of renal veins</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 69288,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 545,
+        "headingText": "\r\n<p>Most reports on EAML indicate that it is radiologically, clinically, and grossly similar to renal cell carcinoma {27666625}; however, combining unenhanced CT and MRI features can result in relatively high specificity {23551572}.</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 69289,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 546,
+        "headingText": "\r\n<p>The mean patient age is 50&nbsp;years (range: 30&ndash;80&nbsp;years) and there is no sex predilection. EAMLs represent 4.6% of all resected angiomyolipomas {23599151}.</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 69290,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 547,
+        "headingText": "\r\n<p>EAML has been described in patients with tuberous sclerosis, as well as in patients with <em>TSC2</em>/<em>PKD1</em> contiguous gene syndrome {9630173; 9500218; 11812941}.</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 69291,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 548,
+        "headingText": "\r\n<p><em>TSC2</em> mutation has been reported in sporadic EAMLs {9630173; 18085521}.</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 69292,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 555,
+        "headingText": "\r\n<p>Usually, large tumours with an infiltrative pattern and a heterogeneous appearance are the most frequent gross finding. The colour ranges from grey-tan to brown. Haemorrhagic areas and necrosis may be observed. Extrarenal extension into the renal vein and/or vena cava and regional lymph node involvement may occur. However, not all cases of EAML with lymph node involvement represent metastatic disease {20410812; 21263237}.</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 69293,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 549,
+        "headingText": "<p>EAML displays two different patterns. The first,&nbsp;a carcinoma-like pattern, is characterized by nests of atypical large eosinophilic cells, resembling ganglion cells, with prominent nucleoli and intranuclear inclusions (ganglion cell&ndash;like appearance). The nests are separated by thin, vessel-rich septa. Most tumours have few mitoses.</p>\r\n<p>The second pattern, epithelioid and plump spindle cells in diffuse growth, consists of sheets of voluminous cells and spindle cells with moderate atypia and pale cytoplasm. Mitotic activity as well as intranuclear inclusions are uncommon or lacking. Multinucleated giant cells, lipomatous foci, and inconspicuous thick-walled vessels may be present in both morphological patterns {20410812; 21263237; 32574890}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>EAMLs express melanocytic markers (HMB45, melan-A, and MITF), cathepsin&nbsp;K, CD68 (as recognized by PGM1), and (variably) smooth muscle markers {9630173; 9500218; 11145253; 21874011; 9331283; 2905259}. The most common challenging differential diagnoses are clear cell renal cell carcinoma and urothelial carcinoma with extensive sarcomatoid differentiation. Immunolabelling for cathepsin&nbsp;K, HMB45, and melan-A is helpful. This immunophenotype overlaps with <em>TFE3</em>-rearranged or <em>TFEB</em>-altered renal cell carcinoma, but PAX8 and CD68 (PGM1) are reliable tools for distinguishing between them {2905259}. Parvalbumin is negative, unlike in other perivascular epithelioid cell&ndash;related tumours {32524185}.</p>",
+        "timestamp": "2022-04-12T14:56:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 69294,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 550,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 69295,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 551,
+        "headingText": "\r\n<p>Rarely, <em>TFE3</em> gene rearrangement has been described in EAMLs (the partner gene is usually <em>SFPQ</em> [<em>PSF</em>]) {20871214; 23224603; 26975036}. However, most EAMLs with TFE3 immunopositivity do not show <em>TFE3</em> rearrangement {20871214}.</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 69296,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> a carcinoma-like appearance and/or epithelioid and plump spindle cells in a diffuse growth pattern showing positivity for melanocytic markers and cathepsin&nbsp;K; &ge;&nbsp;80% of the tumour cells should be epithelioid cells.</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 69297,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 552,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 69298,
+        "bookId": 36,
+        "chapterId": 33,
+        "headingId": 553,
+        "headingText": "\r\n<p>EAML can be malignant {18547741; 20410812; 21263237; 23599151}. However, the differences in aggressiveness reported in the literature (ranging from 5% to 66%, including local recurrence and metastasis) may be related to case selection in the studies.</p>\r\n<p>Two studies have stratified EAMLs on a pathological or clinicopathological basis and suggested the criteria for malignancy.</p>\r\n<p>The presence of &ge;&nbsp;70% atypical epithelioid cells, &ge;&nbsp;1&nbsp;mitosis/mm<sup>2</sup> (&ge;&nbsp;2&nbsp;mitoses/10&nbsp;HPF of 0.2&nbsp;mm<sup>2</sup>), atypical mitotic figures, and necrosis has been correlated with prognosis in a series of 40&nbsp;atypical angiomyolipomas characterized by an epithelioid component making up 5&ndash;90% of the tumour {20410812}.</p>\r\n<p>The presence of tuberous sclerosis and/or concurrent angiomyolipoma, tumour size &gt;&nbsp;70&nbsp;mm, a carcinoma-like pattern, invasion of the perinephric fat and/or renal vein, and necrosis were found to be associated with disease progression, recurrence, metastasis, or death due to disease in a series of 41&nbsp;cases of EAML characterized by an epithelioid component of &gt;&nbsp;95%. A prognostic parameter&ndash;based risk stratification model divides tumours into three categories: low risk (0&ndash;1&nbsp;parameter), intermediate risk (2&ndash;3&nbsp;parameters), and high risk (&ge;&nbsp;4&nbsp;parameters) {21263237}. Risk of disease progression among these groups was 15%, 64%, and 100%, respectively; for patients with &ge;&nbsp;3 adverse parameters, 80% had disease progression {21263237}.</p>",
+        "timestamp": "2022-02-10T16:55:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 67170,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 432,
+        "headingText": "\r\n<p>Lymphomatoid granulomatosis is characterized by an angiocentric/angiodestructive polymorphous lymphoid infiltrate composed of EBV-positive B&nbsp;cells admixed with a large number of reactive T&nbsp;cells.</p>\r\n",
+        "timestamp": "2020-11-11T11:39:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 67171,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 433,
+        "headingText": "\r\n<p>9766/1 Lymphomatoid granulomatosis, NOS</p>\r\n",
+        "timestamp": "2020-11-11T11:39:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 67172,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 434,
+        "headingText": "\r\n<p>2A81.3 Lymphomatoid granulomatosis</p>\r\n",
+        "timestamp": "2020-11-11T11:39:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 67173,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Not recommended:</em> angiocentric immunoproliferative lesion (obsolete).</p>\r\n",
+        "timestamp": "2020-11-11T11:39:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 67174,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 436,
+        "headingText": "<p>None</p>",
+        "timestamp": "2021-01-07T18:14:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 67175,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 437,
+        "headingText": "<p>Lymphomatoid granulomatosis involves the lung in all cases. Other sites include CNS (40%), skin (34%), kidney (19%), liver (17%), and other organs (e.g. adrenal gland) {25321327; 27521314; 21107080}. Lymph node and/or bone marrow involvement is rare {3785978}.</p>",
+        "timestamp": "2021-02-18T17:28:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 67176,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 438,
+        "headingText": "<p>Presenting symptoms are variable (i.e. cough, dyspnoea, and/or chest pain) and may be accompanied by constitutional symptoms. Only one&nbsp;third to two&nbsp;thirds of patients present with overt respiratory symptoms; the rest are identified incidentally by imaging. Other symptoms are related to the site of involvement, such as CNS or skin {32107539}.</p>\r\n<h5>Imaging</h5>\r\n<p>Pulmonary imaging reveals multifocal bilateral nodules or masses, with predilection for the mid-lung to lower-lung fields; occasionally, there is only a solitary lung nodule {25321327; 27521314; 21107080}. Some lesions show evidence of necrosis with central cavitation. In rare instances, more infiltrative interstitial patterns and ground-glass opacities, mimicking interstitial lung disease, are seen {32107539}.</p>",
+        "timestamp": "2021-01-26T12:13:50"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 67177,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 439,
+        "headingText": "<p>The disease appears to be more common in North American than in Asian populations {21107080; 32107539}. The incidence also appears to be higher in patients with immunodeficiencies {28293550; 9578085}, but because the disease is rare, reliable data are not available. The median age is in the fourth to sixth decade of life, with 2:1 male predominance.</p>",
+        "timestamp": "2021-01-04T09:56:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 67178,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 440,
+        "headingText": "\r\n<p>Lymphomatoid granulomatosis is an EBV-associated B-cell lymphoproliferative disorder with a prominent T-cell infiltrate. Diminished immunity is thought to be an important factor in the development of lymphomatoid granulomatosis.</p>\r\n",
+        "timestamp": "2020-11-11T11:39:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 67179,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 441,
+        "headingText": "\r\n<p>Current hypotheses include defective immune surveillance of EBV and abnormal immune response to EBV, given that previously healthy subjects with lymphomatoid granulomatosis have shown various defects in cell-mediated and/or humoral immunity {6978760; 8639820; 9354680}. However, if the disease arises in a solid organ transplant recipient, it should be classified as a posttransplant lymphoproliferative disorder.</p>\r\n",
+        "timestamp": "2020-11-11T11:39:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 67180,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 448,
+        "headingText": "\r\n<p>The lung shows single or multiple nodules of variable sizes, with or without central necrosis. The nodules are often multiple and bilateral in distribution.</p>\r\n",
+        "timestamp": "2020-11-11T11:39:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 67181,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 442,
+        "headingText": "<p>Lymphomatoid granulomatosis is characterized by nodules containing a polymorphous lymphoid infiltrate with an angiocentric distribution. The majority of the cells are small T&nbsp;cells admixed with a variable number of histiocytes, plasma cells, and immunoblasts. Central necrosis is often (although variably) present. The EBV-positive cells vary in size and may show cytological atypia. They may have an appearance of immunoblasts but can rarely resemble Reed&ndash;Sternberg cells with multinucleated forms. Despite the name of the lesion, well-formed granulomas are absent. The inflammatory infiltrate affecting the vessels is rich in T&nbsp;cells.</p>\r\n<p>Lymphomatoid granulomatosis is graded by comparing the proportion of EBV-positive B&nbsp;cells and their degree of cytological atypia to the background population of reactive T&nbsp;cells. Three grades are recognized, offering guidance to therapy, notwithstanding issues with reproducibility of the grading system. Grade&nbsp;1 lesions are composed of a polymorphous lymphoid infiltrate without significant atypia; necrosis may be absent or focal. Large EBV-positive lymphoid cells are rare. In grade&nbsp;2 lesions, large EBV-positive cells are typically present (40&ndash;400/mm<sup>2</sup>; 5&ndash;50/HPF of 0.12&nbsp;mm<sup>2</sup>); necrosis is more common. Grade&nbsp;3 lesions are characterized by a greater number of EBV-positive cells (&gt;&nbsp;400/mm<sup>2</sup>; &gt;&nbsp;50/HPF of 0.12&nbsp;mm<sup>2</sup>); necrosis is common and often extensive {25321327}. The large atypical cells may occur in clusters. However, if there is a uniform population of large atypical cells beyond the acceptable morphological spectrum of lymphomatoid granulomatosis, a diagnosis of EBV-positive large B-cell lymphoma is more appropriate.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>The large atypical cells are positive for CD20 and EBV by in&nbsp;situ hybridization using EBV-encoded small RNA (EBER) probes. A subset of these positive cells may also stain for EBV LMP1. The cells may be variably positive for CD30 and are negative for CD15. Staining for kappa and lambda light chains is of limited utility, although rare cases may show light chain restriction in the plasma cells. The majority of lymphoid cells in the background are CD3+ T&nbsp;cells, with CD4+ cells outnumbering CD8+ cells {25321327}.</p>",
+        "timestamp": "2021-01-04T09:56:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 67182,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 443,
+        "headingText": "<p >Tissue biopsy is required for definitive diagnosis.</p>",
+        "timestamp": "2021-02-26T12:21:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 67183,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 444,
+        "headingText": "\r\n<p>Clonal IG gene rearrangements may be identified in most grade&nbsp;2 and grade&nbsp;3 lesions. Different clonal rearrangements may be identified in different lesions or from different sites of involvement. B-cell clonality may not be detected in grade&nbsp;1 lesions, most likely due to the paucity of EBV-positive cells. Clonal TR gene rearrangements are usually not present, although restricted patterns may be observed {9737242; 25321327}.</p>\r\n",
+        "timestamp": "2020-11-11T11:39:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 67184,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Polymorphous lymphoid infiltrate with striking angiocentricity</li>\r\n<li>Transmural involvement of small to medium-sized arteries by small T&nbsp;lymphocytes</li>\r\n<li>Presence of variable numbers of large B&nbsp;cells positive for EBV by in&nbsp;situ hybridization</li>\r\n</ul>",
+        "timestamp": "2021-01-04T10:35:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 67185,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 445,
+        "headingText": "\r\n<p>No staging system applies.</p>\r\n",
+        "timestamp": "2020-11-11T11:39:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 67186,
+        "bookId": 35,
+        "chapterId": 104,
+        "headingId": 446,
+        "headingText": "\r\n<p>The prognosis of lymphomatoid granulomatosis is variable. As many as 63% of patients die, with a median overall survival of 14&nbsp;months. However, as many as 30% undergo spontaneous remission without treatment. Cause of death is related to extensive lung involvement or destruction of other involved organs {32107539}.</p>",
+        "timestamp": "2020-11-11T11:39:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

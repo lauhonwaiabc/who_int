@@ -1,0 +1,362 @@
+[
+  {
+    "pkheadingid": 925,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1014,
+    "contributions": [
+      {
+        "pkcontributionId": 136035,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1014,
+        "headingText": "\r\n<p>Tubular carcinoma (TC) is a low-grade invasive carcinoma composed of &gt;&nbsp;90% well-formed tubules with open lumina lined by a single layer of neoplastic cells.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 926,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1015,
+    "contributions": [
+      {
+        "pkcontributionId": 136036,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1015,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-03-20T10:15:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 927,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1016,
+    "contributions": [
+      {
+        "pkcontributionId": 136037,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1016,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 928,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1017,
+    "contributions": [
+      {
+        "pkcontributionId": 136038,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1017,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 929,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1018,
+    "contributions": [
+      {
+        "pkcontributionId": 136039,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1018,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 930,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1019,
+    "contributions": [
+      {
+        "pkcontributionId": 136040,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1019,
+        "headingText": "\r\n<p>There are no specific features.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 931,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1020,
+    "contributions": [
+      {
+        "pkcontributionId": 136041,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1020,
+        "headingText": "\r\n<p>There are no specific clinical features distinguishing TCs from other types of breast cancer. Nonetheless, TCs are more likely to occur in older patients and tend to be small {17035397;19917872;33075683;22039080}. Most TCs are detected incidentally by mammographic screening {19917872}. On mammography, TC most commonly appears as a small, irregular, spiculated lesion; microcalcifications are variably present {16987629;17420627;16896563}. TCs may be mammographically occult and digital breast tomosynthesis may improve detection {34918991}. On ultrasonography, TC usually appears as a hypoechoic mass with poorly defined margins and posterior acoustic shadowing {16987629;17420627;16896563}. On MRI, TCs have been reported as hyperintense, with or without a dark internal septation-like appearance on T2-weighted images {29322118}. Approximately 10&ndash;20% of TCs are reported to be multifocal {9199642;9930775}.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 932,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1021,
+    "contributions": [
+      {
+        "pkcontributionId": 136042,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1021,
+        "headingText": "\r\n<p>TC accounts for about 1.6% of invasive breast carcinomas (IBCs) {17035397;32794061} but the incidence is higher in mammographically screened populations {19917872;16175185}. It is a disease of postmenopausal women (67%) {19917872}, with a median patient age of 55&nbsp;years at presentation (range: 34&ndash;78&nbsp;years) {19917872;33996576}.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 933,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1022,
+    "contributions": [
+      {
+        "pkcontributionId": 136043,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1022,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/chaptercontent/84/39\" target=\"_blank\">section </a><em>Epithelial tumours of the breast: Part 2: Introduction</em>.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 934,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1023,
+    "contributions": [
+      {
+        "pkcontributionId": 136044,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1023,
+        "headingText": "\r\n<p>Gene expression profiling studies have demonstrated that TC belongs to the luminal&nbsp;A molecular class of breast cancer {18720457}, which provides a biological basis for the excellent clinical outcome. TCs typically show strong diffuse expression of both ER and PR, while ERBB2 (HER2) immunohistochemistry is either negative or equivocal and <em>ERBB2</em> is not amplified {16753605;28032917}. They also have a low frequency of genomic alterations. Loss of heterozygosity and comparative genomic hybridization techniques have demonstrated that the most frequent alterations detected in TC affect 16q (loss; 78&ndash;86%) and 1q (gain; 50&ndash;62%), and these usually occur concurrently. Other alterations include 16p gain, as well as loss of 8p, 3p (the <em>FHIT</em> gene locus), and 11q (the <em>ATM</em> gene locus) {19675453;18656243;11230710}. Although these chromosomal alterations are common among other low-grade breast cancers (i.e. low-grade IBC of no special type [NST] and invasive lobular carcinoma), small yet important differences have been detected at the transcriptome level {20593406}.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 941,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1030,
+    "contributions": [
+      {
+        "pkcontributionId": 136045,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1030,
+        "headingText": "\r\n<p>TCs are characteristically poorly defined spiculated tumours with abundant sclerotic stroma, firm to hard in consistency, and pale grey in colour. Most TCs are small, with a mean size of 12&nbsp;mm {17035397}; two&nbsp;thirds measure &lt;&nbsp;10&nbsp;mm {34173285;33996576} and approximately 4% are &gt;&nbsp;20&nbsp;mm {19917872;33075683;22039080}.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 935,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1024,
+    "contributions": [
+      {
+        "pkcontributionId": 136046,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1024,
+        "headingText": "\r\n<p>At low magnification, TC is stellate and invades the adjacent normal breast parenchyma. TC is composed of small, round to ovoid or angular glands/tubules with a single layer of neoplastic cells lining open lumina. Tubular structures are embedded within a fibrous or fibroelastotic desmoplastic stroma. The cuboidal to columnar cells lining the neoplastic tubules have relatively uniform nuclei of small or intermediate size. Apical cytoplasmic snouts may be seen on the luminal aspect of the tubules, and secretions or calcifications may be present in the lumina. TCs are by definition grade&nbsp;1 carcinomas; if Nottingham grading suggests otherwise, the diagnosis of TC is precluded. Substantial cytological atypia, multilayering, or high mitotic activity excludes the diagnosis of TC.</p>\r\n<p>The tubules in TC have no surrounding myoepithelium, and this is one of the useful features differentiating them from benign lesions such as sclerosing adenosis and radial scar. In these benign conditions, the tubular structures are surrounded by myoepithelium, which can be readily demonstrated by immunohistochemistry for myoepithelial markers such as p63, SMMHC, and high-molecular-weight cytokeratins. TC also needs to be distinguished from microglandular adenosis. TC is ER-positive and S100-negative, while microglandular adenosis is ER-negative and S100-positive. Another lesion to be differentiated from TC is low-grade adenosquamous carcinoma, belonging to the metaplastic carcinoma category. Unlike TC, tubular formations of adenosquamous carcinoma usually have more than one cell layer. Also, its cells are rather flat, lacking apical cytoplasmic snouts. Squamous differentiation is virtually never seen in TC.</p>\r\n<p>TC may be accompanied by precursor lesions; most TCs have associated columnar cell lesions, in particular flat epithelial atypia, atypical ductal hyperplasia&nbsp;/ low-grade ductal carcinoma in situ, or lobular neoplasia. In most cases, these precursor lesions show similar cytonuclear morphology and share similar molecular features with TC {17325484}. This suggests that TC might be the result of a multistep process originating from flat epithelial atypia {18223478}.</p>\r\n<p>TC is diffusely and strongly ER-positive, usually PR-positive, and HER2-negative {19917872}. A diagnosis of TC should be excluded if a tumour is ER-negative and/or unequivocally HER2-positive {29846104}. The cells of TC have a luminal phenotype (CK8/18-positive, CK5/14-negative) and a low Ki-67 proliferation index (typically &lt;&nbsp;10%). They are positive for E-cadherin and negative for p63 and p40, and p53 shows a wildtype expression pattern. Expression of high-molecular-weight cytokeratins and/or ER negativity (especially in small diagnostic biopsies) should raise the possibility of a basal-phenotype carcinoma with tubule formation, such as low-grade adenoid cystic carcinoma or low-grade adenosquamous carcinoma.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 936,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1025,
+    "contributions": [
+      {
+        "pkcontributionId": 136047,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1025,
+        "headingText": "\r\n<p>TC yields variable cellularity, cohesive mildly crowded angulated tubular tissue fragments, and relatively bland and uniform epithelial cells lacking myoepithelial cells and with no bare bipolar nuclei in the background. Nuclear atypia is low to intermediate, cellular dissociation with single cells is only focal, and small irregular tissue fragments may also be present making the diagnosis of malignancy challenging {8173027;7992574}. The specific diagnosis of TC in contradistinction to a grade&nbsp;1 IBC-NST cannot be made on FNA, as it is a sampling technique, and the criteria for TC are based on assessment of the entire lesion. The same applies to core needle biopsy but this has greater sensitivity and higher specificity for the diagnosis {17924407}.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 937,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1026,
+    "contributions": [
+      {
+        "pkcontributionId": 136048,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1026,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 940,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1029,
+    "contributions": [
+      {
+        "pkcontributionId": 136049,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1029,
+        "headingText": "\r\n<p><em>Essential:</em> ovoid or angular tubules with open lumina, lined by a single layer of epithelial cells with small uniform nuclei and low mitotic activity (grade&nbsp;1) &gt;&nbsp;90%.</p>\r\n<p><em>Desirable:</em> ER-positive and HER2-negative.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:43"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 938,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1027,
+    "contributions": [
+      {
+        "pkcontributionId": 136050,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1027,
+        "headingText": "\r\n<p>TCs are staged similarly to other types of IBC (see <a style=\"cursor:pointer\" href=\"/chaptercontent/84/39\" target=\"_blank\">section </a><em>Epithelial tumours of the breast: Part 2: Introduction</em>).</p>\r\n",
+        "timestamp": "2026-03-20T10:15:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 939,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1028,
+    "contributions": [
+      {
+        "pkcontributionId": 136051,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1028,
+        "headingText": "\r\n<p>Most TCs present at a relatively early stage. Approximately 96% are T1 tumours and 91&ndash;95% are N0 at presentation {19917872;22039080;33075683;33996576}.</p>\r\n<p>A recent retrospective analysis based on the SEER database (1994&ndash;2014) demonstrated that TC has an excellent prognosis with a 5-year overall survival rate of 94.4% and a 5-year breast cancer&ndash;specific survival rate of 99.4% {33075683}. The use of systemic chemotherapy did not improve survival in hormone receptor&ndash;positive, node-negative patients {33075683}. This confirms results of other cancer registry&ndash;based studies {17330844;14557212;32794061} as well as many retrospective cohort studies {18789411;17826073;29413404;20853056;19917872;19386432;33022133;33996576} that reported a superior prognosis in patients with TC with no recurrences (nodal or distant) observed after 10&nbsp;years {33996576}. The sentinel node positivity rate in patients with TC is not significantly different from that in those with ductal carcinoma in situ {38962534}. It has been shown that the prognosis of TC is better than that of grade&nbsp;1 IBC-NST {19917872;33996576} and that patient long-term outcome is similar to that of age-matched women without breast cancer {17330844}. Recurrence after complete excision is rare {33996576}. Given the consistently observed excellent prognosis, it has been suggested that adjuvant chemotherapy or axillary lymph node sampling {19917872;11348409;11412259;20853056;34173285;33075683;33996576} may not be necessary for the management of TC.</p>",
+        "timestamp": "2026-03-20T10:15:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 965,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Acknowledgement",
+    "headingPosition": 18,
+    "headingid": 1343,
+    "contributions": [
+      {
+        "pkcontributionId": 136052,
+        "bookId": 84,
+        "chapterId": 80,
+        "headingId": 1343,
+        "headingText": "<font color=\"red\">Updated from previous edition, citations in progress</font>",
+        "timestamp": "2026-03-20T11:14:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

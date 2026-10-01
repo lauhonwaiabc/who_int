@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 116841,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 576,
+        "headingText": "<p>Von&nbsp;Hippel&ndash;Lindau syndrome (VHL) is an autosomal dominant tumour syndrome caused by inactivating mutations in the <em>VHL</em> gene and characterized by the development of haemangioblastoma of the CNS and retina, clear cell renal cell carcinoma (RCC), phaeochromocytoma, pancreatic neuroendocrine tumours (PanNETs), and endolymphatic sac tumours (ELSTs).</p>",
+        "timestamp": "2023-11-21T21:37:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 116842,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 577,
+        "headingText": "\r\n<h5>MIM numbering</h5>\r\n<p>193300 Von Hippel&ndash;Lindau syndrome; VHLS</p>\r\n",
+        "timestamp": "2023-10-02T15:43:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 116843,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 578,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T15:43:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 116844,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> von&nbsp;Hippel&ndash;Lindau disease.</p>\r\n",
+        "timestamp": "2023-10-02T15:43:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 116845,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 580,
+        "headingText": "\r\n<p>VHL types&nbsp;1, 2A, 2B, and&nbsp;2C</p>\r\n",
+        "timestamp": "2023-10-02T15:43:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 116846,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 581,
+        "headingText": "<p><em>Ears:</em> Data from the International Endolymphatic Sac Tumor Registry {25867206} show a 3.6% prevalence of ELSTs in VHL. <em>VHL</em> constitutional pathogenic sequence variants were identified in 39% of apparently sporadic ELSTs, showing that ELSTs are the initial presentation of VHL in 32% of patients. These findings support genetic testing in all patients with ELSTs {20351605; 20495761; 21451430; 25650230; 25867206}, and all patients with VHL should be radiographically screened for ELSTs {15035284; 15190140; 23070752}. ELSTs are bilateral in 30% of VHL cases {9145719; 5867206}.</p>\r\n<p><em>CNS:</em> CNS haemangioblastomas (in 80% of patients) occur in the cerebellum, spinal cord, and brainstem, but also rarely in the supratentorial brain {23400300; 12546356}.</p>\r\n<p><em>Eyes:</em> Ocular manifestations are expected in roughly half of all patients with VHL. Retinal capillary haemangioblastomas (85%) are the most commonly observed tumours in VHL and are often the initial manifestation of the disease {17057815; 28972023; 31588386}. They are often multiple and are bilateral in about 50% of cases {33720516}.</p>\r\n<p><em>Kidneys:</em> Kidney cysts (&gt;&nbsp;70%) and RCCs (40%) are usually multiple and bilateral {8929948; 2274658}.</p>\r\n<p><em>Adrenal/paraganglia:</em> Adrenal phaeochromocytomas (30%) and/or extra-adrenal paragangliomas (rare) may occur {10458336}.</p>\r\n<p><em>Pancreas:</em> Cysts and serous cystadenomas are the most commonly observed pancreatic tumours in VHL; pancreatic neuroendocrine tumours (PanNETs) are rare {11040195; 19238077; 22659535; 9665483}.</p>\r\n<p><em>Digestive system:</em> Duodenum, ampulla, and gall bladder&nbsp;/ cystic duct neuroendocrine tumours (NETs) develop in a minority {23913169; 11688471; 2379881}.</p>\r\n<p><em>Reproductive organs:</em> Epididymal papillary cystadenomas (in 60% of male patients) are often bilateral {20367315}; they occur rarely in the broad ligament and mesosalpinx in women {22317868; 20157715}.</p>\r\n<p><em>Other:</em> Occasionally, haemangioblastomas develop in peripheral nerves {15350042; 22133049} or extraneural tissues {22544391; 24145646; 17895756; 1898683}.</p>",
+        "timestamp": "2023-11-24T12:01:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 116847,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 582,
+        "headingText": "<p >Clinical presentations include neurological, obstructive, and hormone excess conditions. Hearing loss results from ELSTs. Neurological manifestations often begin with decreased visual acuity {31095066}. Cerebellar ataxia and spinal cord compression result from haemangioblastomas. Obstructive features include outflow interruptions along the pancreaticobiliary or (more commonly) the genitourinary tracts from expanding cysts or RCCs. Hormone excess symptoms are caused by phaeochromocytoma/paraganglioma or PanNETs {32606780; 31368132; 17122523}.</p>",
+        "timestamp": "2023-11-21T21:39:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 116848,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 583,
+        "headingText": "<p>VHL has an incidence of 1&nbsp;in 36&nbsp;000&nbsp;births. Data from the International Endolymphatic Sac Tumor Registry {25867206} show a 3.6% prevalence of ELSTs in VHL. <em>VHL</em> constitutional pathogenic sequence variants were identified in 39% of apparently sporadic ELSTs, showing that ELSTs are the initial presentation of VHL in 32% of patients. These findings support genetic testing in all patients with ELSTs {20351605; 20495761; 21451430; 25650230; 25867206}, and all patients with VHL should be radiographically screened for ELSTs {15035284; 15190140; 23070752}. There is a wide age range at presentation (10&ndash;88&nbsp;years), but the majority of patients present between 30 and 40 years, although patients may present younger with VHL {30291511}. The M:F&nbsp;ratio is 1:1.6 {2804921; 15035284; 15190140; 23070752; 30291511}.</p>",
+        "timestamp": "2023-11-21T21:39:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 116849,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 584,
+        "headingText": "<p>VHL is caused by constitutional pathogenic sequence variants in the tumour suppressor gene <em>VHL</em> that inactivate VHL protein. Constitutional pathogenic sequence variants of <em>VHL</em> are usually detected in the patients with ELST. Somatic and germline mutation analysis of ELSTs has been performed, with many <em>VHL</em> mutations and allelic deletions identified {9214679; 10932304; 11085513; 15796386; 16322231; 20351605; 20495761; 20850701}.</p>",
+        "timestamp": "2023-11-21T21:39:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 116850,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 585,
+        "headingText": "\r\n<p>Type&nbsp;1 VHL is associated with large deletion or truncation mutations of <em>VHL</em> that generally yield a protein with very little or no biological activity. Type&nbsp;2 VHL is usually due to missense mutations that result in a protein with limited activity. Somatic second hits of the wildtype allele inactivate VHL protein in various tissues.</p>\r\n",
+        "timestamp": "2023-10-02T15:43:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 116851,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 592,
+        "headingText": "\r\n<p>The unique features of all VHL-associated lesions are their multiplicity, bilaterality, and striking bright yellow appearance attributable to lipid accumulation {17877533; 27247714; 3592062}.</p>\r\n",
+        "timestamp": "2023-10-02T15:43:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 116852,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 586,
+        "headingText": "<p >Ear ELSTs are papillary and/or cystic, commonly with bone remodelling. A single layer of low cuboidal to columnar cells is arranged in simple, coarse, broad interdigitating papillary projections with fibrovascular cores, showing limited branching, found within cystic spaces. Cystic spaces contain serum, secretions, and/or erythrocytes. Fibrosis may be present. The acinar spaces are filled with inspissated material similar to thyroid colloid. The cytoplasm is ample, clear, and vacuolated with indistinct cell membranes. The nuclei are uniformly small, round, and hyperchromatic, with coarse nuclear chromatin and small nucleoli {2804921; 7936748; 9145719; 16778477; 18423895; 20614260; 21167761; 30291511}. Pleomorphism, increased mitotic figures, and necrosis are inconspicuous.</p>\r\n<p >Immunohistochemically, the neoplastic cells are positive for pancytokeratin, CK7, HIF1&alpha;, EMA, GLUT1, CAIX (membranous), and PAX8 (nuclear), with limited S100, GFAP, and vimentin; they are negative for thyroid transcription factor&nbsp;1 (TTF1), thyroglobulin, PSA, CD10, AMACR (P504S), p63, synaptophysin, GATA3, and RCCm {7630290; 7936748; 9023246; 11455007; 15035285; 16778477; 18423895; 30291511}.</p>\r\n<p >Haemangioblastomas are circumscribed, often associated with a pseudocyst, and composed of variable proliferations of neoplastic stromal cells and abundant reactive vascular cells {23400300; 9158701}. There are two morphological patterns. Cellular (epithelioid) haemangioblastomas have prominent, larger, epithelioid stromal cells with clear cytoplasm that may be clustered in groups. The more common, and usually smaller, vascular-rich, reticular (mesenchymal) haemangioblastomas have abundant vascularity and few scattered stromal cells {16281910; 16949923}.</p>\r\n<p >Paragangliomas in patients with VHL may have a thick fibrous or vascular capsule and a myxoid, oedematous, or hyalinized stroma. The tumour cells have clear vacuolated cytoplasm {3592062; 12114747} and lack hyaline globules {12114747}. CAIX is usually positive with a membranous staining pattern. They can also express &alpha;-inhibin {23257898; 31383958}.</p>\r\n<p >Renal pathology ranges from benign cysts to multifocal, bilateral clear cell RCCs {31332543}; clear cell papillary-like RCC has also been reported {31332543; 26559379}.</p>\r\n<p >The pancreas in VHL exhibits multiple pancreatic cysts, pancreatic cystadenomas, NETs, and islet abnormalities {15299200; 28697137}. Distinctive features of NETs include nuclear atypia, clear cell change, oncocytic cytology, and hypervascularity {15299200}, and they may be cystic {28697137}. Precursor lesions resembling multiple endocrine neoplasia type&nbsp;1 include islet dysplasia, microtumours, and peliosis {15299200}. PanNETs also express inhibin {23913169}.</p>\r\n<p >NETs of the duodenum, ampulla, cystic duct, and gallbladder resemble sporadic tumours but also express inhibin {23913169; 11688471}.</p>\r\n<p >Papillary cystadenomas of the epididymis are associated with multifocal epithelial tumourlets {16841375}. The cyst lining has intracystic papillary projections with fibrovascular cores and bland epithelial cells with glycogen-rich clear cytoplasm showing reverse polarity {33673939; 20367315; 24441657}. The tumour cells are positive for CAIX {33673939; 24441657}.</p>\r\n<p >Papillary cystadenoma of the mesosalpinx and broad ligament in female patients resembles papillary cystadenoma of the epididymis in male patients. They are more indolent than sporadic cases {22296276}.</p>",
+        "timestamp": "2024-01-19T17:30:22"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 116853,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 587,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2023-10-02T15:43:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 116854,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 588,
+        "headingText": "<p>Constitutional pathogenic sequence variants in <em>VHL</em></p>",
+        "timestamp": "2023-11-21T21:40:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 116855,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em> documented pathogenic variant of the <em>VHL</em> gene and manifestation of any associated neoplasm(s).</p>\r\n<p><em>Desirable:</em> haemangioblastomas of the retina and/or CNS and any other associated neoplasm in the absence of a pathogenic sequence variant in <em>VHL</em>.</p>",
+        "timestamp": "2023-11-21T21:40:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 116856,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 589,
+        "headingText": "<p >There is no uniformly accepted syndrome-specific staging system for VHL. For the malignant neoplasms associated with this syndrome, staging generally follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system. It is recognized, however, that neoplastic components of this syndrome may not be sufficiently separated from a prognostic standpoint. Such limitations have prompted some groups to offer modifications that may address this inherent weakness {30306741}.</p>",
+        "timestamp": "2023-11-21T21:41:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 116857,
+        "bookId": 52,
+        "chapterId": 319,
+        "headingId": 590,
+        "headingText": "\r\n<p>The prognosis for patients with VHL depends on the lesion(s) that develop in each individual patient and kindred. Outcome is improved by screening that allows earlier detection of malignancies. Guidelines for clinical surveillance have been published {24355456; 28620007}.</p>",
+        "timestamp": "2023-10-02T15:43:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

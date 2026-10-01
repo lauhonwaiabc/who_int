@@ -1,0 +1,45 @@
+[
+  {
+    "pkroleId": 81,
+    "bookId": "34",
+    "roleid": 37,
+    "roleTitle": "Responsible Editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2388,
+        "lastname": "Kim",
+        "firstname": "Kyu-Rae",
+        "initials": "",
+        "email": "",
+        "roleid": 37,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 83,
+    "bookId": "34",
+    "roleid": 39,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2759,
+        "lastname": "Ganesan",
+        "firstname": "Raji",
+        "initials": "",
+        "email": "",
+        "roleid": 39,
+        "position": 0
+      },
+      {
+        "contributorid": 2811,
+        "lastname": "Khunamornpong",
+        "firstname": "Surapan",
+        "initials": "",
+        "email": "",
+        "roleid": 39,
+        "position": 0
+      }
+    ]
+  }
+]

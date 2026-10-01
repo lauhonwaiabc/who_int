@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 518,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 497,
+    "contributions": [
+      {
+        "pkcontributionId": 72089,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 497,
+        "headingText": "<p>Diffuse glioneuronal tumour with oligodendroglioma-like features and nuclear clusters (DGONC) is a provisional tumour type proposed as a neuroepithelial tumour characterized by variably differentiated cells frequently showing perinuclear haloes, scattered multinucleated cells, and nuclear clusters, with a distinct DNA methylation profile and frequent monosomy of chromosome&nbsp;14.</p>",
+        "timestamp": "2021-10-20T15:41:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 519,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 498,
+    "contributions": [
+      {
+        "pkcontributionId": 72090,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 498,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 520,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 499,
+    "contributions": [
+      {
+        "pkcontributionId": 72091,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 499,
+        "headingText": "\r\n<p>2A00.21 Mixed neuronal-glial tumours</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 521,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 500,
+    "contributions": [
+      {
+        "pkcontributionId": 72092,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 500,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 522,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 501,
+    "contributions": [
+      {
+        "pkcontributionId": 72093,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 501,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 523,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 502,
+    "contributions": [
+      {
+        "pkcontributionId": 72094,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 502,
+        "headingText": "\r\n<p>All cases reported so far were supratentorial. Of 21&nbsp;cases with data available, 11&nbsp;were located in the temporal lobe, 4&nbsp;in the parieto-occipital region, 5&nbsp;in the frontal lobe, and 1&nbsp;in a lateral ventricle {31867747; 33325069}.</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 524,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 503,
+    "contributions": [
+      {
+        "pkcontributionId": 72095,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 503,
+        "headingText": "\r\n<p>There are currently no known tumour-specific symptoms. Patients present with symptoms characteristic for the tumour location within the brain.</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 525,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 504,
+    "contributions": [
+      {
+        "pkcontributionId": 72096,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 504,
+        "headingText": "\r\n<p>The majority of DGONC cases occur in paediatric patients, with a median age of 9&nbsp;years in the 23&nbsp;cases for which the age of initial diagnosis is known. However, the age range is wide (1&nbsp;patient was aged 75&nbsp;years). There is an equal sex distribution (13&nbsp;male patients and 11&nbsp;female patients reported) {31867747; 33325069}.</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 526,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 505,
+    "contributions": [
+      {
+        "pkcontributionId": 72097,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 505,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 527,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 506,
+    "contributions": [
+      {
+        "pkcontributionId": 72098,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 506,
+        "headingText": "\r\n<p>Monosomy&nbsp;14 is probably a feature underlying the pathogenesis of this entity, having been found in 30&nbsp;of 31&nbsp;molecularly assessed cases. However, no other recurrent alterations on chromosome&nbsp;14 that would result in a double hit of a specific gene have been found {31867747}. Because the morphological and immunohistochemical features of DGONC are similar to those of CNS neuroblastoma, it is possible that DGONC represents a type or subtype of a CNS embryonal tumour. Larger series are needed for a definite classification {33325069}.</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 534,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 513,
+    "contributions": [
+      {
+        "pkcontributionId": 72099,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 513,
+        "headingText": "\r\n<p>Not reported</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 528,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 507,
+    "contributions": [
+      {
+        "pkcontributionId": 72100,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 507,
+        "headingText": "<p>DGONCs were described by Capper et al. in 2018, identified by the detection of a global DNA methylation profile that is distinct from that of all brain tumour entities previously analysed {29539639}. Subsequently, histological features were investigated in a supervised fashion on 13&nbsp;samples of this cluster, for which histology slides were available. The histological characterization in the literature may therefore not cover the entire spectrum {31867747}. Another study reported 4&nbsp;samples from 3&nbsp;additional patients {33325069}.</p>\r\n<p>The tumours show a variation in differentiation and cellularity ranging from moderate to high in some cases. They are composed of small to medium-sized cells with scant cytoplasm, and they commonly show perinuclear haloes like in oligodendroglioma. In addition to small round nuclei, larger irregular nuclei are present, the latter showing marked nuclear pleomorphism in some cases. A characteristic feature is the presence of scattered multinucleated cells (pennies on a plate) and nuclear clusters composed of large pleomorphic nuclei. Mitotic frequency is variable, ranging from single mitotic figures in well-differentiated tumours to brisk mitotic activity in undifferentiated tumours. Microcalcifications and larger confluent calcifications are commonly encountered. The tumours infiltrate diffusely into the brain.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>The tumour cells are diffusely OLIG2-positive in most cases, and GFAP-negative. Synaptophysin reveals a neuropil background. NeuN and MAP2 are expressed in a small proportion of cells {31867747}.</p>",
+        "timestamp": "2021-10-20T15:41:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 529,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 508,
+    "contributions": [
+      {
+        "pkcontributionId": 72101,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 508,
+        "headingText": "\r\n<p>Insufficient data available</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 530,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 509,
+    "contributions": [
+      {
+        "pkcontributionId": 72102,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 509,
+        "headingText": "\r\n<p>DGONCs show a distinct DNA methylation profile. In t-distributed stochastic neighbour embedding (t-SNE) analysis with the reference samples of Capper et al. {29539639}, DGONCs form a distinct cluster close to <em>FOXR2</em>-activated CNS neuroblastoma. Monosomy of chromosome&nbsp;14 has been reported in 30&nbsp;of 31&nbsp;investigated cases. No other specific recurrent alteration is known {31867747; 33325069}.</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 533,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 512,
+    "contributions": [
+      {
+        "pkcontributionId": 72103,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 512,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/45/236/17546\" target=\"_blank\">#17546</a>Box&nbsp;2.22 .</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 531,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 510,
+    "contributions": [
+      {
+        "pkcontributionId": 72104,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 510,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 532,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 511,
+    "contributions": [
+      {
+        "pkcontributionId": 72105,
+        "bookId": 45,
+        "chapterId": 236,
+        "headingId": 511,
+        "headingText": "\r\n<p>Outcome data are available for 26&nbsp;patients. The 5-year progression-free survival rate was 81%, and the 5-year overall survival rate was 89% {31867747; 33325069}. Treatment data are available for 3&nbsp;patients, all of whom received radiochemotherapy {33325069}. The patients&rsquo; initial diagnoses varied widely, from low-grade to high-grade, so some may have received aggressive therapy. It is therefore unclear to what extent treatment may have impacted the reported outcome data.</p>",
+        "timestamp": "2021-09-21T15:02:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 104105,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 466,
+        "headingText": "\r\n<p>ALK-positive anaplastic large cell lymphoma (ALK+ ALCL) is a T-cell peripheral lymphoma consisting of large, pleomorphic, CD30-positive lymphoid cells, characterized by ALK expression.</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 104106,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 467,
+        "headingText": "\r\n<p>9714/3 Anaplastic large cell lymphoma, ALK-positive (ALK+ ALCL)</p>\r\n<p>9714/3 Common ALK+ ALCL</p>\r\n<p>9714/3 Small cell ALK+ ALCL</p>\r\n<p>9714/3 Lymphohistiocytic ALK+ ALCL</p>\r\n<p>9714/3 Hodgkin-like ALK+ ALCL</p>\r\n<p>9714/3 Composite ALK+ ALCL</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 104107,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 468,
+        "headingText": "\r\n<p>2A90.A Anaplastic large cell lymphoma, ALK-positive</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 104108,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 469,
+        "headingText": "\r\n<p><em>Not recommended:</em> Ki-1 lymphoma.</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 104109,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 470,
+        "headingText": "\r\n<p>Common ALK+ ALCL; small cell ALK+ ALCL; lymphohistiocytic ALK+ ALCL; Hodgkin-like ALK+ ALCL; composite ALK+ ALCL</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 104110,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 471,
+        "headingText": "\r\n<p>ALK+ ALCL frequently involves both lymph nodes (peripheral, intra-abdominal, or mediastinal) and extranodal sites (skin, bone, soft tissues, lung, liver) {17957029; 19139435}.</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 104111,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 472,
+        "headingText": "\r\n<p>Patients often present with advanced disease (stage&nbsp;III&ndash;IV) and B&nbsp;symptoms {19139435}. Leukaemic presentation can occur {10192426; 24666317; 16955462}.</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 104112,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 473,
+        "headingText": "\r\n<p>ALK+ ALCL accounts for 15% of all paediatric non-Hodgkin lymphomas {16173961}, with the worldwide annual incidence estimated to be 1.2&nbsp;cases per 1&nbsp;million children {11920547}.</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 104113,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 474,
+        "headingText": "\r\n<p>The <em>ALK</em> gene at chromosome 2p23.2-p23.1 encodes a tyrosine kinase receptor whose expression is restricted to the nervous system {9028963}. Numerous translocations affecting the <em>ALK</em> gene have been described, resulting in oncogenic ALK fusion proteins. <em>NPM1</em>::<em>ALK</em> is the most common fusion (found in 84% of cases), followed by <em>TPM3</em>::<em>ALK</em> (found in 13%) {8122112; 10216106; 31882178}.</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 104114,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 475,
+        "headingText": "\r\n<p>The 3&prime; portion of <em>ALK</em> is placed under the partner gene promoter, allowing constitutive expression of the fusion kinase. All partners provide dimerization domains, leading to ligand-independent constitutive autophosphorylation of the ALK tyrosine kinase domain (TKD). The ALK fusion protein activates the PI3K, MAPK, and JAK/STAT pathways {9819383; 11110708; 17416736; 16909118; 11280786; 16482213; 12934099; 15184887; 15895073}.</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 104115,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 482,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 104116,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 476,
+        "headingText": "\r\n<p>ALK+ ALCLs often grow in a cohesive manner, within sinuses in lymph nodes. All cases contain a variable proportion of characteristic cells (hallmark cells) with abundant cytoplasm, a horseshoe-shaped nucleus, and a perinuclear eosinophilic region {9490693; 9736036}. Several subtypes are recognized, mostly depending on tumour cell size (large in the common subtype, small in the small cell subtype) {9490693; 9736036; 8394652} or the presence of a large number of reactive histiocytes in the background (lymphohistiocytic subtype) {9094977; 9490693; 9736036}. The Hodgkin-like subtype has also been also described {16434897}. Several patterns can coexist in a single lesion (composite subtype) {9490693}.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>Malignant cells are strongly positive for CD30 and often coexpress EMA {3876124; 2827494} and clusterin. They express an ALK fusion protein whose subcellular distribution and staining pattern depend on the ALK partner {9490693; 9736036; 8547653; 11090048; 11781220}. They commonly express cytotoxic molecules (perforin, granzyme&nbsp;B, TIA1) and lack reactivity for B&nbsp;cell&ndash;associated antigens {9490693; 8916967}. Loss of several pan&ndash;T-cell antigens is frequently observed (CD3 and CD5 in &gt;&nbsp;75% of cases) {9490693; 15297316; 22084369; 17535098}. CD56 is present in &lt;&nbsp;20% of ALK+ ALCLs and in some series has been associated with a worse prognosis {11049976}. EBV is characteristically negative {8406393}. The majority show monoclonal rearrangement of TR genes.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>Cohesive growth within the sinuses may mimic melanoma or carcinoma metastasis, but appropriate immunophenotyping will rule out these diagnoses. Although rare cases can express CD15, ALK expression and PAX5 negativity will aid in the differential diagnosis with Hodgkin lymphoma {16434897}. The small cell subtype can be misdiagnosed as peripheral T-cell lymphoma NOS, and ALK staining is essential to avoid this misdiagnosis. The rare ALK+ large B-cell lymphoma has a distinctive morphology and lacks CD30 {9057627}. Non-haematopoietic tumours (e.g. neural tumours {10793082}, rhabdomyosarcoma {22184391}, inflammatory myofibroblastic tumours {10383129; 21164297}, and systemic histiocytosis {18660380}) can express ALK, but they are negative for CD30 {24091028}.</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 104117,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 477,
+        "headingText": "\r\n<p>A dyscohesive population of pleomorphic cells with hallmark features is often admixed with multinucleated giant cells, cells with a large pseudonuclear cytoplasmic inclusion (doughnut cells), and Reed&ndash;Sternberg&ndash;like cells {12589644; 17941004; 19744187}.</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 104118,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 478,
+        "headingText": "<p>Molecular detection of ALK translocation is usually not required for diagnosis, because the immunohistochemical positivity is sufficient. However, it can be useful to determine the precise type of translocation when <em>ALK</em> is rearranged not with <em>NPM1</em> but with a different partner, or in the assessment of minimal residual disease (see <a style=\"cursor:pointer\" href=\"/attachment/44/57/17235\" target=\"_blank\">#17235</a>Table&nbsp;2.12).</p>",
+        "timestamp": "2022-07-13T12:03:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 104119,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> cohesive intrasinusoidal growth pattern; cells with a horseshoe nucleus (hallmark cells); CD30+/ALK+ immunophenotype.</p>\r\n<p><em>Desirable:</em> variable expression of T-cell markers; expression of cytotoxic markers (TIA1, perforin); expression of EMA.</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 104120,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 479,
+        "headingText": "\r\n<p>ALK+ ALCLs are staged using the St.&nbsp;Jude classification {7414342}, which has recently been updated to the new International Pediatric Non-Hodgkin Lymphoma Staging System (IPNHLSS) {25940716; 27133800}.</p>\r\n",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 104121,
+        "bookId": 44,
+        "chapterId": 57,
+        "headingId": 480,
+        "headingText": "\r\n<p>The 5-year overall survival rate varies from 65% to 85%, with event-free survival rates of 65&ndash;75% {11389005; 12060115; 16211546; 17957029; 18985718}. A small cell and/or lymphohistiocytic component indicates a high risk of treatment failure {22084369}. Detection of minimal disseminated disease by <em>NPM1</em>::<em>ALK</em> PCR in bone marrow or peripheral blood at diagnosis or during treatment identifies patients at risk of relapse {22907048; 24297868}.</p>",
+        "timestamp": "2022-07-11T17:22:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

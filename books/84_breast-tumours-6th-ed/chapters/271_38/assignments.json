@@ -1,0 +1,115 @@
+[
+  {
+    "pkroleId": 170,
+    "bookId": "84",
+    "roleid": 264,
+    "roleTitle": "Resp. editor",
+    "contributors": [
+      {
+        "contributorid": 2196,
+        "lastname": "Brogi",
+        "firstname": "Edi ",
+        "initials": "",
+        "email": "",
+        "roleid": 264,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 171,
+    "bookId": "84",
+    "roleid": 282,
+    "roleTitle": "1st Co-editor",
+    "contributors": [
+      {
+        "contributorid": 2197,
+        "lastname": "Ellis",
+        "firstname": "Ian O.",
+        "initials": "",
+        "email": "",
+        "roleid": 282,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 173,
+    "bookId": "84",
+    "roleid": 284,
+    "roleTitle": "Resp. author",
+    "contributors": [
+      {
+        "contributorid": 2198,
+        "lastname": "Fox",
+        "firstname": "Stephen B.",
+        "initials": "",
+        "email": "",
+        "roleid": 284,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 174,
+    "bookId": "84",
+    "roleid": 285,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2204,
+        "lastname": "Schnitt",
+        "firstname": "Stuart",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 2220,
+        "lastname": "Wesseling",
+        "firstname": "Jelle",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 2249,
+        "lastname": "Yamaguchi",
+        "firstname": "Rin",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 2254,
+        "lastname": "Pinder",
+        "firstname": "Sarah",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 5579,
+        "lastname": "Siziopikou",
+        "firstname": "Kalliopi P.",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 5584,
+        "lastname": "Jones",
+        "firstname": "J. Louise",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      }
+    ]
+  }
+]

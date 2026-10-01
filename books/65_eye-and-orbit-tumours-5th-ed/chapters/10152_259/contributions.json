@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 968,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 733,
+    "contributions": [
+      {
+        "pkcontributionId": 139339,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 733,
+        "headingText": "\r\n<p>Neurofibromas are benign peripheral nerve sheath tumours composed of mature neoplastic Schwann cells intermixed with non-neoplastic cell types and extracellular matrix.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 969,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 734,
+    "contributions": [
+      {
+        "pkcontributionId": 139340,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 734,
+        "headingText": "\r\n<p>9540/0 Neurofibroma</p>\r\n<p>9550/0 Plexiform neurofibroma</p>\r\n<p>9540/0 Solitary neurofibroma</p>\r\n<p>9540/0 Diffuse neurofibroma</p>\r\n<p>9541/0 Melanotic neurofibroma</p>\r\n",
+        "timestamp": "2026-03-31T15:07:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 970,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 735,
+    "contributions": [
+      {
+        "pkcontributionId": 139341,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 735,
+        "headingText": "\r\n<p>2F3Z &amp; XH87J5 Benign neoplasms except of mesenchymal origin, of unspecified site &amp; Neurofibroma, NOS</p>\r\n<p>2F24 &amp; XH87J5 Benign cutaneous neoplasms of neural or nerve sheath origin &amp; Neurofibroma, NOS</p>\r\n<p>2F36.0 &amp; XH87J5 Benign neoplasm of choroid &amp; Neurofibroma, NOS</p>\r\n<p>2F36.Y Other specified benign neoplasm of eye or ocular adnexa</p>\r\n",
+        "timestamp": "2026-03-31T15:07:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 971,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 736,
+    "contributions": [
+      {
+        "pkcontributionId": 139342,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 736,
+        "headingText": "\r\n<p><em>Acceptable:</em> orbitofacial neurofibroma.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 972,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 737,
+    "contributions": [
+      {
+        "pkcontributionId": 139343,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 737,
+        "headingText": "\r\n<p>Plexiform neurofibroma; solitary neurofibroma; diffuse neurofibroma; melanotic neurofibroma</p>\r\n",
+        "timestamp": "2026-03-31T15:07:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 973,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 738,
+    "contributions": [
+      {
+        "pkcontributionId": 139344,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 738,
+        "headingText": "\r\n<p>Orbitofacial neurofibroma occurs in the conjunctival stroma, the subcutaneous layer of the eyelid, and the orbit. In the choroid, diffuse/multifocal choroidal involvement is typical, and there is a predilection for the posterior pole {25990002}. Associated involvement of small ciliary nerves is variable.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 974,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 739,
+    "contributions": [
+      {
+        "pkcontributionId": 139345,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 739,
+        "headingText": "\r\n<p>Orbital neurofibroma can manifest as proptosis and optic nerve compression.</p>\r\n<p>Neurofibromas of the conjunctiva may be solitary, diffuse, or extension of a plexiform type {2039037}. Plexiform neurofibromas involving the orbit, eyelid, and facial structures (orbitofacial neurofibromas) occur predominantly in paediatric patients with neurofibromatosis type&nbsp;1 (NF1) and may cause significant visual loss and disfigurement {22709421}. These tumours are often more aggressive and have a unique methylation profile {32366326}.</p>\r\n<p>Recent studies using modern imaging techniques (MRI, indocyanine green angiography, infrared fundus autofluorescence, and optical coherence tomography) suggest that choroidal neurofibroma is common in NF1 and choroidal abnormalities have recently been added as a diagnostic criterion for the disease {25990002;21963267;11041400;34012067}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 975,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 740,
+    "contributions": [
+      {
+        "pkcontributionId": 139346,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 740,
+        "headingText": "\r\n<p>Solitary conjunctival neurofibromas are rare. In one large series of 1643 conjunctival tumours, only one neurofibroma was found {15350332}. Plexiform neurofibromas of the eyelid and orbit, which are typically associated with NF1 (MIM number 162200), may extend to involve the conjunctiva {6429597}.</p>\r\n<p>In patients with NF1, choroidal lesions (which include neurofibromas) develop in paediatric patients and appear to increase in frequency with age.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 976,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 741,
+    "contributions": [
+      {
+        "pkcontributionId": 139347,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 741,
+        "headingText": "\r\n<p>Conjunctival, eyelid, choroidal, and orbital neurofibromas may arise owing to underlying NF1, but most are sporadic {28436162}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 977,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 742,
+    "contributions": [
+      {
+        "pkcontributionId": 139348,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 742,
+        "headingText": "\r\n<p>Plexiform neurofibromas occur mainly in the context of NF1, in association with inactivation and allelic loss in Schwann cells of both copies of the <em>NF1 </em>gene at chromosome&nbsp;17q {7550323}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 984,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 749,
+    "contributions": [
+      {
+        "pkcontributionId": 139349,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 749,
+        "headingText": "\r\n<p>Five macroscopic forms are distinguished: localized/nodular cutaneous, diffuse cutaneous, localized/nodular intraneural, plexiform intraneural, and massive diffuse soft tissue neurofibroma. Localized cutaneous neurofibromas can have a variety of gross appearances, including flat, sessile, globular, and pedunculated, whereas plexiform tumours involve multiple fascicles imparting a rope-like or bag-of-worms appearance; diffuse neurofibromas typically form large plaques {29987130}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 978,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 743,
+    "contributions": [
+      {
+        "pkcontributionId": 139350,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 743,
+        "headingText": "\r\n<p>Neurofibroma is characterized by a haphazard proliferation of Schwann cells and specialized fibroblasts {2039037}. Mast cells are often present. Tactile-like structures (pseudomeissnerian corpuscles) may be seen. Degenerative nuclear atypia may occur. A mucinous or myxomatous extracellular matrix is often present, with other regions featuring wavy collagen resembling shredded carrots. Neurofibroma shows patchy, variable immunoreactivity for S100 and SOX10 in the Schwann cell component and a reticular pattern of CD34 positivity in the fibroblastic element. Axons permeate the lesion and are highlighted by immunohistochemical staining for neurofilament protein. In some cases, the tumour is composed of neurofibroma component and another component of a schwannoma or a perineurioma, to which the term &ldquo;hybrid tumour&rdquo; is applied. Hybrid tumours of neurofibroma/schwannoma are associated with the neurofibromatoses (NF1, NF2, and schwannomatosis). Neurofibromas/perineuriomas are often associated with NF1.</p>\r\n<p>In the uveal tract, histopathology often reveals diffuse thickening by a proliferation of Schwann cells, fibroblasts, and choroidal melanocytes. This thickening is massive in some cases; parts of the choroid may be several times as thick as the sclera. The lesion may contain ovoid bodies that resemble tactile corpuscles, ultrastructurally composed of Schwann cells arranged in lamellae {6816197}. Ganglion cells are a normal constituent of the choroid, but when numerous and probably neoplastic, the tumour is classified as a ganglioneuroma {6403410;16557286}.</p>\r\n<p>In the conjunctiva, the differential diagnosis includes traumatic neuroma, mucosal neuroma associated with multiple endocrine neoplasia type&nbsp;2B, solitary circumscribed neuroma, schwannoma, low-grade malignant peripheral nerve sheath tumour, perineurioma, and myxoma {9109769}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 979,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 744,
+    "contributions": [
+      {
+        "pkcontributionId": 139351,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 744,
+        "headingText": "\r\n<p>Intraoperative smears and FNA specimens are often paucicellular owing to the increased collagen stroma in neurofibromas. Nevertheless, the presence of a mucin-rich background and small spindled cells with thin, wavy nuclei can provide diagnostic clues.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 980,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 745,
+    "contributions": [
+      {
+        "pkcontributionId": 139352,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 745,
+        "headingText": "\r\n<p>Molecular analyses do not have an established role in the diagnosis of neurofibroma. However, chromosomal copy-number profiling may be helpful for the evaluation of atypical neurofibroma&nbsp;/ atypical neurofibromatous neoplasm of uncertain biological potential; see the section in the <em>Soft tissue and bone tumours</em> volume of this series [[WHO Classification of Tumours Editorial Board. Soft Tissue and Bone Tumours. Lyon (France): International Agency for Research on Cancer; 2020. (WHO Classification of Tumours Series, 5th ed.; vol. 3). https://publications.iarc.who.int/588.]] on neurofibroma (<em>CDKN2A</em> and/or <em>CDKN2B</em> deletion) and its differentiation from malignant peripheral nerve sheath tumour (complex highly rearranged genome). Of note, conventional dermal and plexiform neurofibromas, atypical neurofibroma&nbsp;/ atypical neurofibromatous neoplasm of uncertain biological potential, and malignant peripheral nerve sheath tumour all exhibit distinct DNA methylation profiles {26857854}.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 983,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 748,
+    "contributions": [
+      {
+        "pkcontributionId": 139353,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 748,
+        "headingText": "\r\n<p><em>Essential:</em> infiltrative, low-cellularity spindle cell neoplasm associated with a variably myxoid to collagenous stroma.</p>\r\n<p><em>Desirable: </em>S100 positivity in the Schwann cell population, with CD34 highlighting a lattice-like stromal component.</p>\r\n",
+        "timestamp": "2026-03-31T15:07:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 981,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 746,
+    "contributions": [
+      {
+        "pkcontributionId": 139354,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 746,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2026-03-31T15:07:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 982,
+    "bookid": 65,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 747,
+    "contributions": [
+      {
+        "pkcontributionId": 139355,
+        "bookId": 65,
+        "chapterId": 259,
+        "headingId": 747,
+        "headingText": "\r\n<p>Solitary lesions can be excised. Plexiform lesions are difficult to remove and scarring and recurrences may occur. Malignant transformation is rare.</p>\r\n<p>Diffuse uveal tract abnormalities are typically found incidentally during histopathological examination of blind, painful, buphthalmic eyes enucleated from patients with NF1.</p>",
+        "timestamp": "2026-03-31T15:07:18"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

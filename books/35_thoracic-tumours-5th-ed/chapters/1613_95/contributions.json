@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 475,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 432,
+    "contributions": [
+      {
+        "pkcontributionId": 67084,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 432,
+        "headingText": "<p>Primary pulmonary myxoid sarcoma (PPMS) is a low-grade malignant tumour of the lung that consists of multinodular growth of typically uniform spindle, stellate, or rounded cells in a reticular pattern within a prominent myxoid stroma. Most cases harbour <em>EWSR1</em>-<em>CREB1</em> gene fusions.</p>",
+        "timestamp": "2021-01-07T17:39:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 476,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 433,
+    "contributions": [
+      {
+        "pkcontributionId": 67085,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 433,
+        "headingText": "\r\n<p>8842/3 Pulmonary myxoid sarcoma with <em>EWSR1</em>-<em>CREB1</em> fusion</p>\r\n",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 477,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 434,
+    "contributions": [
+      {
+        "pkcontributionId": 67086,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 434,
+        "headingText": "\r\n<p>2C25.Y &amp; XH51Y9 Other specified malignant neoplasms of bronchus or lung &amp; Pulmonary myxoid sarcoma with <em>EWSR1</em>-<em>CREB1</em> translocation</p>\r\n",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 478,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 435,
+    "contributions": [
+      {
+        "pkcontributionId": 67087,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 435,
+        "headingText": "\r\n<p><em>Acceptable:</em> primary pulmonary myxoid sarcoma.</p>\r\n<p><em>Not recommended:</em> low-grade malignant myxoid endobronchial tumour.</p>\r\n",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 479,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 436,
+    "contributions": [
+      {
+        "pkcontributionId": 67088,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 436,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 480,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 437,
+    "contributions": [
+      {
+        "pkcontributionId": 67089,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 437,
+        "headingText": "\r\n<p>PPMSs are frequently related to the bronchus and are often predominantly endobronchial.</p>\r\n",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 481,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 438,
+    "contributions": [
+      {
+        "pkcontributionId": 67090,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 438,
+        "headingText": "\r\n<p>Patients may present with cough, haemoptysis, systemic symptoms such as weight loss, or (more rarely) symptoms from metastases {21997693}. The tumour may be detected incidentally {21997693; 25134518; 10564385}. Imaging studies typically show a well-circumscribed mass, often with an endobronchial component. Obstructive changes may be present {21997693}. Clinical and radiological correlation is needed to exclude a metastasis from an extrapulmonary site such as the soft tissue.</p>\r\n",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 482,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 439,
+    "contributions": [
+      {
+        "pkcontributionId": 67091,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 439,
+        "headingText": "\r\n<p>The tumour often affects middle-aged adults, with a median age of 49&nbsp;years (range: 26&ndash;80&nbsp;years) and a slight female predominance {28449608}.</p>\r\n",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 483,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 440,
+    "contributions": [
+      {
+        "pkcontributionId": 67092,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 440,
+        "headingText": "\r\n<p>The causative role of smoking has not been established. No relationship is known with inherited cancer predisposition syndromes.</p>\r\n",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 484,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 441,
+    "contributions": [
+      {
+        "pkcontributionId": 67093,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 441,
+        "headingText": "\r\n<p>In more than 80% of cases, PPMS harbours <em>EWSR1</em>-<em>CREB1</em> fusion transcripts, in which <em>EWSR1</em> (exon&nbsp;7) is fused to <em>CREB1</em> (exon&nbsp;7 or uncommonly exon&nbsp;8 or 5) {21997693; 31776646}. Myxoid tumours with overlapping histology and <em>EWSR1</em>-CREB family gene fusions have been reported at various sites, including the CNS, soft tissues, pulmonary artery, and even the lung, using different terminologies (e.g. myxoid subtype of angiomatoid fibrous histiocytoma) {24503754; 28009602; 30326150; 31305268; 22588066}. However, the exact nosological relationship between PPMS and these tumours is not clear, and there are distinct differences between them (e.g. the pronounced reticular morphology of PPMS and the consistent lack of desmin expression, unlike in myxoid angiomatoid fibrous histiocytoma). The subset of PPMSs that lack <em>EWSR1</em>-<em>CREB1</em> fusion has not been genetically characterized {21997693; 24372335}.</p>\r\n",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 491,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 448,
+    "contributions": [
+      {
+        "pkcontributionId": 67094,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 448,
+        "headingText": "<p>The tumours measure 15&nbsp;to &gt;&nbsp;100 mm and are well circumscribed or nodular, pale, and glistening or gelatinous on cut surface, ranging in colour from white/grey to yellow {21997693}.</p>",
+        "timestamp": "2021-02-02T10:58:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 485,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 442,
+    "contributions": [
+      {
+        "pkcontributionId": 67095,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 442,
+        "headingText": "<p>PPMSs have a lobulated architecture, often with an endobronchial location. A partial fibrous pseudocapsule may be present. Tumours are composed of spindle, round, stellate, or polygonal cells, with a predominant reticular network of delicate lace-like strands and cords within prominent myxoid stroma. The myxoid stroma is positive with Alcian blue, with staining sensitive to treatment with hyaluronidase {10564385}. More compact areas may be found, which may have collagenous stroma. A minority have a predominantly compact architecture, with a more patternless distribution of cells. Cellular atypia is generally mild to sometimes focally moderate, and mitotic counts are &lt;&nbsp;5&nbsp;mitoses/2&nbsp;mm<sup>2</sup>. Focal necrosis can be present. Most cases have a chronic inflammatory cell infiltrate of mainly lymphocytes and plasma cells. Vascular invasion is rare. Unusual histology has been reported in a small subset of cases lacking <em>EWSR1</em>-<em>CREB1</em>, including focal multinucleation, severe nuclear atypia, and high mitotic activity with atypical forms {21997693; 24372335; 29363919}. About 60% show typical weak and focal expression of EMA. The tumour is consistently negative for cytokeratin, S100, desmin, CD34, and neuroendocrine markers.</p>",
+        "timestamp": "2021-01-07T17:39:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 486,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 443,
+    "contributions": [
+      {
+        "pkcontributionId": 67096,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 443,
+        "headingText": "\r\n<p>Cytology is not relevant for diagnosis.</p>\r\n",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 487,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 444,
+    "contributions": [
+      {
+        "pkcontributionId": 67097,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 444,
+        "headingText": "\r\n<p>The <em>EWSR1</em>-<em>CREB1</em> fusion is detectable by a variety of molecular methods and is helpful to confirm the diagnosis, although occasional tumours may harbour a different genetic alteration.</p>\r\n",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 490,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 447,
+    "contributions": [
+      {
+        "pkcontributionId": 67098,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 447,
+        "headingText": "<p><em>Essential:</em></p>\r\n<ul>\r\n<li>Primary involvement of the lung</li>\r\n<li>Spindle to round cells in a reticular pattern within prominent myxoid stroma</li>\r\n<li>Exclusion of other tumour types with similar histology, such as extraskeletal myxoid chondrosarcoma and myoepithelial tumours</li>\r\n</ul>\r\n<p><em>Desirable:</em></p>\r\n<ul>\r\n<li>Presence of an endobronchial component</li>\r\n<li>Demonstration of <em>EWSR1</em>-<em>CREB1</em> fusion</li>\r\n</ul>",
+        "timestamp": "2021-01-04T10:30:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 488,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 445,
+    "contributions": [
+      {
+        "pkcontributionId": 67099,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 445,
+        "headingText": "\r\n<p>No staging system is applicable.</p>\r\n",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 489,
+    "bookid": 35,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 446,
+    "contributions": [
+      {
+        "pkcontributionId": 67100,
+        "bookId": 35,
+        "chapterId": 95,
+        "headingId": 446,
+        "headingText": "\r\n<p>PPMSs are treated with resection, and about 90% of patients remain free of disease. However, uncommon cases show metastatic spread {21997693; 25134518} to the lung, kidney, or brain, and lethal cases have been rarely reported {21997693; 28449608}.</p>",
+        "timestamp": "2020-11-10T17:33:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 500,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 539,
+    "contributions": [
+      {
+        "pkcontributionId": 71160,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 539,
+        "headingText": "\r\n<p>Inflammatory myofibroblastic tumour is a mesenchymal neoplasm with the capacity for local recurrence and rare metastasis, demonstrating a myofibroblastic cell phenotype accompanied by a stromal inflammatory infiltrate of lymphocytes and plasma cells.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 501,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 540,
+    "contributions": [
+      {
+        "pkcontributionId": 71161,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 540,
+        "headingText": "\r\n<p>8825/1 Inflammatory myofibroblastic tumour</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 502,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 541,
+    "contributions": [
+      {
+        "pkcontributionId": 71162,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 541,
+        "headingText": "\r\n<p>2B53.Y &amp; XH66Z0 Other specified fibroblastic or myofibroblastic tumour, primary site &amp; Myofibroblastic tumour, NOS</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 503,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 542,
+    "contributions": [
+      {
+        "pkcontributionId": 71163,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 542,
+        "headingText": "\r\n<p><em>Not recommended:</em> plasma cell granuloma; inflammatory pseudotumour; inflammatory myofibrohistiocytic proliferation; omental-mesenteric myxoid hamartoma; inflammatory fibrosarcoma.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 504,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 543,
+    "contributions": [
+      {
+        "pkcontributionId": 71164,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 543,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 505,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 544,
+    "contributions": [
+      {
+        "pkcontributionId": 71165,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 544,
+        "headingText": "\r\n<p>Inflammatory myofibroblastic tumour can occur at various sites in the genitourinary system, but the urinary bladder is overwhelmingly the most common site among the genitourinary organs {25059529; 25268188; 17122505}.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 506,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 545,
+    "contributions": [
+      {
+        "pkcontributionId": 71166,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 545,
+        "headingText": "\r\n<p>The clinical presentation often includes haematuria, dysuria, or abdominal pain {25059529; 25982020}. A subset of lesions occur after a previous procedure.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 507,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 546,
+    "contributions": [
+      {
+        "pkcontributionId": 71167,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 546,
+        "headingText": "\r\n<p>Tumours primarily occur in middle-aged adults {25059529; 15577680}; however, development in children also occurs and is estimated to make up about 25% of reported cases {32777366; 25982020}. ALK-positive tumours have been noted to have a slight female predilection and occur at a younger age than ALK-negative tumours {25168523; 15577680}.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 508,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 547,
+    "contributions": [
+      {
+        "pkcontributionId": 71168,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 547,
+        "headingText": "\r\n<p>The precise etiology of this tumour is unknown, although a substantial fraction of patients have a history of a previous procedure, raising the question of whether trauma plays a role in development {17122505}.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 509,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 548,
+    "contributions": [
+      {
+        "pkcontributionId": 71169,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 548,
+        "headingText": "\r\n<p>A subset of tumours are genetically associated with <em>ALK</em> gene rearrangement, among which most urinary tract tumours have recently been shown to harbour an <em>FN1</em>::<em>ALK</em> fusion {32908253}; however, other rare partners of <em>ALK</em> have been described in urinary tract tumours, such as <em>HNRNPA1</em> {28504207} and <em>ATIC</em> {12939746}. (There are also morphologically similar tumours that are negative for <em>ALK</em> rearrangements, in which no definite gene fusion is currently known, often termed &ldquo;pseudosarcomatous myofibroblastic proliferations&rdquo;.) Despite the overlap in the morphology of inflammatory myofibroblastic tumour and nodular fasciitis, urinary tract tumours appear to lack the <em>USP6</em> gene rearrangements of nodular fasciitis. Alternative fusions described in inflammatory myofibroblastic tumour, such as those of <em>ETV6</em> or <em>ROS1</em>, also appear to be lacking in the ALK-negative tumours {29617048}. Recently, an ALK-negative bladder inflammatory myofibroblastic tumour with a novel <em>FN1</em>::<em>RET</em> gene fusion detected by RNA-based fusion analysis has been reported {32645760}.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 516,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 555,
+    "contributions": [
+      {
+        "pkcontributionId": 71170,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 555,
+        "headingText": "\r\n<p>The gross appearance often resembles a mesenchymal neoplasm with a white or tan fibrous cut surface. Many urinary tract tumours are diagnosed first via transurethral resection, in which the gross appearance is generally nonspecific.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 510,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 549,
+    "contributions": [
+      {
+        "pkcontributionId": 71171,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 549,
+        "headingText": "\r\n<p>Inflammatory myofibroblastic tumour is composed of spindle-shaped cells with a myofibroblastic appearance (thin, fusiform cells with elongated cytoplasmic processes and usually cytologically bland nuclei). An admixture of inflammatory cells, particularly lymphocytes, is common. Many tumours intermingle with the bladder muscularis propria, which is not necessarily evidence of malignancy {17122505}. Using immunohistochemistry, tumours are almost inherently positive for SMA, supporting the myofibroblastic phenotype, and variably positive for cytokeratin, desmin, and h-caldesmon {17122505}. Tumours are negative for S100, CD34, KIT, CD21, and CD23 {17122505}. A variable proportion (35&ndash;89%) show positive immunohistochemistry for ALK protein {25059529; 25982020; 25406945; 25168523; 17396140; 15577680; 17122505; 15105807}, which usually correlates with genetically confirmed rearrangement of ALK, although not always {25406945; 17222259; 17396140; 15105807; 16623783}. Although cytokeratin immunohistochemistry is often positive, urothelial markers such as p63, GATA3, and high-molecular-weight cytokeratin are usually negative {18941404}. p53 immunostaining usually shows a wildtype pattern {32645760}. Rare examples with overtly sarcomatous morphology have been reported, in which behaviour has been aggressive {17122505}.</p>\r\n<p>The absence of a coexisting carcinoma (particularly urothelial carcinoma) argues against sarcomatoid carcinoma; however, some myofibroblastic proliferations may occur either concurrently with or after carcinoma.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 511,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 550,
+    "contributions": [
+      {
+        "pkcontributionId": 71172,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 550,
+        "headingText": "\r\n<p>Cytopathology may demonstrate atypical spindle-shaped cells, raising a differential diagnosis of sarcoma or other mesenchymal neoplasms {10097721}.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 512,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 551,
+    "contributions": [
+      {
+        "pkcontributionId": 71173,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 551,
+        "headingText": "\r\n<p>Molecular studies such as FISH or sequencing may be used to confirm the presence of an <em>ALK</em> gene rearrangement; however, a subset of tumours with similar features are negative for currently known gene fusions {29617048; 25406945; 17396140}. Both fusion-positive and fusion-negative tumours typically have favourable behaviour, so although a positive result is supportive of this diagnosis, a negative result does not exclude a myofibroblastic proliferation. <em>TERT</em> promoter mutation, which is common in urothelial carcinoma, is absent from myofibroblastic proliferations and may be helpful if the differential diagnosis includes sarcomatoid carcinoma {32645760}.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 515,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 554,
+    "contributions": [
+      {
+        "pkcontributionId": 71174,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 554,
+        "headingText": "\r\n<p><em>Essential:</em> a mass-forming proliferation of spindle-shaped cells with a myofibroblastic appearance of thin, fusiform cells with cytologically bland nuclei and admixed scattered inflammatory cells; diffuse immunohistochemical labelling for SMA.</p>\r\n<p><em>Desirable:</em> absence of coexisting carcinoma; ALK positivity is supportive but a negative result does not exclude the diagnosis.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 513,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 552,
+    "contributions": [
+      {
+        "pkcontributionId": 71175,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 552,
+        "headingText": "\r\n<p>No staging system is currently available, because the tumours usually have favourable behaviour regardless of their size or muscularis propria involvement {17122505; 25982020}.</p>\r\n",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 514,
+    "bookid": 36,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 553,
+    "contributions": [
+      {
+        "pkcontributionId": 71176,
+        "bookId": 36,
+        "chapterId": 236,
+        "headingId": 553,
+        "headingText": "\r\n<p>In general, inflammatory myofibroblastic tumour is considered a neoplasm of intermediate malignant potential with the capability for rare metastasis; however, in the urinary tract it appears even more favourable, with almost no examples of metastasis {25168523; 32908253}. Rare possible metastasis from a tumour with typical features originating in the urinary bladder has been reported recently {30505686}, although some historical reports of malignant behaviour may represent histologically deceptive examples of sarcomatoid urothelial carcinomas. Local recurrence has been described in a small fraction of cases, predominantly in adults {25168523}, and is typically thought to be associated with incomplete resection. Complete surgical resection is generally considered the preferred treatment. Response to ALK inhibitors has been recently reported in unresectable tumours, facilitating subsequent resection via partial cystectomy {33007314; 29758320}. Treatment with anti-inflammatory agents has also been used in some circumstances {27322717}.</p>",
+        "timestamp": "2022-02-25T14:42:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

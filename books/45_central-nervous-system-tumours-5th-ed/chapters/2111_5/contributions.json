@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 518,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 497,
+    "contributions": [
+      {
+        "pkcontributionId": 71732,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 497,
+        "headingText": "<p>Astrocytoma, IDH-mutant, is a diffusely infiltrating <em>IDH1</em>- or <em>IDH2</em>-mutant glioma with frequent <em>ATRX</em> and/or <em>TP53</em> mutation and absence of 1p/19q codeletion (CNS WHO grade&nbsp;2, 3, or 4).</p>",
+        "timestamp": "2021-09-07T15:06:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 519,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 498,
+    "contributions": [
+      {
+        "pkcontributionId": 71733,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 498,
+        "headingText": "<p>9400/3 Astrocytoma, IDH-mutant, grade&nbsp;2</p>\r\n<p>9401/3 Astrocytoma, IDH-mutant, grade&nbsp;3</p>\r\n<p>9445/3 Astrocytoma, IDH-mutant, grade&nbsp;4</p>",
+        "timestamp": "2021-09-07T15:06:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 520,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 499,
+    "contributions": [
+      {
+        "pkcontributionId": 71734,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 499,
+        "headingText": "\r\n<p>2A00.0Y &amp; XH6PH6 Other specified gliomas of brain &amp; Astrocytoma, NOS</p>\r\n<p>2A00.0Y &amp; XH2HK4 Other specified gliomas of brain &amp; Diffuse astrocytoma, IDH-mutant</p>\r\n",
+        "timestamp": "2021-07-02T17:04:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 521,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 500,
+    "contributions": [
+      {
+        "pkcontributionId": 71735,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 500,
+        "headingText": "\r\n<p><em>Not recommended:</em> diffuse astrocytoma, IDH-mutant; anaplastic astrocytoma, IDH-mutant; glioblastoma, IDH-mutant; low-grade astrocytoma; lower-grade astrocytoma; high-grade astrocytoma; infiltrating astrocytoma; diffuse glioma.</p>\r\n",
+        "timestamp": "2021-07-02T17:04:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 522,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 501,
+    "contributions": [
+      {
+        "pkcontributionId": 71736,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 501,
+        "headingText": "\r\n<p>Astrocytoma, IDH-mutant, CNS WHO grade&nbsp;2; astrocytoma, IDH-mutant, CNS WHO grade&nbsp;3; astrocytoma, IDH-mutant, CNS WHO grade&nbsp;4</p>\r\n",
+        "timestamp": "2021-07-02T17:04:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 523,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 502,
+    "contributions": [
+      {
+        "pkcontributionId": 71737,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 502,
+        "headingText": "<p>Astrocytomas with <em>IDH1</em> or <em>IDH2</em> mutation can be located in any region of the CNS, including the brainstem and spinal cord, but they most commonly develop in the supratentorial compartment and are usually centred near or within the frontal lobes {22025148; 22217666; 22322613}. This localization is similar to that of IDH-mutant and 1p/19q-codeleted oligodendroglioma {15623700; 11559541}. A genetically distinct form of IDH-mutant astrocytoma has recently been described in the infratentorial compartment {32776277}.</p>",
+        "timestamp": "2022-10-21T15:13:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 524,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 503,
+    "contributions": [
+      {
+        "pkcontributionId": 71738,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 503,
+        "headingText": "<p>Development of signs and symptoms is rarely abrupt unless the diagnosis is revealed by neuroimaging after onset of epileptic seizures. A small subset of tumours are diagnosed incidentally when neuroimaging is performed after trauma or for headache {28483413}. Neurocognitive function in patients with IDH-mutant astrocytomas is relatively preserved, compared with that in patients with similar-sized IDH-wildtype tumours {27576872}; this may be because of slower growth, which allows for compensatory neuroplasticity. Among IDH-mutant astrocytomas, higher-grade tumours are assumed to be associated with shorter clinical history, but this has not been confirmed in contemporary studies.</p>\r\n<p>Seizures are a common presenting sign; however, subtle neurological abnormalities, such as speech or language difficulties, changes in sensory or motor function, or changes in vision, may be pre-existing. With frontal lobe tumours, changes in behaviour or personality may be the initial clinical feature and may have been present for months or even years before diagnosis.</p>\r\n<h5>Imaging</h5>\r\n<p>Neuroimaging findings of IDH-mutant astrocytomas can vary based on location, extent of disease, and tumour grade. On CT, IDH-mutant astrocytoma, CNS WHO grade&nbsp;2, is noted as a poorly defined, homogeneous, low-density mass without contrast enhancement. Calcification and cystic change may be present. Midline deviation, extensive oedema, contrast enhancement, and central hypodensity due to necrosis become evident at higher grades. MRI typically shows T1 hypodensity and T2 hyperintensity, with enlargement and distortion of involved areas. T2 hyperintensity is often paired with relative hypointensity on FLAIR sequences (known as the T2&ndash;FLAIR mismatch sign), a finding highly suggestive of CNS WHO grade&nbsp;2 and grade&nbsp;3 IDH-mutant astrocytomas {28751449}. Gadolinium enhancement is uncommon in CNS WHO grade&nbsp;2 IDH-mutant astrocytomas {21474379; 32359929; 30536195}, but it is present at increasing frequency in CNS WHO grade&nbsp;3 and grade&nbsp;4 tumours. A pattern of rim enhancement around central necrosis is most common in CNS WHO grade&nbsp;4 tumours. More extensive peritumoural oedema is noted in higher-grade lesions.</p>",
+        "timestamp": "2021-09-07T15:08:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 525,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 504,
+    "contributions": [
+      {
+        "pkcontributionId": 71739,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 504,
+        "headingText": "<p>Precise population-based data on the incidence of IDH-mutant astrocytomas are not available. The majority of patients present in their thirties or forties (median age: 38&nbsp;years) with CNS WHO grade&nbsp;2 or 3 tumours {26061751; 25962792}. CNS WHO grade&nbsp;2 and 3 astrocytomas have similar age distributions {25962792}, whereas patients with CNS WHO grade&nbsp;4 tumours tend to be slightly older {25962792}. IDH mutations are uncommon in paediatric gliomas; when present, they are usually seen in adolescents {20725730; 27161253}. IDH-mutant astrocytomas are uncommon in patients aged &gt;&nbsp;55&nbsp;years {31758617; 28110298}. There is a slight male predominance among CNS WHO grade&nbsp;2 and 3 IDH-mutant astrocytomas {26061751}. One study of CNS WHO grade&nbsp;4 tumours found that their M:F&nbsp;ratio is significantly lower than that of IDH-wildtype glioblastomas {23209033}. Recent work indicates that most CNS WHO grade&nbsp;4 IDH-mutant astrocytomas occur de&nbsp;novo, rather than with a history of a lower-grade glioma {30326163}.</p>",
+        "timestamp": "2021-09-07T15:08:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 526,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 505,
+    "contributions": [
+      {
+        "pkcontributionId": 71740,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 505,
+        "headingText": "<h5>Genetic susceptibility</h5>\r\n<p>Most IDH-mutant astrocytomas develop sporadically, in the absence of a familial or hereditary predisposition syndrome. Genome-wide association studies indicate an association between a low-frequency SNP at 8q24.21 and increased risk of IDH-mutant gliomas, including oligodendroglioma and astrocytoma {22922872}. Increased IDH-mutant astrocytoma risk is also associated with variants at 8q24.21 (the <em>CCDC26</em> locus), as well as with variants at the <em>PHLDB1</em>, <em>AKT3</em>, <em>IDH1</em>, and <em>D2HGDH</em> loci {28346443; 19578367; 32386320}. Rare genetic syndromes predispose to IDH-mutant astrocytoma. For example, it is the brain tumour most frequently associated with Li&ndash;Fraumeni syndrome, which is characterized by germline <em>TP53</em> mutations {9006316; 14583457} (see <a style=\"cursor:pointer\" href=\"/chaptercontent/45/201\" target=\"_blank\">section </a><em>Li&ndash;Fraumeni syndrome</em>). In patients from three families with Li&ndash;Fraumeni syndrome, <em>IDH1</em> mutations were observed in five astrocytomas that developed in members with a <em>TP53</em> germline mutation. All five contained the <em>IDH1</em>:c.394C&gt;T p.R132C&nbsp;mutation {19340432}, which in sporadic astrocytic tumours accounts for &lt;&nbsp;5% of all <em>IDH1</em> mutations {18985363; 19246647; 19228619}. This selective occurrence suggests a preference for <em>IDH1</em> p.R132C mutations in neural precursor cells that already carry a germline <em>TP53</em> mutation. IDH-mutant gliomas (oligodendrogliomas and astrocytomas) have also been diagnosed in patients with inherited Ollier disease, which predisposes to multiple enchondromatosis and chondrosarcoma {10392492; 9921931; 30159860; 27036230}. IDH-mutant astrocytomas have not been associated with other diffuse glioma predisposition syndromes including neurofibromatosis type&nbsp;1 {30531922}, <em>POT1</em> germline mutation {25482530; 29040662}, or melanoma-astrocytoma syndrome {28699883}.</p>\r\n<p><em>IDH1</em>-mutant astrocytomas in children and young adults are enriched for germline mutations in mismatch repair genes {32895736}. For these patients, immunohistochemical staining for mismatch repair proteins is usually an effective screening tool {24440087}. Importantly, the management of these tumours may be different from that of other <em>IDH1</em>-mutant gliomas {32322066}.</p>\r\n<h5>Other etiological factors</h5>\r\n<p>Diffuse gliomas can arise after therapeutic radiation for another CNS malignancy, but these tumours lack IDH mutations {30196423}. Although gliomas can be induced experimentally in rats with chemical carcinogens such as ethylnitrosourea and methylnitrosourea, there is no convincing evidence that these substances have an etiological role in human gliomas. Similarly, although polyomavirus (SV40, BK virus, and JC virus) genome sequences and proteins have been reported in gliomas, they were only rarely found in a more recent large series of 225&nbsp;gliomas {15499616}.</p>",
+        "timestamp": "2021-09-07T15:09:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 527,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 506,
+    "contributions": [
+      {
+        "pkcontributionId": 71741,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 506,
+        "headingText": "<h5>Cell of origin</h5>\r\n<p>Identification of the cell(s) of origin of IDH-mutant astrocytoma remains an area of active investigation (see also <a style=\"cursor:pointer\" href=\"/chaptercontent/45/6\" target=\"_blank\">section </a><em>Oligodendroglioma, IDH-mutant and 1p/19q-codeleted</em>). Morphology and single-cell RNA-sequencing analysis of human tumours supports the notion that IDH-mutant astrocytomas are composed of a mixture of malignant cell types that recapitulate astrocytic and oligodendroglial lineages, as well as neural precursor&ndash;like cells {28360267}. Experimental transformation of immortalized human astrocytes with <em>IDH1</em> p.R132H reprogrammes their cellular lineage and favours the emergence of a neural precursor state {29180699}. Experiments in transgenic mice indicate that astrocytomas may originate from different CNS cell types, including neural precursor cells, oligodendrocyte precursor cells, and astrocytes {25635044}. Neural and oligodendrocyte precursor cells may give rise to either oligodendroglial or astrocytic phenotypes in gliomas, depending on the genes driving transformation {21737130; 25355217; 31992716}. This suggests an interplay between oncogenic events and the cell(s) of origin, and indicates that both are critical in determining the resulting glioma phenotype. IDH-mutant gliomas and IDH-wildtype glioblastomas may derive from different precursor cells. The differing patient ages, sex distribution, and clinical outcome suggest that IDH-mutant and IDH-wildtype gliomas have distinct cellular pathogenetic mechanisms {23209033}. Compared with IDH-wildtype glioblastomas, IDH-mutant gliomas show a much stronger predilection for involving frontal locations,&nbsp;indicating that they may originate from precursor cells located in (or migrating to) the frontal lobe. Moreover, the preferential frontal lobe localization may be a consequence of the frontally restricted expression of the glutamate dehydrogenase gene <em>GLUD2</em>, which encodes GDH2, a hominoid-specific enzyme that facilitates glutamate turnover in human forebrain {25225364; 29097607}. GDH2 activity may partially compensate for IDH mutation&ndash;induced metabolic alterations, thereby facilitating the early stages of IDH-mutant astrocytoma growth. Together, these observations support the hypothesis that IDH-mutant astrocytic gliomas develop from a distinct population of precursor cells, although this has not yet been studied carefully across grades {23209033; 28360267}.</p>\r\n<h5>Genetic profile</h5>\r\n<p>IDH mutations were first reported in 2008 {18772396} and are a defining feature for IDH-mutant astrocytoma, CNS WHO grades&nbsp;2, 3, and 4. IDH mutations are an early event in gliomagenesis and persist during tumour progression in most cases. Analysis of serial biopsies from the same patients have not yet uncovered cases in which an&nbsp;<em>IDH1</em> mutation occurred after the acquisition of a <em>TP53</em> mutation {19246647}. An exception is <em>IDH1</em> mutations in patients with Li&ndash;Fraumeni syndrome, in which the germline <em>TP53</em> mutation is the initial genetic alteration and influences the subsequent acquisition of the <em>IDH1</em> mutation (see <a style=\"cursor:pointer\" href=\"/chaptercontent/45/201\" target=\"_blank\">section </a><em>Li&ndash;Fraumeni syndrome</em>) {19340432}. Reported <em>IDH1</em> mutations are usually&nbsp;located at the first or second base of codon&nbsp;132 {18985363; 18772396; 19246647}. The most frequent is the <em>IDH1</em>:c.395G&gt;A p.R132H&nbsp;mutation, found in 83&ndash;91% of IDH-mutant gliomas {18985363; 19246647; 19228619}. Other mutations are rare, including <em>IDH1</em>:c.394C&gt;T p.R132C (found in 3.6&ndash;4.6% of cases), p.R132G (in 0.6&ndash;3.8%), p.R132S (in 0.8&ndash;2.5%), and p.R132L (in 0.5&ndash;4.4%) {18985363; 19246647; 19228619}. The <em>IDH2</em> gene encodes the only human protein homologous to IDH1 that also uses NADP<sup>+</sup> as an electron acceptor. <em>IDH2</em> mutations in gliomas are located at residue p.R172, with the p.R172K mutation being the most frequent {15173171; 19228619}. IDH2 p.R172 is the analogue of the p.R132 residue in IDH1, and it is located in the enzyme&rsquo;s active site, forming hydrogen bonds with the isocitrate substrate. <em>IDH2</em> mutations are much less frequent than <em>IDH1</em> mutations in IDH-mutant astrocytoma.</p>\r\n<p>Glioma-associated <em>IDH1</em> and <em>IDH2</em> mutations impart a gain-of-function phenotype to the respective metabolic enzymes IDH1 and IDH2, which then overproduce the oncometabolite 2-hydroxyglutarate {19935646}. The physiological consequences of 2-hydroxyglutarate overproduction are widespread and include profound effects on cellular epigenomic states and gene regulation {21163902; 21130701}. The introduction of mutant <em>IDH1</em> into primary human astrocytes alters specific histone markers and induces extensive DNA hypermethylation (termed the &ldquo;glioma-associated CpG island methylator phenotype [G-CIMP]&rdquo;), suggesting that the presence of an <em>IDH1</em> mutation is sufficient to establish a hypermethylation phenotype {22343889}. Widespread hypermethylation in gene promoter regions is thought to silence the expression of several important cellular differentiation factors {22343901; 22343889} and to favour the emergence or maintenance of a stem cell&ndash;like state prone to self-renewal and tumorigenesis {29180699}. IDH mutations may also promote glioma formation by disrupting the binding of the methylation-sensitive insulator protein CTCF, thus affecting chromosomal topology and allowing aberrant chromosomal regulatory interactions that induce oncogene expression {26700815}. <em>MGMT</em> promoter methylation is also commonly observed in IDH-mutant gliomas {11577014; 22343889}. <em>MGMT</em> encodes a DNA repair protein {24071851} that removes promutagenic alkyl groups from the O6 position of guanine in DNA, thereby blunting the treatment effects of some alkylating agents {11070098; 15057289} (see also <a style=\"cursor:pointer\" href=\"/chaptercontent/45/7\" target=\"_blank\">section </a><em>Glioblastoma, IDH-wildtype</em>). However, the predictive role of <em>MGMT</em> promoter methylation may be limited to tumours that additionally exhibit loss of one copy of chromosome&nbsp;10, where <em>MGMT</em> is located (e.g. IDH-wildtype glioblastoma).</p>\r\n<p>IDH-mutant astrocytomas also harbour class-defining loss-of-function mutations in <em>TP53</em> and <em>ATRX</em> {22869205; 23104868; 26061751}. <em>ATRX</em> encodes an essential chromatin-binding protein, and its deficiency has been associated with epigenomic dysregulation and telomere dysfunction {23916100}. In particular, <em>ATRX</em> mutations induce an abnormal telomere maintenance mechanism known as alternative lengthening of telomeres {21719641}. <em>ATRX</em> mutations and alternative lengthening of telomeres are mutually exclusive with activating promoter mutations of the <em>TERT</em> gene, which encodes the catalytic component of telomerase. <em>TERT</em> promoter mutations are rare in IDH-mutant astrocytomas, but they are present in the vast majority of IDH-mutant oligodendrogliomas and IDH-wildtype glioblastomas {26061751; 26061753; 23530248}.</p>\r\n<p>ATRX deficiency has also been associated with generalized genomic instability, which can induce p53-dependent cell death in some contexts {23284920}. Therefore, <em>TP53</em> mutations in IDH-mutant astrocytomas may enable tumour cell survival in the setting of ATRX loss. The genomic instability of IDH-mutant astrocytomas is reflected in characteristic DNA copy-number abnormalities, which include low-level amplification events involving the oncogenes <em>MYC</em> and <em>CCND2</em> in mutually exclusive subsets {26061751}. Copy-number events typically associated with IDH-wildtype glioblastoma, such as <em>EGFR</em> amplification as well as <em>PTEN</em> mutation or deletion, are rarely encountered, emphasizing the biological differences between IDH-mutant and IDH-wildtype astrocytomas {26061751; 26061753; 22415316}.</p>\r\n<h5>Genetic alterations associated with tumour progression</h5>\r\n<p>Multiple retrospective studies indicate that homozygous deletion of <em>CDKN2A</em>&nbsp;and/or <em>CDKN2B</em> is associated with shorter survival in patients with IDH-mutant astrocytomas, corresponding to CNS WHO grade&nbsp;4 behaviour (see also <em>Prognosis and prediction</em>, below) {31996992}. Alterations in other genes encoding members of the RB1 pathway, including <em>CDK4</em> amplification and <em>RB1</em> mutation or homozygous deletion, may also be associated with accelerated growth {31996992}. <em>PDGFRA</em> amplification {31996992}, <em>MET</em> alterations {31667475; 30343896}, <em>MYCN</em> amplifications, and mutations in <em>PIK3R1</em> and <em>PIK3CA</em> have been associated with shorter survival and may play a role in tumour progression {31996992}.</p>",
+        "timestamp": "2021-09-07T15:10:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 534,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 513,
+    "contributions": [
+      {
+        "pkcontributionId": 71742,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 513,
+        "headingText": "\r\n<p>IDH-mutant astrocytomas of low histological grade are expansile and blur the grey matter&ndash;white matter junction. They enlarge and distort invaded anatomical structures and may show large or small cysts. Extensive microcyst formation occasionally produces a gelatinous appearance, or a single large cyst filled with clear fluid. Large, grossly detectable calcifications are not present, but diffuse grittiness is occasionally noted. Higher-grade examples may show similar features, but large coalescent zones of yellowish discolouration due to necrosis and/or haemorrhage may also be present.</p>\r\n",
+        "timestamp": "2021-07-02T17:04:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 528,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 507,
+    "contributions": [
+      {
+        "pkcontributionId": 71743,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 507,
+        "headingText": "<p>IDH-mutant astrocytomas range from well-differentiated, low-cell-density, and slow-growing tumours (CNS WHO grade&nbsp;2) to highly anaplastic, hypercellular, and rapidly progressive tumours (CNS WHO grade&nbsp;4).</p>\r\n<p>CNS WHO grade&nbsp;2 tumours are composed of well-differentiated fibrillary glial cells that diffusely infiltrate the CNS parenchyma individually, usually without cellular cohesion, generating a loosely structured, often microcystic matrix {29521646; 25975377}. Cellularity is mildly to moderately increased compared with that of normal brain, and mild nuclear atypia is characteristic. Tumour cell density and cellular morphology may vary, the latter with respect to cell size, cytoplasmic abundance, and prominence of cellular processes. Histological recognition of neoplastic astrocytes depends mainly on nuclear characteristics. Compared with those in normal astrocytes, the nuclei in IDH-mutant astrocytomas are enlarged, and they display irregular nuclear contours, an uneven chromatin pattern, and hyperchromasia. Overall, monomorphic nuclei and rounded nuclear contours may be seen, occasionally showing morphological overlap with oligodendroglial tumours. Nucleoli are typically indistinct and are most often not visible. Unlike in cells undergoing reactive astrocytosis, cellular processes in IDH-mutant astrocytomas usually vary from one tumour cell to the next. Mitotic activity is absent or uncommon in CNS WHO grade&nbsp;2 tumours; a single mitosis within a resection specimen is compatible with a CNS WHO grade&nbsp;2 designation {31996992}.</p>\r\n<p>The principal feature distinguishing CNS WHO grade&nbsp;3 astrocytomas from CNS WHO grade&nbsp;2 astrocytomas is increased mitotic activity and histological anaplasia (see <em>Grading</em>, below). However, the threshold for a CNS WHO grade&nbsp;3 designation has not been established in IDH-mutant astrocytoma cohorts. One mitotic figure may be sufficient for assigning grade&nbsp;3 within a very small biopsy, whereas more mitoses are required in larger resection specimens {31996992}. Grade&nbsp;3 tumours also often display increased cell density and greater nuclear atypia, including variation in nuclear size and shape, chromatin coarseness, and dispersion. Multinucleated tumour cells and abnormal mitoses may be seen. By definition, microvascular proliferation (multilayered endothelia within vessels) and necrosis are absent.</p>\r\n<p>CNS WHO grade&nbsp;4 tumours must manifest necrosis and/or microvascular proliferation in addition to the features of CNS WHO grade&nbsp;3 lesions, but the designation of CNS WHO grade&nbsp;4 IDH-mutant astrocytoma is also warranted if the tumour shows homozygous deletion of <em>CDKN2A</em>&nbsp;and/or <em>CDKN2B</em>, even in the absence of necrosis or microvascular proliferation (see <em>Grading</em> and <em>Diagnostic molecular pathology</em>) {31996992}.&nbsp;For more information about the histopathology of microvascular proliferation, see the <em>Histopathology</em> subsection in &lt;&lt; 2.1.1.3&gt;&gt;<em>Glioblastoma, IDH-wildtype</em>.</p>\r\n<p>The term &ldquo;glioblastoma&rdquo; is no longer applied to CNS WHO grade&nbsp;4 IDH-mutant astrocytoma. Morphologically, however, the histology of individual cells of CNS WHO grade&nbsp;4 IDH-mutant astrocytoma has considerable overlap with that of IDH-wildtype glioblastoma, and distinguishing between them requires testing for IDH mutations. Nevertheless, some features differ. Areas of ischaemic zonal and/or palisading necrosis have been observed in 50% of CNS WHO grade&nbsp;4 IDH-mutant astrocytomas, considerably less frequently than in IDH-wildtype glioblastoma, where they are found in as many as 90% of cases {19755387}. Focal oligodendroglioma-like components are more common in CNS WHO grade&nbsp;4 IDH-mutant astrocytoma than in IDH-wildtype glioblastoma {19755387; 22025148}.</p>\r\n<p>Gemistocytic differentiation can be noted focally, regionally, or nearly uniformly in all grades of IDH-mutant astrocytoma. However, the gemistocytic tissue pattern is not specific to IDH-mutant astrocytomas and can be noted in IDH-wildtype gliomas as well. To be considered a major tissue pattern, gemistocytes should account for (approximately) &gt;&nbsp;20% of all tumour cells&nbsp;&ndash; a somewhat arbitrary, but useful, criterion {9650746; 1993905; 16132490}. Gemistocytes are characterized by plump, glassy, eosinophilic cell bodies and stout, randomly oriented processes that form a coarse fibrillary network. Nuclei are typically eccentric, with small, distinct nucleoli and densely clumped chromatin. Perivascular lymphocyte cuffing is frequent {2990664}. This tissue pattern is associated with a focal gain of chromosome&nbsp;12p encompassing <em>CCND2</em> {28000032}. No definite associations with clinical behaviour are known.</p>\r\n<h5>Proliferation</h5>\r\n<p>In older studies, when IDH status was not incorporated into the diagnosis, astrocytomas with &ge;&nbsp;2&nbsp;mitoses within the entire specimen were associated with shorter survival than those with &lt;&nbsp;2&nbsp;mitoses {9554533; 10068313; 3179928}, but several studies of patients with IDH-mutant astrocytoma have not corroborated these thresholds for mitotic activity {31529048; 25701198; 27049832}. However, others have demonstrated that traditional grading schemes based on mitoses can stratify risk among patients with grade&nbsp;2 and grade&nbsp;3 IDH-mutant astrocytomas {28532485; 29687258; 31733156}. To date, no studies have established an alternative mitotic count threshold that more reliably stratifies risk among histological CNS WHO grade&nbsp;2 and grade&nbsp;3 IDH-mutant astrocytomas.</p>\r\n<p>Similarly, studies of proliferation (e.g. based on the Ki-67 index) have not identified criteria that unequivocally stratify risk among patients with IDH-mutant astrocytomas {27049832}. The growth fraction as determined by the Ki-67 proliferation index is usually &lt;&nbsp;4% for CNS WHO grade&nbsp;2 IDH-mutant astrocytomas. In CNS WHO grade&nbsp;3 tumours, the Ki-67 proliferation index is usually in the range of 4&ndash;10%, but it can overlap with values for CNS WHO grade&nbsp;2 tumours at one end of the range and CNS WHO grade&nbsp;4 tumours at the other {8229080; 1503912; 7511316; 2161084}. Ki-67 proliferation index values in CNS WHO grade&nbsp;4 IDH-mutant astrocytomas vary considerably and do not appear to be associated with survival {18712282}.</p>\r\n<h5>Grading</h5>\r\n<p>Astrocytoma, IDH-mutant, can be designated as CNS WHO grade&nbsp;2, 3, or 4, according to the criteria in <a style=\"cursor:pointer\" href=\"/attachment/45/5/20218\" target=\"_blank\">#20218</a>Table&nbsp;2.01 {31996992}.</p>\r\n<h5>Immunophenotype</h5>\r\n<p>Individual tumour cells of IDH-mutant astrocytoma reliably express GFAP, although to varying degrees {2827963}. Gemistocytic tumour cells are typically strongly and uniformly positive for GFAP {9042164}. OLIG2 is a transcription factor that shows strong nuclear immunoreactivity in most forms of diffuse gliomas, including IDH-mutant astrocytomas. One study concluded that OLIG2 expression was lower in high-grade IDH-mutant astrocytomas than in other IDH-mutant gliomas {15198128; 29053887}. Vimentin is often positive in tumour cells, with a labelling pattern similar to that of GFAP {3020864}. Immunohistochemical assays used as surrogates for genetic alterations (e.g. IDH1 p.R132H, p53, ATRX) are discussed below, in the <em>Diagnostic molecular pathology</em> subsection.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>For CNS WHO grade&nbsp;2 tumours, the main differential diagnostic considerations are normal brain and reactive astrocytosis. The cytoplasm of normal human astrocytes, in contrast to that of IDH-mutant astrocytoma cells, is not distinct from the background neuropil. Their nuclei are small and regular, displaying delicate and uniform chromatin patterns. Reactive astrocytes are defined by enlarged nuclei (often with a single prominent nucleolus) and clearly distinguished cytoplasm. Reactive gemistocytes are a specific type of astrocytes that are characterized by abundant eosinophilic cytoplasm, eccentric nuclei, and prominent glial processes. Reactive astrocytes are often uniformly distributed throughout tissue and often show similar nuclear and cytoplasmic features, unlike neoplastic cells. Microcystic change strongly favours neoplasia over reactive astrocytosis. Because most IDH-mutant diffuse astrocytomas have <em>IDH1</em> p.R132H mutations, the finding of positive immunostaining for IDH1 p.R132H excludes reactive astrocytosis {21343879}. Prior freezing of tissue for intraoperative diagnosis, however, may abrogate IDH1 p.R132H immunostaining and can distort nuclear cytological features.</p>\r\n<p>IDH-mutant astrocytoma has a wide differential diagnosis with other diffusely growing brain tumours. The primary considerations are oligodendroglioma, IDH-mutant and 1p/19q-codeleted; glioblastoma, IDH-wildtype; diffuse midline glioma, H3 K27&ndash;altered; diffuse hemispheric glioma, H3 G34&ndash;mutant; diffuse astrocytoma, <em>MYB</em>- or <em>MYBL1</em>-altered; diffuse low-grade glioma, MAPK pathway&ndash;altered; and high-grade astrocytoma with piloid features.</p>",
+        "timestamp": "2021-09-07T15:13:21"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 529,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 508,
+    "contributions": [
+      {
+        "pkcontributionId": 71744,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 508,
+        "headingText": "<p>The use of cytological preparations at the time of intraoperative consultation can add value to frozen section evaluation, because certain cellular features (e.g. coarse chromatin, nuclear contour irregularity, fibrillary processes) may be enhanced or accentuated. Individual cells show enlarged, angulated, and hyperchromatic nuclei and may display elongated eosinophilic cellular processes, which often form a loose background of fibrillarity that is helpful in defining glial differentiation. With increasing grade, greater neoplastic cytological pleomorphism and more mitotic figures can be found. In CNS WHO grade&nbsp;4 IDH-mutant astrocytomas, necrotic debris and/or vessels with endothelial proliferation may also be present in cytological preparations.</p>",
+        "timestamp": "2021-09-07T15:13:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 530,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 509,
+    "contributions": [
+      {
+        "pkcontributionId": 71745,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 509,
+        "headingText": "<p>Many of the signature molecular characteristics of IDH-mutant astrocytoma can be demonstrated immunohistochemically. A routine immunohistochemical panel for the initial diagnostic workup of diffuse gliomas in adults involves IDH1 p.R132H, p53, and ATRX {26671986; 29521646}.</p>\r\n<p>Immunohistochemical staining for IDH1 p.R132H is highly sensitive and specific for the <em>IDH1</em> p.R132H mutation, and immunopositivity is strong evidence of IDH-mutant glioma {19798509; 25944653}. IDH1 p.R132H immunohistochemistry has become a critical initial test for the classification of gliomas and also helps to distinguish true neoplasia from reactive gliosis {21343879; 19903171}. The p.R132H variant accounts for approximately 90% of all IDH mutations in supratentorial astrocytomas. Of note, more rarely occurring primary infratentorial IDH-mutant astrocytomas show a distinctively different spectrum of IDH mutations, and about 80% are of the non-p.R132H type {32776277}. Gene sequencing analysis of <em>IDH1</em> codon&nbsp;132 and <em>IDH2</em> codon&nbsp;172 is recommended in the event of a negative or indeterminate result with the IDH1 p.R132H immunohistochemical stain, in order to rule out the possibility of a non-p.R132H IDH mutation {26061751; 19228619}. Given the low frequency of <em>IDH1</em> and <em>IDH2</em> mutations in CNS WHO grade&nbsp;4 gliomas arising in patients aged&nbsp;&ge;&nbsp;55&nbsp;years, sequencing analysis need not follow a negative IDH1 p.R132H immunostain in this patient population {29016871; 28110298; 21088844}.</p>\r\n<p>In the setting of an IDH-mutant glioma, the detection of strong and diffuse p53 immunopositivity can be used as a surrogate for <em>TP53</em> mutations and in support of the diagnosis of IDH-mutant astrocytoma. <em>TP53</em> mutation often leads to reduced degradation of the protein, and to its nuclear accumulation; however, not all <em>TP53</em> mutations manifest as strong nuclear immunoreactivity, and nonsense mutations in particular can sometimes be associated with a complete absence of staining. Strong nuclear p53 immunohistochemical positivity in &gt;&nbsp;10% of tumour nuclei correlates well with <em>TP53</em> mutations in the setting of an IDH-mutant glioma, but it is best evaluated in the context of morphology and other immunohistochemistry in the diagnostic panel, such as ATRX {26671986; 24590827; 25040820}. Most IDH-mutant astrocytomas show even more widespread (&gt;&nbsp;50%) p53 expression {25040820}.</p>\r\n<p>Inactivating <em>ATRX</em> alterations commonly co-occur with <em>TP53</em> mutations in IDH-mutant astrocytomas {27311324; 29923492; 26741321}. These often result in a truncated protein and abrogated protein expression, leading to loss of nuclear ATRX immunoreactivity {25427834}. ATRX immunopositivity in the nuclei of endothelial cells and neurons serves as an internal positive control {26671986} because ATRX protein is prone to rapid degradation in tissue with even minimal hypoxic damage, so areas of tissue showing nuclear ATRX immunopositivity in these cells should be assessed. Loss of nuclear ATRX expression in neoplastic cells strongly supports the diagnosis of IDH-mutant astrocytoma but is not a surrogate for IDH assessment because loss of nuclear ATRX is also found in H3-altered diffuse gliomas and occasionally in IDH-wildtype gliomas. In addition, although the rate of ATRX loss is &gt;&nbsp;90% in supratentorial IDH-mutant astrocytomas, the rate in infratentorial IDH-mutant astrocytomas is only about 50% {32776277}. The combination of mutations in <em>IDH1</em> or <em>IDH2</em> and <em>ATRX</em> in a diffuse glioma&nbsp;(including by immunohistochemistry) is sufficient for the diagnosis of IDH-mutant astrocytoma, obviating the need for 1p/19q testing in order to exclude oligodendroglioma.</p>\r\n<p>Rare cases of dual-genotype IDH-mutant gliomas have been described; distinct regions within these tumours have oligodendroglioma morphology and 1p/19q codeletion, while other regions have astrocytic morphology, ATRX loss, and <em>TP53</em> mutations {25359109; 17031656}. A more recent publication documented two dual-genotype IDH-mutant gliomas that displayed uniform tumour morphology throughout, as well as ATRX loss, <em>TP53</em> mutations, and 1p/19q codeletion in all tumour regions tested {32170402}. These cases, although rare, indicate that the defining molecular alterations of IDH-mutant astrocytomas and oligodendroglioma are not absolutely mutually exclusive. The precise classification for these dual-genotype IDH-mutant gliomas has not been established. However, a layered diagnostic approach that includes morphological findings and molecular alterations, combined with an &ldquo;NEC&rdquo; designation, may be appropriate {29372318; 24990071}.</p>\r\n<p>As discussed above, a molecular marker that is strongly associated with unfavourable prognosis in IDH-mutant astrocytoma is homozygous deletion of <em>CDKN2A</em>&nbsp;and/or <em>CDKN2B</em> {29687258}. This has prompted grading of IDH-mutant astrocytoma with homozygous <em>CDKN2A</em>&nbsp;and/or <em>CDKN2B</em> deletion as CNS WHO grade&nbsp;4, irrespective of other morphological signs of high-grade malignancy such as necrosis or microvascular proliferation {31996992}.</p>\r\n<p>Methylation profiling readily identifies IDH-mutant astrocytoma because of the profound influence of IDH mutations on the methylome. Accordingly, the presence of an <em>IDH1</em> or <em>IDH2</em> mutation can be reliably inferred by this method, although the specific amino acid exchange impacting either <em>IDH1</em> or <em>IDH2</em> cannot be determined. Methylation profiling can also be used to distinguish between subgroups of IDH-mutant astrocytomas, including those of low and high grade in the supratentorial compartment as well as those in the infratentorial regions {29539639; 32776277}; see also <a name=\"28843\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#28843</a>Fig.&nbsp;<a name=\"28843\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#28843</a>. Copy-number profiles calculated from methylome data can also be useful for determining <em>CDKN2A</em> and/or <em>CDKN2B</em> and 1p/19q codeletion status.</p>",
+        "timestamp": "2022-10-21T15:26:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 533,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 512,
+    "contributions": [
+      {
+        "pkcontributionId": 71746,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 512,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/45/5/20219\" target=\"_blank\">#20219</a>Box&nbsp;2.01 .</p>\r\n",
+        "timestamp": "2021-07-02T17:04:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 531,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 510,
+    "contributions": [
+      {
+        "pkcontributionId": 71747,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 510,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2021-07-02T17:04:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 532,
+    "bookid": 45,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 511,
+    "contributions": [
+      {
+        "pkcontributionId": 71748,
+        "bookId": 45,
+        "chapterId": 5,
+        "headingId": 511,
+        "headingText": "<h5>Clinical prognostic factors</h5>\r\n<p>Studies specifically addressing IDH-mutant astrocytomas have confirmed the association of younger age with longer survival {29687258; 31733156}. Similarly, the extent of resection and the presence of postoperative residual tumour have been shown to correlate with overall survival (OS) {27344556; 29016833; 24305719}.</p>\r\n<h5>Proliferation</h5>\r\n<p>Proliferative activity quantified by mitotic count remains a grading criterion for IDH-mutant astrocytomas, yet several studies of IDH-mutant cohorts have not shown significant risk stratification {31529048; 25701198; 27049832}. Other studies have demonstrated that traditional grading schemes based on mitotic activity can stratify risk among patients with CNS WHO grade&nbsp;2 and 3 IDH-mutant astrocytomas&nbsp;{28532485; 29687258; 31733156}. In one study of histological grade&nbsp;2 and 3 diffuse gliomas, investigators were not able to identify a Ki-67 threshold that could reliably stratify risk among IDH-mutant astrocytomas {27049832}.</p>\r\n<h5>Histopathological and genetic factors</h5>\r\n<p>The histopathological factors relevant for grading (mitotic activity, microvascular proliferation, and necrosis) are relevant for prognosis (see <em>Proliferation</em> and <em>Grading</em>, above). Patients with IDH-mutant CNS WHO grade&nbsp;2 astrocytomas have a median OS of &gt;&nbsp;10&nbsp;years {31832685; 29687258}. An IDH-mutant astrocytoma that contains considerable mitotic activity and histological anaplasia yet lacks microvascular proliferation, necrosis, and <em>CDKN2A</em>&nbsp;and/or <em>CDKN2B</em> homozygous deletion currently fits into the designation of CNS WHO grade&nbsp;3 IDH-mutant astrocytoma, and patients with such tumours have typical median OS in the range of 5&ndash;10&nbsp;years {29548048}.</p>\r\n<p>IDH-mutant astrocytomas with microvascular proliferation, necrosis, or <em>CDKN2A</em>&nbsp;and/or <em>CDKN2B</em> homozygous deletion (or any combination of these features) correspond to CNS WHO grade&nbsp;4 {31832685; 29687258}, with expected median OS of about 3&nbsp;years {29548048}. The inclusion of <em>CDKN2A</em>&nbsp;and/or <em>CDKN2B</em> homozygous deletion as a criterion is based on evidence that the occurrence of these deletions in IDH-mutant astrocytomas of histological grade&nbsp;2 or 3 is associated with worse outcome, corresponding to CNS WHO grade&nbsp;4. Some studies have further concluded that homozygous deletion of <em>CDKN2A</em>&nbsp;and/or <em>CDKN2B</em> is associated with worse outcome among patients with histologically defined CNS WHO grade&nbsp;4 IDH-mutant astrocytomas {30326163; 29687258}.</p>\r\n<p>In addition to <em>CDKN2A</em>&nbsp;and/or <em>CDKN2B</em> homozygous deletion, several other molecular alterations in IDH-mutant astrocytoma have been associated with malignant progression. Some of these occur concomitantly in higher-grade tumours, complicating the assessment of the prognostic impact of individual alterations. For example, in some reports, a significantly worse prognosis was associated with homozygous deletion of <em>RB1</em> {29687258} or amplification of <em>CDK4</em> {28532485; 31733156; 29016839}, whereas others did not corroborate these associations {30918961; 31832685}. DNA methylation profiling has identified two grade-related methylation groups that are associated with differences in OS {29539639; 29687258}. Amplification of <em>PDGFRA</em> was associated with worse prognosis in several studies {23438035; 29687258; 31733156}. Other copy-number alterations with a reported negative association with prognosis include <em>MET</em> amplification {31667475}, <em>MYCN</em> amplification {29687258}, and chromosome&nbsp;14q loss {30808951; 30918961; 28532485}. One study found that activating point mutations in <em>PIK3R1</em> were associated with shorter OS in univariate analysis {29016839}. Evidence suggests that a higher global copy-number variation load also correlates with worse prognosis {29016839; 31177992; 31349875; 2967258}.</p>",
+        "timestamp": "2021-09-14T17:08:08"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

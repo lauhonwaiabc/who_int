@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 128532,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 764,
+        "headingText": "\r\n<p>Superficial CD34-positive fibroblastic tumour (SCD34FT) is a distinctive low-grade neoplasm of the skin and subcutis, characterized by a proliferation of spindled cells with characteristic morphological features and diffuse expression of CD34. <em>PRDM10</em> rearrangements are often but not always present.</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 128533,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 765,
+        "headingText": "<p>8810/1 Superficial CD34-positive fibroblastic tumour</p>\r\n<p>8810/1&nbsp;<em>PRDM10</em>-rearranged soft tissue tumour</p>",
+        "timestamp": "2025-06-30T10:38:19"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 128534,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 766,
+        "headingText": "\r\n<p>2B53.Y Other specified fibroblastic or myofibroblastic tumour, primary site</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 128535,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 767,
+        "headingText": "<p><em>Acceptable:</em> <em>PRDM10</em>-rearranged soft tissue tumour.</p>",
+        "timestamp": "2025-06-30T10:39:02"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 128536,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 768,
+        "headingText": "<p>None</p>",
+        "timestamp": "2025-06-30T10:39:28"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 128537,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 769,
+        "headingText": "\r\n<p>This tumour most frequently occurs in the lower extremities (especially the thigh), followed by the arm, buttock, shoulder, and (rarely) vulva {23887307; 26946226; 27636918; 30004071; 34121219; 34969957}.</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 128538,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 770,
+        "headingText": "\r\n<p>The tumour typically presents as a slow-growing, painless mass of the superficial soft tissues. A long prebiopsy duration (&gt;&nbsp;5&nbsp;years) is often noted {23887307}. Rare cases present as deep-seated lesions {34121219}. Tumour size varies from 15 to 100&nbsp;mm, but it is usually &lt;&nbsp;50&nbsp;mm {23887307; 27636918; 28937375; 34121219; 34969957}.</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 128539,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 771,
+        "headingText": "\r\n<p>Slightly more than 100&nbsp;cases have been reported. Most have occurred in middle-aged adults (median age: 38&nbsp;years), with a slight male predominance {23887307; 27636918; 34121219; 34969957; 33969057; 32055270}.</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 128540,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 772,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 128541,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 773,
+        "headingText": "\r\n<p>The morphological, immunohistochemical, and molecular genetic features of SCD34FT and tumours referred to as &ldquo;<em>PRDM10</em>-rearranged soft tissue tumour&rdquo; are identical, strongly supporting their unity {30570551; 34121219; 34969957}. The terminology &ldquo;superficial CD34-positive fibroblastic tumour&rdquo; is preferred, because not all tumours harbour demonstrable <em>PRDM10</em> rearrangements. <em>PRDM10</em> rearrangements have been identified and have been reported in close to 60% of cases previously classified as SCD34FT or <em>PRDM10</em>-rearranged soft tissue tumour {30570551; 34969957}. Specific identified fusions have included <em>MED12</em>::<em>PRDM10</em>, <em>CITED2</em>::<em>PRDM10</em>, <em>PRDM10</em>::<em>ARHGAP32</em>, and <em>PRDM10</em>::<em>RAB30</em> {30570551; 34121219; 34969957}.</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 128542,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 780,
+        "headingText": "\r\n<p>The tumours are circumscribed, firm, yellow to tan soft tissue masses with a variably gelatinous appearance {23887307; 27636918; 28937375; 34121219}.</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 128543,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 774,
+        "headingText": "\r\n<p>The lesions grow in a relatively circumscribed (but at least partially infiltrative) fashion and are composed of cellular fascicles and sheets of spindled and pleomorphic cells with abundant eosinophilic cytoplasm, often having a granular or &ldquo;glassy&rdquo; appearance. Lipidized tumour cells are commonly present. The neoplastic cells show moderate to marked nuclear pleomorphism, often with bizarre, hyperchromatic nuclei containing prominent nucleoli and intranuclear cytoplasmic pseudoinclusions. Mitotic activity is very low, and necrosis is rarely seen {23887307; 27636918; 26946226; 30004071}. A mixed inflammatory cell infiltrate is often present. Rarely, myxoid stroma and metaplastic bone are reported in <em>PRDM10</em>-rearranged soft tissue tumours {34121219}.</p>\r\n<h6>Immunohistochemistry</h6>\r\n<p>These tumours invariably express CD34, and they are focally immunoreactive for keratins in close to 70% of cases (most often with the AE1/AE3 clones). SMARCB1 (INI1) expression is retained, and p53 expression shows a wildtype pattern. The Ki-67 (MIB1) proliferation index is very low (&lt;&nbsp;5%) {23887307; 27636918; 34121219; 34969957}. PRDM10 immunohistochemistry is consistently positive {30570551}. CADM3 (SynCam3) immunopositivity is reported in 95&ndash;100% of cases {34121219; 34969957}.</p>\r\n<h6>Differential diagnosis</h6>\r\n<p>The differential diagnosis of SCD34FT includes pleomorphic dermal sarcoma, dermatofibrosarcoma protuberans, plaque-like CD34-positive dermal fibroma, myxoinflammatory fibroblastic sarcoma, superficial solitary fibrous tumours, inflammatory myofibroblastoma, superficial myxofibrosarcoma, fibrous histiocytoma, and epithelioid sarcomas {33969057}. It may also include atypical fibrous histiocytoma, atypical fibroxanthoma, and undifferentiated pleomorphic sarcoma.</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 128544,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 775,
+        "headingText": "\r\n<p>Cytology shows cellular smears composed of large, pleomorphic cells with granular to glassy cytoplasm {27432164; 36151940}.</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 128545,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 776,
+        "headingText": "\r\n<p>Demonstration of <em>PRDM10</em> rearrangement is useful in selected cases.</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 128546,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 779,
+        "headingText": "\r\n<p><em>Essential:</em> superficial location; large eosinophilic cells with granular to glassy cytoplasm, marked nuclear pleomorphism, and a low mitotic rate; diffuse CD34 expression.</p>\r\n<p><em>Desirable:</em> CADM3 expression; keratin immunoreactivity; <em>PRDM10</em> rearrangement.</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 128547,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 777,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 128548,
+        "bookId": 64,
+        "chapterId": 304,
+        "headingId": 778,
+        "headingText": "\r\n<p>The prognosis for patients with this tumour is excellent, with only a single lymph node metastasis and no local recurrences reported in 45&nbsp;cases with follow-up. All patients with this tumour have been reported to be alive and disease-free at the time of last follow-up {23887307; 27636918; 34121219}.</p>",
+        "timestamp": "2025-04-25T15:07:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

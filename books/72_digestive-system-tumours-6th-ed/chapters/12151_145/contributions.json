@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 149778,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 951,
+        "headingText": "\r\n<p>Systemic mastocytosis (SM) is a myeloid neoplasm characterized by clonal proliferation of mast cells, involving at least one extracutaneous location, with or without evidence of skin lesions. Mast cell sarcoma (MCS) is a locally destructive solid tumour comprising highly atypical mast cells.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 149779,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 952,
+        "headingText": "\r\n<p>97410/1 Systemic mastocytosis, NOS</p>\r\n<p>97400/3 Mast cell sarcoma</p>\r\n",
+        "timestamp": "2026-06-09T11:29:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 149780,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 953,
+        "headingText": "\r\n<p>2A21.0Z Systemic mastocytosis, NOS</p>\r\n<p>2A21.2 Mast cell sarcoma</p>\r\n",
+        "timestamp": "2026-06-09T11:29:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 149781,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 954,
+        "headingText": "\r\n<p><em>Acceptable:</em> systemic mast cell disease.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 149782,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 955,
+        "headingText": "\r\n<h5>Non-advanced systemic mastocytosis</h5>\r\n<p>Bone marrow mastocytosis (97412/1); indolent systemic mastocytosis (97411/1); smouldering systemic mastocytosis (97413/1)</p>\r\n<h5>Advanced systemic mastocytosis</h5>\r\n<p>Aggressive systemic mastocytosis (97414/3); systemic mastocytosis with an associated haematological neoplasm (97415/3); mast cell leukaemia (97420/3)</p>\r\n",
+        "timestamp": "2026-06-09T11:29:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 149783,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 956,
+        "headingText": "\r\n<p>SM is usually diagnosed by morphological and molecular analyses of a bone marrow biopsy/aspirate {24836395;11919419;114472}. Skin is often involved, and other organs, such as the liver and gut, may also be affected {1452127;1617595;11377679;114472;26154789;11377686}. SM may involve any part of the tubular gut, with a predilection for the mucosa. Hepatic involvement is uncommon, and pancreaticobiliary disease is rare {12604889;7557153}.</p>\r\n<p>MCS shows a predilection for the skeletal system and GI tract followed by lymph nodes, skin, spleen, and liver {27602777}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 149784,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 957,
+        "headingText": "\r\n<p>Systemic signs of mastocytosis may be related to organ infiltration or mast cell degranulation {24618605;10909042}. Gastrointestinal manifestations of SM include abdominal discomfort or diffuse pain, constipation, cramping, and diarrhoea. These symptoms are frequently associated with progressive weight loss and hypoalbuminaemia in patients with advanced SM and may be accompanied by ascites, lymphadenopathy, hepatosplenomegaly, rapidly increasing serum tryptase levels, and elevated liver function tests {10909042;1261881;19058339}. Most patients with SM with digestive tract involvement have indolent systemic mastocytosis and present mild to moderate symptoms manageable with H2 blockers. Recent data suggest that some patients with no clinical evidence of SM have atypical mast cell aggregates in the GI tract unassociated with bone marrow involvement. Although currently classified as indolent systemic mastocytosis, available data do not suggest that such cases progress to symptomatic SM {30001235;27391777}.</p>\r\n<p>The clinical presentation of MCS varies depending on the location of the mass. MCS can present de&nbsp;novo (classic MCS), as a transformation of a previous mast cell neoplasm (MCS-like progression) {18055976;22498828;22661384}, or concomitantly with mast cell leukaemia (MCL) {32242922}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 149785,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 958,
+        "headingText": "\r\n<p>MCS is exceedingly rare. SM is generally diagnosed after the second decade of life and affects both sexes with a similar frequency {16799601;2582403;38380845;37758412}.</p>\r\n<p>Most patients are adults (range: 1&ndash;77&nbsp;years) with a slight female predominance (M:F&nbsp;ratio: 1:1.3) {27602777}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 149786,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 959,
+        "headingText": "\r\n<p>More than 90% of adults with SM have gain-of-function <em>KIT</em> mutations, particularly <em>KIT</em> NM_000222.3:c.2447A&gt;T p.(Asp816Val) (also known as <em>KIT</em> D816V) {23181448;25650093;30007460;23593539}. A small number of patients have other types of <em>KIT</em> mutations {16741248;26100086}, and unlike <em>KIT</em> p.(Asp816Val) (D816V), these alterations do not cause imatinib resistance {28978170}. <em>KIT</em> mutations are somatic and acquired throughout life in most cases. Familial aggregation has been rarely reported {33754335;26100086}.</p>\r\n<p><em>KIT</em> is wildtype in 50% of MCS cases, and the canonical <em>KIT</em> p.(Asp816Val) (D816V) mutation is found in only 21% of patients, suggesting that MCS is molecularly distinct from SM {32242922;23196796}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:55"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 149787,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 960,
+        "headingText": "\r\n<p><em>KIT</em> p.(Asp816Val) (D816V) mutations cause aberrant activation of KIT, driving the differentiation, proliferation, and survival of mast cells. This leads to a pathological accumulation of neoplastic mast cells in various organs, the release of mast cell&ndash;derived mediators, and end-organ damage {39456668;19787646;30007460;23593539}. KIT-mediated signalling activates multiple downstream pathways, including PI3K, JAK/STAT, and MAPK {30007460}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 149788,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 967,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2026-06-09T11:29:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 149789,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 961,
+        "headingText": "\r\n<p>The histological features of SM are identical regardless of the subtype. SM is characterized by morphologically atypical intramucosal mast cells {24618605;19058339}. Unlike non-neoplastic mast cells, those of SM tend to form aggregates or appear as a band-like infiltrate under the surface epithelium. Neoplastic mast cells in the gastrointestinal tract tend to be plump or ovoid with faintly eosinophilic cytoplasm and dark nuclei with smooth contours. They are often accompanied by an eosinophil-rich inflammatory infiltrate that may obscure the neoplasm {37863564}.</p>\r\n<p>Hepatic involvement by SM generally features portal-based aggregates of neoplastic mast cells, often accompanied by fibrosis. Because mast cells are rare in the sinusoids, the presence of loosely scattered mast cells in liver sinusoids should be considered suspicious for SM.</p>\r\n<p>Destructive growth of highly atypical mast cells extending into the deeper layers of the digestive tract wall is only seen in exceptionally rare MCS {23196796}.</p>\r\n<p>Normal mast cells show coexpression of mast cell tryptase and KIT (CD117), whereas neoplastic mast cells may express CD25, CD2, or CD30 also {18059223;24111625;21186345;9531582;15371947}. Rare cases of SM show weak expression of CD25 and/or diminished mast cell tryptase staining. Thus, KIT (CD117) should be used to confirm the diagnosis in cases of suspected SM.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 149790,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 962,
+        "headingText": "\r\n<p>Cytology is not relevant in the GI tract.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 149791,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 963,
+        "headingText": "\r\n<p>The detection of <em>KIT</em> mutations in a tumour sample or peripheral blood supports the diagnosis of SM. Additional somatic mutations in other genes are frequently detected in patients with advanced SM, particularly SM with an associated haematological neoplasm. Whole-<em>KIT</em> sequencing is recommended for patients with MCS, as they rarely harbour the imatinib-resistant <em>KIT</em> p.Asp816Val (D816V) mutation {32242922}.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 149792,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 966,
+        "headingText": "\r\n<h5>Systemic mastocytosis</h5>\r\n<p><em>Essential:</em> aggregates of atypical mast cells involving the GI tract; positive for KIT (CD117).</p>\r\n<p><em>Desirable:</em> mast cell tryptase positivity; aberrant expression of CD2+, CD25+, and/or CD30+; pathogenic KIT mutation.</p>\r\n<h5>Mast cell sarcoma</h5>\r\n<p><em>Essential:</em> a localized infiltrative lesion composed of highly atypical mast cells expressing KIT (CD117) and mast cell tryptase are essential. Criteria for SM are not fulfilled in classic MCS.</p>\r\n<p><em>Desirable:</em> immunohistochemical expression of CD2, CD25, and/or CD30.</p>\r\n",
+        "timestamp": "2026-06-09T11:29:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 149793,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 964,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2026-06-09T11:29:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 149794,
+        "bookId": 72,
+        "chapterId": 145,
+        "headingId": 965,
+        "headingText": "\r\n<p>The prognosis depends on the subtype of SM. Indolent systemic mastocytosis is associated with a near-normal life expectancy, while patients with advanced forms of SM present severe gastrointestinal symptoms and substantial morbidity with decreased life expectancy. Patients with incidentally discovered aggregates of neoplastic mast cells in gastrointestinal mucosal biopsies do not appear to progress to symptomatic disease, although data are limited {30001235;27391777}.</p>\r\n<p>The prognosis for patients with MCS is dismal. MCS usually shows locally destructive growth and progression to aggressive systemic mastocytosis or MCL in a short time {3088063;12826896;23129735;27602777;32242922}.</p>",
+        "timestamp": "2026-06-09T11:29:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

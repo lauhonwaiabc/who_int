@@ -1,0 +1,362 @@
+[
+  {
+    "pkheadingid": 925,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1014,
+    "contributions": [
+      {
+        "pkcontributionId": 135607,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1014,
+        "headingText": "\r\n<p>Columnar cell lesions (CCLs) are clonal alterations of the terminal duct lobular unit (TDLU) characterized by enlarged, variably dilated acini lined by columnar epithelial cells. Flat epithelial atypia (FEA) is a flat proliferation of one or more layers of epithelial cells with low-grade (monomorphic) cytological atypia and no intraluminal architecture.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 926,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1015,
+    "contributions": [
+      {
+        "pkcontributionId": 135608,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1015,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-03-20T10:15:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 927,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1016,
+    "contributions": [
+      {
+        "pkcontributionId": 135609,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1016,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-03-20T10:15:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 928,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1017,
+    "contributions": [
+      {
+        "pkcontributionId": 135610,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1017,
+        "headingText": "\r\n<h5>Columnar cell lesions</h5>\r\n<p><em>Acceptable:</em> columnar cell change; columnar cell hyperplasia.</p>\r\n<p><em>Not recommended:</em> blunt duct adenosis; columnar alteration of lobules; columnar metaplasia; hyperplastic unfolded lobules; hyperplastic enlarged lobular units; enlarged lobular units with columnar alteration.</p>\r\n<h5>Flat epithelial atypia</h5>\r\n<p><em>Acceptable:</em> columnar cell change with atypia; columnar cell hyperplasia with atypia.</p>\r\n<p><em>Not recommended:</em> clinging carcinoma (monomorphic type); atypical cystic lobules; atypical lobules type&nbsp;A.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 929,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1018,
+    "contributions": [
+      {
+        "pkcontributionId": 135611,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1018,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-03-20T10:15:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 930,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1019,
+    "contributions": [
+      {
+        "pkcontributionId": 135612,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1019,
+        "headingText": "\r\n<p>CCLs and FEA are lesions of the TDLU of the breast.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 931,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1020,
+    "contributions": [
+      {
+        "pkcontributionId": 135613,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1020,
+        "headingText": "\r\n<p>These lesions are most often detected because of the presence of grouped, amorphous calcifications on mammography. Less frequently, they are an incidental microscopic finding.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 932,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1021,
+    "contributions": [
+      {
+        "pkcontributionId": 135614,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1021,
+        "headingText": "\r\n<p>CCLs are frequently found in breast biopsies. FEA is found in approximately 1&ndash;8% of breast biopsies, although it can be found in as many as 16% of high-risk lesions {32171702;32437426;25639678}.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 933,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1022,
+    "contributions": [
+      {
+        "pkcontributionId": 135615,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1022,
+        "headingText": "\r\n<p>There are no data directly addressing the etiology of these lesions. However, given that they share immunophenotypic and molecular alterations with other lesions in the low-grade breast neoplasia pathway {29413656}, it is reasonable to speculate that their etiology is similar.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 934,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1023,
+    "contributions": [
+      {
+        "pkcontributionId": 135616,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1023,
+        "headingText": "\r\n<p>The available evidence suggests that CCLs are the earliest stage in the low-grade breast neoplasia pathway and represent non-obligate precursors to atypical ductal hyperplasia (ADH), low-grade ductal carcinoma in&nbsp;situ (DCIS), and low-grade invasive breast carcinomas (including tubular carcinomas). Some examples of columnar cell change and columnar cell hyperplasia show genomic abnormalities as determined by assays for loss of heterozygosity (particularly losses of 16q) and comparative genomic hybridization {16400324;15897740;18223478}. Although usual ductal hyperplasia was initially considered the precursor to ADH, evidence suggests that CCLs and FEA are in fact more likely precursors {15897740;18223478}. CCLs and FEA show an immunoprofile similar to that of ADH&nbsp;/ low-grade DCIS {18223478}. The degree of proliferation, architectural atypia, and cytological atypia in these lesions is mirrored at the genetic level, with a stepwise increase in the number and complexity of chromosomal copy-number changes as defined by comparative genomic hybridization {15897740;17325484}. Furthermore, the characteristic genetic alteration of low-grade lesions, loss of 16q, is the most frequently detected recurrent change in CCLs and FEA. It has also been demonstrated that there is a degree of overlap in the molecular genetic profile of CCL/FEA and that of associated more-advanced lesions, implying a precursor&ndash;product relationship {15897740;10813719;40553940}.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 941,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1030,
+    "contributions": [
+      {
+        "pkcontributionId": 135617,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1030,
+        "headingText": "\r\n<p>CCLs and FEA are of microscopic size and cannot be identified on macroscopic examination.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:10"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 935,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1024,
+    "contributions": [
+      {
+        "pkcontributionId": 135618,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1024,
+        "headingText": "\r\n<p>Columnar cell change and hyperplasia are characterized by TDLUs with variably enlarged and dilated acini lined by columnar epithelial cells that frequently have apical cytoplasmic snouts. The involved acini usually have irregular contours. The nuclei are typically round to ovoid, tend to be regularly oriented perpendicular to the basement membrane, and have evenly dispersed chromatin and inconspicuous nucleoli. Luminal secretions and/or microcalcifications are common. In the absence of monomorphic low-grade nuclear atypia, lesions in which the epithelial cell lining is only 1&ndash;2 cell-layers thick are categorized as columnar cell change; those with cellular stratification or tufting &gt;&nbsp;2 cell-layers thick are designated columnar cell hyperplasia {12717115;17182657;29413656}. CCLs with cytological atypia are included within the category of FEA. Columnar cell change/hyperplasia can be distinguished from FEA using established criteria {16424892} although reproducibility of the diagnosis of difficult examples can be low even among expert pathologists {39704183}.</p>\r\n<p>FEA is characterized by replacement of the native epithelial cells of the TDLUs by one or more layers of mildly atypical cuboidal cells with stratified, rounded nuclei. Less commonly, the cells will have a tall columnar appearance. As in columnar cell lesions, apical snouts may be present. Occasional cellular tufts or mounds may be seen, but well-developed arcades, bridges, and micropapillae are absent. The acini of involved TDLUs are variably distended, usually have smooth contours, and may contain secretory or floccular material; microcalcifications are common. The nuclei of the neoplastic cells are typically round and uniform with inconspicuous nucleoli, and are similar in appearance to the nuclei that characterize low-grade DCIS. Uncommonly, the nuclei are ovoid and oriented perpendicular to the basement membrane with a clonal dysplastic appearance similar to low-grade dysplasia seen in adenomatous polyps of the colon. Lymphoid infiltrates may be present in the intralobular stroma of involved TDLUs. The cells of CCLs and FEA consistently demonstrate strong nuclear staining for ER and lack staining for high-molecular-weight cytokeratins such as CK5/6 {29413656}.</p>\r\n<p>CCLs and FEA are often seen in association with other benign changes, such as cysts and epithelial proliferative lesions. There is a strong association between these lesions and the presence of lobular neoplasia; FEA is frequently associated with ADH, low-grade DCIS, and low-grade invasive cancers, in particular tubular carcinoma and invasive lobular carcinoma {11584316;17543075;18628095;17325484}. These observations, in conjunction with the shared molecular alterations of these lesions, support the existence of a low-grade breast neoplasia pathway.</p>\r\n<p>The diagnostic reproducibility of cases with classic features of FEA is high but, in practice, cases with overlapping features with columnar cell change/hyperplasia, ADH, or flat-pattern intermediate-nuclear-grade examples remain challenging {16424892;39704183}. Consensus or second reviews may be a consideration in these scenarios.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 936,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1025,
+    "contributions": [
+      {
+        "pkcontributionId": 135619,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1025,
+        "headingText": "\r\n<p>FNAB cannot specifically diagnose CCL {17230565}, but features that suggest CCL include large tissue fragments consisting of the ballooned terminal ductal epithelium with myoepithelial cells on the outer aspect of the epithelium; large flat sheets of cells, some with a columnar oriented edge; dispersed columnar cells; and calcifications.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 937,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1026,
+    "contributions": [
+      {
+        "pkcontributionId": 135620,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1026,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-03-20T10:15:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 940,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1029,
+    "contributions": [
+      {
+        "pkcontributionId": 135621,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1029,
+        "headingText": "\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/84/9/50089\" target=\"_blank\">#50089</a>Table&nbsp;2.01.</p>\r\n<h5>Columnar cell change and columnar cell hyperplasia</h5>\r\n<p><em>Essential:</em> TDLUs with variably enlarged dilated acini, often with irregular contours; columnar lining epithelial cells without nuclear atypia; cellular stratification or tufting in columnar cell hyperplasia.</p>\r\n<h5>Flat epithelial atypia</h5>\r\n<p><em>Essential:</em> TDLUs with enlarged dilated acini with rounded contours; acini lined by one or more layers of epithelial cells with low-grade (monomorphic) nuclear atypia; no intraluminal architecture.</p>\r\n",
+        "timestamp": "2026-03-20T10:15:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 938,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1027,
+    "contributions": [
+      {
+        "pkcontributionId": 135622,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1027,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-03-20T10:15:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 939,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1028,
+    "contributions": [
+      {
+        "pkcontributionId": 135623,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1028,
+        "headingText": "\r\n<p>A few follow-up studies have shown that columnar cell change and hyperplasia are associated with a slightly increased risk for the subsequent development of breast cancer (relative risk: ~1.5) {18816618;20691043}. However, the risk associated with these lesions is not clearly independent of the risk associated with concomitant proliferative lesions.</p>\r\n<p>Data from a few small retrospective studies and one larger epidemiological study suggest that some cases of FEA may progress to invasive breast carcinoma, although the risk of progression appears to be very low, and this lesion is not associated with the same level of breast cancer risk as atypical lobular hyperplasia and ADH {7831534;11304780;25639678;39270543}. Therefore, FEA should not be managed in the same manner as ADH or atypical lobular hyperplasia.</p>\r\n<p>The upgrade rate after FEA diagnosis on core biopsy has been examined. A meta-analysis of 2482 cases showed a pooled upgrade rate of 5% with 1% to invasive cancer and 2% to carcinoma in&nbsp;situ. The rate dropped to zero when &gt;&nbsp;90% of the targeted calcification was removed by core needle biopsy {33778758}.</p>\r\n<p>There are fewer data on upgrade rates for FEA on MRI, and these patients are not typically of normal risk to begin with.</p>\r\n<p>In the United States, consensus statements from the American Society of Breast Surgeons support imaging follow-up if FEA is the worst lesion identified on core biopsy, unless this finding is considered discordant with imaging (ex mass lesion) or there is other clinical concern for upgrade. Recent international guidelines for B3 lesions (reviewed in Shaaban et al. [[Shaaban AM, McMahon MA, Sharma N. Recent Advances in the Diagnosis and Management of B3 lesions. Diagn Histopathol. 2025 Mar;31(3):145–51. doi:10.1016/j.mpdhp.2024.12.002. ]]) have also been developed that do not mandate surgical excision of FEA but support adequate sampling by vacuum-assisted excision within the context of a multidisciplinary management pathway. Radiological&ndash;pathological correlation is recommended for guiding the management of these cases.</p>",
+        "timestamp": "2026-03-20T10:15:11"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 965,
+    "bookid": 84,
+    "headingType": 2,
+    "headingTitle": "Acknowledgement",
+    "headingPosition": 18,
+    "headingid": 1343,
+    "contributions": [
+      {
+        "pkcontributionId": 135624,
+        "bookId": 84,
+        "chapterId": 9,
+        "headingId": 1343,
+        "headingText": "<font color=\"red\">Updated from previous edition, citations in progress</font>",
+        "timestamp": "2026-03-20T11:14:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

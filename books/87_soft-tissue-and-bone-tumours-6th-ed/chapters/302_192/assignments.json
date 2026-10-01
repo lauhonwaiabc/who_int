@@ -1,0 +1,79 @@
+[
+  {
+    "pkroleId": 194,
+    "bookId": "87",
+    "roleid": 295,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 4139,
+        "lastname": "Khoury",
+        "firstname": "Joseph D.",
+        "initials": "JD",
+        "email": "",
+        "roleid": 295,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 195,
+    "bookId": "87",
+    "roleid": 296,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2148,
+        "lastname": "Hornick",
+        "firstname": "Jason L.",
+        "initials": "JL",
+        "email": "",
+        "roleid": 296,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 196,
+    "bookId": "87",
+    "roleid": 297,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2319,
+        "lastname": "Medeiros",
+        "firstname": "L. Jeffrey",
+        "initials": "LJ",
+        "email": "",
+        "roleid": 297,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 197,
+    "bookId": "87",
+    "roleid": 298,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2429,
+        "lastname": "Chen",
+        "firstname": "Gang",
+        "initials": "",
+        "email": "",
+        "roleid": 298,
+        "position": 0
+      },
+      {
+        "contributorid": 2455,
+        "lastname": "Cleven",
+        "firstname": "Arjen H.G.",
+        "initials": "",
+        "email": "",
+        "roleid": 298,
+        "position": 0
+      }
+    ]
+  }
+]

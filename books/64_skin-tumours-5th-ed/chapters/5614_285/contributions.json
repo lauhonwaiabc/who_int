@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 128311,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 764,
+        "headingText": "\r\n<p>Perineurioma is a usually benign perineural neoplasm occurring in skin, intestinal mucosa, nerves, and soft tissue.</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 128312,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 765,
+        "headingText": "\r\n<p>9571/0 Perineurioma</p>\r\n<p>9571/0 Reticular perineurioma</p>\r\n<p>9571/0 Sclerosing perineurioma</p>\r\n<p>9571/3 Malignant perineurioma</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 128313,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 766,
+        "headingText": "\r\n<p>2F3Y &amp; XH0XF7 Benign non-mesenchymal neoplasms of other specified site &amp; Perineurioma, NOS</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 128314,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 767,
+        "headingText": "\r\n<p><em>Not recommended:</em> perineural cell tumour.</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 128315,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 768,
+        "headingText": "\r\n<p>Reticular perineurioma; sclerosing perineurioma; malignant perineurioma</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 128316,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 769,
+        "headingText": "\r\n<p>Perineurioma has a wide distribution, occurring most commonly on the lower limbs, followed by the upper limbs and trunk {15958848}. Rarely, it arises on the head/neck, in visceral organs (intestinal mucosa {15958849}), and also in nerves {7785653}, soft tissues, and central body cavities. Sclerosing perineurioma usually occurs on fingers and palms {9414186}, rarely elsewhere {27845943}.</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 128317,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 770,
+        "headingText": "\r\n<p>Perineuriomas manifest as well-circumscribed, painless, skin-coloured papules, nodules, or tumours. Ten&nbsp;per&nbsp;cent are dermal, and subcutaneous tissue is more commonly involved than deep soft tissue {11012740}. They are rarely multiple {19187114}.</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 128318,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 771,
+        "headingText": "\r\n<p>Perineuriomas are rare. They have a slight female predilection and a wide age range, with a peak incidence in middle-aged adults {15958848}. Children are rarely affected. The sclerosing subtype is more common in young men {9414186; 12836021}.</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 128319,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 772,
+        "headingText": "\r\n<p>These tumours are nearly always sporadic; rarely, they are associated with neurofibromatosis type&nbsp;1 and type&nbsp;2 {17122521; 17696922; 24294391}.</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 128320,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 773,
+        "headingText": "\r\n<p>Perineuriomas share pathogenetic mechanisms with other nerve sheath tumours, similar to schwannoma and meningioma, such as deletion of 22q12, monosomies, and mutations in <em>NF2</em> {9042282; 11290539; 17122521; 30303818}. Deletion of 17q11 (including <em>NF1</em>) is common in soft tissue perineurioma; other alterations include a three-way chromosome&nbsp;2, 9, and 4 translocation involving <em>ABL1</em>. Rearrangement involving 10q24 frequently occurs in the sclerosing subtype {16096405}. Malignant perineuriomas have been reported with loss of chromosome&nbsp;13q and small deletions of chromosomes&nbsp;3, 6, and 9 {18844938; 30303818}.</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 128321,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 780,
+        "headingText": "\r\n<p>The tumours are well circumscribed and unencapsulated, with a cut surface that is usually firm to rubbery and yellow, tan, or white. They range in size from 5 to 200&nbsp;mm {15958848}.</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 128322,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 774,
+        "headingText": "\r\n<p>Perineuriomas typically show a storiform to fascicular growth pattern, with a lamellar arrangement, perivascular whorls, and a collagenous to myxoid stroma. Plexiform {10936896; 16133356} or lipomatous {18496437} patterns have rarely been reported. The tumour cells are slender and spindled, with wavy, tapering nuclei and delicate bipolar cytoplasmatic processes. Occasionally, ancient features with degenerative nuclear changes, multinucleated giant cells, and nuclear pseudoinclusions may be seen {15958848}. The sclerosing subtype shows strands of small epithelioid to spindle cells, rarely showing granular cell changes {18360122}, in dense collagen. The reticular subtype shows anastomosing cords of elongated spindle cells with reticulate architecture {11257623}. Malignant perineuriomas have a similar architecture but also show hypercellularity, hyperchromasia, pleomorphism, and a high mitotic count {9808129}.</p>\r\n<h6>Immunohistochemistry</h6>\r\n<p>EMA is positive, from weak and focal to strong and diffuse {15958848}. Collagen&nbsp;IV, laminin {14507408}, claudin, and GLUT1 are often positive {12459629; 12836021}, and 60% of tumours express CD34 {20849453}. Sclerosing perineurioma shows limited keratin expression {9414186}. Tumour cells are negative for S100, SOX10, and GFAP.</p>\r\n<h6>Differential diagnosis</h6>\r\n<p>The differential diagnosis includes epithelioid fibrous histiocytoma, fibroma of tendon sheath, sclerotic fibroma, extracranial meningioma, and low-grade fibromyxoid sarcoma {9414186}.</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 128323,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 775,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 128324,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 776,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 128325,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 779,
+        "headingText": "\r\n<p><em>Essential:</em> painless, skin-coloured papules, nodules, or tumour; storiform, whorled, and lamellar architecture; elongated, slender spindle cells with bipolar cytoplasmatic processes; EMA positive; variable expression of claudin-1, GLUT1, CD34.</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 128326,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 777,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 128327,
+        "bookId": 64,
+        "chapterId": 285,
+        "headingId": 778,
+        "headingText": "\r\n<p>Perineuriomas are benign and only rarely recur {9414186; 11257623}. Malignant perineurioma is less aggressive than conventional malignant peripheral nerve sheath tumours (see related section) {9808129}.</p>",
+        "timestamp": "2025-04-25T14:50:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

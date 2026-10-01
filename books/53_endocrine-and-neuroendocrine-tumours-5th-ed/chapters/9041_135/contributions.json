@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 123567,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 607,
+        "headingText": "\r\n<p>Leiomyoma is a benign neoplasm with smooth muscle differentiation.</p>\r\n",
+        "timestamp": "2024-10-09T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 123568,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 608,
+        "headingText": "\r\n<p>8890/0 Leiomyoma, NOS</p>\r\n",
+        "timestamp": "2024-10-09T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 123569,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 609,
+        "headingText": "\r\n<p>2E86.1 Leiomyoma of other or unspecified sites</p>\r\n",
+        "timestamp": "2024-10-09T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 123570,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 610,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 123571,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 611,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 123572,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 612,
+        "headingText": "\r\n<p>The most common endocrine organ site for leiomyoma is the adrenal gland {32871746}, followed by the thyroid gland {30505153}.</p>\r\n",
+        "timestamp": "2024-10-09T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 123573,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 613,
+        "headingText": "<p>Adrenal leiomyomas most often present with abdominal or flank pain/discomfort, and less often with weight loss, anorexia, and malaise {32871746}. Symptom duration may be from 2&nbsp;weeks to months or years {32871746}. In general, adrenal leiomyomas manifest as hormonally non-functioning masses and are not associated with signs or symptoms of hormonal secretion. In some patients, the tumour was found incidentally during workup (e.g. imaging studies) for other unrelated symptoms or other conditions {8019358; 18197480; 22039848; 28255146}. The lack of specific imaging characteristics of these tumours makes them indistinguishable from other adrenal lesions, such as adrenal cortical adenoma, adrenal cortical carcinoma, or phaeochromocytoma, so often a diagnosis is established only after surgical excision {32871746}. Thyroid leiomyoma presents as a painless, slow-growing mass that on thyroid scan appears as a cold nodule {9028371; 3140480; 10212928; 13467621; 14653931; 25657499; 30505153}. Thyroid function testing is normal.</p>",
+        "timestamp": "2024-12-03T14:31:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 123574,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 614,
+        "headingText": "<p>Primary leiomyomas of endocrine organs including the adrenal and thyroid are rare. Almost 50% of adrenal leiomyomas occur in HIV-positive patients {32871746}. Adrenal leiomyomas occur over a wide age range, from the first {8705202} to the eighth decade of life (median age: 34.5&nbsp;years) {28255146; 32871746}, and are more common in women than in men {32871746}.</p>\r\n<p>Thyroid leiomyomas are rare {9028371; 3140480; 10212928; 13467621; 14653931; 25657499; 30505153}. They occur over a wide age range, from the first to the seventh decade of life (median age: 45&nbsp;years), and tend to be more common in women than in men {30505153}.</p>",
+        "timestamp": "2024-10-10T16:48:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 123575,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 615,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2024-10-09T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 123576,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 616,
+        "headingText": "\r\n<p>For adrenal leiomyomas, risk factors include immunodeficiency (acquired or congenital, including HIV/AIDS), reported in almost 50% of patients {8019358; 18197480; 28255146; 32871746}. In some of these cases, EBV was identified by in&nbsp;situ hybridization {7990860; 32871746}. The pathogenetic reason for the association between (adrenal) leiomyoma and HIV or EBV infections is unclear and needs further investigation. EBV-associated smooth muscle tumours were initially reported as a complication of renal transplantation and immunosuppression and were subsequently identified in patients with HIV/AIDS as well as in patients who had undergone cardiac or liver transplantation. The cause of thyroid gland smooth muscle tumours is not known, and there is no viral or organ-transplant association with thyroid gland&ndash;related smooth muscle tumours.</p>\r\n",
+        "timestamp": "2024-10-09T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 123577,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 623,
+        "headingText": "<p>Adrenal leiomyomas are solid, white, tan-white, and cream-coloured masses that are encapsulated or well circumscribed but may appear unencapsulated and multilobulated {3281746}. The tumours vary in size, with a median size at diagnosis of 80&nbsp;mm {32871746}. Most tumours are unilateral, but bilateral occurrence has been reported {32871746}. Thyroid leiomyomas are polypoid, nodular, and usually well demarcated, with a white to tan trabecular cut surface, and they measure 15&ndash;90&nbsp;mm {9028371; 30505153}.</p>",
+        "timestamp": "2024-10-10T16:49:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 123578,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 617,
+        "headingText": "<p>Regardless of the site of origin, the histology of leiomyomas is similar and includes well-circumscribed to encapsulated nodules composed of intersecting fascicles of spindle-shaped to slightly epithelioid cells with eosinophilic cytoplasm and blunt-ended, cigar-shaped nuclei. Perinuclear cytoplasmic vacuoles may be identified. There is no significant nuclear atypia, increased mitotic activity, or tumour necrosis. Neoplastic cells show immunoreactivity for SMA, MSA, desmin, and caldesmon but are negative for S100, KIT, CD34, STAT6, myogenin, and myoglobin {32871746}. In&nbsp;situ hybridization for EBV-encoded small RNA (EBER) may be positive {22483165; 23354505}.</p>\r\n<p>Smooth muscle cell tumours of the adrenal gland are thought to derive from the adrenal vein or its branches, considering its smooth muscle differentiation. However, it is not clear if all tumours originate from the adrenal vein or other smaller intra-adrenal vasculature {9808515; 32871746}. In reported cases of adrenal gland leiomyomas, adrenal gland parenchyma was reported to be present in association with the tumours in some but not all cases, raising the possibility of an extra-adrenal origin (e.g. retroperitoneum) {32871746}. Thyroid leiomyomas are thought to arise from vascular smooth muscle {9028371}, and thyroid gland parenchyma can be seen entrapped by or separate from the tumour.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>In adrenal tumours, the tumour cells are negative for markers associated with adrenal cortical adenoma/carcinoma (e.g. SF1, synaptophysin, inhibin, calretinin, and melan-A) and phaeochromocytoma (e.g. tyrosine hydroxylase, DBH {33405069}, synaptophysin, chromogranin, INSM1). In thyroid tumours, the tumour cells are negative for cytokeratins, thyroglobulin, thyroid transcription factor&nbsp;1 (TTF1), PAX8, calcitonin, CEA, and neuroendocrine markers (synaptophysin, chromogranin, INSM1). Proliferation rates by Ki-67 or MIB1 staining are low, typically &lt;&nbsp;5% {32871746}.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>The clinical and/or imaging differential diagnosis for adrenal gland&ndash;based leiomyomas includes adrenal cortical neoplasms (adenoma, carcinoma) and phaeochromocytoma. The histological differential diagnosis includes peripheral nerve sheath tumours, solitary fibrous tumour, gastrointestinal stromal tumour, and leiomyosarcoma.</p>\r\n<p>The differential diagnosis for thyroid leiomyoma includes other spindle cell lesions of the thyroid gland, including solitary fibrous tumour, invasive fibrous thyroiditis (Riedel disease), post-FNA spindle cell nodules, follicular adenoma with prominent spindle cells, papillary thyroid carcinoma with nodular fasciitis&ndash;like stroma, medullary thyroid carcinoma with a spindle cell pattern, anaplastic thyroid carcinoma, peripheral nerve sheath tumours, leiomyosarcoma, spindle epithelial tumour with thymus-like elements, and intrathyroidal thymic carcinoma {12114676; 16830961; 22400075; 25663334; 30505153}. Psammoma bodies were reported in a thyroid leiomyoma {25657499}, but thyroglobulin, TTF1, and PAX8 were not performed, engendering doubt about the validity of the diagnosis as opposed to a possible diagnosis of papillary thyroid carcinoma with nodular fasciitis&ndash;like stroma.</p>\r\n<p>The characteristic and reproducible histology and immunohistochemical findings in leiomyoma allow for its differentiation from these other adrenal and thyroid lesion/tumour types.</p>",
+        "timestamp": "2024-12-03T14:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 123579,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 618,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2024-10-09T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 123580,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 619,
+        "headingText": "\r\n<p>There are no known markers of genetic relevance.</p>\r\n",
+        "timestamp": "2024-10-09T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 123581,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 622,
+        "headingText": "\r\n<p><em>Essential:</em> intersecting fascicles of bland spindled cells with blunt-ended, cigar-shaped nuclei; immunoreactivity for actins, desmin, and caldesmon.</p>\r\n<p><em>Desirable:</em> a well-circumscribed or encapsulated mass with a white trabecular cut surface; presence of adrenal or thyroid parenchyma.</p>\r\n",
+        "timestamp": "2024-10-09T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 123582,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 620,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T15:33:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 123583,
+        "bookId": 53,
+        "chapterId": 135,
+        "headingId": 621,
+        "headingText": "<p>Endocrine leiomyomas have an excellent prognosis. Surgical excision is curative {9028371; 3140480; 10212928; 13467621; 14653931; 25657499; 30505153; 32871746}.</p>",
+        "timestamp": "2024-10-10T16:51:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 63556,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 370,
+        "headingText": "\r\n<p>Serous carcinoma is a carcinoma with diffuse, marked nuclear pleomorphism, typically exhibiting papillary and/or glandular growth patterns.</p>\r\n",
+        "timestamp": "2020-06-05T16:50:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 63557,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 371,
+        "headingText": "\r\n<p>8441/3 Serous carcinoma NOS</p>\r\n",
+        "timestamp": "2020-06-05T16:50:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 63558,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 372,
+        "headingText": "\r\n<p>2C76.3 Endometrial serous adenocarcinoma</p>\r\n",
+        "timestamp": "2020-06-05T16:50:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 63559,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 373,
+        "headingText": "\r\n<p><em>Acceptable:</em> uterine serous carcinoma; serous adenocarcinoma</p>\r\n",
+        "timestamp": "2020-06-05T16:50:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 63560,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-06-05T16:50:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 63561,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 375,
+        "headingText": "\r\n<p>Uterus</p>\r\n",
+        "timestamp": "2020-06-05T16:50:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 63562,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 376,
+        "headingText": "<p>Most patients present with postmenopausal bleeding. Extrauterine metastasis is present in 40&ndash;50% of surgically staged cases, most frequently involving lymph nodes or peritoneal sites and omentum {18226630; 19952744}.</p>",
+        "timestamp": "2020-07-07T15:20:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 63563,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 377,
+        "headingText": "<p>Serous carcinomas represent approximately 10% of all endometrial carcinomas but account for as many as 40% of endometrial cancer&ndash;related deaths {18226630; 19952744}. When corrected for hysterectomy incidence, the incidence of serous carcinoma of the uterine corpus is higher in black women than in other populations {31125544}. Affected women are more often multiparous and have a history of breast carcinoma and/or tamoxifen use, and the relative risk associated with obesity is less than that of endometrioid carcinoma. Some cases are associated with prior pelvic irradiation. There is a possible link to germline and somatic&nbsp;BRCA mutations {23562522; 31492746; 30413523}.</p>",
+        "timestamp": "2020-08-06T11:32:31"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 63564,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 378,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-06-05T16:50:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 63565,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 379,
+        "headingText": "<p>The vast majority of tumours demonstrate <em>TP53</em> mutations {26556035}. Additional common genetic alterations involve <em>PIK3CA</em>, <em>PP2R1A</em>, and <em>FBXW7</em> {23636398}. <em>ERBB2</em> (<em>HER2</em>) amplification is present in 30% of cases, frequently heterogeneously distributed {24123408; 31550396}. In The Cancer Genome Atlas (TCGA) cohort, all serous carcinomas fell within the copy-number&ndash;high subgroup&nbsp;{23636398}.</p>",
+        "timestamp": "2020-08-06T11:32:59"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 63566,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 386,
+        "headingText": "\r\n<p>The macroscopic appearance is variable. Some tumours present as an obvious endometrial malignancy, often with overt invasion of the myometrium and cervix and sometimes with adnexal involvement. Other cases, arising in atrophic uteri, may be evident only microscopically and are sometimes confined to a polyp.</p>\r\n",
+        "timestamp": "2020-06-05T16:50:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 63567,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 380,
+        "headingText": "<p>Serous carcinoma typically arises in a background of atrophic endometrium or in an endometrial polyp {7590702}. Complex papillary and/or glandular architectural features are present in most cases, with the glands typically being elongated and irregular with slit-like luminal spaces. Less commonly, the glands are rounded, with smooth luminal borders resembling endometrioid carcinoma, and a solid growth pattern can also be present. The cytology is high-grade, with marked nuclear pleomorphism, macronucleoli, and conspicuous mitotic activity. Multinucleation and psammomatous calcifications are sometimes seen. Myoinvasive tumours may have a gaping-gland pattern and often show prominent lymphovascular space invasion. Carcinoma replacing the native surface and glandular epithelium without associated invasion (serous endometrial intraepithelial carcinoma) may be present adjacent to serous carcinoma or identified in the absence of invasive disease. In the absence of demonstrable invasion, the intraepithelial lesions can shed malignant cells and metastasize to extrauterine sites {10843281; 11444195}, and they should be considered as potentially metastatic. Serous carcinomas almost invariably show mutation-pattern p53 immunostaining, and there is typically diffuse expression of p16, IMP3, and HMGA2. ERBB2 (HER2) overexpression is sometimes present, and ER/PR staining is variable. Unlike in grade&nbsp;3 endometrioid carcinoma, aberrant staining for PTEN, &beta;-catenin, ARID1A (BAF250a), and mismatch repair proteins is very uncommon. Serous carcinoma may be a component of mixed carcinoma, and serous-like features can be present in histologically ambiguous tumours and occasionally in <em>POLE</em>-mutated carcinomas.</p>",
+        "timestamp": "2020-07-07T15:20:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 63568,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 381,
+        "headingText": "<p>Not clinically relevant</p>",
+        "timestamp": "2020-07-07T11:29:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 63569,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 382,
+        "headingText": "\r\n<p>The presence of <em>TP53</em> mutations, detected either by molecular analysis or indirectly with immunohistochemistry, is supportive of serous carcinoma.</p>\r\n",
+        "timestamp": "2020-06-05T16:50:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 63570,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> a cytologically high-grade endometrial carcinoma with complex papillary and/or glandular architecture.</p>\r\n<p><em>Desirable:</em> abnormal p53 and diffuse p16 immunohistochemistry.</p>\r\n",
+        "timestamp": "2020-06-05T16:50:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 63571,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 383,
+        "headingText": "<p>This entity is staged according to the Union for International Cancer Control (UICC) TNM classification (see <em>TNM staging of tumours of the uterus&nbsp;&ndash; endometrium</em>&nbsp;[[Brierley JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley-Blackwell; 2017.]]) and the FIGO staging system.</p>",
+        "timestamp": "2020-07-15T11:51:46"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 63572,
+        "bookId": 34,
+        "chapterId": 225,
+        "headingId": 384,
+        "headingText": "<p>Endometrium-limited carcinoma has a better prognosis, but patients with extrauterine spread, including patients with serous endometrial intraepithelial carcinoma and minimally invasive disease, have poor outcomes. ERBB2 (HER2) overexpression and/or gene amplification is seen in &gt;&nbsp;30% of endometrial serous carcinomas {23765245; 29584549}. Patients with recurrent or advanced-stage ERBB2 (HER2)-positive endometrial serous carcinoma have been shown to benefit from the addition of trastuzumab to a carboplatin and paclitaxel regimen {29584549}.</p>",
+        "timestamp": "2020-08-04T09:44:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "pkroleId": 170,
+    "bookId": "84",
+    "roleid": 264,
+    "roleTitle": "Resp. editor",
+    "contributors": [
+      {
+        "contributorid": 2195,
+        "lastname": "Allison",
+        "firstname": "Kimberly H.",
+        "initials": "",
+        "email": "",
+        "roleid": 264,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 173,
+    "bookId": "84",
+    "roleid": 284,
+    "roleTitle": "Resp. author",
+    "contributors": [
+      {
+        "contributorid": 2241,
+        "lastname": "Vincent-Salomon",
+        "firstname": "Anne",
+        "initials": "",
+        "email": "",
+        "roleid": 284,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 174,
+    "bookId": "84",
+    "roleid": 285,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2270,
+        "lastname": "Marchiò",
+        "firstname": "Caterina",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 5486,
+        "lastname": "Giesen",
+        "firstname": "Christine",
+        "initials": "C",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      },
+      {
+        "contributorid": 3326,
+        "lastname": "Indave Ruiz",
+        "firstname": "Blanca I.",
+        "initials": "",
+        "email": "",
+        "roleid": 285,
+        "position": 0
+      }
+    ]
+  }
+]

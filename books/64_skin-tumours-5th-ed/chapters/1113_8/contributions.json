@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 124191,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 764,
+        "headingText": "\r\n<p>PUVA keratosis is a hyperkeratotic cutaneous lesion developing on sun-protected skin following prolonged psoralen and ultraviolet&nbsp;A (PUVA) treatment.</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 124192,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 765,
+        "headingText": "\r\n<p>8070/0 PUVA keratosis</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 124193,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 766,
+        "headingText": "\r\n<p>EK90.Y &amp; XH8MN8 Other discrete epidermal dysplasias &amp; PUVA keratosis</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 124194,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 767,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 124195,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 768,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 124196,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 769,
+        "headingText": "\r\n<p>The development of PUVA keratoses is confined to areas of previous PUVA therapy and typically affects non&ndash;sun-exposed skin of the trunk and thighs.</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 124197,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 770,
+        "headingText": "\r\n<p>Patients with PUVA keratoses present with multiple warty, hyperkeratotic, and scaly papules with a broad base, measuring from a few millimetres to 10&nbsp;mm {8445056}.</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 124198,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 771,
+        "headingText": "\r\n<p>The affected individuals are those receiving PUVA treatment for underlying skin conditions (e.g. psoriasis).</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 124199,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 772,
+        "headingText": "\r\n<p>This type of keratosis arises in association with prolonged medical use of PUVA treatment for skin conditions. The effect is dose-dependent {8445056}.</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 124200,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 773,
+        "headingText": "\r\n<p>Frequent <em>TP53</em> (57%) and <em>HRAS</em> (44%) mutations of the ultraviolet (UV) radiation signature type point to UV radiation exposure as the main etiological factor in these lesions {14962108}.</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 124201,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 780,
+        "headingText": "\r\n<p>See <em>Clinical features</em>, above.</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 124202,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 774,
+        "headingText": "\r\n<p>PUVA keratoses are well demarcated and characterized by acanthosis and overlying hyperkeratosis. A papillomatous growth and focal parakeratosis may be present. Mild keratinocyte dysplasia is noted in approximately 50% of biopsies. An additional finding is the presence of a superficial dermal chronic inflammatory infiltrate {8445056}.</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 124203,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 775,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 124204,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 776,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 124205,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 779,
+        "headingText": "\r\n<p><em>Essential:</em> a well-circumscribed squamoproliferative lesion with up to mild squamous dysplasia in the setting of prolonged PUVA treatment.</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 124206,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 777,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 124207,
+        "bookId": 64,
+        "chapterId": 8,
+        "headingId": 778,
+        "headingText": "\r\n<p>There is an increased risk of the development of non-melanoma skin cancer, particularly squamous cell carcinoma and less often basal cell carcinoma, years after prolonged PUVA treatment in patients with PUVA keratosis {7430462; 22264671; 8445056}.</p>",
+        "timestamp": "2025-04-23T16:51:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

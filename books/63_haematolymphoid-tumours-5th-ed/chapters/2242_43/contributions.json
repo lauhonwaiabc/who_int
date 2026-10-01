@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 118673,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Acute myeloid leukaemia (AML) with <em>MECOM</em> rearrangement is a myeloid neoplasm characterized by rearrangements involving the <em>MDS1</em> and <em>EVI1</em> complex locus gene (<em>MECOM</em>).</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 118674,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9869/3 Acute myeloid leukaemia with <em>MECOM</em> rearrangement</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 118675,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A60.0 &amp; XH2KE3 Acute myeloid leukaemia with recurrent genetic abnormalities &amp; Acute myeloid leukaemia with inv(3)(q21;q26.2) or t(3.3)(q21;q26.2); <em>RPN1</em>-<em>EVI1</em></p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 118676,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Not recommended:</em> acute myeloid leukaemia with <em>EVI1</em> rearrangement.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 118677,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>None</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 118678,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>Blood and bone marrow</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 118679,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Most patients present with cytopenias, but some may have leukocytosis or thrombocytosis {24463215; 34668265}. Increased peripheral blood blasts are usually present, but approximately one&nbsp;third of patients present with a low blast count {24463215; 32189545}. Hepatosplenomegaly may be present in some patients {24463215}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 118680,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>All age groups are affected, but the incidence is highest among adults aged 18&ndash;40&nbsp;years; in this age group, AML with <em>MECOM</em> rearrangement accounts for about 1.2% of de&nbsp;novo AML cases {27529519}. Patients aged 57&ndash;66&nbsp;years generally present with AML or features of myelodysplastic neoplasm (MDS) {24463215; 32189545}. In children, the frequency is 2% and the median age is 3&nbsp;years {20439644; 27529519}. There is no sex predilection.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 118681,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>Unknown</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 118682,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 710,
+        "headingText": "<p><em>MECOM</em>, on chromosome 3q26, encodes several alternative transcripts through the use of different transcription starting sites and intergenic splicing {8643684}, including <em>EVI1</em>; the longer <em>MDS1</em>-<em>EVI1</em>; and a truncated non-oncogenic variant, <em>EVI1</em>&Delta;324 {2113669}. EVI1 is an oncogenic transcription factor {22308434; 23858473}. Its expression in neoplastic myeloid cells disrupts myeloid differentiation, cell-cycle regulation, and cell signalling pathways {23826213}. In rearrangements of the <em>MECOM</em> locus, the translocated partner gene enhancer causes overexpression of <em>EVI1</em> but not of <em>MDS1</em>-<em>EVI1</em>.</p>\r\n<p>The most common cytogenetic alterations involving <em>MECOM</em> include inv(3)(q21.3q26.2) and t(3;3)(q21.3;q26.2) (approximately 40% of all <em>MECOM </em>rearrangements), which result in hijacking of the <em>GATA2</em> enhancer by <em>MECOM</em>, leading to EVI1 overexpression and functional <em>GATA2</em> haploinsufficiency {24703711; 24703906}. Because <em>GATA2</em>&nbsp;encodes a transcription factor essential for normal haematopoietic development {15811962}, functional loss of a <em>GATA2</em>&nbsp;allele further enhances the transforming ability of <em>EVI1</em> {28630119}.</p>\r\n<p>More than 30&nbsp;additional 3q26.2 rearrangements have been described, most of them characterized at the molecular level. In these rearrangements, <em>MECOM</em> is brought into the vicinity of regulatory elements of genes active in myeloid cells, such as <em>RUNX1</em>, <em>ETV6</em>, <em>NRIP1</em>, <em>THADA</em>, <em>CDK6</em>, <em>MYC</em>, <em>ARID1B</em>, <em>CD164</em>, <em>PROM1</em>, or <em>FSCN1</em>/<em>EIF2AK1</em> {22887804; 31109591; 32219447}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-21T15:33:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 118683,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 118684,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 711,
+        "headingText": "<p>Peripheral blood smears often show dysplastic neutrophils, with or without associated blasts. Red blood cell changes are usually mild, without teardrop cells. Giant and hypogranular platelets, as well as bare megakaryocyte nuclei, may be present.</p>\r\n<p>Bone marrow cellularity is variable, and features of fibrosis may be present. Blasts in the bone marrow have variable morphology, often resembling those seen in AML without maturation, acute myelomonocytic leukaemia, or acute megakaryoblastic leukaemia. Multilineage dysplasia is common and most pronounced in megakaryocytes, which are often small and have a non-lobated or bilobed nucleus, although other forms of megakaryocytic dysplasia may also occur. Erythroid and granulocytic dysplasia is also common. Marrow eosinophils, basophils, and/or mast cells may be increased.</p>\r\n\r\n<h5>Immunophenotype</h5>\r\n\r\n<p>Blasts are positive for CD34, CD33, CD13, KIT (CD117), and HLA-DR; most are CD38-positive, with aberrant CD7 expression frequently observed {19781775}. High CD34 expression is more common with inv(3) than with t(3;3) {25680074}. A subset of cases may express megakaryocytic markers such as CD41 and CD61.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-01T12:34:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 118685,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>See above.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 118686,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>The most frequent rearrangement is <em>GATA2</em>::<em>MECOM</em>, which results from either inv(3)(q21.3q26.2) or t(3;3)(q21.3;q26.2), but &gt;&nbsp;30&nbsp;partner genes have been described. The most frequent are: 2p21/<em>THADA</em>, 3p24.3, 6q25.3/<em>ARID1B</em>, 7q21.2/<em>CDK6</em>, 8q24.21/<em>MYC</em>, 12p13/<em>ETV6</em>, 21q11.2/<em>NRIP1</em>, and 21q22/<em>RUNX1</em> {32219447; 32189545; 22887804; 34584081}. Most 3q26.2/<em>MECOM</em> rearrangements are detectable by chromosome banding analysis; however, a subset are cytogenetically cryptic {22887804}. Therefore, several guidelines recommend the use of FISH using break-apart probes that flank the breakpoints within <em>MECOM</em> {27895058; 30696948; 31109591; 34974290}.</p>\r\n<p>Additional chromosomal abnormalities are common and include monosomy&nbsp;7 or del(7q), del(5q), and complex karyotype {20660833; 8547101}. The spectrum and frequency of additional chromosomal abnormalities in cases with inv(3)/t(3;3) does not differ from that seen in cases with other <em>MECOM</em> rearrangements {32189545}. The frequency of additional cytogenetic aberrations seems to be higher in cases with &ge;&nbsp;20% bone marrow blasts than in those with lower blast counts {32189545}.</p>\r\n<p>Quantitative RT-PCR can be performed to detect increased <em>EVI1</em> expression, but such a finding is not specific and can be seen in other contexts, including <em>KMT2A</em> rearrangement {21190993; 20308656; 23008312; 22553314}. A hallmark of AML with <em>MECOM</em> rearrangement is EVI1 overexpression in the absence of <em>MDS1</em>-<em>EVI1</em> transcription {32219447}.</p>\r\n<p>Gene mutations are found in virtually all cases of AML with <em>MECOM</em> rearrangement. Mutations of genes activating RAS&nbsp;/ receptor tyrosine kinase signalling pathways are reported in nearly all cases, most commonly affecting <em>NRAS</em> (in ~25% of cases); <em>PTPN11</em> (in ~20%); <em>FLT3</em>, <em>KRAS</em>, <em>NF1</em>, and <em>CBL</em> (in ~10% each); and <em>KIT</em> (in 2%). Other commonly mutated genes are <em>SF3B1</em> (mutated in ~25% of cases, often co-mutated with <em>GATA2</em>); <em>ASXL1</em> (in ~20%); <em>GATA2</em>, <em>SRSF2</em>, and <em>RUNX1</em> (in ~15% each); and <em>DNMT3A</em> and <em>TP53</em> (in ~10% each) {25381062; 16314052; 32189545}.</p>\r\n<p>Cases with inv(3)/t(3;3) with &lt;&nbsp;20% versus &ge;&nbsp;20% bone marrow blast counts do not differ in mutation patterns or gene expression profiles {25381062; 32189545}.</p>\r\n<p>Patients with chronic myeloid leukaemia (CML) may acquire <em>MECOM</em> rearrangement; such cases are defined as blast phase regardless of the number of blasts. Although rare, cases with concurrent <em>BCR</em>::<em>ABL1</em> and <em>MECOM</em> rearrangement at presentation are best regarded as blast phase CML.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 118687,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 716,
+        "headingText": "\r\n\r\n<p><em>Essential:</em> a myeloid neoplasm with increased peripheral blood and/or bone marrow blasts (may be &lt;&nbsp;20%); detection of <em>MECOM</em> rearrangement; no history of myeloproliferative neoplasm; not fulfilling diagnostic criteria for myeloid neoplasm post cytotoxic therapy.</p>\r\n<p><em>Desirable:</em> detection of inv(3)(q21.3q26.2), t(3;3)(q21;q26), t(3;21)(q26.2;q22), or t(3;12)(q26.2;p13).</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 118688,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 118689,
+        "bookId": 63,
+        "chapterId": 43,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>AML with <em>MECOM</em> rearrangement is an aggressive disease with short survival, irrespective of the blast percentage {24463215; 32189545}. No difference in outcome was observed between cases with inv(3)/t(3;3) and those with <em>MECOM</em> rearrangements with other partners {32189545}. Complex karyotype and additional monosomy&nbsp;7, as well as at least two additional mutations, are associated with an even worse prognosis {20660833; 24463215; 32189545}.</p>",
+        "timestamp": "2024-03-01T12:34:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

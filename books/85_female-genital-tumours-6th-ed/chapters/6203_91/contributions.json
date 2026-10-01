@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1070,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1086,
+    "contributions": [
+      {
+        "pkcontributionId": 152045,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1086,
+        "headingText": "\r\n<p>Papillary cystadenoma is a benign papillary cystic tumour of probable mesonephric origin.</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1071,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1087,
+    "contributions": [
+      {
+        "pkcontributionId": 152046,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1087,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1072,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1088,
+    "contributions": [
+      {
+        "pkcontributionId": 152047,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1088,
+        "headingText": "<font color=\"red\">Classification in progress, Data not available in this Beta</font>",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1073,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1089,
+    "contributions": [
+      {
+        "pkcontributionId": 152048,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1089,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1074,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1090,
+    "contributions": [
+      {
+        "pkcontributionId": 152049,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1090,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1075,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1091,
+    "contributions": [
+      {
+        "pkcontributionId": 152050,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1091,
+        "headingText": "\r\n<p>Uterine ligaments {3341511; 22317868; 22296276} and less commonly fallopian tube {25366076} and ovary {31985579}</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1076,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1092,
+    "contributions": [
+      {
+        "pkcontributionId": 152051,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1092,
+        "headingText": "\r\n<p>The tumour occurs in adults and may present with abdominal pain; some cases are incidental findings {22296276}.</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1077,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1093,
+    "contributions": [
+      {
+        "pkcontributionId": 152052,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1093,
+        "headingText": "\r\n<p>Papillary cystadenoma is extremely rare. Most patients have von Hippel&ndash;Lindau syndrome {22296276; 22317868; 3341511; 2386149}.</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1078,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1094,
+    "contributions": [
+      {
+        "pkcontributionId": 152053,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1094,
+        "headingText": "\r\n<p>The anatomical location and immunophenotype suggest a mesonephric origin {22296276}.</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1079,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1095,
+    "contributions": [
+      {
+        "pkcontributionId": 152054,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1095,
+        "headingText": "\r\n<p>Allelic loss of <em>VHL</em> has been reported {11493991}.</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1086,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1102,
+    "contributions": [
+      {
+        "pkcontributionId": 152055,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1102,
+        "headingText": "\r\n<p>The tumours range from &lt;&nbsp;10&nbsp;to 80&nbsp;mm, have a thick fibrotic capsule, and are traversed by fibrous bands creating a cystic-solid lobulated appearance {22296276; 9421096}.</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1080,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1096,
+    "contributions": [
+      {
+        "pkcontributionId": 152056,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1096,
+        "headingText": "\r\n<p>Tumours are characterized by tubulocystic to papillary growth with varying broad-based and delicate branching and stromal hyalinization. Focal solid growth may be present. The cells are cuboidal to low columnar and non-ciliated, with clear to eosinophilic cytoplasm. The nuclei exhibit uniform chromatin and inconspicuous nucleoli. Prominent subepithelial blood vessels are common. Cytological atypia, mitotic activity, or necrosis are typically absent. The cells demonstrate expression of epithelial and mesothelial markers. Tumours are frequently positive for AE1/AE3, EMA, CK7, PAX8, and PAX2. WT1, CD10, and calretinin are variably positive; ER and PR are negative {22296276; 24441657; 22317868; 15767808; 31985579}.</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1081,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1097,
+    "contributions": [
+      {
+        "pkcontributionId": 152057,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1097,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1082,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1098,
+    "contributions": [
+      {
+        "pkcontributionId": 152058,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1098,
+        "headingText": "\r\n<p>Demonstration of <em>VHL</em> mutation may be helpful.</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1085,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1101,
+    "contributions": [
+      {
+        "pkcontributionId": 152059,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1101,
+        "headingText": "\r\n<p><em>Essential:</em> a cystic/lobulated mass; complex tubulopapillary growth of non-ciliated and cuboidal cells.</p>\r\n<p><em>Desirable:</em> von Hippel&ndash;Lindau syndrome.</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1083,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1099,
+    "contributions": [
+      {
+        "pkcontributionId": 152060,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1099,
+        "headingText": "\r\n<p>Not applicable</p>\r\n",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1084,
+    "bookid": 85,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1100,
+    "contributions": [
+      {
+        "pkcontributionId": 152061,
+        "bookId": 85,
+        "chapterId": 91,
+        "headingId": 1100,
+        "headingText": "\r\n<p>The vast majority are benign. Rare exceptions have been reported {22296276; 38914169}.</p>",
+        "timestamp": "2026-08-25T18:54:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

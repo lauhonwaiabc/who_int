@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 65849,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 370,
+        "headingText": "\r\n<p>Leiomyoma is a benign smooth muscle tumour.</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 65850,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 371,
+        "headingText": "\r\n<p>8890/0 Leiomyoma NOS</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 65851,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 372,
+        "headingText": "\r\n<p>2E86.1 &amp; XH4CY6 Leiomyoma of other or unspecified sites &amp; Leiomyoma NOS</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 65852,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 373,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 65853,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 374,
+        "headingText": "\r\n<p>Epithelioid leiomyoma; myxoid leiomyoma</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 65854,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 375,
+        "headingText": "\r\n<p>They most frequently arise in the vulva {28786880}.</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 65855,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 376,
+        "headingText": "\r\n<p>Lower genital tract leiomyomas are usually &lt;&nbsp;5&nbsp;cm. They may present as a slow-growing, painless mass; many are clinically suspected to be a cyst.</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 65856,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 377,
+        "headingText": "\r\n<p>Leiomyomas are the most common mesenchymal tumour of the lower genital tract. Most patients are in the fourth to sixth decade of life {418977; 450336; 8669526; 28786880}.</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 65857,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 378,
+        "headingText": "\r\n<p>The etiology is unknown. Patients with Alport syndrome and germline deletion of <em>COL4A5</em> and <em>COL4A6</em> can develop diffuse leiomyomatosis of the oesophagus, tracheobronchial tree, vulva, and uterus {8356449; 2026365}.</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 65858,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 379,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 65859,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 386,
+        "headingText": "\r\n<p>Leiomyomas of the lower genital tract are typically well circumscribed, nodular, and rubbery, with a white to tan bulging cut surface, analogous to their uterine counterparts. Cystic change, softening from oedema, and (in large tumours) focal to patchy haemorrhage can be present {8669526; 28786880}.</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 65860,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 380,
+        "headingText": "\r\n<p>Leiomyomas are composed of intersecting fascicles of cytologically bland spindle cells with ample eosinophilic cytoplasm and elongated tapered to blunt-ended nuclei. Most have minimal cytological atypia and a mitotic count of &lt;&nbsp;2.3&nbsp;mitoses/mm<sup>2</sup> (equating to &lt;&nbsp;5&nbsp;mitoses/10&nbsp;HPF of 0.53&nbsp;mm in diameter and 0.22&nbsp;mm<sup>2</sup> in area). Ischaemic or hyaline necrosis may occur, but tumour cell necrosis is absent. Lower genital tract tumours tend to have hyalinized or myxoedematous stroma focally or diffusely {418977; 450336; 8669526; 28786880}.</p>\r\n<p>Subtypes such as myxoid leiomyoma, epithelioid leiomyoma, leiomyoma with bizarre nuclei, and mitotically active leiomyoma are rare {10782419; 12701642; 10203920}. The classification criteria for subtypes are probably similar to those for the uterus, but data are limited. Differing criteria for risk stratification have been proposed {418977; 450336; 8669526; 28786880}. A recent study comparing the predictive accuracy of proposed criteria showed that uterine smooth muscle tumour criteria outperformed others, and the authors endorsed these criteria {28786880}. Malignant potential in atypical smooth muscle neoplasms of the lower genital tract can thus be defined per uterine criteria.</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 65861,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 381,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 65862,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 65863,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> conventional leiomyoma: intersecting fascicles of spindle cells exhibiting mild to moderate cytological atypia, a mitotic count of &lt;&nbsp;4.6&nbsp;mitoses/mm<sup>2</sup> (equating to &lt;&nbsp;10&nbsp;mitoses/10&nbsp;HPF of 0.53&nbsp;mm in diameter and 0.22&nbsp;mm<sup>2</sup> in area), and an absence of tumour cell necrosis.</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 65864,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 383,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 65865,
+        "bookId": 34,
+        "chapterId": 432,
+        "headingId": 384,
+        "headingText": "\r\n<p>Leiomyomas are benign and complete resection is curative. Local recurrence is possible if leiomyoma is incompletely excised, but recent data indicate that the risk is low {8669526; 28786880}.</p>",
+        "timestamp": "2020-06-12T17:26:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

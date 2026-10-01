@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 1119,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 1158,
+    "contributions": [
+      {
+        "pkcontributionId": 156578,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1158,
+        "headingText": "\r\n<p>Sarcomas with <em>BCOR</em> genetic alterations are primitive round to spindle cell sarcomas arising in soft tissues and bone, characterized by oncogenic <em>BCOR</em> fusion genes, most frequently <em>BCOR</em>::<em>CCNB3</em> (<em>BCOR</em> fusion sarcomas), or internal tandem duplications (ITDs) in <em>BCOR</em> (<em>BCOR</em> ITD sarcomas). <em>BCOR</em> ITD sarcomas include undifferentiated round cell sarcomas in children and primitive myxoid mesenchymal tumours of infancy. Although sarcomas with <em>BCOR</em> genetic alterations show distinct clinical presentations, there is overlap with regard to morphology, immunoprofile, and gene methylation profiles, suggesting a shared pathogenesis.</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1120,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 1159,
+    "contributions": [
+      {
+        "pkcontributionId": 156579,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1159,
+        "headingText": "\r\n<p>9368/3 Sarcoma with <em>BCOR</em> genetic alterations</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1121,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 1160,
+    "contributions": [
+      {
+        "pkcontributionId": 156580,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1160,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1122,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 1161,
+    "contributions": [
+      {
+        "pkcontributionId": 156581,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1161,
+        "headingText": "\r\n<p><em>Acceptable:</em> <em>BCOR</em>::<em>CCNB3</em> sarcoma; <em>BCOR</em>-rearranged sarcoma; primitive myxoid mesenchymal tumour of infancy; <em>BCOR</em> ITD undifferentiated sarcoma.</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1123,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 1162,
+    "contributions": [
+      {
+        "pkcontributionId": 156582,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1162,
+        "headingText": "\r\n<p><em>BCOR</em>::<em>YWHAE</em> rearranged sarcoma</p>\r\n<p><em>BCOR</em>-ITD sarcoma (undifferentiated sarcoma and primitive myxoid mesenchymal tumour of infancy)</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1124,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 1163,
+    "contributions": [
+      {
+        "pkcontributionId": 156583,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1163,
+        "headingText": "\r\n<p><em>BCOR</em>::<em>CCNB3</em> sarcoma occurs slightly more often in bone than in soft tissue (ratio: 1.5:1), with a predilection for pelvis, long bones of the lower extremity, and paraspinal region {22387997; 24805859}. In the long bone, the metadiaphysis is the most affected location. Rare locations include the head and neck region, lung, and kidney {29300189; 28817404; 28877060}. <em>BCOR</em> ITD sarcomas occur mainly in the soft tissues of the trunk, retroperitoneum, and head and neck, typically sparing extremities {26945340}.</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1125,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 1164,
+    "contributions": [
+      {
+        "pkcontributionId": 156584,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1164,
+        "headingText": "\r\n<h5>Signs and symptoms</h5>\r\n<p>Pain and swelling are the most common symptoms {25176412}.</p>\r\n<h5>Imaging</h5>\r\n<p>Imaging features resemble those of Ewing sarcoma of bone, with a mixed osteolytic and/or blastic appearance and a permeative pattern of bone destruction. Aggressive periosteal reactions such as hair-on-end and Codman triangle are common, as is a large associated soft tissue mass. Matrix calcifications may be present in the soft tissue mass, either at baseline or subsequent to neoadjuvant chemotherapy {36591870; 32840647; 25176412}.</p>\r\n<p>On MRI, <em>BCOR</em>::<em>CCNB3</em> sarcomas enhance after contrast and may show strong diffusion restriction. The avidity on 18F-FDG PET/CT varies widely {36591870}. Specific imaging findings to distinguish <em>BCOR</em>::<em>CCNB3</em> sarcomas from Ewing sarcoma are lacking.</p>\r\n<p>For the group of sarcomas with <em>BCOR</em> ITD, there are insufficient data to guide radiological diagnosis at present.</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1126,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 1165,
+    "contributions": [
+      {
+        "pkcontributionId": 156585,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1165,
+        "headingText": "\r\n<p>Sarcomas with <em>BCOR</em> genetic alterations are uncommon, with much fewer cases than Ewing sarcoma {24805859; 26945340}. Reported <em>BCOR</em>::<em>CCNB3</em> sarcoma cases show predilection for children, with &gt;&nbsp;90% of patients aged &lt;&nbsp;20&nbsp;years {29300189; 28877060} and a male predominance (M:F&nbsp;ratio: 4.5:1) {28420319; 28197724; 24805859; 36591870}. Soft tissue sarcomas with alternative <em>BCOR</em> gene rearrangements are seen in a broader age range {26752546}. <em>BCOR</em> ITD sarcomas occur within the first year of life or may be present at birth {16538060; 26945340}. <em>BCOR</em> ITD sarcomas rarely occur in adults {31647130; 38718771}.</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1127,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 1166,
+    "contributions": [
+      {
+        "pkcontributionId": 156586,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1166,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1128,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 1167,
+    "contributions": [
+      {
+        "pkcontributionId": 156587,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1167,
+        "headingText": "\r\n<p>The <em>BCOR</em> family of tumours includes tumours with <em>BCOR</em> gene fusions, <em>BCOR</em> ITD, as well as <em>YWHAE</em>::<em>NUTM2B</em> and <em>KDM2B</em> gene fusions, resulting in oncogenic activation and BCOR overexpression. <em>BCOR</em> ITD tumours include cerebral tumours (high-grade neuroepithelial tumours), which present with a different methylation profile, and sarcomatous types described in the kidney as clear cell sarcoma of the kidney, in the endometrium as high-grade endometrial stromal sarcoma, and in the bone and soft tissue as infantile undifferentiated round cell sarcoma or primitive myxoid mesenchymal tumour of infancy (PMMTI). Although these sarcomas show distinct clinical presentations, there is overlap with regard to morphology, immunoprofile, gene expression, and methylation profile {35174661; 36853789; 37634866}.</p>\r\n<p>Similar to clear cell sarcoma of kidney and high-grade endometrial stromal sarcoma {26098867; 29200103; 22223660}, infantile undifferentiated round cell sarcomas are characterized either by <em>BCOR</em> ITD or in rare cases by <em>YWHAE</em>::<em>NUTM2B</em> fusions {26945340}; both genotypes result in oncogenic upregulation of <em>BCOR</em>. Sarcomas with BCOR genetic alterations share a similar gene expression signature, with strong overexpression of HOX family genes {26752546; 29300189; 29431183}. The molecular consequences of the <em>BCOR</em> genetic abnormalities remain largely unknown. BCOR is both an interactor of BCL6 and a repressor of its expression {10898795}. BCOR was later shown to be part of the non-canonical PRC1.1 {16943429}. In CNS tumours with <em>BCOR</em> alteration, <em>BCOR</em> ITD activates both sonic hedgehog and WNT/&beta;-catenin signalling pathways {26919435}. However, brain tumours with <em>BCOR</em> ITD display a specific methylation profile, separate from that of <em>BCOR</em>-altered sarcomas {36853789; 35174661}.</p>\r\n<p><em>BCOR</em>::<em>CCNB3</em> is the most common gene fusion resulting in upregulation of both <em>BCOR</em> and <em>CCNB3</em> partners {22387997; 29300189}. CCNB3 expression, which in normal tissues is restricted to testis, was also shown to be sufficient to increase cellular proliferation in ectopic models {22387997}. Other rare variants include <em>BCOR</em> fusions with <em>MAML3</em>, <em>ZC3H7B</em>, <em>CHD9</em>, <em>KMT2D</em>, <em>CIITA</em>, <em>RTL9</em> (<em>RGAG1</em>), <em>CLGN</em>, <em>MAML1</em>, and <em>AHR</em> gene partners {26752546; 32034283; 31647130; 34331570; 36765856; 38422910}. In&nbsp;silico analysis supports the possibility of disrupted PRC1.1 function in <em>BCOR</em> fusions {40228447}. Rare soft tissue sarcomas with rearrangement of <em>KDM2B</em> gene, which also encodes a component of PRC1.1, show phenotypes similar to <em>BCOR</em> sarcomas {37634866}.</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1135,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 1174,
+    "contributions": [
+      {
+        "pkcontributionId": 156588,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1174,
+        "headingText": "\r\n<p>Tumours are typically large (&gt;&nbsp;50&ndash;100&nbsp;mm), tan-grey, soft to fleshy lesions, with areas of necrosis. Osseous lesions often show cortical destruction and extension into the soft tissues {25176412; 24805859}.</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1129,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 1168,
+    "contributions": [
+      {
+        "pkcontributionId": 156589,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1168,
+        "headingText": "\r\n<p>Sarcomas with <em>BCOR</em> alterations show substantial morphological overlap. <em>BCOR</em>::<em>CCNB3</em> sarcomas are typically composed of a uniform proliferation of primitive round, ovoid to short spindle cells arranged in solid sheets or in a vague nesting pattern, featuring a rich capillary network {28877060; 29300189; 24805859; 32048619}. Other less common morphological patterns include hypocellular areas of short spindle cells set in a myxoid matrix {29300189; 24805859; 32048619} or solid fascicular areas comprising plump spindle cells, reminiscent of poorly differentiated synovial sarcoma {27228320; 25360585; 32048619}. The nuclei have finely dispersed chromatin, and nucleoli are generally inconspicuous. The mitotic activity is variable {29300189; 25176412}. Metastatic/recurrent lesions occasionally display pleomorphic nuclei, osteoid deposition, and rarely cartilaginous differentiation {29300189; 24805859; 36591870; 31033080}. Rare tumours reported in the kidney show substantial overlap with clear cell sarcoma of the kidney {28817404; 30628851}. Sarcomas with <em>BCOR</em> ITD abnormalities include infantile undifferentiated round cell sarcoma and PMMTI which are part of a spectrum, showing variable cellularity, ranging from hypercellular solid sheets of small primitive cells to hypocellular areas of spindle cells, set in a richly vascularized myxoid matrix {16538060; 29430000; 26945340}. Although most PMMTIs display a low-cellularity myxoid phenotype, one study suggested at least a 30% myxoid component cut-off point for this diagnosis {32372022}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Most tumours with various <em>BCOR</em> gene alterations show strong and diffuse nuclear BCOR positivity and in most cases also express SATB2, TLE1, cyclin&nbsp;D1, KDM2B, and pan-TRK {27428733; 32034283; 36591870; 37634866}. The latter finding is present irrespective of the type of <em>BCOR</em> alterations and may result in misdiagnoses as kinase fusion&ndash;positive tumours {32034283; 33077922}. CD99 is positive in approximately 50% of cases {29300189}. BCOR expression is however not specific and, for example, is often observed in synovial sarcoma {27428733; 28877060}. <em>BCOR</em>::<em>CCNB3</em> sarcomas also express cyclin&nbsp;B3, which is not seen in other <em>BCOR</em> family tumours {24805859; 28877060; 26037154}.</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1130,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 1169,
+    "contributions": [
+      {
+        "pkcontributionId": 156590,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1169,
+        "headingText": "\r\n<p>Cytology aspirates show high cellularity, with pseudopapillary tissue fragments with fibrovascular cores and single cells showing similar light and dark cells as seen in Ewing sarcoma. Cells are round with a variable number of spindle and rhabdoid cells, with variable scant to abundant cytoplasm and nuclei with fine chromatin, inconspicuous nucleoli, and variable myxoid matrix and necrosis {31679010; 34265123}.</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1131,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 1170,
+    "contributions": [
+      {
+        "pkcontributionId": 156591,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1170,
+        "headingText": "\r\n<p>The <em>BCOR</em> gene alterations can be detected by various molecular approaches, including FISH for <em>BCOR</em> gene rearrangements, and targeted RNA sequencing for <em>BCOR</em> fusions or ITD. Targeted RNA sequencing can also detect the less common <em>YWHAE</em>::<em>NUTM2B</em> fusion.</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1134,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 1173,
+    "contributions": [
+      {
+        "pkcontributionId": 156592,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1173,
+        "headingText": "\r\n<p><em>Essential:</em> primitive round to spindle cells arranged in nests, sheets, or fascicular growth; variably myxoid stroma with delicate vasculature; expression of BCOR, SATB2, and cyclin&nbsp;D1; molecular confirmation of <em>BCOR</em> genetic abnormality (<em>BCOR</em> fusion, <em>BCOR</em> ITD), <em>YWHAE</em>::<em>NUTM2B</em> fusion, or <em>KDM2B</em> gene fusion.</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1132,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 1171,
+    "contributions": [
+      {
+        "pkcontributionId": 156593,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1171,
+        "headingText": "\r\n<p>Sarcoma with <em>BCOR</em> genetic alterations is staged according to the Union for International Cancer Control (UICC) and American Joint Committee on Cancer (AJCC) TNM staging.</p>\r\n",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1133,
+    "bookid": 87,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 1172,
+    "contributions": [
+      {
+        "pkcontributionId": 156594,
+        "bookId": 87,
+        "chapterId": 231,
+        "headingId": 1172,
+        "headingText": "\r\n<p>The emerging data suggest that patients with <em>BCOR</em>::<em>CCNB3</em> sarcoma show 5-year survival rates similar to those of patients with Ewing sarcoma (72&ndash;80%) and show pathological response to Ewing sarcoma&ndash;based treatment regimens {25176412; 29300189; 24805859}. A substantial proportion of patients present with metastatic disease; the most common metastatic site is the lung, followed by bone, soft tissue, and visceral locations {25176412; 29300189; 24805859; 32048619}. The reported overall outcomes of <em>BCOR</em>::<em>CCNB3</em> sarcomas are relatively better than those of <em>CIC</em>-rearranged as well as other unclassified round cell sarcomas {29300189; 36791667}. The outcomes of tumours with less common non-canonical <em>BCOR</em> fusions are not well defined.</p>\r\n<p>In contrast, patients with <em>BCOR</em> ITD tumours have a less favourable outcome, with 56% succumbing to diseases at a mean duration of 18&nbsp;months. No survival difference has been detected between undifferentiated round cell sarcomas and PMMTIs, and between those with <em>BCOR</em> ITD and <em>YWHAE</em> fusions {32372022}.</p>",
+        "timestamp": "2026-09-01T10:32:49"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

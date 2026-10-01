@@ -1,0 +1,17 @@
+[
+  {
+    "pkattachmentId": 39970,
+    "bookid": 45,
+    "chapterId": 242,
+    "fileId": 19824,
+    "type": "Figure",
+    "diagnosis": "Other CNS embryonal tumour molecular groups",
+    "title": "",
+    "legend": "Unsupervised, non-linear t-distributed stochastic neighbour embedding (t-SNE) projection of methylation array profiles from non-medulloblastoma CNS embryonal tumours. Samples were selected from a large database of &gt;&nbsp;50&nbsp;000&nbsp;brain tumour datasets to serve as reference profiles for training a supervised classification model based on strict criteria: all these samples showed a high calibrated classification score (&gt;&nbsp;0.9) for tumours listed in the category of &ldquo;other CNS embryonal tumours&rdquo; when applying the brain tumour classifier available at https://www.molecularneuropathology.org. ATRT, atypical teratoid/rhabdoid tumour.",
+    "source": "Pieter Wesseling",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/45/242/19824.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/45/242/thumb_19824.jpg"
+  }
+]

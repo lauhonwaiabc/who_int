@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 122319,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 607,
+        "headingText": "\r\n<p>Chordoma is a primary malignant bone neoplasm showing notochordal differentiation.</p>\r\n",
+        "timestamp": "2024-10-09T10:22:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 122320,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 608,
+        "headingText": "<p>9370/3 Conventional chordoma</p>\r\n<p>9371/3 Chondroid chordoma</p>\r\n<p>9370/3 Poorly differentiated chordoma</p>\r\n<p>9372/3 Dedifferentiated chordoma</p>",
+        "timestamp": "2024-12-19T10:36:33"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 122321,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 609,
+        "headingText": "\r\n<p>2B5K &amp; XH9GH0 Unspecified malignant soft tissue tumours or sarcomas of bone or articular cartilage of other or unspecified sites &amp; Chordoma, NOS</p>\r\n<p>2B5K &amp; XH17D8 Unspecified malignant soft tissue tumours or sarcomas of bone or articular cartilage of other or unspecified sites &amp; Chondroid chordoma</p>\r\n<p>2B5Z &amp; XH7303 Malignant mesenchymal neoplasm of unspecified type &amp; Dedifferentiated chordoma</p>\r\n",
+        "timestamp": "2024-10-09T10:22:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 122322,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 610,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T10:22:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 122323,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 611,
+        "headingText": "\r\n<p>Conventional chordoma; chondroid chordoma; poorly differentiated chordoma; dedifferentiated chordoma</p>\r\n",
+        "timestamp": "2024-10-09T10:22:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 122324,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 612,
+        "headingText": "\r\n<p>Skull base chordomas typically arise from the clivus. Parasellar or suprasellar extension is common. Entirely intrasellar lesions are rare {29061463}. Coexistence of chordoma and pituitary neuroendocrine tumour (PitNET)/adenoma is exceptional {28516081}.</p>\r\n",
+        "timestamp": "2024-10-09T10:22:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 122325,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 613,
+        "headingText": "<p>Patients with intrasellar chordomas present with cranial nerve deficit (88.1%), visual disturbances, and endocrine abnormalities (52.8%) including hyperprolactinaemia and/or hypopituitarism {26535833; 29061463}. Headache alone is rare {29061463}.</p>\r\n<h6><em>Imaging</em></h6>\r\n<p>Chordomas are bone destructive midline lesions. On MRI, they are usually hypointense on T1 sequences (lower intensity than the clival fat), are hyperintense on T2 sequences, and show variable contrast enhancement.</p>",
+        "timestamp": "2024-10-09T10:23:01"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 122326,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 614,
+        "headingText": "<p>The prevalence is 0.088&nbsp;cases per 1&nbsp;million individuals, representing 0.5% of primary CNS tumours {32342333}. Chordomas account for 0.5% of sellar lesions {17287410; 31233145}. The skull base is the primary site in approximately 38% of cases {27609115; 32342333}. Both children and adults are affected. Adults with intrasellar chordoma (mean age: 55.5&nbsp;years) are older than patients with non-intrasellar skull base chordoma (mean age: 43.3&nbsp;years). There is a slight female predominance (M:F&nbsp;ratio: 1:1.16) {29061463}.</p>",
+        "timestamp": "2024-12-19T10:36:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 122327,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 615,
+        "headingText": "\r\n<p>The majority of chordomas are sporadic. Germline <em>TBXT</em> gene duplication has been reported in a subset of familial cases {24990759}. An association with tuberous sclerosis is documented {28498973}.</p>\r\n",
+        "timestamp": "2024-10-09T10:22:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 122328,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 616,
+        "headingText": "\r\n<p>Chordomas probably derive from notochordal remnants that persist after development in a subset of individuals. The molecular mechanism underlying the transformation of notochordal rests is poorly understood. <em>TBXT</em> gene duplication (27% of cases) and <em>PIK3CA</em> signalling mutations (16%) have been described {24990759; 29026114; 33536423}. A novel <em>LYST</em> inactivating mutation (10%) has also been reported {29026114; 33536423}. Alterations of <em>PBRM1</em>/<em>SETD2</em>, members of the SWI/SNF complex, represent the most common events (in 16%) in skull base chordomas, along with homozygous <em>CDKN2A</em> deletion {33536423}. Loss of SMARCB1 (INI1) expression resulting from homozygous <em>SMARCB1</em> gene deletion occurs in poorly differentiated chordomas {27067307}.</p>\r\n",
+        "timestamp": "2024-10-09T10:22:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 122329,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 623,
+        "headingText": "\r\n<p>Chordomas appear as lobulated solid tumours with a gelatinous appearance, typically invading the bone and extending into the surrounding tissue.</p>\r\n",
+        "timestamp": "2024-10-09T10:22:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 122330,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 617,
+        "headingText": "<p>Conventional chordoma shows a lobular architecture with lobules delimited by fibrous septa. Tumour cells form cords or ribbons within a myxoid matrix. Cells are large with clear to eosinophilic cytoplasm. They are defined as physaliphorous cells when the cytoplasm is vacuolated or bubbly. Anisokaryosis and nuclear inclusions may be observed. Prominent nucleoli, mitoses, and apoptotic bodies are seldom seen.</p>\r\n<h6><em>Subtypes</em></h6>\r\n<p>Chondroid chordoma represents a subtype composed predominantly of hyaline cartilage&ndash;like extracellular matrix.</p>\r\n<p>Dedifferentiated chordomas are biphasic tumours composed of conventional chordoma juxtaposed to high-grade sarcoma. Brachyury and cytokeratin expression is preserved in the conventional component, whereas the sarcomatous areas can lose these proteins {31652338; 32427623}.</p>\r\n<p>Poorly differentiated chordoma consists of epithelioid or rhabdoid cells and lacks myxoid areas and physaliphorous cells. Immunostaining for brachyury is retained. SMARCB1 (INI1) expression is lost {27067307; 29483606}.</p>\r\n<h6><em>Immunohistochemistry</em></h6>\r\n<p>Brachyury expression is the diagnostic hallmark {16538613; 18301055; 26099010}.</p>\r\n<h6><em>Differential diagnosis</em></h6>\r\n<p>The differential diagnosis includes benign {31421435} and atypical {27819871} notochordal cell tumours. Chondroid chordoma should be distinguished from low-grade chondrosarcoma.</p>",
+        "timestamp": "2024-10-09T10:23:51"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 122331,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 618,
+        "headingText": "\r\n<p>Squash or imprint preparations show clustered or dispersed uniform cells with weakly eosinophilic or clear vacuolated cytoplasm (physaliphorous cells) in a myxoid and/or fibrillary matrix.</p>\r\n",
+        "timestamp": "2024-10-09T10:22:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 122332,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 619,
+        "headingText": "\r\n<p>No diagnostic molecular markers have been reported for conventional chordoma. Homozygous <em>SMARCB1</em> deletions support the diagnosis of poorly differentiated chordoma.</p>\r\n",
+        "timestamp": "2024-10-09T10:22:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 122333,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 622,
+        "headingText": "<h6><em>Conventional chordoma and chondroid chordoma</em></h6>\r\n<p><em>Essential:</em> epithelioid and physaliphorous cells in a myxoid to chondroid matrix; brachyury expression.</p>\r\n<h6><em>Dedifferentiated chordoma</em></h6>\r\n<p><em>Essential:</em> an additional sarcomatous component.</p>\r\n<h6><em>Poorly differentiated chordoma</em></h6>\r\n<p><em>Essential:</em> aggregates of atypical epithelioid to rhabdoid cells; loss of SMARCB1 (INI1) expression; retained brachyury.</p>",
+        "timestamp": "2024-12-19T10:37:03"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 122334,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 620,
+        "headingText": "\r\n<p>Chordoma staging follows bone sarcoma protocols.</p>\r\n",
+        "timestamp": "2024-10-09T10:22:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 122335,
+        "bookId": 53,
+        "chapterId": 30,
+        "headingId": 621,
+        "headingText": "\r\n<p>Chordomas are slow-growing but locally aggressive tumours. Incomplete resection represents the main prognostic factor. Adult patients with intrasellar chordoma have a worse prognosis than patients with skull base chordoma {29061463}, possibly due to incomplete removal and postoperative endocrine sequelae.</p>\r\n<p>Dedifferentiated and poorly differentiated chordomas are highly aggressive neoplasms {27067307; 29361006; 29483606; 31528536}.</p>",
+        "timestamp": "2024-10-09T10:22:39"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

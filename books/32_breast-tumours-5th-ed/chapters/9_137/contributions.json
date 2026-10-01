@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 377,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 176,
+    "contributions": [
+      {
+        "pkcontributionId": 57665,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 176,
+        "headingText": "\r\n<p>Metastases to the breast are malignant tumours in the breast originating from an extramammary organ or site.</p>\r\n",
+        "timestamp": "2019-06-19T15:50:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 378,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 177,
+    "contributions": [
+      {
+        "pkcontributionId": 57666,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 177,
+        "headingText": "<p>Code as original tumour</p>",
+        "timestamp": "2019-08-28T10:41:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 379,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 178,
+    "contributions": [
+      {
+        "pkcontributionId": 57667,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 178,
+        "headingText": "<p>2E0Y &amp; XA12C1 Malignant neoplasm metastasis in other specified sites &amp; Breast</p>",
+        "timestamp": "2019-07-26T11:44:29"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 380,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 179,
+    "contributions": [
+      {
+        "pkcontributionId": 57668,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 179,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-06-19T15:50:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 381,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 180,
+    "contributions": [
+      {
+        "pkcontributionId": 57669,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 180,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2019-06-19T15:50:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 382,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 181,
+    "contributions": [
+      {
+        "pkcontributionId": 57670,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 181,
+        "headingText": "\r\n<p>The upper-outer quadrant is the most common site {4337956}.</p>\r\n",
+        "timestamp": "2019-06-19T15:50:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 383,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 182,
+    "contributions": [
+      {
+        "pkcontributionId": 57671,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 182,
+        "headingText": "<p>The clinical findings in patients with primary breast cancer and those with metastasis to the breast overlap. Metastases to the breast occur more often in advanced-stage cancer in patients in their fifth to sixth decade of life {26838286}, but they may also be the first sign of an extramammary primary tumour {27337944}. In about one third of patients presenting with metastasis, this is the first indication of malignancy {18042689}. Females are more frequently affected than males {26838286; 18042689; 23174933; 27337944; 17582626}. In children and adolescents, rhabdomyosarcoma metastases have been described {27820124}. The tumours are typically a rapidly growing, painless, firm, palpable mass (or masses), and bilateral involvement may also occur {26838286}. Occasionally, oedematous thickening of the skin, mimicking inflammatory breast cancer, is seen {22734030}.</p>\r\n<p>On mammography and ultrasonography, breast metastases appear as relatively small, superficial, poorly defined, irregular nodules. Stellate configuration, which is common in primary breast cancer, is not a typical mammographic feature. Microcalcifications may accompany serous carcinoma metastases {10759349; 17582626}.</p>",
+        "timestamp": "2019-08-09T16:00:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 384,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 183,
+    "contributions": [
+      {
+        "pkcontributionId": 57672,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 183,
+        "headingText": "<p>Metastatic solid tumours in the breast account for 0.2&ndash;1.1% of all breast malignancies, and 0.02&ndash;0.4% are due to systemic involvement by haematological malignancies {26838286}. In autopsy studies, breast involvement occurs in 3.9% of haematological malignancies and in 1.4% of extramammary solid tumours {14441414; 15405683}. The most common source of breast metastases is contralateral breast cancer.&nbsp;However, the majority of bilateral breast cancers seem to be independent primaries: a molecular genetic relationship has recently been found in &lt;&nbsp;10% of cases {28921573}.</p>",
+        "timestamp": "2019-08-09T16:05:12"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 385,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 184,
+    "contributions": [
+      {
+        "pkcontributionId": 57673,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 184,
+        "headingText": "\r\n<p>The etiology varies according to the primary tumour.</p>\r\n",
+        "timestamp": "2019-06-19T15:50:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 386,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 185,
+    "contributions": [
+      {
+        "pkcontributionId": 57674,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 185,
+        "headingText": "\r\n<p>Although breast cancer may spread to the contralateral breast via lymphatics or blood vessels, metastases from extramammary malignant tumours mainly reach the breast via blood circulation. However, given that in lung cancer metastatic to the breast the secondary tumour is often ipsilateral and accompanied by ipsilateral axillary metastases, it has been suggested that tumour cells preferentially spread through a retrograde axillary lymphatic drainage {23774384}. The available reviews and several case reports list the following primary tumours as the most common sources of breast metastases: lymphoma/leukaemia, melanoma, pulmonary carcinoma, ovarian carcinoma, gastric carcinoma, prostatic carcinoma, renal cell carcinoma, colorectal carcinoma, sarcomas (rhabdomyosarcoma metastases have been described in children and adolescents {27820124}), malignant mesothelioma, neuroendocrine tumours (NETs), and squamous cell carcinoma of the uterine cervix.</p>\r\n",
+        "timestamp": "2019-06-19T15:50:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 393,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 206,
+    "contributions": [
+      {
+        "pkcontributionId": 57675,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 206,
+        "headingText": "\r\n<p>Solitary or multiple nodules may be present. Although there are no specific macroscopic features, in some cases the gross appearance may suggest the primary tumour, as in a metastasis from a heavily pigmented melanoma.</p>\r\n",
+        "timestamp": "2019-06-19T15:50:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 387,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 186,
+    "contributions": [
+      {
+        "pkcontributionId": 57676,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 186,
+        "headingText": "<p>Key morphological clues for the recognition of metastatic tumours are unusual histological patterns, lack of an in situ component, predominant periductal and/or perilobular distribution, and (in some) extensive lymphovascular involvement. Clinical history is often helpful. Some tumours metastatic to the breast show characteristic features (and do not cause diagnostic problems): typical nuclear features and pigment in melanoma, nuclear features in lymphomas, chromatin pattern in NETs, typical appearance of colorectal adenocarcinomas, and papillary architecture and psammoma bodies in serous carcinomas. However, at least one third of epithelial tumours metastatic to the breast lack any specific histological features and are high-grade, making the diagnosis difficult. Comparison of the mammary and extramammary malignant tumours is essential in this situation.</p>\r\n<p>If metastasis to the breast is suspected and there is no known extramammary malignant tumour, a broad panel of organ- or tumour-specific immunohistochemical markers can be applied to delineate the likely primary site. If there is known previous or synchronous malignancy, a smaller panel of immunohistochemical markers is sufficient (see <a style=\"cursor:pointer\" href=\"/attachment/32/137/1645\" target=\"_blank\">#1645</a>Table&nbsp;8.01, and <a name=\"9916\" class=\"attchClick\" style=\"cursor:pointer\" data-toggle=\"modal\" data-target=\"#viewierModal\">#9916</a>).</p>\r\n<p>Breast metastases may spread via small lymphatics in such a manner that the distended lymphatics mimic carcinoma in situ and thus mislead the pathologist. In case of doubt, the use of lymphatic endothelial immunohistochemical markers may be helpful. With a triple-negative immunophenotype, especially without a known history of extramammary malignancy, the following primaries must be considered: melanoma (both skin and ocular), lymphoma (most often diffuse large B-cell lymphoma), lung cancer (mainly adenocarcinomas {29105026}), gastrointestinal adenocarcinomas, NETs, renal cell carcinomas, and soft tissue sarcomas. In men, prostatic carcinoma may metastasize to the breast. Lung adenocarcinomas may express ER, and breast carcinomas can (rarely) express TTF1 {21107096}. SOX10 is considered the most specific antibody for the distinction of TTF1-negative lung adenocarcinoma from triple-negative breast carcinoma {30628926}, and it may be combined with GATA3 {30468800}. Gastric adenocarcinomas with intestinal and signet-ring cell histology are ER-negative {29317235} and frequently HNF4A-positive {24711169}.</p>\r\n<p>In ER-positive tumours, high-grade serous ovarian&nbsp;/ fallopian tube&nbsp;/ peritoneal carcinoma should be considered in the differential diagnosis. If there is any uncertainty, a panel of breast-related immunohistochemical markers (CK7, GATA3, GCDFP-15, mammaglobin, NY-BR-1) is helpful to rule out a metastasis. Carcinoma in situ and stromal elastosis are characteristic of primary breast cancer {18042689}.</p>",
+        "timestamp": "2019-11-28T17:08:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 388,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 187,
+    "contributions": [
+      {
+        "pkcontributionId": 57677,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 187,
+        "headingText": "\r\n<p>The cytological features depend on the type of metastatic tumour.</p>\r\n",
+        "timestamp": "2019-06-19T15:50:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 389,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 188,
+    "contributions": [
+      {
+        "pkcontributionId": 57678,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 188,
+        "headingText": "\r\n<p>The diagnostic molecular pathology is related to the primary tumour.</p>\r\n",
+        "timestamp": "2019-06-19T15:50:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 392,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 191,
+    "contributions": [
+      {
+        "pkcontributionId": 57679,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 191,
+        "headingText": "\r\n<p>The essential and desirable diagnostic criteria vary according to the primary tumour.</p>\r\n",
+        "timestamp": "2019-06-19T15:50:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 390,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 189,
+    "contributions": [
+      {
+        "pkcontributionId": 57680,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 189,
+        "headingText": "\r\n<p>The primary tumour should be staged according to the eighth edition of the Union for International Cancer Control (UICC) TNM classification [[Brierly JD, Gospodarowicz MK, Wittekind C, editors. TNM classification of malignant tumours. 8th ed. Oxford (UK): Wiley Blackwell; 2017.]].</p>\r\n",
+        "timestamp": "2019-06-19T15:50:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 391,
+    "bookid": 32,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 190,
+    "contributions": [
+      {
+        "pkcontributionId": 57681,
+        "bookId": 32,
+        "chapterId": 137,
+        "headingId": 190,
+        "headingText": "\r\n<p>Most metastases to the breast occur as part of disseminated disease, and the prognosis is therefore very poor. Survival for &gt;&nbsp;1&nbsp;year has been reported in patients with lymphoma and NETs {17582626}. One study suggested that patients who underwent surgery for breast metastases had better overall survival {17582626}.</p>",
+        "timestamp": "2019-06-19T15:50:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "pkroleId": 198,
+    "bookId": "70",
+    "roleid": 226,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2093,
+        "lastname": "Pitman",
+        "firstname": "Martha Bishop",
+        "initials": "MB",
+        "email": "",
+        "roleid": 226,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 199,
+    "bookId": "70",
+    "roleid": 227,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2269,
+        "lastname": "Schmitt",
+        "firstname": "Fernando",
+        "initials": "",
+        "email": "",
+        "roleid": 227,
+        "position": 0
+      },
+      {
+        "contributorid": 3644,
+        "lastname": "Field",
+        "firstname": "Andrew S.",
+        "initials": "AS",
+        "email": "",
+        "roleid": 227,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 200,
+    "bookId": "70",
+    "roleid": 228,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 4342,
+        "lastname": "Raymond",
+        "firstname": "Wendy A.",
+        "initials": "",
+        "email": "",
+        "roleid": 228,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 201,
+    "bookId": "70",
+    "roleid": 229,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 4378,
+        "lastname": "Hoda",
+        "firstname": "Raza S.",
+        "initials": "",
+        "email": "",
+        "roleid": 229,
+        "position": 0
+      },
+      {
+        "contributorid": 5417,
+        "lastname": "Brachtel",
+        "firstname": "Elena F. ",
+        "initials": "",
+        "email": "",
+        "roleid": 229,
+        "position": 0
+      }
+    ]
+  }
+]

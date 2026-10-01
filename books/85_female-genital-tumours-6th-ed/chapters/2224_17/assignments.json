@@ -1,0 +1,70 @@
+[
+  {
+    "pkroleId": 190,
+    "bookId": "85",
+    "roleid": 265,
+    "roleTitle": "Responsible editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2376,
+        "lastname": "Gilks",
+        "firstname": "C. Blake",
+        "initials": "",
+        "email": "",
+        "roleid": 265,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 191,
+    "bookId": "85",
+    "roleid": 290,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2385,
+        "lastname": "Ordi",
+        "firstname": "Jaume",
+        "initials": "",
+        "email": "",
+        "roleid": 290,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 192,
+    "bookId": "85",
+    "roleid": 291,
+    "roleTitle": "Responsible author(s)",
+    "contributors": [
+      {
+        "contributorid": 2638,
+        "lastname": "Kazakov",
+        "firstname": "Dmitry V.",
+        "initials": "",
+        "email": "",
+        "roleid": 291,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 193,
+    "bookId": "85",
+    "roleid": 292,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2643,
+        "lastname": "Konstantinova",
+        "firstname": "Anastasia M. ",
+        "initials": "",
+        "email": "",
+        "roleid": 292,
+        "position": 0
+      }
+    ]
+  }
+]

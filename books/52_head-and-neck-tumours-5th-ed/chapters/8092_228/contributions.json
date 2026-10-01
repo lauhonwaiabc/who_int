@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 115884,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 576,
+        "headingText": "\r\n<p>Synovial sarcoma (SS) is a spindle cell sarcoma showing variable epithelial differentiation and characterized by a specific <em>SS18</em>::<em>SSX1</em>, <em>SS18</em>::<em>SSX2</em>, or <em>SS18</em>::<em>SSX4</em> fusion gene.</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 115885,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 577,
+        "headingText": "\r\n<p>9040/3 Synovial sarcoma, NOS</p>\r\n<p>9041/3 Synovial sarcoma, monophasic</p>\r\n<p>9043/3 Synovial sarcoma, biphasic</p>\r\n<p>9040/3 Synovial sarcoma, poorly differentiated</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 115886,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 578,
+        "headingText": "\r\n<p>2B5A.Y &amp; XH9B22 Synovial sarcoma, other specified primary site &amp; Synovial sarcoma, NOS</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 115887,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Not recommended:</em> synovial cell sarcoma; synovioma.</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 115888,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 580,
+        "headingText": "\r\n<p>Synovial sarcoma, monophasic; synovial sarcoma, biphasic; synovial sarcoma, poorly differentiated</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 115889,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 581,
+        "headingText": "\r\n<p>Most SSs arise in the deep soft tissue of the extremities; 7% occur in the head and neck region {19514087}. Poorly differentiated SS most often arises in deep soft tissue of the extremities, although this subtype can be seen at a wide range of anatomical sites, including the head and neck; it has a higher metastatic potential than conventional SS.</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 115890,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 582,
+        "headingText": "\r\n<p>Patients with SSs present with palpable, deep-seated swellings, with or without pain or tenderness.</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 115891,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 583,
+        "headingText": "\r\n<p>SS may occur at any age, with 70% affecting patients aged &lt;&nbsp;50&nbsp;years. SS is the most common non-rhabdomyosarcoma soft tissue sarcoma in children and young adults {19514087; 24633301; 33791777}.</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 115892,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 584,
+        "headingText": "\r\n<p>Etiological factors have not been identified, although exceptionally an association with prior radiotherapy has been reported {29336183}.</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 115893,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 585,
+        "headingText": "\r\n<p>In nearly all cases, a specific chromosomal translocation t(X;18)(p11;q11) acts as the driver mutation, leading to the formation of <em>SS18</em>::<em>SSX1</em> or <em>SS18</em>::<em>SSX2</em> fusion genes. This translocation has not been found in any other human neoplasm {25614489}. Molecular variants involving <em>SSX4</em>, <em>SS18L1</em>, or <em>NEDD4</em> are very rare {32559641}. The mutation burden is usually low in these tumours {32387103}. Nevertheless, further driver mutations may accompany clonal evolution of SS {33436720}.</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 115894,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 592,
+        "headingText": "\r\n<p>Lesions are yellow or grey to white, and well circumscribed when slow-growing.</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 115895,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 586,
+        "headingText": "\r\n<p>Several monophasic histopathological patterns (i.e. spindle cell, calcifying/ossifying, myxoid, and poorly differentiated) and biphasic patterns with glandular or solid epithelial cell nests can be distinguished. Rarely, an overwhelming (&gt;&nbsp;90%) epithelial glandular component mimicking adenocarcinoma with only rare, spindled areas has been described {33819897}. Poorly differentiated tumours may contain areas with frequent mitoses and necrosis.</p>\r\n<p>TLE1 nuclear immunoreactivity has been noted in as many as 95% of cases. Variable positivity for CD99, BCL2, and CD56, as well as patchy to focal reactivity for epithelial markers, cytokeratins (CK7), and BerEP4, is found. The tumours are usually negative for S100 and WT1. Two newly developed antibodies&nbsp;&ndash; an <em>SS18</em>::SSX fusion&ndash;specific antibody (E9X9V, reactive against the breakpoint) and an SSX-specific antibody (E5A2C, reactive against the SSX C-terminus)&nbsp;&ndash; show strong diffuse nuclear staining with high sensitivity and specificity (&gt;&nbsp;95%) in SS {32141887}.</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 115896,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 587,
+        "headingText": "\r\n<p>SS can only be suggested in cytology with certainty when it presents with a biphasic pattern. Monophasic SS is a diagnostic consideration when a uniform spindle cell population is present, characterized by bipolar or fusiform nuclei with fine granular chromatin and scant cytoplasm {14696140}.</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 115897,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 588,
+        "headingText": "\r\n<p>Molecular identification of the fusion gene is recommended, to avoid misdiagnosis of the tumour as metastatic adenocarcinoma, other sarcomas displaying epithelial differentiation, or a carcinoma with a sarcomatous component, all of which require different clinical management {33819897}.</p>\r\n",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 115898,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 591,
+        "headingText": "<p><em>Essential:</em> a sarcoma; biphasic pattern: presence of both epithelial and spindle components, which may merge or be distinct; monophasic patterns: the pure epithelial pattern is rare; the pure spindle cell pattern contains sheets of spindle cells with dark chromatin and scant cytoplasm.</p>\r\n<p><em>Desirable:</em> keratin immunoreactivity; demonstration of t(X;18)(p11;q11) (in selected cases).</p>",
+        "timestamp": "2023-11-17T15:05:26"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 115899,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 589,
+        "headingText": "<p>Staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system for head and neck sarcomas.</p>",
+        "timestamp": "2024-01-10T14:09:41"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 115900,
+        "bookId": 52,
+        "chapterId": 228,
+        "headingId": 590,
+        "headingText": "\r\n<p>SS may metastasize to the lungs, bone, and regional lymph nodes. The prognosis depends mainly on staging, grading, resectability, use of radiation therapy, site of primary tumour, and presence of metastases {15364967; 18997619; 20716627}. Tumours with &gt;&nbsp;20% poorly differentiated areas show more aggressive behaviour {9888710}. In a small subset of SSs, targetable <em>BRAF</em> p.V600E mutations have been described {32238877}.</p>",
+        "timestamp": "2023-10-02T11:21:56"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 986,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 951,
+    "contributions": [
+      {
+        "pkcontributionId": 150494,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 951,
+        "headingText": "\r\n<p>Hepatic neuroendocrine neoplasms (NENs) are malignant epithelial neoplasms with neuroendocrine differentiation that arise in the liver.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 987,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 952,
+    "contributions": [
+      {
+        "pkcontributionId": 150495,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 952,
+        "headingText": "\r\n<p>82400/3 Neuroendocrine tumour, NOS</p>\r\n<p>82401/3 Neuroendocrine tumour, grade&nbsp;1</p>\r\n<p>82490/3 Neuroendocrine tumour, grade&nbsp;2</p>\r\n<p>82491/3 Neuroendocrine tumour, grade&nbsp;3</p>\r\n<p>82460/3 Neuroendocrine carcinoma, NOS</p>\r\n<p>81540/3 Mixed neuroendocrine&ndash;non-neuroendocrine neoplasm</p>\r\n",
+        "timestamp": "2026-06-09T11:32:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 988,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 953,
+    "contributions": [
+      {
+        "pkcontributionId": 150496,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 953,
+        "headingText": "\r\n<p>2C12.0Y &amp; XH9LV8 Neuroendocrine tumour, grade&nbsp;1, of liver</p>\r\n<p>2C12.0Y &amp; XH51K1 Neuroendocrine tumour, grade&nbsp;2, of liver</p>\r\n<p>2C12.0Y &amp; XH5QW8 Neuroendocrine tumour, grade&nbsp;3, of liver</p>\r\n<p>2C12.0Y &amp; XH0U20 Neuroendocrine carcinoma, NOS, of liver</p>\r\n<p>2C12.0Y &amp; XH8E54 Mixed neuroendocrine&ndash;non-neuroendocrine neoplasm (MiNEN) of liver</p>\r\n",
+        "timestamp": "2026-06-09T11:32:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 989,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 954,
+    "contributions": [
+      {
+        "pkcontributionId": 150497,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 954,
+        "headingText": "\r\n<p><em>Not recommended:</em> carcinoid tumour of the liver; atypical carcinoid tumour of the liver.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 990,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 955,
+    "contributions": [
+      {
+        "pkcontributionId": 150498,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 955,
+        "headingText": "\r\n<p>Large cell neuroendocrine carcinoma (80130/3); small cell neuroendocrine carcinoma (80410/3); mixed large cell neuroendocrine carcinoma&ndash;adenocarcinoma (cholangiocarcinoma) (80132/3); mixed large cell neuroendocrine carcinoma&ndash;hepatocellular carcinoma (80134/3); mixed small cell neuroendocrine carcinoma&ndash;adenocarcinoma (cholangiocarcinoma) (80451/3); mixed small cell neuroendocrine carcinoma&ndash;hepatocellular carcinoma (80455/3); amphicrine-like carcinoma (85743/3); amphicrine-like adenocarcinoma (cholangiocarcinoma) (85744/3); amphicrine-like hepatocellular carcinoma (85746/3)</p>\r\n",
+        "timestamp": "2026-06-09T11:32:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 991,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 956,
+    "contributions": [
+      {
+        "pkcontributionId": 150499,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 956,
+        "headingText": "\r\n<p>Hepatic NENs can arise anywhere within the liver. Some neuroendocrine tumours (NETs), neuroendocrine carcinomas (NECs), and mixed cholangiocarcinoma&ndash;NECs appear to arise from major bile ducts near the hilum, similarly to extrahepatic bile duct primaries {15706430}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 992,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 957,
+    "contributions": [
+      {
+        "pkcontributionId": 150500,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 957,
+        "headingText": "\r\n<p>Hepatic NENs are very rare; they are much less common than hepatic metastases of histologically similar neoplasms. Therefore, the potential of a metastatic NEN must be rigorously excluded before the neoplasm can be accepted as a hepatic primary {19452590}. Metastasis should be excluded clinically including somatostatin analogue PET, and ultimate diagnosis of liver primary NEN may require clinical observation of 1&nbsp;year {18727836}. Patients with NETs uncommonly experience hormonal related symptoms, such as carcinoid syndrome {26882787;11433205}, and are either asymptomatic or present with mass effect&ndash;associated symptoms {18984960}. Tumours near the hilum or bile duct origin may cause jaundice. Cases presenting with Zollinger&ndash;Ellison syndrome and Cushing syndrome have been reported {19918579;17556871}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:24"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 993,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 958,
+    "contributions": [
+      {
+        "pkcontributionId": 150501,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 958,
+        "headingText": "\r\n<p>Hepatic NENs account for &lt;&nbsp;1% of all resected hepatic primary tumours {27881473}. Reported cases of hepatic NENs have primarily occurred in adults (age range: 8&ndash;83&nbsp;years; mean: 50&nbsp;years), with a slight female predilection {18984960;30065788}. Few data are available, although most of the reported cases of hepatic NENs are from Asian populations.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 994,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 959,
+    "contributions": [
+      {
+        "pkcontributionId": 150502,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 959,
+        "headingText": "\r\n<p>Some reported cases have a history of viral hepatitis, suggesting a role in the etiology of MiNEN with component of hepatocellular carcinoma and cholangiocarcinoma {30065788;19173727;29794961}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 995,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 960,
+    "contributions": [
+      {
+        "pkcontributionId": 150503,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 960,
+        "headingText": "\r\n<p>Hepatic NETs near the hilum may have originated from the major bile ducts rather than hepatocytes. Hepatic NECs may reflect aberrant differentiation of hepatocellular carcinoma or cholangiocarcinoma {34310982}. Neuroendocrine differentiation is reported only rarely in conventional hepatic carcinomas and, despite early reports to the contrary, also appears to be uncommon in fibrolamellar hepatocellular carcinoma {20495535}.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1002,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 967,
+    "contributions": [
+      {
+        "pkcontributionId": 150504,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 967,
+        "headingText": "\r\n<p>Hepatic NENs are typically solitary, circumscribed parenchymal masses, which average 65&nbsp;mm {30065788}. NETs have a soft consistency and show little or no necrosis, whereas NECs and mixed neuroendocrine&ndash;non-neuroendocrine neoplasms (MiNENs) may be grossly necrotic. MiNENs may have regions with gross features of hepatocellular carcinoma, or sclerotic foci reflecting the cholangiocarcinoma component.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 996,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 961,
+    "contributions": [
+      {
+        "pkcontributionId": 150505,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 961,
+        "headingText": "\r\n<h5>NET</h5>\r\n<p>NETs display the well-differentiated neuroendocrine morphology of epithelial lineage [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International Agency for Research on Cancer; 2025. (WHO classification of tumours series, 5th ed.; vol. 10). https://publications.iarc.who.int/645. Bookref]]. Focal necrosis can occur. The eosinophilic cytoplasmic granularity of midgut serotonin-producing NETs is not typically found in hepatic primaries and would suggest a metastasis from an occult small intestine. Hepatic NETs can be&nbsp;G1 or&nbsp;G2 {12636090} with a mean Ki-67 proliferative index of 7% {27881473}; G3&nbsp;NETs are yet to be reported in the liver.</p>\r\n<h5>NEC</h5>\r\n<p>NECs show the poorly differentiated neuroendocrine morphology of epithelial lineage, either small or large cell type [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International Agency for Research on Cancer; 2025. (WHO classification of tumours series, 5th ed.; vol. 10). https://publications.iarc.who.int/645. Bookref]]. Small cell carcinomas resemble their extrahepatic counterparts {29507528;18210116;26722053} and are typically encountered as a component of a mixed hepatocellular&ndash;neuroendocrine carcinoma. Necrosis and mitoses are abundant, and the Ki-67 proliferation index is &gt;&nbsp;50%. Large cell NECs are also typically mixed with non-NEC components.</p>\r\n<h5>MiNEN</h5>\r\n<p>Hepatic MiNENs display the classic morphological features of neuroendocrine and non-neuroendocrine neoplasia [[WHO Classification of Tumours Editorial Board. Endocrine and neuroendocrine tumours. Lyon (France): International Agency for Research on Cancer; 2025. (WHO classification of tumours series, 5th ed.; vol. 10). https://publications.iarc.who.int/645. Bookref]] and are more common than pure NECs. Most cases include a predominant component of hepatocellular carcinoma {28647212;27895410;27384317;29794961;34310982}. The NEC and hepatocellular components can be intermingled (but with distinct morphology) or separate {27881473}. Rare cases of mixed cholangiocarcinoma&ndash;NEC have been reported {26589730;26184027;19155146}.</p>\r\n<h5>Amphicrine-like carcinoma</h5>\r\n<p>Hepatic amphicrine-like carcinoma may occur as amphicrine-like hepatocellular carcinoma {34310982} and amphicrine-like adenocarcinoma/cholangiocarcinoma {20952282}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>Hepatic NENs express cytokeratins, synaptophysin, chromogranin&nbsp;A, and INSM1 {35294740}. Chromogranin&nbsp;A staining is often patchy and may show dot-like perinuclear positivity in NECs {31857137;35294740}. Aberrant p53 expression and loss of RB1 expression are commonly seen in NECs. TTF1 staining may be seen, particularly in small cell NECs {33433884;35294740}.</p>\r\n<h5>Grading</h5>\r\n<p>Hepatic NENs are graded according to the system of gastroenteropancreatic NENs (see <a style=\"cursor:pointer\" href=\"/chaptercontent/72/199\" target=\"_blank\">section </a><em>Neuroendocrine neoplasms of the digestive system: Introduction and classification</em>).</p>\r\n",
+        "timestamp": "2026-06-09T11:32:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 997,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 962,
+    "contributions": [
+      {
+        "pkcontributionId": 150506,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 962,
+        "headingText": "\r\n<p>The cytological features of hepatic NENs are indistinguishable from NENs arising elsewhere in the GI tract or pancreas. MiNENs may show evidence of the non-neuroendocrine component that, in the case of mixed hepatocellular&ndash;neuroendocrine carcinoma, would support a hepatic origin.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 998,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 963,
+    "contributions": [
+      {
+        "pkcontributionId": 150507,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 963,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2026-06-09T11:32:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1001,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 966,
+    "contributions": [
+      {
+        "pkcontributionId": 150508,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 966,
+        "headingText": "\r\n<h5>NET</h5>\r\n<p><em>Essential:</em> metastasis should be excluded clinically; well-differentiated neuroendocrine morphology of epithelial lineage; neuroendocrine marker expression; Ki-67 proliferation index and/or mitotic count.</p>\r\n<p><em>Desirable:</em> SSTR2 positive immunohistochemistry.</p>\r\n<h5>NEC</h5>\r\n<p><em>Essential:</em> metastasis should be excluded clinically; small cell carcinoma or large cell carcinoma pattern; sheets or trabeculae of poorly differentiated cells; neuroendocrine marker expression; Ki-67 proliferation index and/or mitotic count.</p>\r\n<p><em>Desirable:</em> reduced/absent SSTR2 expression; loss of RB1 expression or abnormal p53 expression.</p>\r\n<h5>MiNEN</h5>\r\n<p><em>Essential:</em> metastasis should be excluded clinically; a mixed tumour composed of two morphologically recognizable components; either type &ge;&nbsp;30% of the neoplasm; neuroendocrine markers expression in the neuroendocrine component.</p>\r\n<p><em>Desirable:</em> assessment of Ki-67 proliferation index and/or mitotic count to grade the NET component or to prognostically stratify the NEC component; grading of the non-neuroendocrine component.</p>\r\n<h5>Amphicrine-like carcinoma</h5>\r\n<p><em>Essential:</em> a mixed tumour with no morphologically distinct zones of neuroendocrine and non-neuroendocrine differentiation; &ge;&nbsp;30% of the neoplasm; two neuroendocrine markers expression in the neuroendocrine component.</p>\r\n<p><em>Desirable:</em> assessment of Ki-67 proliferation index.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 999,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 964,
+    "contributions": [
+      {
+        "pkcontributionId": 150509,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 964,
+        "headingText": "\r\n<p>Due to their rarity, hepatic NETs do not have their own staging systems. For NECs, MiNENs, and amphicrine-like carcinomas, the staging follows the criteria of intrahepatic cholangiocarcinoma.</p>\r\n",
+        "timestamp": "2026-06-09T11:32:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 1000,
+    "bookid": 72,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 965,
+    "contributions": [
+      {
+        "pkcontributionId": 150510,
+        "bookId": 72,
+        "chapterId": 219,
+        "headingId": 965,
+        "headingText": "\r\n<p>Hepatic NETs are often amenable to surgical resection, and long-term survival without recurrence has been observed {14654473;24653852;29147250;39351005;34006241}. Death from metastatic disease occurs in 18&ndash;47% of cases, with variable survival durations {19452590;18984960;30075602}, especially in G2&nbsp;cases. Both NECs and MiNENs are highly aggressive and rapidly lethal {26722053;29507528}. Given the markedly different prognosis and treatment between NETs and NECs, correct classification and grading (Ki-67 proliferation index and/or mitotic count) are crucial in the interpretations of all NENs {30065788}.</p>",
+        "timestamp": "2026-06-09T11:32:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

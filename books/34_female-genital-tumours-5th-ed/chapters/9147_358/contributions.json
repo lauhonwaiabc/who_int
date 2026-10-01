@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 64992,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 370,
+        "headingText": "\r\n<p>Carcinosarcoma is a biphasic malignant neoplasm composed of epithelial and mesenchymal components.</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 64993,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 371,
+        "headingText": "\r\n<p>8980/3 Carcinosarcoma NOS</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 64994,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 372,
+        "headingText": "\r\n<p>2C71.Y &amp; XH2W45 Other specified malignant neoplasms of vagina &amp; Carcinosarcoma NOS</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 64995,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 373,
+        "headingText": "<p><em>Not recommended:</em> malignant mixed M&uuml;llerian or mesodermal tumour; sarcomatoid carcinoma</p>",
+        "timestamp": "2020-07-24T14:59:38"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 64996,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 64997,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 375,
+        "headingText": "\r\n<p>Vaginal wall, often deeply infiltrating into underlying soft tissue</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 64998,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 376,
+        "headingText": "\r\n<p>Patients (primarily postmenopausal women, with an age range in reported cases of 37&ndash;74&nbsp;years) commonly present with vaginal bleeding, vaginal discharge, and/or pelvic&nbsp;/ lower abdominal pain. Sometimes a mass is seen protruding through the vagina {27113789; 21376478; 17640554; 25272303}.</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 64999,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 377,
+        "headingText": "\r\n<p>Vaginal carcinosarcoma is an extremely rare tumour, with &lt;&nbsp;30&nbsp;cases reported in the literature {29207889; 27113789; 25272303; 21376478; 15105647; 2984620; 20993778; 1166333; 17640554}. Given the rarity of this tumour, metastasis from another site (especially the uterine corpus) should always be excluded.</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 65000,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 378,
+        "headingText": "\r\n<p>Some cases have been reported to be associated with HPV infection {17640554} or prior irradiation {2984620}.</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 65001,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 379,
+        "headingText": "\r\n<p>The most widely accepted theory for the pathogenesis is that these are carcinomas that undergo sarcomatous transformation; the epithelial and mesenchymal components are clonally related {17640554}. No mutations were identified in a single case of vaginal carcinosarcoma in which multiple genes were analysed, including <em>PIK3CA</em>, <em>TP53</em>, <em>CTNNB1</em>, <em>PTEN</em>, <em>KRAS</em>, and <em>NRAS</em> {21168197}.</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 65002,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 386,
+        "headingText": "\r\n<p>The tumour is typically an ulcerated, haemorrhagic mass that can be polypoid and/or invade deeply into underlying soft tissue and invade adjacent structures. Cut section reveals soft, fleshy tissue that may be party necrotic.</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 65003,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 380,
+        "headingText": "\r\n<p>The tumour has a biphasic appearance, typically with both high-grade malignant epithelial and mesenchymal components, which are often sharply demarcated. The epithelial component can be squamous (most common), glandular, adenosquamous, adenoid-cystic, undifferentiated, or anaplastic, and it may arise from vaginal high-grade squamous intraepithelial lesion (VaIN&nbsp;3) {21376478; 17640554; 14735374}. In some tumours, the epithelial component is mesonephric adenocarcinoma {25272303; 208750}. The sarcomatous component can be homologous or heterologous (chondrosarcoma, osteosarcoma, rhabdomyosarcoma) {2984620; 17640554; 21376478; 12588439}.</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 65004,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 381,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/chaptercontent/34/322\" target=\"_blank\">section </a><em>Carcinosarcoma of the uterine cervix</em>.</p>",
+        "timestamp": "2020-07-10T13:56:06"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 65005,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 65006,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 385,
+        "headingText": "\r\n<p><em>Essential:</em> biphasic histology with malignant epithelial and sarcomatous components, which are typically high-grade.</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 65007,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 383,
+        "headingText": "\r\n<p>The staging is the same as for other vaginal neoplasms.</p>\r\n",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 65008,
+        "bookId": 34,
+        "chapterId": 358,
+        "headingId": 384,
+        "headingText": "\r\n<p>Most cases present at stage&nbsp;I or&nbsp;II, but carcinosarcoma of the vagina can also present at a high stage {17640554; 27113789}. Radical surgery, including pelvic exenteration, is often necessary. This is a highly aggressive tumour with a poor prognosis, often with early recurrence and metastasis despite radical surgery and radiotherapy and/or chemotherapy {2984620}. Recurrence tends to be local (pelvic), but distant metastases can also occur {27113789}.</p>",
+        "timestamp": "2020-06-08T17:11:35"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 703,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 466,
+    "contributions": [
+      {
+        "pkcontributionId": 107795,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 466,
+        "headingText": "\r\n<p>Paediatric hepatocellular carcinoma (HCC) is a primary malignancy of the liver composed of epithelial cells showing hepatocellular differentiation, occurring before the age of 18&nbsp;years.</p>\r\n",
+        "timestamp": "2023-03-10T10:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 704,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 467,
+    "contributions": [
+      {
+        "pkcontributionId": 107796,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 467,
+        "headingText": "<p>8170/3 Hepatocellular carcinoma, NOS</p>\r\n<p>8170/3 Conventional hepatocellular carcinoma</p>\r\n<p>8174/3 Clear cell hepatocellular carcinoma</p>",
+        "timestamp": "2023-03-17T15:58:05"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 705,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 468,
+    "contributions": [
+      {
+        "pkcontributionId": 107797,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 468,
+        "headingText": "\r\n<p>2C12.02 &amp; XH4W48 Hepatocellular carcinoma of liver &amp; Hepatocellular carcinoma, NOS</p>\r\n<p>2C12.02 &amp; XH4T58 Hepatocellular carcinoma of liver &amp; Hepatocellular carcinoma, clear cell type</p>\r\n",
+        "timestamp": "2023-03-10T10:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 706,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 469,
+    "contributions": [
+      {
+        "pkcontributionId": 107798,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 469,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-03-10T10:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 707,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 470,
+    "contributions": [
+      {
+        "pkcontributionId": 107799,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 470,
+        "headingText": "\r\n<p>Conventional hepatocellular carcinoma; clear cell hepatocellular carcinoma</p>\r\n",
+        "timestamp": "2023-03-10T10:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 708,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 471,
+    "contributions": [
+      {
+        "pkcontributionId": 107800,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 471,
+        "headingText": "\r\n<p>HCC can occur anywhere within the liver as a single nodule or multiple nodules.</p>\r\n",
+        "timestamp": "2023-03-10T10:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 709,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 472,
+    "contributions": [
+      {
+        "pkcontributionId": 107801,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 472,
+        "headingText": "\r\n<p>Common symptoms include abdominal pain, distension, a mass, fatigue, and weight loss, as well as cachexia and jaundice in advanced disease. In the setting of chronic liver disease, children may present with signs of end-stage liver disease. As many as one&nbsp;third of cases are asymptomatic and detected on imaging during systematic follow-up of chronic liver disease or incidentally diagnosed at pathological examination of the explanted liver {30254403; 30063586}.</p>\r\n<p>Serum AFP level is elevated in 67&ndash;92% of cases and can be as high as 1.4&nbsp;&times;&nbsp;10<sup>6</sup>&nbsp;ng/mL {30254403; 21797955; 24138022}. Children with tyrosinaemia, however, can present with very high AFP values due to liver regeneration alone, without HCC.</p>\r\n<p>Ultrasound is useful for detecting tumours in the setting of chronic liver disease, but multiphase contrast-enhanced CT or MRI is necessary to confirm the diagnosis. In children, CT is preferred for the evaluation of tumour extent, vascular invasion, and resectability, because of the technical complexity, limited availability, and intubation requirements of MRI in young patients. Contrast-enhanced ultrasound is promising because it avoids exposure to ionizing radiation {30254403}.</p>\r\n<p>The European, US, and Asia-Pacific {29628281; 28130846; 28620797} recommendations for the diagnosis of HCC in adults have not been validated in children; however, it is suggested that diagnosis of paediatric HCC in non-cirrhotic livers needs histological confirmation, whereas in cirrhotic livers, diagnosis may be based on suggestive imaging and high AFP levels {25921672}.</p>\r\n",
+        "timestamp": "2023-03-10T10:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 710,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 473,
+    "contributions": [
+      {
+        "pkcontributionId": 107802,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 473,
+        "headingText": "<p>Malignant primary liver tumours account for 1&ndash;2% of paediatric solid tumours, with hepatoblastoma (HBL) accounting for the majority of cases (70&ndash;80%) and HCC being the second most common (20&ndash;30%). In patients aged &lt;&nbsp;5&nbsp;years, 91% of primary liver tumours are HBLs, whereas HCCs account for 87% of primary liver tumours among patients aged 15&ndash;19&nbsp;years {12939582}. The overall age-adjusted incidence rate of HCC is 0.41&nbsp;cases per 1&nbsp;million person-years, with a slight male predominance (0.45&nbsp;vs 0.37&nbsp;cases per 1&nbsp;million person-years for male and female populations, respectively) {12939582}.</p>\r\n<p>The epidemiology of non-fibrolamellar paediatric HCC varies substantially depending on the level of endemic HBV infection (see <a style=\"cursor:pointer\" href=\"/attachment/44/430/19375\" target=\"_blank\">#19375</a>Table&nbsp;11.04). HBV vaccination programmes have resulted in a sharp decrease in the incidence of paediatric HCCs {19759364; 26256438}, but chronic HBV infection still accounts for the majority of cases worldwide.</p>\r\n<p>Two distinct subsets of paediatric HCC are observed in Europe and North America, the first occurring in the setting of inherited liver disease, biliary atresia, or vascular malformations, and occurring most often in cirrhotic livers; the second is sporadic&nbsp;/ de&nbsp;novo HCC, which occurs in normal liver {30254403; 26663981; 27726261}. The proportion of each subset is unclear. In the USA, the first subset represents one&nbsp;third of paediatric HCC cases {29968976; 30977242}, whereas in European countries, it seems predominant {29222922; 24138022}. In some inherited liver diseases, HCC develops within the first few years of life, whereas sporadic HCC usually occurs in children aged &gt;&nbsp;10&nbsp;years {21489554}. Patients with sporadic HCC typically present at an advanced stage, with unresectable or metastatic disease {27726261}. The incidence of HCC can be reduced by universal HBV vaccination, improvement in medical therapies (e.g. treatment for tyrosinaemia), and early transplantation for inherited liver disease {21489554}.</p>",
+        "timestamp": "2023-03-21T14:27:13"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 711,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 474,
+    "contributions": [
+      {
+        "pkcontributionId": 107803,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 474,
+        "headingText": "<p>Chronic HBV infection is the most common etiology of paediatric HCC. The main underlying inherited conditions that predispose to paediatric HCC are tyrosinaemia type&nbsp;1 and bile salt export pump (BSEP) deficiency. Other conditions include biliary atresia, mitochondrial respiratory chain disorders, Fanconi&ndash;Bickel syndrome (<em>SLC2A2</em> [<em>GLUT2</em>] mutation), and glycogen storage disease type&nbsp;1. HCC also occurs in children with vascular liver diseases, including congenital portosystemic shunts, venous outflow obstruction&nbsp;/ Budd&ndash;Chiari syndrome, and liver disease related to congenital heart disease with or without the Fontan procedure. These and other less common etiologies are summarized in <a style=\"cursor:pointer\" href=\"/attachment/44/430/19375\" target=\"_blank\">#19375</a>Table&nbsp;11.04 .</p>",
+        "timestamp": "2023-03-21T14:27:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 712,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 475,
+    "contributions": [
+      {
+        "pkcontributionId": 107804,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 475,
+        "headingText": "<p>The pathogenesis of paediatric HCC is still largely unknown compared with adult HCC, because of its rarity and etiological diversity. The genetic alterations and pathogenesis have largely been inferred from studies of adult HCCs. However, unlike adult HCCs, HCCs in children often arise de&nbsp;novo, without underlying cirrhosis, so the mechanisms of transformation appear to be different.</p>\r\n<p>For HBV-associated HCC, carcinogenesis may follow the classic pattern as described in adults (chronic hepatitis&nbsp;&ndash; cirrhosis&nbsp;&ndash; premalignant lesions&nbsp;&ndash; HCC), but approximately 50% of paediatric HCCs develop without cirrhosis {30254403}.</p>\r\n<p>A recent study evaluating 15&nbsp;cases using various molecular methods found that alterations seen in adult HCCs were also seen in paediatric HCCs, including multiple molecular alterations in WNT pathway genes (most commonly intragenic deletions of <em>CTNNB1</em>; also <em>APC</em> inversion and <em>AMER1</em> somatic mutation) and telomerase pathway genes (<em>TERT</em> activation or <em>ATRX</em> mutation), but <em>TP53</em> mutations, although detected, were much less frequent {30977242}. Potentially therapeutically targetable mutations in the MAPK/ERK signalling pathway (<em>MAPK1</em> and <em>BRAF</em>) were seen in 20% of cases {30977242}. Tumours arising in children with underlying liver disease were found to be molecularly distinct and lacked obvious oncogenic drivers compared with those arising de&nbsp;novo. Molecular alterations in paediatric HCC are summarized in <a style=\"cursor:pointer\" href=\"/attachment/44/430/19376\" target=\"_blank\">#19376</a>Table&nbsp;11.05 .</p>\r\n<p>Massive gene amplification has been observed in paediatric HCC occurring in the setting of BSEP deficiency {24819516}, along with somatic mutations in <em>CTNNB1</em> and <em>NFE2L2</em> {25016225}. In children with congenital portosystemic shunts, <em>CTNNB1</em> mutations seem to be a major event in the malignant transformation of benign hepatocellular nodules {26138244; 27038679}.</p>\r\n<p>Germline mutations in <em>CDKN2A</em> (<em>P16INK4A</em>), <em>APC</em>, and <em>BRCA2</em> have been reported to be associated with the development of de&nbsp;novo HCC {10518303}.</p>\r\n<p>Additional information on the biology of paediatric HCC and potential therapeutic targets may become available in the future, given the inclusion of HCC in the current Paediatric Hepatic International Tumour Trial (PHITT).</p>",
+        "timestamp": "2023-03-21T14:27:54"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 719,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 482,
+    "contributions": [
+      {
+        "pkcontributionId": 107805,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 482,
+        "headingText": "\r\n<p>Like HCCs reported in adults, HCCs in children are variably light-tan to yellow to green, depending on the amount of bile production or fat content. HCCs occurring in the setting of underlying liver disease tend to be multifocal and small, with &gt;&nbsp;90% of tumours measuring &lt;&nbsp;3&nbsp;mm and 100% measuring &lt;&nbsp;10&nbsp;mm {24138022; 16871584}. A pseudocapsule may be present, particularly when occurring in a background of cirrhosis. Tumours occurring in normal liver are usually unifocal and larger (50&ndash;120&nbsp;mm) {28834194}, and they may be associated with satellite nodules and macrovascular invasion.</p>\r\n",
+        "timestamp": "2023-03-10T10:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 713,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 476,
+    "contributions": [
+      {
+        "pkcontributionId": 107806,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 476,
+        "headingText": "<p>The histopathological findings in paediatric HCC are overall similar to those seen in adult HCC, and the histological classification and grading of paediatric HCC follow the WHO classification of digestive system tumours. Tumours are graded as well, moderately, or poorly differentiated [[WHO Classification of Tumours Editorial Board. Digestive system tumours. Lyon (France): International Agency for Research on Cancer; 2019. (WHO classification of tumours series, 5th ed.; vol. 1). https://publications.iarc.fr/579.]]. Features more specific to paediatric HCC are discussed below. Microscopic vascular invasion is seen in 25&ndash;33% of cases {24138022; 30977242}.</p>\r\n<p>Subtypes in children reported in the SEER registry from 1973 to 2009 include conventional (73%), fibrolamellar (25%, see <a style=\"cursor:pointer\" href=\"/chaptercontent/44/290\" target=\"_blank\">section </a><em>Fibrolamellar variant of hepatocellular carcinoma</em>), and clear cell (2%) HCC {24439603}.</p>\r\n<p>HCC in the setting of tyrosinaemia is notable for diffuse clear cell change and solid architecture, as well as nodules of different grades {30977242}.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/44/430/19377\" target=\"_blank\">#19377</a>Table&nbsp;11.06 . Hepatocellular differentiation can be demonstrated by immunohistochemistry, including positivity for HepPar-1 and arginase-1 (ARG1). Paediatric HCC more frequently expresses glypican-3 (GPC3), EpCAM (usually diffuse), and CK19 than does adult HCC. Nuclear &beta;-catenin is less frequent in HCC than in HBL {24138022}.</p>\r\n<h5>Premalignant lesions</h5>\r\n<p>Premalignant lesions, including dysplastic foci and dysplastic nodules (low-grade and high-grade), are found almost exclusively in cirrhotic livers and are overall rare in paediatric HCC, but they have been reported in the setting of tyrosinaemia {30977242} and TJP2 deficiency {25921221; 28733884}.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>The distinction between HCC and HBL is critical for appropriate patient care. Differentiating HCC from pleomorphic and/or macrotrabecular epithelial HBL may be difficult; the patient&rsquo;s age (&lt;&nbsp;5&nbsp;years) and the presence of more typical HBL areas or a mesenchymal component favour HBL. In older children, tumours with features of both HBL and HCC have been recognized and given a provisional diagnosis of malignant hepatocellular neoplasm NOS (see <a style=\"cursor:pointer\" href=\"/chaptercontent/44/289\" target=\"_blank\">section </a><em>Hepatoblastoma</em>) {24008558; 28660626; 12228909}.</p>\r\n<p>Hepatocellular adenomas are benign liver tumours in children, and they follow the recent molecular classification of adult hepatocellular adenomas {28733222}. Differentiating between well-differentiated HCC and hepatocellular adenoma can be difficult; GPC3 expression, if present, favours HCC. A reticulin stain may be helpful in identifying areas of decrease or loss of the reticulin framework in HCC. Like those in adults, hepatocellular adenomas with mutations in <em>CTNNB1</em> (encoding &beta;-catenin) occurring in children are at risk of malignant transformation.</p>\r\n<p>Cholangiocarcinomas in children have been reported in the setting of biliary cysts, biliary atresia, and other biliary tract anomalies {28937543}, including primary sclerosing cholangitis {28390159; 29984520} and BSEP deficiency {17452236}. Paediatric cholangiocarcinomas are histologically identical to adult cholangiocarcinomas [[WHO Classification of Tumours Editorial Board. Digestive system tumours. Lyon (France): International Agency for Research on Cancer; 2019. (WHO classification of tumours series, 5th ed.; vol. 1). https://publications.iarc.fr/579.]] and should be distinguished by histological (ductal/ductular/tubular morphology with or without mucin secretion) and immunophenotypic features (CK7 and CK19 expression without hepatocellular differentiation).</p>\r\n<p>Neuroendocrine neoplasms (NENs) are rarely seen in the liver in the paediatric population; when they occur, they are predominantly metastases from extrahepatic primaries. Rare primary hepatic NENs have been reported {12946222}. Characteristic morphology and immunophenotype (e.g. synaptophysin, chromogranin) are necessary to confirm the diagnosis and to exclude primary hepatic neoplasms that may rarely or focally express neuroendocrine markers.</p>",
+        "timestamp": "2023-03-21T14:28:34"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 714,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 477,
+    "contributions": [
+      {
+        "pkcontributionId": 107807,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 477,
+        "headingText": "\r\n<p>FNAB is not recommended in the evaluation of paediatric liver tumours.</p>\r\n",
+        "timestamp": "2023-03-10T10:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 715,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 478,
+    "contributions": [
+      {
+        "pkcontributionId": 107808,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 478,
+        "headingText": "\r\n<p>Like that of adult HCC [[WHO Classification of Tumours Editorial Board. Digestive system tumours. Lyon (France): International Agency for Research on Cancer; 2019. (WHO classification of tumours series, 5th ed.; vol. 1). https://publications.iarc.fr/579.]], the diagnosis of paediatric HCC primarily relies on imaging and histopathology, and diagnostic molecular tests are not available.</p>\r\n",
+        "timestamp": "2023-03-10T10:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 718,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 481,
+    "contributions": [
+      {
+        "pkcontributionId": 107809,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 481,
+        "headingText": "\r\n<p><em>Essential:</em> hepatocellular differentiation as demonstrated by histology and immunohistochemical markers; proven malignancy, based on histological criteria and immunohistochemical markers; absence of other tumour components.</p>\r\n",
+        "timestamp": "2023-03-10T10:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 716,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 479,
+    "contributions": [
+      {
+        "pkcontributionId": 107810,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 479,
+        "headingText": "\r\n<p>There is no universally accepted staging system for paediatric HCC. The current TNM staging system is the same as that used for adult HCC, published by the American Joint Committee on Cancer (AJCC) and the Union for International Cancer Control (UICC) [[Amin MB, Edge S, Greene F, et al., editors. AJCC cancer staging manual. 8th ed. New York (NY): Springer; 2017.]]. However, most international groups, including those participating in the ongoing PHITT, use the pretreatment extent of disease (PRETEXT) system currently used for HBL {29427028}. The different staging systems for stratifying patients for liver transplantation have not been tested in children, but several studies have shown that children with non-metastatic HCC who fall beyond the Milan criteria may still benefit from transplantation {8594428; 29968976; 17663690}.</p>\r\n",
+        "timestamp": "2023-03-10T10:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 717,
+    "bookid": 44,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 480,
+    "contributions": [
+      {
+        "pkcontributionId": 107811,
+        "bookId": 44,
+        "chapterId": 430,
+        "headingId": 480,
+        "headingText": "\r\n<p>Overall, the prognosis of paediatric HCC is poor (5-year survival rate: 17&ndash;28%) {12228910; 26811523; 24439603}. Two&nbsp;thirds of patients with paediatric HCC present with unresectable disease and there is limited benefit from chemotherapy {26811523; 12065555}, although data from prior paediatric trials in North America and Europe suggest that de&nbsp;novo HCC in children may be more responsive to chemotherapy than that in adults {12065555; 26811523}.</p>\r\n<p>The most important prognostic factor appears to be tumour resectability, given that lymphovascular invasion, extrahepatic tumour, and metastatic disease precluding complete resection are poor prognostic factors {12065556}. The subset of children with complete surgical resection or a liver transplant for a localized unresectable tumour have a much better prognosis, with 5-year overall survival rates ranging from 53% to 80%, even reaching 100% in the most recent series {23992390; 29222922; 30341782; 26811523; 32660779}. The best results are achieved after liver transplantation, even outside the Milan criteria {19496985; 29968976}, and in children with underlying inherited liver disease {23992390; 27392999; 29222922}. In these patients, vascular invasion is the most important prognostic factor {28834194}.</p>",
+        "timestamp": "2023-03-10T10:40:25"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

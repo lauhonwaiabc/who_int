@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 746,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 576,
+    "contributions": [
+      {
+        "pkcontributionId": 116517,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 576,
+        "headingText": "\r\n<p>Neuroendocrine tumours (NETs) are well-differentiated epithelial neuroendocrine neoplasms (NENs) that arise in the upper aerodigestive tract and salivary glands.</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 747,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 577,
+    "contributions": [
+      {
+        "pkcontributionId": 116518,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 577,
+        "headingText": "\r\n<p>8240/3 Neuroendocrine tumour, NOS</p>\r\n<p>8240/3 Neuroendocrine tumour, grade 1</p>\r\n<p>8249/3 Neuroendocrine tumour, grade 2</p>\r\n<p>8249/3 Neuroendocrine tumour, grade 3</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 748,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 578,
+    "contributions": [
+      {
+        "pkcontributionId": 116519,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 578,
+        "headingText": "\r\n<p>2B6B.Y &amp; XH9LV8 Other specified malignant neoplasms of nasopharynx &amp; Neuroendocrine tumour, grade&nbsp;1</p>\r\n<p>2B6B.Y &amp; XH51K1 Other specified malignant neoplasms of nasopharynx &amp; Neuroendocrine tumour, grade&nbsp;2</p>\r\n<p>2B6B.Y &amp; XH5QW8 Other specified malignant neoplasms of nasopharynx &amp; Neuroendocrine tumour, grade&nbsp;3</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 749,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 579,
+    "contributions": [
+      {
+        "pkcontributionId": 116520,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 579,
+        "headingText": "\r\n<p><em>Acceptable:</em> well-differentiated neuroendocrine tumour.</p>\r\n<p><em>Not recommended:</em> carcinoid tumour; typical carcinoid tumour; atypical carcinoid tumour; well-differentiated neuroendocrine carcinoma; moderately differentiated neuroendocrine carcinoma; neuroendocrine carcinoma.</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 750,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 580,
+    "contributions": [
+      {
+        "pkcontributionId": 116521,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 580,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 751,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 581,
+    "contributions": [
+      {
+        "pkcontributionId": 116522,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 581,
+        "headingText": "\r\n<p>NETs arise from the cells of the dispersed neuroendocrine system that are found in the respiratory mucosa of the nasal cavity, paranasal sinuses, nasopharynx, oropharynx, and larynx. They also rarely occur in salivary glands {22614165; 23456649; 27610258} and the oral cavity {10484121; 22359135}. Sinonasal NETs are usually within the ethmoid sinus, nasal cavity, and maxillary sinus {25727332; 26041714; 29427030}. NETs also arise from the middle ear mucosa (middle ear NET [MeNET]) {34041698}.</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 752,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 582,
+    "contributions": [
+      {
+        "pkcontributionId": 116523,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 582,
+        "headingText": "\r\n<p>Nasopharyngeal NETs present with obstruction and epistaxis. Paranasal sinus tumours cause headache and obstructive symptoms {26830400}. Middle ear tumours give rise to unilateral conductive hearing loss, pain, and/or discharge; facial nerve paralysis suggests aggressive local invasion. Laryngeal tumours may cause hoarseness, dysphonia, sore throat, and haemoptysis {29557536}, although some are asymptomatic and detected incidentally during laryngoscopy or intubation for unrelated reasons. Salivary gland NETs present as a mass {22614165; 23456649; 27610258}. Metastases to lymph nodes may present as a neck mass. Rarely, elevated serum calcitonin can occur due to calcitonin secretion from laryngeal NETs {8236510; 32765421} and requires distinction from medullary thyroid carcinoma. In such situations, functional imaging studies (e.g. 68Ga-DOTA PET-CT) are useful in the identification of a laryngeal or thyroid origin {32765421}. Exceptionally, presentation may be attributed to hormone excess syndromes such as carcinoid syndrome {2692106}.</p>\r\n<h5>Imaging</h5>\r\n<p>Structural imaging studies (CT and MRI) are often used to delineate the extent and tumour location of NETs; however, functional imaging studies (e.g. 68Ga-DOTA PET-CT) that target SSTR located on the tumour cell membrane are particularly useful in the localization, staging, and follow-up of these tumours {32765421}.</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 753,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 583,
+    "contributions": [
+      {
+        "pkcontributionId": 116524,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 583,
+        "headingText": "<p><em>Nasal cavity and paranasal sinuses:</em> NETs account for about 4% of sinonasal NENs {29103747}, representing only about 3% of sinonasal tumours. The age at diagnosis ranges from 13&nbsp;to 83&nbsp;years. There is no sex predilection.</p>\r\n<p><em>Larynx:</em> NENs are the second most common laryngeal tumour after squamous cell carcinomas {29557536; 31033507; 34401980}. G2&nbsp;NET (previously termed &ldquo;atypical carcinoid&rdquo;) is the most frequent, followed by NEC, and G1&nbsp;NET (previously termed &ldquo;typical carcinoid&rdquo;) is the least common {25674282; 29557536; 31033507; 34401980}. The accuracy of these statistics, however, is questionable given the changing diagnostic terminologies {19536850; 31033507; 34401980}. Laryngeal NETs are more frequent in men in their sixth or seventh decade of life, with an M:F&nbsp;ratio of 2.4:1 {34401980}.</p>\r\n<p><em>Middle ear:</em> NETs are very rare neoplasms in the middle ear. They are discussed in <a style=\"cursor:pointer\" href=\"/chaptercontent/52/280\" target=\"_blank\">section </a><em>Middle ear neuroendocrine tumour</em> .</p>\r\n<p><em>Salivary gland:</em> NETs are extremely rare in the salivary glands; they are reported without a sex bias in the parotid and submandibular glands {16999063; 22614165; 23456649; 27610258; 28635990}.</p>",
+        "timestamp": "2024-01-19T14:56:14"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 754,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 584,
+    "contributions": [
+      {
+        "pkcontributionId": 116525,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 584,
+        "headingText": "\r\n<p>No etiological factors have been identified to date. Smoking has been implicated in the etiology of laryngeal NENs {31033507}, but this seems to apply mainly to the more aggressive neuroendocrine carcinomas (NECs) and G2&nbsp;NETs {19536850; 19883182; 25351497; 3056608}. There is no well-established association with HPV in these tumours {18617341; 22699626; 26886629; 31033507}.</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 755,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 585,
+    "contributions": [
+      {
+        "pkcontributionId": 116526,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 585,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 762,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 592,
+    "contributions": [
+      {
+        "pkcontributionId": 116527,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 592,
+        "headingText": "\r\n<p>Macroscopically, NETs present as polypoid, nodular, pedunculated, exophytic masses that may ulcerate.</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 756,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 586,
+    "contributions": [
+      {
+        "pkcontributionId": 116528,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 586,
+        "headingText": "<p>These tumours are well-differentiated epithelial neoplasms composed of cords, trabeculae, or small nests of neuroendocrine cells with ample granular pale acidophilic cytoplasm and relatively monotonous nuclei with the typical salt-and-pepper appearance that is characteristic of most NETs. They usually underlie the mucosa; ulceration may develop. The stroma is usually highly vascular but may be fibrotic or hyalinized. Pleomorphism is not generally seen. G2&nbsp;NETs exhibit necrosis (often punctate or coagulative) and/or 2&ndash;10&nbsp;mitoses/2&nbsp;mm<sup>2</sup>; in contrast, G1&nbsp;NETs lack necrosis and have &lt;&nbsp;2&nbsp;mitoses/2&nbsp;mm<sup>2</sup>. The Ki-67 proliferation index is generally &lt;&nbsp;20% {22082601; 26830400; 34401980}. The optimal Ki-67 level for the distinction between G1&nbsp;and G2&nbsp;NETs remains to be determined, although it has certainly been suggested {34401980}. NETs with G3 proliferative features remain to be defined in the upper aerodigestive tract and salivary glands.</p>\r\n<p>These tumours show diffuse nuclear INSM1 immunopositivity {29438167} and cytoplasmic synaptophysin and chromogranin&nbsp;A staining. They are positive for keratins including CK7/8 and CAM5.2. There are very limited data on their transcription factor and hormone profiles. In particular, some laryngeal NETs are known to express serotonin, calcitonin, and monoclonal CEA {12071530; 29557536; 32765421}. Thyroid transcription factor&nbsp;1 (TTF1) expression is often negative but may be focal and weak {15098009}. MeNETs express SATB2 {34041698} and insulin gene enhancer protein ISL1 (islet-1) {24766278}, and they often have predominant L-cell differentiation (immunoreactive for PP, PYY, glucagon, or glucagon-like peptides) {34041698; 12011260; 7599794}. MeNETs are TTF1-negative, but variable CDX2, GATA3, and prostatic acid phosphatase (PAP) expression can be identified {34041698}. Unlike poorly differentiated NECs, NETs do not show aberrant expression of p53 and RB1 {22082601; 22699626; 27392929; 34401980}. The routine use of Ki-67 is encouraged; it is particularly helpful in the diagnostic workup of all small biopsy specimens with crush artefact to avoid overdiagnosis of high-grade NECs.</p>\r\n<p>Exceptional cases can be mixed neuroendocrine&ndash;non-neuroendocrine neoplasms (MiNENs) in the nasal cavity {32138448} and larynx {19930775}. Occasional tumours may have oncocytic or mucinous features and can simulate other neoplasms. The presence of large nests resembling Zellballen may prompt consideration of paraganglioma (see <a style=\"cursor:pointer\" href=\"/chaptercontent/52/289\" target=\"_blank\">section </a><em>Head and neck paraganglioma</em>). The differential diagnosis includes medullary thyroid carcinoma in the larynx, pituitary neuroendocrine tumour (PitNET) in the nasopharynx and sinuses, and paraganglioma in any location {28338500; 28009611}. Low-grade olfactory neuroblastoma {26830400} and lymphoma should also be considered {25992139}; other lesions such as primitive neuroectodermal tumours, Ewing sarcoma, desmoplastic round cell tumour, NUT carcinoma, sinonasal undifferentiated carcinoma, nasopharyngeal carcinoma, non-keratinizing carcinoma, and basaloid carcinoma are more likely to be confused with high-grade NECs {26830400; 31415081}.</p>",
+        "timestamp": "2024-01-19T14:56:40"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 757,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 587,
+    "contributions": [
+      {
+        "pkcontributionId": 116529,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 587,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 758,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 588,
+    "contributions": [
+      {
+        "pkcontributionId": 116530,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 588,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 761,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 591,
+    "contributions": [
+      {
+        "pkcontributionId": 116531,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 591,
+        "headingText": "\r\n<p><em>Essential:</em> a well-differentiated NEN with immunohistochemical evidence of neuroendocrine differentiation; positivity for at least one keratin; arising in the upper aerodigestive tract and/or salivary gland.</p>\r\n<p><em>Desirable:</em> Ki-67 proliferation index; no abnormal p53 staining and no loss of RB1 (in selected cases with a Ki-67 index &gt;&nbsp;20%).</p>\r\n",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 759,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 589,
+    "contributions": [
+      {
+        "pkcontributionId": 116532,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 589,
+        "headingText": "<p >Site-specific staging follows the eighth edition of the Union for International Cancer Control (UICC)&nbsp;/ American Joint Committee on Cancer (AJCC) TNM staging system.</p>",
+        "timestamp": "2023-11-21T15:10:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 760,
+    "bookid": 52,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 590,
+    "contributions": [
+      {
+        "pkcontributionId": 116533,
+        "bookId": 52,
+        "chapterId": 279,
+        "headingId": 590,
+        "headingText": "\r\n<p>The prognosis of these tumours is variable, like for other NETs, and especially difficult to determine because of their rarity. Low-grade laryngeal NETs have a reported 5-year survival rate of approximately 80% after conservative surgical resection {12071530}; however, distant metastasis has been described, frequently involving the liver {24013480}. Lymph node metastases are infrequent, so neck dissection is not routinely performed. Laryngeal tumours formerly classified as atypical carcinoids or moderately differentiated NEC (currently G2&nbsp;NET) present with advanced disease in about 20&ndash;30% of cases, and about 60% of cases recur. Treatment includes surgical resection with neck dissection followed by adjuvant chemotherapy and/or radiotherapy when there are regional lymph node metastases. Chemoradiotherapy alone does not appear to be effective {19536850}. In a meta-analysis of 436&nbsp;reported cases, published in 2015, the 5-year disease-free survival and overall survival rates were 52.8% and 46%, respectively {24596175}. Delayed recurrences are documented {28635990}. Nevertheless, the existing data should be interpreted with caution given the diagnostic heterogeneity previously applied in these tumours.</p>",
+        "timestamp": "2023-10-02T14:06:30"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

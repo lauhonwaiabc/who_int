@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 821,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 764,
+    "contributions": [
+      {
+        "pkcontributionId": 126575,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 764,
+        "headingText": "\r\n<p>ALK-positive histiocytosis is a histiocytic neoplasm lacking high-grade cytological atypia and characterized by anaplastic lymphoma kinase (ALK) immunoreactivity, usually due to <em>ALK</em> gene rearrangement.</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 822,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 765,
+    "contributions": [
+      {
+        "pkcontributionId": 126576,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 765,
+        "headingText": "\r\n<p>9750/3 ALK-positive histiocytosis</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 823,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 766,
+    "contributions": [
+      {
+        "pkcontributionId": 126577,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 766,
+        "headingText": "\r\n<p>EK92 Histiocytoses of uncertain malignant potential</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 824,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 767,
+    "contributions": [
+      {
+        "pkcontributionId": 126578,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 767,
+        "headingText": "\r\n<p><em>Acceptable:</em> ALK-related histiocytosis; <em>ALK</em>-rearranged histiocytosis.</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 825,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 768,
+    "contributions": [
+      {
+        "pkcontributionId": 126579,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 768,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 826,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 769,
+    "contributions": [
+      {
+        "pkcontributionId": 126580,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 769,
+        "headingText": "<p>See <a style=\"cursor:pointer\" href=\"/attachment/64/179/35151\" target=\"_blank\">#35151</a>Table&nbsp;6.06 .</p>",
+        "timestamp": "2025-05-06T15:33:45"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 827,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 770,
+    "contributions": [
+      {
+        "pkcontributionId": 126581,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 770,
+        "headingText": "\r\n<p>The skin lesions take the form of solitary or multiple nodules or papules, representing sole lesions or part of a multisystem disease {34727172; 30573850}.</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 828,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 771,
+    "contributions": [
+      {
+        "pkcontributionId": 126582,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 771,
+        "headingText": "\r\n<p>ALK-positive histiocytosis is rare. The multisystem systemic form occurs in infancy, while the multisystem (others) and single-system forms can occur in any age group, including children and adults {30573850; 34482333; 31119374; 32826530; 31371408; 32721959; 29224419; 34727172}. Patients are more commonly female than male {34727172}.</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 829,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 772,
+    "contributions": [
+      {
+        "pkcontributionId": 126583,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 772,
+        "headingText": "\r\n<p>Unknown</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 830,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 773,
+    "contributions": [
+      {
+        "pkcontributionId": 126584,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 773,
+        "headingText": "\r\n<p>ALK-positive histiocytosis is characterized by <em>ALK</em> gene translocation, with the commonest partner gene being <em>KIF5B</em> {30573850; 34727172}, and uncommon ones being <em>CLTC</em>, <em>TPM3</em>, <em>TFG</em>, <em>EML4</em>, <em>DCTN1</em>, <em>COL1A2</em>, and <em>TRIM33</em> {34727172; 30573850; 33243034}. <em>ALK</em> rearrangement can lead to the activation of many different signalling pathways, including the MAPK pathway {34727172}.</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 837,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 780,
+    "contributions": [
+      {
+        "pkcontributionId": 126585,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 780,
+        "headingText": "\r\n<p>Skin lesions are macules, papules, nodules, or plaques, with whitish-yellow cut surfaces {30573850; 34727172}.</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 831,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 774,
+    "contributions": [
+      {
+        "pkcontributionId": 126586,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 774,
+        "headingText": "<p>The skin shows a non-circumscribed, non-epidermotropic infiltrate comprising sheets of histiocytes, which may be accompanied by a variable degree of fibrosis. The histiocytes range in appearance from large oval (epithelioid), foamy, spindle cells to multinucleated cells, which frequently show irregular nuclear contours but no significant pleomorphism. They have abundant eosinophilic cytoplasm that may show fine vacuolation, haemosiderin deposition, and emperipolesis. There can be admixed Touton giant cells {30573850; 34727172}. The morphology can be indistinguishable from that of juvenile xanthogranuloma.</p>\r\n<h5>Immunohistochemistry</h5>\r\n<p>The histiocytes are ALK-positive {30573850; 32826530; 34727172} and show variable positivity for histiocytic markers, such as CD68, CD163, CD14, CD4, and lysozyme. Some cases may show staining for S100, cyclin&nbsp;D1, or OCT2 {34727172}. Fascin and factor&nbsp;XIIIa are commonly positive, while CD30, CD1a, and CD207 (langerin) are negative. The Ki-67 proliferation index is low.</p>\r\n<h5>Differential diagnosis</h5>\r\n<p>See <a style=\"cursor:pointer\" href=\"/attachment/64/178/36272\" target=\"_blank\">#36272</a>Table&nbsp;6.05 in <a style=\"cursor:pointer\" href=\"/chaptercontent/64/178\" target=\"_blank\">section </a><em>Rosai&ndash;Dorfman disease</em> for differential diagnosis.</p>",
+        "timestamp": "2025-05-06T15:34:53"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 832,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 775,
+    "contributions": [
+      {
+        "pkcontributionId": 126587,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 775,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 833,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 776,
+    "contributions": [
+      {
+        "pkcontributionId": 126588,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 776,
+        "headingText": "\r\n<p>Demonstration of <em>ALK</em> translocation is helpful.</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 836,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 779,
+    "contributions": [
+      {
+        "pkcontributionId": 126589,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 779,
+        "headingText": "\r\n<p><em>Essential:</em> tissue infiltration by aggregates and sheets of histiocytes lacking high-grade atypia; positive immunostaining for ALK (albeit focal and weak sometimes) and two or more histiocytic markers (CD163, CD68, CD14, CD4, lysozyme).</p>\r\n<p><em>Desirable:</em> histiocytes showing irregular nuclear foldings; <em>ALK</em> gene translocation (except in limited specimens).</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 834,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 777,
+    "contributions": [
+      {
+        "pkcontributionId": 126590,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 777,
+        "headingText": "\r\n<p>Not relevant</p>\r\n",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 835,
+    "bookid": 64,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 778,
+    "contributions": [
+      {
+        "pkcontributionId": 126591,
+        "bookId": 64,
+        "chapterId": 179,
+        "headingId": 778,
+        "headingText": "\r\n<p>The outcome is variable depending on the pattern of disease involvement {18660380; 30573850; 34727172}. Patients with multisystem disease may benefit from systemic chemotherapies or ALK inhibitors {30573850; 32826530; 34727172}. Single-system involvement can be cured by surgical ablation where complete removal is possible {30573850; 31119374; 34482333; 34727172}. Skin lesions may regress spontaneously {30573850}.</p>",
+        "timestamp": "2025-04-25T08:45:15"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

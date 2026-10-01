@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 457,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 370,
+    "contributions": [
+      {
+        "pkcontributionId": 64632,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 370,
+        "headingText": "\r\n<p>Carcinoma of the uterine cervix, unclassifiable, is a malignant epithelial tumour of the cervix that cannot be further subclassified; diagnosis requires the exclusion of potential histological mimics, including primary and metastatic tumours.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 458,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 371,
+    "contributions": [
+      {
+        "pkcontributionId": 64633,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 371,
+        "headingText": "\r\n<p>8020/3 Carcinoma, undifferentiated, NOS</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 459,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 372,
+    "contributions": [
+      {
+        "pkcontributionId": 64634,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 372,
+        "headingText": "\r\n<p>2C77.Z Malignant neoplasms of cervix uteri, unspecified</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 460,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 373,
+    "contributions": [
+      {
+        "pkcontributionId": 64635,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 373,
+        "headingText": "\r\n<p><em>Acceptable:</em> undifferentiated carcinoma; poorly differentiated carcinoma</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 461,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 374,
+    "contributions": [
+      {
+        "pkcontributionId": 64636,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 374,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 462,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 375,
+    "contributions": [
+      {
+        "pkcontributionId": 64637,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 375,
+        "headingText": "\r\n<p>Cervix</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 463,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 376,
+    "contributions": [
+      {
+        "pkcontributionId": 64638,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 376,
+        "headingText": "\r\n<p>The clinical features are similar to those of cervical carcinoma in general. In a SEER analysis, the mean patient age was 42&nbsp;years (range: 32&ndash;58&nbsp;years), and 70% of cases were American Joint Committee on Cancer (AJCC) stage&nbsp;I {17718897}.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 464,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 377,
+    "contributions": [
+      {
+        "pkcontributionId": 64639,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 377,
+        "headingText": "\r\n<p>These account for a very small percentage of cervical carcinomas.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 465,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 378,
+    "contributions": [
+      {
+        "pkcontributionId": 64640,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 378,
+        "headingText": "<p>Data are limited, but most cases are HPV-associated and/or block-type p16-positive {25884453}.</p>",
+        "timestamp": "2020-08-12T12:01:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 466,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 379,
+    "contributions": [
+      {
+        "pkcontributionId": 64641,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 379,
+        "headingText": "<p>The pathogenesis is usually HPV-associated.</p>",
+        "timestamp": "2020-08-12T12:02:07"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 473,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 386,
+    "contributions": [
+      {
+        "pkcontributionId": 64642,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 386,
+        "headingText": "\r\n<p>The macroscopic appearance is similar to that of cervical carcinoma generally.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 467,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 380,
+    "contributions": [
+      {
+        "pkcontributionId": 64643,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 380,
+        "headingText": "\r\n<p>The tumours demonstrate an epithelial phenotype but lack histological or immunohistochemical features of other specific subtypes of cervical carcinoma (e.g. squamous carcinoma, adenocarcinoma, and neuroendocrine carcinoma [NEC]). In some cases this may be a consequence of limited or non-representative tumour sampling. Diffuse p63 expression should elicit consideration of a poorly differentiated squamous carcinoma.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 468,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 381,
+    "contributions": [
+      {
+        "pkcontributionId": 64644,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 381,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 469,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 382,
+    "contributions": [
+      {
+        "pkcontributionId": 64645,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 382,
+        "headingText": "\r\n<p>Not clinically relevant</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 472,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 385,
+    "contributions": [
+      {
+        "pkcontributionId": 64646,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 385,
+        "headingText": "<p><em>Essential:</em> a primary malignant epithelial neoplasm lacking specific differentiating features; molecular analysis and/or p16 immunohistochemistry may help in determining HPV-associated etiology.</p>",
+        "timestamp": "2020-08-12T12:02:17"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 470,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 383,
+    "contributions": [
+      {
+        "pkcontributionId": 64647,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 383,
+        "headingText": "\r\n<p>The staging is the same as for other cervical tumours.</p>\r\n",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 471,
+    "bookid": 34,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 384,
+    "contributions": [
+      {
+        "pkcontributionId": 64648,
+        "bookId": 34,
+        "chapterId": 313,
+        "headingId": 384,
+        "headingText": "\r\n<p>In a SEER analysis, the 10-year cause-specific survival rate was 84.9%, not statistically different from that of cervical squamous carcinoma {17718897}.</p>",
+        "timestamp": "2020-04-28T15:13:44"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

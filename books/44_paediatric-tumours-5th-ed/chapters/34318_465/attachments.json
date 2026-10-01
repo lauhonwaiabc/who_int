@@ -1,0 +1,62 @@
+[
+  {
+    "pkattachmentId": 50920,
+    "bookid": 44,
+    "chapterId": 465,
+    "fileId": 22693,
+    "type": "Figure",
+    "diagnosis": "Cribriform neuroepithelial tumour",
+    "title": "",
+    "legend": "A highly cellular tumour composed of relatively small cells arranged in cribriform strands, and trabeculae of varying thickness, forming well-defined surfaces.",
+    "source": "Martin Hasselblatt",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/44/465/16249.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/44/465/thumb_16249.jpg"
+  },
+  {
+    "pkattachmentId": 50921,
+    "bookid": 44,
+    "chapterId": 465,
+    "fileId": 22694,
+    "type": "Figure",
+    "diagnosis": "Cribriform neuroepithelial tumour",
+    "title": "",
+    "legend": "Strong EMA expression in the tumour cells.",
+    "source": "Martin Hasselblatt",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/44/465/16250.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/44/465/thumb_16250.jpg"
+  },
+  {
+    "pkattachmentId": 50922,
+    "bookid": 44,
+    "chapterId": 465,
+    "fileId": 22695,
+    "type": "Figure",
+    "diagnosis": "Cribriform neuroepithelial tumour",
+    "title": "",
+    "legend": "Loss of nuclear SMARCB1 (INI1) expression in the tumour cells.",
+    "source": "Martin Hasselblatt",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/44/465/16252.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/44/465/thumb_16252.jpg"
+  },
+  {
+    "pkattachmentId": 51481,
+    "bookid": 44,
+    "chapterId": 465,
+    "fileId": 22696,
+    "type": "Table",
+    "diagnosis": "",
+    "title": "<p>Diagnostic criteria for cribriform neuroepithelial tumour (CRINET)</p>",
+    "legend": "",
+    "source": "",
+    "copyright": "Not necessary",
+    "tablehtml": "<table class=\"MsoTableGridLight\" style=\"width: 432.35pt; background: #DAEEF3; border-collapse: collapse; border: none; \" border=\"0\" width=\"0\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr style=\" page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 432.35pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"576\">\r\n<p class=\"TableText\" style=\"margin: 2.25pt 0cm 2.25pt 0cm;\"><strong style=\"\"><em style=\"\">Essential:</em></strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\" page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 432.35pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"576\">\r\n<p class=\"TableText\" style=\"margin: 2.25pt 0cm 2.25pt 0cm;\">Highly cellular tumour characterized by the presence of cribriform strands and ribbons</p>\r\n</td>\r\n</tr>\r\n<tr style=\" page-break-inside: avoid; height: 17.2pt;\">\r\n<td style=\"width: 432.35pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 17.2pt;\" valign=\"top\" width=\"576\">\r\n<p class=\"TableText\" style=\"margin: 2.25pt 0cm 2.25pt 0cm;\"><strong style=\"\">AND</strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\" page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 432.35pt; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"576\">\r\n<p class=\"TableText\" style=\"margin: 2.25pt 0cm 2.25pt 0cm;\">Loss of nuclear SMARCB1 protein expression of tumour cells</p>\r\n</td>\r\n</tr>\r\n<tr style=\" page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 432.35pt; background: #EFF6FC; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"576\">\r\n<p class=\"TableText\" style=\"margin: 2.25pt 0cm 2.25pt 0cm;\"><strong style=\"\"><em style=\"\">Desirable:</em></strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\" page-break-inside: avoid; height: 10.2pt;\">\r\n<td style=\"width: 432.35pt; background: #EFF6FC; padding: 0cm 5.4pt 0cm 5.4pt; height: 10.2pt;\" valign=\"top\" width=\"576\">\r\n<p class=\"TableText\" style=\"margin: 2.25pt 0cm 2.25pt 0cm;\">Distinct expression of EMA highlighting cell surfaces</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p class=\"TableText\"><strong style=\"\">Caveat:</strong> The distinction of CRINET from the AT/RT-TYR subgroup is not fully established.</p>",
+    "imageUrl": null,
+    "thumbnail": null
+  }
+]

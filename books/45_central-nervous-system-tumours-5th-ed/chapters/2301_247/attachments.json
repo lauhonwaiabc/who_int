@@ -1,0 +1,32 @@
+[
+  {
+    "pkattachmentId": 40158,
+    "bookid": 45,
+    "chapterId": 247,
+    "fileId": 28899,
+    "type": "Figure",
+    "diagnosis": "Ependymal tumours: molecular groups",
+    "title": "",
+    "legend": "Unsupervised, non-linear t-distributed stochastic neighbour embedding (t-SNE) projection of methylation array profiles from ependymal tumours. Note that the posterior fossa group&nbsp;A (PFA) ependymal tumours split into two subgroups, which might reflect site of origin {29909548}. Samples were selected from a large database of &gt;&nbsp;50&nbsp;000&nbsp;brain tumour datasets to serve as reference profiles for training a supervised classification model based on strict criteria: all these samples showed a high calibrated classification score (&gt;&nbsp;0.9) for ependymoma methylation classes when applying the brain tumour classifier available at https://www.molecularneuropathology.org. In a t-SNE projection like this, occasional samples of one subclass may fall closer to a different subclass because of the stochastic nature of the t-SNE algorithm and the gradual rather than strict boundaries between the subclasses.",
+    "source": "David W. Ellison",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/45/247/28899.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/45/247/thumb_28899.jpg"
+  },
+  {
+    "pkattachmentId": 40159,
+    "bookid": 45,
+    "chapterId": 247,
+    "fileId": 28900,
+    "type": "Figure",
+    "diagnosis": "Ependymal tumours: molecular groups",
+    "title": "",
+    "legend": "Group colours parallel those used in the t-distributed stochastic neighbour embedding (t-SNE) plot. Outcome colour code: green, good; yellow, intermediate; red, poor. Chr., chromosome; PFA, posterior fossa group&nbsp;A ependymoma; PFB, posterior fossa group&nbsp;B ependymoma; PF-SE, posterior fossa subependymoma; SP-EP, spinal ependymoma; SP-MP, myxopapillary ependymoma; SP-<em>MYCN</em>, spinal ependymoma, <em>MYCN</em>-amplified; SP-SE, spinal subependymoma; ST-SE, supratentorial subependymoma; ST-<em>YAP1</em>, supratentorial ependymoma, <em>YAP1</em> fusion&ndash;positive; ST-<em>ZFTA</em>, supratentorial ependymoma, <em>ZFTA</em> (<em>C11orf95</em>) fusion&ndash;positive.",
+    "source": "David W. Ellison",
+    "copyright": "",
+    "tablehtml": "",
+    "imageUrl": "https://tumourclassification.iarc.who.int/static/dzi/45/247/28900.jpg",
+    "thumbnail": "https://tumourclassification.iarc.who.int/static/dzi/45/247/thumb_28900.jpg"
+  }
+]

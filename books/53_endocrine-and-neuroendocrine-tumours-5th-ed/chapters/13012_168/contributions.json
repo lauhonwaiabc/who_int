@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 803,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 607,
+    "contributions": [
+      {
+        "pkcontributionId": 124132,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 607,
+        "headingText": "<p>Non-syndromic familial follicular cell&ndash;derived thyroid tumours are a heterogeneous group of hereditary thyroid cancers characterized by a predominance of follicular cell&ndash;derived or non-medullary thyroid carcinomas.</p>",
+        "timestamp": "2024-12-09T12:38:36"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 804,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 608,
+    "contributions": [
+      {
+        "pkcontributionId": 124133,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 608,
+        "headingText": "<h5>MIM numbering</h5>\r\n<p>None</p>",
+        "timestamp": "2024-11-19T13:05:57"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 805,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 609,
+    "contributions": [
+      {
+        "pkcontributionId": 124134,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 609,
+        "headingText": "\r\n<p>None</p>\r\n",
+        "timestamp": "2024-10-09T16:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 806,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 610,
+    "contributions": [
+      {
+        "pkcontributionId": 124135,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 610,
+        "headingText": "\r\n<p><em>Acceptable:</em> non-syndromic inherited follicular epithelial-derived thyroid carcinoma; familial papillary thyroid carcinoma; follicular cell&ndash;derived thyroid carcinoma; non-syndromic familial non-medullary thyroid carcinoma (NSFNMTC).</p>\r\n",
+        "timestamp": "2024-10-09T16:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 807,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 611,
+    "contributions": [
+      {
+        "pkcontributionId": 124136,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 611,
+        "headingText": "\r\n<p>NSFNMTC is genetically heterogeneous {33495912}.</p>\r\n",
+        "timestamp": "2024-10-09T16:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 808,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 612,
+    "contributions": [
+      {
+        "pkcontributionId": 124137,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 612,
+        "headingText": "\r\n<p>NSFNMTCs can occur anywhere in the gland and are often multifocal and bilateral, usually occurring in combination with thyroiditis and benign tumours {33495912; 19081481; 32556933; 22136209; 9395820; 11114641; 11965446; 10030330; 10372725; 18948764; 19958934; 7632152; 9024215; 11701697; 20878367; 25637073; 26711636; 33488516}.</p>\r\n",
+        "timestamp": "2024-10-09T16:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 809,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 613,
+    "contributions": [
+      {
+        "pkcontributionId": 124138,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 613,
+        "headingText": "\r\n<p>Patients with NSFNMTC usually present at a younger age (on average 5&nbsp;years younger) than patients with sporadic thyroid cancer (~43&nbsp;vs ~48&nbsp;years) {17429563; 21190444; 22136209; 11114641; 16029126; 26284028}, although there is not always a significant difference between the two groups {15564841; 19081481; 20954815; 11038215; 11965446; 22131992}. In families with NSFNMTCs, the second generation exhibits an earlier age at diagnosis (clinical anticipation), more extrathyroidal invasion, a higher recurrence rate, and shorter recurrence-free survival than the first generation {22280228; 18832444}; the possibility of bias, however, due to more frequent evaluations in the family group than in sporadic cases, cannot be excluded {11038215}. No differences in the M:F&nbsp;ratio have been found between sporadic and familial follicular cell&ndash;derived thyroid cancers {32556933; 11038215}.</p>\r\n",
+        "timestamp": "2024-10-09T16:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 810,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 614,
+    "contributions": [
+      {
+        "pkcontributionId": 124139,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 614,
+        "headingText": "\r\n<p>The prevalence of NSFNMTC ranges between 4.5% and 10% of all thyroid tumours {21190444; 17429563; 19081481; 20954815; 22280228}, in some series reaching as high as 13.5%, with 85% of patients having 2&nbsp;affected relatives and 15% having &ge;&nbsp;3&nbsp;affected relatives {32556933}.</p>\r\n",
+        "timestamp": "2024-10-09T16:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 811,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 615,
+    "contributions": [
+      {
+        "pkcontributionId": 124140,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 615,
+        "headingText": "<p>The genetic basis of NSFNMTC remains poorly understood. Most pedigrees are consistent with the inheritance of one autosomal dominant gene with reduced penetrance and variable expressivity, supporting a monogenic mode of inheritance (see <a style=\"cursor:pointer\" href=\"/attachment/53/168/24323\" target=\"_blank\">#24323</a>Table&nbsp;13.09); a polygenic mode of inheritance involving <em>CHEK2</em>, <em>EWSR1</em>, and <em>TIAM1</em> has also been recently proposed {33692755}. Somatic mutations of <em>BRAF</em> (p.V600E), <em>NRAS</em>, <em>HRAS</em>, <em>KRAS</em>, <em>RET</em>/PTC1, <em>RET</em>/PTC3, <em>NTRK1</em>, and <em>TERT</em> have been identified in NSFNMTCs, so there appear to be no differences in the number or type of somatic mutations between sporadic and hereditary cases of papillary thyroid cancer {21190444; 31501191; 33488516; 25381600; 32041497; 31703344; 18310288}.</p>",
+        "timestamp": "2024-10-18T15:05:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 812,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 616,
+    "contributions": [
+      {
+        "pkcontributionId": 124141,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 616,
+        "headingText": "\r\n<p>Whole-genome sequencing of NSFNMTC has shown the central role of MAPK/ERK and PI3K/AKT signalling pathways in this type of thyroid cancer {31614935}, which would explain its similar morphological appearance to that of sporadic thyroid cancers. In addition, dysfunction of telomeres could in some cases be a mechanism predisposing individuals to familial papillary thyroid carcinoma {31928178; 21865371; 32492864}. The coexistence of NSFNMTC with multiple thyroid nodules, including the hyperplasia&ndash;neoplasia sequence, is consistent with a multistep model of tumour progression {11114641; 9024215}.</p>\r\n",
+        "timestamp": "2024-10-09T16:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 819,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 623,
+    "contributions": [
+      {
+        "pkcontributionId": 124142,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 623,
+        "headingText": "\r\n<p>Grossly, NSFNMTC may be indistinguishable from a multinodular goitre because of its frequent multicentricity, bilaterality, and/or association with benign nodules {33495912}.</p>\r\n",
+        "timestamp": "2024-10-09T16:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 813,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 617,
+    "contributions": [
+      {
+        "pkcontributionId": 124143,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 617,
+        "headingText": "<p>NSFNMTC is mainly of the papillary type, including subcentimetre cases and the classic and follicular-type subtypes, but other subtypes of papillary carcinoma, oncocytic thyroid carcinoma, and other types of differentiated thyroid carcinoma have been reported as well (see <a style=\"cursor:pointer\" href=\"/attachment/53/168/24323\" target=\"_blank\">#24323</a>Table&nbsp;13.09). No distinct morphological findings differentiate these carcinomas from their sporadic counterparts in most cases, but the multifocality and the combination with benign lesions (a background of hyperplastic nodules and/or follicular adenomas) and with Hashimoto thyroiditis {26711636} suggest a hereditary origin {21455198; 33495912; 29239041}. In cases with germline <em>PLCB1</em> sequence variants there is a multinodular goitre of adolescent onset with an increased risk of progression to papillary thyroid carcinoma; this multinodular goitre is typically made up of sharply demarcated nodules lined by micropapillary projections (papilloid adenomata or so-called papillary hyperplasia) in a thyroid background of normal appearance {29897006; 32189189}. Overexpression of PLCB1, HABP2, EGFR, and NOP53, with lower immunostaining for CHK2, has been detected in thyroid tumour cells, associated with pathogenic germline variants of the genes <em>PLCB1</em>, <em>HABP2</em>, <em>BROX</em>, <em>NOP53</em>, and <em>CHEK2</em>, respectively {29897006; 26222560; 32385852; 31703244; 32041497}.</p>",
+        "timestamp": "2024-12-09T12:42:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 814,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 618,
+    "contributions": [
+      {
+        "pkcontributionId": 124144,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 618,
+        "headingText": "\r\n<p>No specific cytological features distinguish NSFNMTCs from their sporadic counterparts.</p>\r\n",
+        "timestamp": "2024-10-09T16:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 815,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 619,
+    "contributions": [
+      {
+        "pkcontributionId": 124145,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 619,
+        "headingText": "\r\n<p>The identification of pathological germline mutations in susceptibility genes is confirmatory, but some of these mutations have yet to be confirmed.</p>\r\n",
+        "timestamp": "2024-10-09T16:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 818,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 622,
+    "contributions": [
+      {
+        "pkcontributionId": 124146,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 622,
+        "headingText": "<p><em>Essential:</em> the clinical diagnosis of NSFNMTC has been defined by the presence of papillary thyroid carcinoma in &ge;&nbsp;2 first-degree relatives, in the absence of previous ionizing radiation exposure and cancer syndromes {11038215; 33025555; 33175120}, but this is controversial because of the high probability of including sporadic cases; other studies, however, indicate NSFNMTC when a follicular cell&ndash;derived thyroid carcinoma appears in &ge;&nbsp;3&nbsp;first-degree relatives {17429563; 23734600; 32556933; 27561845; 11038215}, because the possibility of it being sporadic is therefore &lt;&nbsp;5% {16613533; 27561845}. The essential and supportive clinical criteria that can be used to identify patients with NSFNMTC are presented in <a style=\"cursor:pointer\" href=\"/attachment/53/168/24322\" target=\"_blank\">#24322</a>Box&nbsp;13.05 .</p>\r\n<p><em>Desirable:</em> the identification of a pathogenic germline (constitutional) mutation in susceptibility genes.</p>",
+        "timestamp": "2024-10-18T15:06:48"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 816,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 620,
+    "contributions": [
+      {
+        "pkcontributionId": 124147,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 620,
+        "headingText": "\r\n<p>See specific tumour types.</p>\r\n",
+        "timestamp": "2024-10-09T16:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 817,
+    "bookid": 53,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 621,
+    "contributions": [
+      {
+        "pkcontributionId": 124148,
+        "bookId": 53,
+        "chapterId": 168,
+        "headingId": 621,
+        "headingText": "\r\n<p>Although some studies have found no differences in clinical behaviour between sporadic and NSFNMTC {15564841; 16613533; 20954815}, NSFNMTC is commonly associated with a higher rate of lymph node metastases {17429563; 32556933; 22136209; 18832444; 10030330; 25637073; 26711636}, extrathyroidal extension {22136209; 22131992; 25637073; 26711636}, and recurrence {22136209; 24132694} than sporadic cases, particularly in families with &ge;&nbsp;3 affected members {11038215; 11114641; 18931957; 22131992; 16479341}. Despite the more aggressive presentation of NSFNMTC, appropriate treatment leads to an outcome similar to that observed for sporadic cases {33488516}. Screening of at-risk family members allows for early diagnosis of NSFNMTCs and less aggressive initial treatment {28657510}. A less invasive surgical treatment could be considered in familial papillary carcinoma &lt;&nbsp;10&nbsp;mm {25894401}. Total thyroidectomy has been indicated, however, because of increased multifocality and the presence of benign nodules with an increased risk of recurrence and/or progression to carcinoma {32556933; 26284028; 11965446; 10547601}.</p>",
+        "timestamp": "2024-10-09T16:17:32"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

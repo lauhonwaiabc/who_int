@@ -1,0 +1,342 @@
+[
+  {
+    "pkheadingid": 764,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Definition",
+    "headingPosition": 1,
+    "headingid": 701,
+    "contributions": [
+      {
+        "pkcontributionId": 118929,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 701,
+        "headingText": "\r\n\r\n<p>Myeloid neoplasms post cytotoxic therapy (MN-pCTs) include myelodysplastic neoplasms (MDSs), myelodysplastic/myeloproliferative neoplasms (MDS/MPNs), and acute myeloid leukaemia (AML) that arise in a patient with a history of exposure to DNA-damaging cytotoxic chemotherapy and/or large-field radiation therapy.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 765,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-O coding",
+    "headingPosition": 2,
+    "headingid": 702,
+    "contributions": [
+      {
+        "pkcontributionId": 118930,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 702,
+        "headingText": "\r\n\r\n<p>9920/3 Myeloid neoplasm post cytotoxic therapy</p>\r\n<p>9987/3 Myelodysplastic neoplasm post cytotoxic therapy</p>\r\n<p>9920/3 Myelodysplastic/myeloproliferative neoplasm post cytotoxic therapy</p>\r\n<p>9920/3 Acute myeloid leukaemia post cytotoxic therapy</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 766,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "ICD-11 coding",
+    "headingPosition": 3,
+    "headingid": 703,
+    "contributions": [
+      {
+        "pkcontributionId": 118931,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 703,
+        "headingText": "\r\n\r\n<p>2A60.2Y Other specified therapy-related myeloid neoplasms</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 767,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Related terminology",
+    "headingPosition": 4,
+    "headingid": 704,
+    "contributions": [
+      {
+        "pkcontributionId": 118932,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 704,
+        "headingText": "\r\n\r\n<p><em>Not recommended:</em> therapy-related myeloid neoplasm; therapy-related myelodysplastic neoplasm; therapy-related myelodysplastic/myeloproliferative neoplasm; therapy-related acute myeloid leukaemia.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 768,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Subtype(s)",
+    "headingPosition": 5,
+    "headingid": 705,
+    "contributions": [
+      {
+        "pkcontributionId": 118933,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 705,
+        "headingText": "\r\n\r\n<p>Myelodysplastic neoplasm post cytotoxic therapy; myelodysplastic/myeloproliferative neoplasm post cytotoxic therapy; acute myeloid leukaemia post cytotoxic therapy</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 769,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Localization",
+    "headingPosition": 6,
+    "headingid": 706,
+    "contributions": [
+      {
+        "pkcontributionId": 118934,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 706,
+        "headingText": "\r\n\r\n<p>Blood and bone marrow are primarily involved. Rare presentation as myeloid sarcoma can occur {20858094; 25209604}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 770,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Clinical features",
+    "headingPosition": 7,
+    "headingid": 707,
+    "contributions": [
+      {
+        "pkcontributionId": 118935,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 707,
+        "headingText": "\r\n\r\n<p>Most patients present with persistent cytopenias. Two clinical categories of MN-pCT have been recognized: cases following exposure to alkylating agents and/or ionizing radiation (type&nbsp;1) and cases following exposure to topoisomerase&nbsp;II inhibitors (type&nbsp;2). These have distinctive clinical presentations and are associated with particular genetic alterations (see <a style=\"cursor:pointer\" href=\"/attachment/63/27/30675\" target=\"_blank\">#30675</a>Table&nbsp;2.20). However, most patients receive multiple types of therapy, and the boundaries between these two categories are therefore not always clear, because of their overlapping features. Recently, it has been shown that exposure to PARP1 inhibitors is associated with an increased risk of myeloid neoplasia {26187614; 33347814; 34107346}. MN-pCT generally arises within 10&nbsp;years of last exposure to cytotoxic therapy, and the origin of cases with very long latency periods may be unrelated to therapy {26304885}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 771,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Epidemiology",
+    "headingPosition": 8,
+    "headingid": 708,
+    "contributions": [
+      {
+        "pkcontributionId": 118936,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 708,
+        "headingText": "\r\n\r\n<p>The relative risk of MN-pCT ranges from 1.5&nbsp;to&nbsp;&gt;&nbsp;10 and excess absolute risk from 1.4&nbsp;to&nbsp;&gt;&nbsp;15&nbsp;cases per 10&nbsp;000&nbsp;person-years, compared with the general population {30570657}. MN-pCT accounts for 10&ndash;20% of all cases of AML, MDS, and MDS/MPN {21127174; 23412096; 26304885}. The incidence among patients treated with cytotoxic agents varies depending on the underlying disease and the cytotoxic treatment strategy. Most patients have been treated for either solid tumour malignancy or non-myeloid haematological malignancy {21127174; 25653205; 25975189; 34857802; 35262868}. Some patients have a history of cytotoxic therapy for a non-neoplastic disorder, commonly an autoimmune condition {21127174; 25653205}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 772,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Etiology",
+    "headingPosition": 9,
+    "headingid": 709,
+    "contributions": [
+      {
+        "pkcontributionId": 118937,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 709,
+        "headingText": "\r\n\r\n<p>The cytotoxic agents commonly implicated in MN-pCT are listed in <a style=\"cursor:pointer\" href=\"/attachment/63/27/30674\" target=\"_blank\">#30674</a>Box&nbsp;2.27 . Clonal haematopoiesis predisposes to MN-pCT {25487151; 33106634}. Recently, it has been shown that exposure to PARP1 inhibitors is associated with an increased risk of MN-pCT {26187614; 33347814; 34107346; 34647981}. Adjunctive use of haematopoietic growth factors during chemotherapy may also increase the risk {20385991}. The primary role of therapies such as hydroxyurea, radioisotopes, L-asparaginase, purine analogues, and mycophenolate mofetil is unclear. The etiological impact of limited-field radiation therapy is unclear.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 773,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Pathogenesis",
+    "headingPosition": 10,
+    "headingid": 710,
+    "contributions": [
+      {
+        "pkcontributionId": 118938,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 710,
+        "headingText": "\r\n\r\n<p>Biologically, MN-pCT results from an expansion of pre-existing haematopoietic clones (see the sections on <a style=\"cursor:pointer\" href=\"/chaptercontent/63/3\" target=\"_blank\">section </a>clonal haematopoiesis) due to selective pressure {25487151; 28068180; 32150606; 33106634; 35027675} within an altered marrow microenvironment caused by cytotoxic therapies. Only a subset of patients exposed to cytotoxic therapy for other cancers develop MN-pCT. The recognition of specific genetic susceptibilities, both acquired or inherited, in patients and family members can guide treatment decisions to prevent future development of MN-pCT. Patients with clonal haematopoiesis in genes such as <em>TP53</em>, <em>PPM1D</em>, <em>DNMT3A</em>, <em>ASXL1</em>, and <em>TET2</em> have an increased risk of developing a myeloid neoplasm if exposed to a cytotoxic therapy {25487151; 27923552; 27927582}. The risk is also high for patients with polymorphisms in genes such as <em>NQO1</em> that affect drug metabolism. A significant subset of patients with MN-pCT, especially those with a strong family history of cancer, have incidental inherited germline mutations and occasionally polymorphisms in genes involved in DNA damage response and Fanconi anaemia pathways {10397748; 11553769; 17476281; 21505135; 26140431; 26641009; 28835720; 33876223}. Their identification becomes particularly important for donor selection for allogeneic stem cell transplantation.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 780,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Macroscopic appearance",
+    "headingPosition": 11,
+    "headingid": 717,
+    "contributions": [
+      {
+        "pkcontributionId": 118939,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 717,
+        "headingText": "\r\n\r\n<p>Not applicable</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 774,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Histopathology",
+    "headingPosition": 12,
+    "headingid": 711,
+    "contributions": [
+      {
+        "pkcontributionId": 118940,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 711,
+        "headingText": "<p>Patients with MN-pCT have blood and bone marrow morphology that overlaps with that of patients with de&nbsp;novo AML, MDS, and MDS/MPN. Peripheral blood commonly shows anisopoikilocytosis and macrocytosis of red blood cells, with circulating nucleated forms and dysplastic neutrophils, occasionally with monocytosis. Multilineage dysplasia is a consistent feature.</p>\r\n<p>Accurate enumeration of bone marrow blast percentage remains important for distinguishing MDS-pCT from AML-pCT (&ge;&nbsp;20% blasts) {32595214}. Cases of AML-pCT with t(15;17) or t(8;21) show typical morphological features similar to those of their de&nbsp;novo counterparts {11863228; 17325866; 25653205; 28322237}. Similarly, chronic myelomonocytic leukaemia post cytotoxic therapy resembles its de&nbsp;novo counterpart {23896412}.</p>\r\n\r\n<h5>Immunophenotype</h5>\r\n\r\n<p>Immunophenotypic findings are similarly heterogeneous and can span the full range of AML, MDS, and MDS/MPN types. Expression of lymphoid markers (CD19, cCD79, cCD3, CD5, CD7, CD25) is common {30203335; 32150606}. Indeed, immunophenotypic features of bona&nbsp;fide mixed-phenotype acute leukaemia or acute undifferentiated leukaemia can also be seen, but a diagnosis of MN-pCT takes precedence in such cases.</p>\r\n<p>Immunohistochemical staining for <em>TP53</em> can enable assessment of <em>TP53</em> mutation status {25412846}.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-01T12:53:42"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 775,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Cytology",
+    "headingPosition": 13,
+    "headingid": 712,
+    "contributions": [
+      {
+        "pkcontributionId": 118941,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 712,
+        "headingText": "\r\n\r\n<p>See above.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 776,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Diagnostic molecular pathology",
+    "headingPosition": 14,
+    "headingid": 713,
+    "contributions": [
+      {
+        "pkcontributionId": 118942,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 713,
+        "headingText": "\r\n\r\n<p>In MN-pCT, the spectrum of chromosomal abnormalities is comparable to that of their de&nbsp;novo counterparts, but with a higher proportion of aberrant karyotypes (70&ndash;90% vs 40&ndash;60%, respectively) and substantial differences in the frequency of distinct abnormalities {28835720; 33876223}. Complex karyotypes predominate, with loss of&nbsp;5q, 7q, and&nbsp;17p. Other frequent abnormalities include loss of&nbsp;12p, 13q, 18q, and&nbsp;20q, as well as gains of&nbsp;1q and&nbsp;21q. Compared with de&nbsp;novo MDS, Revised International Prognostic Scoring System (IPSS-R) high-risk and very-high-risk cases are overrepresented. Additional genetic features are summarized in <a style=\"cursor:pointer\" href=\"/attachment/63/27/30675\" target=\"_blank\">#30675</a>Table&nbsp;2.20 .</p>\r\n<p>Somatic mutations are routinely detected in the majority of MN-pCT cases and are often shared across AML-pCT and MDS-pCT. The mutation spectrum is similar to that seen in respective de&nbsp;novo categories, but the frequencies of individual gene mutations differ {2555036; 23349305; 25487151; 31089247; 33876223; 34423258}. Characteristically, MN-pCT cases frequently harbour mutations in <em>TP53</em> {23349305; 25487151; 32027746; 32747829; 33677472; 34423258}. <em>TP53</em> alterations are more likely to be multi-hit, manifesting as at least two <em>TP53</em> mutations or with concomitant <em>TP53</em> deletion or copy-neutral loss of heterozygosity {32747829; 33677472}. Other <em>TP53</em> mutation characteristics that probably influence outcomes include variant allele frequencies (VAFs), which tend to be higher in MDS-pCT as a consequence of multiallelic alterations, and the functional impact of the mutation per&nbsp;se {32027746; 32747829; 33677472}.</p>\r\n<p>Other gene mutations more frequently observed in MN-pCT include truncating mutations in <em>PPM1D</em> (~15%) and DNA damage response genes, particularly after cisplatin exposure {29386642; 29954749; 30388424; 33106634; 34423258}. Mutations in <em>SRSF2</em>, <em>SF3B1</em>, <em>U2AF1</em>, <em>ZRSR2</em>, <em>ASXL1</em>, <em>EZH2</em>, <em>BCOR</em>, and <em>STAG2</em>, regarded as specific for AML arising from MDS, are also seen in a subset of AML-pCT cases {25550361}.</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 779,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Essential and desirable diagnostic criteria",
+    "headingPosition": 15,
+    "headingid": 716,
+    "contributions": [
+      {
+        "pkcontributionId": 118943,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 716,
+        "headingText": "<p><em>Essential:</em> myeloid neoplasm meeting the diagnostic criteria for any MDS, MDS/MPN, or AML; history of prior exposure to cytotoxic therapy and/or large-field radiation therapy for an unrelated disorder (see <a style=\"cursor:pointer\" href=\"/attachment/63/27/30674\" target=\"_blank\">#30674</a>Box&nbsp;2.27, for agents commonly involved); not meeting diagnostic criteria for a myeloproliferative neoplasm (MPN).</p>\r\n<p><em>Desirable:</em> detection of clonal molecular and/or chromosomal alterations.</p>\r\n&nbsp;",
+        "timestamp": "2024-03-19T12:49:09"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 777,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Staging",
+    "headingPosition": 16,
+    "headingid": 714,
+    "contributions": [
+      {
+        "pkcontributionId": 118944,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 714,
+        "headingText": "\r\n\r\n<p>Not relevant</p>\r\n\r\n",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  },
+  {
+    "pkheadingid": 778,
+    "bookid": 63,
+    "headingType": 2,
+    "headingTitle": "Prognosis and prediction",
+    "headingPosition": 17,
+    "headingid": 715,
+    "contributions": [
+      {
+        "pkcontributionId": 118945,
+        "bookId": 63,
+        "chapterId": 27,
+        "headingId": 715,
+        "headingText": "\r\n\r\n<p>MN-pCT is generally associated with a poor prognosis {25550361; 32027746; 32747829; 33677472; 34480120; 34794172}. The prognosis is primarily influenced by the associated karyotypic abnormality, the type of myeloid neoplasm, and (to a lesser extent) the underlying neoplasm for which the cytotoxic treatment is administered {25975189; 35304738}. Patients with aberrations of chromosome&nbsp;5 and/or&nbsp;7, <em>TP53</em> mutations, or a complex karyotype have a particularly poor outcome, with a median survival time of &lt;&nbsp;1&nbsp;year irrespective of blast count {21127174; 25412846; 25653205; 34794172; 35073573}. Risk categorization on the basis of established schemes such as the IPSS-R may be useful in risk stratification and prediction of AML transformation in patients with MN-pCT {32595214}. However, in cases with a low to intermediate IPSS-R score, the outcome is worse than that of their de&nbsp;novo counterparts, probably influenced by the activity of the primary disease and the cumulative toxicity of the previous treatments {32595214}.</p>\r\n<p>Retrospective data suggest that allogeneic haematopoietic stem cell transplantation may improve survival, with outcomes that appear to be influenced by antecedent clonal haematopoiesis {20680530; 25653205; 25975189; 28068180; 32150606; 32533060; 34480120; 35027675}.</p>",
+        "timestamp": "2024-03-01T12:53:27"
+      }
+    ],
+    "booknotes": [],
+    "numberofBooknote": 0
+  }
+]

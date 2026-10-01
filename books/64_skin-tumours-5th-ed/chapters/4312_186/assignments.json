@@ -1,0 +1,115 @@
+[
+  {
+    "pkroleId": 153,
+    "bookId": "64",
+    "roleid": 200,
+    "roleTitle": "Resp Editor",
+    "contributors": [
+      {
+        "contributorid": 2639,
+        "lastname": "Kempf",
+        "firstname": "Werner",
+        "initials": "",
+        "email": "",
+        "roleid": 200,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 154,
+    "bookId": "64",
+    "roleid": 202,
+    "roleTitle": "Co-editor(s)",
+    "contributors": [
+      {
+        "contributorid": 2598,
+        "lastname": "Duncan",
+        "firstname": "Lyn M.",
+        "initials": "",
+        "email": "",
+        "roleid": 202,
+        "position": 0
+      },
+      {
+        "contributorid": 4139,
+        "lastname": "Khoury",
+        "firstname": "Joseph D.",
+        "initials": "JD",
+        "email": "",
+        "roleid": 202,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 155,
+    "bookId": "64",
+    "roleid": 203,
+    "roleTitle": "Resp author",
+    "contributors": [
+      {
+        "contributorid": 4694,
+        "lastname": "Louissaint, Jr. ",
+        "firstname": "Abner",
+        "initials": "",
+        "email": "",
+        "roleid": 203,
+        "position": 0
+      }
+    ]
+  },
+  {
+    "pkroleId": 156,
+    "bookId": "64",
+    "roleid": 204,
+    "roleTitle": "Co-author(s)",
+    "contributors": [
+      {
+        "contributorid": 2695,
+        "lastname": "Sander",
+        "firstname": "Christian A.",
+        "initials": "",
+        "email": "",
+        "roleid": 204,
+        "position": 0
+      },
+      {
+        "contributorid": 2698,
+        "lastname": "Santucci",
+        "firstname": "Marco",
+        "initials": "",
+        "email": "",
+        "roleid": 204,
+        "position": 0
+      },
+      {
+        "contributorid": 2722,
+        "lastname": "Vergier",
+        "firstname": "Beatrice",
+        "initials": "",
+        "email": "",
+        "roleid": 204,
+        "position": 0
+      },
+      {
+        "contributorid": 2730,
+        "lastname": "Willemze",
+        "firstname": "Rein",
+        "initials": "",
+        "email": "",
+        "roleid": 204,
+        "position": 0
+      },
+      {
+        "contributorid": 4906,
+        "lastname": "Pimpinelli",
+        "firstname": "Nicola",
+        "initials": "",
+        "email": "",
+        "roleid": 204,
+        "position": 0
+      }
+    ]
+  }
+]
